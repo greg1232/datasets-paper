@@ -1,3 +1,6 @@
 matplotlib>=3.7
 wordcloud>=1.9
 datasets>=2.18
+torch>=2.1
+open_clip_torch>=2.24
+Pillow>=10.0
