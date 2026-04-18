@@ -1,29 +1,71 @@
 {
-  "n_captions": 6153,
-  "caption_length_words": {
-    "mean": 117.02974158946856,
-    "median": 116,
-    "std": 15.687980066225382,
-    "min": 63,
-    "max": 200
-  },
-  "paper_claimed_mean_length": 154,
-  "delta_vs_paper": -36.97025841053144,
-  "total_tokens": 720084,
-  "vocabulary_size": 11621,
-  "global_ttr": 0.016138394965031857,
-  "group_ttr": {
+  "config": {
+    "seed": 42,
     "group_size": 100,
-    "n_groups": 61,
-    "mean": 0.1633485648610943,
-    "median": 0.16326013513513513,
-    "std": 0.006927186165107736,
-    "tokens_per_group_mean": 11702.262295081968,
-    "unique_per_group_mean": 1911.7540983606557
+    "mtld_threshold": 0.72,
+    "hf_sample_size": 10000
   },
-  "mtld": {
-    "value": 98.60866843230028,
-    "threshold": 0.72
-  },
-  "seed": 42
+  "datasets": [
+    {
+      "name": "PeoplesVideo (8K subset)",
+      "n_captions": 6153,
+      "total_tokens": 720084,
+      "vocabulary_size": 11621,
+      "caption_length_words": {
+        "mean": 117.02974158946856,
+        "median": 116,
+        "std": 15.687980066225382,
+        "min": 63,
+        "max": 200
+      },
+      "global_ttr": 0.016138394965031857,
+      "group_ttr": {
+        "group_size": 100,
+        "n_groups": 61,
+        "mean": 0.1633485648610943,
+        "median": 0.16326013513513513,
+        "std": 0.006927186165107736,
+        "tokens_per_group_mean": 11702.262295081968,
+        "unique_per_group_mean": 1911.7540983606557
+      },
+      "mtld": {
+        "value": 98.60866843230028,
+        "threshold": 0.72
+      },
+      "paper_claimed_mean_length": 154,
+      "delta_vs_paper": -36.97025841053144
+    },
+    {
+      "name": "InternVid",
+      "n_captions": 0,
+      "error": "Dataset 'OpenGVLab/InternVid' is a gated dataset on the Hub. Visit the dataset page at https://huggingface.co/datasets/OpenGVLab/InternVid to ask for access."
+    },
+    {
+      "name": "OpenVid-1M",
+      "n_captions": 10000,
+      "total_tokens": 1042603,
+      "vocabulary_size": 11241,
+      "caption_length_words": {
+        "mean": 104.2603,
+        "median": 100.0,
+        "std": 26.24731117486132,
+        "min": 37,
+        "max": 281
+      },
+      "global_ttr": 0.010781668573752425,
+      "group_ttr": {
+        "group_size": 100,
+        "n_groups": 100,
+        "mean": 0.13556167070593855,
+        "median": 0.13541576644274367,
+        "std": 0.004274231944873491,
+        "tokens_per_group_mean": 10426.03,
+        "unique_per_group_mean": 1413.11
+      },
+      "mtld": {
+        "value": 39.70003662550447,
+        "threshold": 0.72
+      }
+    }
+  ]
 }
