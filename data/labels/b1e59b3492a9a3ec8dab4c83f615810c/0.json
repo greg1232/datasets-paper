@@ -1,0 +1,10 @@
+{
+    "video_id": "b1e59b3492a9a3ec8dab4c83f615810c",
+    "description": "",
+    "url": "./data/segments/3i5-ZukC--g-Scene-022.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be a presentation or tutorial on logging in Kubernetes workflows, specifically focusing on how original data is processed and correlated with an API server. The presenter, visible in a small inset window, explains the content displayed on the main screen, which shows a JSON object containing detailed log information. This includes timestamps, HTTP request details such as method, path, and response code, as well as Kubernetes-specific metadata like pod name, namespace, and container details. The presenter uses hand gestures to emphasize points while discussing the structure and significance of the logged data, likely aiming to educate viewers on how to interpret and utilize this information effectively within a Kubernetes environment."
+}

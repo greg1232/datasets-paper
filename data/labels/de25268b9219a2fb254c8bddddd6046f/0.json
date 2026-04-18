@@ -1,0 +1,10 @@
+{
+    "video_id": "de25268b9219a2fb254c8bddddd6046f",
+    "description": "",
+    "url": "./data/segments/3P1vSUbet40-Scene-0705.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be an educational lecture on implementing factorial calculations using recursion in C programming. The presenter, visible in a small inset at the bottom right corner, explains the code displayed on the screen. The main part of the screen shows a C program that includes a function `fact(double n)` designed to calculate the factorial of a given number `n` recursively. The function checks if `n` is less than or equal to 1 and returns 1 as the base case; otherwise, it returns `n * fact(n-1)`, effectively calling itself with decremented values until reaching the base case. The `main()` function prompts the user to input a value for `n`, calls the `fact()` function with this value, and then prints the result. An example output is shown where the user enters 4, and the program correctly calculates and displays 4! = 24.00. The presentation is likely aimed at teaching students the concept of recursion and its application in solving mathematical problems like factorials."
+}

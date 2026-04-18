@@ -1,0 +1,10 @@
+{
+    "video_id": "01984089924cc2627737c88a7c30d472",
+    "description": "",
+    "url": "./data/segments/3PUcfHvbCqA-Scene-012.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video features a presentation at EuroPython 2018 in Edinburgh, focusing on building an LSTM (Long Short-Term Memory) model using Python and Keras. The presenter, standing behind a podium, is explaining the code displayed on the screen. The code snippet includes importing necessary modules such as Dense, Activation, Dropout, and LSTM from Keras, followed by defining a function to create an LSTM model. This function sequentially adds layers to the model, including LSTM layers with specified parameters, dropout layers for regularization, and a final dense layer with linear activation. The model is compiled with mean squared error as the loss function and RMSprop as the optimizer. The presenter uses hand gestures to emphasize points while explaining the simplicity and functionality of the code."
+}

@@ -1,0 +1,10 @@
+{
+    "video_id": "9c854c7b82e2b7b31906e1aad27dc33b",
+    "description": "",
+    "url": "./data/segments/3kIRn6ImIRc-Scene-068.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video shows a terminal session where a user is interacting with a Kubernetes cluster, specifically focusing on configuring and deploying Fluent Bit for log collection. The user first creates a ConfigMap using a YAML file named `fluent-bit-configmap.yaml` with the command `kubectl create -f ./fluent-bit-configmap.yaml`. This action is confirmed by the terminal output indicating that the ConfigMap has been successfully created. Next, the user views the contents of the `fluent-bit-configmap.yaml` file using the `less` command. Following this, the user proceeds to create a DaemonSet for Fluent Bit using another YAML file named `fluent-bit-ds-minikube.yaml` with the command `kubectl create -f ./fluent-bit-ds-minikube.yaml`. Throughout the video, the right side of the screen displays logs from various system components, including timestamps, log levels, and messages related to different log files being tailed, such as `auth.log`, `lastlog`, `gpu-manager.log`, and others. These logs provide insights into the system's activities and the status of the Fluent Bit deployment process."
+}

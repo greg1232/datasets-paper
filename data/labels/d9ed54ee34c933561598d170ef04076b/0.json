@@ -1,0 +1,10 @@
+{
+    "video_id": "d9ed54ee34c933561598d170ef04076b",
+    "description": "",
+    "url": "./data/segments/3N5aKGuJpFU-Scene-104.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be an educational tutorial on cryogenic engineering, specifically focusing on the work done per unit mass of gas compressed during a thermodynamic process. The slide displayed is titled \"Tutorial - 2\" and includes a detailed table with various parameters such as pressure (p), temperature (T), enthalpy (h), and entropy (s) for different states labeled as 1, 2, and f. A thermodynamic diagram on the right side of the slide illustrates the process paths with constant temperature (T=const) and constant pressure (p=const) lines. The formula for calculating the work done per unit mass is shown as \\(-\\frac{W_c}{m} = T_1(s_1 - s_2) - (h_1 - h_2)\\), and a specific calculation example is provided, resulting in \\(463 \\, J/g\\). The content is presented by Prof. M D Atrey from the Department of Mechanical Engineering at IIT Bombay, indicating that this is part of an academic lecture series, likely aimed at students or professionals studying or working in the field of mechanical engineering."
+}

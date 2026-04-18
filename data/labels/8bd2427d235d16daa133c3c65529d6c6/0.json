@@ -1,0 +1,10 @@
+{
+    "video_id": "8bd2427d235d16daa133c3c65529d6c6",
+    "description": "",
+    "url": "./data/segments/3a0FD1177FA-Scene-033.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be an educational lecture on cryogenic engineering, specifically focusing on the Linde-Hampson System. The presenter is explaining the mathematical derivation of a key equation used in this system. Two primary equations are displayed on the screen: one defining 'y' as a function of enthalpies \\( h_1 \\), \\( h_2 \\), and \\( h_f \\), and another expressing \\( h_{1'} \\) in terms of \\( h_1 \\), \\( h_g \\), and a parameter \\( \\varepsilon \\). The presenter demonstrates how substituting the second equation into the first yields a more complex expression for 'y', which involves multiple enthalpy differences and the parameter \\( \\varepsilon \\). This step-by-step algebraic manipulation is crucial for understanding the thermodynamic principles underlying the Linde-Hampson refrigeration cycle. The lecture is part of a series by Prof. M D Atrey from the Department of Mechanical Engineering at IIT Bombay, as indicated at the bottom of the slide."
+}

@@ -1,0 +1,10 @@
+{
+    "video_id": "b0d22a99ff71d13b52d0672016c64ef7",
+    "description": "",
+    "url": "./data/segments/3mdAeLvlUxw-Scene-067.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video features a presentation at EuroPython 2018 in Edinburgh, focusing on a test run of a Recurrent Neural Network (RNN) for cryptocurrency price prediction. The presenter, standing behind a podium with a microphone, explains the code displayed on the screen. The code snippet involves importing a `CryptoLoader` class from a custom module, loading Bitcoin data into a DataFrame, extracting date and price values, and then using a function called `deep_predict` to generate predictions. The slide indicates that the test run was successful, suggesting that the RNN model has been implemented correctly and is functioning as intended. The setting appears to be a professional conference environment, with the presenter engaging the audience on technical aspects of machine learning and cryptocurrency analysis."
+}

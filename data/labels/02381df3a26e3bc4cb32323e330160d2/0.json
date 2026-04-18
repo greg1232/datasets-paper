@@ -1,0 +1,10 @@
+{
+    "video_id": "02381df3a26e3bc4cb32323e330160d2",
+    "description": "",
+    "url": "./data/segments/3gZZFVx-9-M-Scene-451.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be an educational tutorial on cryogenic engineering, presented by Prof. M D Atrey from the Department of Mechanical Engineering at IIT Bombay. The slide shown is titled \"Tutorial - 1\" and focuses on a specific formula used in cryogenic processes: \\( y = \\frac{(h_1 - h_2) - (1 - \\varepsilon)(h_1 - h_g)}{(h_1 - h_f) - (1 - \\varepsilon)(h_1 - h_g)} \\), with \\(\\varepsilon_3 = 0.90\\). Below the formula, there is a table with various thermodynamic properties such as pressure (p), temperature (T), enthalpy (h), and entropy (s) for different states labeled as 1, 2, f, and g. The values provided include pressures in bars, temperatures in Kelvin, enthalpies in joules per gram, and entropies in joules per gram Kelvin. This tutorial likely aims to guide students through solving problems related to cryogenic systems using these thermodynamic principles."
+}

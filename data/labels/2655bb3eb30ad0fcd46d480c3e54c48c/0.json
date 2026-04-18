@@ -1,0 +1,10 @@
+{
+    "video_id": "2655bb3eb30ad0fcd46d480c3e54c48c",
+    "description": "",
+    "url": "./data/segments/3kIRn6ImIRc-Scene-045.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video shows a computer screen with two terminal windows open, displaying configuration files and log outputs related to a logging system setup. On the left side, there is a configuration file named `output-loki.conf` which includes settings for sending logs to a Loki server, specifying details like the host IP address (192.168.49.1), port number (3100), and other parameters such as label keys and retry limits. Below this, there are parser configurations for Apache logs, using regular expressions to parse log entries. On the right side, the terminal window shows real-time log messages from a component called \"tailer,\" indicating that it has started tailing various log files such as `/var/log/syslog`, `/var/log/apport.log`, and others. The logs include timestamps, levels (info), and messages about seeking specific offsets within the log files. The video captures a moment where the user highlights a section of the `output-loki.conf` file, possibly for editing or reviewing purposes. The overall context suggests that the user is configuring and monitoring a logging system, likely for a Kubernetes environment, given the mention of \"K8S-Logging\" in the configuration."
+}

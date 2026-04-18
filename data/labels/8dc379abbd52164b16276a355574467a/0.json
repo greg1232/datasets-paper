@@ -1,0 +1,10 @@
+{
+    "video_id": "8dc379abbd52164b16276a355574467a",
+    "description": "",
+    "url": "./data/segments/3N5aKGuJpFU-Scene-119.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video features a presentation slide titled \"Our Experience,\" which highlights the benefits of a particular software solution for both developers and DevOps teams. The presenter, standing on the left side of the screen, explains the advantages under two main categories: \"Dev win\" and \"DevOps win.\" For developers, the slide emphasizes the convenience of using a single library for integration, eliminating the need for separate libraries for sending events and collecting performance counters, along with a consistent interface. For DevOps, it underscores the ability to change underlying components without developer support, the super light-weight nature of the solution (replacing five Logstash Medium instances with one Hekad medium instance and maintaining CPU utilization below 5%), and the implementation of a single data pipeline for all data. The Exotel logo is visible at the bottom left corner, indicating the company behind this technology."
+}

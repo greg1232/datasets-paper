@@ -1,0 +1,10 @@
+{
+    "video_id": "33cb348e634a6011743d54590484531a",
+    "description": "",
+    "url": "./data/segments/3gZZFVx-9-M-Scene-304.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video discusses the Linde-Hampson System, a fundamental concept in cryogenic engineering. Initially, it explains that in an ideal system, the change in enthalpy on two isobaric lines is equal, leading to a specific effectiveness formula. The effectiveness is defined as the ratio of the difference in enthalpies between points 1' and g to the difference between points 1 and g, or alternatively, the ratio of the difference between points 3' and 2 to the difference between points 3 and 2. The presentation then transitions to discuss the practical implications when assuming 100% effectiveness, where the isobaric heat exchange processes would ideally follow paths from point 2 to 3 and from point g to 1. However, it emphasizes that in actual systems, the heat exchange is not perfect, resulting in processes following paths from point 2 to 3' and from point g to 1'. This highlights the distinction between theoretical and real-world applications of the Linde-Hampson System."
+}

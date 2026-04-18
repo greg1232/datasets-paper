@@ -1,0 +1,10 @@
+{
+    "video_id": "35dcf79030fc90baa66459c47d9fdb44",
+    "description": "",
+    "url": "./data/segments/3i5-ZukC--g-Scene-020.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be an educational presentation on logging processing within Kubernetes, specifically focusing on how logs are read from the filesystem or Journald. The presenter is likely explaining the flow of log data from various pods (Pod 1 and Pod N) within a Kubernetes cluster. These logs are stored in the directory `/var/log/containers/*` and are then read by a logging agent, represented by a hummingbird icon. The logs are subsequently sent to different cloud services and storage solutions, such as Azure, AWS, and others, as indicated by the arrows pointing towards their respective logos. The master node, symbolized by a Kubernetes logo, oversees this process. The presenter seems to be detailing the technical aspects and architecture involved in managing and distributing logs across a Kubernetes environment."
+}

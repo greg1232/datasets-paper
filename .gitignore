@@ -1,0 +1,33 @@
+# Raw video data — too large for git, reproducible from source pipeline
+data/segments/
+data/peoples-video-8k-segments/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+*.egg-info/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# LaTeX build artefacts
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.bbl
+docs/*.blg
+docs/*.toc
+docs/*.fls
+docs/*.fdb_latexmk
+docs/*.synctex.gz
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/

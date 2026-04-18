@@ -1,0 +1,10 @@
+{
+    "video_id": "0116afc6bbf0db7e32811867fbea3611",
+    "description": "",
+    "url": "./data/segments/3P1vSUbet40-Scene-0089.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be an educational lecture on implementing factorial calculations using recursion in programming, likely in C. The presenter, visible in a small inset at the bottom right corner, is explaining the code displayed on the screen. The main part of the screen shows a C program that includes a function `fact(double n)` designed to calculate the factorial of a given number `n` recursively. The function checks if `n` is less than or equal to 1 and returns 1 if true; otherwise, it returns `n * fact(n-1)`, effectively breaking down the problem into smaller subproblems until reaching the base case. The `main()` function prompts the user to input a value for `n`, calls the `fact()` function with this value, and then prints the result. The presentation is from Walchand Institute of Technology, Solapur, as indicated at the bottom of the slide. The presenter seems to be guiding viewers through the logic and flow of the recursive function step by step."
+}

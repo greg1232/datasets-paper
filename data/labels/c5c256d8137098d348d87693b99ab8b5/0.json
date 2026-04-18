@@ -1,0 +1,10 @@
+{
+    "video_id": "c5c256d8137098d348d87693b99ab8b5",
+    "description": "",
+    "url": "./data/segments/3q3CZaZLMiY-Scene-114.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be a presentation or lecture on stream processing, focusing on the concept of events. The presenter is likely explaining how different types of data can be represented as events in a stream processing system. The screen shows three examples of event data structures, each with a timestamp (\"ts\") and additional fields such as temperature (\"temp\"), CPU usage (\"cpu\"), and server access statistics including host name, number of accesses, and errors. These examples illustrate the variety of data that can be processed in real-time using stream processing techniques. The presenter seems to be discussing the significance of these events and how they can be utilized for monitoring, analysis, or decision-making purposes in various applications."
+}

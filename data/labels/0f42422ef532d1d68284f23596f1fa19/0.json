@@ -1,0 +1,10 @@
+{
+    "video_id": "0f42422ef532d1d68284f23596f1fa19",
+    "description": "",
+    "url": "./data/segments/3T1bQ-ZAp1E-Scene-049.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video shows a computer screen with a terminal window open, displaying a series of log messages from a system or application. The logs appear to be related to a tailing routine that is monitoring various log files located in the /var/log directory. Each log entry includes a timestamp, a message indicating the start of a tail routine for a specific log file, and details such as the caller function and component involved. The terminal interface suggests that this is likely part of a system administration or software development process, where the user is monitoring or debugging the system's logging behavior. The environment appears to be a Linux-based system, given the directory structure and command-line interface. The video captures a static view of the terminal output, with no visible changes or interactions occurring during the frames shown."
+}

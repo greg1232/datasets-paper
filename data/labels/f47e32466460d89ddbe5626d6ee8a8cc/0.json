@@ -1,0 +1,10 @@
+{
+    "video_id": "f47e32466460d89ddbe5626d6ee8a8cc",
+    "description": "",
+    "url": "./data/segments/3qr2hGZ_rRg-Scene-063.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video showcases a development environment where a programmer is working on an embedded C++ application using Atollic TrueSTUDIO for STM32. The screen displays multiple windows, including the main code editor with a file named \"main.c,\" which contains initialization and configuration functions for a custom HID (Human Interface Device) project. The console window at the bottom indicates that the target device is not responding, suggesting potential debugging or connectivity issues. Additionally, there is a file explorer window open, showing a directory containing various files related to the HID_terminal application, such as executable files, configuration files, and DLLs. The user appears to be navigating through these files, possibly preparing to run or debug the application. The overall scene suggests a detailed and technical process of developing and troubleshooting firmware for an STM32 microcontroller-based HID device."
+}

@@ -1,0 +1,10 @@
+{
+    "video_id": "b51932b8b6a1103cbb7db544403fec48",
+    "description": "",
+    "url": "./data/segments/3_ZfZs-JPIg-Scene-140.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video showcases a tutorial or demonstration of using Grafana with Loki, a log aggregation system. The screen displays the Grafana interface, specifically the \"Explore\" tab where users can query and analyze logs. A \"Loki Cheat Sheet\" is prominently featured, providing guidance on how to write and execute Loki queries. The cheat sheet includes examples for selecting log streams, combining stream selectors, filtering search terms, counting log lines over time, and calculating rates. The user appears to be navigating through this cheat sheet, likely explaining each section and demonstrating how to apply these queries in practice. The video seems to be aimed at helping viewers understand and effectively use Loki within Grafana for log management and analysis."
+}

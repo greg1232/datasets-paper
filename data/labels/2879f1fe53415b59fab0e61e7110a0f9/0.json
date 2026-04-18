@@ -1,0 +1,10 @@
+{
+    "video_id": "2879f1fe53415b59fab0e61e7110a0f9",
+    "description": "",
+    "url": "./data/segments/3_ZfZs-JPIg-Scene-151.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video shows a computer screen with a terminal window open, displaying a list of HTTP requests and their corresponding responses. The left side of the screen is filled with a log of various GET requests, each followed by a timestamp, HTTP status code, and other details such as IP addresses and request paths. On the right side, a user is typing commands into the terminal. Initially, the user types \"docker-compose\" and then completes the command with \"up,\" indicating an intention to start or bring up services defined in a Docker Compose file. The environment suggests that the user is working on a development or testing setup, possibly related to web services or APIs, as evidenced by the numerous HTTP requests being logged. The overall context implies a focus on system administration or software development tasks involving containerized applications."
+}

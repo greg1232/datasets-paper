@@ -1,0 +1,10 @@
+{
+    "video_id": "005919753ad4780fd859e745885f7914",
+    "description": "",
+    "url": "./data/segments/3kf1gQNnb-8-Scene-121.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video shows a computer screen with a terminal window open, displaying various configuration files and log messages related to a logging system. The left side of the screen highlights a section of a configuration file named `output-loki.conf`, which includes settings for sending logs to a Loki server, such as the host IP address, port number, and label keys. The right side of the screen shows a continuous stream of log messages from a component called \"tailer,\" indicating that it is actively monitoring and processing logs from different paths on the system. The logs include timestamps, levels (such as \"info\"), and detailed messages about the tailer's activities, such as starting routines and seeking specific log files. The overall context suggests that this is a demonstration or tutorial on setting up and monitoring a logging infrastructure using tools like Loki and Fluent Bit."
+}

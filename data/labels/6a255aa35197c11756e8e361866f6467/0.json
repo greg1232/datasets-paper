@@ -1,0 +1,10 @@
+{
+    "video_id": "6a255aa35197c11756e8e361866f6467",
+    "description": "",
+    "url": "./data/segments/3_ldSlCUBFY-Scene-072.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be an educational tutorial on cryogenic engineering, specifically focusing on the significance of heat exchanger effectiveness for a Linde-Hampson system. The screen displays a table comparing two scenarios with different values of \u03b5 (effectiveness), set at 1 and 0.9, respectively. The table lists various parameters such as y, Wc/m, Wc/mf, and FOM (Figure of Merit), along with their percentage changes between the two scenarios. For instance, when \u03b5 is reduced from 1 to 0.9, y decreases by 71.62%, while FOM drops significantly by 72.57%. This highlights the critical impact of even small reductions in heat exchanger effectiveness on the overall performance of the system. The tutorial is presented by Prof. M D Atrey from the Department of Mechanical Engineering at IIT Bombay, as indicated at the bottom of the slide. The cursor movement suggests that the presenter is likely explaining or pointing out specific details within the table."
+}

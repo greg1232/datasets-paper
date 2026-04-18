@@ -1,0 +1,10 @@
+{
+    "video_id": "865c7bca996976c46baeebb14286e871",
+    "description": "",
+    "url": "./data/segments/3KyEoC29eqs-Scene-007.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be a presentation or tutorial on a data processing system, likely related to edge computing and cloud services. The presenter is explaining a flowchart that illustrates how hardware/software (HW/SW) events are collected and processed. The diagram shows multiple HW/SW components generating events, which are then aggregated by a \"Log Events Collector\" at the edge. These collected events are subsequently sent to a \"Stream Processor\" in the cloud for further analysis. The stream processor processes the data and stores it in databases, as indicated by the database icons. The presenter seems to be discussing the importance of this architecture in managing and analyzing real-time data efficiently. The setting includes a small inset of the presenter, who is seated in front of a bookshelf, adding a personal touch to the technical content."
+}

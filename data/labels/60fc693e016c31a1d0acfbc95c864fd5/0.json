@@ -1,0 +1,10 @@
+{
+    "video_id": "60fc693e016c31a1d0acfbc95c864fd5",
+    "description": "",
+    "url": "./data/segments/3iUTkJy84EY-Scene-036.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be an educational tutorial on cryogenic engineering, specifically focusing on calculating liquid yield as part of Tutorial 4. The slide displayed contains a formula for liquid yield, \\( y = \\frac{(h_1 - h_2) - (1 - \\varepsilon)(h_1 - h_g)}{(h_1 - h_f) - (1 - \\varepsilon)(h_1 - h_g)} \\), with \\(\\varepsilon\\) given as 0.90. A table is presented with various thermodynamic properties such as pressure (p), temperature (T), enthalpy (h), and entropy (s) for different states labeled as 1, 2, f, and g. The values provided include pressures in bars, temperatures in Kelvin, enthalpies in joules per gram, and entropies in joules per gram Kelvin. The calculation shown at the bottom of the slide uses these values to determine the liquid yield, resulting in a value of 0.021. The tutorial is presented by Prof. M D Atrey from the Department of Mechanical Engineering at IIT Bombay, as indicated at the bottom of the slide. The video likely involves a step-by-step explanation of how to use the given formula and data to calculate the liquid yield in cryogenic processes."
+}

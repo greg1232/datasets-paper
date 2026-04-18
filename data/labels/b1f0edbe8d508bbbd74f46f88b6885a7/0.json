@@ -1,0 +1,10 @@
+{
+    "video_id": "b1f0edbe8d508bbbd74f46f88b6885a7",
+    "description": "",
+    "url": "./data/segments/3P1vSUbet40-Scene-0701.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video presents a detailed overview of the LF Networking 5G Super Blueprint, which is hosted by The Linux Foundation and LF Edge. The blueprint is divided into four main sections: User Edge, Service Provider Edge, Cloud/Core, and Management & Orchestration. At the User Edge, it highlights wireless devices and constrained device edge components like Zephyr. The Service Provider Edge includes Smart Edge Apps and 5G Edge Apps, with platforms such as Fledge and EdgeX Foundry. The Cloud/Core section focuses on 5G Network Functions and Applications, featuring Magma for the cloud/operator core, along with cloud infrastructure elements like Docker, KVM, Ceph, OvS, and DPDK. Finally, the Management & Orchestration section covers orchestration tools like ONAP, infrastructure management solutions like Anuket, and SDN controllers like OpenDaylight and Tungsten Fabric. The presenter explains each component, emphasizing their roles in building a comprehensive 5G network architecture."
+}

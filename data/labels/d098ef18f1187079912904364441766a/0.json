@@ -1,0 +1,10 @@
+{
+    "video_id": "d098ef18f1187079912904364441766a",
+    "description": "",
+    "url": "./data/segments/3Z229_lKLpk-Scene-038.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video features a presentation at EuroPython 2018 in Edinburgh, where a speaker is discussing a case study about a company experiencing rapid user growth. The slide on the screen highlights that their userbase has \"exploded,\" with a significant number of users accessing their platform daily. Each user is running multiple machine learning (ML) algorithms concurrently, which has led to increased demand for computational resources. The company attempted to address this issue by scaling up to larger and larger Amazon Web Services (AWS) servers. The presenter, dressed in a suit, gestures with his hands as he explains the challenges faced by the company due to this sudden surge in usage. The setting suggests a professional conference environment focused on Python programming and data science."
+}

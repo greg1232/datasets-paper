@@ -1,0 +1,10 @@
+{
+    "video_id": "2b16fb691aa53909c56a3ef8be2d3ca2",
+    "description": "",
+    "url": "./data/segments/3iUTkJy84EY-Scene-054.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be a screen recording of a terminal session, likely from a presentation or tutorial given on October 28, 2020, as indicated by the date and time in the top right corner. The terminal window displays a list of HTTP GET requests with various endpoints and their corresponding response codes (404, 500, 200, etc.), suggesting that the presenter is demonstrating server logs or API testing. The timestamps next to each request show they were made within a short span of time, indicating either automated testing or a live demonstration of an application's behavior under different conditions. The presenter, visible in a small inset window in the top right corner, seems to be explaining the content while navigating through the terminal output. The environment suggests a technical or development-focused context, possibly related to web services or network protocols."
+}

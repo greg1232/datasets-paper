@@ -1,0 +1,10 @@
+{
+    "video_id": "359c6c70b80c74ca2d068589352ceec3",
+    "description": "",
+    "url": "./data/segments/3gZZFVx-9-M-Scene-130.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video showcases a software interface, likely STM32CubeMX, used for configuring microcontroller settings, specifically for an STM32F446ZETx LQFP144 microcontroller. The screen displays various configuration options on the left side, including peripherals such as ADCs, DACs, and timers, along with clock configurations and middleware options like FATFS and FreeRTOS. On the right side, there is a graphical representation of the microcontroller's pinout, highlighting different pins and their functions. As the video progresses, a specific pin labeled \"PC13\" is highlighted, indicating its function as a reset state. This suggests that the user is demonstrating how to configure or select specific pins and their functionalities within the microcontroller setup process. The bottom section lists the selected MCU series and lines, confirming the chosen microcontroller model and package type."
+}

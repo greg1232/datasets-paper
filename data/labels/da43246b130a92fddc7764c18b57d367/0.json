@@ -1,0 +1,10 @@
+{
+    "video_id": "da43246b130a92fddc7764c18b57d367",
+    "description": "",
+    "url": "./data/segments/3gZZFVx-9-M-Scene-417.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video showcases a terminal session where a user is configuring and interacting with a Kubernetes environment, specifically focusing on Fluent Bit for log management. Initially, the screen displays a YAML configuration file named `fluent-bit-configmap.yaml`, which outlines various settings for Fluent Bit, including input, filter, and output configurations. The user then executes a command to create a ConfigMap using this YAML file, as indicated by the terminal output confirming the creation of `configmap/fluent-bit-config`. Following this, the user attempts to view the contents of a file named `fluent-bit` using the `less` command. Throughout the video, another terminal window on the right side continuously streams log messages from a Fluent Bit instance, providing real-time updates on the status and activities of the logging system. The timestamp and date displayed in the top-right corner indicate that the actions are taking place on October 28, 2020, at around 00:22. The overall context suggests a demonstration or tutorial on setting up and monitoring Fluent Bit within a Kubernetes cluster."
+}

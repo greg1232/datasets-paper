@@ -1,0 +1,10 @@
+{
+    "video_id": "39551ef4cbe84ff5361f19557eb28e93",
+    "description": "",
+    "url": "./data/segments/3gZZFVx-9-M-Scene-376.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video shows a terminal session on a computer screen, likely during a Kubernetes-related presentation or tutorial, as indicated by the directory path \"/kubecon_us_2020\". The user is interacting with Kubernetes using the `kubectl` command-line tool. Initially, the user creates a ConfigMap named \"fluent-bit-config\" from a YAML file located in the current directory. After executing this command, the user views the contents of the \"fluent-bit-configmap.yaml\" file using the `less` command. The right side of the screen displays log messages from various system components, including timestamps, log levels, and detailed information about different log files being tailed. The logs indicate that the system is actively monitoring and processing various log files, such as auth.log, gpu-manager.log, and others, suggesting a focus on logging and monitoring within a Kubernetes environment. The video captures the process of configuring and managing logging infrastructure in a Kubernetes cluster."
+}

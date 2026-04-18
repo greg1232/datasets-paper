@@ -1,0 +1,10 @@
+{
+    "video_id": "21a3a25bb0d64a13cdfe646e04b94626",
+    "description": "",
+    "url": "./data/segments/3kIRn6ImIRc-Scene-057.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video shows a terminal session where a user is interacting with a Kubernetes cluster, specifically focusing on setting up Fluent Bit for log collection and processing. The user executes commands to create a ConfigMap using a YAML file named `fluent-bit-configmap.yaml` and then creates a DaemonSet using another YAML file named `fluent-bit-ds-minikube.yaml`. The terminal output indicates that these operations were successful, as both the ConfigMap and DaemonSet are created without errors. On the right side of the screen, there is a continuous stream of log messages from a component named `promtail`, which appears to be monitoring various system logs such as `/var/log/dpkg.log`, `/var/log/boot.log`, and others. These logs show timestamps, log levels, and detailed messages indicating the status of different log files being monitored. Additionally, there are logs from a component named `loki`, which seems to be involved in uploading tables and managing databases related to log indexing. The overall context suggests that the user is configuring and monitoring a logging infrastructure within a Kubernetes environment."
+}

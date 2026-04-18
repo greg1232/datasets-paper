@@ -1,0 +1,10 @@
+{
+    "video_id": "706f81482fffdc989e4673ec205bc2af",
+    "description": "",
+    "url": "./data/segments/3EB6XN8KrzI-Scene-129.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video showcases a user interacting with Grafana, specifically exploring logs from a job named \"fluent-bit.\" The interface displays a log graph and a list of log entries, each timestamped and containing various HTTP request details such as URLs, response codes, and times. The user appears to be adjusting settings related to deduplication, as indicated by the highlighted tooltip explaining the \"None\" option for de-duplication of successive lines with identical punctuation and whitespace. The environment suggests a monitoring or debugging scenario where the user is analyzing system logs to identify patterns or issues. The video captures a moment of configuration within the Grafana dashboard, likely part of a larger process of data analysis or troubleshooting."
+}

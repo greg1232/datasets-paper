@@ -1,0 +1,10 @@
+{
+    "video_id": "aeb2f3ec7f33234aa600ff3c558e3327",
+    "description": "",
+    "url": "./data/segments/3EB6XN8KrzI-Scene-109.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be an educational tutorial on cryogenic engineering, specifically focusing on the work done per unit mass of gas during compression. The slide titled \"Tutorial - 2\" displays a thermodynamic process diagram with various paths representing constant temperature (T=const) and constant pressure (p=const) processes. A formula is presented: \\(-\\frac{W_c}{m} = T_1(s_1 - s_2) - (h_1 - h_2)\\), which calculates the work done per unit mass of gas compressed. The instructor likely explains this formula and its application in the context of the diagram, highlighting the relationships between temperature, entropy, enthalpy, and pressure during different stages of the process. The visual elements, such as the arrows and labeled points on the graph, help illustrate the changes in state variables throughout the compression cycle."
+}

@@ -1,0 +1,10 @@
+{
+    "video_id": "d30cab36e2ce4f772914a89d2484ce9c",
+    "description": "",
+    "url": "./data/segments/3kIRn6ImIRc-Scene-065.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video shows a computer screen displaying a Grafana dashboard, specifically focusing on log data from a system named \"fluent-bit.\" The interface is set to explore mode, with a query being executed that retrieves logs from the past hour. The logs are timestamped and contain various HTTP request details, including IP addresses, request methods, URLs, response codes, and timestamps. The selected log entry in the middle of the screen provides detailed information about a specific request, such as the IP address \"157.6.7.97,\" the requested URL \"/yarkae,\" and the response code \"400.\" The video appears to be part of a tutorial or demonstration, possibly explaining how to analyze and troubleshoot HTTP requests using Grafana and Loki for log management. The user interface elements and the layout suggest that the viewer is being guided through the process of navigating and interpreting log data within this tool."
+}

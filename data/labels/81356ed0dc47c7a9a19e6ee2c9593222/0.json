@@ -1,0 +1,10 @@
+{
+    "video_id": "81356ed0dc47c7a9a19e6ee2c9593222",
+    "description": "",
+    "url": "./data/segments/3rK3uaJF1Ds-Scene-024.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video showcases the process of generating code using STM32CubeMX software for a custom HID (Human Interface Device) project on an STM32F446ZETx microcontroller. Initially, the screen displays a detailed clock configuration diagram, illustrating various clock sources, multiplexers, and their respective frequencies. A pop-up window appears, indicating that the code has been successfully generated and stored in a specified directory. The user then proceeds to generate a TrueSTUDIO project, as indicated by a progress bar labeled \"Generating TrueSTUDIO project...\" which fills up, suggesting the completion of this step. Throughout the video, the focus remains on the intricate clock settings and the seamless integration of the generated code into the development environment, highlighting the ease of use and functionality of STM32CubeMX in embedded system design."
+}

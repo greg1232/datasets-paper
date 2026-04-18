@@ -1,0 +1,10 @@
+{
+    "video_id": "0c5a7f44d85d0b69800291372947e43e",
+    "description": "",
+    "url": "./data/segments/3jaAcpqJEbg-Scene-013.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be an educational or instructional session on logging in Kubernetes workflows, specifically focusing on container streaming logs over stdout/stderr. The presenter, visible in a small inset window, is explaining the process while gesturing for emphasis. The main content of the screen shows a diagram labeled \"Master\" with a Kubernetes logo and a section titled \"Metadata / Context,\" which lists various attributes such as Host, Labels, Pod Name, Pod ID, Container Name, and Annotations. Below this, there is a JSON log entry example that includes details like IP address, timestamp, HTTP request information, stream type (stdout), and time. The presenter seems to be detailing how these logs are structured and managed within a Kubernetes environment, likely aimed at developers or IT professionals looking to understand or improve their logging practices in containerized applications."
+}

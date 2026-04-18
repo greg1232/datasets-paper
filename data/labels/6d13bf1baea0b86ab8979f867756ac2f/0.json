@@ -1,0 +1,10 @@
+{
+    "video_id": "6d13bf1baea0b86ab8979f867756ac2f",
+    "description": "",
+    "url": "./data/segments/3Wcw7UNaLks-Scene-331.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video shows a computer screen with two terminal windows open, likely during a live coding or demonstration session. On the left side, there is a log of HTTP requests being processed, displaying various GET requests along with their corresponding status codes and timestamps. These logs indicate different endpoints being accessed, some resulting in 404 (Not Found) errors, while others return 200 (OK) or 500 (Internal Server Error) responses. On the right side, a user is executing a `docker-compose up` command to start several Docker containers named `kubcon_us_2020_loki`, `kubcon_us_2020_promtail`, and `kubcon_us_2020_grafana`. The process of starting these containers is captured as it progresses, suggesting that the user is setting up a monitoring or logging system using Loki, Promtail, and Grafana for the KubeCon US 2020 event. The timestamp on the screen indicates that this activity is taking place on October 28, 2020, at around 2:21 AM."
+}

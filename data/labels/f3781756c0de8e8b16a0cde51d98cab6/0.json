@@ -1,0 +1,10 @@
+{
+    "video_id": "f3781756c0de8e8b16a0cde51d98cab6",
+    "description": "",
+    "url": "./data/segments/3jJnVyAhyIM-Scene-019.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be a presentation on \"OPS-5G TA4 \u2013 Principled Programmable Defenses,\" focusing on transforming programmability from a potential threat vector into an enabler of security at scale. The presenter, visible in a small inset window, discusses the objective of enhancing security through programmable defenses. The slide includes a diagram illustrating the process of recruitment, where individuals or systems are recruited by a \"Wrangler\" and become part of a botnet. This botnet then communicates with a Master Attack (C&C) Server via Command and Control (C&C) Traffic, Heartbeat Traffic (\"Beaconing\"), and Attack Traffic, ultimately targeting attacked systems. Additionally, there is a world map showing various attack patterns and data flows, emphasizing the global nature of these cyber threats. Logos for Georgia Tech and Peraton indicate their involvement in this initiative, along with affiliations to The Linux Foundation, OLF Networking, and OLF Edge. The presentation aims to address cybersecurity challenges in the context of 5G technology."
+}

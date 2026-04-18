@@ -1,0 +1,10 @@
+{
+    "video_id": "3dc5f878f42b0981eab214c6c08d8585",
+    "description": "",
+    "url": "./data/segments/3_ZfZs-JPIg-Scene-277.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video features a presenter at a EuroPython conference in Edinburgh, dated 23-29 July 2018. The presenter is standing behind a podium, gesturing with his right hand as he explains a slide titled \"PRODUCER - STEP 2: CELERIZE IT.\" The slide displays a block of Python code that involves importing modules and using a `CryptoLoader` class to get cryptocurrency prices and times. The code then sends tasks for distributed computing using Celery's `delay()` method and waits for results, printing them out. The presenter appears to be discussing the process of integrating Celery into a producer-consumer model for efficient task management and distribution. The setting suggests an educational or instructional session aimed at developers interested in Python and distributed computing."
+}

@@ -1,0 +1,10 @@
+{
+    "video_id": "e17ff3ec16c3ebc34473cc1393aabcfd",
+    "description": "",
+    "url": "./data/segments/3T1bQ-ZAp1E-Scene-075.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be an educational tutorial on cryogenic engineering, specifically focusing on the work done per unit mass of gas during compression. The slide titled \"Tutorial - 4\" presents a formula for calculating this work: \\(-\\frac{W_c}{m} = T_1(s_1 - s_2) - (h_1 - h_2)\\). A table is provided with various parameters such as pressure (p), temperature (T), enthalpy (h), and entropy (s) for different states labeled as 1, 2, f, and g. The values include pressures in bars, temperatures in Kelvin, enthalpies in joules per gram, and entropies in joules per gram-Kelvin. An example calculation is shown at the bottom, demonstrating how to use the given formula with specific values from the table to find the work done, resulting in \\(463 \\, J/g\\). The presentation is by Prof. M D Atrey from the Department of Mechanical Engineering at IIT Bombay, as indicated at the bottom of the slide."
+}

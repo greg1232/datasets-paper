@@ -1,0 +1,10 @@
+{
+    "video_id": "9dc3532bd3f858f05db04c5c51315726",
+    "description": "",
+    "url": "./data/segments/3_ZfZs-JPIg-Scene-400.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video appears to be an educational or instructional presentation on creating a USB Custom HID (Human Interface Device) device. The slide shown is titled \"USB Custom HID Device lab\" and outlines key points about using interrupt transfers for data transfer, noting that this method has limited throughput compared to CDC bulk (64 kB/s). It also mentions that the packet size is fixed and that no additional driver is required on Microsoft Windows systems. The slide concludes by introducing an example that demonstrates how to create a USB Custom HID device capable of echoing communication from the host side. This suggests that the video will likely delve into technical details and practical steps for developing such a device, possibly aimed at developers or engineers working with USB interfaces."
+}

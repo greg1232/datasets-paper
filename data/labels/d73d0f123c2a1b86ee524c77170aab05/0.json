@@ -1,0 +1,10 @@
+{
+    "video_id": "d73d0f123c2a1b86ee524c77170aab05",
+    "description": "",
+    "url": "./data/segments/3P1vSUbet40-Scene-0490.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video presents a case study on Android, highlighting its structure and licensing framework. It begins by stating that Android is a Linux-derived platform specifically designed for mobile devices. The presentation then delves into the technical details, explaining that Android is built upon the Linux kernel, which is licensed under GPLv2. Additionally, it incorporates some pre-existing userland components, a mix of GPLv2, LGPLv2, and BSD licenses, along with a new userspace environment that falls under the Apache 2 license. Each component within the Android system is meticulously labeled with its respective license to ensure compliance and transparency. This segment likely serves as an educational overview for viewers interested in understanding the legal and technical foundations of the Android operating system."
+}

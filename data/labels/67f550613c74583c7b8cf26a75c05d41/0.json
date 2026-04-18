@@ -1,0 +1,10 @@
+{
+    "video_id": "67f550613c74583c7b8cf26a75c05d41",
+    "description": "",
+    "url": "./data/segments/3gZZFVx-9-M-Scene-116.mp4",
+    "frame_number": 0,
+    "interval_seconds": 1,
+    "batch_size": 2,
+    "batch_step": 2,
+    "caption": "The video showcases a software development environment, specifically Atollic TrueSTUDIO for STM32, where a programmer is working on a USB device class library project named \"CustomHID.\" The focus is on the file `usbd_custom_hid_if.c`, which contains code related to custom HID (Human Interface Device) functionality. Initially, the programmer is seen navigating through the code, possibly debugging or editing functions such as `CUSTOM_HID_OutEvent_FS`. A context menu appears, suggesting that the programmer might be exploring code completion options or function definitions. As the video progresses, the view shifts to another section of the code, highlighting exported variables and private function prototypes. The console window at the bottom indicates that a debugger was connected but then lost connection, suggesting that the programmer may have been testing the code's functionality. The overall scene reflects a typical coding session involving embedded systems programming with an emphasis on USB device communication."
+}
