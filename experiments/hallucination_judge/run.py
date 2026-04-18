@@ -181,8 +181,8 @@ def run_judge(
 
 def summarize(dataset_name: str, pairs: list[dict], verdicts: list[dict]) -> dict:
     n_valid, n_error, n_hallucinated = 0, 0, 0
-    total_claims = 0
-    caption_lens = []
+    total_flagged_claims = 0
+    caption_lens: list[int] = []
     for p, v in zip(pairs, verdicts):
         if v is None or "error" in v:
             n_error += 1
@@ -191,8 +191,14 @@ def summarize(dataset_name: str, pairs: list[dict], verdicts: list[dict]) -> dic
         caption_lens.append(len(p["caption"].split()))
         if v.get("has_hallucination"):
             n_hallucinated += 1
-            total_claims += len(v.get("hallucinations", []))
+            total_flagged_claims += len(v.get("hallucinations", []))
     rate = (n_hallucinated / n_valid) if n_valid else 0.0
+    total_words = sum(caption_lens)
+    # Length-normalized hallucination metric — flagged claims per 100 caption
+    # words. Much fairer across datasets with very different caption lengths.
+    claims_per_100w = (
+        100 * total_flagged_claims / total_words if total_words else 0.0
+    )
     return {
         "dataset": dataset_name,
         "n_submitted": len(pairs),
@@ -200,8 +206,11 @@ def summarize(dataset_name: str, pairs: list[dict], verdicts: list[dict]) -> dic
         "n_errors": n_error,
         "n_with_hallucination": n_hallucinated,
         "hallucination_rate": rate,
+        "total_flagged_claims": total_flagged_claims,
+        "total_caption_words": total_words,
+        "flagged_claims_per_100_words": claims_per_100w,
         "avg_claims_per_hallucinated_caption": (
-            total_claims / n_hallucinated if n_hallucinated else 0.0
+            total_flagged_claims / n_hallucinated if n_hallucinated else 0.0
         ),
         "caption_length_mean": (
             statistics.mean(caption_lens) if caption_lens else 0.0
@@ -220,6 +229,7 @@ def write_comparison(summaries: list[dict], output_dir: Path) -> None:
                 "N Hallucinated",
                 "Hallucination Rate",
                 "Avg Claims/Hallucinated",
+                "Flagged Claims/100w",
                 "Mean Caption Length",
             ]
         )
@@ -232,19 +242,22 @@ def write_comparison(summaries: list[dict], output_dir: Path) -> None:
                     s["n_with_hallucination"],
                     f"{s['hallucination_rate']:.3f}",
                     f"{s['avg_claims_per_hallucinated_caption']:.2f}",
+                    f"{s['flagged_claims_per_100_words']:.2f}",
                     f"{s['caption_length_mean']:.1f}",
                 ]
             )
 
     lines = [
-        "| Dataset | N | Valid | Hallucinated | Rate | Claims/HC | Mean len |",
-        "|---|---:|---:|---:|---:|---:|---:|",
+        "| Dataset | N | Valid | Hallucinated | Caption rate | Claims/HC | "
+        "Claims/100w | Mean len |",
+        "|---|---:|---:|---:|---:|---:|---:|---:|",
     ]
     for s in summaries:
         lines.append(
             f"| {s['dataset']} | {s['n_submitted']} | {s['n_valid']} | "
             f"{s['n_with_hallucination']} | {s['hallucination_rate']:.2%} | "
             f"{s['avg_claims_per_hallucinated_caption']:.2f} | "
+            f"{s['flagged_claims_per_100_words']:.2f} | "
             f"{s['caption_length_mean']:.1f} |"
         )
     with open(output_dir / "comparison.md", "w") as f:
