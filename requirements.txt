@@ -6,3 +6,4 @@ open_clip_torch>=2.24
 Pillow>=10.0
 remotezip>=0.12
 yt-dlp>=2024.10
+anthropic>=0.40
