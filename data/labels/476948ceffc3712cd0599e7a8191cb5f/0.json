@@ -1,10 +1,15 @@
 {
-    "video_id": "476948ceffc3712cd0599e7a8191cb5f",
-    "description": "",
-    "url": "./data/segments/3iUTkJy84EY-Scene-246.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video captures a formal session in what appears to be a legislative assembly or parliament. Rows of individuals, dressed in traditional and formal attire, are seated in tiered wooden benches, attentively listening to proceedings. The participants exhibit various expressions of focus and engagement, with some leaning forward, others resting their chins on their hands, and a few looking around. The setting is characterized by ornate wooden paneling and microphones placed in front of each seat, indicating an environment designed for speeches and discussions. The atmosphere suggests a serious and structured event, likely involving important deliberations or debates."
+  "video_id": "476948ceffc3712cd0599e7a8191cb5f",
+  "url": "./data/segments/3iUTkJy84EY-Scene-246.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.5,
+    2.5,
+    3.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with black hair and glasses is speaking against a plain dark gray background. She is wearing a light green tunic with floral embroidery and a dark decorative border around the neckline, a thin necklace, and a silver bracelet on her left wrist. As she speaks, she gestures with her hands, raising her left hand and moving her right hand slightly. A small logo featuring a circular symbol and the text \"NPTEL\" is visible in the bottom left corner of the scene. Throughout the sequence, the woman remains in a centered medium shot, maintaining her position while her facial expressions and hand gestures shift slightly to accompany her speech. The lighting is consistent across the frames, focusing on the woman while the background remains dark and featureless."
 }

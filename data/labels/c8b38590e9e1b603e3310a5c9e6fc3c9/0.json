@@ -1,10 +1,15 @@
 {
-    "video_id": "c8b38590e9e1b603e3310a5c9e6fc3c9",
-    "description": "",
-    "url": "./data/segments/3N5aKGuJpFU-Scene-095.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video appears to be a segment from a political discussion show titled \"Plus Politics\" on PlusTV, focusing on a statement made by Bola Tinubu that \"Nigeria Needs Me.\" The host, dressed in a suit and tie, is seated in a studio with a backdrop featuring a world map and the show's logo. He is engaged in conversation, gesturing with his hands as he speaks. On the right side of the screen, there is an inset image of Olusola Oyekanmi, a political analyst based in Lagos, who is participating via phone. The lower third of the screen displays the show's title, the topic being discussed, and information on how viewers can watch the broadcast online or on specific TV channels. The overall setting suggests a formal and informative discussion on current political issues in Nigeria."
+  "video_id": "c8b38590e9e1b603e3310a5c9e6fc3c9",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-095.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.08,
+    3.24,
+    5.4,
+    7.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a red textured cap and a patterned dark shirt with pink accents is speaking. He is positioned against a plain, light-colored wall in an indoor setting. A logo for \"plustv\" is visible in the upper left corner of the frames. In the top frames, white text on a dark background reads \"PLUS POLI,\" and a white banner displays the quote \"NIGERIA NEEDS ME \u2013 BOLA TINUBU.\" Below this banner, a red bar contains the text \"SUBSCRIBE\" and the URL \"WWW.YOUTUBE.COM/PLUSTVAFRICA\". In the bottom frames, the lower banner changes to display the name \"FRANCIS CHILAKA\" and the title \"POLITICAL ANALYST.\" At the bottom, a red bar contains \"FOLLOW US\" alongside a YouTube URL and social media icons with the handle \"PLUSTVAFRICA\". Across the sequence, the man continues to speak, with his facial expressions and head position shifting slightly as he talks."
 }

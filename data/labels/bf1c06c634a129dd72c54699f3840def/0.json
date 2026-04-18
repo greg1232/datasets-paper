@@ -1,0 +1,15 @@
+{
+  "video_id": "bf1c06c634a129dd72c54699f3840def",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.173,
+    0.519,
+    0.865,
+    1.21
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with light-colored hair, glasses, and a thin mustache sits in a room, wearing white over-ear headphones and a navy blue patterned shirt with a gold chain necklace. He is positioned in front of a microphone and a framed blue poster that features the number \"20\" and a logo of a horse. To his side, a Christmas tree decorated with colorful blue, green, and red lights is partially visible. Across the sequence, the man is talking, shifting his facial expressions from a closed-mouth smile to an open-mouthed laugh. His gaze remains directed forward toward the camera. The background setting remains static, while the man's mouth opens wider and his expression becomes more animated as the sequence progresses, conveying a sense of amusement or excitement."
+}

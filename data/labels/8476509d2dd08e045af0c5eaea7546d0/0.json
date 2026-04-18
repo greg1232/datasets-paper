@@ -1,10 +1,15 @@
 {
-    "video_id": "8476509d2dd08e045af0c5eaea7546d0",
-    "description": "",
-    "url": "./data/segments/3phuyH7Y05U-Scene-029.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video appears to be a presentation or lecture focused on systems thinking and its applications, as indicated by the visual diagram displayed on the screen. The diagram is a complex network of interconnected nodes, each representing different concepts such as \"model sharing,\" \"what people do,\" \"buying & selling,\" \"fight club,\" \"leadership,\" and \"how people think.\" These nodes are linked with arrows, suggesting relationships and processes between them. A central node labeled \"moments\" seems to be the focal point, connecting various aspects of the system. The presenter, Gene Bellinger, is visible in a small window, wearing headphones and speaking, likely explaining the significance of the diagram and the concepts it represents. The overall theme revolves around understanding and addressing societal issues through systems thinking, as highlighted by the book cover \"Platform for Change\" by Stafford Beer, which is also part of the presentation."
+  "video_id": "8476509d2dd08e045af0c5eaea7546d0",
+  "url": "./data/segments/3phuyH7Y05U-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.808,
+    2.425,
+    4.042,
+    5.658
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a scene from an animated show featuring Homer Simpson and three police officers. The officers wear dark blue uniforms and matching caps with gold badges. Homer, wearing a white collared shirt and blue pants, stands behind vertical bars, looking distressed with his mouth open. He is positioned closely next to a police officer who is gripping the bars. The scene then cuts abruptly to a stylized digital map of the world at night. The landmasses are outlined in glowing blue light, while urban areas are represented by clusters of bright yellow and orange lights. Thin blue lines of connectivity stretch across the oceans, linking various regions of the globe. The camera perspective on the map remains static, showing the global network of light and connection against a dark blue background."
 }

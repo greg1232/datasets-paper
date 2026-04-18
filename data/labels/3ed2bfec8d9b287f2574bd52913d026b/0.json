@@ -1,10 +1,15 @@
 {
-    "video_id": "3ed2bfec8d9b287f2574bd52913d026b",
-    "description": "",
-    "url": "./data/segments/3aGaSqbrfVA-Scene-064.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video appears to be a news segment from PlusTV, focusing on political discussions under the title \"Nigeria Needs Me - Bola Tinubu.\" The left side of the screen shows a man wearing a red cap and a patterned shirt, who seems to be speaking or being interviewed. On the right side, there is an image of two men seated on red couches, both dressed in traditional attire and wearing face masks. They appear to be engaged in a conversation in a formal setting, possibly during a meeting or interview. The text at the bottom indicates that the segment can be watched on DStv channel 408 and StarTimes channel 308. The overall context suggests a discussion about political leadership and its relevance to Nigeria's current needs."
+  "video_id": "3ed2bfec8d9b287f2574bd52913d026b",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.68,
+    2.04,
+    3.399,
+    4.759
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on the mechanical components of a piece of machinery, featuring a large, silver, circular metal housing with radiating fins and a central bolt. A black belt wraps around a pulley system adjacent to this housing. To the right, a curved, metallic grey shield is visible. A person's hand enters the frame from the left, with fingers pointing toward a smaller metal component located below the main silver housing. As the sequence progresses, the hand moves closer to the equipment, with the fingers shifting positions to more precisely indicate a specific area of the machinery. The camera remains stationary throughout the sequence, maintaining a tight focus on the metallic parts and the interaction of the hand with the equipment. There are no visible logos, on-screen text, or other people present in the scene."
 }

@@ -1,10 +1,15 @@
 {
-    "video_id": "4e20a54c0a67f4e8e7ed7a51c9a303b7",
-    "description": "",
-    "url": "./data/segments/3F2rz23IKUk-Scene-020.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video features a woman named Nancy Ramya, who is engaged in a conversation or interview. She is wearing large headphones and a striped shirt, suggesting she might be participating in a virtual meeting or recording a podcast. The background includes a window with curtains, indicating that she is likely in a home or office setting. Throughout the video, Nancy appears to be speaking animatedly, as her mouth moves and her facial expressions change, conveying enthusiasm or emphasis on the points she is making. The overall atmosphere of the video suggests a professional yet casual interaction."
+  "video_id": "4e20a54c0a67f4e8e7ed7a51c9a303b7",
+  "url": "./data/segments/3F2rz23IKUk-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.455,
+    10.365,
+    17.275,
+    24.185
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with medium-length brown hair and glasses stands in a plain indoor setting, likely a classroom or lecture hall, positioned in front of a white wall. He wears a black t-shirt featuring a yellow graphic of a face and the partially legible text \"Knuth\". A blue lanyard with a white identification badge hangs around his neck. Throughout the sequence, he speaks and gestures with his hands to emphasize his points. He begins with his hands raised and open, then lowers them slightly as he continues talking. He briefly turns his head to the side, looking away from the center, before returning his gaze forward and gesturing again with his right hand extended. In the foreground, the top of a black office chair is visible. The background remains static, consisting of a neutral-colored wall with a horizontal trim line."
 }

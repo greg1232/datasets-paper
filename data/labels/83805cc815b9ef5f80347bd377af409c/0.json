@@ -1,10 +1,15 @@
 {
-    "video_id": "83805cc815b9ef5f80347bd377af409c",
-    "description": "",
-    "url": "./data/segments/3q3CZaZLMiY-Scene-170.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video appears to be a presentation or lecture, likely focused on systems thinking and its application in various contexts. The presenter, Gene Bellinger, is seen in a small window on the right side of the screen, wearing headphones and speaking. The main content displayed is a visual diagram with interconnected nodes labeled with terms such as \"solving systems thinking,\" \"sharing,\" and \"what people.\" A cartoon titled \"Silo Farming\" by Tim Fishhouse is also prominently featured, illustrating the concept of siloed departments within an organization, each operating independently and blaming others when things go wrong. This suggests that the video is discussing the challenges of organizational silos and how systems thinking can help overcome these issues by promoting collaboration and shared responsibility. The overall setting indicates an educational or professional development context, possibly aimed at improving organizational effectiveness through better understanding and application of systems principles."
+  "video_id": "83805cc815b9ef5f80347bd377af409c",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-170.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.272,
+    3.816,
+    6.361,
+    8.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a green t-shirt with the text \"ION NEVER DO SHIT\" is speaking into a professional microphone in a studio setting. Behind him, the walls are adorned with framed photographs, and a white mannequin wearing a white shirt stands to his right. Clothing racks with various garments are visible in the background. On the screen, a circular logo with the word \"SURE\" and a red logo that says \"REALLY FLY\" are present. Across the sequence, the man's facial expressions and hand gestures shift as he speaks, moving his arms and changing his gaze. He remains seated in the same position throughout, with the camera capturing him from the chest up, while the background and equipment remain static."
 }

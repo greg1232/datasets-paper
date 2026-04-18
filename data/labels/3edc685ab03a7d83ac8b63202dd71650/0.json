@@ -1,10 +1,15 @@
 {
-    "video_id": "3edc685ab03a7d83ac8b63202dd71650",
-    "description": "",
-    "url": "./data/segments/3q3CZaZLMiY-Scene-475.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video captures a serene yet dynamic rural scene under a dramatic, cloudy sky. In the foreground, a group of people is engaged in various activities on an open field, with some walking and others standing, possibly interacting or observing their surroundings. The field is expansive, with patches of green grass and bare earth, suggesting it might be used for communal purposes. In the background, a row of simple structures with metal roofs lines the horizon, likely serving as homes or community buildings. Beyond these structures, rolling hills and scattered trees add depth to the landscape. The overall atmosphere is one of calm activity, with the looming clouds hinting at the possibility of rain, adding a sense of anticipation to the scene."
+  "video_id": "3edc685ab03a7d83ac8b63202dd71650",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-475.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.292,
+    0.876,
+    1.46,
+    2.044
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt sits in a room filled with framed photos and clothing racks. His shirt features the white text \"ION NEVER DO SHIT AT WORK\". He is positioned in front of a black professional microphone. In the background, a white headless mannequin wears a white shirt, and various garments hang on a rack. To the left and right of the screen, logos are visible, including one that reads \"PODCAST\" and another that reads \"BOOST FLY TOY\". Across the sequence, the man is speaking and gesturing slightly. He begins with an open mouth, shifts into a more closed-mouth expression, and then transitions into a slight smile. The camera remains static, capturing his facial expressions and movement as he engages in a conversation."
 }

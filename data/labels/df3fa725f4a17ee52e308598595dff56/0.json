@@ -1,10 +1,15 @@
 {
-    "video_id": "df3fa725f4a17ee52e308598595dff56",
-    "description": "",
-    "url": "./data/segments/3fokLGPK15Q-Scene-043.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video features three individuals seated on a stage, engaged in a discussion or panel talk. The setting is well-lit with vibrant purple and yellow lighting, creating a dynamic and engaging atmosphere. The person on the left, dressed in a white shirt, appears to be speaking animatedly, using hand gestures to emphasize their points. The woman in the middle, wearing a black t-shirt and jeans, listens attentively with her hands clasped together. The man on the right, in a gray suit, also seems to be listening intently, with his legs crossed and hands resting on his knee. A large computer motherboard is prominently displayed on a stand in front of them, suggesting that the topic of discussion might be related to technology or computing. The overall scene conveys a professional yet casual tone, typical of a tech conference or similar event."
+  "video_id": "df3fa725f4a17ee52e308598595dff56",
+  "url": "./data/segments/3fokLGPK15Q-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.585,
+    7.755,
+    12.925,
+    18.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people are seated on gold-colored chairs on a stage against a dark purple background accented by vertical neon pink lights. A man on the left wears a white button-down shirt and dark trousers, a woman in the center wears a black short-sleeved top and black trousers, and a man on the right wears a grey suit over a light blue shirt. Between the man and woman on the left sits a large, white, intricately detailed sculptural object. The man on the left is speaking and gesturing with his hands throughout the sequence. The woman sits attentively with her hands clasped in her lap, while the man on the right sits with his legs crossed, looking toward the first speaker. In the foreground, a black panel displays a partially visible red logo with the white text \"SL\". The scene remains static except for the shifting gestures and postures of the speakers."
 }

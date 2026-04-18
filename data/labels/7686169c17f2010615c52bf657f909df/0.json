@@ -1,10 +1,15 @@
 {
-    "video_id": "7686169c17f2010615c52bf657f909df",
-    "description": "",
-    "url": "./data/segments/3T1bQ-ZAp1E-Scene-061.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video opens with a striking view of the Statue of Liberty, illuminated against a twilight sky, symbolizing freedom and strength. The iconic statue is prominently featured, holding its torch high and clutching a tablet, embodying the spirit of liberty. In the bottom left corner, the WNBA logo is displayed, suggesting a connection between the league and the values represented by the statue. The scene captures a moment of stillness and reverence, highlighting the cultural significance of the Statue of Liberty while subtly linking it to the empowerment and achievements of women in basketball. The overall atmosphere is one of inspiration and pride, setting a powerful tone for the content that follows."
+  "video_id": "7686169c17f2010615c52bf657f909df",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.055,
+    6.165,
+    10.275,
+    14.385
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This instructional video presentation on \"CRYOGENIC ENGINEERING\" focuses on \"Tutorial \u2013 3\" regarding the \"Work/unit mass of gas liquefied.\" The slides feature a Temperature-Entropy (T-S) diagram depicting a thermodynamic cycle with various paths labeled \"T=const,\" \"s=const,\" and \"p=const.\" As the video progresses, mathematical calculations are added to the screen. The values \"W/m = 326\" and \"y = 0.1176\" appear in blue boxes, followed by a final formula: \"- W/m_l = W/y m = 326 / 0.1176 = 2772.1 J/g.\" The NPTEL logo is visible in the bottom left corner of each slide. At the bottom of the screen, text identifies the instructor and institution as \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" The content remains static across the later frames once all the calculations have been revealed on the slide."
 }

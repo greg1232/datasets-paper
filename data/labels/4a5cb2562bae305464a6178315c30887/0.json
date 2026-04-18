@@ -1,0 +1,15 @@
+{
+  "video_id": "4a5cb2562bae305464a6178315c30887",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.709,
+    0.993
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a sparse, neutral-walled room, three people are seated and wearing protective face masks. On the left, a woman wears a black jacket with a red \"M\" logo over blue scrubs. In the center, a man wears blue scrubs and holds a white piece of paper, sitting with his legs crossed. To the right, a man wears a black t-shirt and pink pants. The woman on the left holds a white paper and looks toward the man in the center. The man in the center looks toward the woman while holding a pen and paper. The man on the right looks toward the other two individuals. The text \"Sim Week\" is visible in the lower right of each frame. Across the sequence, the participants remain in their positions, with slight shifts in posture and gaze as they interact during a simulated medical scenario."
+}

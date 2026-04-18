@@ -1,0 +1,15 @@
+{
+  "video_id": "8c029e23c6f202ce2cf2caf5f13e422f",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-094.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.102,
+    0.306,
+    0.51,
+    0.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A hand holds a sports trading card encased in a clear plastic protector. The card features an image of athlete Steven Adams and a signature, with the text \"STEVEN ADAMS\" printed at the bottom. The background shows a red and black surface with a large \"SD\" logo. Centered on the screen is the text \"JASPYS\" and \"CASEBREAKS.COM\". To the side, a small inset video shows a man wearing a black shirt sitting at a desk with various items, including packs of cards. As the sequence progresses, the hand holding the card remains relatively steady, while the man in the inset video continues to handle card packs on his desk. The overall scene captures the presentation of a collectible card during a live stream or recorded broadcast."
+}

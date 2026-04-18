@@ -1,10 +1,15 @@
 {
-    "video_id": "a08f5141320139f660106e65029e3e12",
-    "description": "",
-    "url": "./data/segments/3iUTkJy84EY-Scene-016.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video appears to be a segment from a political news program titled \"Plus Politics\" on PlusTV, focusing on Nigerian politics. The host, dressed in a suit and tie, is seated in a studio with a backdrop featuring a world map and the show's logo. On the right side of the screen, there is an inset image of Olusola Oyekanmi, identified as a political analyst from Lagos, who is participating via phone. The topic being discussed seems to revolve around a statement made by Bola Tinubu, indicated by the text \"Nigeria Needs Me - Bola Tinubu\" displayed at the bottom of the screen. The overall setting suggests a professional and informative discussion on current political issues in Nigeria."
+  "video_id": "a08f5141320139f660106e65029e3e12",
+  "url": "./data/segments/3iUTkJy84EY-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is centered against a solid dark grey background. She is wearing a light green, short-sleeved tunic with small floral embroidery and a dark necklace. A small lapel microphone is clipped to the front of her garment. In the bottom left corner of each frame, a small circular gold logo is visible next to the text \"NPTEL\". Across the sequence, the woman is speaking, and her mouth moves from an open, rounded shape to a wider smile, showing her teeth. Her head remains steady and centered, while her facial expressions change as she talks. The lighting is consistent, and there are no other people or objects present in the scene."
 }

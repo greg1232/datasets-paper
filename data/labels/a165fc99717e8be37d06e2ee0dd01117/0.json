@@ -1,10 +1,15 @@
 {
-    "video_id": "a165fc99717e8be37d06e2ee0dd01117",
-    "description": "",
-    "url": "./data/segments/3gZZFVx-9-M-Scene-291.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video features a man sitting in front of a microphone, likely participating in a podcast or radio show titled \"Boss Talk 101.\" He is dressed in a white shirt with suspenders and a red bow tie, and he wears a distinctive gray wig styled upwards. The man is also wearing headphones and appears to be engaged in conversation, as suggested by his hand gestures and facial expressions. The background is filled with framed photographs and memorabilia, indicating a personal or professional space dedicated to the show. The setting suggests a casual yet professional atmosphere, with the man actively contributing to the discussion."
+  "video_id": "a165fc99717e8be37d06e2ee0dd01117",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-291.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.279,
+    0.837,
+    1.396,
+    1.954
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played in a large stadium with a green field marked with white yardage lines and numbers like \"30\", \"40\", and \"50\". Players in white uniforms and players in dark uniforms are spread across the field. A scoreboard at the top shows \"1st & 10\", \"6\", \"0\", and a game clock at \"0:18\" which changes to \"0:17\" as the action progresses. The words \"ULTIMATE TEAR\" and logos for the NFL and a team are visible. A small inset window shows a man with blond hair looking surprised. In the initial scenes, a player in a dark uniform runs toward the left side of the field. As the sequence continues, the camera angle shifts to a side view where players in white and dark uniforms converge. A player in a white uniform is tackled by a player in a dark uniform, with labels \"Smith\" and \"Dinka\" appearing beneath them."
 }

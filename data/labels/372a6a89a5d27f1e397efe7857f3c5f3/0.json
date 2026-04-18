@@ -1,10 +1,15 @@
 {
-    "video_id": "372a6a89a5d27f1e397efe7857f3c5f3",
-    "description": "",
-    "url": "./data/segments/3jJnVyAhyIM-Scene-079.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video features a man sitting in what appears to be a clothing store, as evidenced by the racks of clothes and mannequins in the background. He is wearing a green t-shirt with bold text, a cap, and headphones. The man is engaged in a conversation or recording a podcast, speaking into a professional microphone positioned in front of him. His hands are animated as he gestures while talking, indicating an expressive and possibly passionate discussion. The setting includes framed photographs on the wall behind him, adding a personal touch to the environment. The overall atmosphere suggests a casual yet professional recording session, likely for a podcast titled \"Boss Talk 101,\" as indicated by the logo in the corner of the screen."
+  "video_id": "372a6a89a5d27f1e397efe7857f3c5f3",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-079.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.901,
+    1.502,
+    2.102
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Inside a vehicle, a person's hand reaches toward a center console featuring a wooden finish. The console houses a digital screen and a gear shift lever with a polished wooden knob and a leather-wrapped shaft. A hand enters the frame from the left, with the index finger extending toward a small circular dial or button located to the left of the digital screen. Across the sequence, the finger moves closer to the button, eventually making contact with it. The hand's position shifts slightly as it presses the button, while the gear shift remains stationary in the foreground. The surrounding interior includes dark plastic trim and a brown fabric surface on the far left. There is no visible text or logos on the equipment."
 }

@@ -1,10 +1,15 @@
 {
-    "video_id": "61ae5483481b31124465512f715ad4b0",
-    "description": "",
-    "url": "./data/segments/3ITw3DpGM5k-Scene-301.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video appears to be a screen recording of a presentation or lecture, likely focused on systems thinking and modeling. The presenter, Gene Bellinger, is visible in a small window on the right side of the screen, wearing headphones and speaking. The main content displayed is a visual map or diagram with various interconnected nodes labeled with terms such as \"model sharing,\" \"moments,\" and \"model & play.\" These nodes seem to represent different concepts or stages within a larger framework, possibly related to trial and learning processes. An inset image shows three individuals in a theatrical setting, which might be used as an illustrative example or metaphor within the presentation. The overall layout suggests an interactive and educational session aimed at explaining complex ideas through visual aids and verbal explanations."
+  "video_id": "61ae5483481b31124465512f715ad4b0",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-301.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.838,
+    2.513,
+    4.188,
+    5.862
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen manipulating a black foam box on a surface decorated with a palm tree graphic. In the top left and top right frames, the person's fingers reach into a cutout in the foam. Throughout the sequence, a small inset window shows a man with a beard wearing a dark blue shirt sitting at a desk with a microphone. On-screen text reads \"JASPYS\" and \"CASEBREAKS.COM\" in red and white lettering. In the bottom left and bottom right frames, the person's left hand grips the side of the black box while their right hand reaches toward the foam. The background behind the person's hands consists of stacked white boxes. The man in the inset window remains relatively still, looking toward the camera. The action focuses on the tactile process of removing or adjusting items within the foam inserts of the box."
 }

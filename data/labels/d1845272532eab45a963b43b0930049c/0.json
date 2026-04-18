@@ -1,10 +1,15 @@
 {
-    "video_id": "d1845272532eab45a963b43b0930049c",
-    "description": "",
-    "url": "./data/segments/3EB6XN8KrzI-Scene-207.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video features a man standing at a podium, delivering a speech or presentation. He is dressed in a dark suit and appears to be addressing an audience, as suggested by his gestures and the microphone in front of him. In the first image, he extends his left hand outward, possibly emphasizing a point, while in the second image, he seems to be looking slightly to his right, perhaps engaging with someone in the audience or referring to something off-camera. A water bottle is placed on the podium, indicating that this might be a longer talk. The setting appears formal, likely a conference, lecture, or seminar, given the professional attire and the presence of a microphone. The background is plain and uncluttered, focusing attention on the speaker."
+  "video_id": "d1845272532eab45a963b43b0930049c",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-207.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.259,
+    0.776,
+    1.293,
+    1.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with gray hair wearing a light blue button-down shirt stands behind a wooden lectern in a room with wood-paneled walls and blinds. He is addressing a small audience, including a person in a plaid shirt and others with gray hair, who are seen from the back. To the left of the speaker, a black speaker cabinet is visible. The lectern features a small red logo. The text \"ORCA\" is displayed in white letters on a blue background in the lower right corner of the scene. As the sequence progresses, the man continues to speak and gesture while the audience remains seated. In the final frame, a translucent overlay or motion blur effect obscures the image, making the people and the setting appear faint and ghostly."
 }

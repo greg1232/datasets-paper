@@ -157,13 +157,14 @@ def caption_one(
     output_dir: Path,
     max_tokens: int,
     max_retries: int = 2,
+    overwrite: bool = False,
 ) -> tuple[str, str]:
     """Caption a single mp4. Returns (status, detail).
     status ∈ {"ok", "cached", "no_frames", "api_error"}"""
     url = f"./data/segments/{mp4.name}"
     vid = md5_url(url)
     out_path = output_dir / vid / "0.json"
-    if out_path.exists() and out_path.stat().st_size > 0:
+    if not overwrite and out_path.exists() and out_path.stat().st_size > 0:
         return ("cached", "")
 
     with tempfile.TemporaryDirectory(prefix=f"relabel_{vid}_") as tmp:
@@ -247,6 +248,11 @@ def main() -> int:
         default=0,
         help="Only caption a random sample of this many mp4s (0 = all). Useful for a smoke test.",
     )
+    parser.add_argument(
+        "--overwrite",
+        action="store_true",
+        help="Re-caption even if an output 0.json already exists. Off by default to make runs resumable.",
+    )
     parser.add_argument("--seed", type=int, default=42)
     args = parser.parse_args()
 
@@ -283,6 +289,7 @@ def main() -> int:
                 args.n_frames,
                 args.output_dir,
                 args.max_tokens,
+                overwrite=args.overwrite,
             ): mp4
             for mp4 in mp4s
         }

@@ -1,10 +1,15 @@
 {
-    "video_id": "f5e20cf69306567a9ba17a62e192bc71",
-    "description": "",
-    "url": "./data/segments/3EB6XN8KrzI-Scene-211.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video captures a small commercial airplane, marked with \"\u0420\u043e\u0441\u0441\u0438\u044f\" on its side, taxiing along a runway. The aircraft is moving steadily forward, its landing gear firmly on the ground. In the background, a helicopter is visible, parked or possibly preparing for takeoff. The setting appears to be an airport with various structures and greenery surrounding the tarmac. The sky is overcast, suggesting cloudy weather conditions. The scene conveys a sense of routine airport activity, with the focus on the airplane's movement along the runway."
+  "video_id": "f5e20cf69306567a9ba17a62e192bc71",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-211.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.122,
+    3.366,
+    5.61,
+    7.854
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair tied back and wearing glasses performs in front of a neutral-toned slatted wall. He is dressed in a white long-sleeved shirt under a dark vest adorned with blue embroidery and a red and white patterned detail at the center. He stands before a microphone on a stand, playing a light-colored acoustic guitar. The word \"ORCA\" is displayed in white uppercase letters on the right side of the scene. In the beginning, the man is looking down toward his guitar while singing. As the sequence progresses, he lifts his head to look straight ahead, maintaining his position and continuing to perform. The heads of audience members are partially visible in the lower foreground of the shots."
 }

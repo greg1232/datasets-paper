@@ -1,10 +1,15 @@
 {
-    "video_id": "dcbd720e71867ab09edccd50728da1c6",
-    "description": "",
-    "url": "./data/segments/3ITw3DpGM5k-Scene-161.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video depicts a virtual meeting or conference call with multiple participants, each displayed in their own individual frame. The participants appear to be engaged in a discussion, with some speaking and others listening attentively. The settings vary, with some individuals in home offices, others in more casual environments, and a few in what seem to be professional spaces. The participants are diverse in terms of age and gender, and many are wearing headphones or headsets, suggesting they are actively participating in the audio portion of the call. The atmosphere seems collaborative and focused, with everyone contributing to the conversation. The layout of the video is typical of online conferencing platforms, with names displayed below each participant's image for identification."
+  "video_id": "dcbd720e71867ab09edccd50728da1c6",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-161.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.617,
+    1.85,
+    3.083,
+    4.317
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a package of trading cards on a table featuring a tropical palm tree design. The person, wearing a dark shirt, is seen in a small picture-in-picture window in the lower portion of the frames. In the main view, the person lifts a yellow paper sleeve from a white box containing several cards. As the action progresses, the person removes a gold-bordered trading card from the sleeve and holds it up to the camera, revealing an autograph and the name \"T. HAZEN.\" The background includes stacks of cards and electronic equipment. The logo \"JASPYS LIVE\" and the website \"CASEBREAKS.COM\" are prominently displayed as on-screen text across the center of the frames. The scene transitions from the initial act of lifting the yellow sleeve to the final presentation of the signed card."
 }

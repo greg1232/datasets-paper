@@ -1,10 +1,15 @@
 {
-    "video_id": "75a7f005909f3b0ffdd1beb5cb66d092",
-    "description": "",
-    "url": "./data/segments/3hcAJKLX-Ps-Scene-003.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video features a man sitting in a radio studio, engaging in what appears to be a podcast or radio show titled \"Boss Talk 101.\" He is wearing a black cap, headphones, and a dark t-shirt with some text on it. The man is animatedly speaking into a microphone, gesturing with his hands as he talks, which suggests he is passionately discussing a topic. The background includes a banner with stars and the words \"Unique Hustle,\" along with other branding elements for the show. The setting is professional, with a focus on the man's expressive communication style, indicating an interactive and dynamic conversation."
+  "video_id": "75a7f005909f3b0ffdd1beb5cb66d092",
+  "url": "./data/segments/3hcAJKLX-Ps-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.575,
+    1.725,
+    2.875,
+    4.025
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a maroon long-sleeved shirt and glasses speaks into a microphone, gesturing with his left hand. He stands on a stage in front of a bright white and green backdrop that features yellow Tamil text, including the phrase \"\u0ba4\u0bc8\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd!\". To his left stands another man wearing a white short-sleeved button-down shirt and a lanyard around his neck, who looks toward the speaker. Behind them are red and white chairs and a yellow-legged table. As the sequence progresses, the speaker continues to gesture while talking into the microphone. In the final frames, a portion of another person wearing white clothing becomes visible on the far right side of the stage. The backdrop also displays the year \".2021\" on the left side. The scene remains consistent in setting and lighting throughout the short clip."
 }

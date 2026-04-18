@@ -1,10 +1,15 @@
 {
-    "video_id": "ba92da6f28e9671efe546e1802460ed7",
-    "description": "",
-    "url": "./data/segments/3P1vSUbet40-Scene-0995.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video appears to be an advertisement for a service or course called \"Fibonacci 24/7\" by Larry Pesavento. The background features a dynamic, swirling pattern of green and yellow hues, creating a visually engaging and energetic atmosphere. In the center, there is a prominent image with the title \"Fibonacci 24/7\" and the name \"Larry Pesavento\" below it, suggesting that this individual is the creator or instructor associated with the content. Below this central image, the text \"FIBONACCI 24/7\" is displayed in bold white letters, followed by a blue button labeled \"SIGN UP,\" inviting viewers to register for the service or course. The overall design is modern and attention-grabbing, likely aimed at attracting potential subscribers or students interested in the Fibonacci concept as applied in trading or other analytical fields."
+  "video_id": "ba92da6f28e9671efe546e1802460ed7",
+  "url": "./data/segments/3P1vSUbet40-Scene-0995.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a podcast studio, wearing a white button-down shirt with tan suspenders, a red bowtie, glasses, and a tall, silver-grey wig. He wears black over-ear headphones and speaks into a black microphone positioned in front of him. The background consists of a white wall adorned with numerous small, framed photographs. To the right, a white garment bag is visible with \"LEE\" printed on it. On-screen graphics appear on both sides of the frame; on the left is a logo that reads \"BOSS TALK 101 PODCAST,\" and on the right is text that reads \"BOSS TALK 101.\" Across the sequence, the man remains in the same position, speaking and gesturing slightly with his head as he addresses someone off-camera. His facial expressions shift slightly as he talks, but the overall setting and his attire remain constant throughout the clip."
 }

@@ -1,10 +1,15 @@
 {
-    "video_id": "a88d408a93d95212a8f1e0b3efe4a56d",
-    "description": "",
-    "url": "./data/segments/3q3CZaZLMiY-Scene-727.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video appears to be a news segment from PlusTV Africa, focusing on political discussions under the title \"Nigeria Needs Me - Bola Tinubu.\" The scene is set in a formal setting with two individuals seated on red chairs, dressed in traditional attire and wearing face masks, suggesting a meeting or interview taking place during the COVID-19 pandemic. One of them is holding papers, possibly notes or documents related to the discussion. On the right side of the screen, there is a graphic indicating that Olusola Oyekanmi, a political analyst from Lagos, is participating via phone. The overall layout and design of the broadcast suggest a professional and serious tone, aimed at discussing significant political matters concerning Nigeria. The video also includes a call to action for viewers to subscribe to their YouTube channel, emphasizing the platform's role in disseminating such content."
+  "video_id": "a88d408a93d95212a8f1e0b3efe4a56d",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-727.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.236,
+    3.707,
+    6.178,
+    8.649
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt sits in a room filled with framed photos and clothing racks. His shirt features white text that reads \"ION NEVER DO SHIT AT WORK\". He is positioned behind a black microphone on a boom arm. In the background, a white mannequin wears a white t-shirt, and various garments hang on racks. Two logos are visible on the screen: a circular one on the left and a red text logo on the right that reads \"BODILY FLUIDS TOT\". As the sequence progresses, the man's expression shifts; he starts with a neutral, talking expression and gesturing with his hands, and by the final frame, he is laughing with his eyes closed and mouth open. The background and equipment remain static throughout the scene."
 }

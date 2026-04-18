@@ -1,10 +1,15 @@
 {
-    "video_id": "04d9cb4f760dd20f9bd05bca8a16c527",
-    "description": "",
-    "url": "./data/segments/3kf1gQNnb-8-Scene-027.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video features a man sitting in a radio studio, engaging in what appears to be a podcast or radio show titled \"Boss Talk 101.\" He is wearing a black hoodie with the words \"Boss Talk\" printed on it, a white cap, and headphones. The man is seated at a desk with a microphone in front of him, suggesting he is either hosting or participating in the show. The background includes a banner with the text \"Unique Hustle\" and stars, along with a screen displaying the phrase \"Where Bosses Talk!\" The setting is professional, with various equipment like a computer monitor and a branded mug visible on the desk. The man seems to be actively speaking or reacting, indicating an ongoing conversation or discussion."
+  "video_id": "04d9cb4f760dd20f9bd05bca8a16c527",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.192,
+    0.576,
+    0.959,
+    1.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical simulation setting, two women wearing blue medical gowns, face masks, and gloves are training with a medical mannequin. One woman stands in the background, while the other is positioned in the foreground, focused on preparing a medical tool. The mannequin is lying on a table covered with a blue surgical drape and a white sheet. In the background, a green chair and medical equipment are visible against a plain wall. Across the frames, the woman in the foreground is carefully manipulating a small, thin object, possibly a needle or catheter, while the woman in the background observes. A logo with the text \"Sim Week\" appears in the bottom right corner of each frame. The scene remains consistent across the sequence, with only slight movements in the hands of the foreground woman as she works."
 }

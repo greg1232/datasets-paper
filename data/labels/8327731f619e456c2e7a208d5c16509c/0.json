@@ -1,10 +1,15 @@
 {
-    "video_id": "8327731f619e456c2e7a208d5c16509c",
-    "description": "",
-    "url": "./data/segments/3kIRn6ImIRc-Scene-047.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video features a man with a distinctive, tall, and spiky hairstyle, wearing glasses, a white shirt, suspenders, and a red bow tie. He is seated in front of a microphone, suggesting he is participating in a podcast or radio show. The setting appears to be a studio or a room decorated with numerous framed photographs on the wall behind him, adding a personal and artistic touch to the environment. The man is engaged in conversation, as indicated by his expressive facial movements and gestures. The logos for \"Boss Talk 101 Podcast\" are visible in the corners of the screen, reinforcing the context of the content being a podcast episode. The overall atmosphere is professional yet casual, with the man appearing comfortable and animated as he speaks."
+  "video_id": "8327731f619e456c2e7a208d5c16509c",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.537,
+    1.612,
+    2.688,
+    3.762
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static screen of a terminal or text editor showing configuration files and log entries. The text is white and gray against a black background. Legible text includes configuration parameters such as \"local.443\", \"Merge_Log_Key\", and \"KBS.Logging.Enable on\", along with a section for \"output-loki.conf\" detailing \"name\", \"host\", and \"labels_keys\". The right side of the screen shows log entries starting with \"printail_1\" and containing timestamps like \"t2020-10-28T06:21:35.27428220Z\". Further down, a section for \"parsers.conf\" is visible, containing \"format regex\" and \"Time_Key\". A status bar at the bottom shows timestamps such as \"02:11:22\" and \"02:11:18\". Across all frames, the screen content remains completely unchanged, showing no movement, scrolling, or changes in the displayed text or interface."
 }

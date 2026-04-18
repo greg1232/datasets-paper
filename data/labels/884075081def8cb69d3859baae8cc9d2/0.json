@@ -1,10 +1,15 @@
 {
-    "video_id": "884075081def8cb69d3859baae8cc9d2",
-    "description": "",
-    "url": "./data/segments/3ZrWCBdh7q8-Scene-029.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video captures a scene of a public speaking event or presentation taking place in a room with wooden blinds covering the windows. A woman stands at a podium, addressing an audience seated in rows of chairs. She is wearing glasses and a white shirt with a dark vest, and she appears to be reading from notes on the podium. To her left, another person is seated at a smaller table, possibly assisting or moderating the event. The audience members are attentively listening, some with their heads turned towards the speaker. The atmosphere suggests a formal yet intimate setting, likely for a lecture, discussion, or community meeting. The logo \"ORCA\" is visible in the bottom right corner, indicating the organization or event name."
+  "video_id": "884075081def8cb69d3859baae8cc9d2",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.625,
+    1.875,
+    3.125,
+    4.375
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts soldiers in a desolate, outdoor setting with dirt ground and simple buildings in the background. The soldiers are dressed in camouflage uniforms, wearing helmets and tactical gear, including vests and pouches. Several individuals have bright yellow bands tied around their upper arms. In the initial scenes, soldiers are moving across the open area, with some walking away from the camera and others partially visible in the foreground. As the sequence progresses, the camera angle shifts to focus more closely on the gear of the soldiers, highlighting their camouflage patterns and equipment. The text \"Hero Ukraine\" is overlaid on the images, and a red and white \"13\" logo appears in the upper right corner of each shot. The movement is steady as the soldiers navigate the terrain, maintaining a formation as they advance through the environment."
 }

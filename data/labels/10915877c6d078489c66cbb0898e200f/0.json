@@ -1,10 +1,15 @@
 {
-    "video_id": "10915877c6d078489c66cbb0898e200f",
-    "description": "",
-    "url": "./data/segments/3d5Bf4VRhHE-Scene-035.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video shows three men walking through a modern, well-lit hallway with a sleek design. They are dressed casually in light blue polo shirts and dark pants, suggesting they might be part of a team or group. As they walk, they appear to be engaged in conversation, with one man gesturing slightly as he speaks. The hallway features contemporary lighting fixtures, including spherical pendant lights that add a stylish touch to the environment. In the background, another person can be seen standing near an open door, possibly observing or waiting for the group to pass. The overall atmosphere is professional yet relaxed, indicating a setting that could be related to sports or business."
+  "video_id": "10915877c6d078489c66cbb0898e200f",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.975,
+    1.625,
+    2.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor hallway with light-colored walls and polished flooring, three men wearing grey polo shirts and dark trousers walk forward. The space is decorated with several spherical, copper-colored hanging lights. A white Real Madrid crest logo is visible in the upper right corner of the scene. In the first frame, a timestamp reading \"14:05\" appears in the lower-left corner. As the sequence progresses, the men move from left to right across the frame. The man leading the group carries a dark smartphone in his hand. In the background of the second and third frames, other figures can be seen further down the hall. The men maintain a casual pace and distance from one another as they traverse the corridor, with the camera tracking their movement."
 }

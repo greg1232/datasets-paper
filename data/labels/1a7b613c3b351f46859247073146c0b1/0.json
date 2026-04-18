@@ -1,10 +1,15 @@
 {
-    "video_id": "1a7b613c3b351f46859247073146c0b1",
-    "description": "",
-    "url": "./data/segments/3qr2hGZ_rRg-Scene-158.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video features a man sitting in front of a microphone, likely recording a podcast or an interview for \"Boss Talk 101,\" as indicated by the logo in the bottom right corner. He is wearing a green cap, headphones, and a t-shirt with bold text. The setting appears to be a casual yet professional environment, possibly a studio within a clothing store, given the racks of clothes and mannequins in the background. The walls are adorned with framed photographs, adding a personal touch to the space. The man seems engaged in conversation, speaking into the microphone with a focused expression. The overall atmosphere suggests a relaxed but serious discussion, possibly centered around business, lifestyle, or personal experiences."
+  "video_id": "1a7b613c3b351f46859247073146c0b1",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-158.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.255,
+    0.766,
+    1.276,
+    1.786
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair is centered within a circular frame against a solid black background. She is smiling and looking directly forward. The woman is wearing a light-colored garment, though only the neckline is visible. In the bottom left and center of the image, the text \"Anita Earl Joe\" appears in a small white font. Across the sequence of frames, the woman remains in a stationary position with a consistent expression, and there is no perceptible movement or change in the scene. The composition and the text on the screen remain identical throughout the clip, presenting a static headshot of the individual."
 }

@@ -1,10 +1,15 @@
 {
-    "video_id": "ddb339dd10932eb2297fed2b5d7db2d8",
-    "description": "",
-    "url": "./data/segments/3P1vSUbet40-Scene-0983.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video appears to be a presentation or lecture titled \"Trial & Learning: An Insightful Journey,\" as indicated by the text displayed on the screen. The presenter, Jerry Michalski, is visible in a small window on the right side of the screen, suggesting that this is a virtual meeting or webinar. He seems to be speaking and gesturing with his hand, likely explaining or emphasizing a point related to the topic. The background is predominantly black, which helps to focus attention on the title text and the speaker. The browser tabs and bookmarks bar at the top suggest that the viewer is watching this on a computer, possibly for educational or professional purposes. The overall setting indicates an informative and structured discussion aimed at sharing insights and knowledge."
+  "video_id": "ddb339dd10932eb2297fed2b5d7db2d8",
+  "url": "./data/segments/3P1vSUbet40-Scene-0983.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits in a recording studio, wearing a white button-down shirt with suspenders and a small red bow tie. He has a distinctive, tall, grey, sculpted hairstyle and wears glasses and black over-ear headphones. He is positioned in front of a professional black microphone. The background features walls covered in framed photographs and clothing items, including shirts with \"LEE\" branding. A logo for the \"BOSS TALK 101 PODCAST\" appears on the screen, accompanied by social media icons and text. Across the sequence, the man remains in a seated position, speaking and shifting his head slightly. His mouth moves as he talks, and his gaze shifts from slightly downward to forward, indicating an active conversation. The camera remains stationary, capturing his upper body and the surrounding studio environment throughout the clip."
 }

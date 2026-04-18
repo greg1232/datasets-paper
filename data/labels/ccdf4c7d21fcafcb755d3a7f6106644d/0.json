@@ -1,10 +1,15 @@
 {
-    "video_id": "ccdf4c7d21fcafcb755d3a7f6106644d",
-    "description": "",
-    "url": "./data/segments/3QD9oO6sRns-Scene-127.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video features a woman with long dark hair and glasses, wearing a light green top with floral embroidery. She is seated against a plain black background, which helps to focus attention on her. The woman appears to be engaged in a conversation or presentation, as she gestures with her hands while speaking. Her expressions and hand movements suggest that she is explaining something with enthusiasm and clarity. A small microphone is clipped to her top, indicating that this might be a recorded lecture or interview. The overall setting is simple and professional, emphasizing the content of her speech."
+  "video_id": "ccdf4c7d21fcafcb755d3a7f6106644d",
+  "url": "./data/segments/3QD9oO6sRns-Scene-127.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.21,
+    0.631,
+    1.052,
+    1.473
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person\u2019s hands are seen opening a white cardboard box sitting on a table in a room with \"JASPERS CASEBREAKS\" branding. In the background, a man wearing a black t-shirt and a white baseball cap watches the process. On the table are several other similar boxes, some with \"CLEARLY\" printed on them, and a red plastic cup. The words \"CASEBREAKS\" appear in large letters across the bottom of the scene, and the website \"CASEBREAKS.com\" is visible in small logos on the screen. As the video progresses, the person's hands move to the top of the box, peeling back the sealing tape to open the container. The camera focuses on the hands and the box, while the man in the background remains stationary, observing the opening of the package."
 }

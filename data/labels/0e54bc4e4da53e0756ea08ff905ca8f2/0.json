@@ -1,10 +1,15 @@
 {
-    "video_id": "0e54bc4e4da53e0756ea08ff905ca8f2",
-    "description": "",
-    "url": "./data/segments/3a0FD1177FA-Scene-071.mp4",
-    "frame_number": 0,
-    "interval_seconds": 1,
-    "batch_size": 2,
-    "batch_step": 2,
-    "caption": "The video features a news segment from Plus TV, specifically from the \"Plus Politics\" program. The anchor, dressed in a formal suit and tie, is discussing a political topic related to Nigeria, as indicated by the on-screen text that reads \"Nigeria Needs Me - Bola Tinubu.\" The background includes a world map and the show's logo, emphasizing the global context of the discussion. The anchor appears to be explaining or analyzing the statement, using hand gestures for emphasis. The lower third of the screen provides additional information, including the show's website and a YouTube channel link, encouraging viewers to watch online and subscribe for more content. The overall setting suggests a professional and informative broadcast aimed at delivering political insights and updates."
+  "video_id": "0e54bc4e4da53e0756ea08ff905ca8f2",
+  "url": "./data/segments/3a0FD1177FA-Scene-071.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.188,
+    0.563,
+    0.938,
+    1.314
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is crafting a card on a white surface with a grid cutting mat. They are wearing a white watch and are seen from the chest down. In the initial sequence, the person positions a thin strip of white paper with dark leaf patterns next to a blue card featuring a purple forest illustration. A metal ruler is placed horizontally across the bottom of the card for alignment. As the sequence progresses, the person's hands carefully slide the patterned strip over the blue card, overlapping the edge of the purple forest image. To the right, there is a black ink pad and a larger piece of floral patterned paper. Small white pieces of adhesive tape are scattered on the mat. The watermark \"Stamping Jill\" is visible in the bottom left of each scene. The focus remains on the precise placement of the decorative strip onto the card base."
 }
