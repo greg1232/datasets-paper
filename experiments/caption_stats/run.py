@@ -299,13 +299,15 @@ def write_comparison_markdown(stats_list: list[dict], output_path: Path) -> None
         if s.get("n_captions", 0) == 0:
             rows.append(f"| {s['name']} | 0 | | | | | | | |")
             continue
+        gt_mean = s["group_ttr"]["mean"]
+        gt_cell = f"{gt_mean:.4f}" if gt_mean is not None else "—"
         rows.append(
             f"| {s['name']} | {s['n_captions']:,} | {s['total_tokens']:,} | "
             f"{s['vocabulary_size']:,} | "
             f"{s['caption_length_words']['mean']:.1f} | "
             f"{s['caption_length_words']['median']} | "
             f"{s['global_ttr']:.4f} | "
-            f"{s['group_ttr']['mean']:.4f} | "
+            f"{gt_cell} | "
             f"{s['mtld']['value']:.2f} |"
         )
     with open(output_path, "w") as f:
