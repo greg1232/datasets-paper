@@ -4,7 +4,7 @@
     "frames_per_clip": 3,
     "seed": 42,
     "sample_sizes": {
-      "ours": 100,
+      "ours": 50,
       "openvid": 30,
       "internvid": 20
     }
@@ -12,28 +12,28 @@
   "summaries": [
     {
       "dataset": "ours",
-      "n_submitted": 100,
-      "n_valid": 100,
+      "n_submitted": 50,
+      "n_valid": 50,
       "n_errors": 0,
-      "n_with_hallucination": 97,
-      "hallucination_rate": 0.97,
-      "total_flagged_claims": 529,
-      "total_caption_words": 11633,
-      "flagged_claims_per_100_words": 4.547408235192986,
-      "avg_claims_per_hallucinated_caption": 5.453608247422681,
-      "caption_length_mean": 116.33
+      "n_with_hallucination": 13,
+      "hallucination_rate": 0.26,
+      "total_flagged_claims": 19,
+      "total_caption_words": 6560,
+      "flagged_claims_per_100_words": 0.2896341463414634,
+      "avg_claims_per_hallucinated_caption": 1.4615384615384615,
+      "caption_length_mean": 131.2
     },
     {
       "dataset": "openvid",
       "n_submitted": 30,
       "n_valid": 30,
       "n_errors": 0,
-      "n_with_hallucination": 21,
-      "hallucination_rate": 0.7,
-      "total_flagged_claims": 42,
+      "n_with_hallucination": 10,
+      "hallucination_rate": 0.3333333333333333,
+      "total_flagged_claims": 13,
       "total_caption_words": 3004,
-      "flagged_claims_per_100_words": 1.3981358189081226,
-      "avg_claims_per_hallucinated_caption": 2.0,
+      "flagged_claims_per_100_words": 0.43275632490013316,
+      "avg_claims_per_hallucinated_caption": 1.3,
       "caption_length_mean": 100.13333333333334
     },
     {
@@ -41,11 +41,11 @@
       "n_submitted": 20,
       "n_valid": 20,
       "n_errors": 0,
-      "n_with_hallucination": 6,
-      "hallucination_rate": 0.3,
-      "total_flagged_claims": 6,
+      "n_with_hallucination": 1,
+      "hallucination_rate": 0.05,
+      "total_flagged_claims": 1,
       "total_caption_words": 185,
-      "flagged_claims_per_100_words": 3.2432432432432434,
+      "flagged_claims_per_100_words": 0.5405405405405406,
       "avg_claims_per_hallucinated_caption": 1.0,
       "caption_length_mean": 9.25
     }
