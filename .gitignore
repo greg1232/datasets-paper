@@ -34,3 +34,6 @@ docs/*.synctex.gz
 *.swp
 *.swo
 *~
+
+# Visual grounding comparator video cache — gitignored, reproducible from run.py
+results/visual_grounding/_comparator_cache/
