@@ -31,3 +31,6 @@ docs/*.synctex.gz
 # Editor
 .vscode/
 .idea/
+*.swp
+*.swo
+*~
