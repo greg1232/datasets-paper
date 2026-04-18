@@ -1,0 +1,61 @@
+{
+  "n_clips": 8527,
+  "n_errors": 0,
+  "mean_seconds": 11.574364201829482,
+  "median_seconds": 2.92,
+  "std_seconds": 45.874877532980584,
+  "min_seconds": 0.033333,
+  "max_seconds": 1650.0,
+  "paper_mean_seconds": 11.2,
+  "delta_vs_paper_mean": 0.3743642018294828,
+  "bins": [
+    {
+      "label": "0-2s",
+      "count": 3167,
+      "fraction": 0.3714084672217662,
+      "percent": 37.14084672217662,
+      "paper_percent": 37,
+      "delta_vs_paper_percent": 0.14084672217661875
+    },
+    {
+      "label": "2-4s",
+      "count": 1886,
+      "fraction": 0.22117978186935616,
+      "percent": 22.117978186935616,
+      "paper_percent": 22,
+      "delta_vs_paper_percent": 0.11797818693561624
+    },
+    {
+      "label": "4-10s",
+      "count": 1927,
+      "fraction": 0.22598803799695089,
+      "percent": 22.598803799695087,
+      "paper_percent": 23,
+      "delta_vs_paper_percent": -0.40119620030491276
+    },
+    {
+      "label": "10-20s",
+      "count": 696,
+      "fraction": 0.08162307962941245,
+      "percent": 8.162307962941245,
+      "paper_percent": 8,
+      "delta_vs_paper_percent": 0.16230796294124517
+    },
+    {
+      "label": ">20s",
+      "count": 851,
+      "fraction": 0.09980063328251436,
+      "percent": 9.980063328251436,
+      "paper_percent": 10,
+      "delta_vs_paper_percent": -0.01993667174856384
+    }
+  ],
+  "resolution": {
+    "width_mean": 1246.264336812478,
+    "height_mean": 702.0827958250264,
+    "width_median": 1280,
+    "height_median": 720,
+    "n_720p": 7615,
+    "n_1080p": 0
+  }
+}
