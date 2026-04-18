@@ -37,8 +37,30 @@
     },
     {
       "name": "InternVid",
-      "n_captions": 0,
-      "error": "Dataset 'OpenGVLab/InternVid' is a gated dataset on the Hub. Visit the dataset page at https://huggingface.co/datasets/OpenGVLab/InternVid to ask for access."
+      "n_captions": 10000,
+      "total_tokens": 92638,
+      "vocabulary_size": 8353,
+      "caption_length_words": {
+        "mean": 9.2638,
+        "median": 9.0,
+        "std": 2.605611168229059,
+        "min": 2,
+        "max": 28
+      },
+      "global_ttr": 0.09016818152378074,
+      "group_ttr": {
+        "group_size": 100,
+        "n_groups": 100,
+        "mean": 0.44280980790119073,
+        "median": 0.44205800634004366,
+        "std": 0.02147124438549582,
+        "tokens_per_group_mean": 926.38,
+        "unique_per_group_mean": 410.03
+      },
+      "mtld": {
+        "value": 68.50285512796074,
+        "threshold": 0.72
+      }
     },
     {
       "name": "OpenVid-1M",
@@ -56,11 +78,11 @@
       "group_ttr": {
         "group_size": 100,
         "n_groups": 100,
-        "mean": 0.13556167070593855,
-        "median": 0.13541576644274367,
-        "std": 0.004274231944873491,
+        "mean": 0.13571508870672125,
+        "median": 0.1352334851304176,
+        "std": 0.004329808266031509,
         "tokens_per_group_mean": 10426.03,
-        "unique_per_group_mean": 1413.11
+        "unique_per_group_mean": 1414.65
       },
       "mtld": {
         "value": 39.70003662550447,
