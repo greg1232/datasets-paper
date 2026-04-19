@@ -1,4 +1,4 @@
 Dataset,N Submitted,N Valid,N Hallucinated,Hallucination Rate,Avg Claims/Hallucinated,Flagged Claims/100w,Mean Caption Length
-ours,50,50,13,0.260,1.46,0.29,131.2
-openvid,30,30,10,0.333,1.30,0.43,100.1
+ours,100,100,33,0.330,1.42,0.35,133.0
+openvid,30,30,11,0.367,1.45,0.53,100.1
 internvid,20,20,1,0.050,1.00,0.54,9.2

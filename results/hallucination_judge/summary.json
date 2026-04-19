@@ -4,7 +4,7 @@
     "frames_per_clip": 3,
     "seed": 42,
     "sample_sizes": {
-      "ours": 50,
+      "ours": 100,
       "openvid": 30,
       "internvid": 20
     }
@@ -12,28 +12,28 @@
   "summaries": [
     {
       "dataset": "ours",
-      "n_submitted": 50,
-      "n_valid": 50,
+      "n_submitted": 100,
+      "n_valid": 100,
       "n_errors": 0,
-      "n_with_hallucination": 13,
-      "hallucination_rate": 0.26,
-      "total_flagged_claims": 19,
-      "total_caption_words": 6560,
-      "flagged_claims_per_100_words": 0.2896341463414634,
-      "avg_claims_per_hallucinated_caption": 1.4615384615384615,
-      "caption_length_mean": 131.2
+      "n_with_hallucination": 33,
+      "hallucination_rate": 0.33,
+      "total_flagged_claims": 47,
+      "total_caption_words": 13299,
+      "flagged_claims_per_100_words": 0.35341003082938566,
+      "avg_claims_per_hallucinated_caption": 1.4242424242424243,
+      "caption_length_mean": 132.99
     },
     {
       "dataset": "openvid",
       "n_submitted": 30,
       "n_valid": 30,
       "n_errors": 0,
-      "n_with_hallucination": 10,
-      "hallucination_rate": 0.3333333333333333,
-      "total_flagged_claims": 13,
+      "n_with_hallucination": 11,
+      "hallucination_rate": 0.36666666666666664,
+      "total_flagged_claims": 16,
       "total_caption_words": 3004,
-      "flagged_claims_per_100_words": 0.43275632490013316,
-      "avg_claims_per_hallucinated_caption": 1.3,
+      "flagged_claims_per_100_words": 0.5326231691078562,
+      "avg_claims_per_hallucinated_caption": 1.4545454545454546,
       "caption_length_mean": 100.13333333333334
     },
     {
