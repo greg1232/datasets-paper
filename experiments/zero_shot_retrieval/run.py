@@ -283,9 +283,9 @@ def main() -> int:
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT_DIR)
     parser.add_argument("--cache-dir", type=Path, default=DEFAULT_CACHE_DIR)
     parser.add_argument("--datasets", default="ours,openvid,internvid")
-    parser.add_argument("--sample-size-ours", type=int, default=1000)
-    parser.add_argument("--sample-size-openvid", type=int, default=200)
-    parser.add_argument("--sample-size-internvid", type=int, default=20)
+    parser.add_argument("--sample-size-ours", type=int, default=50)
+    parser.add_argument("--sample-size-openvid", type=int, default=50)
+    parser.add_argument("--sample-size-internvid", type=int, default=50)
     parser.add_argument("--openvid-shard", default="OpenVidHD/OpenVidHD_part_1.zip")
     parser.add_argument(
         "--length-caps",
