@@ -1,0 +1,40 @@
+{
+  "config": {
+    "model": "ViT-B-32",
+    "pretrained": "openai",
+    "device": "mps",
+    "k_temporal_bins": 3,
+    "min_duration_sec": 10.0,
+    "seed": 42,
+    "sample_sizes": {
+      "ours": 500,
+      "openvid": 200,
+      "internvid": 50
+    }
+  },
+  "summaries": [
+    {
+      "dataset": "ours",
+      "n_submitted": 500,
+      "n_eligible": 78,
+      "n_with_frames": 78,
+      "k": 3,
+      "min_duration": 10.0,
+      "diag_mean": 0.2761307251759065,
+      "offdiag_mean": 0.27422481049329805,
+      "diag_advantage": 0.0019059146826084228,
+      "argmax_accuracy": 0.34615384615384615,
+      "argmax_chance": 0.3333333333333333,
+      "shuffle_diag_mean": 0.18005521471301714,
+      "shuffle_offdiag_mean": 0.18030455466519052,
+      "shuffle_diag_advantage": -0.000249339952173383,
+      "net_diag_advantage": 0.002155254634781806
+    },
+    {
+      "dataset": "openvid",
+      "n_submitted": 200,
+      "n_eligible": 0,
+      "error": "no eligible long clips with splittable captions"
+    }
+  ]
+}
