@@ -1,0 +1,183 @@
+{
+  "config": {
+    "model": "ViT-B-32",
+    "pretrained": "openai",
+    "device": "mps",
+    "length_caps": [
+      132,
+      64,
+      32,
+      17
+    ],
+    "seed": 42,
+    "sample_sizes": {
+      "ours": 1000,
+      "openvid": 200,
+      "internvid": 20
+    }
+  },
+  "results": [
+    {
+      "dataset": "ours",
+      "n_pairs": 1000,
+      "per_length": {
+        "132": {
+          "n": 1000,
+          "t2v_R@1": 0.252,
+          "t2v_R@5": 0.496,
+          "t2v_R@10": 0.618,
+          "t2v_median_rank": 6.0,
+          "v2t_R@1": 0.254,
+          "v2t_R@5": 0.486,
+          "v2t_R@10": 0.64,
+          "v2t_median_rank": 6.0,
+          "actual_mean_len": 118.619
+        },
+        "64": {
+          "n": 1000,
+          "t2v_R@1": 0.241,
+          "t2v_R@5": 0.467,
+          "t2v_R@10": 0.58,
+          "t2v_median_rank": 7.0,
+          "v2t_R@1": 0.226,
+          "v2t_R@5": 0.468,
+          "v2t_R@10": 0.602,
+          "v2t_median_rank": 7.0,
+          "actual_mean_len": 53.087
+        },
+        "32": {
+          "n": 1000,
+          "t2v_R@1": 0.19,
+          "t2v_R@5": 0.387,
+          "t2v_R@10": 0.491,
+          "t2v_median_rank": 11.0,
+          "v2t_R@1": 0.15,
+          "v2t_R@5": 0.343,
+          "v2t_R@10": 0.466,
+          "v2t_median_rank": 13.0,
+          "actual_mean_len": 24.066
+        },
+        "17": {
+          "n": 1000,
+          "t2v_R@1": 0.145,
+          "t2v_R@5": 0.33,
+          "t2v_R@10": 0.441,
+          "t2v_median_rank": 14.0,
+          "v2t_R@1": 0.142,
+          "v2t_R@5": 0.296,
+          "v2t_R@10": 0.422,
+          "v2t_median_rank": 15.0,
+          "actual_mean_len": 16.381
+        }
+      }
+    },
+    {
+      "dataset": "openvid",
+      "n_pairs": 200,
+      "per_length": {
+        "132": {
+          "n": 200,
+          "t2v_R@1": 0.795,
+          "t2v_R@5": 0.95,
+          "t2v_R@10": 0.97,
+          "t2v_median_rank": 1.0,
+          "v2t_R@1": 0.845,
+          "v2t_R@5": 0.98,
+          "v2t_R@10": 0.99,
+          "v2t_median_rank": 1.0,
+          "actual_mean_len": 97.68
+        },
+        "64": {
+          "n": 200,
+          "t2v_R@1": 0.765,
+          "t2v_R@5": 0.955,
+          "t2v_R@10": 0.97,
+          "t2v_median_rank": 1.0,
+          "v2t_R@1": 0.86,
+          "v2t_R@5": 0.985,
+          "v2t_R@10": 0.99,
+          "v2t_median_rank": 1.0,
+          "actual_mean_len": 54.76
+        },
+        "32": {
+          "n": 200,
+          "t2v_R@1": 0.64,
+          "t2v_R@5": 0.895,
+          "t2v_R@10": 0.93,
+          "t2v_median_rank": 1.0,
+          "v2t_R@1": 0.79,
+          "v2t_R@5": 0.96,
+          "v2t_R@10": 0.99,
+          "v2t_median_rank": 1.0,
+          "actual_mean_len": 24.345
+        },
+        "17": {
+          "n": 200,
+          "t2v_R@1": 0.535,
+          "t2v_R@5": 0.775,
+          "t2v_R@10": 0.855,
+          "t2v_median_rank": 1.0,
+          "v2t_R@1": 0.615,
+          "v2t_R@5": 0.86,
+          "v2t_R@10": 0.925,
+          "v2t_median_rank": 1.0,
+          "actual_mean_len": 15.215
+        }
+      }
+    },
+    {
+      "dataset": "internvid",
+      "n_pairs": 20,
+      "per_length": {
+        "132": {
+          "n": 20,
+          "t2v_R@1": 0.95,
+          "t2v_R@5": 1.0,
+          "t2v_R@10": 1.0,
+          "t2v_median_rank": 1.0,
+          "v2t_R@1": 0.95,
+          "v2t_R@5": 1.0,
+          "v2t_R@10": 1.0,
+          "v2t_median_rank": 1.0,
+          "actual_mean_len": 9.25
+        },
+        "64": {
+          "n": 20,
+          "t2v_R@1": 0.95,
+          "t2v_R@5": 1.0,
+          "t2v_R@10": 1.0,
+          "t2v_median_rank": 1.0,
+          "v2t_R@1": 0.95,
+          "v2t_R@5": 1.0,
+          "v2t_R@10": 1.0,
+          "v2t_median_rank": 1.0,
+          "actual_mean_len": 9.25
+        },
+        "32": {
+          "n": 20,
+          "t2v_R@1": 0.95,
+          "t2v_R@5": 1.0,
+          "t2v_R@10": 1.0,
+          "t2v_median_rank": 1.0,
+          "v2t_R@1": 0.95,
+          "v2t_R@5": 1.0,
+          "v2t_R@10": 1.0,
+          "v2t_median_rank": 1.0,
+          "actual_mean_len": 9.25
+        },
+        "17": {
+          "n": 20,
+          "t2v_R@1": 0.95,
+          "t2v_R@5": 1.0,
+          "t2v_R@10": 1.0,
+          "t2v_median_rank": 1.0,
+          "v2t_R@1": 0.95,
+          "v2t_R@5": 1.0,
+          "v2t_R@10": 1.0,
+          "v2t_median_rank": 1.0,
+          "actual_mean_len": 9.25
+        }
+      }
+    }
+  ]
+}
