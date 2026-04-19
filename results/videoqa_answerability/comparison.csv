@@ -1,0 +1,4 @@
+Dataset,N submitted,N valid,Total Qs,Overall accuracy,Unknown rate,Mean per-clip accuracy
+ours,40,40,120,0.608,0.067,0.608
+openvid,20,20,60,0.700,0.017,0.700
+internvid,15,15,45,0.667,0.044,0.667

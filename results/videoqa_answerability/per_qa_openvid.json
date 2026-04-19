@@ -1,0 +1,602 @@
+[
+  {
+    "video_id": "8uLzRDExhBk_11_0to106",
+    "caption": "The video shows a futuristic helmet with a clear visor, placed on a white surface in a workshop setting. The helmet is black with red accents and appears to be made of a durable material, possibly plastic or metal. In the background, there is a yellow cabinet and a wooden workbench with various tools and equipment. A dog is also present in the scene, looking at the helmet with curiosity. The style of the video is a combination of science fiction and everyday life, with a focus on the helmet as the main subject. The workshop setting suggests that the helmet may be a prototype or a custom-made piece. The dog adds a touch of warmth and personality to the otherwise industrial environment.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What color is the helmet's visor?",
+          "caption_answer": "Clear",
+          "video_answer": "Dark/Black/Tinted",
+          "match": 0
+        },
+        {
+          "q": "What color is the cabinet visible in the background?",
+          "caption_answer": "Yellow",
+          "video_answer": "White and blue",
+          "match": 0
+        },
+        {
+          "q": "What color accents does the black helmet have?",
+          "caption_answer": "Red",
+          "video_answer": "Red accents",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "z7zRFdFH-ys_26_0to114",
+    "caption": "The video is a stylized, artistic representation of a clock face, set against a starry night sky. The clock face is circular, with Roman numerals marking the hours. The stars are scattered throughout the image, creating a sense of depth and vastness. The colors are predominantly dark, with the stars and clock face providing a stark contrast. The overall style of the video is abstract and dreamlike, evoking a sense of mystery and wonder.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What type of numerals are displayed on the clock face?",
+          "caption_answer": "Roman numerals",
+          "video_answer": "Roman numerals",
+          "match": 1
+        },
+        {
+          "q": "What is the shape of the clock face?",
+          "caption_answer": "Circular",
+          "video_answer": "Circular",
+          "match": 1
+        },
+        {
+          "q": "What is the dominant color tone of the background?",
+          "caption_answer": "Dark",
+          "video_answer": "Dark blue and purple",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "ZNJpKn0LVh8_6_0to122",
+    "caption": "The video depicts a tranquil scene of a woman sleeping peacefully in bed. The focus of the video is a black alarm clock with a white face, which is placed on a wooden nightstand next to the bed. The clock is set to 7:30, indicating the time of the morning. The woman is dressed in a white nightgown, adding to the serene atmosphere of the scene. The overall style of the video is calm and soothing, capturing a quiet moment of rest and relaxation.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What color is the alarm clock's face?",
+          "caption_answer": "White",
+          "video_answer": "Cream/beige colored",
+          "match": 1
+        },
+        {
+          "q": "What time does the alarm clock display?",
+          "caption_answer": "7:30",
+          "video_answer": "3 o'clock",
+          "match": 0
+        },
+        {
+          "q": "What color nightgown is the woman wearing?",
+          "caption_answer": "White",
+          "video_answer": "Blue",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "i2ie35t4MQE_2_0to114",
+    "caption": "The video features a man with glasses speaking into a microphone. He is wearing a white shirt and appears to be in a studio setting with a black background. The man is looking directly at the camera, suggesting that he is addressing an audience or recording a podcast. The microphone is positioned close to his mouth, indicating that he is actively speaking. The style of the video is straightforward and professional, with a focus on the man and his speech.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What color is the man's shirt?",
+          "caption_answer": "White",
+          "video_answer": "White",
+          "match": 1
+        },
+        {
+          "q": "What is the background color behind the man?",
+          "caption_answer": "Black",
+          "video_answer": "Black",
+          "match": 1
+        },
+        {
+          "q": "What is the man wearing on his face?",
+          "caption_answer": "Glasses",
+          "video_answer": "Glasses",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "Kzx3JGB0QPU_32_0to122",
+    "caption": "The video features a man with a gray beard and a bald head, wearing a blue shirt. He is seated in a room with a window in the background. The man appears to be speaking, as suggested by his open mouth and focused gaze. The style of the video is a straightforward interview or news segment, with the man as the central subject. The room setting is simple and uncluttered, allowing the viewer to focus on the man and his words. The window in the background provides a natural light source, creating a bright and airy atmosphere. The overall impression is one of a serious and professional discussion.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What color is the man's shirt?",
+          "caption_answer": "Blue",
+          "video_answer": "Dark gray or black",
+          "match": 0
+        },
+        {
+          "q": "What is the state of the man's head?",
+          "caption_answer": "Bald",
+          "video_answer": "Bald or shaved head",
+          "match": 1
+        },
+        {
+          "q": "What facial feature does the man have?",
+          "caption_answer": "Gray beard",
+          "video_answer": "Goatee beard",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "zMQI7yA9W-4_0_366to468",
+    "caption": "The video is a close-up portrait of a woman with a soft, natural makeup look. She has a light complexion and her hair is styled in a neat, dark braid. Her eyes are looking directly at the camera, and she has a gentle, relaxed expression. She is wearing a small, delicate earring in her left ear. The background is blurred, but it appears to be an indoor setting with a plant and a white wall. The lighting is soft and warm, highlighting the woman's features and creating a serene atmosphere. The style of the video is simple and elegant, focusing on the woman's beauty and the gentle, natural setting.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the woman's hair styled as?",
+          "caption_answer": "Dark",
+          "video_answer": "Black",
+          "match": 1
+        },
+        {
+          "q": "Which ear has a visible earring?",
+          "caption_answer": "Left ear",
+          "video_answer": "Right ear",
+          "match": 0
+        },
+        {
+          "q": "What color is the wall visible in the background?",
+          "caption_answer": "White",
+          "video_answer": "White",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "VWntGCy49TY_33_17to128",
+    "caption": "In the video, two men are seen in a forest setting. The first man is wearing a black hoodie and is seated on a log, with his arms crossed. The second man is wearing a padded muscle suit, giving him an exaggeratedly muscular appearance. He is standing and looking down at the ground, with his hands on his knees. The forest around them is lush and green, with trees and foliage filling the background. The overall style of the video is casual and candid, capturing a moment between the two men in a natural setting.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What color is the first man's hoodie?",
+          "caption_answer": "Black",
+          "video_answer": "Black",
+          "match": 1
+        },
+        {
+          "q": "What is the second man wearing that gives him an exaggerated appearance?",
+          "caption_answer": "Padded muscle suit",
+          "video_answer": "Padded/puffy jacket",
+          "match": 1
+        },
+        {
+          "q": "What is the first man's arm position?",
+          "caption_answer": "Crossed",
+          "video_answer": "Crossed/folded across chest",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "TbO5R3dS-6A_6_0to136",
+    "caption": "The video features a man in a yellow shirt with a brown vest over it. He is standing against a plain background. The man appears to be in a state of deep thought or contemplation, as he has his eyes closed and his mouth slightly open. The style of the video is simple and straightforward, with no additional elements or distractions. The focus is solely on the man and his expression. The lighting in the video is even, with no harsh shadows or highlights, which suggests a controlled indoor environment. The man's clothing is casual, and his posture is relaxed, further emphasizing the introspective nature of the scene.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What color is the shirt the man is wearing?",
+          "caption_answer": "Yellow",
+          "video_answer": "Yellow",
+          "match": 1
+        },
+        {
+          "q": "What is worn over the man's shirt?",
+          "caption_answer": "Brown vest",
+          "video_answer": "Tan/beige vest",
+          "match": 0
+        },
+        {
+          "q": "What is the state of the man's eyes?",
+          "caption_answer": "Closed",
+          "video_answer": "Varying - open and closed",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "2nepnsSFWcs_84_75to183",
+    "caption": "The video features a man with a beard and mustache, wearing a black shirt with yellow trim. He is standing against a gray background. The man is looking directly at the camera with a slight smile. The style of the video is a straightforward portrait with a focus on the man's face and upper body. The lighting is even, and there are no other objects or people in the frame. The man's expression is relaxed and approachable. The video does not contain any action or movement, and the focus is solely on the man's appearance and demeanor.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What color is the trim on the man's shirt?",
+          "caption_answer": "Yellow",
+          "video_answer": "Yellow and black",
+          "match": 0
+        },
+        {
+          "q": "What color is the background behind the man?",
+          "caption_answer": "Gray",
+          "video_answer": "Gray",
+          "match": 1
+        },
+        {
+          "q": "What facial hair does the man have?",
+          "caption_answer": "Beard and mustache",
+          "video_answer": "Mustache and goatee",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "uO7fVvmaSVI_23_0to125",
+    "caption": "The video shows a young man in a kitchen, wearing a black apron and a blue baseball cap. He is looking to the side with a slight frown on his face. The kitchen is filled with various appliances and utensils, including a refrigerator, an oven, and a sink. The lighting in the kitchen is bright, and the colors are warm. The man appears to be in the middle of cooking or preparing a meal. The style of the video is realistic and it captures the everyday life of a person in a kitchen.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the man's baseball cap?",
+          "caption_answer": "Blue",
+          "video_answer": "Blue",
+          "match": 1
+        },
+        {
+          "q": "What type of apron is the man wearing?",
+          "caption_answer": "Black apron",
+          "video_answer": "Black apron",
+          "match": 1
+        },
+        {
+          "q": "What direction is the man looking?",
+          "caption_answer": "To the side",
+          "video_answer": "Downward then rightward",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "P5f05yqIr9E_75_23to127",
+    "caption": "The video features a bald animated character with a large head and small body, wearing a blue and yellow hoodie. The character is shown in three different poses, each with a different facial expression. The character is sitting down in a white room with a plain background. The style of the animation is simplistic and cartoonish, with a focus on the character's facial expressions and body language. The character's movements are smooth and fluid, suggesting a sense of ease and comfort. The overall tone of the video is light-hearted and playful.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What color is the character's hoodie?",
+          "caption_answer": "Blue and yellow",
+          "video_answer": "Blue and yellow",
+          "match": 1
+        },
+        {
+          "q": "What is the setting's background like?",
+          "caption_answer": "White room with plain background",
+          "video_answer": "Light gray/white gradient",
+          "match": 1
+        },
+        {
+          "q": "What physical characteristic does the character have?",
+          "caption_answer": "Bald with large head",
+          "video_answer": "Bald pink head",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "KJ3aaGDE67M_65_22to158",
+    "caption": "The video shows a person preparing a meal at a table. The table is covered with various food items and utensils. In the first frame, the person is seen holding a banana, which they peel and place on a cutting board. In the second frame, the person is seen cutting the banana into slices using a knife. In the third frame, the person is seen holding a spoon, presumably to serve the sliced banana. The table also has a bowl of chips, a bowl of hummus, a bowl of salsa, a bottle of oil, a bowl of nuts, a lime, and a knife. The person is wearing a black shirt and a white apron. The style of the video is a close-up shot of the person preparing the meal, focusing on the food and the person's hands. The video does not show the person's face or the rest of their body. The video is likely meant to showcase the food preparation process and the various ingredients used.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What color is the apron the person is wearing?",
+          "caption_answer": "White",
+          "video_answer": "Pink/purple patterned apron",
+          "match": 0
+        },
+        {
+          "q": "What fruit is the person peeling in the first frame?",
+          "caption_answer": "Banana",
+          "video_answer": "Banana",
+          "match": 1
+        },
+        {
+          "q": "What utensil is the person holding in the third frame?",
+          "caption_answer": "Spoon",
+          "video_answer": "Yellow utensil/peeler",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "YUJF-L7yOkc_12_124to242",
+    "caption": "The image shows two women engaged in a conversation. The woman on the left has long brown hair and is wearing glasses. She is wearing a black top and appears to be listening intently to the other woman. The woman on the right has long blonde hair and is wearing a yellow top. She is facing the woman on the left, suggesting that they are having a one-on-one conversation. The background is blurred, but it appears to be an indoor setting with a wall and a door. The overall style of the image is realistic and it seems to be a still from a television show or movie.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 1,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the top worn by the woman on the left?",
+          "caption_answer": "Black",
+          "video_answer": "Black",
+          "match": 1
+        },
+        {
+          "q": "What color is the hair of the woman on the right?",
+          "caption_answer": "Blonde",
+          "video_answer": "Yellow",
+          "match": 1
+        },
+        {
+          "q": "What color top is the woman on the right wearing?",
+          "caption_answer": "Yellow",
+          "video_answer": "Unknown",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "QUw2-P8y8CY_69_28to136",
+    "caption": "The video features a man in a kitchen, wearing a blue shirt and a cap, who is engaged in a cooking demonstration. He is holding a knife and appears to be in the process of cutting or preparing food. The kitchen is well-equipped with various appliances and utensils, including a blender, a toaster, and a coffee maker. The man is standing in front of a white tiled wall, which adds a clean and modern aesthetic to the scene. The overall style of the video suggests that it is a cooking tutorial or a food-related show, with a focus on the man's actions and the kitchen environment.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the man's shirt?",
+          "caption_answer": "Blue",
+          "video_answer": "Light blue/gray",
+          "match": 1
+        },
+        {
+          "q": "What is the man holding in his hand?",
+          "caption_answer": "A knife",
+          "video_answer": "White cup or mug",
+          "match": 0
+        },
+        {
+          "q": "What color are the wall tiles behind the man?",
+          "caption_answer": "White",
+          "video_answer": "White",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "uf7ZImHRb3Q_31_369to506",
+    "caption": "In the video, a person is seen creating a colorful and whimsical ice cream treat. The ice cream is placed in a classic waffle cone, which is held by the person. The ice cream itself is a vibrant purple color, and it is topped with a pink and purple unicorn horn, adding a playful touch to the dessert. The person is using a knife to carefully cut the unicorn horn, ensuring that it is placed just right on the ice cream. The entire scene is set against a simple white background, which allows the colorful ice cream and the intricate details of the unicorn horn to stand out. The video captures the creativity and fun involved in making this unique ice cream treat.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the ice cream in the cone?",
+          "caption_answer": "Vibrant purple",
+          "video_answer": "Purple and pink",
+          "match": 1
+        },
+        {
+          "q": "What type of cone holds the ice cream?",
+          "caption_answer": "Waffle cone",
+          "video_answer": "Waffle cone",
+          "match": 1
+        },
+        {
+          "q": "What colors are the unicorn horn topping?",
+          "caption_answer": "Pink and purple",
+          "video_answer": "Purple and dark purple",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "ZoH4rRAKwno_6_363to473",
+    "caption": "In the video, a man with a mustache and glasses is seen holding a large brown guitar. He is dressed in a black shirt and is seated in a room filled with various guitars. The room has a wooden wall and a carpeted floor, creating a warm and inviting atmosphere. The man appears to be in the process of playing the guitar, as he holds it up and strums the strings. The video captures the essence of a musician in his element, surrounded by his passion for music.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What color is the large guitar the man is holding?",
+          "caption_answer": "Brown",
+          "video_answer": "Sunburst red and brown",
+          "match": 1
+        },
+        {
+          "q": "What type of eyewear is the man wearing?",
+          "caption_answer": "Glasses",
+          "video_answer": "Glasses",
+          "match": 1
+        },
+        {
+          "q": "What color is the man's shirt?",
+          "caption_answer": "Black",
+          "video_answer": "Black",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "-H8k-D7kYPw_243_0to108",
+    "caption": "The video shows two men sitting next to each other in a room with a large table in the background. The man on the left is wearing a dark-colored shirt and appears to be looking down, possibly at a piece of paper or a device. The man on the right is wearing a light-colored shirt and is looking towards the camera with a thoughtful expression. The room has a window in the background, allowing natural light to enter. The style of the video is a straightforward, candid shot, capturing a moment of quiet interaction between the two men.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color shirt is the man on the left wearing?",
+          "caption_answer": "Dark-colored shirt",
+          "video_answer": "Dark blue or navy",
+          "match": 1
+        },
+        {
+          "q": "What color shirt is the man on the right wearing?",
+          "caption_answer": "Light-colored shirt",
+          "video_answer": "Black",
+          "match": 0
+        },
+        {
+          "q": "What large piece of furniture is visible in the background?",
+          "caption_answer": "A large table",
+          "video_answer": "Table",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "VzAxVNRPOME_14_49to176",
+    "caption": "The video features a man sitting on a couch in a room with a white wall. He is wearing a black shirt and has a surprised or puzzled expression on his face. The room has a lamp with a black shade and a picture frame on the wall. There is a bookcase with various items in it. The man is holding his leg up and has a ring on his finger. The video has a subscribe button in the bottom right corner. The style of the video is casual and informal, with a focus on the man's reaction.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What color is the man's shirt?",
+          "caption_answer": "Black",
+          "video_answer": "Black",
+          "match": 1
+        },
+        {
+          "q": "What is the color of the lamp shade?",
+          "caption_answer": "Black",
+          "video_answer": "Black",
+          "match": 1
+        },
+        {
+          "q": "Where is the subscribe button located?",
+          "caption_answer": "Bottom right corner",
+          "video_answer": "Bottom right of frame",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "QCJin8ONvtU_18_20to156",
+    "caption": "In the video, a woman is seen in a kitchen setting, holding a white paper plate with a small piece of food on it. She appears to be surprised or impressed by the food, as she is making a funny face and looking at it closely. The kitchen is well-lit and features white cabinets and a tiled backsplash. There are various kitchen items visible, such as a potted plant, a vase, and a sink. The woman is wearing a dark-colored shirt and has short blonde hair. The overall style of the video is casual and humorous, with a focus on the woman's reaction to the food.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What color is the plate the woman is holding?",
+          "caption_answer": "White",
+          "video_answer": "White",
+          "match": 1
+        },
+        {
+          "q": "What color are the kitchen cabinets?",
+          "caption_answer": "White",
+          "video_answer": "White/cream colored",
+          "match": 1
+        },
+        {
+          "q": "What color is the woman's shirt?",
+          "caption_answer": "Dark-colored",
+          "video_answer": "Dark blue/navy",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "FYrDfiMPa2E_19_17to160",
+    "caption": "In the video, a group of four people are sitting on a couch in a living room setting. The room is decorated with a nautical theme, featuring a sailboat model on the wall. The individuals are engaged in a conversation, with one person holding a piece of paper. The overall style of the video is casual and relaxed, capturing a moment of friendly interaction among the group.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What type of model is displayed on the wall?",
+          "caption_answer": "A sailboat model",
+          "video_answer": "Sailboat model",
+          "match": 1
+        },
+        {
+          "q": "How many people are sitting on the couch?",
+          "caption_answer": "Four people",
+          "video_answer": "Four people",
+          "match": 1
+        },
+        {
+          "q": "What is one person holding in their hand?",
+          "caption_answer": "A piece of paper",
+          "video_answer": "Papers/documents",
+          "match": 1
+        }
+      ]
+    }
+  }
+]

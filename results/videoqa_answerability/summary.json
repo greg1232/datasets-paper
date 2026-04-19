@@ -1,0 +1,53 @@
+{
+  "config": {
+    "gen_model": "claude-haiku-4-5-20251001",
+    "ans_model": "claude-haiku-4-5-20251001",
+    "judge_model": "claude-haiku-4-5-20251001",
+    "frames_per_clip": 4,
+    "n_questions": 3,
+    "seed": 42,
+    "sample_sizes": {
+      "ours": 40,
+      "openvid": 20,
+      "internvid": 15
+    }
+  },
+  "summaries": [
+    {
+      "dataset": "ours",
+      "n_submitted": 40,
+      "n_valid": 40,
+      "n_errors": 0,
+      "mean_accuracy_per_clip": 0.6083333333333333,
+      "total_questions": 120,
+      "total_matched": 73,
+      "total_unknown": 8,
+      "overall_accuracy": 0.6083333333333333,
+      "unknown_rate": 0.06666666666666667
+    },
+    {
+      "dataset": "openvid",
+      "n_submitted": 20,
+      "n_valid": 20,
+      "n_errors": 0,
+      "mean_accuracy_per_clip": 0.7,
+      "total_questions": 60,
+      "total_matched": 42,
+      "total_unknown": 1,
+      "overall_accuracy": 0.7,
+      "unknown_rate": 0.016666666666666666
+    },
+    {
+      "dataset": "internvid",
+      "n_submitted": 15,
+      "n_valid": 15,
+      "n_errors": 0,
+      "mean_accuracy_per_clip": 0.6666666666666666,
+      "total_questions": 45,
+      "total_matched": 30,
+      "total_unknown": 2,
+      "overall_accuracy": 0.6666666666666666,
+      "unknown_rate": 0.044444444444444446
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "video_id": "_8zzdOnrlF4",
+    "caption": "soccer player is escorted off the field by players and referee.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What sport uniform is the person wearing?",
+          "caption_answer": "Soccer uniform",
+          "video_answer": "Football/Soccer uniform",
+          "match": 1
+        },
+        {
+          "q": "How many people are escorting the player off the field?",
+          "caption_answer": "Multiple players and referee",
+          "video_answer": "Multiple staff members",
+          "match": 0
+        },
+        {
+          "q": "Where is this action taking place?",
+          "caption_answer": "On the soccer field",
+          "video_answer": "Football/Soccer field",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "yFmrHyZqie4",
+    "caption": "a basketball player is laying on the ground while trying to catch a ball",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What is the player's body position?",
+          "caption_answer": "Laying on the ground",
+          "video_answer": "Falling/diving to ground",
+          "match": 1
+        },
+        {
+          "q": "What sport is being played?",
+          "caption_answer": "Basketball",
+          "video_answer": "Basketball",
+          "match": 1
+        },
+        {
+          "q": "What is the player attempting to do with the ball?",
+          "caption_answer": "Catch it",
+          "video_answer": "Shooting or passing ball",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "CKsmcYSIqFE",
+    "caption": "man playing golf in a green field",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What sport is the man playing?",
+          "caption_answer": "Golf",
+          "video_answer": "Parkour or gymnastics",
+          "match": 0
+        },
+        {
+          "q": "What color is the field?",
+          "caption_answer": "Green",
+          "video_answer": "Green",
+          "match": 1
+        },
+        {
+          "q": "How many people are visible in the video?",
+          "caption_answer": "One man",
+          "video_answer": "2",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "h0KjLH3kYWk",
+    "caption": "a thumbs up sign on a black background",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 2,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What color is the background?",
+          "caption_answer": "Black",
+          "video_answer": "Black",
+          "match": 1
+        },
+        {
+          "q": "What hand gesture is shown?",
+          "caption_answer": "Thumbs up",
+          "video_answer": "Unknown",
+          "match": 0
+        },
+        {
+          "q": "What color is the thumbs up sign?",
+          "caption_answer": "Not specified in description",
+          "video_answer": "Unknown",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "3XUqxsf9oHg",
+    "caption": "a woman stands by a car that is stuck in the mud",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What is the condition of the ground surrounding the car?",
+          "caption_answer": "Mud",
+          "video_answer": "Muddy and wet",
+          "match": 1
+        },
+        {
+          "q": "What is the woman's position relative to the car?",
+          "caption_answer": "Standing beside it",
+          "video_answer": "In front of the car",
+          "match": 0
+        },
+        {
+          "q": "What is the status of the car?",
+          "caption_answer": "Stuck in mud",
+          "video_answer": "Stuck in mud",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "ycrVulfnJxo",
+    "caption": "a man standing in a gym in a blue room.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the room?",
+          "caption_answer": "Blue",
+          "video_answer": "White and blue",
+          "match": 1
+        },
+        {
+          "q": "What setting is the man in?",
+          "caption_answer": "A gym",
+          "video_answer": "Indoor gymnasium/training facility",
+          "match": 1
+        },
+        {
+          "q": "What is the man's posture?",
+          "caption_answer": "Standing",
+          "video_answer": "Running with high knees",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "J_B3RrsIevM",
+    "caption": "a korean language displaying the word sado kr",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What language is displayed in the video?",
+          "caption_answer": "Korean",
+          "video_answer": "Korean",
+          "match": 1
+        },
+        {
+          "q": "What word appears on screen?",
+          "caption_answer": "sado kr",
+          "video_answer": "sado.kr",
+          "match": 1
+        },
+        {
+          "q": "What characters make up the visible text?",
+          "caption_answer": "Korean letters and 'kr'",
+          "video_answer": "\uc2e0\ub3d9\ud558 \ub3c4\uc790\uae30 sado.kr",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "8OeuAnWhbnc",
+    "caption": "a man in a wetsuit jumping into a swimming pool",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the man's wetsuit?",
+          "caption_answer": "Not specified in description",
+          "video_answer": "Dark blue/navy",
+          "match": 1
+        },
+        {
+          "q": "What type of body of water is shown?",
+          "caption_answer": "A swimming pool",
+          "video_answer": "Swimming pool",
+          "match": 1
+        },
+        {
+          "q": "What action is the man performing?",
+          "caption_answer": "Jumping into the pool",
+          "video_answer": "Swimming/treading water",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "NqrHN6XxDow",
+    "caption": "a hand holding a red boat made of plastic",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the boat being held?",
+          "caption_answer": "Red",
+          "video_answer": "Red",
+          "match": 1
+        },
+        {
+          "q": "What material is the boat made from?",
+          "caption_answer": "Plastic",
+          "video_answer": "Plastic",
+          "match": 1
+        },
+        {
+          "q": "What part of a person is visible in the clip?",
+          "caption_answer": "A hand",
+          "video_answer": "Hand and face",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "1xu8oeHeRzU",
+    "caption": "two judokas fighting in the crowd",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What sport are the athletes competing in?",
+          "caption_answer": "Judo",
+          "video_answer": "Judo",
+          "match": 1
+        },
+        {
+          "q": "How many athletes are actively fighting?",
+          "caption_answer": "Two",
+          "video_answer": "Two athletes",
+          "match": 1
+        },
+        {
+          "q": "What is the setting for this match?",
+          "caption_answer": "In the crowd",
+          "video_answer": "Indoor arena with audience",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "wCBgd4nYdJc",
+    "caption": "the contents of an asian card is shown",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What type of object is being displayed?",
+          "caption_answer": "An Asian card",
+          "video_answer": "Product packaging/box",
+          "match": 0
+        },
+        {
+          "q": "What is visible on the card's surface?",
+          "caption_answer": "Contents of the card",
+          "video_answer": "Chinese and Japanese text",
+          "match": 1
+        },
+        {
+          "q": "What is the primary focus of the video?",
+          "caption_answer": "Showing the card's contents",
+          "video_answer": "Displaying product information details",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "tBSgmyX5_D8",
+    "caption": "a man is showing off the navigation features on his watch",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What type of device is the man displaying?",
+          "caption_answer": "A watch",
+          "video_answer": "Citizen wristwatch",
+          "match": 1
+        },
+        {
+          "q": "What feature of the watch is being demonstrated?",
+          "caption_answer": "Navigation features",
+          "video_answer": "World time/GMT function",
+          "match": 0
+        },
+        {
+          "q": "What is the man doing with the watch?",
+          "caption_answer": "Showing off its features",
+          "video_answer": "Rotating and displaying the dial",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "wdupWOx_828",
+    "caption": "kirby 44 anime character",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What is the name displayed for this character?",
+          "caption_answer": "Kirby 44",
+          "video_answer": "Kirby (\u307e\u308b\u30d4\u30f3\u30af)",
+          "match": 1
+        },
+        {
+          "q": "What art style is this character rendered in?",
+          "caption_answer": "Anime",
+          "video_answer": "Cute cartoon/anime style",
+          "match": 1
+        },
+        {
+          "q": "What type of character is shown in the video?",
+          "caption_answer": "Animated character",
+          "video_answer": "Pink puffball character",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "hB2eIe9HTrw",
+    "caption": "the screen of a game on the korean language",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What language appears in the game interface?",
+          "caption_answer": "Korean",
+          "video_answer": "Korean",
+          "match": 1
+        },
+        {
+          "q": "What type of screen is being displayed?",
+          "caption_answer": "Game screen",
+          "video_answer": "Battle/gameplay screen",
+          "match": 1
+        },
+        {
+          "q": "What is visible on the displayed screen?",
+          "caption_answer": "Game interface with text",
+          "video_answer": "Units, enemies, health bar, arrows",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "UwSAGZmpglw",
+    "caption": "two cartoons show two students on a schoolyard",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What type of characters are shown in the video?",
+          "caption_answer": "Cartoon students",
+          "video_answer": "Cartoon children/students",
+          "match": 1
+        },
+        {
+          "q": "How many cartoon students are visible?",
+          "caption_answer": "Two",
+          "video_answer": "Three",
+          "match": 0
+        },
+        {
+          "q": "Where are the students located?",
+          "caption_answer": "Schoolyard",
+          "video_answer": "Outside a school building",
+          "match": 1
+        }
+      ]
+    }
+  }
+]

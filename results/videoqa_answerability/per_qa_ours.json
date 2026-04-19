@@ -1,0 +1,1202 @@
+[
+  {
+    "video_id": "37cc4fe62908ff291e7986fe7b073fff",
+    "caption": "A woman with dark, shoulder-length hair and black-rimmed glasses stands against a solid black background. She is wearing a light green tunic featuring embroidered floral details around the neckline and a simple black necklace. A small lapel microphone is clipped to the front of her clothing. Throughout the sequence, the woman is speaking, with her mouth opening and closing and her facial expression shifting slightly as she delivers her presentation. In the bottom-left corner of each scene, a small circular logo is accompanied by the text \"NPTEL\". The woman remains centered in the frame, maintaining a consistent posture and position while gesturing subtly with her facial expressions as she talks. The lighting remains constant, highlighting her face and clothing against the dark void of the background.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What color is the woman's tunic?",
+          "caption_answer": "Light green",
+          "video_answer": "Light green",
+          "match": 1
+        },
+        {
+          "q": "What text appears in the bottom-left corner?",
+          "caption_answer": "NPTEL",
+          "video_answer": "NPTEL",
+          "match": 1
+        },
+        {
+          "q": "What type of accessory is clipped to her clothing?",
+          "caption_answer": "Lapel microphone",
+          "video_answer": "Microphone",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "0c0f38fcfde73f554ba87666b7a0f370",
+    "caption": "A person with a white watch on their left wrist is shown working on a white tabletop. They are manipulating a square piece of patterned paper with olive green, yellow, and white mottled colors. In the beginning, they hold the paper by the left edge, and then they use their right hand to adjust its position on a clear cutting mat. Nearby objects include a silver ruler, an ink pad labeled \"MEMENTO\", and small packages with text such as \"Thank You\". A watermark reading \"Stamping Jill\" is visible in the bottom left corner of each scene. As the sequence progresses, the person shifts the patterned paper, sliding it across the mat while guiding it with both hands to align it for a project.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What color is the watch visible on the person's wrist?",
+          "caption_answer": "White",
+          "video_answer": "White",
+          "match": 1
+        },
+        {
+          "q": "What colors are present in the patterned paper being worked on?",
+          "caption_answer": "Olive green, yellow, and white",
+          "video_answer": "Gold, green, and yellow",
+          "match": 0
+        },
+        {
+          "q": "What text appears on the ink pad shown in the video?",
+          "caption_answer": "MEMENTO",
+          "video_answer": "Kit Memento",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "87f35f52d9383abb3842dd9ecc356094",
+    "caption": "A gray Dodge Challenger is showcased in an outdoor parking area near a grassy area with trees. The first frame provides a side profile of the car's front end, showing a sleek gray finish and a black wheel. A white truck with red text on its side is partially visible in the background. The scene shifts to a front-facing view of the car, highlighting its headlights, grille, and a small \"Challenger\" badge on the front. The view then moves to a close-up of the driver's side door handle. Finally, a hand is seen reaching inside the vehicle, touching a bright red seat. The car's interior features dark gray flooring and red upholstery. Throughout the sequence, the focus transitions from the car's exterior styling to its interior details.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 0,
+      "n_unknown": 1,
+      "accuracy": 0.0,
+      "qa": [
+        {
+          "q": "What color is the Dodge Challenger shown in the video?",
+          "caption_answer": "Gray",
+          "video_answer": "Black",
+          "match": 0
+        },
+        {
+          "q": "What color are the vehicle's interior seats?",
+          "caption_answer": "Bright red",
+          "video_answer": "Unknown",
+          "match": 0
+        },
+        {
+          "q": "What is visible on the white truck in the background?",
+          "caption_answer": "Red text",
+          "video_answer": "Roof rack or cargo carrier",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "7a70181f69d9bc4c326d7bc4c4b5273b",
+    "caption": "A man is seated in a studio setting, positioned in front of a wall decorated with numerous framed photographs. He is wearing a white button-down shirt with tan suspenders, a small bow tie, glasses, and over-ear headphones. Most notably, he wears a large, grey, peaked wig on his head. A professional microphone is positioned in the foreground to his left. To the left and right of the man, on-screen graphics are visible, including a logo featuring a microphone and the text \"BOSS TALK 101\" and \"PODCAST\". As the sequence progresses, the man remains seated, shifting his gaze slightly and adjusting his facial expression while speaking. He appears to be engaged in a conversation or recording a podcast, with the camera maintaining a steady medium shot focused on his upper body.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the wig the man is wearing?",
+          "caption_answer": "Grey",
+          "video_answer": "Gray/white",
+          "match": 1
+        },
+        {
+          "q": "What text appears in the on-screen graphics?",
+          "caption_answer": "BOSS TALK 101 and PODCAST",
+          "video_answer": "ESTUDIO podcast",
+          "match": 0
+        },
+        {
+          "q": "What color is the man's shirt?",
+          "caption_answer": "White",
+          "video_answer": "White",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "6f93ea66dceaf870ddb75fc044ebac54",
+    "caption": "A shirtless man wearing dark shorts is in a living room equipped with a large television on a white media console, a white modern chair, and a tall dark vase. In the first frame, the man stands with his back to the camera, facing the television. By the second frame, he has jumped high into the air, his body elevated above the floor. In the third frame, he is landing back on the ground, though his motion is blurred. By the final frame, the man has completely exited the scene, leaving the room empty. The room contains various decorative items, including a geometric wall piece and several smaller objects on the console. The footage is captured in grayscale, and there is no visible on-screen text or logos.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color are the man's shorts?",
+          "caption_answer": "Dark",
+          "video_answer": "Black",
+          "match": 1
+        },
+        {
+          "q": "What is the media console color?",
+          "caption_answer": "White",
+          "video_answer": "Black",
+          "match": 0
+        },
+        {
+          "q": "What is the dominant filming color scheme?",
+          "caption_answer": "Grayscale",
+          "video_answer": "Black and white",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "4568b2da8351c56776b7afd531637b1a",
+    "caption": "Narendra Modi stands behind a brown lectern equipped with two microphones, speaking in front of a textured, green stone wall accented by two golden cylindrical pillars containing pink flowers. He is dressed in a light-colored traditional Indian outfit consisting of a white kurta and a cream-colored Nehru jacket. Across the sequence, he delivers a speech, using active hand gestures to emphasize his points. He begins with both hands raised and open, then brings them together in front of him with fingers interlaced. Subsequently, he raises his left hand while gesturing with his right, and finally brings both hands together in a rhythmic motion near the lectern. The camera remains in a static medium shot, capturing his upper body and the symmetrical background throughout the progression of the clip.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 1,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the lectern that Modi stands behind?",
+          "caption_answer": "Brown",
+          "video_answer": "Brown",
+          "match": 1
+        },
+        {
+          "q": "What type of flowers are visible in the golden pillars?",
+          "caption_answer": "Pink flowers",
+          "video_answer": "Unknown",
+          "match": 0
+        },
+        {
+          "q": "What color is Modi's Nehru jacket?",
+          "caption_answer": "Cream-colored",
+          "video_answer": "White and cream",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "33a753338bc143f3de95b943c7b0edef",
+    "caption": "A person's hands hold a graded trading card encased in a clear plastic slab, rotating it to show different angles. The background is a blurred room with various boxes and a small red helmet figurine. In each frame, a small inset video window in the lower right shows a man wearing a black t-shirt sitting at a desk. A logo for \"JASPRO\" and the website \"CASEBREAKS.COM\" are overlaid on the screen. As the card is tilted, light reflects off the plastic surface, and the card's dark face with purple borders becomes visible. The bottom of the frame contains a partial white logo that reads \"REA\" and \"EAY.\" The scene progresses as the person adjusts their grip and angle on the slab to better display the card and its grading label at the top, which includes the text \"2020.\"",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 0,
+      "n_unknown": 0,
+      "accuracy": 0.0,
+      "qa": [
+        {
+          "q": "What color are the borders visible on the trading card?",
+          "caption_answer": "Purple",
+          "video_answer": "Purple and red borders",
+          "match": 0
+        },
+        {
+          "q": "What website is displayed as an overlay on the screen?",
+          "caption_answer": "CASEBREAKS.COM",
+          "video_answer": "Cardbreaks.com",
+          "match": 0
+        },
+        {
+          "q": "What color shirt is the man wearing in the inset video window?",
+          "caption_answer": "Black",
+          "video_answer": "Orange/brown colored shirt",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "2be781393a78530b8836253443d1196c",
+    "caption": "A man with a beard and headphones is sitting in a recording studio against a dark, ribbed acoustic foam wall. He wears a white t-shirt with a black circular logo that contains the text \"Stan Pettelette\". A professional microphone on a silver boom arm is positioned directly in front of his face. As the sequence progresses, the man maintains a joyful expression, smiling and laughing while looking slightly to his right. His head shifts subtly, tilting further back and to the side as his smile widens, showing his teeth. He remains in the same position throughout the clip, with his right arm visible and showing tattoos on the forearm. The lighting is consistent, and the background and equipment remain stationary as he reacts with amusement.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 1,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the man's t-shirt?",
+          "caption_answer": "White",
+          "video_answer": "White",
+          "match": 1
+        },
+        {
+          "q": "What text appears on the circular logo?",
+          "caption_answer": "Stan Pettelette",
+          "video_answer": "Unknown",
+          "match": 0
+        },
+        {
+          "q": "What color is the microphone boom arm?",
+          "caption_answer": "Silver",
+          "video_answer": "Gray or silver",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "d19f5ced57c18761a2d2654b48a70a33",
+    "caption": "A person's hands work on a crafting project atop a white gridded cutting mat. The person wears a white smartwatch and a ring on their left hand. Various paper elements are scattered across the surface, including green and yellow patterned paper shaped like Christmas trees, a dark brown rectangular piece, and white decorative squares. A red stamp and a black ink pad are positioned nearby. In the first frame, the person holds a small white square of paper. As the sequence progresses, they peel a white adhesive dot from a backing sheet and carefully apply it to the back of the white paper square. The \"Stamping Jill\" logo appears in the bottom left of the frames. Across the scene, the person's movements are focused on the precise placement of the adhesive to mount the white decorative piece onto the card base.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What color is the cutting mat surface?",
+          "caption_answer": "White with gridlines",
+          "video_answer": "White with pink grid",
+          "match": 1
+        },
+        {
+          "q": "What items are visible on the person's left hand?",
+          "caption_answer": "Smartwatch and ring",
+          "video_answer": "Ring and bracelet",
+          "match": 0
+        },
+        {
+          "q": "What text or logo appears in the bottom left?",
+          "caption_answer": "Stamping Jill",
+          "video_answer": "Stamping Silly",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "0f59fd722602d8daf87cbc60f2ee48fc",
+    "caption": "Three people are seated on a stage in front of a dark blue background with neon purple accents. On the left, a man with curly dark hair wears a white button-down shirt and grey trousers, sitting behind a small white table made of LEGO bricks. In the center, a woman with blonde hair tied back wears a black t-shirt and dark pants. To the right, a man wears a grey suit jacket over a light blue shirt and grey trousers. They are all seated in light-colored wooden chairs. Behind them, a glowing red sign displays the text \"SL\". Across the sequence, the man on the right speaks, gesturing with his right hand. The woman listens and slightly shifts her posture, while the man on the left remains relatively still, looking toward the speaker. The lighting remains constant as the individuals engage in a panel-style conversation.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 2,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What color is the background behind the three people?",
+          "caption_answer": "Dark blue with neon purple accents",
+          "video_answer": "Purple/Dark blue",
+          "match": 1
+        },
+        {
+          "q": "What material is the small table made of?",
+          "caption_answer": "LEGO bricks",
+          "video_answer": "Unknown",
+          "match": 0
+        },
+        {
+          "q": "What text does the glowing red sign display?",
+          "caption_answer": "SL",
+          "video_answer": "Unknown",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "0e90af261f4fce7d5eabd9d4f1e4d537",
+    "caption": "In a formal indoor setting, two men sit behind a long brown desk against a background featuring Israeli flags. On the left, a man wears a white long-sleeved button-down shirt, and on the right, a man wears a dark suit with a white shirt and a red tie. Between them, microphones and papers are placed on the desk. A news ticker at the bottom of the screen displays \"FOREIGN NEWS,\" followed by \"NUCLEAR PROGRAMME\" in large letters, and \"ISRAEL EXPECTS I.A.E.A. TO GIVE IRAN CLEAR WARNING AHEAD\" in smaller text. Below this, a web address reads \"WWW.PLUSTVAFRICA.COM/LIVE-TV\" next to \"WATCH ONLINE.\" A logo for \"plustv\" is visible in the upper corners. As the sequence progresses, the man in the suit looks down at his papers, and a third person in a light green shirt is partially visible on the far left, appearing to lean in.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What color is the tie worn by the man on the right?",
+          "caption_answer": "Red",
+          "video_answer": "Red",
+          "match": 1
+        },
+        {
+          "q": "What text appears in large letters on the news ticker?",
+          "caption_answer": "NUCLEAR PROGRAMME",
+          "video_answer": "NUCLEAR PROGRAMME",
+          "match": 1
+        },
+        {
+          "q": "What color is the shirt of the partially visible third person?",
+          "caption_answer": "Light green",
+          "video_answer": "Green",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "2ee2ee8f11fdc4e2fa4473f40fbabb2b",
+    "caption": "A woman with her hair styled in a high bun and braids is recorded speaking into a professional black microphone during a podcast. She is wearing a dark green t-shirt featuring a red and white graphic on the chest and has a black headset on. She sits in front of a black backdrop that features white text reading \"BOSS TALK 101\", \"It's A League Hustle\", and \"About It!\", along with the word \"CAST\". To her left is a black table holding a small clear container. A framed photo of hands is visible on the wall behind her. In the lower corners of the scene, logos for \"BOSS TALK 101\" and \"BOSS TALK 101\" are displayed. Across the sequence, the woman remains in the same position, speaking and slightly shifting her facial expressions and head posture while addressing the microphone.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What color is the woman's t-shirt?",
+          "caption_answer": "Dark green",
+          "video_answer": "Dark green",
+          "match": 1
+        },
+        {
+          "q": "What text appears on the backdrop behind the woman?",
+          "caption_answer": "BOSS TALK 101, It's A League Hustle, About It!, CAST",
+          "video_answer": "CAST and About It",
+          "match": 0
+        },
+        {
+          "q": "What type of hairstyle does the woman have?",
+          "caption_answer": "High bun with braids",
+          "video_answer": "Braids in top bun",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "6d348f59ef8394dd491795c2b40bc3f6",
+    "caption": "A man with a short beard and shaved sides of his head is recording in a studio against a black acoustic foam wall. He wears black over-ear headphones and a white t-shirt featuring a small logo with the text \"Stay Humble\" and \"MIND POWR\". He is positioned in front of a silver professional microphone held by a black shock mount. Across the sequence, the man's expression shifts from a subtle smile with closed eyes to a wider, open-mouthed laugh, before settling into a smirk and finally looking off to his left with a playful grin. His head tilts slightly as he reacts, while his position relative to the microphone and the background remains constant.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 1,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the t-shirt the man is wearing?",
+          "caption_answer": "White",
+          "video_answer": "White",
+          "match": 1
+        },
+        {
+          "q": "What text appears on the man's t-shirt?",
+          "caption_answer": "Stay Humble MIND POWR",
+          "video_answer": "Unknown",
+          "match": 0
+        },
+        {
+          "q": "What color is the microphone's shock mount?",
+          "caption_answer": "Black",
+          "video_answer": "Black",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "74f48127364950eb5ec687664ac68513",
+    "caption": "A man wearing glasses, a white long-sleeved shirt, a red bowtie, tan suspenders, and a tall, grey, textured headpiece sits in a studio. He wears black over-ear headphones and is positioned behind a professional black microphone. The background consists of a wall adorned with numerous framed photographs and a clothing rack featuring items labeled \"LEE.\" On the bottom left and right of the screen, a logo featuring a microphone icon is accompanied by the text \"BOSS TALK JOY PODCAST\". Across the sequence, the man is speaking, his mouth moving slightly as he expresses himself. He remains in the same seated position, though his facial expression shifts subtly and his right hand moves slightly forward and upward toward his chest as the clip progresses.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the man's bowtie?",
+          "caption_answer": "Red",
+          "video_answer": "Red and burgundy patterned",
+          "match": 1
+        },
+        {
+          "q": "What text appears in the bottom corners of the screen?",
+          "caption_answer": "BOSS TALK JOY PODCAST",
+          "video_answer": "Podcast logo and text",
+          "match": 0
+        },
+        {
+          "q": "What color is the man's long-sleeved shirt?",
+          "caption_answer": "White",
+          "video_answer": "White",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "f7a6d4b5be891f73cede43bc969f2bee",
+    "caption": "A man with short brown hair and glasses, wearing a dark blue button-down shirt, speaks directly to the camera in an indoor setting. Behind him is a light-colored wall featuring a piece of art depicting a large, patterned brown vessel against a textured background. As he speaks, his facial expressions shift slightly, and his mouth opens and closes to articulate words. He uses hand gestures to emphasize his points, starting with both hands raised and open in front of him, then lowering them. By the end of the sequence, his hands move closer together in a gesturing motion. The background and his attire remain constant throughout the clip, with the only changes being his subtle facial movements and the motion of his hands. No on-screen text, logos, or other people are visible.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What color is the man's shirt?",
+          "caption_answer": "Dark blue",
+          "video_answer": "Dark blue/navy",
+          "match": 1
+        },
+        {
+          "q": "What is depicted in the artwork behind the man?",
+          "caption_answer": "A large patterned brown vessel",
+          "video_answer": "Decorative vase or pottery",
+          "match": 1
+        },
+        {
+          "q": "What accessories is the man wearing on his face?",
+          "caption_answer": "Glasses",
+          "video_answer": "Glasses",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "0ccffc292d99955b860199ebf8138a6b",
+    "caption": "A man with a tall, grey, stylized wig and glasses is seated in a studio setting, wearing a white button-down shirt and a red bow tie. He wears black over-ear headphones and is positioned behind a black professional microphone. The background is a wall adorned with numerous framed photographs and various articles of clothing on hangers, including items with \"LEE\" visible on the tags. A white bag sits on a shelf behind him. Each frame features a red and white logo on the left and right sides of the screen that reads \"GOSS TALK JOY PODCAST\". Throughout the sequence, the man remains in the same position, slightly shifting his facial expression and head posture as if speaking or reacting during a recording. The overall setting remains static, with the only movement being the man's subtle facial transitions across the sequence.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What color is the man's bow tie?",
+          "caption_answer": "Red",
+          "video_answer": "Red and white patterned",
+          "match": 0
+        },
+        {
+          "q": "What text appears on the logo frames on the sides of the screen?",
+          "caption_answer": "GOSS TALK JOY PODCAST",
+          "video_answer": "Podcast logo text",
+          "match": 0
+        },
+        {
+          "q": "What color is the man's wig?",
+          "caption_answer": "Grey",
+          "video_answer": "White/silver gray",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "634d0fb7679f325805d53332cb24f536",
+    "caption": "A man with dark skin is seated in a studio, wearing a tall, spiky grey wig, glasses, a white button-down shirt, a red bowtie, and tan suspenders. He wears over-ear headphones and sits before a professional black microphone. The background consists of a white wall decorated with numerous small, framed photographs and a clothing rack with a garment featuring the word \"LEE\" visible. On-screen text includes a logo for \"BOSS TALK 101 PODCAST\" on the left and \"BOSS TALK 101\" on the right. As the scene progresses, the man remains in the same position, slightly tilting his head and shifting his facial expression while appearing to speak into the microphone. The lighting and camera angle remain constant throughout the sequence, focusing on his upper body and head.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What color is the man's bowtie?",
+          "caption_answer": "Red",
+          "video_answer": "Red and white patterned",
+          "match": 0
+        },
+        {
+          "q": "What text appears on the garment visible on the clothing rack?",
+          "caption_answer": "LEE",
+          "video_answer": "LEE",
+          "match": 1
+        },
+        {
+          "q": "What type of headwear is the man wearing?",
+          "caption_answer": "Tall spiky grey wig",
+          "video_answer": "Headphones",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "d02c279a049b19bf0eb7c496073dc869",
+    "caption": "An educational presentation on \"CRYOGENIC ENGINEERING\" is shown, featuring a slide titled \"Tutorial \u2013 2\". The slide focuses on the \"Work/unit mass of gas liquefied\" and displays a T-S diagram with a cycle delineated by lines labeled \"T=const\", \"p=const\", \"S=const\", and \"h=const\". Across the sequence, the slide is incrementally updated with calculations. Initially, only the diagram and heading are visible. Then, two blue boxes appear containing the values \"W/m = 463\" and \"y = 0.074\". Finally, a mathematical equation is added at the bottom, showing the calculation \"W/m_l = W/ym = 463 / 0.074 = 6265.22 J / g\". The NPTEL logo is visible in the bottom-left corner, and the bottom banner identifies the presenter as \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\".",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What is the title displayed on the slide?",
+          "caption_answer": "Tutorial \u2013 2",
+          "video_answer": "Tutorial - 2",
+          "match": 1
+        },
+        {
+          "q": "What value appears in the first blue box?",
+          "caption_answer": "W/m = 463",
+          "video_answer": "W/m = 463",
+          "match": 1
+        },
+        {
+          "q": "What institution is mentioned in the bottom banner?",
+          "caption_answer": "IIT Bombay",
+          "video_answer": "IIT Bombay",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "6e0dc9c33f2b7e47e266a7074fe3952c",
+    "caption": "A woman with hair styled in a high bun and braids sits in a podcast studio, wearing a dark green t-shirt with a graphic and the number \"101\" on the chest. She is positioned in front of a professional microphone on a boom arm. Behind her is a black backdrop featuring the text \"BOSS TALK 101\" and \"It's A Unique Hustle,\" along with the word \"PODCAST\" and the phrase \"Talk About It!\". To her left, a framed image of a person's hand is visible on the wall. In the lower-left corner of the scene, a logo reads \"BOSS TALK 101.\" As the sequence progresses, the woman remains in place, speaking and slightly shifting her facial expression while maintaining a focused gaze. Her gestures are minimal, and the camera remains static, capturing her from the chest up against the studio background.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What number appears on the woman's t-shirt?",
+          "caption_answer": "101",
+          "video_answer": "01",
+          "match": 0
+        },
+        {
+          "q": "What color is the woman's t-shirt?",
+          "caption_answer": "Dark green",
+          "video_answer": "Green",
+          "match": 1
+        },
+        {
+          "q": "What text appears on the backdrop behind the woman?",
+          "caption_answer": "BOSS TALK 101, It's A Unique Hustle, PODCAST, Talk About It!",
+          "video_answer": "Podcast, Talk 101",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "de79b86123d88b4182fda2253d33e01f",
+    "caption": "A news broadcast features a male presenter in a dark suit, white shirt, and maroon tie, positioned in a studio with a blue and green digital background displaying \"PLUS POLITICS.\" To his right is a smaller inset window showing another man wearing a traditional red cap and black attire, identified by the text \"ON THE PHONE,\" \"OLUSOLA OYEKANMI,\" \"POLITICAL ANALYST,\" and \"LAGOS.\" A lower-third banner displays the headline \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\" in black text on a white background, with a purple \"PLUS POLITICS\" tag. At the bottom, a red bar contains the word \"SUBSCRIBE\" and the URL \"WWW.YOUTUBE.COM/PLUSTVAFRICA.\" Across the sequence of frames, the presenter remains in place, speaking while gesturing slightly, and the layout of the screen, including the logos and text overlays, stays consistent.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What color is the presenter's tie?",
+          "caption_answer": "Maroon",
+          "video_answer": "Maroon/burgundy",
+          "match": 1
+        },
+        {
+          "q": "What text appears on the lower-third banner?",
+          "caption_answer": "NIGERIA NEEDS ME \u2013 BOLA TINUBU",
+          "video_answer": "NIGERIA NEEDS ME \u2013 BOLA TINUBU",
+          "match": 1
+        },
+        {
+          "q": "What is the name shown for the person in the inset window?",
+          "caption_answer": "OLUSOLA OYEKANMI",
+          "video_answer": "Olusola Oyekanmi",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "897098765cbaaaddc5ff9a32106c2458",
+    "caption": "A man with a distinctive, tall, greyish-blonde hairstyle and glasses is recording a podcast in a studio. He is wearing a white button-down shirt, gold suspenders, and a red bow tie, while wearing black over-ear headphones. He sits before a black microphone on a desk. In the background, another person with pink hair is visible, and a wall features a framed logo and a banner that reads \"UNIQUE FASHION\". On-screen graphics include a logo that says \"BOSS TALK PODCAST\" on the left and the text \"BOSS TALK 101\" on the right. Across the sequence, the man speaks into the microphone, shifting his head and facial expression slightly while gesturing with his hand. The background elements and graphics remain static throughout the clip, while the man's subtle movements indicate an active conversation.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 0,
+      "n_unknown": 0,
+      "accuracy": 0.0,
+      "qa": [
+        {
+          "q": "What color is the bow tie worn by the man in the foreground?",
+          "caption_answer": "Red",
+          "video_answer": "Red and white patterned",
+          "match": 0
+        },
+        {
+          "q": "What text appears on the banner visible in the background?",
+          "caption_answer": "UNIQUE FASHION",
+          "video_answer": "INKS TALK 101",
+          "match": 0
+        },
+        {
+          "q": "What color are the suspenders the man is wearing?",
+          "caption_answer": "Gold",
+          "video_answer": "Tan/beige",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "02d19c87e5708eac24d44e3036d23a26",
+    "caption": "A man with a beard, wearing a light-colored, long-sleeved button-down shirt, stands in front of a bright yellow backdrop. He holds a black microphone in his right hand, speaking while gesturing with his left hand. In the background, another man in a dark suit and face mask is partially visible. The yellow backdrop features text in a non-Latin script, including the words \"\u0ba4\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd\u0b9a\" and \"\u0bb0\u0baf\u0bbe\u0b9f\u0bb2\u0bcd\". Across the sequence, the man continues to speak, shifting his facial expression and hand positions. He initially holds the microphone closer to his chest with both hands, then raises his left hand to gesture as he speaks, and finally returns to holding the microphone with both hands. The background and other people remain relatively stationary as the man delivers his address.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What color is the backdrop behind the speaker?",
+          "caption_answer": "Bright yellow",
+          "video_answer": "Yellow",
+          "match": 1
+        },
+        {
+          "q": "What color is the microphone the man is holding?",
+          "caption_answer": "Black",
+          "video_answer": "Black",
+          "match": 1
+        },
+        {
+          "q": "What type of script is used in the text on the backdrop?",
+          "caption_answer": "Non-Latin script",
+          "video_answer": "Tamil script",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "4f4b58e3e79881ecff1b165ae43ea119",
+    "caption": "A close-up shot captures a section of a vehicle's interior dashboard, focusing on a glove compartment or similar storage area. The surfaces are made of dark grey or black textured plastic and faux leather. A small, rectangular silver latch with a circular keyhole is positioned at the top center of the compartment. Below the latch, a thin horizontal gap reveals the interior of the storage space. Further down, a plastic ventilation grille with a repeating rectangular pattern is visible. Throughout the sequence, the camera slightly shifts its angle and position, moving from a higher perspective to a lower, more direct view of the latch and the surrounding textured materials. No people, text, or logos are visible in the frames, and the lighting remains consistent as the view adjusts slightly.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the latch on the storage compartment?",
+          "caption_answer": "Silver",
+          "video_answer": "White",
+          "match": 0
+        },
+        {
+          "q": "What shape is the keyhole in the latch?",
+          "caption_answer": "Circular",
+          "video_answer": "Circular",
+          "match": 1
+        },
+        {
+          "q": "What pattern does the ventilation grille have?",
+          "caption_answer": "Repeating rectangular pattern",
+          "video_answer": "Square grid pattern",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "d1e02143cf38b3e4a6883e8a7b520528",
+    "caption": "A white Corvette is parked outdoors on a grassy area next to a paved surface. The rear of the car is visible, featuring two red taillights on the left and \"CORVETTE\" text in two different styles on the right. A Florida license plate reads \"192 WTR\" with \"SUNSHINE STATE\" printed along the bottom. A small red, white, and blue logo is centered on the lower bumper. To the left, a golden-brown car door is open. Across the sequence, the camera angle shifts slightly, moving from a closer, higher perspective to a slightly lower and wider view. This shift reveals more of the car's lower bumper and the tow hitch attached to the rear. No people are visible in the frames.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the Corvette?",
+          "caption_answer": "White",
+          "video_answer": "White",
+          "match": 1
+        },
+        {
+          "q": "What does the Florida license plate read?",
+          "caption_answer": "192 WTR",
+          "video_answer": "192 WTR",
+          "match": 1
+        },
+        {
+          "q": "What color is the open car door visible on the left?",
+          "caption_answer": "Golden-brown",
+          "video_answer": "Orange",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "a9132ded41512938ed81393f6a5c0883",
+    "caption": "A man with a dark beard and short-cropped hair is seated in a recording studio against a dark, ribbed acoustic foam wall. He wears a white t-shirt with a black logo on the chest that reads \"Stay Wild\". He is wearing large black over-ear headphones and is positioned behind a professional silver condenser microphone mounted on a boom arm. Throughout the sequence, the man is smiling and laughing, with his gaze shifting slightly. In the initial frames, he looks forward and to the side with an open-mouthed smile. As the sequence progresses, his expression remains joyful, and he turns his head slightly more toward the right of the frame while continuing to smile. The camera remains stationary, capturing a medium close-up of the man as he reacts with amusement.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What text appears on the man's t-shirt?",
+          "caption_answer": "Stay Wild",
+          "video_answer": "Stay Disciplined",
+          "match": 0
+        },
+        {
+          "q": "What color are the man's headphones?",
+          "caption_answer": "Black",
+          "video_answer": "Black",
+          "match": 1
+        },
+        {
+          "q": "What type of microphone is visible in the setup?",
+          "caption_answer": "Silver condenser microphone",
+          "video_answer": "Condenser microphone",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "8941c23542e82cef0325718c31c0b59e",
+    "caption": "A young child wearing a red and white striped short-sleeved shirt and dark brown pants is seen climbing out of a doorway in a reddish-brown mud building. Behind the child, a bright yellow fabric with white circular patterns hangs as a curtain over the opening. The child is positioned in a crouched posture, using their hands to push off the earthen ledge and their feet to step forward onto the uneven, reddish soil ground. Across the sequence, the child gradually shifts their weight and moves their body forward and slightly downward, transitioning from a deeper crouch to a more balanced position as they emerge from the doorway. The background consists of the textured mud walls of the structure and the dark interior of the room visible behind the curtain.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What color and pattern is the child's shirt?",
+          "caption_answer": "Red and white striped",
+          "video_answer": "White and red striped",
+          "match": 1
+        },
+        {
+          "q": "What color is the fabric hanging over the doorway?",
+          "caption_answer": "Bright yellow with white circles",
+          "video_answer": "Yellow with white circles",
+          "match": 1
+        },
+        {
+          "q": "What color are the child's pants?",
+          "caption_answer": "Dark brown",
+          "video_answer": "Dark brown/black",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "4d34c4c71b3ccf354c11cce0b2a89826",
+    "caption": "A man sits at a dark wooden desk in a studio setting, wearing a black sweatshirt with \"BOSS\" printed in large gold letters and a white baseball cap. He wears over-ear headphones and speaks into a professional microphone mounted on a black boom arm. Behind him is a white wall featuring a repeating logo consisting of five gold stars and the words \"UNICORN HUSTLE.\" A blue sign above him reads \"'Where BOSSES Talk!'\". On the desk, there is a black container with red and white text that reads \"TALK OUT\". The man remains in a consistent position throughout the sequence, slightly turned toward the microphone, with minor movements of his head and facial expressions as he speaks. The camera angle and the surrounding equipment, including a black case to the left, remain static across the frames.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 1,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What text appears on the man's sweatshirt?",
+          "caption_answer": "BOSS in gold letters",
+          "video_answer": "BOSS",
+          "match": 1
+        },
+        {
+          "q": "What does the blue sign above the man read?",
+          "caption_answer": "'Where BOSSES Talk!'",
+          "video_answer": "Where BOSSES Talk!",
+          "match": 1
+        },
+        {
+          "q": "What is written on the black container on the desk?",
+          "caption_answer": "TALK OUT",
+          "video_answer": "unknown",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "6b89f41bacdad5cdd5683aa6f0b13694",
+    "caption": "A person examines the interior of a vehicle's hood. The scene begins with a close-up view of a small, rectangular white LED light mounted to the dark metal underside of the hood. As the camera pans and zooms out, it reveals more of the hood's structure and eventually looks down into the engine bay. The engine bay contains various mechanical components, including a white plastic fluid reservoir and black hoses. The vehicle is parked outdoors, with green foliage, trees, and a glimpse of a building and some debris visible in the background. No people are visible in the frames, and there is no on-screen text or logos. The perspective shifts from a tight focus on the auxiliary lighting to a wider shot showing the relationship between the hood and the engine compartment.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What color is the LED light mounted to the hood's underside?",
+          "caption_answer": "White",
+          "video_answer": "White",
+          "match": 1
+        },
+        {
+          "q": "What color is the fluid reservoir visible in the engine bay?",
+          "caption_answer": "White plastic",
+          "video_answer": "White",
+          "match": 1
+        },
+        {
+          "q": "What is visible in the background of the outdoor scene?",
+          "caption_answer": "Trees, building, and debris",
+          "video_answer": "Green vegetation and trees",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "a76388f94fcf7b1a82230da5fdf2101c",
+    "caption": "A man with graying hair and glasses, wearing a white and gray zip-up jacket, is speaking in an indoor setting that appears to be a workshop or storage area with wooden walls and shelves. In the first frame, he looks toward someone off-screen to his left, raising his right hand with a finger pointed upward. In the second frame, he brings his finger closer to his face, nearly touching his nose. By the third and fourth frames, he gestures more broadly with his right arm, pointing toward the right side of the frame while continuing to speak. Across all four frames, the white on-screen text reads, \"That is why the approach of Libraries Without Borders moved me so much.\" The background remains consistent throughout, showing various blurred objects and equipment on shelving units.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What color is the man's jacket?",
+          "caption_answer": "White and gray",
+          "video_answer": "Black",
+          "match": 0
+        },
+        {
+          "q": "What does the on-screen text say?",
+          "caption_answer": "That is why the approach of Libraries Without Borders moved me so much.",
+          "video_answer": "That is why the approach of Libraries Without Borders moved me so much.",
+          "match": 1
+        },
+        {
+          "q": "What type of setting is visible in the background?",
+          "caption_answer": "Workshop or storage area with wooden walls",
+          "video_answer": "Indoor, appears to be a library or institutional building",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "338a4b591ae29980054e0e2a6001201c",
+    "caption": "A man with brown hair wearing a light-colored button-down shirt under a black blazer speaks in front of a light-colored backdrop. The backdrop features various logos and text, including \"theCUBE,\" \"#BigDataSV,\" and \"BigDataSV 2015.\" In the bottom-left corner of the scene, a smaller logo for \"NFO-OBJECTS\" is visible. A blue on-screen graphic banner identifies the speaker as \"JOHN FURRIER | @furrier\" and lists his title as \"Founder SiliconANGLE.\" As the sequence progresses, the man\u2019s facial expression changes as he speaks, and he shifts his gaze. In the final frame, he raises his right hand, pointing his index finger upward to emphasize a point. A clear plastic water bottle is partially visible on the right side of the frame throughout the clip.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What text appears on the blue on-screen graphic banner identifying the speaker?",
+          "caption_answer": "JOHN FURRIER | @furrier",
+          "video_answer": "JOHN FURRIER | @furrier Founder SiliconANGLE",
+          "match": 1
+        },
+        {
+          "q": "What color is the blazer worn by the man?",
+          "caption_answer": "Black",
+          "video_answer": "Black",
+          "match": 1
+        },
+        {
+          "q": "What object is partially visible on the right side of the frame?",
+          "caption_answer": "Clear plastic water bottle",
+          "video_answer": "Water bottle",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "2e800d7194a9adfc1b13997a9295c52b",
+    "caption": "A man wearing a green baseball cap, black over-ear headphones, and a dark green t-shirt sits in a room filled with clothing and framed pictures. His t-shirt features white text that reads \"ION NEVER DO SHIT AT WORK\". He is positioned in front of a professional black microphone on a stand and is speaking, with his facial expressions and mouth movements shifting slightly across the sequence. Behind him, a white mannequin wears a white garment, and racks of clothing are visible alongside various framed photographs on the wall. Two logos appear on the screen: a circular black and white logo on the left and a red text logo on the right that reads \"BOOK IT REALLY TOT\". The scene remains static in terms of camera angle and location, capturing only the man's subtle movements as he speaks.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the baseball cap the man is wearing?",
+          "caption_answer": "Green",
+          "video_answer": "Green",
+          "match": 1
+        },
+        {
+          "q": "What text appears on the man's t-shirt?",
+          "caption_answer": "ION NEVER DO SHIT AT WORK",
+          "video_answer": "ION NEVER DO SPIRIT",
+          "match": 0
+        },
+        {
+          "q": "What color is the microphone in front of the man?",
+          "caption_answer": "Black",
+          "video_answer": "Black",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "bc5c5798d93d0c76c0ccb5dda1a33990",
+    "caption": "A video conference call features four participants in a gallery view. On the far left, a man with glasses wearing a blue plaid shirt sits in a blue chair. Next to him, a man wearing a grey t-shirt and headphones sits in front of a tree. Beside him is a man wearing a blue shirt and a black baseball cap. On the far right, a woman in a beige top rests her chin on her hand. Small text labels appear at the bottom of each video feed: \"Jerry McLaine\", \"Howard Shuman\", \"Noah Bridge\", and \"Hana T\". The scene remains static across the duration of the clip, with the participants maintaining their positions and expressions. The backgrounds vary from indoor rooms with white walls and framed art to outdoor settings with greenery and trees.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 1,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What color is the shirt worn by the leftmost participant?",
+          "caption_answer": "Blue plaid",
+          "video_answer": "Blue plaid/checkered",
+          "match": 1
+        },
+        {
+          "q": "What object is the rightmost participant resting on her hand?",
+          "caption_answer": "Her chin",
+          "video_answer": "Unknown",
+          "match": 0
+        },
+        {
+          "q": "What is visible on the head of the third participant from the left?",
+          "caption_answer": "Black baseball cap",
+          "video_answer": "Headphones",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "3062116cb4f43bb7699ed6115a1c7c04",
+    "caption": "A news broadcast features a split-screen layout. On the left is a male news anchor wearing glasses, a dark suit, and a red tie, positioned against a blue graphic backdrop that includes the text \"PLUS POLITICS\". On the right is a man wearing a red kufi cap and a patterned dark garment with red floral designs, appearing in a video call format. The bottom of the screen displays a white banner with the text \"PLUS POLITICS\" and a headline stating \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\". Additional text on the banner provides viewing information, including \"WATCH ON DStv CH 408\", \"StarTimes CH 308\", \"WATCH ONLINE\", \"WWW.PLUSTVAFRICA.COM/LIVE-TV\", \"SUBSCRIBE WWW.YOUTUBE.COM/PLUSTVAFRICA\", and \"FOLLOW US\". Throughout the sequence, both men remain in their respective positions, with the man on the right speaking as his facial expressions shift slightly between frames.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What color is the news anchor's tie?",
+          "caption_answer": "Red",
+          "video_answer": "Purple/maroon",
+          "match": 0
+        },
+        {
+          "q": "What type of headwear is the man on the right wearing?",
+          "caption_answer": "Red kufi cap",
+          "video_answer": "Pink knitted cap/beanie",
+          "match": 0
+        },
+        {
+          "q": "What text appears on the bottom banner of the screen?",
+          "caption_answer": "PLUS POLITICS and headline about Bola Tinubu",
+          "video_answer": "NIGERIA NEEDS ME \u2013 BOLA TINUBU",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "b2237a6cd490ed9eeed00c4c0a5b5649",
+    "caption": "A woman with dark hair and glasses stands against a solid dark grey background. She is wearing a light green long-sleeved top featuring a decorative neckline with red floral embroidery and a dark necklace. A small lapel microphone is clipped to the center of her garment. In the bottom left corner of the scene, a logo featuring a circular emblem and the text \"NPTEL\" is visible. Throughout the sequence, the woman is speaking, with her facial expressions and mouth movements changing slightly between frames to reflect her speech. Her posture remains consistent, facing the camera in a medium shot from the waist up. The lighting is steady, and the only movement occurs in her facial animation as she communicates.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What color is the woman's long-sleeved top?",
+          "caption_answer": "Light green",
+          "video_answer": "Light green",
+          "match": 1
+        },
+        {
+          "q": "What text appears in the bottom left corner?",
+          "caption_answer": "NPTEL",
+          "video_answer": "NPTEL",
+          "match": 1
+        },
+        {
+          "q": "What type of microphone is visible on her clothing?",
+          "caption_answer": "Lapel microphone",
+          "video_answer": "Lavalier microphone",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "aacd177774e8c0068b88804652834fef",
+    "caption": "A series of presentation slides for a course in \"CRYOGENIC ENGINEERING\" shows a lesson titled \"Tutorial \u2013 2\" focusing on \"Liquid yield.\" Each slide features a diagram of a thermodynamic process on a T-s plot, labeled with terms like \"T=const,\" \"p=const,\" and \"s=const.\" Below the plot is a table listing values for pressure (p), temperature (T), enthalpy (h), and entropy (s) at different states. The slides are credited to \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" and feature a logo in the bottom left. Across the frames, a mathematical calculation for liquid yield, $y = \\frac{h_i - h_f}{h_r - h_f}$, is gradually completed. It starts as a formula, then incorporates the values $\\frac{462 - 29}{462 - 29}$, transitions to $\\frac{462 - 430}{462 - 29} = \\frac{32}{433}$, and finally concludes with the result $= 0.074$.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What is the course subject shown in the presentation?",
+          "caption_answer": "Cryogenic Engineering",
+          "video_answer": "Cryogenic Engineering",
+          "match": 1
+        },
+        {
+          "q": "What type of thermodynamic diagram appears on each slide?",
+          "caption_answer": "T-s plot",
+          "video_answer": "T-s diagram (Temperature-entropy diagram)",
+          "match": 1
+        },
+        {
+          "q": "What is the final calculated value for liquid yield?",
+          "caption_answer": "0.074",
+          "video_answer": "0.074",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "834574126c393f332883b945789ed135",
+    "caption": "An older man with grey hair and glasses, wearing a blue button-down shirt, stands behind a light-colored wooden podium, speaking to a small group of people in an indoor setting. He is positioned in front of a large window covered by brown blinds and a red wall. Seated in the foreground, facing away from the camera, are several individuals, including a person in a plaid shirt and two people in dark blue tops. To the left of the speaker is a black speaker on a stand. The text \"ORCA\" appears in white capital letters on a black rectangular background in the lower right area of the scene. Across the sequence of frames, the man remains at the podium, gesturing slightly with his hands as he speaks, while the audience remains seated and attentive. The camera angle and scene composition remain static throughout the clip.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 3,
+      "n_unknown": 0,
+      "accuracy": 1.0,
+      "qa": [
+        {
+          "q": "What color is the wall behind the podium?",
+          "caption_answer": "Red",
+          "video_answer": "Red",
+          "match": 1
+        },
+        {
+          "q": "What text appears in the lower right of the scene?",
+          "caption_answer": "ORCA",
+          "video_answer": "ORCA",
+          "match": 1
+        },
+        {
+          "q": "What color is the podium?",
+          "caption_answer": "Light-colored wood",
+          "video_answer": "Brown/wooden",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "1579477cdd54b5abc93c7ef31a675183",
+    "caption": "A man wearing a white baseball cap, a black hoodie with \"BOSS TALK\" printed on the chest, and a gold watch sits in a podcast studio. He is positioned behind a desk with a professional microphone on a boom arm in front of him. To his right sits a black mug with red and white text that reads \"TALK OUT\". In the background, a white banner displays the words \"UNIQUE HUSTLE\" alongside gold stars, and a blue sign on the wall reads \"Where BOSSES Talk!\". As the sequence progresses, the man engages in a conversation, shifting his gaze and using hand gestures to emphasize his points. He initially looks forward, then turns his head and gestures with his right hand, before glancing toward the side and finally settling back into a centered position. A small \"BOSS TALK\" logo appears in the bottom left corner of the screen.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 0,
+      "n_unknown": 0,
+      "accuracy": 0.0,
+      "qa": [
+        {
+          "q": "What text is printed on the man's hoodie?",
+          "caption_answer": "BOSS TALK",
+          "video_answer": "BOSS",
+          "match": 0
+        },
+        {
+          "q": "What color is the mug to the man's right?",
+          "caption_answer": "Black with red and white text",
+          "video_answer": "Blue",
+          "match": 0
+        },
+        {
+          "q": "What words appear on the white banner in the background?",
+          "caption_answer": "UNIQUE HUSTLE",
+          "video_answer": "Where BOSSES Talk",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "e2f4130bc916a8cbaec51892275627b9",
+    "caption": "A man wearing a black baseball cap, a black t-shirt with the text \"CHECK IT\" visible on the chest, and over-ear headphones speaks into a professional microphone. He is positioned in a studio setting with a white background featuring star graphics and the words \"GRINDSET HUSTLE.\" A dark background behind him displays the word \"BOSS\" and \"TALK 101.\" On-screen graphics include a logo with a microphone and the text \"BOSS TALK 101 PODCAST\" on the left and \"BOSS TALK 101\" on the right. Throughout the sequence, the man is engaged in conversation, gesturing with his right hand as he speaks. His hand moves from an open gesture in the first frame to a more closed position in the final frames, while his head shifts slightly as he continues talking into the microphone.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 1,
+      "n_unknown": 0,
+      "accuracy": 0.3333333333333333,
+      "qa": [
+        {
+          "q": "What text is visible on the man's black t-shirt?",
+          "caption_answer": "CHECK IT",
+          "video_answer": "CHECK IT MAN",
+          "match": 1
+        },
+        {
+          "q": "What color are the man's headphones?",
+          "caption_answer": "Black",
+          "video_answer": "Gray/Grey",
+          "match": 0
+        },
+        {
+          "q": "What words appear on the dark background behind the man?",
+          "caption_answer": "BOSS and TALK 101",
+          "video_answer": "HUSTLE",
+          "match": 0
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "3e36dd3b94e447ca2ec1cd87fde6c8b9",
+    "caption": "A city street is lined with multi-story tan buildings and leafless trees, with several cars parked along the curb and others driving through the intersection. A grey pickup truck is the primary focus, moving forward through the center of the road from the foreground toward the background. As the scene progresses, the truck advances further into the intersection, passing a row of parked vehicles including a grey sedan, a silver sedan, and a white car. Further down the street, other vehicles are visible, including a dark grey car and a white truck. A tall black utility pole stands on the left side of the road near the parked cars. The lighting is bright and clear, suggesting a sunny day, and there are no visible people, on-screen text, or logos throughout the sequence.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the primary truck shown moving through the intersection?",
+          "caption_answer": "Grey",
+          "video_answer": "Dark blue or black",
+          "match": 0
+        },
+        {
+          "q": "What is the color of the buildings lining the street?",
+          "caption_answer": "Tan",
+          "video_answer": "Beige or tan colored",
+          "match": 1
+        },
+        {
+          "q": "What type of utility structure is visible on the left side of the road?",
+          "caption_answer": "Black utility pole",
+          "video_answer": "Power lines on poles",
+          "match": 1
+        }
+      ]
+    }
+  },
+  {
+    "video_id": "bb605e9e9e516e60519e7fdfa750f317",
+    "caption": "A man with light-colored, spiky hair, wearing black headphones, glasses, a white button-down shirt, a red bow tie, and light-colored suspenders, sits in a studio setting. He is positioned in front of a black microphone. In the background, a person with pink hair wearing a green dress is partially visible, and a sign reads \"UNIQUE FASHIONS\". A framed picture of a man and a shield-shaped logo are mounted on the wall. On-screen graphics include a logo that says \"STALBO PODCAST\" on the left and the text \"SS TALK 101\" on the right. Across the sequence, the man remains seated in the same position, subtly shifting his facial expression and gaze while speaking into the microphone. The camera angle and the background elements remain static throughout the clip.",
+    "result": {
+      "n_questions": 3,
+      "n_matched": 2,
+      "n_unknown": 0,
+      "accuracy": 0.6666666666666666,
+      "qa": [
+        {
+          "q": "What color is the bow tie worn by the man in the studio?",
+          "caption_answer": "Red",
+          "video_answer": "Red/burgundy",
+          "match": 1
+        },
+        {
+          "q": "What text appears on the on-screen logo on the left side?",
+          "caption_answer": "STALBO PODCAST",
+          "video_answer": "Podcast (circular logo)",
+          "match": 0
+        },
+        {
+          "q": "What color is the dress worn by the partially visible person in the background?",
+          "caption_answer": "Green",
+          "video_answer": "Green and pink",
+          "match": 1
+        }
+      ]
+    }
+  }
+]
