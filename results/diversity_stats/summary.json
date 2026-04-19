@@ -1,0 +1,132 @@
+{
+  "config": {
+    "clip_model": "ViT-B-32",
+    "clip_pretrained": "openai",
+    "whisper_model": "tiny",
+    "device": "mps",
+    "seed": 42,
+    "sample_sizes": {
+      "ours": 150,
+      "openvid": 60,
+      "internvid": 20
+    }
+  },
+  "summaries": [
+    {
+      "dataset": "ours",
+      "n_clips": 150,
+      "gender_counts": {
+        "no_person": 36,
+        "man": 95,
+        "woman": 19
+      },
+      "gender_fractions": {
+        "no_person": 0.24,
+        "man": 0.6333333333333333,
+        "woman": 0.12666666666666668
+      },
+      "age_counts": {
+        "no_person": 22,
+        "child": 9,
+        "young_adult": 26,
+        "middle_aged": 85,
+        "elderly": 8
+      },
+      "age_fractions": {
+        "no_person": 0.14666666666666667,
+        "child": 0.06,
+        "young_adult": 0.17333333333333334,
+        "middle_aged": 0.5666666666666667,
+        "elderly": 0.05333333333333334
+      },
+      "gender_mean_margin": 0.018708097835381826,
+      "age_mean_margin": 0.011888760526974997,
+      "language_counts": {
+        "no_audio": 150
+      },
+      "n_with_audio": 0,
+      "n_no_audio": 150,
+      "english_fraction_of_with_audio": 0.0,
+      "non_english_fraction_of_with_audio": 0.0
+    },
+    {
+      "dataset": "openvid",
+      "n_clips": 60,
+      "gender_counts": {
+        "no_person": 10,
+        "man": 35,
+        "woman": 15
+      },
+      "gender_fractions": {
+        "no_person": 0.16666666666666666,
+        "man": 0.5833333333333334,
+        "woman": 0.25
+      },
+      "age_counts": {
+        "no_person": 2,
+        "child": 8,
+        "young_adult": 17,
+        "middle_aged": 32,
+        "elderly": 1
+      },
+      "age_fractions": {
+        "no_person": 0.03333333333333333,
+        "child": 0.13333333333333333,
+        "young_adult": 0.2833333333333333,
+        "middle_aged": 0.5333333333333333,
+        "elderly": 0.016666666666666666
+      },
+      "gender_mean_margin": 0.026121806353330612,
+      "age_mean_margin": 0.014513055483500162,
+      "language_counts": {
+        "no_audio": 60
+      },
+      "n_with_audio": 0,
+      "n_no_audio": 60,
+      "english_fraction_of_with_audio": 0.0,
+      "non_english_fraction_of_with_audio": 0.0
+    },
+    {
+      "dataset": "internvid",
+      "n_clips": 20,
+      "gender_counts": {
+        "no_person": 13,
+        "man": 6,
+        "woman": 1
+      },
+      "gender_fractions": {
+        "no_person": 0.65,
+        "man": 0.3,
+        "woman": 0.05
+      },
+      "age_counts": {
+        "no_person": 7,
+        "child": 3,
+        "young_adult": 3,
+        "middle_aged": 7,
+        "elderly": 0
+      },
+      "age_fractions": {
+        "no_person": 0.35,
+        "child": 0.15,
+        "young_adult": 0.15,
+        "middle_aged": 0.35,
+        "elderly": 0.0
+      },
+      "gender_mean_margin": 0.008906212449073792,
+      "age_mean_margin": 0.007224434614181518,
+      "language_counts": {
+        "ru": 4,
+        "en": 10,
+        "fr": 1,
+        "zh": 1,
+        "ko": 3,
+        "hi": 1
+      },
+      "n_with_audio": 20,
+      "n_no_audio": 0,
+      "english_fraction_of_with_audio": 0.5,
+      "non_english_fraction_of_with_audio": 0.5
+    }
+  ]
+}

@@ -432,8 +432,29 @@ InternVid (FLT)       & 20  & 16/200 & \phantom{0}8.0\%  & 0.932 & 0.281 \\
 \end{tabular}
 \end{table}
 
-\paragraph{Demographic and geographic diversity.}
-We characterise the demographic and geographic properties of People's Video relative to InternVid as a representative uncurated baseline. On a stratified 10K-clip sample from each dataset, we apply a face attribute classifier to estimate the apparent gender and age distribution of on-screen subjects across domain clusters, reporting distributions rather than individual-level labels. We measure linguistic diversity as the fraction of clips containing non-English speech, detected using a language identification model applied to the audio track. Geographic diversity is assessed using the fraction of videos with geotag metadata outside North America and Western Europe. These measurements are intended to characterise distributional properties of the dataset and to identify axes along which future curation should prioritise expansion.
+\paragraph{Demographic and linguistic diversity.}
+We characterise the demographic and linguistic properties of People's Video relative to OpenVid-1M HD and InternVid FLT as representative comparators. On a random sample from each dataset we estimate the apparent gender and age distribution of on-screen subjects using a zero-shot CLIP classifier that scores each clip's mean-pooled frame embedding against a small bank of demographic prompts, reporting distributions rather than individual-level labels. We measure linguistic diversity as the fraction of clips containing non-English speech, detected with Whisper-tiny's language-identification head applied to the first 30 seconds of each clip's audio track. Geographic diversity analysis, which would require per-video channel-country metadata not preserved in the 8K validation subset, is deferred to a future release that re-scrapes the YouTube metadata alongside each clip.
+
+\paragraph{Demographic and linguistic diversity --- measured results.}
+Table~\ref{tab:diversity_stats} reports the measured distributions on 150 People's Video clips, 60 OpenVid-1M HD clips, and 20 InternVid FLT clips. On apparent gender, both People's Video and OpenVid-1M HD are male-skewed (63.3\% vs 12.7\% and 58.3\% vs 25.0\% respectively), with the remainder assigned to a ``no person visible'' prompt. A similar pattern on the InternVid FLT sample (65\% no-person, 30\% man, 5\% woman) suggests that some portion of the male-leaning distribution is a property of CLIP's forced-choice bias under visual ambiguity rather than a measured property of the underlying corpora. Apparent-age distributions are dominated by the middle-aged bucket across all three datasets ($\approx$53--57\% for People's Video and OpenVid-1M HD), consistent with a corpus rich in seated-presenter content (podcasts, interviews, lectures). These CLIP-based estimates should be interpreted as distributional profiling at the classifier-space level, not as individual-level attribute labels.
+
+Linguistic diversity shows a sharp divide by segmentation pipeline. People's Video and OpenVid-1M HD clips contain \emph{no audio track} at all --- PySceneDetect-based segmentation as configured by both projects discards the audio stream when cutting scenes. Whisper's language-identification head is therefore inapplicable to 150 of 150 People's Video clips and 60 of 60 OpenVid-1M HD clips in this sample. In contrast, the InternVid FLT clips fetched via \texttt{yt-dlp} retain their original audio, and Whisper-tiny identifies a roughly even split between English and non-English (50\%--50\%, with Russian, Korean, and French as the top non-English languages in the small sample). This measurement calls out an actionable limitation of our 8K subset packaging: future releases should preserve the original audio streams alongside each scene segment so that language identification can be performed directly on the released data, without requiring re-fetch from source platforms.
+
+\begin{table}[t]
+\centering
+\caption{Demographic (apparent gender and age, zero-shot CLIP ViT-B/32) and linguistic (Whisper-tiny language-ID) distributions. Gender/age percentages sum to 100\% within a row. English share is computed over clips that retained an audio track; People's Video and OpenVid-1M HD clips discard audio during scene segmentation and are therefore unscorable on language.}
+\label{tab:diversity_stats}
+\begin{tabular}{lrrrrrrr}
+\toprule
+Dataset & $N$ & Man & Woman & No-person & Middle-aged\footnotemark[1] & Audio retained & English share \\
+\midrule
+People's Video (ours) & 150 & 63.3\% & 12.7\% & 24.0\% & 56.7\% & 0/150 & n/a \\
+OpenVid-1M (HD)       & 60  & 58.3\% & 25.0\% & 16.7\% & 53.3\% & 0/60  & n/a \\
+InternVid (FLT)       & 20  & 30.0\% & \phantom{0}5.0\% & 65.0\% & 35.0\% & 20/20 & 50.0\% \\
+\bottomrule
+\end{tabular}
+\end{table}
+\footnotetext[1]{``Middle-aged'' = 40s--50s bucket; full five-bucket age distribution (no-person, child, young adult, middle-aged, elderly) is reported in \path{results/diversity_stats/comparison.md}.}
 
 % -------------------------------------------------------
 \subsection{Caption Length Ablation}
