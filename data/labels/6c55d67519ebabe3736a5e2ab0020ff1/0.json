@@ -1,0 +1,15 @@
+{
+  "video_id": "6c55d67519ebabe3736a5e2ab0020ff1",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-091.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a basketball trading card encased in a clear protective plastic sleeve against a blurred background. The card features an athlete, Steven Adams, with the word \"OBSIDIAN\" at the top and his name \"STEVEN ADAMS\" at the bottom, along with a signature. The scene is set in a room with a red and black patterned surface, and a small inset video window shows a man wearing a black jacket. The text \"JASPYS\" and \"CASEBREAKS.com\" appear prominently as a watermark in the center of the frame. As the sequence progresses, the hands manipulate the card, eventually tilting it and lifting the protective sleeve away from the card's surface to show its reflective qualities. The lighting is bright, focusing on the card's detailed design and the textures of the plastic casing."
+}

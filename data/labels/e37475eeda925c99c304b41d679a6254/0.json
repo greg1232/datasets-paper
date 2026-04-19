@@ -1,0 +1,15 @@
+{
+  "video_id": "e37475eeda925c99c304b41d679a6254",
+  "url": "./data/segments/3iUTkJy84EY-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses, wearing a light green tunic with floral embroidery and a dark necklace, speaks against a plain black background. A small microphone is clipped to her garment. In the bottom left corner of each frame, a small logo featuring \"NPTEL\" is visible. As the sequence progresses, the woman continuously speaks, her mouth opening and closing. Her right hand moves in a gesturing motion, starting at her side and moving slightly upward and across her body toward the center. Her facial expressions shift slightly to emphasize her speech, with her gaze remaining directed forward. The lighting remains consistent, highlighting her face and clothing against the dark void of the background."
+}

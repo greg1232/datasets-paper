@@ -1,0 +1,15 @@
+{
+  "video_id": "2b2044c2c48ffcdaaea4ce5e24b446e0",
+  "url": "./data/segments/3Kxl1O310k8-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.685,
+    8.055,
+    13.425,
+    18.795
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip displays a low-light indoor setting, appearing to be a recorded video call or security feed. A person with dark hair and a dark top is visible in the top frames, positioned in the upper part of the screen. In the lower frames, a different person with light-colored hair wearing a blue top is visible. Small white timestamps are present in the upper left corner of the bottom frames, reading \"2024-02-11 18 08 56\" and \"2024-02-11 18 08 57\". The scene shifts from showing only the person in the top frame to including a second person in the bottom frames. The backgrounds are dark and indistinct, with minimal lighting illuminating the faces of the individuals. The movement between frames is subtle, focusing on the transition of who is visible on the screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1525a72c25f622fe3e3dec9780c7fa45",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.395,
+    1.185,
+    1.975,
+    2.765
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser displaying a complex interactive map or diagram on a dark background. The diagram consists of various circular icons connected by light blue lines, featuring logos and text such as \"IMPACT BEER,\" \"ACTIVATE FOR CHANGE,\" \"play,\" \"Inspiration,\" \"Interconnection,\" and \"Invisible Tide.\" To the right of the diagram, a small video feed shows a man wearing a dark baseball cap and a dark shirt, speaking toward the camera. The browser's tab bar displays multiple open pages, including one titled \"Trust & Learning by Systemantics.\" Across the sequence of frames, the visual content remains static; the layout of the diagram, the man's position in the video inset, and the browser interface do not change, indicating a pause or a steady shot of the screen."
+}

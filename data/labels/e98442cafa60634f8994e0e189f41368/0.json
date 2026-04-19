@@ -1,0 +1,15 @@
+{
+  "video_id": "e98442cafa60634f8994e0e189f41368",
+  "url": "./data/segments/3mmDnftP1M8-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.224,
+    0.672,
+    1.12,
+    1.568
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair is centered in the frames, wearing a light blue button-down shirt and a black headset with a microphone. He is positioned against a plain, light-colored wall. In the first frame, he looks forward with a neutral expression, holding his hands up in front of him. As the sequence progresses, he becomes more animated, gesturing with his hands to emphasize his speech. By the final frame, he is looking upward and to the side while raising his right arm. The text \"Ashish Raichur\" appears in the bottom left corner of each frame. The lighting remains consistent throughout the clip, and the man remains the sole subject of the video, focused on delivering a presentation or speaking during a call."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ed7a69bb3589e481736a452413ccbae0",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-218.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.865,
+    2.594,
+    4.323,
+    6.052
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a yellow box sitting inside a white tray. In the background, a man wearing a black t-shirt is seated in front of a computer setup. The setting includes various stacks of cards and equipment. On-screen text features a logo that reads \"JASPYS\" and the website \"CASEBREAKS.COM\". As the sequence progresses, the person's hands lift the lid of the yellow box and pull out a shiny trading card. The man in the background remains seated and watches the action. The scene shifts from the closed box to the moment a card is revealed and lifted out of the packaging, while the overall environment of the room and the displayed logos remain constant."
+}

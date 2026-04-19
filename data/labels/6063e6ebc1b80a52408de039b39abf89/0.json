@@ -1,0 +1,15 @@
+{
+  "video_id": "6063e6ebc1b80a52408de039b39abf89",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.525,
+    0.875,
+    1.225
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a computer terminal window filling with scrolling system log data. The background is dark, and the text is primarily white, yellow, and light blue. The logs contain technical strings such as \"HTTP/1.1\" 404, \"GET /favicon.ico\", and repeated references to \"level=info\" and \"calbertaint\". The top of the window shows a menu bar with options like \"Activities\" and \"Terminal\", and the date \"Oct 28 2021\" is visible at the top of the terminal. As the sequence progresses, a vertical cursor moves across the screen, and more lines of logs are printed in real-time, shifting the existing text upwards. The terminal output continues to stream rapidly, showing various network requests and system status messages, while the overall layout of the terminal window remains stationary on the screen."
+}

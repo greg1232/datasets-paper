@@ -1,0 +1,15 @@
+{
+  "video_id": "aae3eab96d6bc6711569d66d1c95b1b3",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-098.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.583,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair wearing a dark blue t-shirt is positioned in a small inset window in the bottom-left corner of the scene. He is sitting in a room with a Christmas tree visible to his left and a monitor behind him. The main part of the screen features a stylized, digital environment dominated by glowing green and blue horizontal lines against a dark background. A large, bright yellow-green column of energy or light erupts vertically in the center of the scene, casting a glow across the floor. As the sequence progresses, the column of light fluctuates in intensity and shape, shifting slightly and emitting wisps of luminous gas that drift across the frame. The man in the inset remains relatively still, looking toward the camera and speaking. No legible text or logos are present in the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "33c71f7f10510a09388f02f391bdda37",
+  "url": "./data/segments/3tXiKB90OM0-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.363,
+    4.088,
+    6.812,
+    9.537
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, grey naval ship with the number \"44\" painted in white on its bow is docked at a pier under a clear blue sky. Numerous people in dark clothing are standing along the upper deck of the ship, looking out toward the dock. To the left of the ship, a smaller red and white tugboat is positioned in the water, with white bumpers separating it from the larger vessel. The pier consists of a light-colored concrete surface with a dark, jagged edge. Across the frames, the camera slowly zooms in on the bow of the ship. As the view tightens, the people on the deck and the details of the ship's hull, including a gold-colored anchor emblem, become more prominent. The tugboat and the pier remain stationary as the perspective shifts closer to the ship's structure."
+}

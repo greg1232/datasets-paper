@@ -1,0 +1,15 @@
+{
+  "video_id": "b986cd2acfa74106616ab3b65f0ae0b2",
+  "url": "./data/segments/3QD9oO6sRns-Scene-110.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.598,
+    1.794,
+    2.99,
+    4.185
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen opening a sports card box on a black surface featuring the \"JASPYS CASEBREAKS\" logo. In the background, several other similar boxes are stacked. The person begins by holding a white and black box that reads \"AUTHENTIC CLEARLY,\" then proceeds to peel back a clear plastic wrap from the top of the box. A small inset video in the corner shows a man wearing a black t-shirt and a baseball cap watching the process. The text \"JASPYS CASEBREAKS\" is prominently displayed across the bottom of the screen. As the sequence progresses, the person focuses on removing the packaging, eventually revealing the interior of the box which features a picture of a baseball player and the text \"CLEARLY AUTHENTIC 2020.\" The environment is a brightly lit indoor space used for card breaking."
+}

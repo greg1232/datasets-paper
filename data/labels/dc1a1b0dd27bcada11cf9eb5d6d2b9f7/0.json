@@ -1,0 +1,15 @@
+{
+  "video_id": "dc1a1b0dd27bcada11cf9eb5d6d2b9f7",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-849.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.141,
+    0.422,
+    0.704,
+    0.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with curly dark hair and headphones sits in a studio setting, speaking into a professional microphone. She is wearing a dark green t-shirt with a red graphic and white lettering that reads \"BESS TALK IOT,\" and a gold watch on her left wrist. Behind her is a white wall featuring a large logo that says \"BESS TALK IOT\" and \"PODCAST,\" along with the phrases \"It's A V torque Hustle\" and \"Talk About It!\". To the left, a framed picture depicts a person's hands. A small graphic overlay in the lower corners repeats the \"BESS TALK IOT\" branding. As the sequence progresses, the woman gestures with her hands to emphasize her points, moving her right hand outward and then bringing both hands forward and across her body while continuing to speak."
+}

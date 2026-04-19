@@ -1,0 +1,15 @@
+{
+  "video_id": "a3fe465f9f92759eeaa0335e24177fa5",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-488.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.017,
+    3.05,
+    5.083,
+    7.116
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, blue headphones, and a black hoodie with \"BOSS TALK\" and \"CEO\" written in gold and white text sits in a studio setting. He is positioned in front of a professional microphone on a boom arm. Behind him is a white backdrop featuring gold stars and the text \"URBAN HUSTLE\" repeated vertically, along with a blue sign that reads \"Where BOSSES Talk!\" and a larger logo that says \"BOSS TALK 101\". On the table in front of him is a black box and a black mug with red and white text that reads \"BOSS TALK 101 CEO\". Throughout the sequence, the man is speaking and gesturing with his hands, shifting his head and gaze slightly as he talks. The camera angle remains static, capturing him from the waist up as he interacts with someone off-screen."
+}

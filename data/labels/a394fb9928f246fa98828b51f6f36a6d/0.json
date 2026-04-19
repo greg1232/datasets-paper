@@ -1,0 +1,15 @@
+{
+  "video_id": "a394fb9928f246fa98828b51f6f36a6d",
+  "url": "./data/segments/3PlNaEZzZg0-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.042,
+    3.125,
+    5.208,
+    7.292
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard and glasses is speaking from behind a podium draped in bright yellow fabric. He is wearing a yellow long-sleeved shirt and a white stole with red and orange vertical stripes across his shoulders. Behind him is a large backdrop featuring a stylized cityscape with red buildings and silhouettes of pagodas against a pale red and green background. A black microphone stands on the podium in front of him. As the scene progresses, the man\u2019s expression and posture shift; he begins by looking slightly to his left, then turns more toward the center, and eventually gestures with both hands raised while speaking. The setting remains constant across the frames, with no other people, logos, or legible text visible."
+}

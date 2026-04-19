@@ -1,0 +1,15 @@
+{
+  "video_id": "20908c6f0fe21e8fb31843ffbdcf1a16",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.885,
+    11.655,
+    19.425,
+    27.195
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call displays a grid of participants in various domestic and office settings. Several individuals appear multiple times in the layout, including men wearing glasses and button-down shirts, and a woman with dark hair. Some participants are centered in their frames, while others are partially visible. Visible on-screen labels include \"Jerry McMahon,\" \"Howard Silverstein,\" \"Patrick Nikryt,\" \"Seyi Sede,\" and \"Jean Van De Vyne.\" A recurring graphic featuring a stylized white and blue figure is visible in several tiles. Across the sequence, the arrangement of the video tiles remains constant, but the expressions and postures of the participants shift slightly as they engage in the conversation. Some people lean toward their cameras or shift their gaze, while others remain still. The background environments vary from rooms with bookshelves and white walls to those with windows and curtains."
+}

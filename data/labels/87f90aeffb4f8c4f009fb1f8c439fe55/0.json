@@ -1,0 +1,15 @@
+{
+  "video_id": "87f90aeffb4f8c4f009fb1f8c439fe55",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.196,
+    0.588,
+    0.979,
+    1.371
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen mixing ingredients in a large grey bowl on a light brown surface. In the upper left, the person is pouring a light brown, grainy mixture into the bowl. As the sequence progresses, the hands continue to stir and incorporate the grains into the bowl's contents. Beside the large bowl, there is a white plate and a small red bowl, both containing portions of the same light brown, grainy substance. The background features a light blue and white cloudy pattern. Each frame contains a logo and the text \"UCAR CENTER FOR SCIENCE EDUCATION\" in the upper left corner. The scene remains static in terms of location and objects, with the only change being the movement of the hands as they mix the food ingredients together."
+}

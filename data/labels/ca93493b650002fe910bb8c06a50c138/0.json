@@ -1,0 +1,15 @@
+{
+  "video_id": "ca93493b650002fe910bb8c06a50c138",
+  "url": "./data/segments/3Kxl1O310k8-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.165,
+    3.495,
+    5.825,
+    8.155
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static shot of a suburban residential neighborhood features a two-story light-green house with gray roofing and white trim. To the left, a gray house is partially visible, and a small evergreen tree stands in the foreground of the green house. A small, circular inset in the upper right corner shows a man wearing a blue shirt and glasses speaking. A gold-colored banner runs across the bottom of the screen containing the white text \"Trust operations & best practices\". In the lower-left corner, the initials \"MHP\" are visible. Across the sequence of frames, the visual elements remain entirely stationary, with no change in the background scenery, the positioning of the houses, or the on-screen text. Only the man in the inset window appears to be speaking, though his movements are minimal across the frames."
+}

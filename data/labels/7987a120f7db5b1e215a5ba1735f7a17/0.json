@@ -1,0 +1,15 @@
+{
+  "video_id": "7987a120f7db5b1e215a5ba1735f7a17",
+  "url": "./data/segments/3E6ctN22V7k-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.27,
+    0.45,
+    0.63
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, curly grey hair and glasses, wearing a grey hooded sweatshirt, is speaking directly toward the camera in an indoor setting with a wooden background. He is captured in a medium close-up shot, gesturing with his right hand to emphasize his points. Across the sequence, he begins by pointing his index finger forward and then transitions into a more general hand movement as he continues talking. The background is softly blurred, showing hints of other objects and another person partially visible on the right side. Centered at the bottom of the scene is white on-screen text that reads, \"That is why the approach of Libraries Without Borders moved me so much.\" This text remains static and legible across all frames as the man's facial expressions and hand gestures shift slightly throughout the clip."
+}

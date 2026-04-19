@@ -1,0 +1,15 @@
+{
+  "video_id": "38e5ab95f281ee23df6c5c4c2f0fe1ed",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.802
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a website for \"CASEBREAKS.COM,\" featuring a list of NBA teams and a video feed of a man. The man has a beard and is wearing a black t-shirt, sitting in a room with a dark background. A chat window on the right displays messages from users \"glowbug27\" and \"Nightbot,\" with Nightbot posting, \"Click the link for the BREAKS SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/2SdeKqY.\" Above the video, a numbered list of teams includes \"11. DALLAS MAVERICKS\" through \"30. MINNESOTA TIMBERWOLVES.\" Below the list, text reads, \"You have randomized this list 7 times,\" with buttons for \"Again!\" and \"Go Back.\" At the bottom, a red and white banner reads \"JASYPS CASEBREAKS.COM.\" The frames are identical, showing a static image of the webpage and the man remaining still in the video window."
+}

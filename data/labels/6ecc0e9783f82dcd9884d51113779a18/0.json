@@ -1,0 +1,15 @@
+{
+  "video_id": "6ecc0e9783f82dcd9884d51113779a18",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.525,
+    0.875,
+    1.225
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man dressed in a blue traditional martial arts uniform performs a demonstration with a long wooden staff in a large hall. The room features warm lighting, recessed ceiling lights, and an audience of people seated in the background. In the initial stages of the sequence, the man is in a wide, low stance, holding the staff horizontally across his body and extending it outwards. As the movement progresses, he shifts his weight and rises from the low stance, bringing the staff closer to his chest. He continues to rotate and reposition himself, holding the staff diagonally across his body while maintaining a balanced posture. The audience remains seated and observant throughout the demonstration, with some individuals wearing suits and others in casual attire. There is no on-screen text or logos visible."
+}

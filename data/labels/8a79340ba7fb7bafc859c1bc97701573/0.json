@@ -1,0 +1,15 @@
+{
+  "video_id": "8a79340ba7fb7bafc859c1bc97701573",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.708,
+    5.125,
+    8.542,
+    11.958
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short blonde hair, wearing a black long-sleeved shirt, is in a kitchen setting. The background features white cabinets, light-colored walls, a green curtain, and a stove area with various kitchen utensils and containers. In the top-left frame, she looks toward the camera and speaks. By the top-right frame, she is gesturing with her hands while continuing to talk. In the bottom-left frame, she leans forward and reaches toward a metal pot on the stove. In the final frame, she lifts the lid of the pot. The text \"UCAR CENTER FOR SCIENCE EDUCATION\" appears in the top-left corner of every frame, accompanied by a stylized logo of three curved lines. The woman is the only person visible throughout the sequence, and the camera angle remains static as she interacts with the cooking equipment."
+}

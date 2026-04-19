@@ -1,0 +1,15 @@
+{
+  "video_id": "5671ae0a263a240a473c112b73315e18",
+  "url": "./data/segments/3OnnmWsJTLM-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is swimming in a dark ocean during a golden sunset. The sun hangs low on the horizon, casting a bright orange glow across the sky and creating a shimmering reflection on the water's surface. Small waves ripple through the dark blue water. The person is seen from the chest up, appearing as a silhouette against the light, and is moving slowly through the water. Between the frames, the swimmer gradually moves closer toward the camera, with their arms becoming more visible as they push through the waves. The background remains constant, with soft clouds drifting in the upper portion of the sky around the setting sun. There are no visible objects, equipment, or text on screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "010c5172a9bf5a3f0df44f55ad70374b",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.83,
+    5.49,
+    9.15,
+    12.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a browser window with multiple open tabs, including one titled \"True & Learning by Systemantics.\" The main view displays a complex conceptual map on a dark background with various circular icons connected by curved blue lines. Notable text labels include \"STAMPING BEER\" and \"ACTUATION FOR CHANGE\" inside rectangular boxes on the left. Other small labels such as \"pay,\" \"Introducing,\" and \"Invisible\" are scattered across the map. In the top right corner, a video call window shows a man wearing a dark cap. As the sequence progresses, the cursor interacts with the map, highlighting different nodes. By the final frame, a small blue selection circle appears around one of the icons, and the cursor is positioned near the \"STAMPING BEER\" box, indicating a user navigating through the visual network of ideas."
+}

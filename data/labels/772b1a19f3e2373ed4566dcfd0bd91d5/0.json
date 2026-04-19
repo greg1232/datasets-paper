@@ -1,0 +1,15 @@
+{
+  "video_id": "772b1a19f3e2373ed4566dcfd0bd91d5",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-345.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.123,
+    0.369,
+    0.615,
+    0.86
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A gamer is captured in a picture-in-picture overlay while playing the video game \"MADDEN 23.\" The gameplay displays a football field with yellow and green turf, flanked by a crowd of spectators. On-screen text includes the game title \"MADDEN 23,\" a score of \"12\" to \"7,\" and a game clock showing \"2nd 0:10\" or \"2nd 0:29.\" A playbook menu is open, showing options like \"FOUR VERTICALS\" and \"PA DEEP CROSS,\" alongside a \"PREVIOUS PLAY\" section mentioning \"MIKE BLITZ 0.\" The gamer, a young man with blonde hair wearing a dark shirt, is visible in a small window on the left, sitting in front of a computer monitor and wearing a headset. As the video progresses, a \"SELECT A PLAY\" prompt appears, and the user navigates the menu. Logos for Nike and the NFL are visible at the top of the screen."
+}

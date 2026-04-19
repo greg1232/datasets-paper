@@ -1,0 +1,15 @@
+{
+  "video_id": "a4113a06e6723d667e896103518bb0d5",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.792,
+    32.375,
+    53.958,
+    75.542
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman named \"Nancy Ramya,\" as identified by on-screen text in the bottom-left corner of each frame, is captured in a medium close-up shot. She is positioned indoors against a plain white wall, with a light-colored curtain and a blue drape visible to her right. She wears a striped, button-down shirt and large black over-ear headphones. Throughout the sequence, she is speaking, with her facial expressions shifting from a neutral, focused gaze to an open-mouthed expression as she talks. Her head remains relatively stationary, while her lips move and her eyes blink across the frames. A neutral-colored surface, possibly a table or ledge, is visible behind her to the right. The lighting is consistent across the scenes, and there are no other people or moving objects present in the frame."
+}

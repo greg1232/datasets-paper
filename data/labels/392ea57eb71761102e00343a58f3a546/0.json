@@ -1,0 +1,15 @@
+{
+  "video_id": "392ea57eb71761102e00343a58f3a546",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-097.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.088,
+    0.263,
+    0.438,
+    0.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person uses a white bottle to pour a liquid into a white Miir-branded cup. The person's left hand grips the bottle while their right hand holds the cup from the bottom. The scene takes place against a dark, indistinct background. Across the first three segments, the text \"EASY POUR OPENING\" appears in white letters on a black background in the upper right. In the final segment, the text changes to \"OPENING,\" which is displayed in black letters on a white rectangular background. The person's hands and the objects remain in the same relative positions throughout the sequence, though the bottle tilts slightly further to facilitate the pour. The logo \"Miir\" is clearly visible on the side of the cup."
+}

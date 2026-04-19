@@ -1,0 +1,15 @@
+{
+  "video_id": "8356e27181c86648b91fef20ce5bcb09",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.385,
+    1.155,
+    1.925,
+    2.695
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A male soccer player in a blue jersey with \"Fly Emirates\" on the front and green shorts and socks is on a soccer field. In the first frame, he is in mid-air, jumping high while glancing back. As the sequence progresses, he lands and begins running away from the camera across the green grass. Other players in similar blue and green uniforms are scattered across the field, some standing and some moving. In the background, red stadium seating is visible, along with white advertising boards featuring the text \"CASTOR\" and \"JUNTOS POR UN MA\u00d1ANA M\u00c1S LIMPIO\" or \"limpieza.\" The Real Madrid crest is visible at the top of the scene. Throughout the frames, the player moves from the foreground toward the distance, with his back increasingly toward the viewer."
+}

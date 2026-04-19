@@ -1,0 +1,15 @@
+{
+  "video_id": "02b517fb705adeaf7f57ff085c9ef96c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-214.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.537,
+    0.896,
+    1.254
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short blond hair, wearing a dark blue t-shirt, appears in a small inset window in the bottom left of a video game interface. The interface features a dark purple background with text including \"SOM HILL\", \"UPGRADES\", and \"X-FACTOR & ABILITIES\". A football player wearing a white and silver helmet and jersey is pictured on the right side of the screen. In the first few scenes, the menu displays \"Team Chemistry And Ability Slot\" with a \"COST: 5\" and the text \"NO ATTRIBUTE BOOSTS\". As the video progresses, the man in the inset window remains present while the screen transitions. In the final scene, the \"Team Chemistry And Ability Slot\" section is replaced by a large \"ABILITY SLOT\" heading with a large white plus sign below it, accompanied by the instruction \"Select to add a new Ability to this player.\" Various numerical values and green icons are visible at the top and center of the screen."
+}

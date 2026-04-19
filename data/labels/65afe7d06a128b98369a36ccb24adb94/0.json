@@ -1,0 +1,15 @@
+{
+  "video_id": "65afe7d06a128b98369a36ccb24adb94",
+  "url": "./data/segments/3fokLGPK15Q-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.13,
+    0.39,
+    0.65,
+    0.91
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a dimly lit, industrial indoor setting with dark walls, metallic stairs, and reflective floors. A glowing orange, crescent-shaped light fixture is prominent in the background, casting a warm hue against the otherwise cool, blue-toned environment. In the distance, several vertical structures and a decorative railing are visible. No people are present in the scene. As the video progresses, a translucent, light-colored overlay appears across the center of the frame. This overlay contains large, blocky text that reads \"ELP\", which becomes more distinct in the final sequence. The camera remains stationary throughout the clip, with the only change being the appearance of the superimposed text over the static architectural backdrop."
+}

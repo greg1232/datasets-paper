@@ -1,0 +1,15 @@
+{
+  "video_id": "be34e54430ad0b399a79e141535c06b6",
+  "url": "./data/segments/3phuyH7Y05U-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.562,
+    0.787
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with yellow skin, black hair, and a slight smile stands in the center of the scene, wearing a white robe over a blue shirt and tie. He is surrounded by a crowd of other yellow-skinned people who appear to be cheering, with several figures behind him raising their arms in excitement. To his left, a man with brown hair and a mustache wears a green shirt, while a woman with dark hair is visible beside him. To the right, another man with brown hair is shown shouting with an open mouth. The background consists of a plain grey wall topped with a red curtain draped across the upper left corner. Across the sequence of frames, the man in the robe remains relatively still, though his facial expression shifts slightly as he looks toward the left side of the frame."
+}

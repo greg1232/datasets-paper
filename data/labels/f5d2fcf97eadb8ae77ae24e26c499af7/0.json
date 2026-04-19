@@ -1,0 +1,15 @@
+{
+  "video_id": "f5d2fcf97eadb8ae77ae24e26c499af7",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.83,
+    8.49,
+    14.15,
+    19.809
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A small, square electronic integrated circuit chip with a dark body and metallic pins rests on a smooth, light-gray surface. In the initial scene, the chip is blurred and positioned in the distance. As the sequence progresses, the camera moves closer and the focus sharpens, revealing a grid of small circular indentations on the top surface of the chip. The object remains stationary on the flat background, but the camera's perspective shifts, moving from a distant, out-of-focus shot to a closer, clear view, and finally shifting slightly to show the chip from a side-angled perspective. No people, text, or other equipment are visible in the frames."
+}

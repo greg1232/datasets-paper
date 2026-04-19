@@ -1,0 +1,15 @@
+{
+  "video_id": "f002a82d3684c2276a26a44d813f9cc2",
+  "url": "./data/segments/3P1vSUbet40-Scene-0469.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde curly hair tied up in a bun wears black headphones and a black t-shirt with a white circular logo on the chest. She is positioned in a studio setting, facing slightly to her right and smiling while looking off-camera. A professional microphone with a black pop filter is positioned in front of her. In the background, a screen displays the name \"Johnson\" in red text, and a yellow vertical stripe runs down the wall behind her. On-screen graphics include the \"BOSS TALK 101\" logo and a \"PODCAST\" icon with a microphone symbol. The scene remains static across the sequence, with the woman maintaining her position and expression, showing minimal movement as she listens or prepares to speak."
+}

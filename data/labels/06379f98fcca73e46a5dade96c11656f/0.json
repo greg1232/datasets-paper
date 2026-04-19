@@ -1,0 +1,15 @@
+{
+  "video_id": "06379f98fcca73e46a5dade96c11656f",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-206.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.5,
+    0.833,
+    1.167
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a collectible trading card over a desk, showcasing its design. The setting features a surface covered with a light-colored cloth adorned with orange borders and green palm tree patterns. In the background, white rectangular boxes are stacked. The person, wearing a dark blue shirt with a yellow logo on the chest, is visible in a small picture-in-picture window in the lower center of the screen, sitting in a gaming chair. The top of the screen displays the logo \"JASPYS\" and the website \"CASEBREAKS.COM\". In the picture-in-picture window, the text \"JASPYS Sports Cards & Collectibles\" is visible. Across the sequence, the hands tilt the card, rotating it to reflect light and show different angles of the card's surface, while the man in the small window remains relatively stationary."
+}

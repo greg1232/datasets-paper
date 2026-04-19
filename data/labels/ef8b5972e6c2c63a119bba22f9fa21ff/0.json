@@ -1,0 +1,15 @@
+{
+  "video_id": "ef8b5972e6c2c63a119bba22f9fa21ff",
+  "url": "./data/segments/3L_uHTClWfk-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.796,
+    2.388,
+    3.979,
+    5.571
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Joe Biden is pictured from the chest up, wearing a dark blue suit, a white dress shirt, and a blue and white striped tie. He is positioned in the foreground, speaking with a serious expression. Behind him is a view of the White House, featuring its iconic white columns and architecture under a bright, partly cloudy sky. A large green tree stands to the left of the building, and a white water fountain is visible in the center of the lawn. An American flag flies from the roof of the building. Across the sequence of frames, the image remains static, with no significant movement or changes in the setting, clothing, or the person's position. No on-screen text or logos are visible in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "dd7ea5ec54411f9771b1677653797211",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.308,
+    0.925,
+    1.542,
+    2.158
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair is seen in a small picture-in-picture overlay on the left side of a video game screen. He is wearing a dark shirt and appears to be reacting to the gameplay, with his facial expression shifting from a neutral look to a wide-eyed, open-mouthed expression of surprise. The main screen displays a \"LINEUP\" menu from a football video game, featuring several digital player cards with attributes and positions. On-screen text includes categories like \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS.\" In the top right corner, numerical values are displayed, including \"173,097,\" \"14,669,\" and \"2,343,543,\" alongside the number \"19\" and a rating of \"90\" in a gold circle. The bottom of the screen shows navigation prompts such as \"BEST LINEUP,\" \"HELP,\" and \"BACK.\" The layout of the game menu remains static as the man's expression changes."
+}

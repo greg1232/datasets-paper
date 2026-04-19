@@ -1,0 +1,15 @@
+{
+  "video_id": "5e4a17cfdd09eae7eeb2628edaf2eaf9",
+  "url": "./data/segments/3JYDT8lap5U-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    9.73,
+    29.19,
+    48.65,
+    68.11
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair, wearing a dark blazer over a light-colored shirt and a dark t-shirt, stands on a stage giving a presentation. He is positioned to the left of a large projection screen. In the initial scenes, the screen displays the text \"AIRFLOW PROVIDES DEFAULT OPERATORS\" and \"You can use things like BranchOperator, SensorOperator, etc\". The man gestures with his hand as he speaks. As the presentation progresses, the slide changes to \"PASSING DATA DOWNSTREAM,\" followed by the text \"We can pass data across operators downstream with xcom\" and a block of Python code. Below the code, the screen states, \"This is useful to hold state data, such as a DB index IDs\". The bottom of each slide features the \"europython\" logo and the text \"Edinburgh 23 29 July 2018\". The man continues to gesture and speak throughout the transition between the slides."
+}

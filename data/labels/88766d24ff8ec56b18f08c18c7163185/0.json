@@ -1,0 +1,15 @@
+{
+  "video_id": "88766d24ff8ec56b18f08c18c7163185",
+  "url": "./data/segments/3E6ctN22V7k-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.975,
+    1.625,
+    2.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A landscape view shows two white, tent-like structures situated on a grassy field under a cloudy, overcast sky. The structure in the foreground is larger and features two circular openings near its peak and a small green rectangular logo on its side. Behind it sits a smaller, similarly shaped white structure. A green bush grows between the two buildings. Centered across the lower half of the scene is the white on-screen text, \"We always come from somewhere, what is impressive, is the story.\" The scene remains static across all frames, with no people present and no visible movement in the landscape or the structures. The lighting and composition are consistent throughout, maintaining a still, contemplative atmosphere."
+}

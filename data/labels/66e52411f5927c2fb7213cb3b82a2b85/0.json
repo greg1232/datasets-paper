@@ -1,0 +1,15 @@
+{
+  "video_id": "66e52411f5927c2fb7213cb3b82a2b85",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-073.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.555,
+    4.665,
+    7.775,
+    10.885
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair, wearing a dark blue blazer over a red top, stands before a plain light gray background. A bottle of water sits on a table in front of her. The \"mediasite\" logo is visible in the upper left of the scene. Initially, she speaks with a smile, gesturing with her right hand. She then transitions to a more contemplative expression, bringing her hand up to cover her mouth. By the final sequences, she is looking slightly off-camera and then directly forward with a neutral expression, her hands resting in front of her. The scene remains static throughout the sequence, with only the woman's facial expressions and hand gestures changing as she delivers her presentation."
+}

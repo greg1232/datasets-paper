@@ -1,0 +1,15 @@
+{
+  "video_id": "3ec130f145792aca9e607f1ee04e656c",
+  "url": "./data/segments/3Smz5pevbI4-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting, a woman and a man are seated behind a dark counter or table. The woman, on the left, wears glasses and a black blazer over a dark top, holding white papers in her hand. The man, on the right, wears glasses and a grey blazer over a white shirt and brown tie. He holds a microphone in his right hand. As the scene progresses, the man speaks into the microphone, gesturing with his left hand. His hand moves from his side toward the woman and then outward in a sweeping motion across his chest. The woman remains relatively still, looking toward the man while holding her documents. In the background, other people are partially visible, seated in tiered rows. A small blue identification badge is pinned to the woman's blazer, though the text on it is not legible."
+}

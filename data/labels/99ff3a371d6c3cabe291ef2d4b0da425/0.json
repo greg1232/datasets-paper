@@ -1,0 +1,15 @@
+{
+  "video_id": "99ff3a371d6c3cabe291ef2d4b0da425",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-109.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.385,
+    1.155,
+    1.925,
+    2.695
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a short haircut, wearing a white short-sleeved collared shirt and dark trousers with a black backpack, records himself with a smartphone in a large football stadium. The scenes transition from close-up shots of his face to wide shots showing him standing on the green pitch in front of empty red stadium seating and a goal post. The Real Madrid club crest is visible in the upper corners of the frames. Yellow and white subtitles appear on the screen; the first sequence reads, \"\u00a1Vamos a darlo todo! We'll give it our all!\" and \"por conseguir los tres puntos. we got the three-points.\" Later, the text changes to \"\u00a1Hala Madrid! Hala Madrid!\". The man holds the phone up to capture himself, speaking toward the camera while standing on the field."
+}

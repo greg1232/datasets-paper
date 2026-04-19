@@ -1,0 +1,15 @@
+{
+  "video_id": "a8a76bc83f676bb4d255652d6bbde6d9",
+  "url": "./data/segments/3Z229_lKLpk-Scene-095.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.745,
+    2.235,
+    3.725,
+    5.215
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures the interior of a grand hall with a large, circular wooden ceiling feature and a ring of bright lights. The room is characterized by tall, dark vertical pillars interspersed with large, illuminated stained-glass windows depicting figures. As the camera tilts downward, the view transitions from the ceiling to the lower section of the room. In the bottom half of the space, a large group of people is gathered, mostly dressed in dark formal attire. They are standing in tiered rows, forming a choir or ensemble. The scene shifts from a focus on the architectural details of the upper walls and ceiling to a wider shot that reveals the scale of the crowd and the ornate interior of the venue. No on-screen text or logos are visible."
+}

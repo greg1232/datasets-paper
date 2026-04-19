@@ -1,0 +1,15 @@
+{
+  "video_id": "b942decb345e28b9cf6733e02d23adca",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.36,
+    1.081,
+    1.802,
+    2.523
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard wearing a black t-shirt sits in front of a computer screen displaying a website for \"2021 TOPPS TRANSCENDENT COLLECTION HALL OF FAME EDITION BASEBALL HOBBY CASE BREAK #1 *RANDOM HIT*\". The website lists a price of \"$449.99\" and includes a \"ADD TO CART\" button. To the man's right sits a cardboard shipping box with the word \"TRANSCENDENT\" printed on it. In the lower right corner of the screen, a red \"Subscribe\" button is visible alongside the text \"Hit the SUBSCRIBE button down below!\". As the video progresses, the screen changes from the product page to a bright orange screen, and then returns to the product page where the \"ADD TO CART\" button has been replaced by a grey \"SOLD OUT\" button. The website header displays categories such as \"FOOTBALL\", \"BASEBALL\", and \"BASKETBALL\", as well as the URL \"WWW.JASPYSCASEBREAKS.COM\"."
+}

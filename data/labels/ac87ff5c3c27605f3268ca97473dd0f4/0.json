@@ -1,0 +1,15 @@
+{
+  "video_id": "ac87ff5c3c27605f3268ca97473dd0f4",
+  "url": "./data/segments/3Smz5pevbI4-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    18.994,
+    56.982,
+    94.97,
+    132.958
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"Test intuitive economic interventions: Africa\" displays a bar chart measuring \"Additional school years gained per $100 spent.\" The x-axis lists various interventions: \"uncond. cash transfers,\" \"conditional cash transfers,\" \"merit scholarships,\" \"free primary school uniforms,\" \"deworming,\" and \"information on educational returns to parents.\" In the beginning, the chart is empty, showing only the labels and a horizontal axis line. As the sequence progresses, blue bars gradually emerge from left to right, accompanied by numerical values appearing above them. The bars increase significantly in height across the categories, starting with \"0.02\" for unconditional cash transfers and peaking at \"20.7\" for information on educational returns to parents. Other values shown include \"0.09\" for conditional cash transfers, \"0.27\" for merit scholarships, \"0.71\" for free primary school uniforms, and \"13.9\" for deworming."
+}

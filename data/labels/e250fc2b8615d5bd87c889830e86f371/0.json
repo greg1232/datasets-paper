@@ -1,0 +1,15 @@
+{
+  "video_id": "e250fc2b8615d5bd87c889830e86f371",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-132.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.077,
+    0.231,
+    0.385,
+    0.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a graded trading card in a clear plastic case, showing a signature on the card's surface. The person's hand and the card dominate the foreground. In the background, a man with a beard, wearing a black t-shirt, is visible in a small inset video window, sitting in front of a desk with equipment. On-screen text and logos include \"JASPYS\" with a stylized \"S\" and \"CASEBREAKS.COM\". The scene is set on a surface featuring a teal palm tree graphic. As the sequence progresses, the person moves the graded card away from the camera, revealing more of the background surface and a white rectangular object. The man in the inset window remains in his position, observing the process. The camera focus shifts from the close-up of the signed card to a wider view of the tabletop area."
+}

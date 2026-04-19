@@ -1,0 +1,15 @@
+{
+  "video_id": "a5299d521d9db23ea9a914263f02afa0",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.954,
+    2.862,
+    4.771,
+    6.679
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a dark shirt sits in a room with equipment in the background, including a \"TRANSCENDENT\" sign. He is positioned to the right of a computer screen showing a \"RANDOM.ORG\" website titled \"True Random Number Service\" and \"List Randomizer.\" In the initial sequence, the text input box under \"Part 1: Enter List Items\" is empty. As time progresses, the man interacts with the computer, and a list of sports card items is populated into the box, starting with \"[01] Original Art Sketch Card by James Florentino # d 1 of 1\". Other entries include a \"2018 Topps Chrome\" card and a \"RANDOM JONYMAN 1/1 AUTO\". The website also displays buttons for \"Randomize\", \"Reset Form\", and \"Switch to Advanced Mode\". A red \"Subscribe\" button and text urging viewers to \"Hit the SUBSCRIBE button down below!\" are overlaid on the bottom right of the screen."
+}

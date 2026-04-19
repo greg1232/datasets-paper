@@ -1,0 +1,15 @@
+{
+  "video_id": "9510a5c38cbac06b97ee026f90a5b5a6",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.459,
+    1.376,
+    2.294,
+    3.212
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a brightly lit indoor setting, a clear plastic storage container holding a green circuit board sits on a white table. To the left, a black device with a glowing vertical strip of yellow lights is visible, and a white notepad with a pen rests nearby. A person wearing a grey button-down shirt stands behind the table. As the sequence progresses, the person's arm and hand enter the frame, reaching toward the table. The camera angle shifts, showing the person in a grey t-shirt from a side profile, wearing a red ID badge clipped to their waist. Their hand moves closer to the circuit board and eventually rests on the white surface of the table next to the clear container. The scene focuses on the interaction between the person and the electronic equipment on the table."
+}

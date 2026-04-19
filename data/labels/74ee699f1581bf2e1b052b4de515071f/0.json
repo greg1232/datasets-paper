@@ -1,0 +1,15 @@
+{
+  "video_id": "74ee699f1581bf2e1b052b4de515071f",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.43,
+    1.29,
+    2.15,
+    3.01
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A male news anchor wearing glasses, a dark blue suit, a white shirt, and a maroon tie speaks in front of a digital backdrop. The background features a blue map of Africa and a circular logo with the text \"PLUS POLITICS\" in bold white letters. A red vertical banner on the left side displays the \"plus tv\" logo. A white ticker at the bottom of the screen contains the text \"SUBSCRIBE\" on the left and \"WWW.YOUTUBE.COM/PLUSTVAFRICA\" on the right. As the scene progresses, the anchor remains in a medium shot, speaking to the camera. In the final sequence, a semi-transparent graphic overlay appears over the anchor, displaying a logo for the \"INDEPENDENT NATIONAL ELECTORAL COMMISSION\" and the acronym \"INEC\". The bottom ticker also updates to read \"SUBSCRIBE WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE\"."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "27083a402e6ab5744dd1c44fa97527a0",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-074.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.284,
+    0.851,
+    1.418,
+    1.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation room, three healthcare professionals in scrubs and masks work around a medical mannequin on a bed. One person wears blue scrubs and a white mask, leaning over the mannequin, while another wears pink scrubs and a blue mask, standing nearby. A third person in a black shirt and blue mask stands in the background. A laptop on a mobile cart is positioned in the foreground, displaying a dark screen with small labels. The frames show the person in blue scrubs adjusting something near the mannequin's chest. On-screen graphics include a purple silhouette icon and the text \"Day 2\" inside a purple circle, along with the text \"Sim Week\" next to a small graphic of three vertical lines. Throughout the sequence, the people remain in their positions, with the primary action being the subtle movements of the person in blue scrubs as they interact with the mannequin."
+}

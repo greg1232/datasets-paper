@@ -1,0 +1,15 @@
+{
+  "video_id": "c42f6d39e6e9acc5fb35b44badf00b24",
+  "url": "./data/segments/3E6ctN22V7k-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.16,
+    0.48,
+    0.8,
+    1.12
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark-colored long-sleeved garment is shown interacting with a yellow surface bordered by a silver metallic frame. The person's hand is positioned near a silver metal bracket attached to the frame. Across the sequence, the person's index finger reaches toward and then presses into a small hole or slot within the metal bracket. The camera remains static, focusing on the close-up action of the hand and the hardware. At the bottom of each frame, the on-screen text \"It is really the good approach.\" is displayed in a white, sans-serif font. The background behind the yellow surface is blurry and appears to be a dark red or brown wall. The movement is subtle, showing the progressive motion of the finger making contact with the bracket."
+}

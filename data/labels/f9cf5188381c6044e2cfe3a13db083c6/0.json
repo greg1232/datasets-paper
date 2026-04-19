@@ -1,0 +1,15 @@
+{
+  "video_id": "f9cf5188381c6044e2cfe3a13db083c6",
+  "url": "./data/segments/3a0FD1177FA-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands and forearms are shown from an overhead perspective working on a white crafting table. The person wears a white smartwatch on their left wrist. They are manipulating a square piece of patterned paper featuring a camouflage-like design of green, brown, and white. The paper rests on a white gridded cutting mat, surrounded by crafting tools including a metal ruler, a paper trimmer, and various stamps. One stamp set clearly displays the text \"Thank You\". An ink pad is also present, labeled \"ALAMBINETO\". A watermark in the bottom left of each scene reads \"Stamping Jill\". As the sequence progresses, the person holds the patterned paper steady with both hands, then shifts their right hand to adjust a clear acrylic stamping tool positioned to the right of the paper."
+}

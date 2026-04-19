@@ -1,0 +1,15 @@
+{
+  "video_id": "2ef1d492beb1b3341629e1673b507607",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-268.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.671,
+    14.014,
+    23.357,
+    32.699
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A musician performs in a room with wooden paneled walls. He wears glasses, a white long-sleeved shirt, and a dark vest with decorative embroidery. He stands behind a microphone, playing an acoustic guitar. Several audience members are visible in the foreground, viewed from behind; they include people with long brown hair and one person with short white hair. To the right of the audience, the text \"ORCA\" appears on the screen. Across the sequence, the musician continues to play his guitar and sing, shifting his head position slightly. In the final frames, he looks downward toward his guitar before glancing back up toward the audience. The audience members remain stationary throughout the clip, and the \"ORCA\" text remains in a fixed position on the right side of the screen."
+}

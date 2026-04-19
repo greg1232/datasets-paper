@@ -1,0 +1,15 @@
+{
+  "video_id": "e4fc7e2f9cadee135ac14b21c0dd84fa",
+  "url": "./data/segments/3a0FD1177FA-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.349,
+    1.048,
+    1.747,
+    2.445
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is crafting on a white cutting mat on a white table. They wear a white smartwatch on their left wrist and rings on their fingers. Various crafting supplies are scattered around, including a blue ink pad, a blue stamping tool, a piece of white tape, and scraps of decorative paper with floral and leaf patterns. A logo reading \"Stamping Hill\" is visible in the bottom left of the frames. In the first frame, the person's hands move toward the center of the mat. By the second frame, they place a rectangular piece of dark blue paper with a purple floral design and a thin strip of leaf-patterned paper onto a solid dark blue cardstock base. In the third frame, the person adjusts the positioning of these elements. Finally, in the fourth frame, they move the thin leaf strip and place a larger, rectangular piece of white paper with a green leaf pattern on the right side of the blue cardstock."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "bdb0d7af9f2991c0522185490801895c",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.155,
+    12.465,
+    20.775,
+    29.085
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a presentation slide titled \"Linde \u2013 Hampson System\" under the header \"CRYOGENIC ENGINEERING.\" The slide features a temperature-entropy (T-S) diagram on the left and a corresponding system schematic on the right. The T-S diagram includes plotted curves labeled \"p=const\" and \"h=const,\" with numbered points from 1 to 4. The schematic depicts components such as a \"Makeup gas\" inlet, a heat exchanger, and a valve, with flow indicators labeled \"(m-m_1)\" and \"m_1.\" An NPTEL logo is visible in the bottom left corner, and a footer reads \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" Throughout the frames, a small cursor appears and moves across the right side of the slide, shifting its position from the heat exchanger toward the lower valve and then slightly back, indicating a pointer being used to highlight specific parts of the system."
+}

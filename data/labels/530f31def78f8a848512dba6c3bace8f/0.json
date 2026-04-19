@@ -1,0 +1,15 @@
+{
+  "video_id": "530f31def78f8a848512dba6c3bace8f",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.0,
+    21.0,
+    35.0,
+    49.0
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair tied in a bun stands before a plain, light-gray background, speaking during a presentation. She is wearing a dark navy blazer over a red top. A microphone is positioned in front of her, and a clear plastic water bottle sits on a white table to her side. The text \"mediasite\" and a corresponding logo appear in the upper left corner of each scene. As the video progresses, the woman gestures with her hands to emphasize her points. In the initial moments, her hands are clasped together in front of her. She then shifts her posture, momentarily looking down and away from the camera while moving her hands. By the final frame, she is looking forward again, with her hands open and mid-gesture as she continues to speak."
+}

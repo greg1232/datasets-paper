@@ -1,0 +1,15 @@
+{
+  "video_id": "276b3c3e0ee2961b5fcc806fec39a0fb",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.326,
+    3.979,
+    6.632,
+    9.284
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A flashlight beam illuminates a dark, wooded ground surface, casting a bright circular light on dirt mixed with pine needles, small patches of grass, and scattered leaves. The scene is captured from a first-person perspective, with the light moving across the terrain. In the beginning, the beam is centered on a patch of soil near some greenery, and as it shifts, it reveals more of the forest floor, including small twigs and foliage. The perimeter of the view is heavily vignetted, creating a tunnel-like effect that focuses attention on the area illuminated by the light. There are no people, clothing, text, or logos visible in the frames. The movement of the light source suggests someone is scanning the ground in a dark environment, transitioning the focus from one area of the dirt to another."
+}

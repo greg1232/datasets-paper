@@ -1,0 +1,15 @@
+{
+  "video_id": "eee4f267a976c9e19dbff77fdcbc47d5",
+  "url": "./data/segments/3P5zYKAFzh4-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.538,
+    1.614,
+    2.69,
+    3.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two people appear in a split-screen video call. On the left is Margaret Harrington, a woman with reddish-blonde hair wearing a blue patterned shirt and red earrings. On the right is Greg Delanty, a man with glasses and a grey beard wearing a purple shirt, positioned in a room with a blue wall and a framed picture. On-screen text at the bottom reads \"FOCUS with Margaret Harrington\" on the left and \"No More Time Climate Crisis Poems by Greg Delanty\" on the right, accompanied by a \"TOWN MEETING TV\" logo. As the sequence progresses, Margaret maintains a similar attentive expression while speaking. Greg is initially seen speaking, then transitions to a gesture where he raises both hands to touch the top of his head. The background and graphic overlays remain constant throughout the scene."
+}

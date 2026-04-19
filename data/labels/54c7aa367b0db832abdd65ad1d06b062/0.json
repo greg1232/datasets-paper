@@ -1,0 +1,15 @@
+{
+  "video_id": "54c7aa367b0db832abdd65ad1d06b062",
+  "url": "./data/segments/3Z229_lKLpk-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.725,
+    2.175,
+    3.625,
+    5.075
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a formal assembly setting, two men are seated behind a wooden railing in a row of green cushioned seats. The man on the left wears a navy blue sleeveless vest over a light-colored long-sleeved shirt. Beside him, the man on the right is dressed in a white long-sleeved shirt and glasses. In the background, other individuals are partially visible, including one person wearing a light yellow garment. As the scene progresses, the man in the white shirt transitions from sitting with his hands resting in his lap to clapping. The man in the navy vest remains relatively still, looking toward the center of the room. Small white labels with numbers such as \"200\" and \"199\" are affixed to the wooden railing in front of the men. The camera remains stationary throughout the sequence, capturing the subtle movement of the man clapping."
+}

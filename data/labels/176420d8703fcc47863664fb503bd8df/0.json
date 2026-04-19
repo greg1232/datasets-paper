@@ -1,0 +1,15 @@
+{
+  "video_id": "176420d8703fcc47863664fb503bd8df",
+  "url": "./data/segments/3i5-ZukC--g-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with curly brown hair and glasses is pictured in a home office setting, sitting at a desk and looking at a laptop screen. She wears a dark top and sits before a window with green foliage visible outside. Overlaid on the scene is a promotional advertisement for \"VirtualShield.\" The text reads \"Stay Home, Stay Protected. Extra 50% OFF,\" followed by a paragraph discussing COVID-19 and the importance of online security. A large price point of \"$2.50 /month\" is featured prominently. Below the text, there is a red button that says \"Start Now for FREE\" and a line stating, \"Click the button above to claim your 50% discount!\" The \"VirtualShield\" logo appears in the top left corner. Across the frames, the image remains static, with no visible movement or change in the woman's position or the on-screen text."
+}

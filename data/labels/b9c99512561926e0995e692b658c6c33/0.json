@@ -1,0 +1,15 @@
+{
+  "video_id": "b9c99512561926e0995e692b658c6c33",
+  "url": "./data/segments/3Xr-czqAfSc-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.975,
+    5.925,
+    9.875,
+    13.825
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair, wearing a black blazer and skirt, sits in a dark gray armchair in a bright office setting. Beside her is a small, cylindrical wooden side table. To her left is a large window letting in bright light. Throughout the sequence, she remains seated in the same pose, crossing her legs and resting her arms on the chair. The scene is periodically overlaid with text on a dark navy blue background. The first text overlay reads, \"As a student of public choice having worked on Capitol Hill, she credits the MA Fellowship with giving her \u201ca framework from which to view the policy-making world.\u201d\" This text disappears and then reappears before being replaced by a second text overlay that asks, \"So, why choose the Mercatus MA Fellowship, according to Kristine?\" The background and the woman's posture remain constant throughout the clip."
+}

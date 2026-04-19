@@ -1,0 +1,15 @@
+{
+  "video_id": "fbc513826ec31c4f162b39ffeb255c53",
+  "url": "./data/segments/3a0FD1177FA-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.349,
+    1.048,
+    1.747,
+    2.445
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is crafting a birthday card on a white gridded workspace featuring a \"Stamping Jill\" logo. In the first frame, the person holds a small white sentiment tag that reads \"Wishing your BIRTHDAY is filled with ALL the best things\" over a camouflage-patterned background. As the sequence progresses, the person positions the card on the table, which consists of a brown cardstock base with a camouflage-patterned accent piece. By the third frame, the person is carefully adhering the \"Wishing your BIRTHDAY is filled with ALL the best things\" tag to the lower left portion of the brown cardstock. In the final frame, the person adjusts the placement of the camouflage piece on the card. Various crafting supplies are visible on the table, including red stamps, clear acrylic blocks, and additional scraps of camouflage-patterned paper. The person is wearing a white wristband and a ring on their left hand."
+}

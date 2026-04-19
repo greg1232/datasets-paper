@@ -1,0 +1,15 @@
+{
+  "video_id": "36c612fff60bed46a8ab82fa2762f909",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-312.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.081,
+    0.244,
+    0.406,
+    0.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video displays a split-screen view of a football simulation game and a man reacting to it. The top half of the screen shows a green football field from a high angle with players positioned for a play. The bottom half features a man with short brown hair wearing a dark blue long-sleeved shirt, positioned in a small window on the left. The center of the bottom half is a \"SELECT A PLAY\" menu with various options like \"COACH SUGGESTIONS,\" \"PLAYER,\" and \"FORMATION.\" Specific play options include \"READ OPTION\" and \"WHEEL POST DRAG,\" with accompanying diagram graphics. Text at the top of the screen indicates \"1st & 10\" and a game clock at \"3:00.\" Throughout the sequence, the man remains in his window, his expression shifting slightly as the menu remains open. The game clock at the top right ticks down from \":28\" to \":27.\""
+}

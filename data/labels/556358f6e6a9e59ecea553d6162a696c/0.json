@@ -1,0 +1,15 @@
+{
+  "video_id": "556358f6e6a9e59ecea553d6162a696c",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-136.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.38,
+    1.139,
+    1.898,
+    2.657
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is recording in a studio with sound-dampening grey acoustic foam walls. He is wearing large black over-ear headphones and a white t-shirt that features a small logo with the text \"Stay Authentic\". A professional condenser microphone on a shock mount is positioned directly in front of him. Throughout the clip, the man is smiling and laughing, looking slightly off-camera. His expression shifts from a subtle smile to a wide, open-mouthed laugh, with his head moving slightly as he reacts. The background and equipment remain static, while the man's facial expressions and posture change as he continues to smile and laugh."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1c206b9ebdac1af62708d4604bc964e1",
+  "url": "./data/segments/3E6ctN22V7k-Scene-121.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.33,
+    0.99,
+    1.65,
+    2.31
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young child with braided hair, wearing a pink long-sleeved shirt with the word \"FULL\" and heart shapes on the front, is playing with a small plush toy that has a red and white mushroom cap. The child is seated on a sandy ground, and a pair of light-colored sandals sits nearby. As the scene progresses, another child with short dark hair and a light-colored shirt enters the frame. The two children lean in close to one another, focusing their attention on something just out of view below them. Their expressions are concentrated as they interact in the outdoor setting. The background consists of a sandy surface and a blurred structure, with a yellow and white object visible behind the children in the latter part of the sequence."
+}

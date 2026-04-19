@@ -1,0 +1,15 @@
+{
+  "video_id": "e7f24ca63b76ce0d70a629abe9a7304c",
+  "url": "./data/segments/3P1vSUbet40-Scene-1012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.276,
+    0.829,
+    1.382,
+    1.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits in a studio setting, speaking into a professional microphone. He wears a black baseball cap, a black t-shirt with the text \"CHECK IT MAN\" and a logo beneath it, and a gold chain. He also wears a watch on his left wrist and a gold bracelet on his right. He is wearing over-ear headphones. Behind him is a white backdrop featuring the words \"BOSS HUSTLE\" and a row of gold stars. To his right, large red and black letters spell out \"BOSS TALK.\" On-screen graphics include a logo on the bottom left that reads \"PODCAST\" and a logo on the bottom right that reads \"BOSS TALK 101.\" As the sequence progresses, the man gesticulates with both hands to emphasize his points while maintaining a steady gaze and speaking. His posture and hand positions shift slightly between frames as he continues his conversation."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "450fc688889aac6fc98063b598af5c02",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-263.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.705,
+    2.115,
+    3.525,
+    4.935
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a presentation titled \"13R Retailers willing to source local & Product Cost/Price\" within a browser window. The slide features a causal loop diagram with arrows and nodes on a black background, alongside text discussing \"Supply & Demand\" and the \"Retail Food System Cluster.\" The slide states that \"Retailers willing to source local increasing the availability or the supply, relative to demand, of locally sourced products tend to lower the Product Cost and thereby increasing the likelihood of Local Consumption.\" A small inset video in the top right corner displays a man with short dark hair wearing a dark shirt. As the recording progresses, the man is visible in the inset, speaking and gesturing. The browser tabs at the top indicate the presentation is being hosted on a platform like Synthesia. The visual content of the slide remains static across the sequence."
+}

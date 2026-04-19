@@ -1,0 +1,15 @@
+{
+  "video_id": "5d0c40930f1c2ae45f99547254dc8067",
+  "url": "./data/segments/3QD9oO6sRns-Scene-135.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.169,
+    3.506,
+    5.844,
+    8.181
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a professional baseball card encased in a clear plastic protector against a white background. The card features a player in a blue and white uniform, identified by the text \"SOLAK,\" and bears a signature. In the background, boxes of cards and a person wearing a black t-shirt and a black baseball cap are visible. The scene is overlaid with a logo that reads \"JASPYS CASEBREAKS\" and a website address, \"CASEBREAKS.com.\" As the sequence progresses, the hand moves the card and brings a small white card or piece of paper closer to the encased baseball card. The background remains consistent, featuring a white surface and more product boxes. On-screen text including \"SEBREAKS\" and \"CASEBREAKS\" is partially visible across the bottom of the image."
+}

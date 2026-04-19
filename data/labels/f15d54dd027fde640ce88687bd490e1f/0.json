@@ -1,0 +1,15 @@
+{
+  "video_id": "f15d54dd027fde640ce88687bd490e1f",
+  "url": "./data/segments/3i5-ZukC--g-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.371,
+    1.114,
+    1.856,
+    2.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A graphic sequence features a circular logo consisting of a red background with a black silhouette of a masked individual wearing armor and carrying a weapon. In the first frame, the logo is centered against a white background patterned with faint grey hexagonal outlines, some of which are filled with black. As the sequence progresses, the hexagonal pattern disappears, leaving a clean white background. The text \"DRONETEK |\" appears below the logo in the second frame. In the third frame, the text changes to \"DRONETEK POLITICS\" while the background remains white. Finally, the fourth frame shows the same logo and the text \"DRONETEK POLITICS,\" but the background shifts from white to a solid grey color."
+}

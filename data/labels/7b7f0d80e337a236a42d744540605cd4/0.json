@@ -1,0 +1,15 @@
+{
+  "video_id": "7b7f0d80e337a236a42d744540605cd4",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.417,
+    1.25,
+    2.083,
+    2.917
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person\u2019s hand holds a sports trading card in a protective plastic case over a patterned surface featuring palm trees. The card displays a photograph of a baseball player and a signature. In the background, a man wearing a dark navy blue shirt is visible in a small video inset, seated at a desk with a microphone. The logo \"JASPYS\" and the text \"CASEBREAKS.COM\" appear prominently in the upper portion of the scene. As the sequence progresses, the person shifts the card, moving it from the center toward the left side of the frame. Eventually, the hand lifts a clear plastic slab, revealing a yellow object resting on a white box beneath it. The scene remains centered on the tabletop and the inset video of the man, while the focused objects being handled in the foreground change from the card to the plastic casing."
+}

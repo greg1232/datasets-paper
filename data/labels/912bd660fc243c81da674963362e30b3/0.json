@@ -1,0 +1,15 @@
+{
+  "video_id": "912bd660fc243c81da674963362e30b3",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on a piece of heavy machinery, showing a weathered metallic assembly with a splined shaft and various bolts. A person's hand enters the frame from the left, pointing towards a specific bolt located on a black mounting bracket. As the sequence progresses, the hand moves closer to the machinery, with the index finger extending to touch a small bolt head. The background consists of dark, greasy mechanical components and structural metal beams. The movement is slow and deliberate, directing attention to the hardware of the engine or transmission system. No clothing is visible beyond the hand and wrist, and there are no logos, people, or on-screen text present in the scene. The lighting is dim, highlighting the texture of the grime and metal on the equipment."
+}

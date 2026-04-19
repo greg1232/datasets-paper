@@ -1,0 +1,15 @@
+{
+  "video_id": "ae4d932e0034e561f917619af7a61a3b",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-222.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.352,
+    1.056,
+    1.76,
+    2.465
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video sequence begins with a colorful, multicolored test pattern background featuring three overlapping, semi-transparent images of a man with blond hair and glasses. The scene then shifts to a large football stadium filled with spectators under a bright sky. Large black screens displaying grayscale images of a football player are positioned on the field, alongside logos for \"FedEx\" and \"UT.\" A smaller inset window shows the same man with blond hair, wearing a black shirt and headphones, speaking. As the scene progresses, the camera pans across the stadium, revealing more of the crowd and additional on-screen text including \"ULTIMATE TEAM\" and \"UT.\" The inset video of the man remains constant in the bottom left corner throughout these shots, while the main view transitions from close-ups of the screens to a wide shot of the arena."
+}

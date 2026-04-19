@@ -1,0 +1,15 @@
+{
+  "video_id": "83d3c783c7290f0fd44dab1da80cd755",
+  "url": "./data/segments/3UTYZnr_9PQ-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.749,
+    2.246,
+    3.743,
+    5.241
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A line of military transport aircraft is positioned on a wide, white concrete runway that stretches toward a distant tree line under a pale blue sky. The aircraft are aligned in a straight column, facing away from the viewer. In the foreground, a single plane is centered on the runway, while several others follow behind it in a staggered formation. To the sides of the main runway, grassy green fields are visible, with additional aircraft parked in distant bays. As the sequence progresses, the aircraft in the foreground and those behind it move forward slowly along the runway. The perspective remains stationary, capturing the gradual advance of the convoy toward the horizon. No people, text, or logos are visible in the frames."
+}

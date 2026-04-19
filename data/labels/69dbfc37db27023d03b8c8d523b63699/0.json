@@ -1,0 +1,15 @@
+{
+  "video_id": "69dbfc37db27023d03b8c8d523b63699",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.317,
+    0.951,
+    1.585,
+    2.219
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people riding all-terrain vehicles (ATVs) traverse a dry, harvested field under a clear blue sky. The setting is a rural landscape bordered by leafless trees and distant utility poles. The riders, dressed in dark clothing and helmets, drive across the light-brown stubble of the field, kicking up clouds of dust behind them. In the early sequence, the ATVs are spread out, with one rider trailing behind and another further ahead. As the scene progresses, the lead rider accelerates forward and to the right, while the trailing rider moves closer to the center of the frame. By the end, the dust clouds thicken, partially obscuring the riders as they continue their journey across the open terrain. No on-screen text or logos are visible."
+}

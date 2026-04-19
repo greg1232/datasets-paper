@@ -1,0 +1,15 @@
+{
+  "video_id": "7461ea78810323801d62724e9fdc1d8f",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-119.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.415,
+    1.245,
+    2.075,
+    2.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast from News18 India features a scene with several people gathered indoors. In the center, a woman wearing a brown shawl and a man in a grey vest and white shirt are visible, surrounded by other individuals. To the left, a small inset shows a man in a white garment, and to the right, another inset shows a man in a white shirt. Red and white banners with Hindi text appear throughout. The top banners consistently read \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". The bottom news ticker changes across the sequence; it starts with \"\u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e: \u092c\u093f\u0939\u093e\u0930 \u092e\u0947\u0902 NDA \u0915\u094d\u0932\u0940\u0928 \u0938\u094d\u0935\u0940\u092a \u0915\u0930\u0947\u0917\u093e\", then changes to \"\u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e: 1\", and finally reads \"\u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e: I.N.D.I. \u0917\u0920\u092c\u0902\u0927\u0928 \u091a\u0932\u0928\u0947 \u0935\u093e\u0932\u093e \u0928\u0939\u0940\u0902 \u0939\u0948\". The News18 India logo is present in the top right, and a timestamp of \"10:06 PM\" is visible at the bottom right."
+}

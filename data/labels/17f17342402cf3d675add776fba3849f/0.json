@@ -1,0 +1,15 @@
+{
+  "video_id": "17f17342402cf3d675add776fba3849f",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-191.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.259,
+    0.776,
+    1.293,
+    1.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A webpage features a section titled \"TFNN Show Archive Channels Below\" with a blue navigation bar containing links such as \"TIGER TV,\" \"NEWSLETTERS,\" and \"SERVICES.\" A video thumbnail titled \"Daily Stock Market Recap\" shows a man with glasses in a dark suit speaking. A blue banner overlay appears at the bottom of the screen, reading \"Basil Chapman\" in large white text, followed by \"The Tiger Technicians Hour | June 8th, 2022.\" As the video progresses, the view shifts to a different part of the archive. A second video thumbnail appears featuring \"David Mazza,\" identified as the \"Managing Director, Head of Product, Direxion,\" showing a man in a grey blazer gesturing while speaking to another man. Beside this is a description for \"Tom O'Brien - Interviews.\" Throughout the sequence, the banner for \"Basil Chapman\" and \"The Tiger Technicians Hour | June 8th, 2022\" remains fixed at the bottom of the screen."
+}

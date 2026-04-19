@@ -1,0 +1,15 @@
+{
+  "video_id": "3dff2afb976faa85a9c7a916f0aa48f3",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-106.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.458,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen interacting with a transparent plastic card holder over a desk. In the initial scene, the person holds a card within the holder, which is then moved away, revealing a stack of white and yellow boxes beneath. The setting is a workspace featuring a desk with various items, including a black electronic device and a branded surface displaying palm tree graphics. A man wearing a dark blue t-shirt is visible in a smaller inset window on the right side of the screen, looking toward the camera. The logo \"JASPYS CASEBREAKS.COM\" is prominently displayed in red and white text across the top of the frames. As the sequence progresses, the transparent holder is moved across the frame, partially obscuring the view of the man in the inset and the objects on the desk."
+}

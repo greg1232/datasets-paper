@@ -1,0 +1,15 @@
+{
+  "video_id": "33542dc144281420e9fe6e445b52742d",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.584,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, three healthcare workers in blue scrubs and black masks tend to a patient mannequin lying in a hospital bed. The patient is covered by a white sheet and wears a patterned hospital gown. One professional, wearing a black jacket over blue scrubs and a stethoscope around her neck, stands by the bed, while another in blue scrubs and blue gloves stands nearby. A third person, seen from the back in a black garment, observes from the left. The room contains medical equipment on the walls and a bed with red railing. Purple circular and rectangular graphics appear on the screen with the text \"Day 2\" and \"Sim Week\". Across the frames, the scene remains nearly static, with the healthcare workers maintaining their positions and minimal movement as they monitor the mannequin."
+}

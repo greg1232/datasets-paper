@@ -1,0 +1,15 @@
+{
+  "video_id": "55953c4fe41fc7f4a448018a00847781",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-187.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.177,
+    0.531,
+    0.885,
+    1.24
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light brown hair and a blue shirt is visible in a small video overlay in the bottom left corner of a screen displaying an \"ITEM MANAGER\" menu from a sports video game. He is wearing a headset and reacting to the screen, moving from a neutral expression to a wide, open-mouthed smile. The game interface shows various digital player cards, some of which are marked as \"CLOSED.\" On-screen text includes categories such as \"MY ITEMS,\" \"SETS,\" and \"AUCTION HOUSE,\" along with \"FILTER BY:\" options like \"TYPE,\" \"QUALITY,\" \"TEAM,\" \"PROGRAM,\" and \"CHEMISTRY.\" Numerical values are displayed at the top, including \"173,034,\" \"14,860,\" and \"2,272,943.\" The scene remains static in terms of the menu layout, while the man's facial expression shifts to show increasing excitement as he looks toward the digital items."
+}

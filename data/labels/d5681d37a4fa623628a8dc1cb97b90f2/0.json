@@ -1,0 +1,15 @@
+{
+  "video_id": "d5681d37a4fa623628a8dc1cb97b90f2",
+  "url": "./data/segments/3QD9oO6sRns-Scene-139.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.233,
+    0.7,
+    1.167,
+    1.633
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a sports card package on a desk. In the top left frame, the person pulls a clear plastic sleeve from a box. Moving to the top right, the person continues to slide a card out of a box featuring a baseball player and the text \"EARLY\" and \"UTHENTIC\" with \"2020\" printed below. In the bottom left frame, the person holds a card encased in a plastic protector, tilting it toward the camera. Finally, in the bottom right frame, the person manipulates the clear plastic packaging. A black mat with a red and orange logo reading \"JASPY'S CASEBREAKS\" is visible on the table. A small inset window shows a man wearing a black t-shirt and a black baseball cap. Other on-screen graphics include the \"JASPY'S CASEBREAKS.COM\" logo and \"CASEBREAKS\" text across the bottom."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "36f944f7cc3d260e9db9aae1bbd879fb",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.33,
+    0.55,
+    0.77
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white long-sleeved shirt and a maroon vest speaks while gesturing with his hand near his face. He is positioned inside a vehicle, and a microphone with an \"ANI\" logo is held in front of him. The scene is presented as a news broadcast with various on-screen graphics. A red \"BREAKING NEWS\" banner runs across the bottom, accompanied by a timestamp of \"10:04 PM\". On the left, there is a portrait of a man with the text \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\", and on the right, another portrait with the text \"\u092e\u0902\u0924\u094d\u0930\u0940 \u0935\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\" and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930\" below it. The top header of the first frame reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". In subsequent frames, the header changes to \"2024 \u092e\u0947\u0902 J\" and then \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925\". Throughout the sequence, the man continues speaking and gesturing, while the surrounding news graphics and portraits remain constant."
+}

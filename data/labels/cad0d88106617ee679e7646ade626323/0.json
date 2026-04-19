@@ -1,0 +1,15 @@
+{
+  "video_id": "cad0d88106617ee679e7646ade626323",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-406.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.144,
+    0.431,
+    0.719,
+    1.006
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game takes place on a green field marked with white yard lines and numbers, including \"30\". In the background, a red wall displays the text \"SUPER BOWL CHAMPIONS\" and \"COMM\". A player in a white jersey with the number \"24\" runs across the field, pursued by several players in black uniforms. Small circular graphics with an \"X\" appear on the field near the players. As the sequence progresses, a player in black intercepts the player in white, initiating a tackle. The player in white is forced toward the ground as multiple black-clad players converge on him. The camera angle remains consistent, focusing on the collision and the resulting pile of players on the turf. Other players are visible in the distance, and a sideline is seen at the bottom of the frames."
+}

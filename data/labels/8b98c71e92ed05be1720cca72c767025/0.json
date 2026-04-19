@@ -1,0 +1,15 @@
+{
+  "video_id": "8b98c71e92ed05be1720cca72c767025",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.29,
+    0.87,
+    1.45,
+    2.03
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of news broadcast frames depicts a formal event. In the early frames, a man in a dark suit is handing a white document to another man wearing a light-grey traditional Indian outfit. They are surrounded by other men, including one in a light-tan jacket and another in a military-style cap. The scene shifts to a wider shot of a stage with a red curtain backdrop. A man in a black military uniform and turban stands to the left, while the man in the dark suit stands centrally, gesturing with his hands. To the right, a guard in a red ceremonial uniform and gold headgear stands at attention near a metallic stand. A red and white news ticker at the bottom of every frame reads \"\u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e: \u0928\u0940\u0924\u0940\u0936 \u0915\u093e \u0935\u093e\u092a\u0938 \u0906\u0928\u093e \u0938\u0941\u0916\u0926 \u0938\u092e\u093e\u091a\u093e\u0930 \u0939\u0948\" and \"10:01 PM\". A top banner reads \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 \u2018\u092a\u093f\u0915\u094d\u091a\u0930\u2019 \u092c\u093e\u0915\u0940 \u0939\u0948\" alongside the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo."
+}

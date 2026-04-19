@@ -1,0 +1,15 @@
+{
+  "video_id": "ff83fd659d07e1c008dbe9f6d91a1199",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-270.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.365,
+    1.095,
+    1.825,
+    2.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, a black headset, and a dark green t-shirt with the text \"ION NEVER DO SHIT\" printed in white and black across the chest speaks into a professional microphone. He is positioned in a room filled with framed photographs on the wall and clothing racks in the background, where a white mannequin is visible. Two logos are present on the screen: a circular logo on the left and a red text logo on the right that reads \"BOGGLY\". Throughout the sequence, the man remains in the same position, speaking and shifting his facial expression slightly while glancing toward someone off-camera. The background setting and the equipment remain static as the man continues his conversation, with only minor movements in his head and mouth as he talks."
+}

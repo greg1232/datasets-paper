@@ -1,0 +1,15 @@
+{
+  "video_id": "04bbc09dd4a307196b01e7189389c8ee",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.28,
+    3.841,
+    6.402,
+    8.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video focuses on the rear details of a white Corvette. It begins with a wide shot of the car's back, displaying the \"CORVETTE\" emblem and a license plate. The camera then zooms in on the right taillight, which features red LED lighting behind a black slatted cover. The sequence continues with a close-up of the red \"CORVETTE\" lettering embedded within a black trim piece. Finally, the shot shifts slightly downward to show the chrome \"CORVETTE\" lettering mounted on the white body of the vehicle. No people are visible in any of the frames. The setting appears to be an outdoor area with bright, direct sunlight casting sharp shadows on the car's white surface."
+}

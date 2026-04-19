@@ -1,0 +1,15 @@
+{
+  "video_id": "d354508d3fe476b91c17f36bdd47a596",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-178.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.202,
+    0.606,
+    1.01,
+    1.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair and glasses, wearing a dark blue t-shirt, is seen in a video overlay while navigating a digital interface for a game's \"ITEM MANAGER.\" The interface features a purple gradient background with top-bar text including \"NEW ITEMS\" and various numerical values such as \"173,034,\" \"14,600,\" and \"2,272,943,\" alongside \"LVL 19\" and \"91.\" Below the top bar, the man appears in a smaller window against a background that includes a white wall and a decorated Christmas tree. The lower portion of the screen displays menu options like \"MY ITEMS,\" \"SETS,\" and \"AUCTION HOUSE,\" as well as filter categories such as \"SEARCH,\" \"TYPE,\" \"QUALITY,\" \"TEAM,\" \"PROGRAM,\" and \"CHEMISTRY.\" As the scene progresses, the man speaks and gestures with his hands, while the interface remains largely static, though the \"AUCTION HOUSE\" section becomes active, displaying text such as \"Auctions items for sale\" and \"Buy Now Price.\""
+}

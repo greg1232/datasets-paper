@@ -1,0 +1,15 @@
+{
+  "video_id": "b74ce153d6d10ba278c238b60a6ad963",
+  "url": "./data/segments/3QD9oO6sRns-Scene-103.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.781,
+    1.094
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a blue and white product box labeled \"CLEARLY AUTHENTIC\" and \"2020\" on a dark surface. In the initial frames, the hands lift a white inner sleeve from the box, revealing a partial image of a baseball player wearing a yellow helmet. As the sequence progresses, the sleeve is pulled further upward and out of the box. A smaller picture-in-picture overlay in the corner shows a man wearing a black t-shirt and a white baseball cap watching the process. Large, stylized orange and white text across the bottom of the screen reads \"JASPYS CASEBREAKS\". The brand name \"TOPPS\" is visible on the box, along with the phrase \"CLEARLY AUTHENTIC\" repeated in different locations. The background is a plain, light-colored wall, and the overall setting appears to be a dedicated area for opening collectible card boxes."
+}

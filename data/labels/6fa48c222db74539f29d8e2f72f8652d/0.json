@@ -1,0 +1,15 @@
+{
+  "video_id": "6fa48c222db74539f29d8e2f72f8652d",
+  "url": "./data/segments/3QD9oO6sRns-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.7,
+    2.1,
+    3.5,
+    4.9
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a browser window alternating between a website and a digital tool. The initial scene shows the \"RANDOM.ORG\" \"True Random Number Service\" with a \"Dice Roller\" that has produced two dice results. Beside this, a website banner for \"JASPYS CASEBREAKS.COM\" features a man in a black t-shirt and a red and black baseball cap. As the sequence progresses, the view shifts to a \"List Randomizer\" on the same website. In the \"Part 1: Enter List Items\" section, a list of sports teams is entered, including \"ARIZONA DIAMONDBACKS,\" \"ATLANTA BRAVES,\" and \"CHICAGO CUBS.\" A prompt states, \"Be patient! It may take a little while to randomize your list...\" throughout the process. The footer of the page includes a red \"Subscribe\" button with the text \"Hit the SUBSCRIBE button down below!\" alongside a banner reading \"WWW.JASYPSCASEBREAKS.COM\"."
+}

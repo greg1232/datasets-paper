@@ -1,0 +1,15 @@
+{
+  "video_id": "5ecbb8f0ea3b788442a5c1bd4acc1ff0",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.621,
+    13.863,
+    23.104,
+    32.346
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with short brown hair, wearing a dark garment, is visible in a small inset video feed in the upper right corner of each frame. The main area of the screen displays a presentation slide titled \"Logging in Kubernetes Workflow\" with the subtitle \"Original data after correlation with API Server.\" Below the text is a block of JSON-formatted log data containing fields such as \"data\": \"100000001\", \"host\": \"94.38.42.208\", and \"kubernetes\": { \"pod_name\": \"apache-logs-annotated\" }. The content of the slide remains static across all frames, and the person in the inset feed remains in a similar posture, looking toward the camera. There are no significant changes in movement or text between the frames, indicating a steady presentation of the technical data."
+}

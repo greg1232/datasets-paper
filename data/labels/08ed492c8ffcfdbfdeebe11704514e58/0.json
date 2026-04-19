@@ -1,0 +1,15 @@
+{
+  "video_id": "08ed492c8ffcfdbfdeebe11704514e58",
+  "url": "./data/segments/3P1vSUbet40-Scene-0596.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.261,
+    0.782,
+    1.303,
+    1.825
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man and a woman are recording a podcast in a studio setting with a yellow wall accent. The man wears a black baseball cap, a black t-shirt, a watch, and a bracelet, speaking while gesturing with his hand. The woman has her hair in high dreadlocks and wears a black t-shirt and headphones. Both are seated behind professional microphones. In the background, a monitor displays the word \"Johnson\" in red text, and a sign reads \"Employee Only.\" The screen features logos for \"BOSS TALK 101 PODCAST\" and \"BOSS TALK 101 by 11 Logo Studio.\" As the sequence progresses, the camera cuts from a wide shot of the man to a medium shot of the woman. She remains in the frame, listening and smiling slightly as she looks toward the man, who is no longer visible in the final two shots."
+}

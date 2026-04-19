@@ -1,0 +1,15 @@
+{
+  "video_id": "afa006f57698122949dae55dfb5aab3f",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-076.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing light-colored jeans is interacting with a green Polaris ATV in an indoor garage or workshop setting. The vehicle features a large, green storage box mounted on the front rack, which is constructed of black metal tubing. The word \"POLARIS\" is embossed in capital letters on the front of the metal rack. In the initial frames, the person stands to the left of the vehicle, their upper body partially visible. As the sequence progresses, the person moves closer to the ATV, eventually lifting their right leg and placing their foot on the side step or footrest of the vehicle to climb on. The camera remains stationary, focusing on the front of the green ATV, the headlights, and the storage box, while the person's movement transitions from standing beside the vehicle to mounting it."
+}

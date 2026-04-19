@@ -1,0 +1,15 @@
+{
+  "video_id": "d1e7d06866dbc5c43351b31ecf8c23a5",
+  "url": "./data/segments/3P1vSUbet40-Scene-0627.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.162,
+    0.485,
+    0.808,
+    1.131
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a tall, silver-colored wig, glasses, and headphones is recording a podcast in a room filled with framed pictures. He wears a white long-sleeved shirt with suspenders and a small bowtie. He is positioned in front of a black microphone, gesturing with his right arm raised and his hand clenched. To his left and right, the logo \"BOSS TALK 101 PODCAST\" appears on the screen. The background consists of a white wall decorated with numerous small framed photographs and some clothing items hanging on a rack. As the sequence progresses, the man continues speaking, his facial expression shifting from a slight frown to a more open-mouthed expression, and his right arm lowers from its elevated position toward the bottom of the frame."
+}

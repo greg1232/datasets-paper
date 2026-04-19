@@ -1,0 +1,15 @@
+{
+  "video_id": "a05d98db011b6f6db61d1eaace5b6c3c",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-216.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with long dark hair tied back and glasses is performing music in front of a tan, slatted wall. They are wearing a white long-sleeved shirt under a black vest adorned with red and white embroidery on the front. The performer stands behind a microphone on a black stand, playing an acoustic guitar. In the foreground, the backs of several people's heads are visible, suggesting an audience. The text \"ORCA\" appears in white capital letters on a small black rectangular badge located to the right of the performer. Throughout the sequence, the performer remains in a stationary position, focused on their instrument and singing into the microphone. The only significant motion is the movement of the performer's right hand strumming the guitar strings, transitioning from a higher position to a lower stroke across the frames."
+}

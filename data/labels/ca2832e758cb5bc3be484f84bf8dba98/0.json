@@ -1,0 +1,15 @@
+{
+  "video_id": "ca2832e758cb5bc3be484f84bf8dba98",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-157.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.684,
+    2.052,
+    3.42,
+    4.788
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey and black baseball cap with a logo of a shark's mouth, and black over-ear headphones is seated in a studio. He is positioned in front of a professional microphone mounted on a shock mount and arm, with a black acoustic foam wall behind him. In the sequence, the man is speaking into the microphone, and his facial expression and mouth position shift slightly as he talks. His right arm, which features a tattoo on the bicep, is partially visible. The microphone arm has text that reads \"broadcast boom arm.\" Throughout the frames, the man remains in a stationary seated position, with the only movement being his speech and slight shifts in his posture as he speaks."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e94c821f95bb254bb6427dc0a051a8ad",
+  "url": "./data/segments/3F2rz23IKUk-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    14.44,
+    43.32,
+    72.2,
+    101.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a conference room with a large projection screen, a man and a woman interact near a long table. The man wears a dark short-sleeved shirt and khaki pants, while the woman is dressed in a black sleeveless dress. In the beginning, the man leans over the table, and the woman enters from the right. As the scene progresses, the man stands upright and moves toward the woman, who then leans over the table. In the background, several audience members sit in red chairs, facing the front. One man in the foreground wears a gray shirt with \"THINKING\" and \"CON\" visible on the back. Other people wear dark shirts, including one with a \"BALL\" logo. The projection screen displays a light blue background with the text \"Copyright \u00a9\" in the top left corner. The room contains gray walls, a white table, and various pieces of electronic equipment."
+}

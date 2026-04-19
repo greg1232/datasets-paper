@@ -1,0 +1,15 @@
+{
+  "video_id": "32335ddc3c4aba680a9449cc36019639",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.675,
+    2.025,
+    3.375,
+    4.725
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a mustache is speaking against a vibrant, abstract background featuring swirls of blue, green, and purple. He is wearing a light blue button-down shirt under a dark charcoal blazer. Throughout the sequence, he remains in a centered, medium shot, gesturing slightly as he speaks. In the lower-left corner of the scene, a circular logo is visible alongside the text \"NPTEL\". As the sequence progresses, the man's facial expressions shift slightly, and his mouth opens and closes in a manner consistent with speaking, while his general posture and position remain stable. The background remains static, providing a colorful contrast to his professional attire."
+}

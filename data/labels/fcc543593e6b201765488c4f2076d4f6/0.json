@@ -1,0 +1,15 @@
+{
+  "video_id": "fcc543593e6b201765488c4f2076d4f6",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.155,
+    0.465,
+    0.775,
+    1.085
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast shows a crowd of men in suits and formal attire gathered in what appears to be a government building hallway. A small inset window in the corner features a headshot of a man with white hair and glasses. On-screen text in Hindi and English is layered over the footage. The top banner reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". A yellow sidebar lists names including \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\", \"\u092e\u0902\u0924\u094d\u0930\u0940\", \"\u092c\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\", and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930\". A large red and yellow banner across the center alternates between \"BREAKINGWS\", \"BREAKINGEWS\", and \"BREAKING NEWS\". A small ticker at the bottom includes the text \"MAHADEV\" and a timestamp of \"10:02 PM\". As the scene progresses, the camera angle shifts slightly, and a different phrase, \"2024 \u092e\u0947\u0902\", appears in the top banner. The men in the main shot continue to interact and move within the crowded space."
+}

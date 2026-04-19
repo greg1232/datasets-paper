@@ -1,0 +1,15 @@
+{
+  "video_id": "1143b641d3fe24aa752651bcfc1342a5",
+  "url": "./data/segments/3hCk0j8genE-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    15.225,
+    45.675,
+    76.125,
+    106.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a financial trading application called \"Orbs Pro Trader\" dated \"11/27/2013\". The interface displays multiple windowed charts tracking \"INTC\" (Intel Corporation) across various timeframes, including \"15 Minute\" and \"1 Day\" views. Each section contains candlestick charts, trend lines, and data tables with columns like \"MMID\", \"AMID\", and \"Price\". The frames show the passage of time via digital clocks in the upper-right corners of the charts, progressing from \"13:16:53\" to \"13:17:23\", then to \"13:17:54\", and finally \"13:18:24\". As the time advances, the candlesticks on the charts shift slightly, and numbers within the data tables fluctuate. A footer bar displays technical information and the text \"Trader: 13:16:53\", which updates in tandem with the clocks to reflect the current time. No people or physical locations are visible."
+}

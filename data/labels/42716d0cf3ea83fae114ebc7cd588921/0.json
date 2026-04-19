@@ -1,0 +1,15 @@
+{
+  "video_id": "42716d0cf3ea83fae114ebc7cd588921",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-291.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.263,
+    0.788,
+    1.314,
+    1.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, dark hair and a beard is recorded in a studio setting, positioned in front of a professional microphone and wearing large over-ear headphones. He is dressed in a dark jacket over a gray shirt. The background consists of dark, textured acoustic foam panels arranged in a ribbed pattern. Throughout the sequence, the man remains in the same position, speaking into the microphone. His expression and head position shift slightly; he begins by looking upward and to the side, then turns his gaze more toward the center, and eventually looks further to his left. The microphone remains steady in the foreground, supported by a black boom arm. There is no on-screen text or visible logos. The scene remains static except for the subtle movements of the man's head and facial expressions as he speaks."
+}

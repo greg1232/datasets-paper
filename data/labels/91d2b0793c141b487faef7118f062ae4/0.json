@@ -1,0 +1,15 @@
+{
+  "video_id": "91d2b0793c141b487faef7118f062ae4",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-093.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.458,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a sports trading card encased in a protective plastic slab. The card features a basketball player and is titled \"OBSIDIAN\" at the top, with \"STEVEN ADAMS\" printed at the bottom. In the initial frames, the person's fingers grip the edges of the slab. As the sequence progresses, the person uses their thumb to press down on a small, blue fabric swatch embedded in the card. The background consists of a red and black surface with \"JASPYS\" and \"CASEBREAKS.COM\" printed in white and orange text. In the background of some frames, a man wearing a black hooded sweatshirt is visible, sitting at a desk with equipment and more trading card supplies. The action focuses on the tactile interaction with the card, transitioning from holding the item to pressing the blue patch."
+}

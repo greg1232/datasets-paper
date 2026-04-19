@@ -1,0 +1,15 @@
+{
+  "video_id": "24d5cd10eb840afb21badafa32974ed9",
+  "url": "./data/segments/3a0FD1177FA-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.86,
+    2.581,
+    4.301,
+    6.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with brown hair and glasses, wearing a blue shirt under a white and blue patterned cardigan, sits at a white craft table in a studio setting. The table is crowded with art supplies, including tiered organizers filled with colorful ink pads, a green notebook, and a large open scrapbook featuring photos and decorative elements. In the background, various tools like scissors and storage bins are visible on shelves. As the sequence progresses, the woman transitions from pointing at the pages of her scrapbook with both hands to gesturing with her left hand while speaking. She then returns her focus to the book, using her fingers to point to specific details on the page. Her movements are centered around the scrapbook, showcasing her work while explaining her process."
+}

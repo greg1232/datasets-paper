@@ -1,0 +1,15 @@
+{
+  "video_id": "64ef948baec667bd2638b0edf8aff817",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.205,
+    3.615,
+    6.025,
+    8.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This instructional presentation on \"CRYOGENIC ENGINEERING\" features a slide for \"Tutorial \u2013 1\". The slide contains a mathematical equation for the variable $y$, defined as $y = \\frac{(h_1 - h_2) - (1 - \\varepsilon)(h_1 - h_g)}{(h_1 - h_f) - (1 - \\varepsilon)(h_1 - h_g)}$, with a given value of $\\varepsilon_s = 0.90$. The top of the slide has a blue header with white text, and the bottom contains a footer stating, \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\". An NPTEL logo is visible in the bottom left corner. Throughout the sequence, the visual content remains static, with no changes to the text, formulas, or layout. A small cursor is visible in the upper right area of the slide, though its position shifts slightly across the frames. No people or physical equipment are shown."
+}

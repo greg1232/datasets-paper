@@ -1,0 +1,15 @@
+{
+  "video_id": "249d56bb8bfae7c4c7d406af59d33f54",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-164.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An elderly man with gray hair and glasses, wearing a blue patterned button-down shirt, stands behind a wooden podium and speaks. He is positioned in front of tan horizontal blinds. The podium features a red and white logo and a white rectangular tag on the right side that reads \"ORCA\". A black microphone is mounted on the podium, extending toward his face. In the foreground, the backs of several people's heads are visible, indicating an audience. Across the sequence, the man remains at the podium, slightly shifting his posture and facial expression as he speaks. His hands rest on the podium's surface throughout the scene. The background and camera angle remain stationary, focusing on the man as the central figure during his presentation."
+}

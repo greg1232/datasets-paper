@@ -1,0 +1,15 @@
+{
+  "video_id": "e30eb0d921b24929afa3d4f8c3e9e493",
+  "url": "./data/segments/3E6ctN22V7k-Scene-113.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.435,
+    1.305,
+    2.175,
+    3.045
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing purple headphones is seen from the side, interacting with a white tablet placed on a bright green surface. The person's hand is visible as they tap and swipe across the tablet's screen, which displays various application icons. In the background, a white keyboard and a computer monitor are partially visible. Throughout the sequence, subtitles appear at the bottom of the screen. Initially, the text reads, \"Because I work a lot and I am proud of it.\" As the person continues to navigate the tablet's interface, the screen changes to a red-themed menu featuring the word \"* CR\u00c9ER\". The subtitles then shift to read, \"I give it my best as long as the conditions are right to do so\". The camera remains in a close-up, side-profile position as the person's hand moves across the screen to select different options."
+}

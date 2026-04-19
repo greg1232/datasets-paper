@@ -1,0 +1,15 @@
+{
+  "video_id": "85edc27a707ea544ddf230d7c5c4f246",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.442,
+    1.325,
+    2.208,
+    3.092
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays multiple open terminal windows against a dark background, showing a series of command-line operations. The windows contain technical logs and commands, including references to \"kubectl create -f rfluent-act-configmap.yaml\" and \"msg'tail rowline starter_path/log/avg.log\". Text such as \"Oct 28 00:22\" is visible at the top of the windows. As the sequence progresses, the user interacts with the terminal, scrolling through lines of log data and inputting new commands. The screen is divided into different panes, some of which repeat the same log outputs with slight variations in the visible text. The focus remains on the coding environment, with the white and green text contrasting sharply against the black background of the terminal interfaces. No people or physical objects are visible, only the digital output of a software development or system administration task."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "40e3146397a2ba84c69f6275617fdb9a",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-287.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.106,
+    0.319,
+    0.531,
+    0.744
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game depicts an American football game played on a green grass field with white yard lines and a large red and yellow end zone. Players in white uniforms and players in black uniforms are scattered across the field. In the foreground, a quarterback in a black uniform, labeled \"Bledsoe,\" stands behind his offensive line. Opposing players in white uniforms attempt to tackle him. A player labeled \"Smith\" moves across the field during the play. In the bottom left of the footage, a webcam overlay shows a fair-skinned man with blond hair wearing a dark blue shirt, sitting in front of a decorated Christmas tree. As the sequence progresses, the players move dynamically; the quarterback drops back and prepares to throw, while defenders close in on him. The labels \"Smith\" and \"Bledsoe\" remain visible over the respective players throughout the action."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "aa317b57ef9a8f8f96980f6e1db9418e",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.58,
+    1.739,
+    2.899,
+    4.058
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a graphic logo set against a light gray, gradient background. The center of the screen displays the large, three-dimensional text \"Tiger-TV\" in a stylized blue and black font with a metallic sheen. Above this, the website \"TFNN.com\" is written in a smaller, dark blue sans-serif typeface. As the sequence progresses, a sub-headline reading \"EDUCATING INVESTORS\" appears in smaller, dark blue capital letters directly beneath the website address. The overall composition remains static, with the primary change being the addition of the \"EDUCATING INVESTORS\" text, which persists through the subsequent frames. There are no people, clothing, or physical settings visible, as the footage consists entirely of a digital graphic layout."
+}

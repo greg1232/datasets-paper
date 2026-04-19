@@ -1,0 +1,15 @@
+{
+  "video_id": "317299229572a8a2451b7ba19ecdb0c4",
+  "url": "./data/segments/3Sq594WkayE-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.172,
+    0.516,
+    0.859,
+    1.203
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A vehicle travels down a road shrouded in dense fog. The scene is viewed from a perspective behind another vehicle, capturing the blurred glows of headlights and taillights through the mist. In the initial moments, several sets of white lights are visible ahead, indicating other cars on the road. As the sequence progresses, the vehicle in the foreground appears to move closer to a set of headlights, which become larger and more defined. The surrounding environment is obscured by the heavy fog, with only faint, dark silhouettes of trees or roadside structures visible in the periphery. The road surface is a muted gray, marked by a faint yellow line on the left side. There are no people or legible text visible in the frames."
+}

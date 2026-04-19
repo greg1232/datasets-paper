@@ -1,0 +1,15 @@
+{
+  "video_id": "f541a7056dab1f6fbbf812bc51bae1a4",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.413,
+    1.239,
+    2.065,
+    2.89
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green all-terrain vehicle (ATV) is shown in a garage or workshop setting. The first two frames provide a close-up view of the vehicle's underside, focusing on the large, knobby black tires, the suspension system, and the axle. In the third frame, the tires are spinning rapidly, creating a motion blur that indicates the vehicle is being tested or operated in place. The final frame transitions to a wider shot of the entire ATV, which features a front brush guard and a cargo bed in the back. The word \"SUZUKI\" is visible on the front of the green bodywork. The garage contains various tools, shelving, and equipment in the background, including a red tool cart. No people are visible in the frames."
+}

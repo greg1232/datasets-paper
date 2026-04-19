@@ -1,0 +1,15 @@
+{
+  "video_id": "2fea8573669f796430101237feb0c7f0",
+  "url": "./data/segments/3o6LBa7ZAp0-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.584,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video sequence begins in a professional setting where two men in dark suits sit at a table. The man on the left rests his chin on his hand, while the man on the right smiles and gestures towards a laptop on the table. Water bottles and a small potted plant are also visible. A logo at the top center and right of the scene reads \"WORLD POLICY INSTITUTE\". As the clip progresses, the view shifts abruptly away from the men. The screen first goes completely black before transitioning to a dark blue, abstract visualization that resembles a globe or a planetary surface with irregular, shadowed shapes. The scene changes from a brightly lit, formal indoor environment to a dark, stylized graphic."
+}

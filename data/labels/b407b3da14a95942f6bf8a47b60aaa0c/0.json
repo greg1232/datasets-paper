@@ -1,0 +1,15 @@
+{
+  "video_id": "b407b3da14a95942f6bf8a47b60aaa0c",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.651,
+    1.952,
+    3.253,
+    4.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows the interior and engine bay of a tan-colored vehicle. The initial view focuses on the driver's side interior, where a large cardboard box and a blue plastic bin are placed on the passenger seat and floor. The dashboard is partially disassembled, revealing wires and open panels. As the perspective shifts, the camera pans across the steering wheel and the passenger side of the dashboard, highlighting the cluttered interior. The view then moves toward the front of the vehicle, passing the dashboard to reveal the engine compartment under the open hood. The engine bay contains various mechanical components, including silver piping and a yellow cap. No people are visible in the frames, and there is no legible on-screen text. The sequence moves from a close-up of the interior clutter to a broader view of the car's mechanical state."
+}

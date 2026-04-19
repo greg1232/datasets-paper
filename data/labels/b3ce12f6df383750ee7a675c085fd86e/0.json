@@ -1,0 +1,15 @@
+{
+  "video_id": "b3ce12f6df383750ee7a675c085fd86e",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-895.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.308,
+    0.923,
+    1.538,
+    2.153
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, headphones, and a black hoodie with gold lettering is speaking into a professional microphone mounted on a boom arm. He is seated in a black office chair within a studio setting. Behind him is a white banner featuring gold stars and the repeating text \"UNION HUSTLE\". A blue sign in the background reads \"Where BOSSES Talk!\". On the table in front of him is a black equipment case and a mug with red and white text that reads \"THE TALK OUT LOUD PODCAST\". Across the sequence, the man remains in the same position, gesturing slightly with his right hand and speaking, with his facial expressions shifting as he talks. The camera angle remains static, capturing his upper body and the surrounding equipment."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9845f75a1e85f1b2939cae026c5cb881",
+  "url": "./data/segments/3pLMflJEGQ4-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.5,
+    4.5,
+    7.5,
+    10.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A middle-aged man with fair skin, short white hair, and a white beard stands outdoors against a background of dense green foliage. He wears black-rimmed glasses, white wireless earbuds, and a dark grey jacket featuring a wide, textured grey collar over a matching grey shirt. The man looks directly into the camera with a neutral, steady expression. Across the sequence, there is very little movement; he remains stationary and centered in the frame, maintaining his gaze and posture. His clothing and the lush greenery behind him remain consistent throughout the clip, with no other people, objects, or on-screen text visible. The only subtle change is a slight shift in his facial expression and head positioning as he continues to look forward."
+}

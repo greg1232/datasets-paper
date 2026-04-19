@@ -1,0 +1,15 @@
+{
+  "video_id": "7eca1b861dd0b8f07e5ebc52cc7b6593",
+  "url": "./data/segments/3Z229_lKLpk-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.305,
+    3.915,
+    6.525,
+    9.135
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with white hair and a beard is speaking at a podium against a dark green, textured stone wall. He is wearing a light-colored, sleeveless Nehru jacket over a long-sleeved light-colored shirt. Two microphones are positioned on the podium in front of him. To his side, there is a vertical glass case containing decorative floral arrangements. Throughout the sequence, the man delivers a speech, gesturing with his hands. In the beginning, his hands are resting on or near the podium. As he continues, he raises his right hand and points his index finger upward to emphasize a point while speaking. The background and his attire remain constant, while his facial expressions and hand gestures shift to convey his message."
+}

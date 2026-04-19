@@ -1,0 +1,15 @@
+{
+  "video_id": "28f6fedb3e38ee5d7062a61c8b332867",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-802.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt with the text \"ION NEVER DO SHIT AT WORK\" and a dark baseball cap speaks into a professional microphone in an indoor setting. He wears over-ear headphones and has tattoos on his neck. Behind him is a wall decorated with numerous framed photographs and a mannequin dressed in a white t-shirt. Clothing racks and a black leather chair are also visible in the background. Two logos appear on the screen: a circular \"S\" logo on the left and a red \"REALLY\" logo on the right. Across the sequence, the man shifts his head and facial expression while speaking, moving from a forward-facing position to tilting his head slightly back and to the side. The background remains static throughout the clip while the man's movements are the primary focus of the action."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "27a945b2021cb473074364824e3aaad5",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-198.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is visible in a small video window in the upper right corner of a screen sharing session, wearing a dark blue cap and a dark shirt. The main part of the screen displays a complex causal loop diagram on a black background. The diagram consists of various labels connected by blue and red curved arrows, indicating relationships between factors such as \"Attractiveness of Garden,\" \"Birds of Prey,\" and \"Unsightly Goats.\" Some labels are written in green text, such as \"Birds Outside\" and \"increases the need to,\" while others are in white. A white rectangular cursor box appears over the word \"Squirrels\" in the first two frames, then moves downward toward \"Buy Bird Seed\" and \"increases the need to\" in the final two frames. The browser window at the top shows multiple open tabs, including one titled \"Trial & Learning by Systemdynamics.\""
+}

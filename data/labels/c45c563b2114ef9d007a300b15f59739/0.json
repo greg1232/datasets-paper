@@ -1,0 +1,15 @@
+{
+  "video_id": "c45c563b2114ef9d007a300b15f59739",
+  "url": "./data/segments/3QD9oO6sRns-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.302,
+    3.906,
+    6.51,
+    9.115
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black t-shirt and a black baseball cap is seen in a small inset window in the corner of the screen. The main focus of the scene is on the packaging for sports trading cards. A black box with the orange and white text \"JASPYS CASEBREAKS\" is prominent in the first frame. As the sequence progresses, the camera shifts and tilts to reveal multiple boxes of \"Topps\" trading cards. Several of these boxes feature the year \"2020\" and the word \"AUTHENTIC\" printed on them. Text overlays including the \"JASPYS CASEBREAKS\" logo and the website \"CASEBREAKS.COM\" appear consistently on the screen. The person in the inset window remains visible throughout, observing the process as the boxes are moved and displayed."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "89c39000f64150aa2453fc4e5fe55073",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.396,
+    1.188,
+    1.979,
+    2.771
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with fair skin and light-colored hair is centered in the scene, wearing a dark blue short-sleeved t-shirt. He is positioned in front of a screen or monitor, with a decorated Christmas tree visible in the background to the left. Throughout the sequence, he is speaking and gesturing with his arms extended outward. The footage is heavily distorted by a strong light leak or digital glitch effect that creates white, glowing streaks and overlapping ghost images across the center of the screen. As the action progresses, the man shifts his posture and expression while continuing to speak, with the shimmering light effects and visual distortions shifting and intensifying across his face and body. There is no legible on-screen text or logos visible in the frames."
+}

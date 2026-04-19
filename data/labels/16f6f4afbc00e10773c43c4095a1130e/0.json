@@ -1,0 +1,15 @@
+{
+  "video_id": "16f6f4afbc00e10773c43c4095a1130e",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.701,
+    2.102,
+    3.503,
+    4.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a blank, light gray screen before transitioning to a shot of a stone building with classical architectural features, possibly a library. A wooden sign stands in the foreground on a grassy lawn. White on-screen text appears over the scene, initially reading, \"To have great poets, t\", and then completing the phrase to read, \"To have great poets, there must be great audiences.\" - W. The camera remains stationary, capturing the building and a leafless tree against a pale blue sky. The final sequence shows the same scene, but it is heavily obscured by a large, translucent white fade that covers most of the image, leaving only the edges of the building and tree visible. No people are present in any of the frames."
+}

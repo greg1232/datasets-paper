@@ -1,0 +1,15 @@
+{
+  "video_id": "df3773dccf9150103695a78395ac7e65",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-337.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.098,
+    0.294,
+    0.49,
+    0.685
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a home or studio setting, a person's hands reveal a sports trading card. The scene transitions from a close-up of a dark, textured sleeve being peeled away to show a gold-bordered card featuring baseball player Kirby Puckett of the Minnesota Twins. The card includes a white descriptive section with the date \"OCTOBER 17, 1987\" and text mentioning a \"RIVERBOAT WORLD SERIES OPENED IN 1987.\" At the bottom, the card is marked \"ONE-OF-ONE.\" In the background, a man wearing a dark blue polo shirt with a yellow logo sits at a desk. Overlaid on the image is a logo that reads \"JASPYS CASEBREAKS.COM\" in orange and white. As the sequence progresses, the card is fully uncovered, showcasing a photo of the player and the detailed commemorative text."
+}

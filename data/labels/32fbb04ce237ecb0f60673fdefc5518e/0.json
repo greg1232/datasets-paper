@@ -1,0 +1,15 @@
+{
+  "video_id": "32fbb04ce237ecb0f60673fdefc5518e",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-088.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.215,
+    0.645,
+    1.075,
+    1.505
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call is in progress, with a man wearing a dark hat and a dark shirt visible in a small window on the right side of the screen. The main display features a dark background with a complex network map consisting of circular icons connected by blue lines. These icons include various symbols and small portraits of people, with some labeled with text such as \"Holistic Health,\" \"Indigenous Healing,\" and \"Inclusive Truth.\" As the scene progresses, a rectangular pop-up window appears over the center of the map, featuring a colorful image of leaves and the word \"SHARE\" in large, white, capital letters. While the background map remains static, this \"SHARE\" window becomes the focal point, momentarily obscuring the central connections of the network. In the top browser bar, multiple tabs are open, including ones titled \"Trust & Learning by Systemic,\" \"Possibilities by Systemic,\" and \"Future of Policy by Systemic.\""
+}

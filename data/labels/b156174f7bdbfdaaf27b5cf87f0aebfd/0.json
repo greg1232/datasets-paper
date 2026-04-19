@@ -1,0 +1,15 @@
+{
+  "video_id": "b156174f7bdbfdaaf27b5cf87f0aebfd",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.345,
+    1.035,
+    1.725,
+    2.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide for a course in \"CRYOGENIC ENGINEERING\" is displayed, specifically for \"Tutorial \u2013 1\". The slide features a mathematical formula for $y$ involving variables $h_1, h_2, \\varepsilon, h_i,$ and $h_g$, with a given value of $\\varepsilon_4 = 0.85$. Below the formula is a data table with columns labeled \"1\", \"2\", \"f\", and \"g\". The table lists values for pressure \"p (bar)\", temperature \"T (K)\", enthalpy \"h (J/g)\", and entropy \"s (J/gK)\". At the bottom of the slide, the \"NPTEL\" logo is visible on the left, and text identifies the presenter as \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" on the right, followed by the number \"24\". The image remains static across all frames, showing no movement or changes in the content or layout."
+}

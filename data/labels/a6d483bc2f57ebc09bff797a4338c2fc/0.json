@@ -1,0 +1,15 @@
+{
+  "video_id": "a6d483bc2f57ebc09bff797a4338c2fc",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-076.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.538,
+    1.614,
+    2.69,
+    3.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a close-up view inside a vehicle, focusing on the dashboard and the steering wheel. A portion of the speedometer is visible, featuring markings and a needle, though most of the gauge is obscured by the steering wheel's rim. The steering wheel is made of a dark, textured material. In the top-left frame, the word \"Kms\" is partially visible near the top of the gauge. As the sequence progresses, the camera shifts slightly, causing the steering wheel to move across the frame and further obscure the instrument panel. The lighting is dim and natural, and no people are visible in the shot. The focus remains on the tactile surface of the steering wheel and the blurred background of the car's interior controls."
+}

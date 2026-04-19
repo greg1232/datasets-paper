@@ -1,0 +1,15 @@
+{
+  "video_id": "99d2087fedc8567dae5a897132dd2a42",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.317,
+    0.951,
+    1.585,
+    2.219
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a screen recording of a trading software interface from the website tradesanta.com, featuring the COINTELEGRAPH logo. The interface allows users to choose trading bot templates such as \"Long Bot Template,\" \"Short Bot Template,\" and \"Custom.\" Each template lists parameters like \"First order: 1.00%,\" \"Take-profit: 0.50%,\" and \"Stop-loss: 1.00%.\" Large white text overlaying the bottom of the screens states \"SET UP < 2 mins.\" As the sequence progresses, the user selects the \"Long Bot Template,\" transitioning the view to a detailed configuration page. This page includes a \"Bot settings\" section where the \"Bot Name\" is set to \"ETH DASH LONG.\" Further down, a \"Pair\" selection menu is visible, with a list of pairs including \"USDT BTC,\" \"USDT ETH,\" and \"USDT BNB.\" The right side of the screen provides \"Information\" and a \"Strategy long\" description."
+}

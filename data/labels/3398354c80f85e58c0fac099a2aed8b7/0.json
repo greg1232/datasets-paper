@@ -1,0 +1,15 @@
+{
+  "video_id": "3398354c80f85e58c0fac099a2aed8b7",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.269,
+    0.448,
+    0.627
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, wearing round glasses and a blue shirt, appears in a video overlay against a background of a video game interface. In the upper section of the screen, multiple duplicated images of the man's face are layered over a colorful, glitchy pattern of stripes. Below this, the interface displays a football team \"LINEUP\" screen with tabs for \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS.\" Various player cards with stats are visible, including one for \"POLAMALU.\" The man is positioned in the bottom left of the screen, wearing a headset and speaking with an animated expression. To his left, a decorated Christmas tree with colorful lights is partially visible. The scene remains static in terms of layout, but the man's facial expression and hand gestures shift slightly as he speaks, while the overall screen content remains constant."
+}

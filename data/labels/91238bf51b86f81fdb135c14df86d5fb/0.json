@@ -1,0 +1,15 @@
+{
+  "video_id": "91238bf51b86f81fdb135c14df86d5fb",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-239.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.308,
+    0.925,
+    1.542,
+    2.158
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand interacts with a small white box topped with a yellow square object, positioned on a colorful patterned surface. In the background, a small inset video shows a man with a beard wearing a dark blue shirt with a yellow logo, sitting at a desk with a computer monitor and equipment. The orange and blue logo \"JASPYS\" appears prominently in the upper center and lower center of the frame, accompanied by the text \"CASEBREAKS.COM\". As the sequence progresses, the hand moves a clear plastic sleeve over the white box. By the end of the sequence, the hand is holding the plastic sleeve vertically, partially obscuring the view of the box and yellow object. The overall setting appears to be a professional recording or streaming setup for collectibles, characterized by the repeated branding and the presence of the inset commentator."
+}

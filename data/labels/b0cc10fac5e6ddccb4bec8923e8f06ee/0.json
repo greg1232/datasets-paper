@@ -1,0 +1,15 @@
+{
+  "video_id": "b0cc10fac5e6ddccb4bec8923e8f06ee",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.775,
+    2.325,
+    3.875,
+    5.425
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair, glasses, and a mustache is seated against a blue and purple abstract background with green accents. He is wearing a light blue button-down shirt underneath a dark grey or black suit jacket. An NPTEL logo is visible in the lower left corner of the scene. In the second and third frames, a blue translucent banner appears across the bottom of the screen with the white text \"Prof. M. D. Atrey\". The man remains in a stationary position throughout the sequence, facing forward with a neutral expression. Minor changes in his facial expression and posture occur as he speaks, but he remains centered in the frame. The background remains constant across all shots, and the on-screen text vanishes in the final frame."
+}

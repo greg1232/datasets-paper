@@ -1,0 +1,15 @@
+{
+  "video_id": "e241ed224032e3cbe71081ee6c9b53ef",
+  "url": "./data/segments/3a0FD1177FA-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.688,
+    1.147,
+    1.606
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown working on a crafting project on a white gridded cutting mat. The person is wearing a white watch on their left wrist. They are manipulating a square piece of cream-colored paper with scalloped edges, folding it and pressing it onto a piece of patterned brown and green floral cardstock. Surrounding the workspace are several craft supplies, including small scraps of floral paper, a white paper rectangle, a black ink pad, and two clear stamps with red ink. The text \"STAMPIN' SEAL\" is visible on the stamp packaging. A watermark that reads \"Amazing Jill\" appears in the bottom left corner of each frame. As the sequence progresses, the person carefully folds the scalloped paper and positions it over the floral base, pressing it down with their fingers to secure it in place."
+}

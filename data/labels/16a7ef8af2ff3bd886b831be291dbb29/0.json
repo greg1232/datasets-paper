@@ -1,0 +1,15 @@
+{
+  "video_id": "16a7ef8af2ff3bd886b831be291dbb29",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-126.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.73,
+    5.19,
+    8.65,
+    12.11
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features four men seated behind a table at a press conference, with several microphones positioned in front of them. The men are dressed in professional attire: one wears a white shirt and dark jacket, another a white scarf over a dark garment, a third a navy blue blazer, and the fourth a light-colored vest over a shirt. In the background, a sign reads \"\u0930\u093e\u091c\u0940\u0935 \u092d\u0935\u0928 \u0925\u093e\u0928\u093e \u092e\u094b\u0921\u093c\". The screen is overlaid with \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logos and a red and yellow ticker. In the first frame, a red banner reads \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\". By the second frame, a headline appears: \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\". The third frame displays \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\", while the fourth shows \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". Throughout the sequence, the men remain seated and relatively still, while the on-screen text and news banners change to report different headlines, and \"BREAKING NEWS\" flashes at the bottom."
+}

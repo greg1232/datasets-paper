@@ -1,0 +1,15 @@
+{
+  "video_id": "391de5266e9c5531d5ae074ea38423c0",
+  "url": "./data/segments/3E6ctN22V7k-Scene-082.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.28,
+    0.84,
+    1.4,
+    1.96
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A blue equipment case with silver metal edges and reinforced corners is positioned in an indoor setting. The case features three silver handles and a central locking latch on its front panel. To the right, a portion of a lime-green equipment case is visible. The background consists of a brick wall and a light-colored vertical beam. As the sequence progresses, the camera slowly zooms out, revealing more of the surrounding environment. The blue case remains the central focus, while more of the adjacent green case and the textured brick wall behind it come into view. No people, text, or logos are visible in the scene."
+}

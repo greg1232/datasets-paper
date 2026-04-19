@@ -1,0 +1,15 @@
+{
+  "video_id": "ad6f87be8734da70c04446e9af518bad",
+  "url": "./data/segments/3tUAO4YGuKY-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.32,
+    0.96,
+    1.6,
+    2.24
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video begins with a close-up, partially obscured shot of a blue and white flag featuring a yellow star. The scene then transitions to a stark white background where a logo for the IIEA appears. The logo consists of a blue rectangle containing a circle of yellow stars, similar to the European Union flag. Below this graphic, the text \"IIEA\" is written in a serif font, followed by the website \"iiea.com\" and the slogan \"Sharing Ideas Shaping Policy\" in a smaller, sans-serif font. This logo remains centered on the white background across the subsequent frames, with no changes to the text or imagery, creating a static title or closing screen."
+}

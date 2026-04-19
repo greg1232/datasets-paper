@@ -1,0 +1,15 @@
+{
+  "video_id": "10690f0527dd18cb705fff4d72e58433",
+  "url": "./data/segments/3Smz5pevbI4-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.542,
+    25.626,
+    42.709,
+    59.793
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation begins with a white screen featuring the centered black text, \"How do we surmount these psychological barriers to peace?\". The scene then transitions to a slide for the \"Global Children's Organization,\" which displays the organization's name below a logo of three stylized human figures in green, purple, and orange. Below the logo and text is a photograph of a diverse group of seven children and adolescents posing together outdoors in front of a red door and brick wall. The group includes individuals wearing various casual outfits, such as a white hoodie, a yellow shirt, and a black jacket. They stand close to one another, smiling for the camera. This slide remains static across the subsequent frames, maintaining the same logo, organizational title, and photograph of the group."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4df20b4e3574a97a930f32d1189ba307",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-386.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.394,
+    1.181,
+    1.969,
+    2.756
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An American football game takes place on a green turf field marked with white yard lines and a red boundary line. Players in white uniforms and players in dark uniforms are spread across the field. Several players are highlighted with circular markers containing letters like \"Y,\" \"A,\" and \"B,\" while others have text labels such as \"RB,\" \"Polamalu,\" and \"Smith\" appearing next to them. In the initial stage of the play, players from both teams engage in a line of scrimmage, with white-clad players pushing forward. As the sequence progresses, the action shifts toward the right side of the field. A player in a white uniform carries the ball downfield, while a player in a dark uniform labeled \"Polamalu\" pursues them. By the end of the sequence, the player in white is running toward the right edge of the frame, followed by a defender in a dark uniform."
+}

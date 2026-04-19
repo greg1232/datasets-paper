@@ -1,0 +1,15 @@
+{
+  "video_id": "b5c35ba872e3d484ac0e6e061d355738",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.14,
+    0.419,
+    0.698,
+    0.977
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard wearing a dark blue long-sleeved shirt is seated in a room, appearing on a small screen within a larger broadcast. He is positioned in front of equipment, including what looks like a sorting machine and various boxes. The background features on-screen logos and text that read \"JASPYS\" in red and white and \"CASEBREAKS.COM\" in white. In the foreground, a person's hand is partially visible, holding a transparent plastic card protector. As the sequence progresses, the hand shifts, moving the plastic protector across the field of view, momentarily obscuring parts of the background and the screen showing the man. The man remains relatively stationary, looking toward the equipment, while the movement of the hand and the protector creates a shifting perspective in the foreground of the scene."
+}

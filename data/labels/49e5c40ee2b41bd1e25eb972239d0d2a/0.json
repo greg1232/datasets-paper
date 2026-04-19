@@ -1,0 +1,15 @@
+{
+  "video_id": "49e5c40ee2b41bd1e25eb972239d0d2a",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.045,
+    6.135,
+    10.225,
+    14.315
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation takes place in a brightly lit studio with grey walls and a light-colored floor. Three people are present: a man on the left in a dark suit, a woman in the center wearing a dark blazer and beige pants, and a man on the right wearing a camouflage-patterned shirt and blue jeans. Each person stands behind a small white pedestal table equipped with a microphone. Behind them is a large vertical banner featuring a picture of praying hands and the text \"INTERACTIE\" and \"ZORGPRAKTIJK EN ZORGRAAD\". The \"mediasite\" logo appears at the top of the scene. In the foreground, several empty grey chairs are visible. Across the sequence, the man on the left remains mostly stationary, while the woman in the center gestures with her hands while speaking. The man on the right stands facing the other two, listening attentively. The movements are subtle, capturing a moment of discussion between the three individuals."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0ac72621faf71efc51122c802e23bb68",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-163.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.697,
+    2.09,
+    3.483,
+    4.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with grey hair, glasses, and a beaded necklace speaks from behind a podium in a room with light-brown horizontal slatted walls. He is wearing a blue short-sleeved button-down shirt with an eagle pattern and a colorful green, yellow, and blue band across the chest. A black microphone on a stand is positioned in front of him. In the first frame, he looks down at the podium, holding a thin object. In the second frame, he looks up and forward while continuing to hold the object. By the third and fourth frames, he looks straight ahead, speaking with his hands resting on the podium. The words \"ORCA\" appear in a white box on the right side of each frame, and the text \"Kellogg Mitchell LIBRARY\" is visible on the front of the podium. Other people are partially visible in the foreground, though their faces are mostly obscured."
+}

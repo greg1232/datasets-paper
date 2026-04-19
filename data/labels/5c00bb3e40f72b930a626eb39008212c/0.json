@@ -1,0 +1,15 @@
+{
+  "video_id": "5c00bb3e40f72b930a626eb39008212c",
+  "url": "./data/segments/3rHRnfTOnJQ-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.079,
+    30.237,
+    50.396,
+    70.554
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a blue long-sleeved button-down shirt is playing a digital keyboard in a studio with dark blue curtains in the background. He is positioned behind the keyboard, leaning slightly forward with his gaze directed downward toward the keys. A microphone on a stand is positioned close to his face. In the background, various musical instruments and equipment are visible, including a trombone, a guitar, and a studio monitor speaker. Two small stuffed animals are placed on a shelf behind him. The sequence shows the man's hands moving across the keyboard; in the initial frames, his left hand is positioned on the lower keys, and as the sequence progresses, both hands are actively engaged in playing the instrument. The setting and the man's position remain constant throughout the clip, with only the movement of his fingers on the keys changing."
+}

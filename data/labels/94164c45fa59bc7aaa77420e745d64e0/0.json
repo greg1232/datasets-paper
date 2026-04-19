@@ -1,0 +1,15 @@
+{
+  "video_id": "94164c45fa59bc7aaa77420e745d64e0",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-711.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark green t-shirt and a matching baseball cap with headphones sits at a desk in a studio setting, speaking into a professional microphone. Behind him is a banner that reads \"UNIQUE FASHIONS\" and contains text that includes \"RE BOSSES TA\", \"IT'S TAL\", \"BOUT I\", and \"CONNE\". The background reveals a clothing store environment with garments on hangers and a person wearing a blue sweatshirt standing in the distance. On the desk, there is a laptop with a red logo and a small circular sign. As the sequence progresses, the man continues to talk, shifting his expression from a slight smile to a wider, open-mouthed laugh, while remaining in the same position. The surrounding environment, including the equipment and the person in the background, remains static throughout the shot."
+}

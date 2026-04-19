@@ -1,0 +1,15 @@
+{
+  "video_id": "430ffb800ffa26e5046b6eb7c9714bf6",
+  "url": "./data/segments/3iUTkJy84EY-Scene-181.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses stands against a plain black background, appearing to be delivering a presentation or lecture. She is wearing a light green, short-sleeved blouse with red and white embroidery around the neckline and a thin black necklace. A small clip-on microphone is attached to the center of her shirt. Across the frames, she speaks and gestures with her hands to emphasize her points, with her right hand raised and open in the upper frames and both hands gesturing as she continues to speak in the lower frames. In the bottom left corner of each shot, there is a circular logo with the text \"NPTEL\" written beside it. The camera remains static in a medium close-up shot, capturing her from the waist up as she maintains a steady gaze toward the viewer."
+}

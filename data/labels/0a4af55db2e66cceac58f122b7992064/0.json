@@ -1,0 +1,15 @@
+{
+  "video_id": "0a4af55db2e66cceac58f122b7992064",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.158,
+    0.475,
+    0.792,
+    1.108
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with short blonde hair, wearing a white t-shirt and white pants, walks away from the camera through a brightly lit indoor facility. The setting appears to be a locker room or training area, featuring grey flooring, white walls, and rows of metal lockers on the right side. In the background, blue mats are visible on the floor. A red cross symbol is seen on the wall near the ceiling in several views. As the person walks forward, another individual in white clothing appears behind them, moving in the same direction. The camera follows the first person, capturing their movement from a rear perspective as they proceed toward the back of the room. The scene remains consistent in lighting and environment as the distance between the subjects and the camera slightly shifts."
+}

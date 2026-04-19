@@ -1,0 +1,15 @@
+{
+  "video_id": "524a72103026155367038ac1567e6de4",
+  "url": "./data/segments/3pLMflJEGQ4-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.5,
+    4.5,
+    7.5,
+    10.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, white hair and a white beard stands outdoors in front of a lush, green hedge. He wears rectangular glasses, a dark grey turtleneck sweater, and a charcoal-colored jacket with a grey fleece collar. Throughout the sequence, the man is centered in a close-up shot, speaking directly toward the camera. His facial expressions shift slightly as he talks, with his mouth opening and closing and his gaze remaining fixed forward. The background remains static, and there are no other people, objects, or on-screen text visible. The only change across the frames is the subtle movement of his jaw and lips as he continues to speak."
+}

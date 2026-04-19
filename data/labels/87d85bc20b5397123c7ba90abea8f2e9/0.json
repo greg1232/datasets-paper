@@ -1,0 +1,15 @@
+{
+  "video_id": "87d85bc20b5397123c7ba90abea8f2e9",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-264.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.19,
+    0.57,
+    0.95,
+    1.33
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a presentation about the \"Rural Community Food System.\" The slides contain a causal loop diagram on a black background with red and green arrows and text including \"13R Retailers willing to source local & Product Cost/Price.\" To the left of the diagram, text describes how \"Retailers willing to source local increasing the Availability or the supply, relative to demand, of locally sourced products tend to lower the Product Cost and thereby increasing the likelihood of Local Consumption which in turn supports those Retailers that were willing to source the local food.\" Other visible text includes \"Clear Focus,\" \"Supply & Demand,\" and \"Component of: Retail Food System Cluster.\" In the top right corner of the screen, a small video feed shows a man with dark hair and a dark shirt. Across the sequence, the cursor moves slightly, and the man in the video feed maintains a neutral expression while looking toward the camera."
+}

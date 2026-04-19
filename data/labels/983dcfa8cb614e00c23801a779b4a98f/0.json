@@ -1,0 +1,15 @@
+{
+  "video_id": "983dcfa8cb614e00c23801a779b4a98f",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-510.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hoodie with the word \"BOSS\" in gold lettering, and a gold chain around his neck sits in a studio setting. He wears professional over-ear headphones and speaks into a silver microphone mounted on a black boom arm. Behind him is a white backdrop featuring a repeating logo that says \"UNIQUE HUSTLE\" accompanied by gold stars. Above him, a blue sign reads \"'Where BOSSES Talk!'\". On the table in front of him sits a black mug with red and white text that says \"THE TALK OUT LOUD PODCAST\". A small logo featuring a microphone and the text \"TALK OUT LOUD\" appears in the lower-left corner of the scene. Throughout the sequence, the man remains in a seated position, gesturing slightly with his head and facial expressions as he speaks."
+}

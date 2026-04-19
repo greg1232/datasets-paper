@@ -1,0 +1,15 @@
+{
+  "video_id": "b53b52da60a4f096935bae5d6c14bfbe",
+  "url": "./data/segments/3Smz5pevbI4-Scene-073.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    18.589,
+    55.768,
+    92.947,
+    130.126
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark suit, light blue shirt, and dark tie sits in front of a beige backdrop featuring the \"UNITED STATES INSTITUTE OF PEACE\" logo and text. He wears a small white identification badge on his jacket. In the first frame, he is looking slightly off-camera with a neutral expression. By the second frame, he begins to speak, his mouth slightly open. In the third frame, he raises his right hand, gesturing with his palm facing downward as if to emphasize a point. In the final frame, he continues speaking and shifts his gesture, raising his index finger. The backdrop remains static throughout the sequence, showing the repetitive logo and text \"UNITED STATES INSTITUTE OF PEACE\" along with the partial text \"TED STA UTE OF\" on the right side. A electrical outlet is visible on the wall behind him to the right."
+}

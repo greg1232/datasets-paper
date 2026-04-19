@@ -1,0 +1,15 @@
+{
+  "video_id": "a6e538c8449e22bcf7773a353a9abfda",
+  "url": "./data/segments/3Smz5pevbI4-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.335,
+    4.004,
+    6.673,
+    9.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a formal setting, a man and a woman sit side-by-side. The man wears a light gray suit jacket over a white shirt and a brown tie, while the woman wears a black blazer over a dark top and glasses. Both individuals have identification badges clipped to their clothing. The man holds a microphone in his right hand, speaking as he looks forward. The woman initially looks down, then holds and examines a stack of white papers. As the scene progresses, the man begins gesturing with his right hand, extending his arm outward while continuing to hold the microphone. The woman continues to hold the papers in her lap, glancing toward the man. The background consists of muted brown and gray tones, including the seating and a partial view of other people in the periphery."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b165cbb872a3daa5d377dc9b89cd8cad",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-443.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.339,
+    1.017,
+    1.694,
+    2.372
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt is speaking into a professional microphone in a room decorated with framed pictures on the wall. His t-shirt features the white text \"ION NEVER DO SHIT AT WORK\". In the background, a white mannequin stands near clothing racks. A red logo that reads \"READY TO TOT\" is visible on the right side of the screen, and another small logo is located on the left. As the scene progresses, the man continues talking and smiling, shifting his facial expressions slightly. In the final frames, he holds a red plastic cup in his hand. The setting remains consistent throughout, with the man remaining centered in front of the microphone."
+}

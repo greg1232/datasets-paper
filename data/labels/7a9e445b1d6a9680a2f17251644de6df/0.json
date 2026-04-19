@@ -1,0 +1,15 @@
+{
+  "video_id": "7a9e445b1d6a9680a2f17251644de6df",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.188,
+    0.563,
+    0.938,
+    1.314
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical setting, three healthcare professionals are gathered around a sterile table. A man in pink scrubs, wearing glasses and a face mask, is focused on performing a procedure on a patient's limb, which is covered by a blue surgical drape. He is assisted by two women wearing blue scrubs and face masks; one stands to the left and another further back, both wearing blue nitrile gloves. The sterile table holds various medical instruments, including scissors and a yellow container. As the scene progresses, the man in pink scrubs continues his precise work on the draped area, while the woman to his left watches closely and adjusts her hands. The logo \"Sim Week\" is visible in the bottom right corner of each scene. The lighting is bright and clinical, typical of a hospital or simulation lab environment."
+}

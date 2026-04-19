@@ -1,0 +1,15 @@
+{
+  "video_id": "d5d0fdf8e5be41d042ce208ddd1c1d62",
+  "url": "./data/segments/3QD9oO6sRns-Scene-123.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.652,
+    1.956,
+    3.26,
+    4.565
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a white printed list of names and sports teams, showing it to the camera. In the upper frames, the person's hands hold the top corners of the paper, revealing names like \"David Chang\" and \"Nicholas Kirschberg\" alongside team names such as \"TAMPA BAY RAYS\" and \"TORONTO BLUE JAYS.\" The lower frames show the paper being tilted and shifted as the person continues to display the list. A small inset video in the corner of each frame shows a man wearing a black t-shirt with a logo, sitting in front of sports card boxes. This inset also features a logo with the text \"CASEBREAKS.COM.\" The background includes a white surface, a red and white object, and several boxes of sports cards. The scene focuses on the detailed checklist of baseball players and their corresponding professional teams."
+}

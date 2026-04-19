@@ -1,0 +1,15 @@
+{
+  "video_id": "c0ef6720ac6f2ea8ad3697c3ea4a434c",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-114.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.205,
+    0.615,
+    1.025,
+    1.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call interface displays a screen-share of a complex conceptual map on a black background, featuring various circular icons connected by blue lines. Several of these icons contain text, such as \"Insights\", \"Interdisciplinary\", \"Holistic\", and \"Integrative Thinking\". A small video feed in the top right corner shows a man wearing a dark shirt and a dark baseball cap, looking toward the camera. Browser tabs are visible at the top of the screen, with titles including \"Trust & Learning by Systemeni\", \"Future of Society by Systemeni\", and \"Road Community Food Space\". A side panel on the right lists the participant as \"Grant Bedding\". Throughout the sequence of frames, the scene remains static; the conceptual map, the browser layout, and the man's position and expression in the video feed do not change."
+}

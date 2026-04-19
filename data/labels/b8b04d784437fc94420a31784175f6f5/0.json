@@ -1,0 +1,15 @@
+{
+  "video_id": "b8b04d784437fc94420a31784175f6f5",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-319.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.288,
+    0.863,
+    1.439,
+    2.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and short-shaven hair is speaking into a professional microphone in a recording studio. He is wearing a white t-shirt and black over-ear headphones. The background consists of dark gray acoustic foam panels. A microphone is mounted on a boom arm in front of him, featuring a silver grill and a white label with the text \"Sennheiser\". The man is gesturing with his left hand, raising it in the air and moving it slightly across the sequence. He maintains an expressive facial expression as he speaks, with his mouth open in the beginning and then closing as he finishes a thought. He has visible tattoos on his right arm, which is partially seen near the microphone. The scene remains static in terms of location and equipment, focusing on the man's head and shoulders as he talks."
+}

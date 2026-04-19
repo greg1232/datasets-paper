@@ -1,0 +1,15 @@
+{
+  "video_id": "e1e763685dd312489f633764ed059389",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.626,
+    1.877,
+    3.128,
+    4.379
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide, open field of dry, golden-brown grass extends under a clear, pale blue sky. A tall, thin utility pole stands on the left side of the scene, with a power line stretching horizontally across the top of the frame. In the distance, a white vehicle slowly enters the scene from the right, moving toward the center. The vehicle appears to be a white SUV or van with a roof rack. In the final frame, a small figure of a person is visible standing near the far right edge of the horizon. Across the bottom of the image, a single line of white text remains static throughout the sequence, stating, \"Once 5 children came to us, one was in a stable condition\". The environment is desolate and flat, with no other structures or people visible aside from the moving vehicle and the distant figure."
+}

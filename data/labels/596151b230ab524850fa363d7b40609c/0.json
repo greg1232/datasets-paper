@@ -1,0 +1,15 @@
+{
+  "video_id": "596151b230ab524850fa363d7b40609c",
+  "url": "./data/segments/3hGuLEduWLM-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.255,
+    0.766,
+    1.276,
+    1.786
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A short video clip unfolds against a glowing blue, star-like cosmic background. Large, blue three-dimensional letters, including \"U,\" \"L,\" \"C,\" \"E,\" and \"SS,\" are scattered across the upper half of the screen. Small, cartoonish figures and smiling face emojis appear intermittently throughout the space. The text \"Early age learning\" and the email address \"earlyagelearning@gmail.com\" are repeated in red and white across various parts of the frames. As the video progresses, the scattered blue letters disappear, and a large, green text overlay stating \"THANK YOU...\" emerges in the lower right quadrant. Throughout the sequence, the cosmic background remains constant, while the smaller figures and logos shift positions slightly, culminating in the final message of gratitude."
+}

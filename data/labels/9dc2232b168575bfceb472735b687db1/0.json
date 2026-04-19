@@ -1,0 +1,15 @@
+{
+  "video_id": "9dc2232b168575bfceb472735b687db1",
+  "url": "./data/segments/3F2rz23IKUk-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.36,
+    1.08,
+    1.8,
+    2.52
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A speaker in a black t-shirt stands at the front of a lecture hall, presenting to an audience seated in rows of chairs. The room has concrete walls and a large projection screen displaying a white slide. To the speaker's left is a long table holding various electronic equipment and devices. The audience consists of several people; one person wears a yellow t-shirt, another a pink t-shirt, and several wear dark-colored shirts. One individual in a grey t-shirt has a white logo on the back featuring a stylized animal head and the text \"I WAS THERE\". Across the frames, the speaker remains standing at the front while gesturing slightly. The audience members remain mostly stationary, though some shift their posture while listening to the presentation. The camera remains in a fixed position throughout the scene, capturing the interaction between the speaker and the attendees."
+}

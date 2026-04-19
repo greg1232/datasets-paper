@@ -1,0 +1,15 @@
+{
+  "video_id": "fc741a966dff9b0e4db1b4cef33fbf75",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-139.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.817,
+    2.452,
+    4.087,
+    5.722
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static digital document designed as a medical checklist or protocol guide, presented as a grid of tables. The document is organized by the days of the week, with rows labeled \"Monday\" through \"Friday.\" Each day contains several columns with headers such as \"TRAUMA CASE (LEADING TO EPIGASTRY),\" \"ADMISSION ORDERS (with paging intern/uppergrade),\" \"ED CONSULT, OVERNIGHTLY ULTRASOUND, LINE TRAINA,\" and \"DIFFICULTY BREATHING.\" Other columns include \"EXPLAN OR ON SIMULATOR, SPLINE AND SOWEL INJURY,\" \"ALTERED MENTATION C-STARS,\" \"PEPPER LAPAROSCOPIC,\" and \"CENTRAL LINE PRACTICE.\" The text is small and dense, with specific instructions like \"Lap chole\" and \"GI Bleed\" appearing in various cells. The image remains completely static across all frames, showing no movement, people, or changes in the content of the document."
+}

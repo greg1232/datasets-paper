@@ -1,0 +1,15 @@
+{
+  "video_id": "2e5ed2938c0b41275b0d2b3c955f6909",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.747,
+    2.24,
+    3.733,
+    5.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grainy, low-light security camera captures a dim outdoor scene, likely a dirt or gravel lot at night. In the background, a metal ladder leans against a structure, and a small, white object rests on the ground nearby. The environment is characterized by a monochromatic, hazy gray tone with visible digital noise. As the sequence progresses, the camera remains stationary, and the static objects\u2014the ladder and the white object\u2014stay in place. There are no people visible in the scene, and no interactions occur. The lighting remains constant throughout the clip, and there is no legible on-screen text or logos present. The only change across the frames is a slight shift in the digital grain and image noise inherent to the low-resolution recording."
+}

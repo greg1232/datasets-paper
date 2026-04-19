@@ -1,0 +1,15 @@
+{
+  "video_id": "e017596bae4909ac52b795844325532b",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.813,
+    1.139
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital animation displays stylized, three-dimensional blue lettering against a neutral gray background. The sequence begins with extreme close-ups of large, geometric blue shapes that obscure most of the frame, creating a sense of depth and motion. As the camera pulls back and shifts its perspective, the shapes resolve into legible letters. By the final stage, the camera has zoomed out and repositioned to reveal a word in a bold, sans-serif typeface. The light sources create soft gradients and shadows across the blue surfaces of the characters. The complete word \"tiger\" is visible in the final scene, with the letters rendered in a consistent blue color and three-dimensional depth, appearing to stand on a flat surface."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "143a00d60996b9134e7db0ec848a403e",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-143.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt sits in front of a professional microphone. The t-shirt features white text that reads \"I'V NEVER D\" and \"SUMT\" with \"AT W\" visible below. He is positioned in a room filled with framed photographs on the walls and a clothing rack with garments in the background. A white mannequin wearing a white t-shirt stands behind him. The scene is branded with two logos: a circular black and white logo on the left that says \"SURE\" and a red and white logo on the right that reads \"SURELY TOT\". Across the sequence, the man remains in a seated position, speaking into the microphone with slight changes in his facial expression and head tilt, while the background elements and equipment remain static."
+}

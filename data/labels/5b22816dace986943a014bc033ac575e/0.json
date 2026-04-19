@@ -1,0 +1,15 @@
+{
+  "video_id": "5b22816dace986943a014bc033ac575e",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-280.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.345,
+    1.035,
+    1.725,
+    2.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video presents a digital slideshow presentation. In the first two frames, a slide titled \"Industrialized Farming\" is displayed, featuring a block of text explaining a \"causal loop closure\" and a system of interlocking circular diagrams on a black background. A legend at the bottom left lists \"Positive\" and \"Negative\" influences. A man with short hair, wearing a dark shirt, is visible in a small webcam overlay in the top right corner. As the video progresses to the third and fourth frames, the presentation advances to a new slide titled \"04R Factory Farm to Market.\" This slide contains several paragraphs of text discussing \"Retail Stores,\" \"Food Industry,\" \"Industrial Farming Infrastructure,\" and \"Mechanized Chemically Fertilized Farming.\" A corresponding flow chart on the right illustrates these relationships, leading down to \"Raw Food Products.\" The man remains in the webcam overlay throughout the sequence."
+}

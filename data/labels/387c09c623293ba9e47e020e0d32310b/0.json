@@ -1,0 +1,15 @@
+{
+  "video_id": "387c09c623293ba9e47e020e0d32310b",
+  "url": "./data/segments/3MlPpqgmbYA-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.971,
+    5.913,
+    9.854,
+    13.796
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and glasses, wearing a dark navy blue button-down shirt, is speaking while centered in the frame. He is positioned in front of a neutral-colored wall featuring a large vertical piece of art depicting a textured, reddish-brown vessel. Across the sequence, the man remains in a stationary medium shot, speaking directly toward the camera. His facial expressions shift slightly as he talks, with his mouth opening and closing to form words. He begins with his arms down, then raises his hands to gesture, momentarily lifting them to chest height before bringing them back down slightly. The background and lighting remain constant throughout the clip, with no visible text, logos, or other equipment in the shot."
+}

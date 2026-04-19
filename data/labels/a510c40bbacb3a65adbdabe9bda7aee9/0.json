@@ -1,0 +1,15 @@
+{
+  "video_id": "a510c40bbacb3a65adbdabe9bda7aee9",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-088.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.363,
+    1.089,
+    1.814,
+    2.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video opens with a close-up shot of a gold bar, focusing on the metallic surface where the text \"GOLD\" and \"999.9\" are engraved. As the camera pans across the gold surface, the lighting creates bright highlights and soft gradients of yellow and orange. The scene then transitions to a screen displaying a website for TFNN.com, which identifies itself as \"EDUCATION INVESTMENT.\" A newsletter sign-up page is visible, featuring the header \"GOLD REPORT NEWSLETTER BY TOM O'BRIEN\" and a \"SUBSCRIBE\" button. The text below discusses the \"Gold Report\" and mentions \"Tom O'Brien,\" describing his role in understanding the complexities of the gold market. The visual shift moves from a physical representation of gold to a digital platform providing financial information and reporting on the gold market."
+}

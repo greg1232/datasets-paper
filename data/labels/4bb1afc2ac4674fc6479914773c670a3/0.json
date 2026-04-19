@@ -1,0 +1,15 @@
+{
+  "video_id": "4bb1afc2ac4674fc6479914773c670a3",
+  "url": "./data/segments/3EOkyr653jg-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.434,
+    1.301,
+    2.169,
+    3.036
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark jacket and a watch on their left wrist is seated at a dark desk, working with various tools. The jacket features a logo and text that reads \"LEV L RIGHT\" and \"FLOOR UNDERLAYMENT\". The individual uses a yellow pencil in their right hand to write on a white notebook, while their left hand holds a small white card. In the foreground, a white calculator with grey buttons sits on the desk surface. Across the sequence of frames, the person remains in a consistent position, making slight movements with their hands as they write and refer to the card. The camera angle remains static, providing a close-up view of the desk and the person's hands, with the background showing a dimly lit indoor setting."
+}

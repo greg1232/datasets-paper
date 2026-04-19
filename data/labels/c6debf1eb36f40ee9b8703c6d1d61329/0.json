@@ -1,0 +1,15 @@
+{
+  "video_id": "c6debf1eb36f40ee9b8703c6d1d61329",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-277.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.331,
+    0.552,
+    0.773
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, glasses, and a dark patterned shirt wears silver headphones and speaks into a black microphone in a room featuring a light-colored wooden wall and a Christmas tree decorated with colorful lights. In the initial scene, he is overlaid on a video game broadcast of an American football game, which shows a field with players in black and white uniforms. On-screen text includes \"2nd & 4\", \"1:09\", \"33\", \"MOMENTUM LEGEND\", and \"X FACTOR\". A framed blue jersey with the number \"20\" hangs on the wall behind him. As the sequence progresses, the football game disappears, and the view shifts to a close-up of the man. He continues speaking, his facial expressions shifting slightly while he remains positioned in front of the microphone and the framed jersey."
+}

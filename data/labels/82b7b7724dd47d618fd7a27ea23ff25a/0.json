@@ -1,0 +1,15 @@
+{
+  "video_id": "82b7b7724dd47d618fd7a27ea23ff25a",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-134.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.801,
+    2.402,
+    4.004,
+    5.606
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and a beard is recorded in a professional studio setting against a dark, textured acoustic foam wall. He wears black over-ear headphones and a dark grey zip-up hoodie over a grey t-shirt. He is positioned behind a professional microphone mounted on a black boom arm. Across the sequence, the man's facial expressions shift as he speaks. He begins with his eyes closed and a slight smile, then opens his eyes and looks toward the camera with a cheerful expression. He then glances slightly to the side with a wide smile, and finally turns his head further to the right, laughing with his mouth open. The camera angle remains static throughout the sequence, focusing on his upper body and head as he interacts with someone off-screen."
+}

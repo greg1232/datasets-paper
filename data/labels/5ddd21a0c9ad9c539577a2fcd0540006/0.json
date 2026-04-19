@@ -1,0 +1,15 @@
+{
+  "video_id": "5ddd21a0c9ad9c539577a2fcd0540006",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-720.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.335,
+    4.004,
+    6.673,
+    9.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt sits in a room that appears to be a clothing store or studio, with racks of clothes and a white mannequin visible in the background. He is positioned in front of a black professional microphone and is speaking. His t-shirt features the white text \"ION NEVER DO SHIT AT WORK\". The walls behind him are decorated with numerous framed photographs. Two logos are present on the screen: one on the left showing a stylized \"R\" in a circle and another on the right that reads \"REALLY FLY TOT\". Across the sequence, the man's facial expression changes as he speaks, and in one instance, he gestures with his right hand toward the side. He remains seated in the same position throughout the clip, with the background and equipment remaining stationary."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7df28a99a39daacd12aa48a282b84297",
+  "url": "./data/segments/3QD9oO6sRns-Scene-095.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.233,
+    0.7,
+    1.167,
+    1.633
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a protective plastic slab containing a sports trading card in a room filled with collectibles. The background shows stacks of similar card boxes and a white wall. A small inset video window in the lower right of the frames shows a man wearing a black baseball cap and a black t-shirt sitting in front of a computer monitor. The text \"JASY'S\" and \"CASEBREAKS.COM\" appear as logos on the screen, along with \"BREAKS\" in large white letters against a red and orange background at the bottom. Throughout the sequence, the hands rotate and move the card slab to show different angles of the card, which depicts an athlete in a white uniform. By the end of the sequence, the slab is being moved away from the center of the frame, shifting the focus slightly toward the surrounding boxes and the \"BREAKS\" branding."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "efb86fffd9bffc9ac71bb347179abe4e",
+  "url": "./data/segments/3VCwl-aQ_oQ-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.75,
+    8.25,
+    13.75,
+    19.25
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a webpage for CaseBreaks.com, featuring a baseball card break listing. The listing is titled \"RNB FOR 2023 MUSEUM BASEBALL 6BOX PYT #2: ANGELS DODGERS WHITE SOX PIRATES BREWERS ROCKIES GUARDIANS NATIONALS RAYS\" and lists a price of \"$59.99.\" To the left of the text is an image of a Shohei Ohtani card featuring him in a Dodgers jersey. Below the listing, a \"SOLD OUT\" button is visible. A chat window on the right shows messages from \"engaged\" and \"Nightbot,\" including the text \"I think if you are a team signing Ohtani, you are going all in on everyone you can\" and a link for the \"BREAK SCHEDULE, SHIPPING INFO and MORE.\" At the bottom of the screen, a small video window shows a man with a beard wearing a black t-shirt. Throughout the sequence, the page remains static with no movement or changes in the layout."
+}

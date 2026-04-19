@@ -1,0 +1,15 @@
+{
+  "video_id": "465bdac9244e8a18016d8d24a7e8d9a3",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-083.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.604,
+    0.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark blue t-shirt is seen in a small video overlay in the bottom left corner of the screen, positioned in front of a Christmas tree and a wall. He is speaking and gesturing with his hands. The main background of the screen displays a digital interface for a video game. At the top of the screen, the text \"TOTW PRESENT\" is visible. In the center of the screen, a grey rectangular card is displayed against a backdrop of purple and green diagonal lines. As the scene progresses, the card transforms and becomes highlighted with glowing yellow accents and gold geometric patterns. At the bottom of the interface, several menu options are listed, including \"ARK/UNMARK,\" \"DISMISS ALL,\" and \"BACK,\" each accompanied by a circular button icon."
+}

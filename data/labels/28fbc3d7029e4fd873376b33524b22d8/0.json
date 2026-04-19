@@ -1,0 +1,15 @@
+{
+  "video_id": "28fbc3d7029e4fd873376b33524b22d8",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.37,
+    1.11,
+    1.85,
+    2.59
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of men, wearing face masks and casual professional attire\u2014mostly grey polo shirts and dark trousers\u2014walk across a bright, sunlit outdoor plaza towards the viewer. The setting features manicured conical hedges, palm trees, and a modern white architectural structure with a decorative latticed screen. A white bus is visible in the background. A logo of Real Madrid is positioned in the top right corner of each scene. In the initial sequence, a man in a dark suit carries a black travel bag. On-screen text in the first scene reads \"TEAM HOTEL 12.47\". As the sequence progresses, the men move forward; the man in the suit exits the frame, and the focus shifts to those in grey polos. By the final scene, one man in a grey polo becomes the central figure as he walks toward the foreground, with others following behind him."
+}

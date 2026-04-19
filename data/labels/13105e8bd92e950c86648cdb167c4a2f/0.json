@@ -1,0 +1,15 @@
+{
+  "video_id": "13105e8bd92e950c86648cdb167c4a2f",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.888,
+    2.665,
+    4.442,
+    6.219
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with curly reddish-brown hair, wearing a black blouse with yellow floral accents, sits at a white desk in front of a yellow wall. She is speaking and gesturing with her hands, which are clasped and moving in front of her. To her right sits a grey laptop. In the upper left corner of the screen, a picture-in-picture window shows a man in a white button-down shirt standing in a room with multiple monitors and technical equipment. The text \"ZURICH, SWITZERLAND\" is displayed in white capital letters at the bottom of this inset window. The \"COINTELEGRAPH\" logo appears in the top center and top right corners of the main frame. Throughout the sequence, the woman continues talking and shifting her hand positions while the man remains relatively still in the inset window, creating a split-screen interview or presentation format."
+}

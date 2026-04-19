@@ -1,0 +1,15 @@
+{
+  "video_id": "c83f4c7d7d57a50f910b4876950f1fd4",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.105,
+    0.315,
+    0.525,
+    0.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Professional soccer players wearing blue jerseys with \"Fly Emirates\" branding and green shorts are seen on a grassy field in a stadium. Red stadium seating with \"Coca-Cola\" and \"LaLiga\" logos is visible in the background. In the sequence, several players are kneeling on the grass, while others stand. A blue graphic overlay featuring the Real Madrid club crest and the word \"SUBSCRIBED\" appears on the screen, accompanied by a white cursor icon in the shape of a hand. Between the initial and final moments, the players adjust their positions slightly; some shift their weight or change their kneeling posture. The background and on-screen graphics remain constant, while the players' movements provide a subtle sense of motion across the scene."
+}

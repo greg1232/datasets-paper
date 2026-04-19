@@ -1,0 +1,15 @@
+{
+  "video_id": "161031797907db1d732f5596b7c3971c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-419.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.39,
+    1.169,
+    1.948,
+    2.727
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair and glasses wears white headphones and a navy blue t-shirt while sitting in a room decorated for the holidays. To his left is a green Christmas tree adorned with colorful lights. Behind him hangs a blue framed picture containing a graphic with the text \"ERS 20\" visible. A microphone stands in front of him. In the beginning, the man laughs heartily with his mouth open and his right arm raised in a gesture. He then moves his right hand up to adjust the headphones on his head, continuing to smile. As the scene progresses, he covers his face with his right hand, leaning forward while laughing. Finally, he slightly lowers his hand from his face, though he remains bent over and laughing, with his right arm resting near his chest."
+}

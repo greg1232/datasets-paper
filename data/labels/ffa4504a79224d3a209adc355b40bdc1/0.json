@@ -1,0 +1,15 @@
+{
+  "video_id": "ffa4504a79224d3a209adc355b40bdc1",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-349.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.585,
+    1.756,
+    2.927,
+    4.098
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person opens a sports card box in a room decorated with sports memorabilia. In the upper portion of the video, a pair of hands manipulates a black cardboard box and extracts a shiny card. The background features a white surface with an orange border and a logo depicting two green palm trees. The text \"JASPYS\" and \"CASEBREAKS.COM\" is prominently displayed in orange and white on the screen. In the lower portion of the video, a man with a beard wearing a dark blue t-shirt is visible, sitting behind the table. As the video progresses, the hands lift a gold-colored card from the packaging and hold it up toward the camera. The man in the background watches the process. The scene transitions from the initial opening of the box to the reveal of a reflective, metallic card being held by the person's fingers."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b368c92e6dcd181e8ca0ee20518795ae",
+  "url": "./data/segments/3iUTkJy84EY-Scene-231.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.265,
+    0.795,
+    1.325,
+    1.855
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses, wearing a light green patterned top and a dark necklace, is speaking against a solid dark background. She is centered in the frame, gesturing with both hands to emphasize her points. In the first frame, her hands are held low and open. By the second frame, her right hand has moved upward and slightly outward in a sweeping motion, while her left hand remains open. In the third frame, her right hand returns to a lower position, similar to the start. In the final frame, she holds both hands out in front of her, palms facing inward, as she continues to speak. A small circular logo with the text \"RFTEL\" appears in the bottom left corner of the first and third frames, and the bottom center of the second and fourth frames."
+}

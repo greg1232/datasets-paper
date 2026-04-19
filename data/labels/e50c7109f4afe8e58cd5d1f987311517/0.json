@@ -1,0 +1,15 @@
+{
+  "video_id": "e50c7109f4afe8e58cd5d1f987311517",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video frames are almost entirely dark, showing a black screen with no discernable setting, location, or people. There are no visible objects, equipment, on-screen text, or logos present. Throughout the chronological sequence, the images remain consistently dark, with only very faint, indistinct variations in the deep black and dark blue tones that provide no clear visual information. No actions or interactions take place, as the scene does not contain any identifiable subjects or environment. The visual content does not change significantly across the frames, maintaining a near-total lack of visibility."
+}

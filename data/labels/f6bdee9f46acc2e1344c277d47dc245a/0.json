@@ -1,0 +1,15 @@
+{
+  "video_id": "f6bdee9f46acc2e1344c277d47dc245a",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-168.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.706,
+    1.177,
+    1.648
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video depicts a gaming interface for \"ITEM MANAGER,\" featuring menus for \"MY ITEMS,\" \"SETS,\" and \"AUCTION HOUSE.\" The screen displays a purple-hued background with a filter menu listing options such as \"TYPE,\" \"QUALITY,\" \"TEAM,\" \"PROGRAM,\" and \"CHEMISTRY.\" In the top right corner, numerical values are shown, including \"173,037,\" \"14,600,\" and \"2,343,549,\" alongside \"LV 19.\" A small webcam overlay in the corner shows a blond man wearing a dark t-shirt and a headset. As the sequence progresses, the man's facial expressions shift from a focused, speaking expression to a wide smile and laugh. While the \"ITEM MANAGER\" interface remains static across the frames, the man's reactions change, moving from speaking to laughing with his mouth open. In the background of the webcam view, a decorated Christmas tree with colorful lights is partially visible."
+}

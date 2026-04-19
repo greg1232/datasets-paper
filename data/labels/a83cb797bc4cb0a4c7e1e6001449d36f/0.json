@@ -1,0 +1,15 @@
+{
+  "video_id": "a83cb797bc4cb0a4c7e1e6001449d36f",
+  "url": "./data/segments/3P1vSUbet40-Scene-0511.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.162,
+    0.485,
+    0.808,
+    1.131
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a distinctive hairstyle featuring blonde-streaked hair is seated in a studio setting, speaking into a black professional microphone. He wears glasses, a white collared shirt with a small red bowtie, and white suspenders. He is wearing black over-ear headphones. In the background, a blurred wall displays a logo for \"UNIQUE FASHIONS\" and a framed image of a shield. On-screen text appears in two places: a circular logo on the left that reads \"TALK 101 PODCAST\" and a red rectangular banner on the right that reads \"SS TALK 101\". Throughout the sequence, the man remains in the same position, speaking and gesturing slightly with his mouth. The camera remains static, capturing his profile as he interacts with someone off-screen, while the lighting and background elements remain consistent across the frames."
+}

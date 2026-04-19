@@ -1,0 +1,15 @@
+{
+  "video_id": "560fb8ecaa77a94f97f77e4dbd0219c0",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.097,
+    3.291,
+    5.485,
+    7.679
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video presents a series of aerial views of a large, open-pit mine. Initially, the scene shows a close-up of the pit, which contains a large body of turquoise water surrounded by steep, reddish-brown rocky walls. A small yellow rectangular marker is visible near the water's edge. As the camera pulls back and pans across the landscape, the full scale of the excavation is revealed, set against a backdrop of vast, flat plains with sparse green vegetation. A logo consisting of the letters \"VG\" inside a square is visible in the upper right corner of each shot. Overlaid text appears in the center and bottom of the frame, stating \"Mt Todd feasibility study\" and \"7 Million Ounce Gold Reserve & A 16 Year Mine Life.\" The camera continues to retreat, providing a wide-angle perspective of the mine embedded within the arid environment."
+}

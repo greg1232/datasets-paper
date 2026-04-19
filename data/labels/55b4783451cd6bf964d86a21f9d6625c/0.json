@@ -1,0 +1,15 @@
+{
+  "video_id": "55b4783451cd6bf964d86a21f9d6625c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-173.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.202,
+    0.606,
+    1.01,
+    1.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video displays a digital interface for a sports game, specifically a player card for \"RANDALL CUNNINGHAM\" with an overall rating of \"90\". The screen shows various sections including \"AUCTION DETAILS\", \"HISTORY\", \"DESCRIPTION\", and \"ARCHETYPE\". The \"DESCRIPTION\" section reads \"Mut 23 Zero Chl Eln Dpn 00\". A small inset video window in the bottom left corner shows a man with short brown hair and a beard, wearing a dark shirt and headphones. In the first two frames, the man has an expressive, open-mouthed look of surprise. As the video progresses to the final frames, the interface updates to show a \"Max Value\" of \"333,000\", a \"Current Bid\" of \"70,300\", and a \"Buy Now\" price of \"70,600\". The man's expression shifts to a neutral, focused gaze as he watches the auction details change."
+}

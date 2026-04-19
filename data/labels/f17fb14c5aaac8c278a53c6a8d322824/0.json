@@ -1,0 +1,15 @@
+{
+  "video_id": "f17fb14c5aaac8c278a53c6a8d322824",
+  "url": "./data/segments/3F2rz23IKUk-Scene-068.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a lecture-style room with light-colored brick walls, a person wearing a black t-shirt stands at the front of the room, gesturing as they speak to an audience. The audience consists of several people seated in rows of chairs facing the speaker; notable among them are individuals wearing a yellow t-shirt, a pink t-shirt, and a grey t-shirt. The person in the grey t-shirt has a white logo on the back featuring a stylized animal and the text \"LINUX\". The room contains several tables and electronic equipment, including a white device on a table near the speaker. Throughout the sequence, the speaker remains at the front while the audience members stay seated, with minimal movement occurring as the speaker continues their presentation. The lighting is bright and consistent, and the focus remains on the interaction between the speaker and the seated group."
+}

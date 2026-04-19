@@ -1,0 +1,15 @@
+{
+  "video_id": "42216b18c31eb5b00d0d378023acec08",
+  "url": "./data/segments/3QD9oO6sRns-Scene-094.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.033,
+    3.1,
+    5.167,
+    7.233
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a graded sports card in a clear plastic case, showcasing a baseball player in a white uniform. The card features a green border and the name \"GASKINS\" printed vertically. In the background, a man wearing a black t-shirt and a white baseball cap is visible in a small picture-in-picture window, sitting in front of a computer monitor. The setting includes stacks of trading card boxes and a white surface. On-screen text and logos appear, including \"CASEBREAKS.com\" and \"CASEBREAKS\" in large red and white letters across the bottom of the screen. As the hand tilts the card, light reflects off the plastic surface and the card's holographic elements, shifting the glare across the image of the player. The person continues to hold and slightly rotate the card to show its condition and authenticity."
+}

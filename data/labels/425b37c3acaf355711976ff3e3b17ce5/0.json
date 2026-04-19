@@ -1,0 +1,15 @@
+{
+  "video_id": "425b37c3acaf355711976ff3e3b17ce5",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.562,
+    0.787
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a digital screen displaying a computer terminal window with lines of server logs. The text consists of IP addresses, timestamps, and HTTP request methods, such as \"GET /sageapp/ HTTP/1.1\" and \"GET /etc/passwd HTTP/1.1\". Specific log entries include \"2020-05-20 6:21:16\" and references to \"HTTP Server\" and \"logger-http server mod\". A blue status bar at the bottom of the window contains the word \"E-playout\". The image is a repetitive sequence of four nearly identical frames, with each frame showing the same window of terminal output. There are no people, clothing, or physical settings visible; the entire scene is a capture of a software interface. The content remains static across the frames, with no changes in the text or the layout of the terminal window."
+}

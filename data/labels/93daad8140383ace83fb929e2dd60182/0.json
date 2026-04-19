@@ -1,0 +1,15 @@
+{
+  "video_id": "93daad8140383ace83fb929e2dd60182",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.204,
+    0.613,
+    1.022,
+    1.431
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical or educational simulation setting with light-colored walls and a privacy curtain, three women are gathered. In the foreground, a woman with long blonde hair tied in a low ponytail wears a grey The North Face vest. To her left, another woman with blonde hair in a ponytail wears a black jacket and a light blue face mask. Facing them is a woman wearing a pink shirt, a black blazer, blue jeans, and a white face mask. She is gesturing with her hands while speaking. A brown table with white papers on it is positioned in front of her. The text \"Sim Week\" appears in the bottom right corner of the scene. Across the sequence, the woman in the blazer continues her explanation, shifting her hand positions and leaning slightly as she interacts with the other two women, who remain listening."
+}

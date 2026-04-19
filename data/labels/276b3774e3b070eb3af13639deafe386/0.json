@@ -1,0 +1,15 @@
+{
+  "video_id": "276b3774e3b070eb3af13639deafe386",
+  "url": "./data/segments/3g8tiPycwPo-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.356,
+    4.067,
+    6.778,
+    9.489
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a dark suit, white shirt, and tie stands behind a podium, delivering a presentation in an indoor setting. He is positioned in front of a large, brightly lit white screen. An audience is seated in front of him, seen from the back; they are dressed in business attire. A light fixture is mounted on the wall to the left of the speaker. At the bottom of the scene, a blue graphic overlay appears with the white text \"L. CARLOS LARA\" above the title \"CEO, United Services and Trust Corporation\". Across the sequence, the speaker's posture shifts slightly as he gestures and speaks, and the audience members remain relatively still, focusing on him. The lighting and the background remain constant throughout the brief clip."
+}

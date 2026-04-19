@@ -1,0 +1,15 @@
+{
+  "video_id": "b155a4757ae32568bdf1c204455d06c6",
+  "url": "./data/segments/3cfugv0xNbU-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.184,
+    0.551,
+    0.918,
+    1.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Captured through night-vision goggles, the scene shows a military operation on a dark airfield. A large transport aircraft sits on the runway, illuminated by bright ground lights. In the initial frames, the plane is the central focus, with its cargo ramp open at the rear. As the sequence progresses, a group of soldiers dressed in full tactical gear and helmets emerge from the aircraft. They move quickly away from the plane and across the tarmac. A small, blue pentagonal logo is visible in the lower-right corner of each frame. The green-tinted imagery captures the high-contrast lighting of the airfield, showing the soldiers' silhouettes as they transition from the interior of the aircraft to the open runway under the glow of landing lights."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c320752ed5426c5a2ed1435bc57034c4",
+  "url": "./data/segments/3QD9oO6sRns-Scene-158.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.123,
+    0.369,
+    0.615,
+    0.86
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with sports collectibles in an indoor setting. The individual holds a thin, clear plastic graded card case vertically while moving a dark blue and white box, labeled \"CLEARLY AUTHENTIC,\" toward it. In a small inset window, a man wearing a black t-shirt and a white baseball cap is visible. The background features logos for \"CASPY'S CASEBREAKS,\" including the website \"CASEBREAKS.COM\" and the name \"JASON.\" As the sequence progresses, the person's left hand shifts the box across the surface, and the clear card case remains held steady in the right hand. The surface they are working on is a dark mat, and the environment is decorated with branding elements and a white backdrop with faded red graphics. Throughout the frames, the primary action is the movement of the box relative to the card case."
+}

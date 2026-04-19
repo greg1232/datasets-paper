@@ -1,0 +1,15 @@
+{
+  "video_id": "e0bd0e50dbde46afeff802af797aabdf",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.826,
+    2.477,
+    4.129,
+    5.781
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A pair of hands is shown against a light-colored wooden surface, handling a greeting card encased in a clear plastic sleeve. The card features a winter-themed design with silver flourishes and a center label that reads \"SENDING YOU A LITTLE Yuletide Cheer\". In the initial sequence, the left hand holds the card steady while the right hand reaches in from the side to grasp the edge of the plastic packaging. As the action progresses, the right hand pulls the plastic sleeve away from the card, sliding it upward and to the right. The card remains stationary on the wooden surface, and another similar packaged card is partially visible to the left. The person's hands are bare except for a simple bracelet on the left wrist, and they wear a dark-colored sleeve on their right arm."
+}

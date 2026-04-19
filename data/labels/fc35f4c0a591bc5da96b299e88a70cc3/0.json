@@ -1,0 +1,15 @@
+{
+  "video_id": "fc35f4c0a591bc5da96b299e88a70cc3",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.087,
+    0.262,
+    0.438,
+    0.612
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black hoodie is seen in a small inset window, sitting in a room with computer equipment. The main focus of the scene is a series of sports card product boxes placed on a branded surface featuring the text \"JASPYS\" and \"CASEBREAKS.COM\". The boxes are black with red and teal accents, prominently featuring the word \"OBSIDIAN\" in red. Each box shows a card with a player in a white uniform and the text \"2 AUTOGRAPHS!\". Across the sequence, the perspective remains static on the boxes while the person in the inset window slightly shifts their position and looks toward the camera. The repetitive layout of the boxes and the branded backdrop create a consistent commercial setting for a card-breaking session."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c664c906f29693cf874986229ef7ef74",
+  "url": "./data/segments/3Z229_lKLpk-Scene-134.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.29,
+    0.87,
+    1.45,
+    2.03
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a wide shot of a formal legislative assembly room where numerous officials are seated in organized rows of wooden desks. The attendees are predominantly men wearing a variety of attire, including white button-down shirts, formal suits, and traditional Indian clothing such as Nehru jackets and colorful turbans. A few women are present, including one woman prominently seated in the foreground wearing a red and orange sari. Most individuals remain seated and attentive, with some appearing to engage in quiet conversation or looking toward a central point of focus off-camera. The environment is characterized by structured, tiered seating and muted tones of brown and grey. Throughout the sequence, the scene remains largely static, with only subtle movements from the people in the audience as they shift slightly in their seats, maintaining a formal and disciplined atmosphere."
+}

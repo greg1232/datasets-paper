@@ -1,0 +1,15 @@
+{
+  "video_id": "0ae1f33b44ccad927343becc76124244",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.552,
+    4.655,
+    7.758,
+    10.861
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video sequence begins with a close-up view of a white car's interior, where a brown cardboard box sits on a tan seat. The scene then shifts to a view looking out through the open passenger door toward a grassy yard. The perspective then moves inside the vehicle, focusing on the steering wheel and the dashboard area. In the final shot, the camera provides a close-up of the steering wheel's center, where the word \"CORVETTE\" is embossed in uppercase letters across the black leather material. No people are visible in any of the frames. The lighting is bright and natural, suggesting an outdoor setting during the day. The sequence transitions from an overview of a package in the car to a detailed view of the car's branding on the steering wheel."
+}

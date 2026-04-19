@@ -1,0 +1,15 @@
+{
+  "video_id": "a840fa773e490381c7f7e74935233590",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-133.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.825,
+    26.476,
+    44.127,
+    61.778
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen capture displays a financial trading interface featuring several identical panels of a candlestick stock chart. Each panel shows price movements with green and red candles, a moving average line, and technical indicators like MACD and Stochastic oscillators at the bottom. The text \"Genko Shipping & Trading\" is printed across the center of the charts. Various data points and labels are visible, including \"L=24.69 -2.24 -8.32%\" and \"H=28.47 L=24.14\". The x-axis marks time intervals, such as \"Oct\", \"Apr\", \"Jul\", and \"Jan 13\". The interface is densely packed with numerical values, grid lines, and labels like \"MACD(12,26,9,1.1,1,UpColorDetail_...\" and \"Stochastic Slow (High,Low,Close,14,3,3,1.20,80)\". Across the frames, the image remains static, showing no movement or changes in the data or the layout of the trading software."
+}

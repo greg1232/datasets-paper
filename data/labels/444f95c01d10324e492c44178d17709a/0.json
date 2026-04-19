@@ -1,0 +1,15 @@
+{
+  "video_id": "444f95c01d10324e492c44178d17709a",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.192,
+    0.575,
+    0.958,
+    1.342
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand mixes a large bowl of white and green popcorn-like material. In each frame, a small circular inset shows a woman with blonde hair wearing a black shirt, looking toward the camera with a neutral expression. The main action focuses on the hand moving through the mixture, shifting the green and white pieces. The background behind the bowl appears to be a light-colored wall. In the top left corner of each scene, a logo and text read \"UCAR CENTER FOR SCIENCE EDUCATION\". As the sequence progresses, the hand continues to stir and toss the mixture, causing the colors to blend and the popcorn to shift position within the metallic bowl. The woman in the inset remains stationary, observing the process."
+}

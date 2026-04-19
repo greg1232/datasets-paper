@@ -1,0 +1,15 @@
+{
+  "video_id": "3eb3c1910ae7ee6d95ab7dd585bf8b1d",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.858,
+    2.575,
+    4.292,
+    6.008
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with short brown hair is seen in a small picture-in-picture window, reacting to a video game interface for a player named \"TROY POLAMALU.\" The screen displays a sports game menu with a player card showing an athlete in a black and white football uniform. On-screen text indicates the player's position as \"#43 SS\" and their overall rating as \"96 OVR.\" The interface displays various attribute bars across categories like \"DEFENSE\" and \"OFFENSE.\" In the first two frames, the \"DEFENSE\" section is highlighted, showing ratings such as \"90,\" \"60,\" \"77,\" \"87,\" \"95,\" \"94,\" \"88,\" and \"99.\" As the video progresses, the menu shifts to the \"OFFENSE\" section, revealing a different set of numbers including \"69,\" \"25,\" \"35,\" \"35,\" \"64,\" \"94,\" \"79,\" and \"53.\" The person in the window maintains a facial expression of surprise and excitement throughout the sequence."
+}

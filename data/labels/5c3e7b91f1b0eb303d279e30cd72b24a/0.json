@@ -1,0 +1,15 @@
+{
+  "video_id": "5c3e7b91f1b0eb303d279e30cd72b24a",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-239.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.177,
+    0.532,
+    0.886,
+    1.241
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, headphones, and a black hoodie with \"BOSS TALK\" printed on the chest is seated in a studio setting. He is positioned in front of a professional microphone mounted on a black boom arm. In the background, a white banner features the words \"URBAN HUSTLE\" alongside a row of gold stars. Above him, a blue sign reads \"Where BOSSES Talk!\". On the desk in front of him is a black mug with \"BOSS TALK OUT\" written in red and white text. Throughout the sequence, the man is captured in a profile view, facing toward the left of the frame. He is speaking and smiling, with his facial expressions shifting slightly as he talks, while his general posture and the surrounding environment remain stationary."
+}

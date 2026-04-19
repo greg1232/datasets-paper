@@ -1,0 +1,15 @@
+{
+  "video_id": "0fbb87354aeaa0b92c5e8d3001203ea7",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.913,
+    2.74,
+    4.567,
+    6.394
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grayscale security camera feed monitors a dimly lit outdoor area, possibly a garage or carport, where a ladder and various pieces of equipment lean against a wall. The on-screen text identifies the source as \"Cam 04\" and provides timestamps starting at \"05-13-2022 11:35:17PM\" and ending at \"05-13-2022 11:35:24PM\". A person wearing dark clothing is visible in the middle distance; they appear to be moving or adjusting something near the ground. As the sequence progresses, the individual shifts their position slightly, moving further into the shadows of the structure. Bright light sources from the ceiling create strong glares and deep shadows across the concrete floor. The overall scene remains quiet and static, with the only movement being the subtle shifts in the person's posture as they operate in the dimly lit environment."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "27d0e5dc03b906c010846daef51fd07e",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-127.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.206,
+    0.619,
+    1.031,
+    1.444
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video gameplay screen displays a reward titled \"LOVELY PRESENT\" featuring a digital football player card for \"JASON PIERRE-PAUL,\" an \"ROLB\" with a rating of \"90.\" The background is a vibrant purple gradient, and various game stats appear at the top, including \"173,037,\" \"14,600,\" \"2,343,543,\" and \"LV 19.\" At the bottom of the screen, menu options read \"ARK/UNMARK,\" \"DISMISS ALL,\" and \"BACK.\" In the bottom-left corner, a small inset video window shows a young man with blonde hair wearing a dark navy blue t-shirt. He is positioned in a room with a decorated Christmas tree visible behind him. As the clip progresses, the man's expression shifts from an open-mouthed look of surprise to a wide-eyed, shocked expression, reacting to the digital card shown on the main screen."
+}

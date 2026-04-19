@@ -1,0 +1,15 @@
+{
+  "video_id": "cc492677fb8b44d9b845b8d5e3253c43",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.254,
+    0.762,
+    1.271,
+    1.779
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people are gathered in a large, indoor venue with high ceilings, featuring soft lighting and a raised blue platform. Several individuals are dressed in traditional Chinese martial arts attire; some wear white uniforms, one wears a red outfit, and another wears a blue outfit. In the initial scene, the person in blue is walking forward on the platform while others stand behind them. As the sequence progresses, the group remains on the blue platform, with the person in blue and others positioned across the stage. A grey banner appears at the bottom of the scene containing the white text \"Xing Yi Wushu\". The perspective shifts from a closer shot of the participants to wider views of the stage, showing more of the background and the people standing in formation."
+}

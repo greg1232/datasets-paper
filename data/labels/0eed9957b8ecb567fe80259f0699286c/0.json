@@ -1,0 +1,15 @@
+{
+  "video_id": "0eed9957b8ecb567fe80259f0699286c",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-823.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.121,
+    3.363,
+    5.605,
+    7.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt, a green baseball cap, and black over-ear headphones is speaking into a professional black microphone. The t-shirt features white text that reads \"I NEVER DO SHIT AT WORK\". He is seated in a room filled with clothing racks, a white mannequin, and various framed photographs on the wall. In the background, a black ornate chair is visible. As the scene progresses, the man shifts his facial expressions while speaking, glancing slightly away and then back toward the microphone. To his left, another person is partially visible, wearing a white shirt. Small logos appear in the bottom corners of the screen, including one that says \"BIG STEVE\" and another that reads \"BIG STEVE TALK TOT\". The camera remains in a steady medium shot, capturing the man's upper body and the surrounding store-like environment."
+}

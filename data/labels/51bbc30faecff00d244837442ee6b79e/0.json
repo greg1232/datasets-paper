@@ -1,0 +1,15 @@
+{
+  "video_id": "51bbc30faecff00d244837442ee6b79e",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-150.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.642,
+    1.927,
+    3.212,
+    4.496
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white electric pickup truck is parked on a sandy, open terrain under a cloudy, overcast sky. The vehicle features a modern, aerodynamic design with a crew cab, black off-road wheels, and distinctive light-blue accent strips along the lower side panels. On the front grille, the text \"HBD NEW\" is visible. The truck's headlights are illuminated, casting a bright white glow. Across the sequence of frames, the scene remains static; there are no people present, and the vehicle does not move. The lighting and the position of the truck stay consistent, with only subtle atmospheric shifts in the sky and lighting, maintaining a steady side-profile view of the vehicle against the desolate, light-colored ground."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "cf16d695a945808d758231aecaf1954e",
+  "url": "./data/segments/3o6LBa7ZAp0-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.292,
+    0.876,
+    1.46,
+    2.044
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a formal conference setting, two bald men dressed in dark suits, white shirts, and ties sit side-by-side behind a long wooden table. Each man wears a blue lanyard around his neck. On the table are several water bottles, glasses, and microphones. Small potted plants and nameplates are also visible, with one plate reading \"Massimo ANPEC\". The man on the left remains mostly stationary, resting his chin on his hand and looking forward. The man on the right is more animated, initially leaning forward and gesturing with his hand near his chest, then looking down toward the table. Throughout the sequence, the background consists of a light-colored, textured wall with a subtle repeating pattern. The scene is static in terms of location, with the only changes being the slight shifts in the men's postures and facial expressions as they listen or react."
+}

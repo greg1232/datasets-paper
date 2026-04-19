@@ -1,0 +1,15 @@
+{
+  "video_id": "2f06c243e0030371363c21fca857be98",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.551,
+    1.652,
+    2.753,
+    3.854
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is standing on a patch of dirt and moss in a dark environment, illuminated by a bright, circular beam of light from an overhead or hand-held source. The ground is scattered with small twigs and debris. In the initial sequence, only the tip of a red and black checkered shoe is visible at the bottom of the frame. As time progresses, the person steps forward, bringing their right foot fully into the light. The shoe is a slip-on style with a red and black plaid pattern and a white sole. After stepping forward, the person's foot moves out of the shot, leaving the illuminated patch of ground empty once again. No other people, equipment, or text are visible throughout the scene."
+}

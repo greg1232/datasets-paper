@@ -1,0 +1,15 @@
+{
+  "video_id": "9c2e39a705a751bb07dc1d28f895b8a7",
+  "url": "./data/segments/3mmDnftP1M8-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.849,
+    2.547,
+    4.245,
+    5.943
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light-colored, button-down shirt and a black headset with a microphone is positioned in front of a plain, light-colored wall. In the initial sequence, he has his eyes closed and is speaking. As the scene progresses, he opens his eyes and gestures with his right hand, raising it and slightly curling his fingers. He continues to speak, shifting his head position and facial expression. Throughout the sequence, the text \"Ashish Raichur\" remains visible in the bottom-left corner of the view. The camera remains stationary, focusing on the man from the chest up, as he engages in a conversation or presentation."
+}

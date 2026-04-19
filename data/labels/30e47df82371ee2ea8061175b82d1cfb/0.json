@@ -1,0 +1,15 @@
+{
+  "video_id": "30e47df82371ee2ea8061175b82d1cfb",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-138.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.62,
+    1.86,
+    3.1,
+    4.34
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a light-colored hat and glasses is visible in a small video call window at the top of a computer screen. The main area of the display shows a dark background with a network map consisting of interconnected circles and lines. Several circles contain small profile images and green text, including \"Emily Blending.\" An inset window displays a brightly lit indoor scene where people are gathered around tables in what appears to be a classroom or community space. The browser tabs at the top of the screen list titles such as \"Trust & Learning by Systemyni,\" \"Relevance by Systemyni,\" \"Future of Society by Systemyni,\" and \"Insights Introduction Kumu.\" Additionally, the address bar contains the text \"blackboard.ucl.ac.uk/final-learning.\" The man in the video call remains relatively still, and the visual elements of the screen layout and the network map stay constant throughout the sequence."
+}

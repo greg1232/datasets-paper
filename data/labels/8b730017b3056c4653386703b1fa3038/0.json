@@ -1,0 +1,15 @@
+{
+  "video_id": "8b730017b3056c4653386703b1fa3038",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-299.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.237,
+    0.712,
+    1.188,
+    1.662
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is captured in a black-and-white video, featuring players on a field with large text reading \"ERS\" visible on the ground. In the top left, a player in a white jersey is pursued by a player in a dark jersey, while another player in a white jersey with the number \"2\" stands nearby. A small inset window shows a man with glasses wearing a dark shirt. As the action progresses, the dark-jerseyed player tackles the player in white, bringing him to the ground. By the final sequence, the tackle is complete, and the player in white lies flat on the turf while the player in the dark jersey is positioned over him. The player with the number \"2\" remains standing, observing the play. The text \"WORLD CHAMPIONS 1937 1942\" is visible at the top of the screen, and the name \"Lamb\" appears near the center."
+}

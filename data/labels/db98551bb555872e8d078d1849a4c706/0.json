@@ -1,0 +1,15 @@
+{
+  "video_id": "db98551bb555872e8d078d1849a4c706",
+  "url": "./data/segments/3r714PCt5mU-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.758,
+    2.275,
+    3.792,
+    5.308
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A short video sequence displays a professional profile for Elena S\u00e1nchez Nogales. A circular portrait of a woman with brown hair and silver hoop earrings is centered against a white background. A teal banner at the top contains white text that progressively completes itself. Initially, it reads \"Elena S\u00e1n\" and \"J\", then updates to \"Elena S\u00e1nchez Nogales\" and \"Jefa de Servicio en la Unidad de Difusi\u00f3n de Conteni\". The text further expands to \"Elena S\u00e1nchez Nogales\" and \"Jefa de Servicio en la Unidad de Difusi\u00f3n de Contenidos Digitales, Portales y Redes Sociales. Divisi\u00f3n\". Finally, the text concludes as \"Elena S\u00e1nchez Nogales\" and \"Jefa de Servicio en la Unidad de Difusi\u00f3n de Contenidos Digitales, Portales y Redes Sociales. Divisi\u00f3n de Procesos y Servicios Digitales. Biblioteca Naci\". A small brown tag with the word \"Docente\" appears at the bottom of the portrait in the final stages."
+}

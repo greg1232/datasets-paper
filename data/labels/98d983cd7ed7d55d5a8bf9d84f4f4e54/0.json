@@ -1,0 +1,15 @@
+{
+  "video_id": "98d983cd7ed7d55d5a8bf9d84f4f4e54",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.23,
+    30.69,
+    51.15,
+    71.61
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a dark beard and short dark hair is positioned in front of a dark blue backdrop featuring a repeating light gray pattern of the words \"DAILY\" and \"ROUND-UP\". He is wearing a light gray button-down shirt with a small black clip-on microphone attached to the center of his chest. In the top left corner of the scene, a white logo reads \"peoples dispatch\". Across the sequence, the man remains in a medium shot, facing the camera with his arms crossed. He is speaking, and his facial expressions shift slightly as his mouth opens and closes. While his posture stays consistent, the subtle movements of his lips and jaw indicate active conversation throughout the clip. No other people or objects are visible in the scene."
+}

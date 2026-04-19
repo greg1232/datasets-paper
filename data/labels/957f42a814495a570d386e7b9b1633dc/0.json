@@ -1,0 +1,15 @@
+{
+  "video_id": "957f42a814495a570d386e7b9b1633dc",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-178.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.094,
+    0.282,
+    0.469,
+    0.657
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt with white text reading \"ICN NEVADA\" and \"S17\" speaks into a professional black microphone. He is positioned in a room that appears to be a studio or clothing shop, with several framed photos on the wall behind him and a white mannequin wearing a white t-shirt and green pants standing to his right. Clothing racks and a black office chair are also visible in the background. Two logos are overlaid on the scene: a circular black and red logo on the left and a red text logo on the right that says \"REALLY SOFT\". Across the sequence, the man remains in the same position, slightly shifting his facial expression and head angle as he continues to speak, while the background and equipment remain static."
+}

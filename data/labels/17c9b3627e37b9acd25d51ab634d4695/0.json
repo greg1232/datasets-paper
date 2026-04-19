@@ -1,0 +1,15 @@
+{
+  "video_id": "17c9b3627e37b9acd25d51ab634d4695",
+  "url": "./data/segments/3QD9oO6sRns-Scene-146.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.552,
+    1.656,
+    2.76,
+    3.865
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a sports trading card encased in a clear plastic protector. The card features a baseball player in a dark blue uniform with the text \"BREWERS\" and \"2B KESTON HIURA\" visible. A circular emblem with the number \"35\" is on the card, and a signature is scrawled across the image. As the sequence progresses, the hand tilts the card slightly to the right, causing light to reflect off the protective case. In the background, a small inset window shows a man wearing a black baseball cap and a black t-shirt sitting at a desk with equipment. Text overlays in this inset include \"CASOBREAKS.COM\" and \"JASON'S BREAKS\". The wider background is blurred, showing a white surface and a blue-and-white banner."
+}

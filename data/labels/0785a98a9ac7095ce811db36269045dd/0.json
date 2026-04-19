@@ -1,0 +1,15 @@
+{
+  "video_id": "0785a98a9ac7095ce811db36269045dd",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.702,
+    5.105,
+    8.508,
+    11.912
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a heavily stylized, high-contrast red filter covering the scene. Large, white, blocky text appears on the screen, reading \"SHABEAR\" above the number \"1000\". The red visual effect is chaotic and distorted, obscuring the background, although some shapes suggest an outdoor or industrial environment. As the sequence progresses, the red filter and the \"SHABEAR 1000\" text persist, continuing to dominate the view. Suddenly, the stylized effect vanishes, revealing a clear shot of the interior of a vehicle. The camera looks toward the door sill and the driver's seat. The word \"CORVETTE\" is embossed in capital letters on the silver door sill. A brown leather seat is visible, and the ground outside the car appears to be a grey, paved surface."
+}

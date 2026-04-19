@@ -1,0 +1,15 @@
+{
+  "video_id": "7e37f5971e7b68e561170a64d5327c18",
+  "url": "./data/segments/3Kxl1O310k8-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    23.58,
+    70.74,
+    117.9,
+    165.06
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide is displayed, featuring the heading \"Work together to create a culture of support\" in a dark font against a white background. Below the heading, five columns of text are paired with yellow map pin icons. The text includes phrases such as \"Balance people with places and systems,\" \"Tell 'story of us' rather than 'story of them',\" \"Connect housing to other social issues and outcomes,\" \"Where you live affects you,\" and \"Consider language that we use (e.g. home vs housing).\" To the right of these columns is a small image of a crowd of people under the title \"\u201cYou Don\u2019t Have to Live Here\u201d\" and a logo for \"MEveryone.\" In the top right corner, a small inset video shows a person speaking. A yellow banner runs across the bottom of the screen with the letters \"MHP.\" The scene remains static across the frames, with no visible changes in the text, layout, or the person in the inset video."
+}

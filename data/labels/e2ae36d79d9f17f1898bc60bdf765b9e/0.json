@@ -1,0 +1,15 @@
+{
+  "video_id": "e2ae36d79d9f17f1898bc60bdf765b9e",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-265.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.88,
+    5.64,
+    9.4,
+    13.16
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a presentation on a computer monitor, with a small webcam window in the upper right corner featuring a man with dark hair and glasses wearing a dark shirt. The presentation slide is titled \"13R Retailers willing to source local & Product Cost/Price\" and falls under the header \"Rural Community Food System.\" The slide contains text under the headings \"Focus,\" \"Clear Focus,\" and \"Supply & Demand,\" specifically stating, \"Retailers willing to source local increasing the Availability or the supply, relative to demand, of locally sourced products tend to lower the Product Cost and thereby increasing the likelihood of Local Consumption which in turn supports those Retailers that were willing to source the local food.\" To the right of the text is a Causal Loop Diagram with arrows and labels. The screen remains largely static throughout the sequence, though the man in the webcam window shifts his gaze and expression slightly."
+}

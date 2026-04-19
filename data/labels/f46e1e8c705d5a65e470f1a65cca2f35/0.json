@@ -1,0 +1,15 @@
+{
+  "video_id": "f46e1e8c705d5a65e470f1a65cca2f35",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-800.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.991,
+    1.387
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark green baseball cap, headphones, and a dark green t-shirt sits in a room decorated with numerous framed photos on the wall. His t-shirt features the text \"ION NEVER DO SHIT AT WORK\" in white and red letters. A professional black microphone on a boom arm is positioned in front of him. In the background, a white mannequin torso and a clothing rack are visible. The scene is branded with a red and white logo that says \"RED VELVET PODCAST\" and a circular logo that says \"THE RED VELVET PODCAST.\" Across the sequence, the man maintains a skeptical or contemplative expression, shifting his gaze slightly and subtly changing his facial muscles, while his overall position and the surrounding environment remain stationary."
+}

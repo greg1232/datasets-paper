@@ -1,0 +1,15 @@
+{
+  "video_id": "084363d6d52e997068b8ffe5670fd525",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-347.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.13,
+    0.391,
+    0.652,
+    0.912
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits in a studio setting, wearing a white baseball cap, a black hoodie with the word \"BOSS\" in large gold letters, and a gold watch on his left wrist. He wears large over-ear headphones and sits behind a dark desk equipped with a professional microphone on a boom arm. Behind him is a white wall featuring several gold stars and the repeated text \"UNICORN HUSTLE\". To the right, a sign reads \"'Where BOSSES Talk!'\". A small black container on the desk displays the red and white text \"BOSS TALK ON!\". The man remains in a stationary seated position, looking slightly to his left with a neutral expression, his hands clasped in front of him on the desk. Across the sequence of frames, there is virtually no movement, and the composition of the scene remains constant."
+}

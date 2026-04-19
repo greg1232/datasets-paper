@@ -1,0 +1,15 @@
+{
+  "video_id": "12f98605b27a1f99fbeb3bc9f4871944",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-359.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.466,
+    10.398,
+    17.33,
+    24.262
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing black headphones and a black long-sleeved shirt is positioned in front of a professional condenser microphone mounted on a black boom arm. He is situated in a studio setting characterized by a dark, textured acoustic foam wall with a ribbed pattern. As the sequence progresses, the man maintains a relatively stationary position while speaking, though his facial expressions shift slightly. He looks upward and to the side with a focused expression, then shifts his gaze forward and slightly downward. His mouth moves in a speaking motion throughout the clip, and his eyebrows subtly lift and lower as he communicates. The camera remains in a static medium close-up shot, focusing on his head and shoulders, with no on-screen text or logos visible."
+}

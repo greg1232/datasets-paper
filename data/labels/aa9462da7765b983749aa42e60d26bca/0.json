@@ -1,0 +1,15 @@
+{
+  "video_id": "aa9462da7765b983749aa42e60d26bca",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-089.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.105,
+    0.315,
+    0.525,
+    0.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static graphic against a dark blue background with radial light streaks emitting from the center. A circular logo is prominently displayed, featuring a blue inner circle containing a stylized yellow and red floral or star-like pattern, enclosed by concentric silver rings. Directly beneath the logo, the text \"NPTEL\" appears in a white, bold, sans-serif font. Further down, the text \"NATIONAL PROGRAMME ON TECHNOLOGY ENHANCED LEARNING\" is written in white, all-capital letters across two lines. A bright light flare reflects off the upper right edge of the silver ring. The scene remains entirely stationary across the frames, with no movement of the text, logo, or background elements, and no people or other objects are present."
+}

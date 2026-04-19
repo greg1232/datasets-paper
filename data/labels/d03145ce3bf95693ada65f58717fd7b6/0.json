@@ -1,0 +1,15 @@
+{
+  "video_id": "d03145ce3bf95693ada65f58717fd7b6",
+  "url": "./data/segments/3E6ctN22V7k-Scene-119.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.475,
+    1.425,
+    2.375,
+    3.325
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young child and an older girl sit together outdoors against a brick wall, looking at an open book. The child wears a pink shirt, and the older girl wears a green top and a white crocheted hat. In the initial scenes, they are both focused on the book, which is held open by an adult's hands. As the scene progresses, the focus shifts to a close-up of a person's hand interacting with a small blue and green toy. Finally, the view returns to the young child, who is now looking at a small toy mushroom with a face and a red-and-white spotted cap. The child's pink shirt features a small heart and the word \"FULL\" printed on the front. Throughout the sequence, the interaction remains centered on play and learning with various small objects."
+}

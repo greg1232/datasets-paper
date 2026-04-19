@@ -1,0 +1,15 @@
+{
+  "video_id": "d5d5ac4794a1f155e96d83af296a071e",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-084.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.227,
+    0.681,
+    1.135,
+    1.59
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is visible in the foreground, positioned over a stack of white boxes topped with a yellow box on a table decorated with a palm tree motif. In the background, a man wearing a dark blue t-shirt with a yellow circular logo sits in a chair, looking toward the left. The setting includes professional equipment, such as a microphone and a monitor. On-screen graphics feature the text \"JASPYS\" in orange and white, accompanied by the website \"CASEBREAKS.COM\". Throughout the sequence, the hand moves toward the yellow box, eventually grasping it and lifting it upward. The man in the background remains seated, observing the action. The background environment and the on-screen logos remain constant as the focus of the action is the removal of the yellow box from the stack."
+}

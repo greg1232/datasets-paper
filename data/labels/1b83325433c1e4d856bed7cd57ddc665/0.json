@@ -1,0 +1,15 @@
+{
+  "video_id": "1b83325433c1e4d856bed7cd57ddc665",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-145.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with grey hair and glasses stands behind a wooden podium, speaking into a black microphone. He is wearing a light blue button-down shirt featuring an eagle graphic and a beaded necklace. A green and yellow fabric sash is draped across his chest. The setting appears to be indoors, with a background of light-brown horizontal blinds. The word \"ORCA\" is displayed in white capitalized letters within a small white box on the right side of the scene. Across the sequence of frames, the man remains in a stationary position behind the podium, gesturing slightly with his hands as he speaks. His facial expression and posture shift subtly as he talks, while the background and on-screen text remain constant."
+}

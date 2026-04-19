@@ -1,0 +1,15 @@
+{
+  "video_id": "1d9237e44ca19814a0cc5a427107d09c",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-168.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.512,
+    1.537,
+    2.562,
+    3.587
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with stacks of white and yellow cardboard boxes on a table covered with a beach-themed cloth featuring palm trees. In the background, a man wearing a black t-shirt with a yellow logo sits in front of a computer monitor. The on-screen graphics include the logos \"JASPYS LIVE\" and \"CASEBREAKS.COM\". As the sequence progresses, the hands move a yellow box from the top of a white stack, lifting it up and then setting it back down on a different white stack of boxes. The scene maintains a consistent setting throughout, focusing on the repetitive movement of the boxes. Small items, including what appear to be trading cards, are scattered on the table near the stacks. The man in the background remains seated and observant as the boxes are manipulated."
+}

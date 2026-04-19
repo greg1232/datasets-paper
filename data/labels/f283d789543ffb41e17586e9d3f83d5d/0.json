@@ -1,0 +1,15 @@
+{
+  "video_id": "f283d789543ffb41e17586e9d3f83d5d",
+  "url": "./data/segments/3L_uHTClWfk-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.125,
+    1.875,
+    2.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital representation of the Statue of Liberty stands under a dark, moody sky, with her right arm raised holding a torch. The scene is filled with numerous oversized stacks of United States currency that float and swirl around the statue. In the initial moments, many stacks are scattered in the air and piled around the base of the statue. As the sequence progresses, the stacks of money shift and tumble through the air, with some falling toward the ground while others continue to drift. The movement of the currency creates a chaotic atmosphere around the stationary figure. The lighting is dim, emphasizing the greenish hue of the statue and the pale color of the money against the deep blue and grey tones of the background. No people or on-screen text are visible in the scene."
+}

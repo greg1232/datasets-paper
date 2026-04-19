@@ -1,0 +1,15 @@
+{
+  "video_id": "e17ff3ec16c3ebc34473cc1393aabcfd",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.945,
+    2.835,
+    4.725,
+    6.615
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video consists of a presentation slide for a \"CRYOGENIC ENGINEERING\" course, specifically \"Tutorial \u2013 4\". The content focuses on the \"Work/unit mass of gas compressed,\" providing a formula $\\frac{W}{m} = T_1(s_1 - s_2) - (h_1 - h_2)$ and a data table. The table lists values for pressure (p in bar), temperature (T in K), enthalpy (h in J/g), and entropy (s in J/gK) across states 1, 2, f, and g. Below the table, a numerical calculation is shown: $\\frac{W}{m} = 300(4.4 - 2.75) - (462 - 430) = 463\\text{ J/g}$. The footer identifies \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" and includes an \"NPTEL\" logo. Across the sequence of frames, the only change is the progression of the calculation line, which is partially written in the first frame and fully completed in the subsequent frames. No people are visible."
+}

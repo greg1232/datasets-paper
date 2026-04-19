@@ -1,0 +1,15 @@
+{
+  "video_id": "fe8ea35423dd3948241d0c6359f6d8f0",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.755,
+    2.265,
+    3.775,
+    5.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video showcases a modern architectural complex featuring large, curved silver metallic structures and glass facades under a clear blue sky. A walkway leads toward the main building entrance across a paved plaza. A red graphic banner overlays the lower left and center of the scene, featuring a circular logo that reads \"DAILY ROUND-UP\". Over the course of the clip, a white text headline appears on the red banner, stating, \"European Human rights court overturns convictions of 11 BDS activists in France\". The text slides in from the right, becomes fully visible, and then slides out to the right, leaving only the word \"nce\" visible at the end of the sequence before it disappears completely. No people are visible in the scene."
+}

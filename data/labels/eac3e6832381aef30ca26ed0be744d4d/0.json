@@ -1,0 +1,15 @@
+{
+  "video_id": "eac3e6832381aef30ca26ed0be744d4d",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-120.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.563,
+    1.689,
+    2.815,
+    3.941
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a sparse, neutral-toned room, three people wearing face masks are seated in a row. On the left, a woman wears a black sweatshirt with a red \"M\" logo and holds a piece of white paper. In the center, a man wears blue scrubs and holds papers in his lap. On the right, a man wears a black t-shirt and light-colored pants. The woman and the man in scrubs are seated in chairs, while the man on the right sits on a bench. On-screen text appears at the bottom of the scene, with a purple circle containing \"Day 5\" on the left and \"Sim Week\" accompanied by a small logo on the right. Across the sequence, the three individuals remain seated and relatively still, maintaining their positions and gaze while the man in the center slightly adjusts the papers in his hands."
+}

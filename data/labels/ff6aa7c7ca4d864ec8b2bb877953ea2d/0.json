@@ -1,0 +1,15 @@
+{
+  "video_id": "ff6aa7c7ca4d864ec8b2bb877953ea2d",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-333.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.1,
+    3.3,
+    5.5,
+    7.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark green t-shirt, a matching green baseball cap, and over-ear headphones is speaking into a professional microphone in a room filled with clothing and memorabilia. The man's t-shirt features the text \"YON NEVER DO SHIT\" in white lettering. He is positioned in front of a wall decorated with several framed photographs. To his right, a white mannequin wears a white garment, and racks of clothing are visible in the background. Across the frames, the man shifts his expression and posture; he begins by speaking, then turns his head to the right and touches his shoulder, and finally looks toward the right with a smile. Two logos appear at the bottom of the scene: a circular logo on the left and a red text logo on the right that reads \"BADDY RELLY\"."
+}

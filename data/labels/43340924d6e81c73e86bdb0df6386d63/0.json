@@ -1,0 +1,15 @@
+{
+  "video_id": "43340924d6e81c73e86bdb0df6386d63",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation room, several people in scrubs and clinical attire are gathered around a medical mannequin lying on a white gurney. A person in a pink shirt stands to the left, while others in dark blue scrubs and masks perform procedures on the patient. One person wears blue gloves and works near the mannequin's chest. The background features medical equipment, shelving, and a white wall. A checklist of learning objectives is overlaid on the screen, with items including \"Trauma resuscitation,\" \"Admission order writing,\" \"ED Consultation/IV trainer,\" and \"Evaluation of shortness of breath in clinic.\" The logo \"Sim Week\" appears next to this list. As the sequence progresses, the camera angle remains consistent, and the medical team continues their coordinated efforts around the patient. A final line of text, \"Ex lap with splenectomy and bowel resection,\" becomes visible at the bottom of the list."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7b57fc696fb7d1741baa465c7e8d5ce8",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-120.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.766,
+    2.297,
+    3.828,
+    5.359
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair, wearing a striped shirt and a black headset with a microphone, is captured in a series of frames. She is positioned in an indoor setting, with a light-colored wall behind her and a window draped with a sheer yellow curtain and a blue curtain to the left. A flat surface, possibly a ledge or shelf, is visible in the background to her right. Across the sequence, the woman remains in a static position, facing the camera. Her expression remains relatively neutral, though her mouth moves slightly as if she is speaking. The text \"Nancy Damya\" appears in the lower-left corner of each scene. There are no other people present, and the environment remains unchanged throughout the clip."
+}

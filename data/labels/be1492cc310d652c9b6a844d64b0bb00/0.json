@@ -1,0 +1,15 @@
+{
+  "video_id": "be1492cc310d652c9b6a844d64b0bb00",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-076.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    16.533,
+    49.6,
+    82.666,
+    115.732
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The image shows a financial trading interface displaying a stock chart for \"Vistra Corp\" with the text \"Elec power bu\". The chart features green and red candlesticks tracking price movements over time, with a black trend line and various technical indicators. On-screen text includes labels like \"MACD (12,26,9,1,1,UpColorDefault...)\" and \"Stochastic Slow (High,Low,Close,14,3,3,1,20,80)\". Technical analysis markings are present, including letters such as \"D\", \"E\", \"F\", \"L\", \"G/C\", and \"T\", along with dashed lines and colored zones indicating support and resistance. Across the frames, the layout remains identical, though minor updates occur in the indicator values and current price positioning. A bottom banner contains technical readouts such as \"CW projections (0.5,BLACK,FR_RE)\". The display is a static layout of multiple identical chart views arranged to show the same market data."
+}

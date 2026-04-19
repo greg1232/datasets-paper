@@ -1,0 +1,15 @@
+{
+  "video_id": "7d8c5a91b8729e2acb9204fd064d3e9d",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.196,
+    0.588,
+    0.98,
+    1.372
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a red and black plaid garment stands on a dark, wooded ground, illuminating the earth with a bright flashlight. The beam of light focuses on the dirt, scattered dried leaves, and small patches of green foliage. As the person moves, the flashlight beam shifts slightly across the terrain, highlighting different areas of the forest floor. The person's feet are partially visible at the bottom of the frame, remaining in a stationary or slightly shifting position as they look down. The environment is otherwise completely dark, with the intense white light of the flashlight creating a stark contrast against the deep shadows of the surrounding night. There are no other people, objects, or text visible in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b1c29046db33f37eb6fa9c35b6d3b86b",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    40.857,
+    122.572,
+    204.287,
+    286.002
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The image displays eight separate financial stock charts arranged in two rows. The top row features four charts, with the second and fourth charts labeled \"iShares Russell 2000 ETF\" and \"Mxt Vectors Semiconductor ETF,\" respectively. The bottom row consists of four charts, including one labeled \"Dollar Index\" and another titled \"US DollarJapanese Yen.\" Each chart includes candlestick patterns, moving average lines, and indicators such as MACD and Stochastic Slow. Numerical values, percentages, and dates like \"11/12/22,\" \"11/26/21,\" and \"1/2022\" are scattered across the price axes and markers. The background of the charts is white with light grey grid lines. The overall composition shows a technical analysis of various market indices and currency pairs, utilizing a consistent layout of price action on top and oscillators at the bottom of each individual pane."
+}

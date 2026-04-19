@@ -1,0 +1,15 @@
+{
+  "video_id": "ee7da49191c452669819089b983fcc72",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.165,
+    0.494,
+    0.823,
+    1.152
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blonde hair, wearing a dark blue t-shirt and white headphones, appears in a small video overlay in the lower-left corner of a video game screen. He is speaking and gesturing with his right hand. The background of the game screen is dark purple and titled \"UNOPENED PACKS\" in the upper-left corner. At the top right, several numbers and icons are visible, including \"173,037,\" \"14,860,\" \"2,343,543,\" \"LV 19,\" and \"90.\" Several stylized black gift boxes with the word \"PRESENT\" written vertically on them are displayed in the center. Below these boxes, a menu bar lists options including \"ST PRESENT x4,\" \"SMALL PRESENT x6,\" \"LOVELY PRESENT x1,\" and \"BLITZ PRESENT.\" A \"BACK\" button with a red icon is located at the bottom. Across the frames, the scene remains largely static, with only slight changes in the man's facial expression and hand position as he speaks."
+}

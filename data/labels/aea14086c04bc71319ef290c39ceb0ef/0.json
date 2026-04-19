@@ -1,0 +1,15 @@
+{
+  "video_id": "aea14086c04bc71319ef290c39ceb0ef",
+  "url": "./data/segments/3l84m5pRmyk-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.254,
+    0.763,
+    1.272,
+    1.781
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static shot captures a promotional poster for a tech event. The poster features several company logos, including \"EMC\u00b2,\" \"IBM,\" \"pentaho,\" \"Teradata,\" \"bmc,\" \"syncsort,\" \"informatica,\" and \"tresata.\" Text on the poster invites viewers to \"Don't Miss the CUBE Party at #BigDataSV,\" noting it occurs on \"February 18, 15\" from \"7pm-9pm\" at the \"Fairmont San Jose.\" Additional text directs viewers to \"Explore Big Data Research and Analysis\" at \"premium.wikibon.com/big-data\" and mentions \"Watch live: SiliconANGLE.tv,\" \"News: SiliconANGLE.com,\" and \"Replays: YouTube.com/SiliconANGLE.\" The background is dark and out of focus, with vertical structures visible behind the poster. The scene remains virtually unchanged across the frames, showing a consistent, still image of the advertisement without any people present or movement within the shot."
+}

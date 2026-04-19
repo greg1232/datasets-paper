@@ -1,0 +1,15 @@
+{
+  "video_id": "722aa937b23569deb8a7322bdde16450",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.554,
+    1.662,
+    2.771,
+    3.879
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person prepares food in a kitchen setting, as seen through a video clip. A large metal mixing bowl holds a mixture of pale, grain-like food and small white pieces. In the top-left frame, the person's hand pours more of the food mixture into the bowl. In the following frames, the hand moves to stir and mix the ingredients. A white plate with more food and a small red bowl containing white pieces sit on a wooden surface behind the mixing bowl. A circular inset in the bottom-left of each frame shows a woman with short blonde hair wearing a black top. Each frame features a logo in the top-left corner with the text \"UCAR CENTER FOR SCIENCE EDUCATION\" set against a background of blue sky and clouds. The scene progresses from pouring ingredients to mixing them by hand."
+}

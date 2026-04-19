@@ -1,0 +1,15 @@
+{
+  "video_id": "35350babf140e9227b7a3a5759f8736e",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.615,
+    4.845,
+    8.075,
+    11.305
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a presentation slide for a course on \"CRYOGENIC ENGINEERING\" titled \"Tutorial \u2013 4\". The slide is hosted by NPTEL and features the name \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" at the bottom. The content focuses on calculating the \"Work/unit mass of gas liquefied,\" providing the formulas $\\frac{W}{m} = 486.2$ and $y = 0.0215$. A calculation follows, showing $\\frac{W_{c}}{m_{l}} = \\frac{W_{c}}{y m} = \\frac{486.2}{0.0215} = 22613.95\\text{ J / g}$, which is highlighted by a yellow rectangular box. Across the sequence, the slide remains static until the final frame, where a new section titled \"Figure of Merit (FOM)\" appears below the previous calculations, introducing the expression $\\frac{W}{m_{l}} = 22613.95$. The layout is consistent, with a blue header and footer and the NPTEL logo in the bottom left corner."
+}

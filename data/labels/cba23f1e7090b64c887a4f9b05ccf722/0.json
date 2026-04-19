@@ -1,0 +1,15 @@
+{
+  "video_id": "cba23f1e7090b64c887a4f9b05ccf722",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-114.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.488,
+    1.464,
+    2.44,
+    3.416
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with long hair and glasses, wearing a white shirt, a dark vest with embroidery, and a red decorative necklace, stands before a microphone and sings. He is positioned in front of a wall with vertical wood panels and horizontal slats. In the foreground, the backs of several people's heads are visible, including individuals with blonde and grey hair. The man holds a guitar, though only parts of the instrument are visible. The text \"ORCA\" appears in a white box on the right side of the scene. Across the sequence of frames, the man remains in the same position, his mouth moving as he sings, while the audience in the foreground remains still. The lighting and setting remain constant throughout the clip."
+}

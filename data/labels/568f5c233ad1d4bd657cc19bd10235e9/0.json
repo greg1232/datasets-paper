@@ -1,0 +1,15 @@
+{
+  "video_id": "568f5c233ad1d4bd657cc19bd10235e9",
+  "url": "./data/segments/3P1vSUbet40-Scene-0977.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.412,
+    1.236,
+    2.059,
+    2.883
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits in a studio setting, wearing a black t-shirt that reads \"CHECK IT\" and a black baseball cap. He wears headphones and speaks into a professional microphone positioned in front of him. In the background, a white wall features a repeated pattern of five yellow stars and the word \"HUSTLE.\" A red logo reading \"BOSS\" is partially visible behind him. On-screen graphics include a logo on the left that reads \"STUDIO PODCAST\" and text on the right that says \"BOSS TALK 101\" and \"By: I Love Gsubs.\" Across the sequence, the man is actively gesturing with his hands while speaking. He begins with both hands raised and open, then brings his right hand closer to his face. In the final sequence, he lowers his hands and shifts his gaze slightly to the side while continuing to talk."
+}

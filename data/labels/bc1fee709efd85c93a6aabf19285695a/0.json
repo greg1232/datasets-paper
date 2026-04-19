@@ -1,0 +1,15 @@
+{
+  "video_id": "bc1fee709efd85c93a6aabf19285695a",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-330.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.387,
+    0.646,
+    0.904
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blonde hair is seen in a small inset window, while the main view shows a simulated American football game on a green field. The game features players in white and black uniforms. In the top row, a player in a white uniform stands facing right, and the text \"FEARLESS\" and \"GOOD ACCURACY BULLET PASS\" appears on the screen. The game interface displays \"1st & 10\", \"2nd 2:17 29 :23\", and logos for \"FedEx\" and \"ULTIMATE TEAM\". As the action progresses into the bottom row, the player in white moves forward, and the game clock updates to \"2nd 2:16 29 :23\". The text \"USER HARD CUT\" briefly appears in the upper right area of the field. The player in white continues to advance toward the right side of the field while other players in black and white move around them."
+}

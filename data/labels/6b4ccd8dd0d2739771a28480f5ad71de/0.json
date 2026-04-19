@@ -1,0 +1,15 @@
+{
+  "video_id": "6b4ccd8dd0d2739771a28480f5ad71de",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-461.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.001,
+    3.003,
+    5.005,
+    7.007
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a dark complexion wearing a green baseball cap, black headphones, and a green t-shirt sits before a professional microphone in a room filled with framed photos and clothing on racks. His t-shirt features the white and red text \"ION NEVER DO SHIT AT WORK\". In the background, a white mannequin wears a white t-shirt, and various garments hang on racks. Two logos appear on the screen: one on the left is a black circle containing \"RED DOT\" and another on the right is red text that reads \"RED DOT 101\". Across the sequence, the man is speaking into the microphone, shifting his facial expression from a neutral look to a slight smile. His head movements are subtle as he continues to talk, while the surrounding environment and equipment remain stationary."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "53d324d89d9eb8a417dc55f90384ea55",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-285.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.073,
+    0.219,
+    0.365,
+    0.511
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt and a matching green baseball cap is seated in a studio setting, speaking into a professional microphone. He is positioned in front of a backdrop that includes the words \"UNIQUE FASHIONS\" and \"VEM VIRTUAL REALITY,\" along with a shield-shaped logo. To his side, clothing items are visible on racks. On-screen graphics include a circular logo that says \"THE REAL\" and text that reads \"TALK 10.\" The man is gesturing with his right arm as he speaks, and his hand moves further across the frame from the first to the last sequence. A second microphone is visible on the right side of the frame, suggesting another person is present off-screen. The text on his shirt is partially visible, with \"WORTH US\" being legible. The overall scene remains static except for the man's facial expressions and the movement of his arm as he talks."
+}

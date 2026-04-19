@@ -1,0 +1,15 @@
+{
+  "video_id": "71bcdd97f97ecb76796b8363c4854366",
+  "url": "./data/segments/3E6ctN22V7k-Scene-102.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.52,
+    1.56,
+    2.6,
+    3.64
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young boy with dark skin, wearing a blue collared shirt, is seen in a close-up shot focusing on his face and hands. He is reading from an e-reader held in his hands. The device displays a page of French text, including a visible page number at the bottom that reads \"5 / 302\". As the sequence progresses, the boy remains focused on the screen, his lips slightly moving as if reading aloud or concentrating on the words. His right hand holds the side of the tablet, and his left hand is positioned at the bottom. The background is dimly lit and out of focus, suggesting an indoor setting. The scene remains static in terms of composition, with only slight movements of the boy's facial expressions and hands as he engages with the digital book."
+}

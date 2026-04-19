@@ -1,0 +1,15 @@
+{
+  "video_id": "86eaea9f5c3ee5d514c672f47bd11fac",
+  "url": "./data/segments/3Z229_lKLpk-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.405,
+    1.215,
+    2.025,
+    2.835
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a formal indoor setting, a group of men are seated in rows of wooden desks and chairs. Most are wearing white traditional shirts or kurtas, while some wear blue shirts and one man in the front row wears an orange shirt. The men are seated and largely motionless, facing forward. In the foreground, a man in a white shirt sits with his hands clasped, looking toward the center of the room. The background reveals several rows of other men, some looking forward and others slightly to the side. The room has a light-colored carpet and a professional, parliamentary-style arrangement of seating. Across the sequence of frames, the scene remains nearly static, with only subtle shifts in the posture and gaze of the individuals. There is no on-screen text, logos, or equipment visible beyond the furniture."
+}

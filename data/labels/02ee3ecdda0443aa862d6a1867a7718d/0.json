@@ -1,0 +1,15 @@
+{
+  "video_id": "02ee3ecdda0443aa862d6a1867a7718d",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-269.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.335,
+    1.005,
+    1.675,
+    2.345
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark cap is visible in a small webcam window in the upper right corner of a screen-sharing session. The main portion of the screen displays a presentation titled \"Rural Community Food System.\" The slides contain text such as \"13R Retailers \\| local & Produ,\" \"Changing Mental Models,\" and \"Retailers willing to source supply, relative to demand.\" A complex system map with interconnected nodes and lines is visible on the right side of the slides. As the presentation progresses, the cursor moves across the screen, and the slides transition to a new page titled \"Version X.\" This slide lists several points, including \"01R Local Sustainable,\" \"02R Local Availability,\" \"03R Potential Local,\" \"04R Demand Rules & Rigs,\" and \"05R Transformation Campaig.\" The browser tabs at the top indicate that multiple documents and tools are open for the presentation."
+}

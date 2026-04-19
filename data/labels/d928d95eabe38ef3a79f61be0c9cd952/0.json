@@ -1,0 +1,15 @@
+{
+  "video_id": "d928d95eabe38ef3a79f61be0c9cd952",
+  "url": "./data/segments/3Sq594WkayE-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.417,
+    4.25,
+    7.083,
+    9.917
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A coastal scene unfolds along a beach with dark, rocky cliffs overlooking a choppy sea under an overcast sky. In the initial view, white-capped waves roll toward the shore near the base of the cliffs. As the scene shifts, the focus moves to a person standing in the shallow surf. The individual is wearing a dark short-sleeved shirt and dark shorts, facing away from the camera while standing in the white foam of a receding wave. In the final moments, a thin, vertical white line appears overlaid on the person's body, and the word \"Simulation\" is displayed in white text at the bottom of the frame. The overall lighting is dim and muted, consistent with a cloudy day at the coast."
+}

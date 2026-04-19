@@ -1,0 +1,15 @@
+{
+  "video_id": "0a8787373a4aacea6480ec9fcc0bf78d",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-318.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.256,
+    0.769,
+    1.281,
+    1.794
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grayscale video sequence shows an American football game on a field with white yard markers and \"30\" marked on the turf. In the initial scene, a player in a dark uniform is positioned behind a circular on-screen marker with the text \"Postrure\" and \"CHUNG\" nearby. As the action progresses, the player sprints forward across the field. In subsequent views, the perspective shifts to a wider angle, revealing other players in light and dark uniforms scattered across the field, some standing and others in motion. One player wearing a jersey with the number \"42\" is seen running, positioned over a circular marker featuring an \"X\" and the word \"Run\". The scene transitions from a close-up focus on a single player's movement to a broader view of the team's coordination on the gridiron."
+}

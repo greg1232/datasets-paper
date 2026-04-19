@@ -1,0 +1,15 @@
+{
+  "video_id": "df69dd6a05ff48d831577d589e9bc870",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-068.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.005,
+    6.015,
+    10.025,
+    14.035
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser window displaying a complex, interactive network map on a black background. The map consists of various circular icons connected by blue lines, featuring labels such as \"insights,\" \"Introduction to Kumu,\" and \"Rural Community Food System.\" In the top right corner of the browser, a small video feed shows a man wearing a dark blue baseball cap and a dark shirt. Overlaid on the center of the network map is a white rectangular window containing an illustration of a cartoon character holding a large red magnet. As the sequence progresses, the cursor interacts with the map, causing certain nodes to shift slightly and a new dark grey circular icon to appear and move toward the center of the diagram. The browser tabs at the top show titles like \"Trust & Learning by Systemic,\" \"Future of Society by Systemic,\" and \"Insights | Introduction to Kumu.\""
+}

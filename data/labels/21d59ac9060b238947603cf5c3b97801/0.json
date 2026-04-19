@@ -1,0 +1,15 @@
+{
+  "video_id": "21d59ac9060b238947603cf5c3b97801",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-079.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.99,
+    1.385
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a graded sports card in a clear plastic case over a table decorated with a tropical-themed mat featuring green palm trees. In the background, a man wearing a dark t-shirt sits in a chair, visible within a small inset video window. The setting includes a desk with various items, and the text \"JASPYS CASEBREAKS.COM\" appears as a logo in the upper portion of the scene. Across the sequence, the person's hand moves the graded card, shifting it from a close-up view to a wider shot of the table. A stack of white and yellow boxes sits on the table, which the hand moves toward in the later frames. The man in the inset window remains seated, watching the process. The overall scene captures the handling of a collectible card during a broadcast or recording session."
+}

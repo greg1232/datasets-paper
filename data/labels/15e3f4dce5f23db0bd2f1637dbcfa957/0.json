@@ -1,0 +1,15 @@
+{
+  "video_id": "15e3f4dce5f23db0bd2f1637dbcfa957",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-112.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.92,
+    11.76,
+    19.6,
+    27.44
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A male news presenter with glasses, wearing a dark suit, white shirt, and a purple tie, speaks to the camera in a studio setting. He is positioned against a blue background featuring a stylized map of Africa and the text \"PLUS POLITICS\". To his left is a vertical red banner with the \"plus tv\" logo. A news ticker at the bottom of the screen consistently displays the headline \"PLUS POLITICS\" followed by \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\". Across the frames, the presenter's facial expression and hand gestures shift slightly as he speaks, while the information bar at the bottom changes. It initially shows \"WATCH ONLINE\" and \"WWW.PLUSTVAFRICA.COM/LIVE-TV\", then switches to \"SUBSCRIBE\" and \"WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE\", and finally displays \"WATCH ON DStv CH 408\" and \"StarTimes CH 308\" alongside another \"SUBSCRIBE\" link for \"WWW.YOUTUBE.COM/PLUSTVAFRICA\"."
+}

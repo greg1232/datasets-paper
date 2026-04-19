@@ -1,0 +1,15 @@
+{
+  "video_id": "09597acb80b8262345888fd403f51f47",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-128.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.763,
+    2.29,
+    3.816,
+    5.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation of an operating room, several healthcare professionals wearing blue scrubs, surgical caps, and masks are gathered around a patient on a table covered by blue surgical drapes. A person in blue surgical attire stands on the left, leaning over the patient, while others assist or observe. In the background, a person in green scrubs stands near the head of the table. The scene is illuminated by bright surgical lights. A purple banner across the bottom of the frames displays a female silhouette icon and the text \"Day 5\", \"ExLap on OR\", and \"Sim Week\". As the sequence progresses, a person wearing a grey surgical cap and blue gown enters from the right and moves closer to the surgical site, placing their hands on the patient's draped side to assist the primary provider. The positions of the staff shift slightly as they coordinate their actions during the procedure."
+}

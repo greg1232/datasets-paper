@@ -1,0 +1,15 @@
+{
+  "video_id": "def4adeffa4f12028d3e08da476458f3",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-122.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.089,
+    0.266,
+    0.443,
+    0.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a podcast studio, wearing a white baseball cap, large black over-ear headphones, and a black hoodie featuring a gold logo that reads \"BOSS TALK 101\". He sits behind a desk equipped with a professional black broadcast microphone on a swivel arm. Behind him, a white backdrop displays a repeating logo with five stars and the words \"UNION HUSTLE\". A blue sign on the wall above reads \"BOSS Where BOSSES Talk!\", and a larger red and white sign below it says \"TALK 101\". On the desk, there is a black equipment case and a black mug with red and white text that says \"TALK 101\". Across the sequence, the man remains relatively still, looking slightly to his left with a neutral expression, while the camera angle and his position remain constant."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "bdda0305274747d4075f16aa9c388577",
+  "url": "./data/segments/3P5zYKAFzh4-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    11.649,
+    34.947,
+    58.246,
+    81.544
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short reddish-blonde hair and a light blue patterned shirt appears in a small video window on the left, while a man with glasses and a white goatee, wearing a light-colored button-down shirt, is shown in a larger window on the right. The man is in a room with a blue wall, featuring a framed picture and a white electrical outlet. On-screen text across the bottom indicates a program called \"FOCUS with Margaret Harrington\" on the left and \"No More Time Climate Crisis Poems by Greg Delanty\" on the right, accompanied by a \"TOWN MEETING TV\" logo. Across the sequence, the woman listens while the man speaks, his mouth moving as he talks. The visuals remain largely static, with only slight changes in the facial expressions and mouth movements of the two individuals as the conversation progresses."
+}

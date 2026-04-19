@@ -1,0 +1,15 @@
+{
+  "video_id": "c2d3449922196fec8b5e9c576e31834c",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-186.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.302,
+    0.906,
+    1.51,
+    2.115
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A hand holds up a sports trading card featuring a baseball player in a red jersey and cap, identified by text as \"CAL RIPKEN JR.\" The card is gold-bordered and includes a signature and the numbering \"5/5.\" The person holding the card is positioned against a background featuring a white surface with a blue and orange logo and green palm tree silhouettes. In the lower center of the frame, a smaller inset window shows a man with a beard and glasses wearing a dark shirt, sitting in front of computer equipment. On-screen text in red and white reads \"JASPYS LIVE CASEBREAKS.COM\". The sequence of frames shows a slight shift in the hand's position as it holds the card steady for the camera, while the man in the inset window remains seated, looking toward the camera."
+}

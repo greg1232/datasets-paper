@@ -1,0 +1,15 @@
+{
+  "video_id": "ca7d59788210f8ddf356de2b66dcccca",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-099.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.75,
+    2.25,
+    3.75,
+    5.25
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This news broadcast sequence features multiple graphic overlays and images of political figures. The screen displays a News18 India logo in the upper right and a \"BREAKING NEWS\" banner in red and yellow across the middle. Text in Hindi appears throughout, including headlines like \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\" and \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\". The visual content shifts between portraits of politicians, including Nitish Kumar, labeled \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930,\" and Santosh Suman, labeled \"\u092e\u0902\u0924\u094d\u0930\u0940 \u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928.\" A Twitter post from Akhilesh Yadav is visible, containing Hindi text. The lower portion of the screen features a ticker with the phrase \"\u0936\u092a\u0925\u0917\u094d\u0930\u0939\u0923 \u0915\u0947 \u092c\u093e\u0926 BJP \u0905\u0927\u094d\u092f\u0915\u094d\u0937 \u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e \u0915\u093e \u092c\u092f\u093e\u0928.\" Across the frames, the layout remains a news-style montage, transitioning between different headlines and portraits of figures such as Saprat Chaudhary and Vijay Sinha, while the time marker remains at \"10:05 PM.\""
+}

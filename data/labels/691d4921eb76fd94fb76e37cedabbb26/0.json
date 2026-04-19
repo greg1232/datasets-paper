@@ -1,0 +1,15 @@
+{
+  "video_id": "691d4921eb76fd94fb76e37cedabbb26",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-320.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.421,
+    1.264,
+    2.106,
+    2.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head, a dark beard, and a tattoo on his right arm is recorded in a sound-treated studio with gray acoustic foam panels on the wall. He is wearing a white t-shirt and black over-ear headphones. A professional silver microphone is positioned in front of him on a black boom arm; the text \"Rode PodMic\" is legible on the arm. As the sequence progresses, the man speaks and gestures with his hands. In the first frame, he looks slightly to the side with his left hand raised high. He then opens his mouth wider to speak while maintaining the hand position. By the final frames, he lowers his left hand and raises his right hand, gesturing with an open palm while continuing to talk. His facial expressions shift from a neutral look to an active speaking posture throughout the clip."
+}

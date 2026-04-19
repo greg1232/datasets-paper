@@ -1,0 +1,15 @@
+{
+  "video_id": "2485546b86a1f311360d119fdc80b4c9",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.202,
+    0.606,
+    1.01,
+    1.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands interact with several \"OBSIDIAN BASKETBALL\" trading card boxes on a black table featuring red and white graphics and the \"JASPYS CASEBREAKS.COM\" logo. In the initial sequence, a hand moves a box toward the center of the frame. As the sequence progresses, a person wearing a black shirt is visible in a small picture-in-picture window in the corner. One of the boxes prominently displays the text \"2 AUTOGRAPHS!\" and \"OBSIDIAN\" in bold, stylized lettering. The boxes are black with green and silver accents, featuring images of basketball players. The action shifts from moving the boxes across the table to showing a close-up of one box, which has a small blue and white sticker attached to its surface. The background remains consistent throughout, showing a desk environment with equipment and multiple stacked boxes."
+}

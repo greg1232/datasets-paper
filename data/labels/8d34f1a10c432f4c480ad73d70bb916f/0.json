@@ -1,0 +1,15 @@
+{
+  "video_id": "8d34f1a10c432f4c480ad73d70bb916f",
+  "url": "./data/segments/3P1vSUbet40-Scene-0270.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.6,
+    1.799,
+    2.998,
+    4.197
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a goatee, glasses, and a tall, spiky grey wig is seated in a room filled with framed pictures and clothing on racks. He wears a white long-sleeved shirt, a red bow tie, tan suspenders, and large black over-ear headphones. He sits before a black microphone, gesturing with his right hand as he speaks. The background features several framed photos on the wall and a \"LEE\" branded clothing display. Two identical logos are visible on the screen: one on the left reading \"THE BOSS TALK JOY PODCAST\" and one on the right reading \"BOSS TALK JOY\" with smaller text below it. Throughout the sequence, the man remains in the same position, continuing to speak and move his hand slightly, while the camera remains static."
+}

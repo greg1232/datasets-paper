@@ -1,0 +1,15 @@
+{
+  "video_id": "01e4de85eaa24b148abb9833d239b793",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-228.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.21,
+    3.629,
+    6.048,
+    8.467
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light skin, short brown hair, and a smile is pictured in a professional headshot, wearing a black suit jacket, white shirt, and striped tie. He is positioned on the right side of the screen against a background featuring blurred stock market candle charts. On the left side of the screen, a blue banner contains the name \"Basil Chapman\" and the text \"The Tiger Technicians Hour | June 8th, 2022\". As the sequence progresses, white text appears in the center of the screen. First, it displays \"45+ YEARS EXPERIENCE\". In the next frame, this text is replaced by \"LARRY WILL PROVIDE\" followed by \"DAILY CHARTS\" with a small arrow pointing right. Finally, the text expands to include \"LARRY WILL PROVIDE\", \"DAILY CHARTS\", \"VIDEOS\", and \"DATA ON THE KEY MARKETS\", with small arrows pointing toward the man's portrait."
+}

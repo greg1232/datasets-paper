@@ -1,0 +1,15 @@
+{
+  "video_id": "5e10357ff9a5df2fca04b7223d073d14",
+  "url": "./data/segments/3Z229_lKLpk-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.14,
+    0.42,
+    0.7,
+    0.98
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large assembly of people is gathered in a formal hall, likely a legislative chamber, where attendees are seated in tiered rows of brown wooden desks. The people are predominantly men wearing traditional Indian attire, including white kurtas and various colored vests or waistcoats. Many are looking forward or engaging in quiet conversation with those nearby. Some individuals are seated at the desks, while others lean back or shift their positions. Electronic screens or tablets are visible on several of the desks. Across the sequence of frames, there is very little movement; the scene remains static with only minor adjustments in the posture and head positions of the attendees. The lighting is bright and uniform across the room, highlighting the repetitive pattern of the wooden furniture and the densely packed crowd. No on-screen text or logos are visible."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4af155123c658f7772b7e29928dca85d",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-111.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.495,
+    1.485,
+    2.475,
+    3.465
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser open to a learning platform. In the top right corner, a man with a headset and glasses is visible in a video call window. The main area of the screen displays a conceptual map with various nodes connected by blue lines. A central node features an illustration of a person, linked to others including \"Cognitive load\" and \"Instructional scaffolding.\" Below these is a larger graphic depicting a shopping cart with the word \"SALK\" in large letters, accompanied by smaller text \"Self-directed learning.\" Other nodes include \"Metacognitive skills\" and \"Learning goals.\" As the sequence progresses, the layout of the map remains static, while the man in the video call remains present, though his expression and posture shift slightly. The browser tabs at the top include titles such as \"True Learning by Systemini\" and \"Future of Society by Systemini.\""
+}

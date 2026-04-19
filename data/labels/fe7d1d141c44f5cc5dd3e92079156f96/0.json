@@ -1,0 +1,15 @@
+{
+  "video_id": "fe7d1d141c44f5cc5dd3e92079156f96",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-531.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.418,
+    4.254,
+    7.09,
+    9.927
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt sits in a studio setting. His shirt features the white text \"ION NEVER DO SHIT\" with additional partially visible words below. He is positioned in front of a professional black microphone on a boom arm. The background consists of a wall decorated with numerous framed photographs and a clothing rack with various garments and a white mannequin. Red and white logos reading \"BOLLY TOT\" appear in the lower corners of the scene. Across the sequence, the man is speaking and gesturing; he begins by looking slightly to the side, then moves his right arm and hand forward while continuing to talk. His facial expressions shift as he speaks, moving from a neutral gaze to an open-mouthed expression while maintaining his position at the microphone."
+}

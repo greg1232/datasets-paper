@@ -1,0 +1,15 @@
+{
+  "video_id": "45d97be1dc6ddb8b10eccc7eb1699f2c",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-222.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.435,
+    1.305,
+    2.175,
+    3.045
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser with several open tabs, including titles such as \"Trust & Learning by Systemicity,\" \"Future of Society by Systemicity,\" and \"Road Community Food Spot.\" The main content of the browser is a video call featuring a man wearing a black baseball cap and a dark shirt in a small window in the upper right corner. The rest of the screen displays a complex conceptual map with various circular icons connected by blue lines. These icons contain images and text, including \"The-Common-Good,\" \"The-Economy,\" \"The-Government,\" and \"The-Environment.\" The map's layout remains static across the sequence. In the first frame, the video call window is larger and positioned more centrally; in the subsequent frames, it shifts slightly, and the man's head moves slightly as he speaks, while the overall browser layout and the conceptual map remain consistent."
+}

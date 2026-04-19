@@ -1,0 +1,15 @@
+{
+  "video_id": "f519a2fa228bf9cd1afdc587d036e239",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.345,
+    0.575,
+    0.805
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A virtual meeting is displayed via a video conferencing interface featuring a grid of participants. The participants include several men and women in various home settings. One man, wearing a blue shirt and glasses, is seen gesturing with his hands. Another man wears a grey shirt and headphones, and a third wears a blue shirt and a black baseball cap. A woman is seen resting her chin on her hand. Some participants are labeled with text such as \"Jerry McIntosh\", \"Howard S. Bruman\", \"Patrick Mulryan\", \"Bharat Berke\", \"Charles Masso\", \"Sriangdeedeling\", and \"Gyali Lajos\". In some views, one individual is labeled as \"Bero_collaborator\". The scene remains consistent across the frames, showing the same set of people in their respective environments, with slight changes in their facial expressions and hand gestures as they engage in the call."
+}

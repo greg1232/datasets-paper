@@ -1,0 +1,15 @@
+{
+  "video_id": "dfa2d88afe48784c9bdb58876aa6c174",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.781,
+    1.094
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with light-colored hair is visible in a small video overlay window, speaking while gesturing with their hand. The background behind them includes a decorated Christmas tree and a framed picture. This overlay is superimposed on a screen from a sports video game, showing a team \"LINEUP\" menu for \"DEFENSE.\" The interface features various player cards with photos, names, and stats, set against a dark red and black background. Across the top of the screen, numbers like \"173,037,\" \"14,669,\" and \"2,343,543\" are displayed next to a \"LV 19\" indicator. Navigation options such as \"BEST LINEUP,\" \"HELP,\" and \"BACK\" are visible at the bottom. Throughout the sequence, the game menu remains static, while the person in the overlay continues talking, with slight variations in their facial expressions and hand movements."
+}

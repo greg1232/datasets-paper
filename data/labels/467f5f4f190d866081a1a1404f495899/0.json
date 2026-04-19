@@ -1,0 +1,15 @@
+{
+  "video_id": "467f5f4f190d866081a1a1404f495899",
+  "url": "./data/segments/3Z229_lKLpk-Scene-171.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.535,
+    10.605,
+    17.675,
+    24.745
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with gray hair and a white beard, wearing a cream-colored traditional Indian vest over a long-sleeved light-colored shirt, speaks from a wooden podium. He stands before a textured green stone wall with geometric recessed patterns and gold-colored pillars with small pink floral accents. Two microphones are attached to the podium, extending toward him. As he speaks, his gestures change: initially, he stands relatively still with his hands resting near the podium; he then raises his right arm and hand in an emphasizing gesture; he subsequently lowers his hand and shifts his weight; and finally, he extends his left arm outward to the side. The setting and his attire remain constant throughout the sequence, with the only movement being his speaking expressions and arm gestures."
+}

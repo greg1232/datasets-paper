@@ -1,0 +1,15 @@
+{
+  "video_id": "f7f8f8d80de25eaefa9ed8df23a68c1b",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.065,
+    6.194,
+    10.323,
+    14.452
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's arm and hand are shown manipulating a white pole-like object over a cluttered area containing a red plastic container and various metallic parts. The scene then shifts to a close-up of a black, curved surface, possibly part of a vehicle, where a small, circular metallic object is visible. The focus moves to a white car body featuring a red rectangular emblem with the word \"CORVETTE\" written in white uppercase letters. Finally, the view transitions to a wider shot of the white car's side and wheel, with a blurred background showing a ground surface and a tire resting nearby. Throughout the sequence, the camera moves from a detailed view of a hand working with tools to specific exterior details of a white vehicle."
+}

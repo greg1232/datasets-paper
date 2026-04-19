@@ -1,0 +1,15 @@
+{
+  "video_id": "768a6d7db3fa5af92feaccf8d289c1d4",
+  "url": "./data/segments/3F2rz23IKUk-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.125,
+    1.875,
+    2.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a lecture-style room with grey concrete walls and tiered seating, several people are gathered. In the background, a person in a black shirt stands by a table with electronic equipment. In the foreground, a group of men sit in rows. One man wears a yellow t-shirt and a blue cap, while others wear grey or black shirts. A man in a grey t-shirt has a white circular logo on the back of his garment. As the sequence progresses, a man in a black shirt enters from the right side of the frame. He reaches out with his right arm toward the man in the yellow shirt. By the final frames, he has extended his arm fully, appearing to gesture or reach toward the seated group. The other individuals remain mostly stationary, observing the interaction."
+}

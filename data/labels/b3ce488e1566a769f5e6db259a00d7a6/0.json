@@ -1,0 +1,15 @@
+{
+  "video_id": "b3ce488e1566a769f5e6db259a00d7a6",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-136.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.535,
+    1.605,
+    2.675,
+    3.745
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser displaying a digital mapping tool on a dark background. The map contains several circular nodes connected by lines, with one node featuring a photo of people in a room filled with boxes and bags. A small circular profile icon of a person is visible nearby, accompanied by green text that reads \"Community Mapping.\" The browser's address bar shows a URL containing \"blackboard.ucla.edu,\" and several open tabs at the top include titles such as \"Truth & Learning by Systemdyn,\" \"Elements by Systemdyn,\" \"Future of Society by Systemdyn,\" \"Insights | Introduction | Kumu,\" and \"Rural Community Food Syste.\" In the top right corner, a small video feed shows a man wearing a dark baseball cap and a dark shirt. As the sequence progresses, the man in the video feed briefly disappears and then reappears."
+}

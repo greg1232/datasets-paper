@@ -1,0 +1,15 @@
+{
+  "video_id": "dbf0154bf71c2fd9f613ca0b509baa90",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.39,
+    1.169,
+    1.948,
+    2.727
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a pink sleeveless shirt is in an indoor gymnasium with a wooden basketball court, blue walls, and a basketball hoop in the background. He is gesturing with his hands, holding one arm up and the other across his chest to demonstrate a measurement. As the sequence progresses, he moves his hands and shifts his gaze toward the camera. In the final frames, white text appears at the bottom left of the image that reads, \"it's about 41 inches.... not great\". The man's facial expression remains neutral as he continues to gesture with his hands against the backdrop of the empty sports facility."
+}

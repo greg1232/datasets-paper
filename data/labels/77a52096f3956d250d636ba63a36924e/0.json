@@ -1,0 +1,15 @@
+{
+  "video_id": "77a52096f3956d250d636ba63a36924e",
+  "url": "./data/segments/3P1vSUbet40-Scene-0721.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.073,
+    0.219,
+    0.365,
+    0.511
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a white long-sleeved shirt, a red bow tie, and a tall, stylized grey wig, is seated in a studio setting. He wears large black headphones over his ears and sits before a professional microphone. The background consists of a wall adorned with numerous small, framed photographs. To his right, a white cabinet or storage unit is visible. Two distinct logos appear on the screen: a circular logo containing the text \"BOSS TALK\" and \"PODCAST,\" and red text that reads \"BOSS TALK 101\" followed by \"A Podcast by...\". Across the sequence of frames, the man remains in a similar seated position, speaking and shifting his facial expressions slightly, though his overall posture and the environment remain static."
+}

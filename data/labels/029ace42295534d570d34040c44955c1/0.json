@@ -1,0 +1,15 @@
+{
+  "video_id": "029ace42295534d570d34040c44955c1",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.26,
+    0.78,
+    1.3,
+    1.82
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video sequence features a split-screen layout showing a man on the left and a crowd on the right. The man wears a red patterned cap and a pink patterned garment, appearing to speak directly to the camera. To his right, several people are visible from the waist up, waving small flags with green, white, and red colors. At the bottom of the screen, a white banner displays the text \"PLUS POLITICS\" in a small red box, followed by the headline \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\" in bold black letters. Below this, a red bar contains white text; the first frame shows \"WATCH ONLINE\" and the website \"WWW.PLUSTVAFRICA.COM/LIVE-TV\", while subsequent frames change the text to \"SUBSCRIBE\" and the link \"WWW.YOUTUBE.COM/PLUSTVAFRICA\". Throughout the sequence, the man continues speaking while the crowd maintains their waving motions, with only slight shifts in their positions."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9cb3385808bf1680762e406c55fc2669",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-344.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.96,
+    5.881,
+    9.801,
+    13.722
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey baseball cap with a red and white logo, and large black headphones sits in a studio before a dark grey, textured acoustic wall. He is positioned in front of a professional microphone mounted on a shock mount and arm, which features a blue \"Blue\" logo on the hardware. Across the sequence, the man is speaking and gesturing with his hands. Initially, his right hand is raised slightly out of view, but as time progresses, he brings his right arm up and moves his hand in a sweeping motion in front of him. His facial expression remains focused as he speaks into the microphone, and his posture remains consistent while his hand movements animate his speech. No on-screen text is present other than the equipment brand."
+}

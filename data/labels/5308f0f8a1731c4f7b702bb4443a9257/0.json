@@ -1,0 +1,15 @@
+{
+  "video_id": "5308f0f8a1731c4f7b702bb4443a9257",
+  "url": "./data/segments/3fokLGPK15Q-Scene-100.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.97,
+    2.91,
+    4.85,
+    6.79
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A blonde woman is captured from the chest up, standing against a textured purple background. She is wearing a black t-shirt with the text \"WHO'S IN YOUR\" printed in a greyish-white font across the chest, though the bottom line of text is partially obscured. A small, flesh-colored headset microphone is positioned along her cheek. Across the sequence, the woman is speaking and shifting her gaze. Initially, she looks toward the left side of the frame with her mouth open. As the sequence progresses, she turns her head slightly toward the center, then closes her eyes briefly while tilting her head, and finally looks back toward the left with a slight smile. Her expressions and head movements are subtle, suggesting she is engaged in a presentation or a conversation."
+}

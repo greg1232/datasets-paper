@@ -1,0 +1,15 @@
+{
+  "video_id": "561d55455ff46a7b8390794fd46da236",
+  "url": "./data/segments/3rHRnfTOnJQ-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.862,
+    23.587,
+    39.312,
+    55.038
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a blue long-sleeved button-down shirt is seated at a keyboard in a studio setting. Behind him is a dark purple backdrop featuring a saxophone and a microphone on a stand. An overlay on the screen shows a musical staff with notes and specific text. In the first frame, the text \"C Major 3rd\" appears, and the man's hand is positioned over the keys. As the sequence progresses, he presses a set of keys on the keyboard, which are highlighted by a red vertical bar. The musical staff overlay updates to show a whole note. By the third frame, the on-screen text changes to \"D minor 3rd,\" and the notes on the staff shift. In the final frame, the man adjusts his hand position on the keyboard, continuing to play as the red highlight remains visible."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f8a784865b8b279db03e1e939aeebca7",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.955,
+    2.865,
+    4.776,
+    6.686
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown working on a holiday-themed card set against a light-colored wooden surface. The card features a black background with a white center panel and black foliage designs on the sides. It contains the printed text \"SENDING YOU A LITTLE Yuletide Cheer\". A small, silver, glittery ribbon is attached to the top right of the card. In the initial scenes, the person holds the card steady with their left hand while using their right hand to adjust and press down the silver ribbon. As the sequence progresses, the person's right hand reaches for and picks up a small, circular white container with a black label, likely containing adhesive or glitter, to be used on the card. The person is wearing a simple bracelet on their left wrist. Light blue paper scraps are visible in the upper corners of the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a845736f48f0c0c47ec11467a142d303",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.279,
+    0.837,
+    1.396,
+    1.954
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man appears in a small inset video window in the bottom left corner of a screen displaying a trading platform. The main interface features the \"TICKMILL\" logo and a financial chart with red and green shaded regions and price action lines. On the left side of the screen, German text reads, \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN,\" followed by a list of trading features and the website \"www.tickmill.com/de\". A sidebar on the right displays various currency pairs and numerical values. Across the sequence, the man in the inset window remains in the same position, wearing a dark shirt, and speaks toward the camera, his facial expressions shifting slightly as he talks. The trading chart and the surrounding interface remain static throughout the frames, while only the man's mouth and facial muscles move."
+}

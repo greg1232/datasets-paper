@@ -1,0 +1,15 @@
+{
+  "video_id": "39d334c17deed42d02fdb353ee2e4fcb",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-422.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.825,
+    1.375,
+    1.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair wearing a dark blue t-shirt is seen in a small picture-in-picture overlay against a blurred purple and red background. He is positioned in a room with a white brick wall, a computer monitor displaying the number \"20\", and a decorated Christmas tree to his left. In the initial frames, he looks surprised with his mouth open and points upward with his right index finger. By the final frame, he is smiling broadly. At the top of the screen, white text displays game statistics: \"172,729\", \"0\", \"14,600\", \"1,784,369\", and \"LV 20\", accompanied by a green circular icon containing \"91\". A small circular icon is visible on the right side of the background. The game stats remain mostly consistent, though the value \"1,784,369\" slightly changes to \"1,787,369\" in the final sequence."
+}

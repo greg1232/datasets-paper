@@ -1,0 +1,15 @@
+{
+  "video_id": "e1c47cbab74529f62e363f63a7de633d",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.676,
+    2.027,
+    3.378,
+    4.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is working on a craft project on a white wooden surface. In the initial scene, the person's left hand holds a small clear cap, while their right hand holds a small white plastic bottle containing a yellowish liquid. A small, square piece of teal fabric with a white pattern sits in the center of the workspace. As the sequence progresses, the person wears a grey ribbed long-sleeve shirt and a smartwatch with a metallic band on their left wrist. They manipulate the bottle with their right hand, appearing to apply the liquid to the teal fabric. A white card or piece of paper is partially visible on the left side of the surface, featuring the legible text \"rm neart\". The person's hands move steadily across the fabric, focusing on applying the liquid from the bottle."
+}

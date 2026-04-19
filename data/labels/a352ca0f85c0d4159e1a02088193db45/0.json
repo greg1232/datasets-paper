@@ -1,0 +1,15 @@
+{
+  "video_id": "a352ca0f85c0d4159e1a02088193db45",
+  "url": "./data/segments/3dN_F08u-KE-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.405,
+    4.215,
+    7.025,
+    9.835
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grayscale video captures a wide landscape shot of a distant horizon under a cloudy sky. In the center of the scene, a bright, vertical plume of light or smoke rises sharply from the ground, creating a stark white contrast against the dark grey background. A small red logo with the number \"13\" is visible in the top right corner of each frame. As the sequence progresses, the vertical plume remains centered in the distance, slightly shifting in intensity and shape while ascending. The surrounding terrain is flat and featureless, and no people, clothing, or other equipment are visible in the shot. The overall scene remains static except for the evolving column of light and the slow drift of clouds in the upper atmosphere."
+}

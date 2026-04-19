@@ -1,0 +1,15 @@
+{
+  "video_id": "cf64b624dda1cf46b911919a00488404",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-361.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.49,
+    1.469,
+    2.448,
+    3.427
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A split-screen layout presents a website for \"WWW.WAYESKABLEBREAKS.COM\" on the left and a video feed of a man on the right. The man, wearing a black baseball cap and a black t-shirt, sits in a room with a \"Garey's\" sign and a \"Lions\" logo visible in the background. On the left side of the screen, a long list of sports cards is displayed, including items like \"22- (1) NO LAN RY AN EVN 1997 1/1 AUTO\" and \"23- JOHN SMOLTZ 1/1 2005.\" Text at the bottom indicates the user has randomized a certain number of times, starting at \"You have randomized this 3 times\" and increasing to \"You have randomized this 5 times.\" A red YouTube \"Subscribe\" button and the text \"Hit the SUBSCRIBE button down below!\" are prominently featured. Throughout the sequence, the man remains relatively still while the text on the left side updates."
+}

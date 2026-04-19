@@ -1,0 +1,15 @@
+{
+  "video_id": "fe79c1c5f563223fedc05a39b9a9397f",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-068.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.759
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with long dark hair and glasses stands before a microphone, positioned against a backdrop of light brown wooden slats. They are wearing a white long-sleeved shirt under a black vest adorned with blue floral embroidery and a long, decorative beaded necklace featuring a red and black design. The person holds a light-colored acoustic guitar, though only the top portion of the instrument is visible. To the right of the individual, the text \"ORCA\" is displayed in white capital letters. Across the sequence of frames, the person remains nearly stationary, maintaining a focused expression with their eyes cast slightly downward. The lighting and composition remain consistent, with only minimal shifts in the person's posture and the slight movement of the guitar as they hold it, while the background and on-screen logo stay fixed."
+}

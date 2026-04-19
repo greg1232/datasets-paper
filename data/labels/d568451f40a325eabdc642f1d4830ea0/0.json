@@ -1,0 +1,15 @@
+{
+  "video_id": "d568451f40a325eabdc642f1d4830ea0",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-355.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.454,
+    25.363,
+    42.271,
+    59.18
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short greyish hair and headphones is sitting in a studio with sound-absorbing foam panels on the wall behind him. He is wearing a black jacket over a grey shirt and is positioned in front of a professional condenser microphone mounted on a boom arm. Across the sequence, the man remains stationary while his facial expression shifts. Initially, he looks upward and to the side with an attentive expression. He then shifts his gaze slightly to the right, maintaining a neutral look. Subsequently, he looks straight ahead with his eyes partially closed, and finally, he closes his eyes completely, tilting his head back slightly. The background, equipment, and clothing remain constant throughout the clip, with only the man's gaze and eyelids moving."
+}

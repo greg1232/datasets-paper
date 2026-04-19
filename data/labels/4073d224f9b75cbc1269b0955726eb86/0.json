@@ -1,0 +1,15 @@
+{
+  "video_id": "4073d224f9b75cbc1269b0955726eb86",
+  "url": "./data/segments/3fokLGPK15Q-Scene-085.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.89,
+    2.67,
+    4.45,
+    6.23
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands on a brightly lit stage during a live presentation, wearing a light-colored shirt. He is positioned to the left of a large circular screen that displays the text \"SLUSH\". The stage is filled with dynamic purple and blue laser beams that crisscross the space, creating a high-energy atmosphere. A small table with some equipment and a person partially visible behind it are situated to the right of the presenter. As the sequence progresses, the man moves slightly, gesturing with his hands as he speaks, and the laser beams shift their angles and patterns across the dark venue. The background is filled with the silhouettes of a large audience, though they remain largely obscured by the dramatic lighting. The overall scene captures a professional tech-style event with a focus on the presenter and the visual effects."
+}

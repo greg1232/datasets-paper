@@ -1,0 +1,15 @@
+{
+  "video_id": "afb0bf71789f7e913bb8ab809244ede2",
+  "url": "./data/segments/3P1vSUbet40-Scene-0420.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.782,
+    1.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde-highlighted hair tied up and wearing black headphones sits in a recording studio. She is wearing a black t-shirt with a white graphic on the chest and speaks into a professional microphone positioned in front of her. To her left is a screen displaying the name \"Johnson\" in red text. The background consists of a white wall and a black partition separated by a yellow vertical stripe. On-screen graphics appear in both the bottom left and bottom right corners; the left graphic says \"TALK 101 PODCAST\" and the right graphic reads \"BOSS TALK 101\". As the sequence progresses, the woman maintains her position while her facial expression shifts slightly as she speaks, moving from a neutral look to a subtle smile. The overall setting remains static throughout the frames."
+}

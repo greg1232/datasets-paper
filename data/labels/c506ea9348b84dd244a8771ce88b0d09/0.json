@@ -1,0 +1,15 @@
+{
+  "video_id": "c506ea9348b84dd244a8771ce88b0d09",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-320.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.339,
+    1.017,
+    1.694,
+    2.372
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a green t-shirt with the text \"ION NEVER DO SHIT\" speaks into a black professional microphone in a studio setting. The background features a wall covered in framed photographs and a clothing display area with a white mannequin wearing a white shirt and racks of colorful apparel. A black office chair is positioned behind the man. Two logos are visible on the screen: one on the left that reads \"BODE\" and another on the right that says \"BODE REALLY TOT.\" As the video progresses, the man remains in the same position, speaking and smiling slightly, with minimal movement in his expression and posture across the sequence. The setting and objects remain static while the man continues his conversation."
+}

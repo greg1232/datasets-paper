@@ -1,0 +1,15 @@
+{
+  "video_id": "1ed80d1b7e0dd8a5622d3cfc99b5a991",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-901.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.203,
+    0.61,
+    1.017,
+    1.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a studio setting, speaking into a professional microphone. In the initial scene, a man wearing a white baseball cap, a black hoodie, and headphones is captured from the chest up, leaning toward the microphone. As the scene shifts, the focus moves to another man wearing a green camouflage baseball cap, headphones, and a green t-shirt with the text \"ION NEVER DO SHUT\" printed on the front. This man is seen speaking and reacting with various facial expressions, shifting his gaze. The background features a wall adorned with framed photographs and a mannequin wearing a white shirt. A banner in the background reads \"Where BOSSES Talk!\". Logos for \"UNION HUSTLE\" and \"BOSS TALK\" appear throughout the frames. The camera alternates between the two men, capturing their interaction during a recording session."
+}

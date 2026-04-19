@@ -1,0 +1,15 @@
+{
+  "video_id": "af563f507d43c69d0f59f06f35f5102f",
+  "url": "./data/segments/3INb3jiuu6g-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.48,
+    1.44,
+    2.4,
+    3.36
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast captures a group of people seated in an assembly hall with green tiered seating. Several individuals are wearing white shirts, purple attire, or dark robes, and most are wearing white face masks. A man in a white shirt and a man in a dark robe and hat are prominent in the foreground, while others are seated behind them. A purple and white news banner across the bottom of the screen contains the text \"NEWS NOW,\" \"JUSUN STRIKE,\" and \"REPS URGE FG TO ENSURE SPEEDY RESOLUTION.\" The \"plustv\" logo appears on the right, and the text \"Watch us on DStv CHANNEL 408\" is visible at the bottom. Across the frames, the individuals remain mostly stationary, though slight movements in their posture occur. In the final frame, the text \"Follow us f t plustvafrica\" appears at the bottom right next to the channel information."
+}

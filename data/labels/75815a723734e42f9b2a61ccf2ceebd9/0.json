@@ -1,0 +1,15 @@
+{
+  "video_id": "75815a723734e42f9b2a61ccf2ceebd9",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.592,
+    1.777,
+    2.961,
+    4.146
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand and arm are seen interacting with a white informational poster displaying a diagram of medical and health-related applications. The poster features a central circle containing the text \"Powerful Chips that Consume Orders of Magnitude less Power,\" surrounded by several categorized sections. These sections include \"Food & Cosmetics,\" \"Substance Abuse,\" \"Oncology,\" \"Internal Air Quality,\" \"Outdoor Exposure,\" \"Exercise Monitoring,\" and \"Non Invasiv Diabetes.\" Each section is accompanied by small illustrative images. As the sequence progresses, the person points their finger to various parts of the poster, moving from the center towards the left side and then back toward the right, highlighting different categories and images. At the bottom of the poster, the phrase \"-Accepting Orders for Full Custom Systems\" is partially visible. The background is a plain white wall, and the person is wearing a light-colored sleeve."
+}

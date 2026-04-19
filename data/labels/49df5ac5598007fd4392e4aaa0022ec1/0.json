@@ -1,0 +1,15 @@
+{
+  "video_id": "49df5ac5598007fd4392e4aaa0022ec1",
+  "url": "./data/segments/3Kxl1O310k8-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.19,
+    0.57,
+    0.95,
+    1.33
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static presentation slide with a white background and a yellow border along the bottom. At the top, the phrase \"Work together to create a culture of support\" is written in dark gray text. Below this, five categories are presented side-by-side, each topped with a small yellow icon: a scale, a speech bubble, a link symbol, a location pin, and a lightbulb. Accompanying these icons is text advising to \"Balance people with places and systems,\" \"Tell 'story of us' rather than 'story of them',\" \"Connect housing to other social issues and outcomes,\" \"Where you live affects you,\" and \"Consider language that we use (e.g. home vs housing).\" To the right, a red rectangular banner reads \"'You Don't Have to Live Here'\" above a photo of a crowd of people. The logo \"MHP\" is visible in the bottom left corner. The visual content remains identical across all frames."
+}

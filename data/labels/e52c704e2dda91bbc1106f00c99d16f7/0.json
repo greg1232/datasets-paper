@@ -1,0 +1,15 @@
+{
+  "video_id": "e52c704e2dda91bbc1106f00c99d16f7",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-261.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.102,
+    0.306,
+    0.51,
+    0.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a sports trading card encased in a clear plastic protective slab, focusing on its details in a close-up view. In the background, a man wearing a dark navy blue t-shirt sits in a room, appearing as a smaller inset window. He is positioned behind a desk with a microphone and equipment. The environment features a surface decorated with green palm tree graphics and a logo that reads \"JASPYS CASEBREAKS.COM\". As the sequence progresses, the hands manipulate the encased card, tilting it to show different angles and then slowly sliding it out of a sleeve or holder. On-screen text repeatedly displays \"JASPYS CASEBREAKS.COM\" in a stylized orange and white font. The scene maintains a consistent indoor setting, transitioning only through the physical movement of the card being handled by the person in the foreground."
+}

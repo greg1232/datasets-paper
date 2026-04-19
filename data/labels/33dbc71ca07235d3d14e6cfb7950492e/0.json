@@ -1,0 +1,15 @@
+{
+  "video_id": "33dbc71ca07235d3d14e6cfb7950492e",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A light blue car is parked outdoors on a sunny day, with its polished surface and windows reflecting a cloudy sky and nearby green foliage. The side of the vehicle, including the side-view mirror and a door handle, is the central focus. A person is partially visible inside the car through the window, appearing as a dark silhouette against the reflections. As time progresses, the lighting shifts slightly across the car's body, and the reflections in the glass and on the paint subtly change, suggesting a slight movement of the camera or the surroundings. No text, logos, or other distinct objects are visible in the scene, which remains a close-up shot of the car's exterior."
+}

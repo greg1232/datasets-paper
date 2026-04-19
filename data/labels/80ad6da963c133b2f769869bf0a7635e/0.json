@@ -1,0 +1,15 @@
+{
+  "video_id": "80ad6da963c133b2f769869bf0a7635e",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.702,
+    5.105,
+    8.508,
+    11.912
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a financial trading screen featuring a stock chart for \"Vistra Corp\" with \"Elec power biz\" noted in a highlighted box. The chart tracks price movements over time, marked with letters A through F to denote specific price points. Multiple technical indicators are visible, including \"MACD\" and \"Stochastic Slow\" at the bottom, alongside a volume indicator labeled \"On Balance Volume (14)\". The screen shows several data readouts, such as \"VST Daily\" and \"CW projections (0,B,BLACK,RF,RE\". The scene remains static across the frames, showing the same chart configuration, indicators, and text without any visible movement, person, or change in the displayed data. The interface is detailed with grid lines, green and red candlesticks, and various numerical values along the price and date axes."
+}

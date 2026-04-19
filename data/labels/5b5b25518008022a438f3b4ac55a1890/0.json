@@ -1,0 +1,15 @@
+{
+  "video_id": "5b5b25518008022a438f3b4ac55a1890",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-857.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.62,
+    1.861,
+    3.102,
+    4.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the text \"ION NEVEDO DO SHIT\" printed in white is speaking into a professional black microphone. He is in a room that resembles a clothing store or studio, with framed pictures on the wall behind him and a white mannequin dressed in a white sweatshirt and grey pants to his right. Clothing racks filled with garments are visible in the background. Two logos are overlaid on the screen: a circular logo on the left containing the text \"PRO\" and a red text logo on the right that reads \"PROFLY TUT\". As the sequence progresses, the man continues to speak and shift his gaze, moving his head slightly and blinking. His facial expressions change as he talks, with his mouth opening and closing throughout the clip."
+}

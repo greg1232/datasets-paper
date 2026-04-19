@@ -1,0 +1,15 @@
+{
+  "video_id": "f3fc097adf7bd097c0b65b10af78ff10",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-163.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.562,
+    0.787
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair wearing a dark blue t-shirt is seen in a small video overlay in the bottom-left corner of a screen showing the \"ULTIMATE TEAM\" menu of a video game. He sits in a room decorated with a Christmas tree and a white object in the background, speaking into a microphone. The main screen displays a digital storefront featuring a \"SUPER BOWL MVP BUNDLE\" against a bright pink background, alongside an image of a player card with the text \"Zero Chill\" and the number \"92\". Other visible text includes \"BROWSE THE STORE,\" \"Now Available in the Store,\" and \"UNDOPENED PACKS,\" with numerical values for currency and level displayed at the top. Throughout the frames, the man's facial expression and mouth movements change as he speaks, while the game interface remains static."
+}

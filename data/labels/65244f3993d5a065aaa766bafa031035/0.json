@@ -1,0 +1,15 @@
+{
+  "video_id": "65244f3993d5a065aaa766bafa031035",
+  "url": "./data/segments/3l84m5pRmyk-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.286,
+    0.857,
+    1.429,
+    2.0
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A minimalist logo animation features a blue, three-dimensional geometric cube and accompanying text on a plain white background. The logo consists of a stylized blue cube with a hollow center and the text \"the CUBE\" positioned directly beneath it, where the \"e\" in \"the\" is stylized as a small epsilon symbol. In the initial sequence, the logo remains static and centered. Subsequently, the logo begins to shrink and shift its position toward the center-right of the screen. As the logo recedes, a solid gray rectangular block slides up from the bottom of the frame, partially covering the lower portion of the screen while the logo continues to diminish in size."
+}

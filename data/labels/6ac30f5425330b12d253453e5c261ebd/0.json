@@ -1,0 +1,15 @@
+{
+  "video_id": "6ac30f5425330b12d253453e5c261ebd",
+  "url": "./data/segments/3KyEoC29eqs-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.412,
+    1.237,
+    2.062,
+    2.887
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white kurta and a colorful orange, yellow, and green sash stands before a crowd during a political event. He raises his arms and gestures with his hands as he speaks, moving from a position of holding his hands near his head to lowering them slightly. Behind him, a crowd of people, some wearing red caps, look on. The scene is framed by a graphic overlay featuring the lotus logo of the Bharatiya Janata Party. On-screen text in Hindi reads \"\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940 \u0938\u094d\u0925\u093e\u092a\u0928\u093e \u0926\u093f\u0935\u0938\", and English text includes \"\u0932\u093e\u0907\u0935 \u090f\u0935\u0902\" and social media handles \"@BJP4India\" and \"www.bjp.org/bjplive\". Small text in the corners reads \"\u092a\u094d\u0930\u091c\u093e\u0928\u092e\u0902\u0924\u094d\u0930\u0940\" and \"\u0926\u093f\u0932\u094d\u0932\u0940\". The background consists of a repetitive pattern of the BJP lotus logo. Throughout the sequence, the man's gestures change while the surrounding crowd and graphic overlays remain static."
+}

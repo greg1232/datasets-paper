@@ -1,0 +1,15 @@
+{
+  "video_id": "96c41344f288aadf8c3e10ef8be7dfeb",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-655.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.08,
+    6.241,
+    10.401,
+    14.561
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt that reads \"I CON NEVER DO SHIT AT WORKY\" sits in a studio setting. He is positioned in front of a black professional microphone on a boom arm. Behind him, the room contains white mannequins dressed in white clothing, racks of apparel, and various framed pictures on the wall. Red and white logos, including one that says \"REALLY FELTY TOT,\" are overlaid on the image. As the sequence progresses, the man speaks and shifts his facial expression, moving from a slight smile with closed eyes to an open-mouthed expression, and finally to a thoughtful look with slightly pursed lips. He gestures with his right hand in the initial moments before resting it out of view. The background and equipment remain static throughout the clip."
+}

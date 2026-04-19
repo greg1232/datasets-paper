@@ -1,0 +1,15 @@
+{
+  "video_id": "02d7daf57b0ad59ab30d077191ac9fc6",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-076.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An animated man with tan skin and short dark hair, wearing a dark blue collared shirt, is shown in a close-up shot. He is positioned in a simple indoor setting with a grey wall and a white door or panel behind him. Throughout the sequence, the man remains stationary, though the camera perspective shifts from a medium shot to tighter close-ups of his face. The screen is overlaid with translucent floating geometric shapes, including triangles, squares, hexagons, and plus signs in various colors. In the first frame, a green circle is drawn around his head and a white rectangular speech bubble appears beside him. By the final frame, a \"SUBSCRIBE\" button and a notification bell icon appear in the bottom right corner, accompanied by the text \"Video title in this line\" and \"514,532 views\"."
+}

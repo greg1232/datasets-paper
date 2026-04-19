@@ -1,0 +1,15 @@
+{
+  "video_id": "0de94868649469b2d76bafe40f2f67f7",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a kitchen setting, a person's hand is visible as they use a red spatula to stir a large metal bowl filled with a textured, beige-colored food mixture. A small white plate holding a portion of the same mixture and a small red bowl containing light-colored pellets sit on the wooden surface beside the large bowl. The logo and text \"UCAR CENTER FOR SCIENCE EDUCATION\" appear in the top left corner of each frame. Across the sequence, the person continues to vigorously stir the contents of the metal bowl, causing the food mixture to shift and swirl. The movements of the spatula and the mixture are blurred, indicating a fast stirring motion. The background and the placement of the surrounding bowls and plates remain stationary throughout the clip."
+}

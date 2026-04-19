@@ -1,0 +1,15 @@
+{
+  "video_id": "2d78c39ad77ba692e51d2b00fad3d055",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.908,
+    2.725,
+    4.542,
+    6.358
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white aircraft with a T-tail and rear-mounted engines taxies across a paved runway under an overcast sky. The plane features a thin red stripe along its fuselage and small red lights on its wings and nose gear. In the background, the tails of other aircraft are visible, including one with the Russian flag. A circular red logo containing the number \"13\" is present in the upper right corner of each frame. As the sequence progresses, the aircraft moves from left to right across the frame. In the final frames, a registration number, \"RA-95104,\" becomes visible on the fuselage of a stationary aircraft in the background. The foreground consists of a grassy area bordering the runway. No people are visible in the scene."
+}

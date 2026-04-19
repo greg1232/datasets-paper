@@ -1,0 +1,15 @@
+{
+  "video_id": "0054593e2d07b2415be225eb8efdf1c6",
+  "url": "./data/segments/3JGRt3BFYrM-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.521,
+    1.563,
+    2.604,
+    3.646
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white background features a blue horizontal band across the middle, with the \"ST\" logo and the text \"life.augmented\" appearing at the top center and top right, as well as in the middle center and middle right. In the first frame, only a small dark dot is visible. By the second frame, a blue and red circular cluster appears alongside a larger empty blue ring. As the sequence progresses, more abstract blue and green graphic elements emerge. These include a green circle with a partial ring, a blue circle containing a book icon, and a blue circle containing a globe. These shapes move and orbit around each other, creating a dynamic, floating composition. Small white dots and dotted circular lines accompany these elements, suggesting a network or a digital interface. The graphics shift and reconfigure their positions throughout the clip."
+}

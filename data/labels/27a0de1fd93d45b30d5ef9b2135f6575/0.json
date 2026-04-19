@@ -1,0 +1,15 @@
+{
+  "video_id": "27a0de1fd93d45b30d5ef9b2135f6575",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-089.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.38,
+    1.139,
+    1.898,
+    2.657
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Against a solid turquoise background, a series of white Miir products are displayed. Initially, a top-down view shows a white tumbler with a clear lid. The scene then shifts to a wide shot featuring a tall, slender white bottle and a shorter white tumbler. The logo \"MIIR\" is visible vertically near the bottom of the bottle and horizontally near the top of the tumbler. White text appears on screen to identify the items; while some text is initially obscured or cut off, it eventually clearly reads \"750 ml Bottle\" next to the bottle and \"10 oz Tumbler\" next to the tumbler. There are no people present in the sequence. The camera remains static for the final three segments, focusing on the two containers placed side-by-side."
+}

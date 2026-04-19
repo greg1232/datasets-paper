@@ -1,0 +1,15 @@
+{
+  "video_id": "f68a759fae91234077cabcc34bf7a7b2",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.285,
+    0.856,
+    1.427,
+    1.998
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, glasses, and a thin mustache wears white over-ear headphones and a dark blue patterned shirt. He is seated in a room with a light-colored wooden wall, a Christmas tree with colorful lights, and a blue framed poster featuring the number \"20\". In the first frame, the scene is edited to show three translucent copies of the man's head overlapping against a colorful vertical bar test pattern. As the video progresses, the test pattern disappears, and the man is shown centered in the frame. He speaks with an expressive face and open mouth, gesturing with his hands in the third frame. A black microphone is visible in the foreground during the final two frames. The man remains the sole focus of the scene as he talks and reacts, with the background remaining constant."
+}

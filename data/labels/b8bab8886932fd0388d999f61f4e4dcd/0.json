@@ -1,0 +1,15 @@
+{
+  "video_id": "b8bab8886932fd0388d999f61f4e4dcd",
+  "url": "./data/segments/3F2rz23IKUk-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.295,
+    3.885,
+    6.475,
+    9.065
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a static slide titled \"The shape of the market\" in a simple black font against a plain white background. Below the title, three bullet points provide information about a market analysis. The first point states, \"Analysis based on a variety of techniques,\" the second notes, \"Of over 150 Android tablets on the market, fewer than 20 in compliance,\" and the final point reads, \"The real situation is worse...\". There are no people, logos, or other objects visible in the scene. Across the sequence of frames, the visual content remains identical, with no changes in the text, layout, or background, indicating a still image being displayed on a screen."
+}

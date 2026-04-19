@@ -1,0 +1,15 @@
+{
+  "video_id": "8a2c2ad8a353c630beb50e80e5ebbb72",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-183.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot shows a person's hand strumming an acoustic guitar. The hand is positioned over the strings near the soundhole of the light-colored wooden instrument, moving in a downward motion across the frames. A blue graphic banner at the bottom of the screen contains white text that reads \"Basil Chapman\" in a larger font, with a secondary line below it stating \"The Tiger Technicians Hour | June 8th, 2022\". As the sequence progresses, the hand continues its downward stroke, with the fingers shifting slightly to maintain contact with the strings. The background is blurred, focusing attention on the interaction between the hand and the guitar strings. The composition remains static throughout the clip, with only the subtle movement of the strumming hand changing between the frames."
+}

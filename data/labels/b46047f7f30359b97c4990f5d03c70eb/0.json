@@ -1,0 +1,15 @@
+{
+  "video_id": "b46047f7f30359b97c4990f5d03c70eb",
+  "url": "./data/segments/3IrHmvnGXTc-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.459,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An abstract animation unfolds against a glowing, teal-to-white gradient background. A thin, vertical dark line initially appears in the center of the upper left area. As the sequence progresses, this line transforms into a dark, semicircular shape that curves towards the right. In the subsequent stages, the shape evolves into a complex, layered three-dimensional object. This object consists of a dark teal semicircle serving as a base, from which several thin, light-green rectangular slats of varying heights rise vertically, resembling a stylized bar chart or architectural structure. The object rotates slightly and shifts its perspective, revealing its depth and a smooth, reflective surface on the interior of the semicircular shell. No people, text, or logos are present in the scene."
+}

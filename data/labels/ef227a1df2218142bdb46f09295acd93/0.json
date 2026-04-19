@@ -1,0 +1,15 @@
+{
+  "video_id": "ef227a1df2218142bdb46f09295acd93",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.83,
+    2.49,
+    4.15,
+    5.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video displays a yellow background featuring text and logos related to cryptocurrency exchanges. The sequence begins with the text \"THE PLATFORM IS ALREADY INTEGRATED WITH\" on the left, while the logos for BINANCE and BITTREX appear on the right. As the video progresses, the initial text disappears, and the BINANCE and BITTREX logos shift to a more centered position. Additional logos emerge below them, including BITFINEX and HitBTC, each accompanied by their respective graphic icons. In the final moments, a series of vertical, light-yellow bars appear behind the BITFINEX and HitBTC logos, creating a subtle background pattern. The logos for BINANCE, BITTREX, BITFINEX, and HitBTC remain consistent in design and placement throughout the latter half of the clip, presented in white text against the solid yellow backdrop."
+}

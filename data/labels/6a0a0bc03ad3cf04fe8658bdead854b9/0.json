@@ -1,0 +1,15 @@
+{
+  "video_id": "6a0a0bc03ad3cf04fe8658bdead854b9",
+  "url": "./data/segments/3Kxl1O310k8-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.755,
+    38.265,
+    63.775,
+    89.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide is displayed, featuring the question \"What do you want to accomplish?\" written in black text on a white background. Below the question are three horizontally stacked colored rectangles. The top rectangle is yellow and contains the text \"Determining needs\" next to a magnifying glass icon. The middle rectangle is also yellow and contains the text \"Setting priorities\" next to a checklist icon showing \"NOW\" and \"LATER\". The bottom rectangle is grey and contains the text \"Create benchmarks\" next to a benchmark icon. In the upper corners of the screen, small video feeds show a woman with dark hair wearing a dark-colored top. A yellow banner runs across the bottom of the screen, displaying the logo \"MHP\" in a few locations. The visuals remain static across the sequence, with no changes to the text, icons, or the appearance of the individuals in the video feeds."
+}

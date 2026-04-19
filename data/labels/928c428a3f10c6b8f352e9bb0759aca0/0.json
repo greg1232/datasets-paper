@@ -1,0 +1,15 @@
+{
+  "video_id": "928c428a3f10c6b8f352e9bb0759aca0",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-213.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.238,
+    0.396,
+    0.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands in an indoor setting against a background of horizontal light-brown slats. He wears glasses, a white long-sleeved shirt, and a black vest adorned with intricate white embroidery along the edges and red accents at the bottom. In the initial sequence, a person with long brown hair moves across the foreground, partially obstructing the view of the man. As this person exits the frame, the man is revealed standing before a microphone on a stand. He maintains a neutral expression, looking forward as he positions himself to speak. The word \"ORCA\" appears in white uppercase letters within a white speech bubble graphic in the lower-right section of every scene. The progression of the frames shows the foreground person shifting from the center to the left, clearing the view of the man at the microphone."
+}

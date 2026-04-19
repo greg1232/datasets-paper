@@ -1,0 +1,15 @@
+{
+  "video_id": "ca37e2393619d8a14a928ba915417787",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-089.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.388,
+    0.646,
+    0.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing blue jeans and dark shoes is operating a green Polaris all-terrain vehicle (ATV) on a concrete driveway. The ATV features the \"POLARIS\" logo in white text on its rear cargo bed. In the initial sequence, the ATV is stationary or moving slowly, with the rider's leg visible as they sit atop the vehicle. As the scene progresses, the ATV begins to move forward toward the right side of the frame. The concrete surface is aged, showing several cracks and a dark stain. In the background, a green grassy area and a portion of a dark-colored car are visible. The camera angle shifts from a side-profile view of the entire vehicle to a closer, low-angle shot focusing on the rear wheels and the rider's leg as the vehicle drives away."
+}

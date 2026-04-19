@@ -1,0 +1,15 @@
+{
+  "video_id": "d6f0be37a5bdba8166757f7b46bddec9",
+  "url": "./data/segments/3cfugv0xNbU-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.726,
+    2.177,
+    3.629,
+    5.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green-tinted night vision view captures an aircraft flying over a body of water toward a shoreline illuminated by several bright lights. The aircraft, appearing as a dark silhouette with a distinct fuselage and wing shape, moves forward and slightly descends. As the sequence progresses, the aircraft shifts its position in the frame, gliding closer to the illuminated coast. A small, blue pentagonal logo is visible in the lower right corner of the view. The atmosphere is hazy, with light reflecting off the water's surface and blurring around the bright lights on land. No people are visible in the scene. The overall imagery remains consistent in color and lighting, focusing on the aircraft's movement through the night sky toward the glowing horizon."
+}

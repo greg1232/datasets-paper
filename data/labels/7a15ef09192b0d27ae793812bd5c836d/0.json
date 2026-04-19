@@ -1,0 +1,15 @@
+{
+  "video_id": "7a15ef09192b0d27ae793812bd5c836d",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.526,
+    0.876,
+    1.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and stubble, wearing a black hooded sweatshirt and large black over-ear headphones, sits in a recording studio. The background consists of dark gray acoustic foam panels with vertical ridges. He is positioned behind a silver professional condenser microphone mounted on a black boom arm. Throughout the sequence, the man is engaged in a conversation, shifting his expressions and gestures. He begins by raising his right hand near his head with a neutral, attentive look. As the sequence progresses, he begins to smile and then laughs, showing his teeth. He gestures with both hands, moving them outward and slightly downward as he reacts to something off-camera. The camera remains stationary in a medium close-up shot, focusing on his upper body and head as his facial expressions transition from focused listening to amusement."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c1bf46bd663518475030e9e547d1e53f",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-322.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.106,
+    0.319,
+    0.531,
+    0.744
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a dark, glittery rectangular slab in the foreground, tilting it slightly to reflect light. In the background, a man wearing a purple t-shirt with a yellow logo sits at a desk with computer monitors and various collectibles. On-screen overlays feature a logo with the text \"JASPYS\" and \"CASEBREAKS.COM\". As the sequence progresses, the person continues to tilt and shift the slab, changing the way light catches the sparkly surface. The man in the background remains seated, occasionally moving his arms as he interacts with items on his desk. The setting appears to be a dedicated hobby or streaming room, filled with sports memorabilia and electronic equipment. The composition remains consistent, focusing on the textured slab while the man operates in the blurred background."
+}

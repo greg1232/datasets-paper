@@ -1,0 +1,15 @@
+{
+  "video_id": "5b573a1a30485b17225fc9438643941c",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.04,
+    6.12,
+    10.2,
+    14.28
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static presentation slide from a course on \"CRYOGENIC ENGINEERING.\" The slide features the title \"Heat Exchanger\" in bold blue text. Below the title, a bullet point reads, \"In order to specify the performance of the heat exchanger in terms of actual heat exchange occurring, a term \"$\\epsilon$\" is defined which is called as Heat Exchanger Effectiveness.\" The NPTEL logo is visible in the bottom left corner. A footer across the bottom of the slide states, \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" Throughout the frames, the visual content remains completely stationary, with no changes to the text, logos, or layout, indicating a pause or a still shot of the instructional material."
+}

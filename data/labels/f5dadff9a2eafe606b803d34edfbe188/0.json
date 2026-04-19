@@ -1,0 +1,15 @@
+{
+  "video_id": "f5dadff9a2eafe606b803d34edfbe188",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-079.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.47,
+    1.41,
+    2.35,
+    3.29
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser open to a mind-mapping tool and a video call. The central workspace displays a complex network of nodes and connections against a dark background, featuring various circular icons and labels such as \" insights -> Introduction & Rules\" and \" Road Community Food Spot\". A man wearing a black hat is visible in a small video window in the upper right corner. Throughout the sequence, a white 3D animated figure appears and moves across the map, acting as a cursor or guide. As the video progresses, the colors of the mind map shift from vibrant hues to a muted, grayscale palette. The browser tabs at the top include titles like \"True Learning by Synthesis\" and \"Future of Society by Synthesis\". On-screen text within the map includes \"insights -> Introduction & Rules\" and \"Road Community Food Spot\"."
+}

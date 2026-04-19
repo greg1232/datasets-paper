@@ -1,0 +1,15 @@
+{
+  "video_id": "b8fb5ada9d735045939cbc23a62d753e",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-106.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.258,
+    0.775,
+    1.292,
+    1.808
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair and glasses wearing a blue patterned t-shirt and silver over-ear headphones speaks into a black microphone. He is positioned in front of a light-colored wall decorated with a framed picture featuring a blue logo and the number \"20\". To his side, a Christmas tree with red, green, and blue lights is partially visible. As the sequence progresses, the man's facial expressions shift from a slight smile to a more open-mouthed speaking posture. In the final scene, he raises his left hand in a gesturing motion while continuing to talk. The background and his clothing remain constant throughout the clip, while his head tilts slightly and his mouth moves in synchronization with his speech."
+}

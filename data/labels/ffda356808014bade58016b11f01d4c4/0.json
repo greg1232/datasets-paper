@@ -1,0 +1,15 @@
+{
+  "video_id": "ffda356808014bade58016b11f01d4c4",
+  "url": "./data/segments/3Z229_lKLpk-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.27,
+    0.81,
+    1.35,
+    1.89
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and glasses, wearing a white long-sleeved shirt, is seated in what appears to be a legislative chamber. He is positioned behind a wooden desk, with green patterned carpeting and rows of wooden benches visible in the background. In the initial stages of the sequence, he holds his hands together in front of his chest, palms touching in a gesture of greeting or prayer. As the scene progresses, he lowers his hands and begins to gesture with his right hand while speaking. His expression is serious as he looks toward someone off-screen. No logos or on-screen text are visible, though some indiscernible markings are present on the wooden desk in front of him. The background remains static, focusing entirely on the man's subtle movements and changing hand positions."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a809aaadb41dc1a9c381799fd585c3d9",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-088.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.537,
+    0.896,
+    1.254
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video captures a screen displaying a sports video game interface titled \"TOTW PRESENT.\" The center of the screen features a player card for \"D'ANDRE SWIFT,\" identified as an \"HB\" with an \"OVR\" rating of \"87.\" The background is a deep purple gradient, and various stats and currency values, such as \"173,037,\" \"14,600,\" and \"2,343,543,\" are visible at the top. At the bottom, menu options read \"MARK/UNMARK,\" \"DISMISS ALL,\" and \"BACK.\" In the lower-left corner, a small inset window shows a man with blonde hair wearing a dark blue t-shirt. He is reacting with excitement, gesturing with his hands and smiling. Between the early and later frames, the man's facial expression shifts from a look of anticipation to a wide, open-mouthed smile, and the inset window expands slightly to show more of the room behind him, including a glimpse of a decorated Christmas tree."
+}

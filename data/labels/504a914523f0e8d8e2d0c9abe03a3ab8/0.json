@@ -1,0 +1,15 @@
+{
+  "video_id": "504a914523f0e8d8e2d0c9abe03a3ab8",
+  "url": "./data/segments/3Z229_lKLpk-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.495,
+    1.485,
+    2.475,
+    3.465
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large assembly of people, predominantly men, are seated in a tiered auditorium or legislative chamber. Many are dressed in white traditional Indian attire, such as kurtas and pajamas, while some wear suits or colorful vests. The room is filled with rows of wooden desks and benches, and the participants are mostly seated and looking toward the front. A few individuals are standing, including a man in a blue shirt standing near the center of the room. The scene remains largely static across the sequence, with minimal movement among the crowd. Some people shift their posture or turn their heads, while others remain still. The lighting is bright and uniform throughout the space, and there is no visible on-screen text or logos."
+}

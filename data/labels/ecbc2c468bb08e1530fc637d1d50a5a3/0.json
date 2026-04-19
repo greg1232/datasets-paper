@@ -1,0 +1,15 @@
+{
+  "video_id": "ecbc2c468bb08e1530fc637d1d50a5a3",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-068.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.335,
+    10.005,
+    16.675,
+    23.345
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark navy blazer over a dark button-down shirt stands against a plain, light-colored wall, speaking into a thin gooseneck microphone. A clear plastic water bottle sits on a surface in front of him. At the top of the scene, the text \"mediasite by cornerstone\" appears alongside a small circular logo. Throughout the sequence, the man remains in the same position, shifting his posture and gesturing with his hands as he speaks. He begins by gesturing with his right hand, then brings his hands closer together, and finally opens both arms outward in a broad gesture. His facial expression remains focused and serious as he looks slightly to his left, consistently engaging with someone or something off-screen."
+}

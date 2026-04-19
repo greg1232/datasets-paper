@@ -1,0 +1,15 @@
+{
+  "video_id": "0898d8577a86e3ed4dfe035919dcb31e",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-119.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.494,
+    1.481,
+    2.469,
+    3.456
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blonde hair, wearing a black shirt, is visible in a small video overlay in the bottom-left or bottom-center of a video game interface. The interface displays a player profile for \"CHIGOZIEM OKONKWO,\" an 89-rated \"TE.\" The screen shows a character model wearing a blue and white football jersey with the number 85. The interface contains several menus including \"HISTORY,\" \"DESCRIPTION,\" and \"ARCHETYPE,\" with the text \"Vertical Threat\" and \"Vertical Threat - TE\" listed. Navigation options on the left include \"Compare,\" \"Promote to starter,\" \"Add to sets,\" \"Auction,\" and \"Trade.\" As the sequence progresses, the menu changes from the \"HISTORY\" and \"DESCRIPTION\" tabs to a \"KEY\" and \"GENERAL\" attributes section, revealing a grid of numerical stats such as \"90,\" \"71,\" and \"92.\" Top-screen indicators show various currency values and a level of \"19.\""
+}

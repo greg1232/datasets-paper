@@ -1,0 +1,15 @@
+{
+  "video_id": "cc393cb3864054498e93583fe9d006aa",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men are seated in a room, positioned in front of a television and a shelf of media cases. The man on the left wears a grey t-shirt, while the man on the right wears a similar grey t-shirt and a thin necklace, resting his chin on his hand with a thoughtful expression. Above them, a screen displays the glowing yellow text \"OUR STUPID REACTIONS\". A smaller inset video window is centered in the foreground, showing a dark, underwater scene with figures swimming. As the sequence progresses, the man on the right remains still, while the imagery in the underwater inset shifts, showing different angles of figures moving through the water. The background remains static, with a soundbar below the television and a small decorative plant visible to the left of the men."
+}

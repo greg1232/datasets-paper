@@ -1,0 +1,15 @@
+{
+  "video_id": "7b31446968ee3305d9a5bbbe1a1c13f7",
+  "url": "./data/segments/3JYDT8lap5U-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.5,
+    37.5,
+    62.5,
+    87.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a dark blazer over a white shirt and a lanyard, stands at a podium giving a presentation. The scene alternates between the speaker and various presentation slides. One slide features an image of celery with the text \"It uses celery as task runner\" and \"As well as ability to use different backends\". Another slide displays a technical diagram titled \"SUB-DAG FOR EACH CRYPTO\", showing a workflow of operations. Later slides show a more complex diagram titled \"DAG FOR ALL DAILY CRYPTO JOB\". At the bottom of every frame, a consistent banner contains the \"europython\" logo\u2014a red snake icon\u2014and the text \"Edinburgh 23 29 July 2018\". As the presentation progresses, the man is seen gesturing with his hands while speaking, and the slides transition to illustrate different architectural components of a technical process."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "87ae3bccb39911954d562579c1b8178f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-073.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.975,
+    1.625,
+    2.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser window with multiple open tabs, including \"Truth & Learning by Systemantics,\" \"Future of Society by Systemantics,\" and \"Insights Introduction to Rumis.\" The main content area shows a complex system map with interconnected nodes and text boxes on a dark background. One central white box contains columns labeled \"Systems,\" \"Random,\" and \"Career,\" with listed terms such as \"Treading,\" \"Just Sophisticate,\" and \"Balance.\" Various circular icons featuring people and symbols are linked by blue and green curved lines. On the right side of the screen, a small video feed shows a man wearing a dark blue baseball cap and a dark shirt. Across the frames, the display remains static, with the system map, browser tabs, and the man in the video feed remaining in the same positions without any visible movement or interaction."
+}

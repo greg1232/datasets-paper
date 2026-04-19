@@ -1,0 +1,15 @@
+{
+  "video_id": "56b5b55fb1c55b170b7d3d4175d74984",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.664,
+    4.992,
+    8.321,
+    11.649
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a trade show setting, a bald man with a grey beard wearing a grey polo shirt presents a small, metallic cubic object. Initially, the scene focuses on a close-up of the man's hand holding the tiny cube. As the perspective widens, the man is shown holding the object and a small piece of paper while standing in front of a booth. He is positioned near a display board that reads \"ZB38 AlphaSzenzor Inc.\" and features a logo for \"ALPHASZENZOR\" along with a section titled \"Typical Gas Sensor Attributes.\" To his side, another man wearing glasses and a light-colored button-down shirt appears. In the background, a black sign for \"Collaghan Innovation\" and \"microMaker3D\" is visible, along with another booth marker that reads \"ZB39 D.\" The sequence transitions from a detailed view of the product to a medium shot of the two men interacting in the professional exhibit space."
+}

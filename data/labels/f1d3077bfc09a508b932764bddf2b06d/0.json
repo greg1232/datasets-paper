@@ -1,0 +1,15 @@
+{
+  "video_id": "f1d3077bfc09a508b932764bddf2b06d",
+  "url": "./data/segments/3F2rz23IKUk-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.32,
+    0.96,
+    1.6,
+    2.24
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and brown hair is standing in a plain indoor setting with gray walls. He is wearing a black t-shirt featuring a portrait of a man and the text \"Knuth\", and he has a blue lanyard around his neck. Initially, he holds a white rectangular box with a blue and green image on the front, gesturing with his other hand. As the sequence progresses, he sets the box down and shifts his position. He continues to smile and talk, eventually raising his right hand to adjust his glasses while gesturing with his left hand. The blue lanyard has white text on it, including the word \"Brisbane\". He is the only person visible throughout the clip, and the background remains a static, neutral office or conference environment."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "801803d9955fde0c93e6010686babce8",
+  "url": "./data/segments/3Xr-czqAfSc-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.083,
+    3.25,
+    5.417,
+    7.583
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young woman with long dark hair, wearing a dark blazer over a dark top, stands in a brightly lit indoor setting with a blurred white background. She looks directly at the camera with a slight smile and her hands positioned at her sides. To her left, a dark blue panel features white and light blue text. In the first half of the sequence, the text reads, \"As an undergraduate at Towson University, Kristine Johnson wasn't necessarily thinking about going to graduate school for economics.\" The light blue text highlights the name \"Kristine Johnson.\" As the sequence progresses, the woman remains in a similar pose, but the scene transitions to a different composition. The dark blue text panel shifts positions, moving from the right side of the woman to the left, and then partially disappears from the frame, leaving only a portion of the sentence visible."
+}

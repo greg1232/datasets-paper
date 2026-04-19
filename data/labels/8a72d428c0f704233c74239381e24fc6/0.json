@@ -1,0 +1,15 @@
+{
+  "video_id": "8a72d428c0f704233c74239381e24fc6",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.955,
+    2.865,
+    4.775,
+    6.685
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static educational slide for a course on \"CRYOGENIC ENGINEERING,\" specifically \"Tutorial \u2013 2.\" The slide focuses on calculating the \"Work/unit mass of gas liquefied,\" featuring a temperature-entropy (T-S) diagram. The diagram shows a cycle with paths labeled \"T=const,\" \"D=const,\" \"p=const,\" and \"h=const,\" with numbered points from 1 to 4. To the left of the diagram, given values are listed: \"W/m = 463\" and \"y = 0.074.\" Below these, a mathematical equation is shown: \"-W/m_L = W/y*m = 463/0.074 = 6265.22 J/g.\" The NPTEL logo is visible in the bottom left corner, and the footer identifies \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" There are no people or physical objects present, and the scene remains completely unchanged across all frames, indicating a still image being displayed during a presentation."
+}

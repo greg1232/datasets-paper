@@ -1,0 +1,15 @@
+{
+  "video_id": "967e60304cb2bd6307f1332101521419",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.094,
+    0.282,
+    0.469,
+    0.657
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men are seated in a room in front of a large television screen. The man on the left wears a dark green t-shirt and maintains a neutral, slightly skeptical facial expression. The man on the right wears a grey t-shirt and a necklace, sitting with his hand near his chin, looking toward the left. Behind them, a shelf holds numerous CD cases. The television screen displays the glowing yellow text \"OUR STUPID REACTIONS\" at the top, with a smaller inset video playing below it that shows a figure in a red cloak in a stylized, dark environment. Throughout the sequence, the men remain relatively still, though the man on the right shifts his gaze and head position slightly. The background and the on-screen text remain constant across the frames, while the image in the inset video subtly changes as the scene progresses."
+}

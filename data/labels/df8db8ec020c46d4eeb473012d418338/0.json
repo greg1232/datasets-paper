@@ -1,0 +1,15 @@
+{
+  "video_id": "df8db8ec020c46d4eeb473012d418338",
+  "url": "./data/segments/3phuyH7Y05U-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.583,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a dimly lit outdoor patio setting decorated with strings of warm lights, two men are captured in a sequence of movements. The man in the foreground wears a teal-colored blazer over a dark shirt, while the man behind him is dressed in a dark, open-collared shirt. Throughout the sequence, the man in the teal blazer is holding a clear glass bottle and moving it forward and slightly downward. The man in the background remains relatively stationary, observing the other with a slight smile and a raised hand. The background features several empty patio chairs, tables, and greenery illuminated by the ambient glow of the overhead lights. As the sequence progresses, the man in the teal blazer shifts his posture slightly, leaning forward and extending the bottle further toward the viewer, while the man behind him maintains his position and expression."
+}

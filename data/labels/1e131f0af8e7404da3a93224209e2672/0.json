@@ -1,0 +1,15 @@
+{
+  "video_id": "1e131f0af8e7404da3a93224209e2672",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.36,
+    1.08,
+    1.8,
+    2.52
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with receding hair, wearing a dark navy blazer over a black button-down shirt, stands before a plain, light-colored wall. A small water bottle and a microphone stand are positioned in front of him. The logo \"mediasite by cornerstone\" appears in the top-left and bottom-left corners of the scene. Initially, the man is captured in a mid-shot, looking slightly downward with a neutral expression and his right hand raised in a gesture. As the sequence progresses, he shifts his gaze upward and to his left, breaking into a smile. He remains standing in the same position, with his posture shifting slightly as he continues to look and smile toward something off-camera. The background and equipment remain static throughout the sequence, focusing the action entirely on the man's changing facial expression and gaze."
+}

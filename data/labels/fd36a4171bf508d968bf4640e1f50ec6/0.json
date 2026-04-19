@@ -1,0 +1,15 @@
+{
+  "video_id": "fd36a4171bf508d968bf4640e1f50ec6",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.99,
+    1.385
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds up a sports trading card featuring basketball player Steven Adams against a red and black background. The card displays the player's name \"STEVEN ADAMS\" and is framed by an intricate silver and blue design. In the background, a small inset video window shows a man with dark hair and a beard wearing a black shirt, sitting in a room with shelving and equipment. To the right of the main action, the logo \"JASPYS\" appears in red and white, accompanied by the website \"CASEBREAKS.COM\" in red text. As the sequence progresses, the person holding the card slightly shifts their grip and moves the card, causing a subtle change in the angle and position of the card relative to the camera. The inset video of the man remains constant, showing him looking toward a screen."
+}

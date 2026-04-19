@@ -1,0 +1,15 @@
+{
+  "video_id": "7d8f14b1915e639d3ea67c8d44204901",
+  "url": "./data/segments/3Kxl1O310k8-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    165.105,
+    495.315,
+    825.525,
+    1155.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call features a grid of various participants in different settings. One man wears glasses and a black shirt in a room with dark wood panels, while another woman wears a headset and a black top against a yellow wall. A woman in a striped blue and white shirt is seen in a room with neutral walls, and another woman with blonde hair is shown in a blurred background. A man in a white button-down shirt appears in front of a red brick building with a steeple. Another man wears a black hoodie and glasses in a dark room, and another man in a gray shirt wears glasses. Throughout the sequence, the participants remain in their respective tiles, showing subtle movements and changes in facial expressions as they listen and speak during the virtual meeting."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c1346e6f043a10f03f931950136ed49c",
+  "url": "./data/segments/3E6ctN22V7k-Scene-100.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.08,
+    0.24,
+    0.4,
+    0.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a white tablet computer displaying an informational page about the United States. The screen features a map of North America with the USA highlighted in blue, a small American flag, and various columns of text. The top of the page includes the words \"\u00c9tats-Unis d'Am\u00e9rique.\" In the bottom left corner of the screen, there are small blue navigation icons. The background shows a blurred indoor setting with a metallic, curved surface and a white wall. Superimposed white subtitles at the bottom of the view read, \"Just like the children where you are from.\" Across the sequence, the camera remains relatively static, and the content on the tablet screen does not change, though the person's grip on the device shifts slightly, causing a subtle movement of the tablet."
+}

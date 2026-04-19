@@ -1,0 +1,15 @@
+{
+  "video_id": "9680f5e8baf1d801f3da80e57c55ff71",
+  "url": "./data/segments/3Z229_lKLpk-Scene-169.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.135,
+    3.405,
+    5.675,
+    7.945
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard, wearing a light-colored traditional Indian outfit consisting of a long-sleeved tunic and a sleeveless vest, stands behind a wooden podium. He is positioned in front of a textured, dark green stone wall featuring geometric patterns. Two microphones are mounted on the podium in front of him. Throughout the sequence, the man speaks and gestures with his hands to emphasize his points. He begins by raising his right index finger, then lowers his arm to grip the edge of the podium. He subsequently raises his right index finger again before shifting to a gesture with his right hand open and slightly raised. He remains the sole person visible in the scene, and the background and equipment remain static while his posture and hand movements change."
+}

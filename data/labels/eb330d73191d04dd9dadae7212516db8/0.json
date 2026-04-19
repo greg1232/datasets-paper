@@ -1,0 +1,15 @@
+{
+  "video_id": "eb330d73191d04dd9dadae7212516db8",
+  "url": "./data/segments/3QD9oO6sRns-Scene-166.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.077,
+    0.231,
+    0.385,
+    0.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown handling a sports trading card encased in a clear protective plastic holder. The scene takes place on a desk featuring a white surface and various trading card materials. In the background, a smaller inset video shows a man wearing a black t-shirt. Text and logos are visible on the desk and in the inset, including \"PYS BREAKS\", \"CASEBREAKS.com\", and \"JASH\". Across the sequence, the person holds the card up, tilting it to show the front and back, and eventually moves it away from the camera. The card depicts an athlete in a baseball uniform. The lighting is bright and consistent, focusing on the card and the hands manipulating it, while the background elements remain static throughout the action."
+}

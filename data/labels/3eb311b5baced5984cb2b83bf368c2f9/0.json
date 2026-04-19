@@ -1,0 +1,15 @@
+{
+  "video_id": "3eb311b5baced5984cb2b83bf368c2f9",
+  "url": "./data/segments/3iUTkJy84EY-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.85,
+    2.55,
+    4.25,
+    5.95
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a series of graphic overlays appearing over a blurred background of people in a classroom or lecture setting. Initially, a logo and the text \"Indian Institute of Technology Bombay\" are displayed on a dark blue horizontal band. This evolves as a second band appears below it, featuring a different logo and the text \"Center for Distance Engineering Education Programme.\" The scene then shifts to a new set of overlays. A lower dark blue band appears with a circular logo and the text \"National Programme on Technology Enhanced Learning.\" Below this, the phrase \"Center for Distance Engineering Education Programme\" is briefly visible in a faded green font before disappearing. Throughout the sequence, the background remains a soft-focus view of individuals, including people wearing light-colored shirts and suits, who are sitting in a row."
+}

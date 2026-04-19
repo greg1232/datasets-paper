@@ -1,0 +1,15 @@
+{
+  "video_id": "30603f22b8faa0efc149cd03ec63f1db",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.367,
+    1.101,
+    1.835,
+    2.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short dark hair, wearing a dark blazer over a white top, stands before a projected presentation screen. She holds a tablet or a folder in her hands, looking down at it as she presents. To her right, the back of a person's head is visible, wearing a green beanie. The projection behind her displays a complex layout of images and text, including the words \"experience.\" and \"data\", as well as the page marker \"Page 2 of 15\". The screen contains various diagrams, technical images, and a portrait of a person. Across the sequence, the woman shifts her gaze slightly, looking from her notes toward the audience and then back down, while her posture remains relatively stable. The background remains a neutral-colored wall, and the lighting is consistent throughout the scene."
+}

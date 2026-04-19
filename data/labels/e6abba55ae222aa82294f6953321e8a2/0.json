@@ -1,0 +1,15 @@
+{
+  "video_id": "e6abba55ae222aa82294f6953321e8a2",
+  "url": "./data/segments/3P1vSUbet40-Scene-0160.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.203,
+    0.61,
+    1.017,
+    1.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with her hair tied up in a bun wears a black t-shirt and a black headset while speaking into a professional microphone in a recording studio. She is positioned in front of a white wall with a yellow vertical stripe and a black panel. Behind her, a screen displays the word \"Johnson\" in red text, along with \"Employee Only\" written in smaller white letters above it. On the black panel and the screen, logos for \"BOSS TALK 101\" and \"PODCAST\" are visible, with some text specifying \"by 11 Logo Studio.\" Throughout the sequence, the woman maintains a consistent position and expression, though her mouth movements change slightly as she continues to speak into the microphone, which is mounted on a black stand in front of her."
+}

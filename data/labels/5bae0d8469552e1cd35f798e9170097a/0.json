@@ -1,0 +1,15 @@
+{
+  "video_id": "5bae0d8469552e1cd35f798e9170097a",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-249.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.617,
+    1.852,
+    3.086,
+    4.321
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a grey t-shirt, a white and grey trucker hat with a circular logo, and over-ear headphones, sits in front of a professional microphone. The microphone is mounted on a shock mount and boom arm, with \"Blue\" visible on the arm. He is positioned against a backdrop of black, ribbed acoustic foam panels. Throughout the sequence, the man remains in the same position, though his facial expression shifts slightly. In the initial frames, he appears to be speaking or focused, with his gaze directed toward the microphone. In the later frames, his eyes close or squint slightly, and his head tilts back marginally as he continues his activity. A tattoo is visible on his right forearm. No other people are present in the scene."
+}

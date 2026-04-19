@@ -1,0 +1,15 @@
+{
+  "video_id": "4fae288b1929a1eb95a6607e71772656",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-133.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.898,
+    2.694,
+    4.49,
+    6.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a white box sitting on a table covered with a colorful cloth featuring palm trees. The person removes a yellow rectangular object from the box. In the top right and bottom right portions of the scene, a small inset video window shows a man wearing a black t-shirt sitting in a room with computer equipment. On-screen text and logos include \"JASPYS\" and \"CASEBREAKS.COM\" appearing in the upper right of the main view. As the sequence progresses, the person lifts the yellow object, which is revealed to be a card holder, and opens it to reveal a sports trading card featuring an athlete. The background remains consistent, with stacks of white boxes and other items visible on the table."
+}

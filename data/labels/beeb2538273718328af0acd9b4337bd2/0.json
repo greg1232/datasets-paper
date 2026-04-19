@@ -1,0 +1,15 @@
+{
+  "video_id": "beeb2538273718328af0acd9b4337bd2",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    13.406,
+    40.219,
+    67.031,
+    93.844
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, styled blond hair and a light beard is centered in the frame, wearing a reddish-pink athletic tank top. He is positioned in front of a set of blue bleachers with yellow edges in what appears to be an indoor gym or sports facility. Across the sequence, the man is speaking directly toward the camera, with his facial expressions and mouth movements changing as he talks. He maintains a steady gaze and a relatively neutral but engaged expression throughout. The background remains static, consisting of the tiered blue seating and a plain, light-colored wall behind them. There are no other people, objects, logos, or on-screen text visible. The only movement in the scene is the man's subtle shifts in posture and the active movement of his mouth and jaw as he speaks."
+}

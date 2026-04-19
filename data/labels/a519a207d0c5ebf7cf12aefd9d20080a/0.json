@@ -1,0 +1,15 @@
+{
+  "video_id": "a519a207d0c5ebf7cf12aefd9d20080a",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-283.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.384,
+    1.151,
+    1.919,
+    2.686
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An elderly man with grey hair and glasses delivers a speech from a wooden podium in a room featuring vertical wooden blinds. He wears a blue patterned shirt adorned with a decorative collar, a beaded necklace, and an emblem on his chest. As the scene progresses, he gestures with his hands while speaking into a black microphone positioned in front of him. The back of the heads of several audience members are visible in the foreground. A speaker stands to the left of the podium. A logo featuring a stylized purple leaf is visible on the front of the podium, and the text \"ORCA\" appears in white letters on a black background in the lower right of each frame. Between the frames, the man shifts his posture and hand positions, moving from a still position behind the podium to actively gesturing as he continues his presentation."
+}

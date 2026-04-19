@@ -1,0 +1,15 @@
+{
+  "video_id": "09186372a353da19f9a099f301777863",
+  "url": "./data/segments/3hcAJKLX-Ps-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a beard, wearing a white button-down shirt, speaks into a handheld microphone. He stands in an indoor setting with bright overhead lighting and a large yellow banner behind him. The banner features a portrait of a man and text in a non-Latin script, including the phrases \"\u0baa\u0bca\u0bb0\u0bc1\u0bb3\u0bbe\u0ba4\u0bbe\u0bb0\" and \"\u0baa\u0bc1\u0ba4\u0bbf\u0baf \u0b89\u0baf \u0bb0\". In the background, another man in a white shirt and a dark vest with a red tie stands observing. Across the sequence, the man in the foreground maintains his position, speaking and gesturing with his left hand near his chest to emphasize his points. The camera angle remains a steady medium shot, capturing his upper body as he looks slightly to his right. Small portions of other people are visible at the bottom of the later frames, though they remain mostly out of view."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c7e4f9b10a2547566c8e13d58a837339",
+  "url": "./data/segments/3Smz5pevbI4-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.565,
+    19.695,
+    32.824,
+    45.954
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a dark suit and light-colored shirt stands in an indoor setting, speaking into a handheld microphone. Behind him is a light-colored wall or ledge, with a few other people partially visible in the background, including a woman with glasses. As the scene progresses, the man's gestures change while he continues to speak. Initially, he holds the microphone with both hands near his chest. He then lifts his right hand in a gesturing motion while keeping the microphone steady with his left. Later, he brings both hands back toward the microphone, and finally, he gestures outward with his left hand while holding the microphone in his right. The lighting is dim, and the background remains static throughout the sequence. No text or logos are visible in the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "013f0ccbca2ff70a40b6e3e47ecf8fbd",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.317,
+    12.95,
+    21.584,
+    30.218
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short brown hair, wearing a black blazer over a white shirt, stands in a room giving a presentation. She holds a tablet in her hands and gestures as she speaks. Behind her is a large projection screen displaying two side-by-side screenshots of a notes application. The left screen contains the text \"Notes\", \"I love writing notes\", \"Today\", \"8 Jun 19:02\", and \"I love writing notes\". The right screen shows \"Notes\", \"11 June 2013 08:33\", and \"I love writing notes\". The word \"skeuomorphism\" is written across the bottom of the projection. A person wearing a green beanie and a tan shirt is seen from behind, watching the presentation. To the right, a black chair is visible. As the sequence progresses, the woman continues to gesture with her hands and eventually points her finger toward the projection screen."
+}

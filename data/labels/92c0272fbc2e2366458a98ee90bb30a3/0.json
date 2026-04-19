@@ -1,0 +1,15 @@
+{
+  "video_id": "92c0272fbc2e2366458a98ee90bb30a3",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-087.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.365,
+    1.095,
+    1.825,
+    2.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene takes place in a stadium with red tiered seating, featuring a white Real Madrid crest on a wall in the background. Several people are present in the stands, including individuals wearing blue shirts and others in blue and red athletic gear. In the beginning, some people are standing while others sit. A person in a blue and red outfit stands prominently in the center, facing away from the camera. As the sequence progresses, the individuals shift positions; some move from standing to sitting, and others change their posture. A person in a blue shirt and green pants is seen sitting on the red seats and eventually shifts their position. The background remains consistent, showing the empty red seats and the stadium architecture, with no legible text other than the team logo."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6916233818ead9699661a5b4cfa5666d",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.076,
+    3.228,
+    5.38,
+    7.533
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a wide shot of a dark green all-terrain vehicle parked inside a garage or workshop, showing the front grille, headlights, and rugged tires. The scene then abruptly cuts to a close-up of a disassembled mechanical engine component resting on a red workbench. Inside the open metal casing, various gears, a chain, and a dark circular plate are visible. Surrounding the engine are several tools, a yellow plastic piece of equipment, and white packaging material with the text \"917-1\" printed on it. Between the subsequent frames, the camera angle shifts slightly, providing a closer and more detailed view of the internal gears and the surrounding workspace. No people are visible in the frames, and the focus remains entirely on the vehicle and the intricate machinery being worked on."
+}

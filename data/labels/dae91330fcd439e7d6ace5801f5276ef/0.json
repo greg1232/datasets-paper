@@ -1,0 +1,15 @@
+{
+  "video_id": "dae91330fcd439e7d6ace5801f5276ef",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on the mechanical components of a vehicle's engine or drivetrain. The scene is dominated by metallic parts, including a greasy metal chain running horizontally across the top, various bolts, and a cast metal housing. A black protective cover with a white hexagonal insert is visible on the left side. The surfaces are covered in a layer of dirt and grime, suggesting a used machine. Throughout the sequence, the camera remains stationary, and there is no visible movement of the machinery, people, or objects. The lighting is consistent across the frames, and no text, logos, or people are present in the view. The scene remains static, with no changes occurring between the frames."
+}

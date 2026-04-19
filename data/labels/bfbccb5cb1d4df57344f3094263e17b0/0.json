@@ -1,0 +1,15 @@
+{
+  "video_id": "bfbccb5cb1d4df57344f3094263e17b0",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.101,
+    3.303,
+    5.505,
+    7.708
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video provides a sequence of views from inside a car with red and black upholstery. It begins with a close-up of the dashboard and center console, showing the steering wheel, a digital display screen, and a gear shifter. The perspective then shifts to a wider view of the red seats and the passenger side interior. The camera then angles downward toward the center console and the floor mat, capturing a play of light and shadow across the cabin. Finally, the view focuses on a reflection in the car window, showing a person wearing a dark shirt and a baseball cap. The interior features a modern design with dark trim contrasting with vibrant red fabric seats. There is no visible text or logos in the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e5898ef9870803c98f90d683b15831a1",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.501,
+    2.502,
+    3.503
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A graphic titled \"Digital Problem-Solving Initiative\" is displayed against a white background. The graphic is divided into a four-quadrant grid of colors. The top-left quadrant is yellow and contains a black icon of a laptop. The top-right quadrant is yellow and features a large black question mark. Below these is a horizontal black bar containing the white text \"Digital Problem-Solving Initiative\". The bottom-left quadrant is orange and shows a black icon of a lightbulb with radiating lines. The bottom-right quadrant is pink and depicts a black icon of three stylized people. Across the sequence of frames, the image remains completely static, with no changes to the layout, colors, icons, or text."
+}

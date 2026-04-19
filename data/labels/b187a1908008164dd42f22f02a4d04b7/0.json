@@ -1,0 +1,15 @@
+{
+  "video_id": "b187a1908008164dd42f22f02a4d04b7",
+  "url": "./data/segments/3fokLGPK15Q-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.61,
+    1.83,
+    3.05,
+    4.27
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people are seated in chairs on a brightly lit stage with a dark, reflective floor and a deep blue background accented by purple and blue light beams. On the left, a man wears a white button-down shirt and dark trousers. In the center, a woman wears a black sleeveless top and black trousers. On the right, a man wears a grey suit. To the left of the people is a transparent, cubic table. In the background, a sign displays the text \"SLUSH\" and \"SLUSH\" mirrored upside down. As the sequence progresses, the camera zooms out, revealing more of the stage and the surrounding environment. The people remain seated and engaged in conversation, with the man in the grey suit gesturing with his hands while speaking. The lighting and the positioning of the individuals remain consistent throughout the shot."
+}

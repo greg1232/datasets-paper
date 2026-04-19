@@ -1,0 +1,15 @@
+{
+  "video_id": "5f44990de255155dc775e11b32b3275f",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-089.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.246,
+    0.738,
+    1.229,
+    1.721
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card encased in a clear protective plastic slab. The card, from the \"OBSIDIAN\" series, features an image of basketball player Steven Adams, his name printed at the bottom, and a handwritten signature. The person's fingers are visible gripping the edges of the case. In the background, there is a dark surface and a black box. The scene is overlaid with a red and white logo that reads \"JASPY'S\" above \"CASEBREAKS.COM\". Small inset windows show a man wearing a black shirt sitting at a desk with a computer monitor, appearing to manage the broadcast. As the sequence progresses, the person slightly shifts the angle of the card, causing light to reflect off the holographic surface and the plastic casing, while the background elements and the inset video of the man remain relatively constant."
+}

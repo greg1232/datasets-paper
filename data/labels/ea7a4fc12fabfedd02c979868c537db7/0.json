@@ -1,0 +1,15 @@
+{
+  "video_id": "ea7a4fc12fabfedd02c979868c537db7",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.507,
+    4.52,
+    7.534,
+    10.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short hair and a mustache is captured in a close-up shot, speaking while seated inside a vehicle. He wears a light-colored, short-sleeved polo shirt with a small, circular logo on the chest. Behind him, a white interior panel features a window and a large, dark symbol resembling a stylized cross or star. As the scene progresses, the man continues talking, his facial expressions and mouth movements shifting to match his speech. White subtitles appear at the bottom of the frames, changing sequentially from \"I gained a lot of experience over there\" to \"so when I came back,\" and finally repeating the phrase \"I was able to use my experience here at IOM\" across the last two frames. The lighting remains consistent, and the camera angle stays fixed on the man throughout the sequence."
+}

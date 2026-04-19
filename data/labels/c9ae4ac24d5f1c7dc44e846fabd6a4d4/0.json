@@ -1,0 +1,15 @@
+{
+  "video_id": "c9ae4ac24d5f1c7dc44e846fabd6a4d4",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.256,
+    0.427,
+    0.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a rectangular box with the word \"OBSIDIAN\" printed in large, stylized letters. The box is positioned over a dark surface featuring a red circular pattern. In the background, a small inset window shows a man with dark hair and a beard wearing a black shirt, sitting at a desk with equipment and more \"OBSIDIAN\" boxes. The on-screen text \"JASPYS\" and \"CASEBREAKS.COM\" appears as a white logo on the right side of the frames. Across the sequence, the hands shift the position of the held box, moving it slightly upward and then tilting it. The background inset remains relatively static, showing the man focused on the items on his desk. The lighting is bright, creating reflections on the glossy surface of the product packaging."
+}

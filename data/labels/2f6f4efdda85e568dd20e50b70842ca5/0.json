@@ -1,0 +1,15 @@
+{
+  "video_id": "2f6f4efdda85e568dd20e50b70842ca5",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-237.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.688,
+    2.065,
+    3.441,
+    4.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with grey hair, wearing a black crew-neck shirt and a thin black earbud, speaks while facing slightly to the left against a plain, light-colored wall. In the first frame, he is captured in a medium shot without any overlaid text except for \"Tiger-TV\" in the top right corner. As the sequence progresses, a blue graphic banner appears across the bottom of the screen containing the text \"Basil Chapman\" in a large white font, with \"The Tiger Technicians Hour | June 8th, 2022\" written in a smaller white font underneath. A small portion of a blue object is visible on a surface behind him to the right. Throughout the frames, the man remains in the same position, his facial expressions shifting slightly as he continues talking, while the \"Tiger-TV\" logo remains visible in the upper right corner."
+}

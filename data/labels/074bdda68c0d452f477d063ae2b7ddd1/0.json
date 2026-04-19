@@ -1,0 +1,15 @@
+{
+  "video_id": "074bdda68c0d452f477d063ae2b7ddd1",
+  "url": "./data/segments/3cfugv0xNbU-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.367,
+    1.101,
+    1.835,
+    2.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green-tinted night vision perspective shows a dual-rotor aircraft hovering low over a dark field, illuminated by bright landing lights on the ground. The aircraft remains steady in the center of the view, with a small blue pentagonal logo visible in the bottom right corner of the frame. As the sequence progresses, the view shifts from the night vision feed to a split-screen perspective. A woman wearing a camouflage military uniform is visible in a rectangular inset, smiling and looking toward the aircraft. She appears to be observing or controlling the operation. The scene transitions from a full-screen tactical view of the hovering aircraft to a composition that combines the green-hued aircraft footage with a live feed of the smiling service member."
+}

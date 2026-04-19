@@ -1,0 +1,15 @@
+{
+  "video_id": "aec04a254876f3c6bf3955d9df8b4f43",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-348.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.224,
+    0.673,
+    1.121,
+    1.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a dark complexion is seated in a room filled with framed photographs on the walls and clothing racks in the background, including a white mannequin wearing a white shirt. He wears a green baseball cap, black over-ear headphones, and a green t-shirt with the text \"ION NEVER DO SHIT\" printed in white. A professional black microphone is positioned directly in front of him. On-screen logos appear in the bottom corners of the scene, including a circular logo on the left and a red \"ROYALTY\" logo on the right. Across the sequence, the man is speaking, his facial expressions shifting as he talks. He begins with his eyes nearly closed, then opens them and looks toward someone off-camera, with his mouth moving as he continues to converse. The background and equipment remain static while only the man's head and facial movements change."
+}

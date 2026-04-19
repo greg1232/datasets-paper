@@ -1,0 +1,15 @@
+{
+  "video_id": "96d69ce304731c0af1abbf805169c3b1",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.255,
+    0.425,
+    0.595
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of men stands beside a white team bus adorned with various sponsor logos, including \"Emirates\" and \"adidas,\" alongside a logo for \"codere.\" The scene takes place outdoors on a paved surface with palm trees and a building in the background. One man, wearing a white shirt and a grey backpack, walks toward the open door of the bus. Nearby, another man in a white shirt and dark pants stands by the bus's side, while a third man, wearing a mask and a light-colored shirt, stands near the cargo area, holding a small object. As the sequence progresses, the man with the backpack continues his movement toward the bus entrance, and the other individuals remain largely stationary in their positions. The lighting is bright, suggesting a clear day, and the overall atmosphere is one of arrival or departure."
+}

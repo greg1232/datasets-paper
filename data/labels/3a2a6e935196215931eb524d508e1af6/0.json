@@ -1,0 +1,15 @@
+{
+  "video_id": "3a2a6e935196215931eb524d508e1af6",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.295,
+    3.885,
+    6.475,
+    9.065
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with a light-colored shirt and a dark cap is seen in a small video call window at the top of a computer screen. The main part of the screen displays a dark interface featuring a complex network diagram with various nodes and connecting lines. Some nodes contain small images, and one specific area is highlighted by a red outline containing a small icon of a turtle and the text \"All Tissue Inflammation\". Other legible text in the browser tabs at the top includes \"Trial & Learning by Systems\", \"Folklore of Society by Systems\", and \"Insights Introduction Ruins\". Throughout the sequence, the person in the video call remains visible, and the network diagram on the screen stays static, showing no change in position or content across the frames."
+}

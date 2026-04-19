@@ -1,0 +1,15 @@
+{
+  "video_id": "1005cd3fd3329244d5c7d0e24c7861cd",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.122,
+    3.366,
+    5.61,
+    7.854
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a static title screen set against a light blue background with a stylized illustration of a gold dome building. The scene remains constant across all frames, showing an image of the Vermont State House. Centered on the screen is text that reads \"2019 Vermont State House\" underlined by a thin line. Below this, the text continues with \"House Committee on General, Housing and Military Affairs\". Further down, it states \"S.23 Increasing the Minimum Wage\", and the date \"April 12, 2019\" is positioned near the bottom center. There are no people or movements visible in the frames; the composition and the text remain completely stationary from start to finish."
+}

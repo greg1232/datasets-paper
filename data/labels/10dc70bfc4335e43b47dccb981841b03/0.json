@@ -1,0 +1,15 @@
+{
+  "video_id": "10dc70bfc4335e43b47dccb981841b03",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-320.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.269,
+    0.448,
+    0.627
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a black-and-white scene, a man wearing glasses, a dark t-shirt, and bracelets on both wrists reacts with surprise. He is positioned in front of a framed piece of art featuring a graphic with the number \"20\" and the word \"SANDER\" partially visible. A decorated tree stands to the left of the frame. The man holds a white piece of paper or a small white object in his right hand. Initially, he holds the object up near his head with his mouth open in a shocked expression. As the sequence progresses, he brings the white object closer to his face, eventually covering his eyes and nose with it while maintaining his open-mouthed expression of astonishment. His arms move from being raised beside his head to crossing in front of his face as he reacts to something off-screen."
+}

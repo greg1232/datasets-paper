@@ -1,0 +1,15 @@
+{
+  "video_id": "3b829acb65963f9f1b692dcd4bfeb01a",
+  "url": "./data/segments/3fokLGPK15Q-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.155,
+    3.465,
+    5.775,
+    8.085
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair is seated against a dark purple background with diagonal purple light beams. He is wearing a light blue button-down shirt under a grey blazer and has a thin beige headset microphone wrapped around his ear and across his cheek. He is looking slightly to his right with a pleasant expression. Across the sequence, he remains seated in the same position, maintaining a slight smile as he listens or speaks. His facial expressions shift subtly, with his lips curving slightly more as he continues to engage with someone off-screen. No other people, objects, or text are visible in the scene. The lighting and background remain constant, with only minor movements in the man's head and facial muscles as the sequence progresses."
+}

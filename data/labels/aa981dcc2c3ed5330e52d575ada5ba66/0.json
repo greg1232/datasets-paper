@@ -1,0 +1,15 @@
+{
+  "video_id": "aa981dcc2c3ed5330e52d575ada5ba66",
+  "url": "./data/segments/3Smz5pevbI4-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    31.069,
+    93.206,
+    155.343,
+    217.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"The elephant in the mind\" features a central photograph of a large elephant with a person sitting on its back against a plain, light-colored background. As the sequence progresses, visual elements are added to the slide. First, a red dashed line points toward the elephant, accompanied by the text \"general threat\". Next, two white boxes appear on either side of the elephant; the left box contains the text \"accept possibility of unintended consequences\" and the right box contains \"measure the elephant\". Finally, the text in the left box changes to \"experimentally test interventions\", while the right box remains the same. The layout is clean, with a red header bar at the top containing the white title text."
+}

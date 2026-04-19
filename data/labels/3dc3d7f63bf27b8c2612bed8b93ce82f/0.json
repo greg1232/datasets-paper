@@ -1,0 +1,15 @@
+{
+  "video_id": "3dc3d7f63bf27b8c2612bed8b93ce82f",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.469,
+    1.406,
+    2.344,
+    3.281
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor basketball gym featuring blue bleachers and a polished wood and black floor, a man wearing a pink sleeveless shirt and black shorts performs a dunk. He begins by standing on the court with a basketball, preparing to jump. In the next sequence, he leaps high into the air and slams the ball through the hoop of a basketball goal attached to a white brick wall. After the dunk, he descends back toward the court, landing on his feet. Finally, he stands upright on the black section of the floor, looking toward the camera. The gym is empty of other people, and the setting remains constant as the man moves from the court to the rim and back again."
+}

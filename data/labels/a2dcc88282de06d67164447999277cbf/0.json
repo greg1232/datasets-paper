@@ -1,0 +1,15 @@
+{
+  "video_id": "a2dcc88282de06d67164447999277cbf",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-355.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.677,
+    5.031,
+    8.385,
+    11.74
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays the website RANDOM.ORG, specifically its \"True Random Number Service.\" In the beginning, a \"Dice Roller\" page is open where the user selects \"2\" virtual dice and clicks \"Roll Dice.\" The screen then transitions to show the result of the roll, two six-sided dice showing three and five, with a timestamp of \"2021-05-14 07:13:39 UTC.\" The user then navigates to a \"List Randomizer\" page, where a list of names including \"Robert Flowers,\" \"Paul Joe McHally,\" and \"Chris Maxwell\" is entered into a text field under \"Part 1: Enter List Items.\" Throughout the sequence, a video overlay in the bottom right corner shows a man with a beard wearing a black t-shirt and a black baseball cap, accompanied by a red banner that reads \"Hit the SUBSCRIBE button down below!\" alongside a YouTube \"Subscribe\" button. The bottom of the screen features a website URL: \"WWW.JASPYSCASERBREAKS.COM\"."
+}

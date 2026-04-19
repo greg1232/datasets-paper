@@ -1,0 +1,15 @@
+{
+  "video_id": "10284217e1000824b4f9ee9f4a8424f4",
+  "url": "./data/segments/3r9Dh8YKpLU-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.279,
+    0.838,
+    1.397,
+    1.956
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"Factorial with Recursion\" is displayed, featuring C programming code for calculating a factorial. The code includes a `fact` function and a `main` function that prompts for input with the text \"Please enter the value of n:\". A simulated \"Output :\" window shows a user entering \"4\" and the resulting output \"4! = 24.00\". At the bottom of the slide, the text \"Walchand Institute of Technology, Solapur\" is visible. A woman with long dark hair, wearing a light-colored top, is positioned in the bottom right corner of the frame in a circular inset, appearing to present the material. Across the sequence of frames, the visual content remains static, with no changes in the on-screen text, the code, or the woman's posture and expression, suggesting a pause in the presentation or a still segment of a video."
+}

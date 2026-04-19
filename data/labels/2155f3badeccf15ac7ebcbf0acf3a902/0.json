@@ -1,0 +1,15 @@
+{
+  "video_id": "2155f3badeccf15ac7ebcbf0acf3a902",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, salt-and-pepper hair and a beard is situated in a recording studio against a dark, vertically ribbed acoustic wall. He wears a black long-sleeved shirt and large black over-ear headphones. Positioned directly in front of him is a professional studio microphone with a grey pop filter, held by a black boom arm. Throughout the sequence, the man looks upward and to his right while gesturing with both hands. Initially, he holds his hands above his head in a wide, arching motion. As the sequence progresses, he shifts his hands, bringing them slightly lower and closer together, then eventually moving his right hand further away and lowering his left hand in a fluid, expressive motion. The background and equipment remain static while the man's facial expression remains focused and his arm movements evolve."
+}

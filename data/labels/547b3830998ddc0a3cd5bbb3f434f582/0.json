@@ -1,0 +1,15 @@
+{
+  "video_id": "547b3830998ddc0a3cd5bbb3f434f582",
+  "url": "./data/segments/3fokLGPK15Q-Scene-073.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.49,
+    7.47,
+    12.45,
+    17.43
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people are seated on chairs on a stage with a dark background and purple accent lighting. On the left, a man with dark hair and a beard wears a white button-down shirt and dark pants. In the middle, a woman with blonde hair tied back wears a black t-shirt and black pants. On the right, a man wears a light blue shirt under a grey blazer and grey trousers. In front of the man on the left is a white, rectangular, textured box featuring a logo that looks like a stylized \"U\". The man on the right is actively gesturing with his hands while speaking and looking toward the other two individuals. Between the frames, the man on the right shifts his arm positions, moving his hands to emphasize his points, while the man and woman remain relatively still, listening to him."
+}

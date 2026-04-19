@@ -1,0 +1,15 @@
+{
+  "video_id": "ba5ff0cca860116a9b62eff0d538b941",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-105.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.328,
+    6.984,
+    11.641,
+    16.297
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and a headset is centered in a room with a neutral wall and light-colored curtains behind her. She is wearing a striped, button-down shirt. Across the sequence, she maintains a friendly expression and is speaking, with her mouth open in a smile that varies slightly as she talks. She remains in a fixed position throughout the clip, looking directly toward the camera. In the bottom left corner of each scene, small, white text reads \"Nancy Deneva\". The lighting remains consistent, and no other people or objects are visible in the background besides the soft drapery and a glimpse of a surface behind her to the right."
+}

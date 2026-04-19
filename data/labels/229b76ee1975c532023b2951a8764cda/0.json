@@ -1,0 +1,15 @@
+{
+  "video_id": "229b76ee1975c532023b2951a8764cda",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-559.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.136,
+    0.407,
+    0.678,
+    0.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hoodie with \"BOSS TALK\" printed on the front, and a gold watch on his left wrist sits in a studio setting. He is wearing headphones and positioned in front of a professional microphone. To his left is a white backdrop featuring a blue star logo and the text \"UNIQUE HUSTLE.\" Behind him, a sign reads \"Where BOSSES Talk!\". On the table in front of him are a black accessory and a container with \"THE TALK ONE\" branding. Throughout the sequence, the man remains seated and mostly stationary, looking slightly to his left with a focused expression. His posture and position relative to the equipment remain constant, with only subtle shifts in his facial expression as he listens or prepares to speak."
+}

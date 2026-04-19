@@ -1,0 +1,15 @@
+{
+  "video_id": "9043b461f6ddec95d8f8b7656f5e635b",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-269.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.633,
+    1.9,
+    3.167,
+    4.433
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen from the chest down, wearing a dark blue shirt, standing at a table covered with a branded tablecloth featuring green palm trees and the orange text \"JASPYS CASEBREAKS.COM\". On the table, there are stacks of clear plastic cases and a small black box containing green items. In the background, the text \"JASPYS\" and \"CASEBREAKS.COM\" is visible. As the sequence progresses, the person reaches into the black box and retrieves one of the green items. In later frames, the perspective shifts to show a man with a beard and a dark shirt sitting in a chair in a room with equipment and a wall-mounted object, while the branded tablecloth and palm tree graphics remain visible in the foreground of the shot."
+}

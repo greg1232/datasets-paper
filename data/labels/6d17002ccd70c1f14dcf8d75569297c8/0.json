@@ -1,0 +1,15 @@
+{
+  "video_id": "6d17002ccd70c1f14dcf8d75569297c8",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.67,
+    2.01,
+    3.35,
+    4.69
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A television news broadcast from \"plustv\" features a news segment titled \"PLUS POLITICS\" with the headline \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\". The screen is split into two primary visual areas: on the left, footage shows a crowd of people holding and waving green, white, and red flags. On the right, a blue-framed inset displays a headshot of a man wearing a red cap, identified by text as \"ON THE PHONE\", \"OLUSOLA OYEKANMI\", \"POLITICAL ANALYST\", and \"LAGOS\". At the bottom of the screen, a white banner indicates where to \"WATCH ON\" with logos for \"DStv CH 408\" and \"StarTimes CH 308\". Across all four frames, the visuals remain static, showing the same images, text, and layout without any observable changes in action or content."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "746f7241c5c736eff75f85129455d82e",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-086.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.233,
+    0.7,
+    1.167,
+    1.633
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair wearing a dark blue shirt is positioned in the lower left corner of the scene, appearing in a small rectangular window. Behind him, a decorated Christmas tree and a monitor are partially visible. To the right of the man, a large digital player card for a football game is displayed against a purple gradient background. The card features a photo of a player in a white and blue uniform with a black helmet, holding a football. On the card, the text \"TE\" and \"84\" are visible at the top, along with \"VERTICAL THREAT\" and the name \"O.J. HOWARD.\" At the bottom of the card, \"WEEK 1\" is written. Across all frames, the man remains in his position, and the digital card remains static, with no discernible changes in movement, expression, or on-screen elements."
+}

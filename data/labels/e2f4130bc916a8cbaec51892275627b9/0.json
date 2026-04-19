@@ -1,0 +1,15 @@
+{
+  "video_id": "e2f4130bc916a8cbaec51892275627b9",
+  "url": "./data/segments/3P1vSUbet40-Scene-0758.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.787,
+    2.362,
+    3.936,
+    5.511
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black baseball cap, a black t-shirt with the text \"CHECK IT\" visible on the chest, and over-ear headphones speaks into a professional microphone. He is positioned in a studio setting with a white background featuring star graphics and the words \"GRINDSET HUSTLE.\" A dark background behind him displays the word \"BOSS\" and \"TALK 101.\" On-screen graphics include a logo with a microphone and the text \"BOSS TALK 101 PODCAST\" on the left and \"BOSS TALK 101\" on the right. Throughout the sequence, the man is engaged in conversation, gesturing with his right hand as he speaks. His hand moves from an open gesture in the first frame to a more closed position in the final frames, while his head shifts slightly as he continues talking into the microphone."
+}

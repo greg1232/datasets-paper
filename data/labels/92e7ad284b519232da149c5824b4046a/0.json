@@ -1,0 +1,15 @@
+{
+  "video_id": "92e7ad284b519232da149c5824b4046a",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-560.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.658,
+    4.974,
+    8.29,
+    11.605
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt is seated in a room that appears to be a clothing store or studio. His shirt features the white text \"ION NEVER DO SHIT\". He is positioned in front of a black professional microphone and is speaking, with his facial expressions shifting slightly as he talks. The background includes several framed photographs on the wall and a white mannequin wearing a white garment. Racks of clothing are visible behind him. Two logos appear on the screen: a circular logo on the left containing a white figure and the text \"SNOT\", and a red logo on the right with the text \"SNOT\". The camera remains stationary as the man continues to speak, with the only changes being his subtle head movements and changing mouth expressions across the sequence."
+}

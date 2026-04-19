@@ -1,0 +1,15 @@
+{
+  "video_id": "78ec9b547ebb44a68cf6cdface52a95b",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-084.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.329,
+    0.987,
+    1.646,
+    2.304
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a spacious indoor hall with a high ceiling and ornate lighting, several people practice martial arts on a blue carpet. A central figure wears a white traditional martial arts outfit, while others are dressed in blue or purple uniforms. In the initial scene, the individuals are positioned in various stances. As the sequence progresses, the person in white lunges forward, extending their arm in a strike or block, while those in blue uniforms mirror movements or react to the action. Some practitioners hold long wooden poles or staves, which they manipulate during the exercise. In the background, a seated audience observes the demonstration from the sides of the room. The movement shifts from a state of preparation to active, coordinated strikes and stances, with the person in white moving dynamically across the center of the floor."
+}

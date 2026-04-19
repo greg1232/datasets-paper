@@ -1,0 +1,15 @@
+{
+  "video_id": "5cc3575a157c4c3fdfcbf706dea7aea6",
+  "url": "./data/segments/3bE53YCHjAE-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.983,
+    20.95,
+    34.917,
+    48.883
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is unboxing a piece of electronic equipment on a light-colored wooden table in a room with gray carpeting and several chairs. In the first frame, a hand is seen touching a white box that displays a picture of a handheld device and the text \"DJI Osmo Mobile 6\". As the sequence progresses, the person opens the box to reveal a black handheld gimbal and a small black carrying pouch. By the third frame, the pouch and the box are laid open on the table, and the gimbal has been removed. In the final frame, the person's hand is shown holding the black gimbal, lifting it away from the table. The background remains consistent, showing the edges of the table and the legs of nearby chairs throughout the process."
+}

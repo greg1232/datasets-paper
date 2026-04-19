@@ -1,0 +1,15 @@
+{
+  "video_id": "9214205b21fe8fa6a8f0f1b5d6575574",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.188,
+    0.562,
+    0.938,
+    1.312
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital screen displays a dark mode terminal window filled with lines of white and green system log text. The logs contain timestamps, IP addresses, and HTTP requests, including phrases like \"GET /homepage HTTP/1.1 404 444\" and \"GET /favicon.ico HTTP/1.1 404 444\". The text describes server events, mentioning \"Apache2\" and \"HTTP Server\". In the upper right corner, a date and time are visible as \"Oct 28 00:21\". A footer at the bottom of the window contains the text \"e-pyauth\" alongside a small blue and white logo. The image is a composite of four identical frames, showing a static screen of text without any movement, changes in content, or people present. The layout remains constant across the entire sequence, depicting a fixed view of technical log data."
+}

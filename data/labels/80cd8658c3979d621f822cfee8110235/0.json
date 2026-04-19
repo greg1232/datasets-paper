@@ -1,0 +1,15 @@
+{
+  "video_id": "80cd8658c3979d621f822cfee8110235",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-267.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.46,
+    1.38,
+    2.3,
+    3.22
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a presentation titled \"Rural Community Food System\" during a video conference. The main slide contains a causal loop diagram with various nodes and arrows, accompanied by text. The heading reads \"13R Retailers willing to source local & Product Cost/Price,\" followed by sections for \"Focus,\" \"Core Focus,\" and \"Supply & Demand.\" Under \"Core Focus,\" the text states, \"Retailers willing to source local increasing the availability or the supply, relative to demand, of locally sourced products tend to lower the Product Cost and thereby increasing the likelihood of Local Consumption which in turn supports those Retailers that were willing to source the local food.\" A \"Legend\" in the bottom right defines different arrow types. In the top right corner, a small video feed shows a man with short dark hair wearing a dark shirt. He remains relatively still, facing the camera throughout the sequence, while the presentation slide remains static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c7e3a46128922821ff82d6dbc792a878",
+  "url": "./data/segments/3JGRt3BFYrM-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.425,
+    31.275,
+    52.125,
+    72.975
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a Windows operating system interface, focusing on a file explorer window titled \"Customer HDS _ JBernard\" open to a \"Backup\" folder. The directory contains several files and folders, including \"Documents,\" \"Desktop,\" and specific configuration files like \"HDS_JBernard-user-configuration.config.\" The background shows a desktop with various open application windows and system icons. As the sequence progresses, the user's mouse cursor moves across the screen, navigating through the file list. In the latter portion of the video, the cursor hovers over a file named \"Hello World.exe,\" causing a small tooltip or context window to appear. The top of the window indicates a network path starting with \"\\\\TsServer\\C$\\Users\\JBernard.\" The overall scene depicts a technical user managing files within a server directory on a Windows-based system."
+}

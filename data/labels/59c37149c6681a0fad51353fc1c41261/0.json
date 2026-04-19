@@ -1,0 +1,15 @@
+{
+  "video_id": "59c37149c6681a0fad51353fc1c41261",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-148.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.975,
+    1.625,
+    2.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark baseball cap and dark clothing is visible in a small video feed in the upper right corner of a screen share. The primary focus of the screen is a dark interface featuring a complex conceptual map with various colorful icons connected by blue lines. Legible on-screen text includes browser tabs at the top such as \"Trust & Learning by Systemantics,\" \"Future of Society by Systemantics,\" and \"Rural Community Food System.\" Within the conceptual map, labels like \"Learning,\" \"Insights,\" \"Feedback Loop,\" and \"Interdependence\" are visible. The scene remains largely static across the frames, with the conceptual map and the individual in the video feed remaining in their respective positions. Small movements are visible in the video feed as the person speaks, while the cursor subtly shifts position on the main map interface."
+}

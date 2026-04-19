@@ -1,0 +1,15 @@
+{
+  "video_id": "e597728a8b422a1b531002be327b0f00",
+  "url": "./data/segments/3P1vSUbet40-Scene-0197.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.391,
+    1.173,
+    1.955,
+    2.737
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a distinctive tall, grey, peaked hairstyle sits in a podcast studio. He wears glasses, black headphones, a white long-sleeved shirt, a red and white patterned bowtie, and tan suspenders. He is positioned in front of a black microphone. In the background, walls are decorated with framed photographs and clothing items, including a garment with the word \"LEE\" visible. Two logos appear on screen: one on the left featuring a microphone icon and the text \"PODCAST\" under \"STUDIO\", and another on the right with a microphone icon and the text \"GOSS TALK JOY\" above \"PODCAST\". Throughout the sequence, the man remains seated in the same position, speaking while looking slightly to his left. His facial expression and the positioning of his mouth shift slightly as he talks, while the overall scene and surroundings remain static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ae9b71112cfbeff89265f2f9c7b98ae9",
+  "url": "./data/segments/3g8tiPycwPo-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.296,
+    0.888,
+    1.481,
+    2.073
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people are seated in a dimly lit conference room, facing a stage with a large projection screen. The audience consists of individuals in various professional and casual attire, including button-down shirts and t-shirts, many of whom are seen from the back. On stage, a presenter stands near the screen, though no text or logos are legible on the display. The room is illuminated by ornate hanging lamps and recessed lighting. Throughout the sequence, the crowd remains largely stationary, with some individuals subtly shifting in their seats or gesturing. The scene remains consistent across the frames, showing the audience attentively watching the presentation in a formal setting, with no significant changes in position, lighting, or activity occurring."
+}

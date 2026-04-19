@@ -1,0 +1,15 @@
+{
+  "video_id": "c2610c97ab8dd5c2c26f9d39fad5b3c4",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-553.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.704,
+    1.173,
+    1.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, black headphones, and a black hoodie with \"BOSS\" printed in gold lettering sits in a studio setting. He is positioned behind a desk equipped with a professional microphone on a boom arm and a black mug. Behind him, a white backdrop displays a recurring logo with the word \"HUSTLE\" and five stars. A blue sign in the background reads \"Where BOSSES Talk!\". In the foreground, a small logo on the left features a microphone and the text \"TALK OUT\". The man remains largely stationary across the sequence, glancing slightly to his left and then shifting his gaze forward. His expression is serious as he appears to be listening or preparing to speak into the microphone. The lighting is bright and consistent, and the composition remains fixed as the man makes subtle facial movements."
+}

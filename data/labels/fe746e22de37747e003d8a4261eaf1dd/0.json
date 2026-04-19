@@ -1,0 +1,15 @@
+{
+  "video_id": "fe746e22de37747e003d8a4261eaf1dd",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.834,
+    2.502,
+    4.171,
+    5.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black long-sleeved shirt and a bracelet on their left wrist is working with craft supplies on a table. They are using a spool of white ribbon with a green label and a piece of grey ribbon. The background consists of a catalog featuring the \"FEELS LIKE FROST SUITE,\" which displays various scrapbooking materials and images of wintery landscapes. In the initial sequence, the person's right hand pulls a length of grey ribbon away from the spool held in their left hand. As the action progresses, the person continues to pull and stretch the grey ribbon across the catalog page. The scene remains focused on the hands and the craft materials, with the catalog's text, including \"FEELS LIKE FROST SUITE,\" visible throughout the sequence. The person's hands move rhythmically to measure or position the ribbon over the printed page."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "97a158c9d11ee8b0be14f809fd450045",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-140.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.269,
+    0.806,
+    1.344,
+    1.881
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video displays a gaming interface for \"SUBSTITUTION\" in a sports simulation game, specifically for the \"Current Position\" of \"MLB2.\" The screen shows a roster of \"AVAILABLE PLAYERS\" with various athlete cards displaying names like \"BRUCE IRVIN\" and \"KWON ALEXANDER,\" along with their \"KEY ATTRIBUTES\" such as \"HEIGHT,\" \"SPEED,\" and \"STRENGTH.\" Top-screen indicators show numeric values like \"170,037,\" \"14,650,\" and \"2,943,543.\" A small inset window in the lower-left area features a man with short brown hair wearing a dark shirt. As the sequence progresses, the man is seen speaking with varied facial expressions, while the background gaming menu remains static. The layout includes a detailed attribute list for a player, mentioning stats for \"PLAY RECOGNITION,\" \"BLOCK SHEDDING,\" and \"PRESS MOVES.\" The overall visual is a split-screen presentation of a user navigating a team management menu while reacting on camera."
+}

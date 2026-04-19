@@ -1,0 +1,15 @@
+{
+  "video_id": "a80be92e561cd03959cf4f245158ed49",
+  "url": "./data/segments/3hLeTO8SC3U-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.319,
+    18.956,
+    31.594,
+    44.232
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair and glasses, wearing a dark navy suit jacket over a light pink shirt and a blue patterned tie, speaks while facing the camera. He is positioned in an indoor setting with a blurred, modern background featuring large glass panels and light-colored walls. In the initial frame, he is shown without any overlays. As the video progresses, a graphic appears at the bottom of the screen featuring a blue cube logo and the text \"MONGODB WORLD 2022\", \"#MDW22 | #theCUBE\", and \"theCUBE From the Javits Center, New York, NY\". To the right of this graphic, the text \"Sponsored By\" appears above a MongoDB logo. The man continues to speak, with slight shifts in his facial expression and head position as he communicates. The on-screen graphics remain constant across the final three frames of the sequence."
+}

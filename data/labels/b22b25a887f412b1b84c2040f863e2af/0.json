@@ -1,0 +1,15 @@
+{
+  "video_id": "b22b25a887f412b1b84c2040f863e2af",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.246,
+    0.738,
+    1.23,
+    1.723
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a greeting card resting on a light-colored, wood-grain surface. The card features a blue and white floral design with a white ribbon and the text \"You warm my heart\" printed on the front. To the left of the card, another similar card in a plastic sleeve is partially visible. In the first frame, the person's left hand holds the card steady while their right index finger points toward the top of the floral image. In the second frame, the right hand moves downward, pointing toward the text. By the third frame, the finger returns to the top floral area. In the final frame, the index finger points toward the center of the floral arrangement. The person wears a dark sleeve on their right arm and a thin bracelet on their left wrist."
+}

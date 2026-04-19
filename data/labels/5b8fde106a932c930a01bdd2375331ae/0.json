@@ -1,0 +1,15 @@
+{
+  "video_id": "5b8fde106a932c930a01bdd2375331ae",
+  "url": "./data/segments/3kfnwKjZWWI-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.471,
+    10.413,
+    17.354,
+    24.296
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static shot captures a white whiteboard in what appears to be a classroom or laboratory. At the top center, an analog clock is mounted, showing the time as approximately 12:15. Handwritten chemical formulas and calculations are visible on the board, including the text \"[CH3CH2COOH] = 0.1000 M\", \"V_{CH3CH2COOH} = 40.00 mL\", \"[NaOH] = 0.1000 M\", \"V_{NaOH} = 50.00 mL\", and \"K_a = 1.9 x 10^{-5}\". Below the whiteboard, a white ledge holds a few items, including a blue spray bottle on the right and some metallic fixtures in the center. No people are present in the scene. The lighting and camera angle remain constant across the sequence, though the brightness and color temperature of the image shift slightly, becoming warmer and dimmer toward the end."
+}

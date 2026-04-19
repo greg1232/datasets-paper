@@ -1,0 +1,15 @@
+{
+  "video_id": "0d35bd74f41c0cd834d9217f57660c64",
+  "url": "./data/segments/3HgCF6yVXko-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.512,
+    1.537,
+    2.562,
+    3.587
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A camera pans slowly into a spacious, modern dining area from behind an open reddish-brown wooden door. The room features polished, light-colored tiled floors that reflect the overhead lighting and a large dining set consisting of a dark rectangular table surrounded by six white chairs. In the background, gold-colored curtains frame a window, and a minimalist chandelier with several small bulbs hangs above the table. As the perspective shifts, a brown leather sofa and a small coffee table become visible in a connected living space to the right. The walls are painted an off-white color, and the room is brightly lit. No people are present in the scene. The sequence captures a steady transition moving further into the room, revealing more of the interior layout and furniture."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5e85c03966464a58ad684627b839f50c",
+  "url": "./data/segments/3mmDnftP1M8-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.13,
+    0.391,
+    0.651,
+    0.911
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light-colored, button-down shirt and a black headset with a microphone speaks against a plain, light-blue background. In each frame, he holds both hands up with palms facing forward and fingers spread, gesturing as he talks. As the sequence progresses, his facial expression shifts slightly, with his mouth opening further and his eyes narrowing. He wears a gold ring on the ring finger of his left hand. The text \"Ashish Raichur\" is visible in the bottom left corner of each scene. The composition remains static, focusing on the man from the chest up, while the only movement is in his speech and the subtle shifting of his hands and facial muscles."
+}

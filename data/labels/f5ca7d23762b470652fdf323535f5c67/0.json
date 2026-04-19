@@ -1,0 +1,15 @@
+{
+  "video_id": "f5ca7d23762b470652fdf323535f5c67",
+  "url": "./data/segments/3i5-ZukC--g-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a digital, abstract space filled with dark purple and black tones, overlaid with glitchy visual artifacts. A small, bright red point of light moves across a field of scattered white dots and faint, geometric data patterns. In several segments of the video, fragments of vertical white and red text appear, though they are heavily distorted and fragmented. Legible portions of this text include strings such as \"PROTOCOL\", \"NETWORK\", and \"STATUS: ACTIVE\". As the sequence progresses, the red light travels horizontally across the screen, leaving a faint red trail behind it. The visual environment is periodically interrupted by horizontal bands of green, magenta, and blue color distortion, suggesting a corrupted digital transmission or a futuristic computer interface simulating data flow through a void. No people, clothing, or physical locations are present."
+}

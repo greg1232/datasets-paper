@@ -1,0 +1,15 @@
+{
+  "video_id": "26ccace530c3a7d748d126be268f4184",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.976,
+    1.627,
+    2.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene shows a close-up view of a vehicle's digital instrument cluster. Centered on the screen is a white instructional message that reads, \"Press Brake and Push Button to Start,\" positioned below the word \"BRAKE\" and a red icon depicting a foot pressing a pedal. Below the main text, the current mileage is displayed as \"20434 mi\". The display is flanked by circular gauges with red glowing outlines, where the number \"20\" is partially visible on the right side of the screen. The lighting is dim, and a soft, blue ambient glow emanates from the edges of the display area. Across the sequence of frames, the image remains static, with no movement or changes in the displayed text or graphics, indicating a steady state of the vehicle's ignition prompt."
+}

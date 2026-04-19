@@ -1,0 +1,15 @@
+{
+  "video_id": "3ec7e65311758637303857f572e9d193",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-090.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video conference call. In the top right corner, a man wearing a dark baseball cap and a dark shirt is visible in a small video feed. The main area of the screen displays a digital workspace with a dark background containing several gray circular nodes and connecting lines. Centered in the workspace is a rectangular image showing green foliage and the word \"SHARE\" in bold, white, capital letters. Two small avatar icons are positioned near this image: one featuring a person with dark hair and glasses and another featuring a person with red hair. A blue curved line connects the two avatars. Across the top of the screen, several browser tabs are open, including one titled \"True Learning by Systemenii,\" and a small text label \"Save Beddinger\" appears near the man's video feed. The scene remains static throughout the sequence, with no visible changes in movement or content."
+}

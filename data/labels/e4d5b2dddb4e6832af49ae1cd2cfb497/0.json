@@ -1,0 +1,15 @@
+{
+  "video_id": "e4d5b2dddb4e6832af49ae1cd2cfb497",
+  "url": "./data/segments/3i5-ZukC--g-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman wearing black-rimmed glasses and a dark top is positioned on the right side of the frame, partially obscured by a large, white three-dimensional price tag. The image is a promotional advertisement for VirtualShield, with the company's logo appearing at the top and bottom left. Bold white text on a dark background reads \"Stay Home, Stay Protected.\" and \"Extra 50% OFF\". Below this, a block of smaller white text discusses the impact of COVID-19 on economics and the importance of online security. A prominent price of \"$2.50 /month\" is displayed in large white characters. A red button reads \"Start Now for FREE\", followed by a line that says \"Click the button above to claim your 50% discount!\". Across the sequence of frames, the visual composition remains static, with no movement or changes in the woman's expression, the text, or the layout of the graphical elements."
+}

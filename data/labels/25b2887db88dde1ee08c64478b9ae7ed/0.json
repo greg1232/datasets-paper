@@ -1,0 +1,15 @@
+{
+  "video_id": "25b2887db88dde1ee08c64478b9ae7ed",
+  "url": "./data/segments/3hGuLEduWLM-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.974,
+    2.922,
+    4.87,
+    6.818
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Set against a dark, starry space background, the video features blue 3D letters and small cartoon characters. Initially, the letters are scattered randomly across the screen, though \"Early age learning\" is visible in red text at the top. Small cartoon figures appear sporadically around the edges. As the sequence progresses, the scattered letters move and align to form the words \"LIKE\", \"SHARE\", and \"SUBSCRIBE\" stacked vertically in a bold, blue font. In the latter half of the clip, the letters once again disperse into a random arrangement. Throughout the video, the red text \"Early age learning\" remains visible, and an email address, \"earlyagelearning@gmail.com\", appears in white text at the bottom. A small logo, \"earlyagelear\", also appears in red. The scene transitions from chaos to order and back to chaos, focusing on the movement of the blue letters."
+}

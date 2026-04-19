@@ -1,0 +1,15 @@
+{
+  "video_id": "a05f76f81e1a418277bc71a0bdfe1dfe",
+  "url": "./data/segments/3Z229_lKLpk-Scene-161.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.965,
+    2.895,
+    4.825,
+    6.755
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard and glasses, wearing a light-colored button-down shirt and a white vest, speaks from a wooden podium equipped with two microphones. He is positioned in front of a textured, dark green stone wall. To his side stands a decorative pillar with gold accents and pink flowers. As the sequence progresses, the man uses hand gestures to emphasize his points; he first raises his left hand, then lowers it, and finally raises his right hand high into the air while speaking. The background and the positioning of the podium remain constant throughout the clip, focusing entirely on the man's upper body and his expressive delivery. No text or logos are visible in the scene."
+}

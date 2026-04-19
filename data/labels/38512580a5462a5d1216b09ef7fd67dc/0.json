@@ -1,0 +1,15 @@
+{
+  "video_id": "38512580a5462a5d1216b09ef7fd67dc",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-082.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation room, several individuals are gathered around a patient mannequin lying in a hospital bed. A woman in the foreground, with her back to the viewer, wears a black jacket. Beside the bed, a woman in blue scrubs and a black face mask wears blue nitrile gloves and looks toward the patient. Next to her, another woman in a blue shirt, black jacket, and black face mask also wears blue gloves and holds a white piece of paper. The background contains hospital equipment, including monitors and shelving. On-screen text and logos appear in each frame: a purple icon with the text \"Day 2\" is on the left, and a logo with the text \"Sim Week\" is on the right. Across the frames, the scene remains static with minimal movement, as the individuals maintain their positions and focused attention on the simulation."
+}

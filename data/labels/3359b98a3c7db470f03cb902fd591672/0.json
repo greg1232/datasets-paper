@@ -1,0 +1,15 @@
+{
+  "video_id": "3359b98a3c7db470f03cb902fd591672",
+  "url": "./data/segments/3E6ctN22V7k-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.545,
+    1.635,
+    2.725,
+    3.815
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands still in front of a small, mud-walled building with a corrugated metal roof in a rural outdoor setting. He is wearing a purple open jacket over a striped shirt and dark trousers, standing with his hands on his hips. To his left, colorful clothing hangs on a line attached to the building. A yellow container sits on the ground near the doorway behind him, and a few small stones or blocks are scattered on the dirt ground. In the upper right corner of the scene, there is a logo containing the text \"\u0627\u0644\u062c\u0632\u064a\u0631\u0629\". Across the sequence of frames, the man remains stationary, but the lighting shifts significantly; while the first few frames are bright and clear, the final frame becomes considerably darker, as if a shadow or cloud has passed over the scene."
+}

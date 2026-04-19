@@ -1,0 +1,15 @@
+{
+  "video_id": "a28db536ca51b0df347d679c0fa8bf72",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot shows the upper portion of a car's windshield and roofline, reflecting a tree and a light-colored sky. Inside the vehicle, brown parcels or bags are visible through the glass. As the sequence progresses, a hand enters from the left, reaching toward the gap between the roof and the windshield. The hand grips the edge of the glass, applying pressure to push or pull it. By the final moment, the windshield glass shifts and separates from the vehicle's frame, creating a visible gap and exposing the internal structure of the car's roofline. The lighting is bright, causing significant glare and reflections on the glass surface throughout the movement. No people's faces, clothing, or text are visible in the frames."
+}

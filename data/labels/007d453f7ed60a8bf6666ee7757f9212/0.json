@@ -1,0 +1,15 @@
+{
+  "video_id": "007d453f7ed60a8bf6666ee7757f9212",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-150.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.485,
+    1.455,
+    2.425,
+    3.395
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video call and a digital workspace. The primary focus is a dark-themed mind map featuring various circular icons connected by lines, with labels such as \"Insights,\" \"Interconnectedness,\" and \"Holistic Flow.\" A small video feed in the top right corner shows a man wearing a dark baseball cap. At the top of the browser, several tabs are visible, including \"Trust & Learning by Systemic,\" \"Moments by Systemic,\" and \"Future of Society by Systemic.\" As the sequence progresses, a second video feed appears in the bottom right, showing a man with glasses. In the final stage, the central mind map becomes dimmed and partially obscured by a dark overlay, while the two video feeds of the men remain clearly visible. The interface also displays a \"Guest\" label and a menu with options like \"Edit\" and \"Talk.\""
+}

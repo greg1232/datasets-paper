@@ -1,0 +1,15 @@
+{
+  "video_id": "24b328cf6c4f655e5787ce0eff22d8fb",
+  "url": "./data/segments/3Z229_lKLpk-Scene-172.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.335,
+    1.005,
+    1.675,
+    2.345
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people are seated in an assembly hall with tiered, wooden seating. The individuals are dressed in a mix of formal and traditional Indian attire, including white kurtas, sarees, and business shirts. Most of the attendees are sitting still and facing forward, though some are seen gesturing or leaning slightly. In the middle rows, a man in a white shirt rests his chin on his hand in a contemplative pose. The background consists of rows of seated individuals stretching upward, creating a dense crowd. Throughout the sequence, there is very little movement; the people remain in their respective seats, and the camera angle stays static, capturing a still and formal atmosphere. No on-screen text, logos, or specialized equipment are visible in the scene."
+}

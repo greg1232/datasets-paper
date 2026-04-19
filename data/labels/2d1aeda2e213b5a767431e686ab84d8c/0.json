@@ -1,0 +1,15 @@
+{
+  "video_id": "2d1aeda2e213b5a767431e686ab84d8c",
+  "url": "./data/segments/3l84m5pRmyk-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white, neoclassical cathedral with multiple domes and towers stands adjacent to a modern glass-and-concrete high-rise building. A palm tree and several other smaller trees flank the cathedral's entrance. In the background, a white car is parked or idling on the street. A few pedestrians are visible near the entrance of the cathedral, though they remain small in the frame. A traffic light is positioned on a pole in front of the building, displaying a red light. A street sign reading \"MARKET\" is visible on the pole. Across the sequence, the camera remains stationary, and there is very little movement within the scene; the pedestrians shift slightly, and the lighting remains consistent under a cloudy sky. The overall composition captures a contrast between traditional religious architecture and contemporary urban development."
+}

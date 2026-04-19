@@ -1,0 +1,15 @@
+{
+  "video_id": "acbb8ff65413438653d1303bcea79800",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-176.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.32,
+    0.96,
+    1.6,
+    2.24
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser with several open tabs, including \"Trust & Learning by SystemSynthesis\" and \"Road Community Food Spot System.\" The main window shows a complex conceptual map on a black background, featuring various circular icons connected by blue curved lines. Some of the icons contain text labels such as \"Income,\" \"Health,\" and \"Inclusive Hub.\" In the upper right corner of the browser window, a small video feed shows a man with short hair wearing a dark shirt. A toolbar at the top of the map interface includes a search bar containing the text \"diets/community food learning\" and a menu with options like \"File,\" \"Edit,\" and \"View.\" Throughout the sequence, the visual content remains static; the map, the open tabs, and the man in the video feed do not change their positions or actions."
+}

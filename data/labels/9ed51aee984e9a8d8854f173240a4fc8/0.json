@@ -1,0 +1,15 @@
+{
+  "video_id": "9ed51aee984e9a8d8854f173240a4fc8",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.68,
+    2.04,
+    3.4,
+    4.76
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a dark beard and mustache, wearing a light grey button-down shirt, is speaking while seated against a dark grey background. The background is filled with a repeating watermark pattern that includes the words \"DAILY ROUND-UP.\" In the top left corner of the scene, a logo for \"peoples dispatch\" is visible. As the sequence progresses, an on-screen graphic appears at the bottom of the frame. This graphic features a red rectangular bar and the white text \"PRASANTH RADHAKRISHNAN\" positioned above the words \"PEOPLES DISPATCH.\" Throughout the frames, the man remains in the same position, slightly gesturing and shifting his facial expression as he speaks, while the background and his attire remain constant."
+}

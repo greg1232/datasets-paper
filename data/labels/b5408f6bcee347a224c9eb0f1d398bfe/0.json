@@ -1,0 +1,15 @@
+{
+  "video_id": "b5408f6bcee347a224c9eb0f1d398bfe",
+  "url": "./data/segments/3EO0YIxkle8-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.224,
+    0.673,
+    1.121,
+    1.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a black background with white text appearing in different positions. The text, which reads \"Les impacts des in\u00e9galit\u00e9s sur les femmes\", is initially positioned in the upper-left quadrant. It then shifts to the upper-right quadrant, followed by a move to the lower-left quadrant, and finally settling in the lower-right quadrant. No people, objects, or other visual elements are present; the only activity is the movement of this single phrase across the screen in a sequential pattern. The font is a clean, sans-serif white typeface that contrasts sharply against the solid black backdrop. There are no logos or other graphics visible throughout the sequence."
+}

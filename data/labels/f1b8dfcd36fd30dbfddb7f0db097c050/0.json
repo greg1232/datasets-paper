@@ -1,0 +1,15 @@
+{
+  "video_id": "f1b8dfcd36fd30dbfddb7f0db097c050",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.896,
+    2.688,
+    4.479,
+    6.271
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen mixing a textured, beige-colored food mixture in a large, shallow metal bowl. To the side of the bowl, there is a small white plate and a small red bowl, both containing portions of the same beige food mixture. The \"UCAR CENTER FOR SCIENCE EDUCATION\" logo and text appear in the upper left corner of each frame. Throughout the sequence, the person continuously stirs and blends the ingredients within the metal bowl. The motion causes the food to shift and clump, while the red bowl and white plate remain stationary on the wooden surface. The lighting is bright, and the focus remains on the activity of mixing the food, with the person's hands moving rapidly through the mixture as the scene progresses."
+}

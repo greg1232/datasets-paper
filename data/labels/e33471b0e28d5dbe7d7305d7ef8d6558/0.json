@@ -1,0 +1,15 @@
+{
+  "video_id": "e33471b0e28d5dbe7d7305d7ef8d6558",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-289.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.537,
+    0.896,
+    1.254
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game takes place on a green grass field marked with white yard lines, with red and gold borders displaying the word \"COMMANDERS\". Players in white uniforms and players in dark uniforms are scattered across the field. In the top frames, a player in white runs toward the left side of the field, while several players in dark uniforms stand near the center. An on-screen label \"Smith\" appears near a player in white. A small inset window in the lower-left corner shows a man with blond hair wearing a blue shirt and a headset, speaking. As the scene progresses to the bottom frames, the players shift positions; the player labeled \"Smith\" moves further to the right, and other players in white and dark uniforms reposition themselves across the field. The man in the inset window remains present, continuing to speak throughout the sequence."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4cab341a64e8e656159cfd2f1f5b0eed",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.4,
+    1.201,
+    2.002,
+    2.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot captures a car's digital instrument cluster as it prepares for startup. The display features a central message that reads \"Press Brake and Push Button to Start,\" with the mileage \"20434 mi\" listed below it. Above this text, the word \"BRAKE\" is visible next to a red warning icon. The screen is flanked by circular gauges, one of which shows a speedometer with numbers ranging from 0 to 60. Throughout the sequence, the scene remains static in composition, though there are subtle shifts in lighting and focus. A soft glow emanates from the red accents of the gauges, and a faint reflection of light streaks across the glass surface of the dashboard. No people are visible in the frames, focusing the entire scene on the vehicle's interior electronic interface."
+}

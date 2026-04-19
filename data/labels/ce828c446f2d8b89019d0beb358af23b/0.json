@@ -1,0 +1,15 @@
+{
+  "video_id": "ce828c446f2d8b89019d0beb358af23b",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.33,
+    0.99,
+    1.65,
+    2.31
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A vehicle travels along a road through a flat, arid landscape under a clear blue sky. The scenery consists of sparse green bushes and dry, brown earth, with a distant horizon line featuring low-lying structures and a single tall tower. A metal guardrail runs along the side of the road in the foreground. A white logo featuring a crown and the letters \"MCF\" is visible in the upper right corner of the scene. As the vehicle moves forward, a triangular red-and-white warning sign featuring a black car skid symbol appears and then passes by. The camera movement creates a motion blur effect on the nearby foliage and the guardrail. No people are visible in the frames."
+}

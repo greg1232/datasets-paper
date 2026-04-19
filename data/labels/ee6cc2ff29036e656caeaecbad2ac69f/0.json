@@ -1,0 +1,15 @@
+{
+  "video_id": "ee6cc2ff29036e656caeaecbad2ac69f",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.217,
+    0.65,
+    1.083,
+    1.517
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is seen interacting with a stack of black cards labeled \"OBSIDIAN\" on a black surface featuring the red and orange \"JASPYS\" logo and the text \"CASEBREAKS.COM\". In the background of several frames, a man wearing a black jacket is visible in a small inset window. As the sequence progresses, a hand enters the frame and moves across the surface toward the stack of cards. The hand then swipes across the area, partially obscuring the view of the \"JASPYS\" logo. The black \"OBSIDIAN\" cards remain stacked throughout the scene, positioned centrally on the branded mat. The layout transitions from a clear view of the cards and logo to a blurred motion of the hand moving quickly across the foreground, while the inset video of the man in the black jacket remains constant in the background of the right-hand side frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "69b6266ad156bc2b8fcd5311a3ee7281",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-348.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.813,
+    2.44,
+    4.067,
+    5.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head, a dark beard, and a tattoo on his right arm is recording in a studio. He wears a white t-shirt and large black over-ear headphones. He is positioned in front of a silver condenser microphone attached to a boom arm that features the text \"Shure SM7B\". The background consists of dark gray acoustic foam panels with horizontal ridges. Across the sequence, the man is speaking into the microphone, with his mouth open and his facial expressions shifting. In one instance, he gestures with his left hand, and in the final moments, he closes his eyes while continuing to speak. The camera remains stationary, maintaining a close-up shot of the man from the chest up throughout the duration of the clip."
+}

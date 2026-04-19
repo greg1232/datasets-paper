@@ -1,0 +1,15 @@
+{
+  "video_id": "c62f394cf3296210163f03d67f44fb23",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.986,
+    8.959,
+    14.932,
+    20.904
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is positioned in a recording studio, set against a background of dark grey acoustic foam panels with a ribbed texture. He is wearing over-ear headphones and a dark zip-up hoodie over a grey t-shirt. A professional condenser microphone, mounted on a black boom arm, is positioned directly in front of his face. Throughout the sequence, the man remains stationary, facing slightly to the right. He maintains a neutral expression, blinking his eyes and slightly shifting his gaze across the frames. The equipment and environment remain constant, with no on-screen text or logos visible. The only movement is the slight change in his facial expression and the blinking of his eyes as he looks forward."
+}

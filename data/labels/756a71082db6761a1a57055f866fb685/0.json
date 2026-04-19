@@ -1,0 +1,15 @@
+{
+  "video_id": "756a71082db6761a1a57055f866fb685",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-443.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.706,
+    1.177,
+    1.648
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair and a dark shirt is shown in a small picture-in-picture overlay on the left side of a video game screen. He is sitting in a room with a decorated Christmas tree visible behind him. The main screen displays a sports game lineup menu with the heading \"LINEUP\" and several categories such as \"OFFENSE\", \"DEFENSE\", \"SPECIAL TEAMS\", \"SPECIALISTS\", \"STRATEGY\", and \"VISUALS\". Various colorful player cards are arranged in a grid, and numbers like \"159,529\" and \"1,787,369\" appear at the top right. At the bottom of the menu, options for \"BEST LINEUP\", \"HELP\", and \"BACK\" are listed. As the sequence progresses, the man's facial expression changes from a neutral look to a wide smile and laughter. The game interface remains static throughout the clip, while the man continues to react emotionally in his overlay window."
+}

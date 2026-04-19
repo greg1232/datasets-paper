@@ -1,0 +1,15 @@
+{
+  "video_id": "ba2dcbda4dac0c093352a856f08aa021",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-071.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.656,
+    4.967,
+    8.279,
+    11.591
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static graphic against a shimmering, pale gold background filled with soft, out-of-focus light orbs and sparkling star-like flares. The scene remains consistent across the frames, featuring a call to action with stylized text and flourishes. In the upper section, the word \"Subscribe\" appears on the left, and the phrase \"Check out more videos\" is positioned to the right, both accompanied by elegant swirls. Below this, a centered line of text reads, \"Shop & Order at www.StampingJill.com\". No people, equipment, or physical locations are visible, as the video consists entirely of a digital overlay. The lighting effects shift slightly, with the glowing spots and sparkles subtly changing position or intensity, creating a gentle animation effect while the on-screen text remains stationary."
+}

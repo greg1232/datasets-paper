@@ -1,0 +1,15 @@
+{
+  "video_id": "78cef37bc9ca303b250078e0423d95eb",
+  "url": "./data/segments/3a0FD1177FA-Scene-083.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.516,
+    1.548,
+    2.581,
+    3.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown working on a craft project atop a white gridded cutting mat. The person wears a white Apple Watch on their left wrist and a ring on their ring finger. In the initial frames, they hold a small, rectangular card with a floral pattern and a white circular label that reads, \"Wishing you a BIRTHDAY filled with all the best things\". A small strip of adhesive tape is held in the right hand and carefully applied to the back of the card. Beside the main project are other patterned paper scraps, including a blue marbled piece and another floral cutout. Throughout the sequence, the person meticulously positions the tape to secure the card elements. In the final frame, the person lifts the finished card assembly, revealing the depth of the layered papers. A small \"Stamping\" logo with a heart is visible in the bottom-left corner of each frame."
+}

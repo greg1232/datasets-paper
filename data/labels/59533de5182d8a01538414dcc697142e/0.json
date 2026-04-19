@@ -1,0 +1,15 @@
+{
+  "video_id": "59533de5182d8a01538414dcc697142e",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-293.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.381,
+    1.144,
+    1.906,
+    2.669
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video captures gameplay from a football simulation, alternating between wide stadium views, overhead tactical views, and a facecam of a man wearing a black shirt and a headset. The man appears in a small window in the bottom left of each scene, sitting in front of a Christmas tree. On-screen graphics display \"2nd & 10\", team logos, and a game clock at \"0:16\". In tactical views, the field is overlaid with glowing colored lines and zones labeled \"DEEP ZONE\" and \"3REC HOOK\". The action transitions from a sweeping exterior shot of a stadium with a large \"ExxonMobil\" logo to a top-down view of the line of scrimmage where players in white and black uniforms face off. As the play begins, the view shifts to a lower angle behind the offense, then back to a tactical view showing \"QUARTER\" and \"SLANT\" text on the field, while a prompt at the bottom reads \"HOLD THE LINE\"."
+}

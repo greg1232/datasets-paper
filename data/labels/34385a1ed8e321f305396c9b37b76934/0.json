@@ -1,0 +1,15 @@
+{
+  "video_id": "34385a1ed8e321f305396c9b37b76934",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-093.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.292,
+    0.876,
+    1.46,
+    2.044
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green and black Polaris utility vehicle is parked outdoors in front of a weathered brown wooden wall. The vehicle features a storage bin in the rear with \"POLARIS\" written in white capital letters and a smaller \"RANGER\" logo on the side. The side of the vehicle also displays \"POLARIS\" and \"6X6\" in white text. A person is seated in the driver's seat, though only their head and shoulders are visible. The vehicle is equipped with six large, rugged tires designed for off-road use. Across the sequence of frames, the vehicle remains stationary in a side-profile view. There is no significant movement or change in the scene, as the person remains seated and the surroundings stay constant, capturing a static moment of the utility vehicle parked on a concrete surface."
+}

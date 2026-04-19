@@ -1,0 +1,15 @@
+{
+  "video_id": "5bc2a2660dfbac683067514958aa6562",
+  "url": "./data/segments/3dN_F08u-KE-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.465,
+    1.395,
+    2.325,
+    3.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video footage, captured in black and white, shows a ship on the water from an aerial perspective. The ship is positioned vertically in the frame, with a bright light emanating from its side. In the upper left of each frame, there is a logo and the text \"\u0413\u041e\u041b\u041e\u0412\u041d\u0415 \u0423\u041f\u0420\u0410\u0412\u041b\u0406\u041d\u041d\u042f \u0420\u041e\u0417\u0412\u0406\u0414\u041a\u0418\". In the upper right, there is a red and white \"13\" logo. A circular logo containing an eagle and the word \"GROUP\" is visible on the right side of the frames. As the sequence progresses, a bright, white flash of light erupts on the deck of the ship, obscuring much of the vessel. By the final frame, the flash expands into a large plume of white smoke and light that fills the lower half of the screen, partially concealing the ship."
+}

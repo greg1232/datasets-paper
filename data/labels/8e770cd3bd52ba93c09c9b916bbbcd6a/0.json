@@ -1,0 +1,15 @@
+{
+  "video_id": "8e770cd3bd52ba93c09c9b916bbbcd6a",
+  "url": "./data/segments/3QD9oO6sRns-Scene-096.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.781,
+    1.094
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a \"CLEARLY AUTHENTIC\" white and blue cardboard box on a black surface. In the background, stacks of similar boxes sit on a table, and a red and white object is visible to the left. An orange and white logo reading \"JASPYS CASEBREAKS\" spans the bottom of the scene, and a small inset video in the bottom right corner shows a man wearing a black t-shirt and a baseball cap. As the sequence progresses, the person lifts the lid of the box, revealing a grey interior with partitioned slots. The man in the inset video remains visible, observing the process. The \"CLEARLY AUTHENTIC\" text is printed on the side of the box. Across the frames, the focus remains on the tactile action of opening the packaging within a professional setting dedicated to collectible case breaks."
+}

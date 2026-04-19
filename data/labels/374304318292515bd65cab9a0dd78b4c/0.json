@@ -1,0 +1,15 @@
+{
+  "video_id": "374304318292515bd65cab9a0dd78b4c",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-321.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.585,
+    1.755,
+    2.925,
+    4.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call displays a grid of participants in various home or office settings. The grid consists of several repeated rows of the same people, including individuals like \"Jerry McHally,\" \"Bernard Silverman,\" \"Gera Belloggio,\" \"Jim Bartle,\" and \"Klaas Wage.\" Participants are seen in different environments: some are in front of bookshelves, others against plain walls or digital backgrounds. They wear casual attire, such as button-down shirts and t-shirts. Throughout the sequence, the people remain in their respective tiles, maintaining their positions. Some participants look directly at their cameras, while others look down or slightly away. Small text labels with names are visible at the bottom of several video tiles. The overall composition of the call remains static, with minimal movement as the participants engage in the virtual meeting."
+}

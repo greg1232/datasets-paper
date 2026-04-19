@@ -1,0 +1,15 @@
+{
+  "video_id": "802e7fd3c227680298e077d0f4c258ef",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-619.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.355,
+    1.064,
+    1.773,
+    2.482
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a dark green t-shirt with the text \"ION NEVER DO SHIT\" printed on it sits behind a professional microphone. He is in a room featuring a wall decorated with numerous framed photographs and a white mannequin wearing a white garment in the background. To the right, clothing racks are visible. Two logos appear on the screen: a circular one on the left and a red text logo on the right that says \"REALLY TOT\". Across the sequence, the man speaks and shifts his facial expressions; he begins with a slight smile, looks slightly to the side with a neutral expression, and then returns to speaking while looking forward. The background setting, equipment, and clothing remain constant as only the man's head and facial movements change."
+}

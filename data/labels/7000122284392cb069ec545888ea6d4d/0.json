@@ -1,0 +1,15 @@
+{
+  "video_id": "7000122284392cb069ec545888ea6d4d",
+  "url": "./data/segments/3Z229_lKLpk-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.405,
+    1.215,
+    2.025,
+    2.835
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a static, close-up view of an ornate architectural wall. The scene features a repetitive pattern of textured, teal-green stone tiles arranged in stepped, geometric shapes. Interspersed with the stone are vertical panels of carved brown wood, featuring a rhythmic, scalloped art deco motif. Two slender, golden cylindrical light fixtures are mounted on the stone wall, each housing a small, glowing bulb at the top and a thin, decorative spiral element running vertically through the center. The image remains completely still across all frames, showing no movement, changes in lighting, or presence of people. The composition focuses on the contrast between the cool tones of the stone and the warm tones of the wood and golden light."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "11448faddea149a5dcd1b31db6abc497",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-289.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.246,
+    0.738,
+    1.23,
+    1.723
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head, dark beard, and headphones is seated in a recording studio, positioned in front of a professional condenser microphone. He wears a white t-shirt that features the text \"Stay Humble\" partially visible on the chest. The background consists of dark gray acoustic foam panels with a ribbed texture. As the sequence progresses, the man looks toward someone off-camera to his right, shifting his gaze and subtly changing his facial expression. He begins with a focused look, transitions into a slight smile while speaking, and then looks slightly downward. The microphone remains stationary in the foreground, held by a shock mount and a boom arm. The lighting is consistent across the scenes, highlighting the man's face and the metallic surfaces of the recording equipment."
+}

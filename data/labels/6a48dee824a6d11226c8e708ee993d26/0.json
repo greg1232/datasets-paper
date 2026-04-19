@@ -1,0 +1,15 @@
+{
+  "video_id": "6a48dee824a6d11226c8e708ee993d26",
+  "url": "./data/segments/3Z229_lKLpk-Scene-170.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.415,
+    1.245,
+    2.075,
+    2.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of men are seated in a formal assembly setting with green carpeting and rows of wooden desks. The men are dressed in various attire, including white kurtas, some with vests in colors like pink and navy blue, and one man in a yellow shirt. In the foreground, a man in a navy blue vest and white attire is seated behind a carved wooden podium. Several laptops are open on the desk in front of him. As the sequence progresses, the man at the podium shifts his posture, leaning slightly forward and adjusting his position. The other men seated behind him remain relatively still, looking toward the front of the room. The scene maintains a consistent formal atmosphere, with no visible on-screen text or logos, as the camera captures the subtle movements of the participants in the assembly."
+}

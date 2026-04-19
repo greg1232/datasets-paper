@@ -1,0 +1,15 @@
+{
+  "video_id": "4e5bb8be56479eb3cc3d0457fe39168c",
+  "url": "./data/segments/3F2rz23IKUk-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.89,
+    5.67,
+    9.45,
+    13.23
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video consists of a static slide titled \"Encouraging compliance.\" The slide features a white background with black text arranged in a bulleted list. The text reads: \"Design contractor identified by examining usernames and build machine information left in the kernel binary,\" \"Contact made with contractor, redirected to B&N VP in charge of Android,\" \"Source made available 3 months after device originally ships,\" and \"Nook Color source released within a week.\" There are no people, clothing, or physical objects present in the scene. The visual content remains completely unchanged across all frames, as the slide is displayed without any animations, transitions, or modifications throughout the duration of the clip."
+}

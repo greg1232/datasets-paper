@@ -1,0 +1,15 @@
+{
+  "video_id": "0204370da5c0c9e154b3c332d1120c1b",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-282.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.123,
+    0.369,
+    0.615,
+    0.86
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands manipulate a graded sports card encased in a clear plastic slab. In the first frame, the hands hold the slab upright, showing a label. By the second frame, the person tilts the slab to catch the light. The third and fourth frames reveal a picture-in-picture overlay showing a man with a beard wearing a navy blue shirt, seated at a desk with computer equipment in a room. The main view transitions to show the front of the card, featuring a baseball player in a white uniform. The background consists of a surface with a teal and orange palm tree logo. The orange and white text \"JASPYS\" and \"CASEBREAKS.COM\" is prominently displayed in the upper right of the frames. Across the bottom, the \"JASPYS\" logo appears again alongside the man in the overlay."
+}

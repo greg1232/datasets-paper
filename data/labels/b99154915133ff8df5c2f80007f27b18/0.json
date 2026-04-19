@@ -1,0 +1,15 @@
+{
+  "video_id": "b99154915133ff8df5c2f80007f27b18",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-343.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    36.585,
+    109.755,
+    182.925,
+    256.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call features a grid of multiple participants in various home office settings. The participants include several men and women; notable individuals include a man in a blue shirt identified by on-screen text as \"Jerry McHale,\" a man in a grey shirt labeled \"Herval Dumont,\" and a woman whose name is not visible. Other participants are identified as \"Jelgi Beukery,\" \"Lei Zhang,\" \"Ari Jan van de Vyver,\" \"BB Satta,\" \"Syriel Lajoie,\" and \"charles Mass.\" One man wears a blue t-shirt, while others wear button-down shirts or casual wear. The backgrounds vary from bookshelves and living rooms to plain walls and offices. Across the sequence, the participants remain in their respective tiles, with some shifting their posture or glancing toward their screens. The layout and the people present remain consistent throughout the clip, maintaining a steady virtual meeting environment."
+}

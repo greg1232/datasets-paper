@@ -1,0 +1,15 @@
+{
+  "video_id": "8dc801da8d5b1c40edf3c21efb5c4a72",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white sleeveless shirt and black pants walks toward a white luxury coach bus parked in a modern transit area with red pillars and a light-colored tiled floor. He is accompanied by several men in dark suits, one of whom stands near a black stanchion as the man in the white shirt passes by. A white logo consisting of a crown and stylized letters is visible in the upper right corner of the scene. The bus features a large windshield with a red and white banner across the top containing the text \"Real Madrid\". As the sequence progresses, the man in the white shirt moves forward, continuing his path toward the bus, while the suited men remain largely stationary in their positions. The lighting is bright and consistent, illuminating the architectural details of the loading bay and the polished exterior of the vehicle."
+}

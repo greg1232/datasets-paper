@@ -1,0 +1,15 @@
+{
+  "video_id": "0dc63122cfc9d3470b4e458c8b005395",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-274.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.46,
+    1.38,
+    2.3,
+    3.22
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video recording captures a screen share during an online meeting. In the first two frames, a document titled \"Introduction\" is displayed, which includes a link to \"https://crp.kosmos.io/large-corporate-farm-systems\" and mentions a \"Causal Loop Diagram map\" and a \"Rich Picture Food Systems map by Christopher Chase.\" The text discusses the \"Rural Community Food Systems Economic and Market Pathways\" presentation. A small webcam feed in the top right corner shows a man with short dark hair and a beard wearing a dark shirt. By the third and fourth frames, the screen share switches to a detailed, hand-drawn conceptual illustration titled \"Food Systems.\" This colorful drawing depicts various elements of food production and distribution, featuring text such as \"Food Systems,\" \"Industrial,\" and \"Local,\" along with sketches of buildings, people, and food items. The man in the webcam feed remains visible in the top right throughout the sequence."
+}

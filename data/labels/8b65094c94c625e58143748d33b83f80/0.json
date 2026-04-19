@@ -1,0 +1,15 @@
+{
+  "video_id": "8b65094c94c625e58143748d33b83f80",
+  "url": "./data/segments/3l84m5pRmyk-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.966,
+    11.899,
+    19.832,
+    27.765
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a light complexion, wearing a blue button-down shirt with a small \"NFO-OBJECTS\" logo on the chest, speaks while wearing a headset microphone. He is positioned in front of a light-colored backdrop featuring the logos \"theCUBE\" and \"siliconANGLE\". As he speaks, his facial expressions and head position shift slightly. In the lower-left corner of the scene, a small logo reads \"#BigDataSV 2015\". As the sequence progresses, a blue informational banner appears at the bottom of the screen containing the text \"#theCUBE LIVE at #BigDataSV 2015\", \"Fairmont Hotel - Valley Room\", and \"San Jose, CA\". This banner expands to include a \"SPONSORED BY\" section on the left featuring the \"NFO-OBJECTS\" logo. The camera remains stationary, capturing the man from the waist up as he delivers his presentation."
+}

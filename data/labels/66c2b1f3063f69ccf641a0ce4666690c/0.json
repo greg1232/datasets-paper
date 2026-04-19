@@ -1,0 +1,15 @@
+{
+  "video_id": "66c2b1f3063f69ccf641a0ce4666690c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-084.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.171,
+    0.513,
+    0.854,
+    1.196
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video presents a digital card reveal set against a purple and black background with glowing green geometric lines. In a small window in the lower left, a man with blonde hair wearing a dark blue t-shirt speaks while gesturing with his hands. The main focus is a large, shimmering card frame. Initially, the card is a gold, obscured silhouette. As the sequence progresses, the silhouette disappears to reveal a football player wearing a white jersey with the number \"14\" and a white helmet. The text on the card identifies him as \"QB\" \"ANDY SALTON\" with a rating of \"94\" in the top right corner. The phrase \"TOTW PRESENT\" is visible in the upper left of the screen. At the bottom of the interface, options such as \"MARK/UNMARK,\" \"DISMISS ALL,\" and \"BACK\" are listed."
+}

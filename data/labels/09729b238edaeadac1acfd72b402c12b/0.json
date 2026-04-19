@@ -1,0 +1,15 @@
+{
+  "video_id": "09729b238edaeadac1acfd72b402c12b",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-485.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.991,
+    1.387
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a retail setting filled with clothing racks and wall-mounted photos, a man wearing a green baseball cap, black headphones, and a green t-shirt with the text \"ION NEVER DO SHIT\" is speaking into a professional microphone. In the background of the first frame, another person in a blue sweatshirt is visible, and a sign reads \"BOSSES TALK\" and \"ITS TALK ABOUT IT\". As the sequence progresses, the camera shifts to a closer medium shot of the man, who continues to speak with an animated expression. A white mannequin wearing a white t-shirt stands behind him, and several black microphones on boom arms are positioned in the foreground. Small logos, including one that reads \"BOSSES TALK\", are superimposed in the corners of the frames throughout the scene."
+}

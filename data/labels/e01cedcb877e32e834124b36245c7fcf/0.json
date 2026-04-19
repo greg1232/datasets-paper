@@ -1,0 +1,15 @@
+{
+  "video_id": "e01cedcb877e32e834124b36245c7fcf",
+  "url": "./data/segments/3hcAJKLX-Ps-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a maroon button-down shirt and glasses stands in front of a bright green and yellow backdrop, speaking into a handheld silver microphone. He is positioned to the right of another man, who is wearing a white shirt and a blue lanyard around his neck and looks toward the speaker. Behind them is a red chair with a white frame and a white cushion. The background features bold text in a non-Latin script, including the word \"\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd!\". As the scene progresses, the man in the maroon shirt continues to speak, shifting his hand gestures. In the final moments, he raises his right index finger to emphasize a point while maintaining his hold on the microphone. The camera remains stationary, capturing the two men from the waist up against the colorful event backdrop."
+}

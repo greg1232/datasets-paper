@@ -1,0 +1,15 @@
+{
+  "video_id": "9c31153e132a2245877c925df991e403",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.141,
+    0.422,
+    0.704,
+    0.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on the side of a white vehicle, featuring red and blue stripes along the top edge and the word \"LANDCRUISER\" in red text. Two logos are prominent on the door: a blue European Union flag accompanied by the text \"funded by the European Union\" and a circular blue logo depicting stylized figures within a globe, with \"IOM \u2022 OIM\" written underneath. The video remains static across the frames, with a slight shift in lighting and a very subtle change in perspective as the camera moves. The background is out of focus, showing a glimpse of a light-colored structure. Across the bottom of the frame, a subtitle reads, \"but to help the Syrian refugees it's worth it\". No people are visible in the scene."
+}

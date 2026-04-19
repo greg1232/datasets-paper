@@ -1,0 +1,15 @@
+{
+  "video_id": "b02bbbc401c1d532ca5daf4948a5d1bf",
+  "url": "./data/segments/3F2rz23IKUk-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.255,
+    0.425,
+    0.595
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and light brown hair, wearing a black t-shirt and a blue lanyard, stands in an indoor setting in front of a plain wall. His black t-shirt features a graphic of a man's face and the text \"Kr th\". The man holds a white rectangular box with a blue and white image on the side. Throughout the sequence, he is speaking, and his facial expressions shift slightly as he talks. He maintains a consistent posture, holding the box with both hands in front of his waist. The background remains static, and the lighting is consistent across the scene. No other people or significant objects are visible in the frames."
+}

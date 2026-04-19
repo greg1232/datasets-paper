@@ -1,0 +1,15 @@
+{
+  "video_id": "430ca8f676b233dd49e2728ad38fec6e",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-122.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.463,
+    1.389,
+    2.315,
+    3.241
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair tied back in a ponytail wears glasses, a light blue medical scrub top, and a light blue surgical mask. She is positioned in a room with plain, light-colored walls and two brownish, patterned chairs behind her. She is facing toward the right side of the frame, remaining mostly still across the sequence. A black lanyard hangs around her neck. On the bottom left of the screen, there is a purple circle containing a silhouette of a person walking with a cane and the text \"Day 5\". On the bottom right, a purple graphic displays the text \"Sim Week\". As the scene progresses, the woman maintains her posture and gaze, with only slight natural movements in her head and shoulders. In the final frame, the side of another person's head briefly enters the right edge of the frame."
+}

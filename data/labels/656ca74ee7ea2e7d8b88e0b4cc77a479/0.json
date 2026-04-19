@@ -1,0 +1,15 @@
+{
+  "video_id": "656ca74ee7ea2e7d8b88e0b4cc77a479",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-092.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view of a person's hand and fingers dominates the foreground, partially obscuring a background scene. In the distance, a man with a beard wearing a dark navy blue t-shirt sits in a room filled with equipment, including electronic devices and a white box. The setting features a large graphic of green palm trees against an orange and white background. On-screen text displays a logo for \"JASPYS\" and the website \"CASEBREAKS.COM\". As the sequence progresses, the hand in the foreground shifts slightly, and the man in the background remains seated, looking toward the camera while gesturing with his hands. The background elements, including the equipment and the \"JASPYS\" branding, remain static throughout the movement of the foreground hand."
+}

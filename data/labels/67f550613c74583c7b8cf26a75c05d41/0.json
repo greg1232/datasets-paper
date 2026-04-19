@@ -1,0 +1,15 @@
+{
+  "video_id": "67f550613c74583c7b8cf26a75c05d41",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-116.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.365,
+    1.094,
+    1.823,
+    2.552
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair wearing a dark blue shirt is visible in a small video overlay in the lower-left corner of a gaming menu screen. He is positioned in a room with a Christmas tree and a glowing sign in the background. The main screen displays a menu titled \"UNOPENED PACKS\" with a top bar showing currency values including \"173,037\", \"14,600\", and \"2,343,543\" along with \"LVL 19\". Four dark, stylized packs are lined up, featuring labels such as \"PRESENT\", \"KRAMPUS LOGIN PACK x1\", and \"GHOST OF MUT LOGIN PACK x1\". The word \"Zero\" is written in a stylized font on two of the packs. Throughout the sequence, the man maintains a consistent position and expression in his video window, and the gaming interface remains static, with no movement or changes occurring between the frames."
+}

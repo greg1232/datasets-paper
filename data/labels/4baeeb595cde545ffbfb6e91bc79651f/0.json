@@ -1,0 +1,15 @@
+{
+  "video_id": "4baeeb595cde545ffbfb6e91bc79651f",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-261.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.277,
+    0.831,
+    1.385,
+    1.94
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football broadcast shows a game between two teams on a green field, with the \"COMMANDERS\" logo visible on the turf. In a small inset window, a man with blonde hair wearing a dark blue shirt and headphones is speaking. The top of the screen features a tactical menu with player names like \"ANTHONY BARR\" and \"KANDY GREGORY,\" and labels such as \"STONEWALL,\" \"ENFORCER,\" \"SPEEDSTER,\" and \"ACROBAT.\" In the center of the field, several players in white and black uniforms are positioned for a play. A graphic labeled \"XFACTOR\" with a small circular icon appears near the bottom center. As the sequence progresses, the tactical menu at the top changes, updating the labels to \"INSIDE STUFF\" and shifting the highlighted player focus. The man in the inset window continues to speak, while the football players on the field maintain their positions in anticipation of the snap."
+}

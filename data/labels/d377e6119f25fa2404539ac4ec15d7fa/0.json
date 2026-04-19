@@ -1,0 +1,15 @@
+{
+  "video_id": "d377e6119f25fa2404539ac4ec15d7fa",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-170.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.13,
+    0.391,
+    0.651,
+    0.911
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is pictured in a centrally located, rounded cutout against a black background. He is wearing a traditional patterned garment with a white undershirt and a matching cap. He stands in a doorway or an indoor setting with light-colored walls and a dark doorway behind him. Throughout the sequence, the man remains stationary and maintains a neutral expression, facing the camera. The text \"Seyi Adebola\" appears in white in the lower-left and center of the image, remaining consistent across all frames. There is no visible movement or change in the scene, the man's pose, or the surrounding environment as the video progresses."
+}

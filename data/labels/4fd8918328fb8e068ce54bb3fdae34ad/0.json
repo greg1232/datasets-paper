@@ -1,0 +1,15 @@
+{
+  "video_id": "4fd8918328fb8e068ce54bb3fdae34ad",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-246.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.105,
+    0.315,
+    0.525,
+    0.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a beard, wearing a dark shirt, is visible in a small video call window in the top right of a screen share. The main screen displays a website titled \"Rural Community Food System\" featuring a section titled \"Introduction.\" The text describes the components of a sustainable localized food system and provides a list of \"Session Videos\" with various dates and timestamps. It invites users to contribute by \"adding communities or by naming a member to evolve the map.\" A complex, dark green network diagram with numerous interconnected nodes and labels occupies the right side of the page. Below the text, a \"Legend\" section lists categories such as \"Large Corporate Farm Systems\" and \"Communities Based on Modes of Production.\" Throughout the sequence, the man remains in the video window, and the screen share remains static on the same webpage."
+}

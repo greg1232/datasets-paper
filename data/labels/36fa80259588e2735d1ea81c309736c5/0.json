@@ -1,0 +1,15 @@
+{
+  "video_id": "36fa80259588e2735d1ea81c309736c5",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-089.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.304,
+    0.913,
+    1.522,
+    2.131
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on a textured, olive-drab metallic surface, likely the exterior of a military vehicle. A small, rectangular LED light fixture is mounted within a recessed housing on the surface. As the sequence progresses, the camera slowly zooms in and shifts its angle toward the light fixture. The light is initially off, then flickers and illuminates, casting a bright white glow. The surface of the vehicle shows signs of wear, with subtle scratches and variations in the paint. No people, text, or logos are visible in the scene. The movement is smooth, transitioning from a wider view of the vehicle's panel to a tighter shot of the light, emphasizing the activation of the device."
+}

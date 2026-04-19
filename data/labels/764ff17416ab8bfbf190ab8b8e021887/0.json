@@ -1,0 +1,15 @@
+{
+  "video_id": "764ff17416ab8bfbf190ab8b8e021887",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.27,
+    0.81,
+    1.35,
+    1.89
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast from News18 India features a man in a white shirt speaking into a microphone during a public address. He is positioned centrally, with other partially visible individuals behind him. To his left, a small inset image shows a man with white hair and glasses, identified by the text \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\". To his right, two other small inset portraits are displayed with the names \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\" and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930\". The screen contains various news banners in Hindi. The top banner reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". As the sequence progresses, the bottom news ticker updates from \"JDU \u0915\u094b\u091f\u0947 \u0938\u0947 \u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930 \u092e\u0902\u0924\u094d\u0930\u0940 \u092c\" to \"JDU \u0915\u094b\u091f\u0947 \u0938\u0947 \u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930 \u092e\u0902\u0924\u094d\u0930\u0940 \u092c\u0928\u0947\". Additionally, the top headline changes in the later frames to \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u093e\u0902\u0917\". A digital clock at the bottom right consistently displays \"10:03 PM\"."
+}

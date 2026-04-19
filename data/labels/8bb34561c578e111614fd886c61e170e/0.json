@@ -1,0 +1,15 @@
+{
+  "video_id": "8bb34561c578e111614fd886c61e170e",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows the internal components of a mechanical engine assembly, likely a motorcycle engine, resting on a workbench. A large, metallic gear with a dark center is prominent, connected to a chain and various shafts within a silver-colored metal casing. In the background, a bright orange plastic part and various small tools and components are scattered across the workspace. A white piece of paper is visible with the text \"917-13\" printed on it. Throughout the sequence, the camera maintains a steady, static position, and there are no people visible in the frames. There is no discernible movement or change in the position of the engine parts, tools, or background objects, resulting in a scene that remains virtually identical across all frames."
+}

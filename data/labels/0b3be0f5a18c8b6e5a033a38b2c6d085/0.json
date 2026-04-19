@@ -1,0 +1,15 @@
+{
+  "video_id": "0b3be0f5a18c8b6e5a033a38b2c6d085",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-119.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a tattoo on his right upper arm is recording in a studio with dark, ribbed acoustic foam walls. He wears a grey t-shirt, black over-ear headphones, and a grey trucker hat featuring a logo of a mouth with sharp teeth. He is positioned in front of a professional microphone held by a black shock mount. The microphone's arm has the white text \"BamilekeStudio\" printed on it. Throughout the sequence, the man remains in a consistent position, speaking into the microphone. His facial expression shifts slightly as he talks, and he makes small adjustments to his posture and head tilt across the frames, while the background and equipment remain stationary."
+}

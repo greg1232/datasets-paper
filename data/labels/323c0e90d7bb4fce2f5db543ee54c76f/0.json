@@ -1,0 +1,15 @@
+{
+  "video_id": "323c0e90d7bb4fce2f5db543ee54c76f",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.4,
+    1.2,
+    2.0,
+    2.8
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A hand reaches toward a black box labeled \"OBSIDIAN\" that sits on a red and black surface featuring the \"JASPYS CASEBREAKS.COM\" logo. The box contains a sports trading card showing a player in a blue jersey, with text on the box stating \"2 AUTOGRAPHS!\". To the left and behind the box, several other \"OBSIDIAN\" boxes are stacked. In separate small inset windows, a man wearing a black jacket is seen sitting at a desk in a room with shelving and equipment in the background. As the sequence progresses, the hand moves closer to and eventually touches the trading card inside the box. The \"JASPYS CASEBREAKS.COM\" branding remains consistent throughout the scene as the focus shifts from the initial arrangement of the boxes to the physical interaction with the card."
+}

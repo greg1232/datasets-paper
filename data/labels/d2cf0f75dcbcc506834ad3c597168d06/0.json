@@ -1,0 +1,15 @@
+{
+  "video_id": "d2cf0f75dcbcc506834ad3c597168d06",
+  "url": "./data/segments/3QD9oO6sRns-Scene-128.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.098,
+    0.294,
+    0.49,
+    0.685
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown handling a white product box on a table in a room with several other boxes in the background. The white box features text and a barcode, and is positioned above a dark surface with the logo \"CASEBREAKS\" and the word \"CLEARLY\" visible in white lettering. A small inset video window in the lower right shows a man wearing a black t-shirt and a baseball cap, looking toward the camera. Across the sequence, the person's left hand grips the side of the white box, while the right hand moves across the top of the box, sliding from the center toward the right edge. The background remains static, showing stacked boxes and a white backdrop with a logo and red text. The overall scene captures the process of preparing or presenting a collectible item for a broadcast."
+}

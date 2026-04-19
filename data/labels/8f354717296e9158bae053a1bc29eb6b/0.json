@@ -1,0 +1,15 @@
+{
+  "video_id": "8f354717296e9158bae053a1bc29eb6b",
+  "url": "./data/segments/3QD9oO6sRns-Scene-082.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.562,
+    0.787
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a product package on a dark surface. In the initial frames, the person slides a clear plastic protective case out of a dark blue box that features the words \"CLEARLY AUTHENTIC\" in white text. Overlaid on the scene is a large graphic logo that reads \"PYST CASEBREAKS\" in orange and white letters, along with a smaller inset video showing a man wearing a black t-shirt and a white baseball cap. As the sequence progresses, the person fully extracts the clear plastic case from the box, holding it upright. The background remains a neutral, light-colored wall, and the same \"PYST CASEBREAKS\" branding remains constant across the bottom of the screen. The primary action is the smooth removal of the collectible case from its branded packaging."
+}

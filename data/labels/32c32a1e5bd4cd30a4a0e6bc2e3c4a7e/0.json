@@ -1,0 +1,15 @@
+{
+  "video_id": "32c32a1e5bd4cd30a4a0e6bc2e3c4a7e",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.088,
+    0.263,
+    0.438,
+    0.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grainy, low-light scene shows a dark outdoor area with a white ladder leaning against a structure. In the background, a person is visible near some equipment, though their clothing and features are obscured by the image quality. As the sequence progresses, a second person appears at the bottom of the white ladder, moving upward. The environment is dim and hazy, with a few small, bright points of light scattered across the view. The person near the top of the frame remains relatively stationary while the person at the ladder ascends. There is no visible on-screen text or logos. The overall movement is minimal, focusing on the second individual's approach and climb up the ladder in the dark setting."
+}

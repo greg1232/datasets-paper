@@ -1,0 +1,15 @@
+{
+  "video_id": "ac745fbd97a97186f5f322fc70539f91",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-512.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark green t-shirt with a white graphic and a dark green baseball cap with headphones sits behind a desk in a studio. He is speaking into a black microphone on a stand. To his right, another person is partially visible, wearing a blue long-sleeved shirt and a white head covering. In the background, posters are visible, one of which says \"UNIQUE FASHIONS\" and another that says \"VRM VISUAL REALITY\". A logo that says \"VRM\" is visible on the bottom left of the scene. The man's facial expression and mouth position change slightly as he speaks, but his posture remains consistent. Other equipment, including a laptop and additional microphone stands, are on the desk in front of him. The background remains static throughout the sequence."
+}

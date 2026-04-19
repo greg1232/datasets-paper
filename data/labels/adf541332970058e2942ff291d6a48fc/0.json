@@ -1,0 +1,15 @@
+{
+  "video_id": "adf541332970058e2942ff291d6a48fc",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-305.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.01,
+    3.031,
+    5.052,
+    7.073
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen from a high-angle perspective interacting with a black rectangular box on a table. In the first frame, only the person's hand is visible as they reach toward the box. As the scene progresses, the person\u2019s hand and forearm move closer, eventually resting on top of the box. A small inset video window in the lower right of the scene shows a man with a beard wearing a dark blue shirt and a yellow badge on his chest, sitting in a room with sports memorabilia in the background. The \"JASPYS\" logo and the website \"CASEBREAKS.COM\" are prominently displayed in white and orange text on the screen. A graphic featuring green palm trees on an orange and white background is visible on the table surface. The primary action focuses on the hand pressing down on the black box while the man in the inset window observes."
+}

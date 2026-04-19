@@ -1,0 +1,15 @@
+{
+  "video_id": "59524345b5fb590abdf10bdb2e40c234",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-403.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.331,
+    0.552,
+    0.773
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game captures an American football match in a packed stadium. In the top left, a HUD shows \"2nd & 10\", the score \"14\" to \"7\", and a game clock at \"0:39\" in the \"3rd\" quarter. A small inset window shows a man with blond hair watching the action. Players in white and black uniforms engage in a play on a green field marked with white lines and yellow zones. The word \"COMMANDERS\" is visible on the field and stadium walls. As the sequence progresses, the camera zooms in and tracks the movement of the players. A player in white, identified by the text \"Chubb\", carries the ball downfield while being pursued by defenders in black. Yellow curved lines indicate intended movement paths. The focus shifts from a wide view of the line of scrimmage to a close-up pursuit, with another player labeled \"Polamalu\" attempting to make a tackle."
+}

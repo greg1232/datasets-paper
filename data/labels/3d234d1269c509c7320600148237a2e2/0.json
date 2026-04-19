@@ -1,0 +1,15 @@
+{
+  "video_id": "3d234d1269c509c7320600148237a2e2",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-160.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.469,
+    1.406,
+    2.344,
+    3.281
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long, dark hair is centered within a circular frame against a solid black background. She is wearing a light-colored top and looks directly at the camera with a slight smile. The text \"Anita Earl Joe\" appears in white lettering on the black background to the left and center of the woman's portrait. Across the sequence, the woman remains stationary in her pose and expression, and the on-screen text remains unchanged. There are no other people, objects, or environmental details visible, as the composition consists entirely of the circular headshot and the name \"Anita Earl Joe\" repeated on the black screen."
+}

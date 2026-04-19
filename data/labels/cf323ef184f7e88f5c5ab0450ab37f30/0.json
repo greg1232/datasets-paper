@@ -1,0 +1,15 @@
+{
+  "video_id": "cf323ef184f7e88f5c5ab0450ab37f30",
+  "url": "./data/segments/3JYDT8lap5U-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.03,
+    6.09,
+    10.15,
+    14.21
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard, wearing a grey blazer over a white shirt and a lanyard, stands on a stage delivering a presentation. He is positioned to the left of a large projection screen displaying a code snippet under the heading \"RNN TEST-RUN\". The code includes the line \"from crypto_ml.data_loader import Cryptoloader\" and ends with \"result = dump_predictions(times, tims, 5)\" followed by the word \"SUCCESS\". At the bottom of the screen, a white banner features the \"europython\" logo and the text \"Edinburgh 23 29 July 2018\". As the sequence progresses, the man gestures with his left hand while speaking, then returns his hand to his side and looks down toward the stage. The content of the presentation screen remains static throughout the clip, while the man's posture and facial expressions shift slightly as he speaks."
+}

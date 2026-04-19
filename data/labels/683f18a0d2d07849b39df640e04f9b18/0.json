@@ -1,0 +1,15 @@
+{
+  "video_id": "683f18a0d2d07849b39df640e04f9b18",
+  "url": "./data/segments/3E6ctN22V7k-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.765,
+    2.295,
+    3.825,
+    5.355
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with frames that are completely black. The scene then shifts to a workshop setting where a person wearing a red sleeve uses a black handheld power sander on a light-colored wooden surface. In the final segment, the person is seen using a stationary belt sander, pressing a small piece of wood against the rotating abrasive belt. The belt sander is green and black with visible rollers. On-screen text appears in the bottom right area of the final scene, reading \"[Voice: Philippe Starck]\". The background of the workshop is blurred, showing various tools and equipment on workbenches. The action progresses from sanding a large flat surface with a handheld tool to refining a small piece of wood on a mechanical belt sander."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "98eb382f0167a3c655616e4026d85425",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-232.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.381,
+    1.144,
+    1.906,
+    2.669
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played in a large stadium filled with spectators, as seen in a video game simulation. Players in white uniforms and players in black uniforms are dispersed across a green field marked with white yard lines and \"COMMANDERS\" branding in red and yellow. A digital scoreboard at the top shows \"3rd & 3,\" \"1st,\" \"3:09,\" and \"32,\" with the Falcons logo visible. In the first frame, several players move toward the center of the field. In the second frame, the view shifts to follow a player in white, with a name tag reading \"O Polamalu\" appearing near them. The third frame shows the player in white moving further downfield while other players pursue. In the final frame, the scoreboard updates to \"3:07,\" and a small inset video shows a man with blonde hair wearing headphones."
+}

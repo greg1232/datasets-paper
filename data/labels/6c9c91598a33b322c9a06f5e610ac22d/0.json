@@ -1,0 +1,15 @@
+{
+  "video_id": "6c9c91598a33b322c9a06f5e610ac22d",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-404.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.758
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game takes place on a green grass field marked with white yardage lines and numbers, including \"20\" and \"30.\" The sidelines feature red and yellow banners with the text \"SUPER BOWL CHAMPIONS\" and \"COMMAND.\" Several players are on the field wearing athletic uniforms: some in white jerseys and pants, and others in black uniforms. A player in white, identified by a name tag as \"C. Chubb,\" runs across the field while being pursued by players in black. A red line stretches horizontally across the grass. As the sequence progresses, the player in white moves forward, dodging the black-clad defenders. Small white \"X\" markers appear on the ground near the players. A circular red and green interface element is visible near the bottom center of the screen, accompanied by the word \"Aware.\""
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "113f5a1a2bfb9d0801e9a08abd761a34",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.605,
+    1.814,
+    3.024,
+    4.233
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the white text \"I DON'T NEVER DO SHIT\" is speaking into a black microphone in an indoor setting. He is positioned in the foreground, facing slightly to the left. The background features a wall covered in framed photographs and a white mannequin wearing a white long-sleeved shirt and grey pants. Clothing racks and other store fixtures are visible behind him. Two logos appear on the screen: a circular logo on the left that says \"SURE\" and a red logo on the right that reads \"SURELY tot\". As the sequence progresses, the man continues speaking, shifting his facial expressions and slightly tilting his head and torso. In the final frame, he leans back and looks toward the right side of the frame while maintaining a slight smile."
+}

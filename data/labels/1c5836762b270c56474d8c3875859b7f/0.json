@@ -1,0 +1,15 @@
+{
+  "video_id": "1c5836762b270c56474d8c3875859b7f",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.269,
+    0.448,
+    0.628
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view focuses on a white promotional card for \"IDTechEx.\" The card features a logo and text that reads, \"Reducing Power Consumption of IoT Gas Sensors by 1000X,\" followed by \"Thursday, 15 November 2018: 5:10PM, Grand Ballroom F\" and the phrase \"DON'T MISS IT\" in red. A QR code is printed on the right side of the card, and the word \"ALPHA\" appears in the upper right corner. In the background, a person wearing a dark, possibly black or navy blue, garment is partially visible. As the scene progresses, the camera tilts and shifts, causing the promotional card to move across the frame. In the final sequence, additional copies of the same promotional card come into view, overlapping one another and shifting the focus as the angle of the shot changes."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "034df61e05d999a14d0a235842889e25",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-155.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.267,
+    0.801,
+    1.335,
+    1.869
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a blue scrub top, a blue lanyard, and a purple face mask stands in a medical simulation environment. He is positioned next to a mobile medical workstation featuring a laptop and a monitor. The surrounding setting includes specialized medical equipment, such as a crash cart with various drawers and monitors. Throughout the sequence, the man remains stationary, looking toward the camera. On-screen text lists personnel from the \"University of Maryland School of Medicine, Maryland Advanced Simulation, Training, Research and Innovation (MASTRI) Center,\" including \"Kerry Murphy, DVM,\" \"Katie Gordon, MSN, RN, CNE,\" \"Jessyca Bortell, BSN, RN, CAPA,\" and \"Kelly Gregory, BSN, RN.\" Additional text mentions the \"R Adams Cowley Shock Trauma Center for Critical Care & Trauma Education\" and lists \"Benjamin Neustein MAT, Paramedic, CHSOS\" and \"Walter Braxton, BA.\" A QR code and the email \"lbuchanan@som.umaryland.edu\" appear on the screen."
+}

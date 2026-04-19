@@ -1,0 +1,15 @@
+{
+  "video_id": "f3b7c0ba760f0e97e48183b037add9be",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-252.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.479,
+    0.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is shown in a close-up, holding a transparent plastic card slab over a tabletop. In the background, a man with a beard wearing a dark blue shirt sits at a desk with equipment, including a computer monitor. On-screen graphics and logos for \"JASPYS\" and \"CASEBREAKS.COM\" are prominently displayed in the upper and middle sections of the frame. As the video progresses, the hand holding the slab tilts slightly, shifting the light reflections on the plastic surface. The man in the background remains seated, looking toward the camera and gesturing slightly with his hands. The layout of the scene remains consistent across the frames, with the primary movement being the subtle adjustment of the handheld slab and the man's slight movements in the background."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a730e9a86db7a845300a13887124927b",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-248.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.751,
+    2.252,
+    3.754,
+    5.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black over-ear headphones, and a green t-shirt with the text \"ION NEVEZO\" and \"SUIT\" printed on the front sits in a studio. He is positioned behind a large black microphone. The background features a wall decorated with numerous framed photos and a white mannequin wearing white clothing. To the right, clothing racks and a black chair are visible. Two logos appear at the bottom of the screen: one on the left featuring a red and black circular emblem and the text \"DONE\", and another on the right with red text that reads \"ROOTS REALLY TOT\". Throughout the sequence, the man's expression shifts from speaking with an open mouth to a slight, closed-mouth smile, while his overall posture and the surrounding environment remain stationary."
+}

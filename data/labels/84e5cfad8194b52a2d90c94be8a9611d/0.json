@@ -1,0 +1,15 @@
+{
+  "video_id": "84e5cfad8194b52a2d90c94be8a9611d",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.205,
+    24.615,
+    41.025,
+    57.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a series of presentation slides for a course titled \"CRYOGENIC ENGINEERING\" from NPTEL, presented by \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\". The slides focus on \"Tutorial \u2013 2\" and specifically the \"Ideal Work Requirement\". A thermodynamic graph is displayed, showing a process loop on a temperature-entropy (T-s) diagram with a line labeled \"p=const\". As the sequence progresses, an equation for work is introduced: \"$\\frac{W}{m} = T_1(s_1 - s_2) - (h_1 - h_2)$\". In the final stage, a data table appears below the graph, providing values for pressure \"p (bar)\", temperature \"T (K)\", enthalpy \"h (j/g)\", and entropy \"s (J/gK)\" for states 1, 2, and f. The values listed include pressures of 1.013 and 202.6 bar, temperatures of 300 and 77 K, and various enthalpy and entropy readings."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b2818a736f7fd0afaea478e600a73533",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-186.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.202,
+    0.606,
+    1.01,
+    1.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair and glasses, wearing a dark blue t-shirt and white over-ear headphones, is shown in a video overlay against a background of a room with a Christmas tree and a computer monitor. He speaks toward a microphone while appearing in a small rectangular window in the lower-left area of the screen. The rest of the screen displays a digital marketplace for sports gaming cards. Each card represents a player and includes details like their position, such as \"LB\" or \"CB,\" and their team. Several cards are marked with the word \"CLOSED\" in bold white letters. Other sections of the interface display pricing information with labels like \"BID:\", \"BUY NOW:\", and \"0 BIDS,\" alongside numerical values such as \"950,\" \"1,000,\" and \"1,300.\" Text at the top of the screen reads \"sale\" and \"Buy Now Price.\" The scene remains largely static across the frames, with only slight changes in the man's facial expression and mouth position."
+}

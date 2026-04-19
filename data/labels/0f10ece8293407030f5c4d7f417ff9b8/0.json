@@ -1,0 +1,15 @@
+{
+  "video_id": "0f10ece8293407030f5c4d7f417ff9b8",
+  "url": "./data/segments/3Z229_lKLpk-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.405,
+    1.215,
+    2.025,
+    2.835
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large assembly of people is seated in a tiered auditorium with brown paneled walls. The attendees are predominantly men dressed in various formal attires, including dark business suits and traditional Arab clothing, such as white thobes and ghutras. They are seated in rows, facing forward and listening attentively, with some looking slightly to the side. In the background, a blue screen is partially visible on the left side. The scene remains largely static across the sequence, with only subtle movements among the attendees as they shift in their seats or adjust their postures. There is no visible on-screen text or logos. The lighting is consistent throughout the frames, illuminating the crowd in a formal, professional setting."
+}

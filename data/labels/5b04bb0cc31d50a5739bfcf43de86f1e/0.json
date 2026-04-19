@@ -1,0 +1,15 @@
+{
+  "video_id": "5b04bb0cc31d50a5739bfcf43de86f1e",
+  "url": "./data/segments/3L_uHTClWfk-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.862,
+    17.587,
+    29.312,
+    41.038
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static capture of a webpage from the Internal Revenue Service (IRS) website. The IRS logo is prominently displayed in the top left corner, with \"SEARCH,\" \"HELP,\" and \"MENU\" options in the top right. The text on the page explains regulations regarding retirement accounts, stating, \"Roth IRAs do not require distributions while the original owner is alive.\" A bold heading reads \"RMD Calculations and 50% tax on missed distributions,\" followed by detailed text explaining the responsibilities of an IRA trustee or plan administrator. It specifies that failure to take a required distribution \"could mean a 50% excise tax on the amount not distributed\" and mentions that the \"IRS has worksheets to calculate the RMD and payout periods.\" The frames remain identical throughout the clip, with no changes in the text, layout, or visual elements, depicting a steady view of the informational webpage."
+}

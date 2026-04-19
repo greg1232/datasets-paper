@@ -1,0 +1,15 @@
+{
+  "video_id": "e2b0c765982253fec8c709e0da060858",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person uses a wooden spoon to mix a large quantity of cooked grains, which appear to be brown rice or farro, inside a large silver metal bowl. The bowl sits on a light-colored wooden surface alongside a white plate and a red bowl, both containing portions of the same grains. The person's hand and arm are partially visible on the left side of the scene, stirring the mixture vigorously. As the sequence progresses, the spoon lifts and folds the grains, creating motion blur as the food is tossed. Each frame features a logo and text in the upper-left corner that reads \"UCAR CENTER FOR SCIENCE EDUCATION\" against a backdrop of stylized blue and white clouds. The background remains static, focusing on the preparation of the food."
+}

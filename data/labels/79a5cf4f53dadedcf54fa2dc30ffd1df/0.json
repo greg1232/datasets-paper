@@ -1,0 +1,15 @@
+{
+  "video_id": "79a5cf4f53dadedcf54fa2dc30ffd1df",
+  "url": "./data/segments/3ecgE6QvGxU-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    31.651,
+    94.953,
+    158.255,
+    221.557
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide with a textured orange-red background features a gold decorative line near the top. In the initial stages, the header reads \"METHODS\" and lists four bullet points: \"Contract\", \"Inquiry\", \"Attunement\", and \"Invovement\". This slide remains static through the first three frames. In the final frame, the content changes; the header shifts to \"THERAPY FOCUS\", and the bulleted list is replaced with new text: \"Script core decisions made in past\", \"Look for Past-Present Enactments\", \"Increase Awareness\", \"New decisions\", and \"Anchor in Present- Intgration\". No people, objects, or logos are visible, and the setting is limited to the digital presentation screen."
+}

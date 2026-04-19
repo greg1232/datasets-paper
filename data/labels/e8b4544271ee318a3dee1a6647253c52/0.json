@@ -1,0 +1,15 @@
+{
+  "video_id": "e8b4544271ee318a3dee1a6647253c52",
+  "url": "./data/segments/3Ma0wGTm5QQ-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.429,
+    1.287,
+    2.146,
+    3.004
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and a smiling expression appears against a split background of light blue on top and lime green on the bottom. He wears a red t-shirt featuring a white logo and the text \"Learning in Hand with TONY VINCENT\". To his left is a circular logo for the \"GREAT PLAINS SUMMIT\" featuring a yellow sun and green hills, with \"2022\" displayed in large yellow numbers and \"Jul\" written below it. Beside this logo, the text \"Gr SU Jul\" is partially visible. As the sequence progresses, the man's facial expressions shift slightly; he starts with an open-mouthed laugh, moves to a more closed-mouth smile, and then transitions through various talking expressions. He remains centered in the frame, facing forward, while the background and his clothing remain constant throughout the clip."
+}

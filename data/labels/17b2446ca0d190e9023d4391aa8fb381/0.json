@@ -1,0 +1,15 @@
+{
+  "video_id": "17b2446ca0d190e9023d4391aa8fb381",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.565,
+    1.695,
+    2.825,
+    3.955
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a view from an airplane window, showing the wing and engine of the aircraft as it sits on a sunny runway. A Real Madrid logo is visible in the upper right corner of the frame. The scene then transitions to the exterior of \"GRANADA AIRPORT\" at \"12:08,\" as indicated by the on-screen text. Several men are present, including one wearing a grey t-shirt, dark pants, and a face mask, who is walking past a large team bus. The bus is white with blue accents and features prominent graphics and the Real Madrid crest. Another man in a light grey t-shirt and face mask walks alongside him. In the final sequence, a man wearing a white t-shirt and a backpack is seen entering the open door of the bus, while the others continue to move across the tarmac near a building."
+}

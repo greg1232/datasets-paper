@@ -1,0 +1,15 @@
+{
+  "video_id": "ae6b1433355b556d620bd7f4e19e421b",
+  "url": "./data/segments/3tUAO4YGuKY-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    13.36,
+    40.08,
+    66.8,
+    93.52
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a dark suit, white shirt, and red tie stands behind a wooden podium, delivering a presentation. He is positioned in front of a large screen and a banner featuring the \"IIEA\" logo and the website \"iiea.com\". The screen displays the title \"Joseph Quinton\", followed by \"Chief Market Strategist, Bank of America, Global Market Strategy Group\" and the date \"15 June 2017\". Below this, the text \"The End of the West? \u2013 The Stakes for the US and Europe in a World of Disorder\" is visible. In the foreground, several men in suits are seated, viewed from the back or side. The speaker gestures with his right hand while speaking, moving his arm from a raised position in the initial frames to a more neutral stance as the sequence progresses. The camera angle remains static, focusing on the speaker and the audience."
+}

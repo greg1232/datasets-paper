@@ -1,0 +1,15 @@
+{
+  "video_id": "5d0b657038dfe90faf8b21d437e777c0",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-156.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.19,
+    0.57,
+    0.95,
+    1.33
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video call interface showcasing a digital mind map or network diagram against a black background. The diagram consists of circular icons connected by blue lines, with green text labels beneath several icons, such as \"Flexible Role\" and \"Intuitive Process.\" In the top right corner of the interface, a man wearing a dark baseball cap is visible in a small video feed. As the sequence progresses, a larger rectangular video overlay featuring a bald man with glasses appears in the center of the screen, momentarily obscuring part of the diagram before disappearing. The browser tabs at the top of the screen display titles including \"Trust & Learning by Systemsynth,\" \"Future of Society by Systemsynth,\" and \"Rural Community Food System.\" Throughout the clip, the network diagram remains static while the video overlays transition, shifting focus between the presenters and the visual map."
+}

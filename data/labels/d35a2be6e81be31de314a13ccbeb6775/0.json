@@ -1,0 +1,15 @@
+{
+  "video_id": "d35a2be6e81be31de314a13ccbeb6775",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-615.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.136,
+    0.407,
+    0.678,
+    0.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt, a green baseball cap, and over-ear headphones sits in a room that appears to be a studio or shop. His t-shirt features white text that reads \"I CON NEVER DO SHIT IT WORK\". He is positioned in front of a professional black microphone on a boom arm. In the background, there are several framed pictures on the wall and a white mannequin wearing a white garment. Clothing racks with various garments are visible to the right. On-screen graphics include a circular logo on the left and red text on the right that reads \"DONE BY THE DOT\". Throughout the sequence, the man remains in the same position, looking slightly to his left with a neutral expression, while the background remains static. There is very little movement between the frames, with only subtle shifts in his facial expression and posture."
+}

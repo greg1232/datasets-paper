@@ -1,0 +1,15 @@
+{
+  "video_id": "8771b9294a28165ec7a2b2ef878a5974",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-142.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.505,
+    1.515,
+    2.525,
+    3.535
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a series of graphics discussing political developments in India. The screens show a man with a beard wearing a white collared shirt, positioned next to data regarding the \"2019 \u0932\u094b\u0915 \u0938\u092d\u093e \u0915\u0941\u0932 \u0938\u0940\u091f\u0947\u0902 42\" and a Congress party logo with the number \"02\". Text overlays in Hindi appear throughout, including a headline that reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930 \u0928\u0947 9\u0935\u0940\u0902 \u092c\u093e\u0930 CM \u092a\u0926 \u0915\u0940 \u0936\u092a\u0925 \u0932\u0940\". Other text elements mention \"\u0921\u093f\u092a\u094d\u091f\u0940 CM\" and \"\u092e\u0902\u0924\u094d\u0930\u0940,\" listing names such as \"\u0938\u0941\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940,\" \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e,\" \"\u0935\u093f\u091c\u0947\u0902\u0926\u094d\u0930 \u092f\u093e\u0926\u0935,\" and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930.\" As the sequence progresses, the top banner changes from \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\" to \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091b\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\". Additionally, a portrait of Nitish Kumar appears on the left side of the screen with the label \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\". The timestamp \"10:08 PM\" is visible in the bottom right corner across all frames."
+}

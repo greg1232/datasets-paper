@@ -1,0 +1,15 @@
+{
+  "video_id": "dbcbf0f8a6be8752d29908fee32e573c",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.285,
+    0.855,
+    1.425,
+    1.995
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A blue background with radial light rays features a central circular logo. This logo consists of a gold-rimmed blue circle containing a stylized gear-like red and gold design with a white eight-pointed star in the center. In the first frame, the logo and the white text \"NPTEL\" are shown in a close-up shot. As the sequence progresses, the camera zooms out, revealing the full circular border and more of the background. The text \"NPTEL\" remains centered below the logo, and additional white text appears below it, reading \"NATIONAL PROGRAMME ON TECHNOLOGY ENHANCED LEARNING\". A bright white lens flare glides across the top right edge of the circular gold border from the second frame through the final frame. The animation concludes with a static wide shot of the complete logo and full text centered against the blue backdrop."
+}

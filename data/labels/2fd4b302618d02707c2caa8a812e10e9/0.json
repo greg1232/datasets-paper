@@ -1,0 +1,15 @@
+{
+  "video_id": "2fd4b302618d02707c2caa8a812e10e9",
+  "url": "./data/segments/3Z229_lKLpk-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.65,
+    4.95,
+    8.25,
+    11.55
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with white hair and a beard, wearing a white Nehru jacket over a light-colored shirt, stands behind a wooden podium in front of a textured green stone wall. Two microphones are positioned on the podium in front of him. To his side, a tall, narrow glass cylinder containing floral arrangements is visible. Across the sequence, the man is speaking and gesturing with his hands. Initially, he stands relatively still with his arms at his sides. As the sequence progresses, he begins to move his arms, eventually gesturing outward with both hands open and palms up, emphasizing his speech. The background remains static throughout the clip, and no on-screen text or logos are present."
+}

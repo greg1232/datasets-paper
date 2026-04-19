@@ -1,0 +1,15 @@
+{
+  "video_id": "6eabad9d91ad7cdbfa791a33b6395be6",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.0,
+    3.333,
+    4.667
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a terminal window with a dark background and white and green text, showing a series of command-line operations. The terminal is running a process involving \"msgtail\" and \"kubectl,\" with long lines of log output featuring timestamps such as \"Oct 28 00:21:21\" and references to \"pathfinder/log.log.\" In the top-left corner, the terminal tab is labeled \"Terminal.\" As the sequence progresses, the user interacts with the command line. A cursor appears, and the command \"kubectl get -o yaml configmap yaml\" is typed and executed, causing the screen to scroll. The output of this command fills the terminal window, displaying a structured YAML configuration file. The window's title bar remains consistent, showing \"Activities\" and \"Terminal\" at the top, while the background remains a solid black void outside the active terminal application."
+}

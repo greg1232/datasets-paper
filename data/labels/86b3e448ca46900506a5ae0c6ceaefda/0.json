@@ -1,0 +1,15 @@
+{
+  "video_id": "86b3e448ca46900506a5ae0c6ceaefda",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.286,
+    0.857,
+    1.429,
+    2.0
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A tablet screen displays a scientific application titled \"Alpha Szenszor eNose v1.0.14\". The interface features a line graph plotting \"Current (\u00b5A)\" on the y-axis against \"Time (s)\" on the x-axis, showing several overlapping data lines that dip and stabilize. A \"STOP\" button is visible on the right. Below the graph, the text \"Acquiring 5/200 (20s)\" appears. A legend lists various channels, such as \"Channel 1\" through \"Channel 4\" in the early stages. As the sequence progresses, the application interface updates, and the list of channels expands to include \"Channel 1\" through \"Channel 14,\" with corresponding colored line indicators and yellow circular markers. The tablet is held in a dimly lit environment, with a portion of a person's finger visible on the right edge of the screen. The system status bar at the top indicates a battery level of \"54%\" and a time of \"4:39 PM\"."
+}

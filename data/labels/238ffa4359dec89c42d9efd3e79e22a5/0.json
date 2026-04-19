@@ -1,0 +1,15 @@
+{
+  "video_id": "238ffa4359dec89c42d9efd3e79e22a5",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.171,
+    0.513,
+    0.854,
+    1.196
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is preparing a grain-based dish in a kitchen setting. A large metal bowl contains a mixture of cooked rice and brown ingredients, which the person stirs using a red spatula. To the right of the bowl, there is a small white plate with more of the grain mixture and a red bowl containing uncooked grains. The person's hand is visible as they move the spatula through the food, mixing the ingredients thoroughly across the sequence. In the upper-left corner of every frame, a logo accompanies the text \"UCAR CENTER FOR SCIENCE EDUCATION\". The action progresses as the hand continuously stirs the mixture in the metal bowl, with the position of the spatula and the movement of the hand shifting slightly between each frame to show the stirring process."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "17bc7e632071f8ec00ba50bf992bdc72",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-282.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with white hair and glasses, wearing a blue button-down shirt, stands behind a wooden podium and speaks into a microphone. He is positioned in a room with wood-paneled walls and brown blinds. A black speaker stands to his right, and several people are seated in the foreground with their backs to the camera, including a woman with brown hair. The podium features a red and white logo and the word \"ORCA\" appears as white on-screen text to the right of the speaker. Throughout the sequence, the man remains at the podium, slightly shifting his posture and gesturing with his hands while looking down at notes or a device on the lectern. The audience members remain still, and the background elements, including the lighting and equipment, stay constant as the man continues his presentation."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "189f74c2da379585bcadebea1b81fa50",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-164.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair and a navy blue shirt is seen in a small video overlay in the lower-left corner of a screen. He is sitting in a room with a decorated Christmas tree and a computer monitor visible behind him, speaking into a microphone while smiling. The main background consists of a blurry, dark purple and black gradient. At the top of the screen, a gaming status bar displays several numerical values and symbols, including \"173,037\", \"0\", \"14,600\", \"2,343,543\", and \"LVL 19\", along with a circular icon containing the number \"91\". Across the sequence of frames, the man's expression remains cheerful and his posture is consistent, while the on-screen numbers and text remain static. The scene is a recording of a live stream or gameplay session where the man's reaction is captured in a facecam."
+}

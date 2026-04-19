@@ -1,0 +1,15 @@
+{
+  "video_id": "c10574057502fd25a229fb42f7b7a6e0",
+  "url": "./data/segments/3Ew5zEF_uOQ-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    68.787,
+    206.362,
+    343.938,
+    481.512
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is captured in a medium shot against a plain orange wall. He is dressed in a dark suit jacket over a blue dress shirt and a patterned grey and blue tie. He wears dark-rimmed glasses and a light blue surgical face mask. In the initial sequence, the man is looking downward, his gaze directed toward something out of view below the frame. A small, indistinct pin is visible on his left lapel, and a blue fabric object is partially seen on the left side of the frame. As the scene progresses, the man slowly lifts his head and shifts his gaze forward, looking directly ahead by the final frame. The background remains static throughout the sequence, featuring a vertical sliver of greenery visible to the right of the man."
+}

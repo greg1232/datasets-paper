@@ -1,0 +1,15 @@
+{
+  "video_id": "6c5f3287e4f6c1302e84f290e1162b08",
+  "url": "./data/segments/3P1vSUbet40-Scene-0662.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.928,
+    2.784,
+    4.64,
+    6.496
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a studio setting for a podcast, wearing a black t-shirt, a black baseball cap with gold embroidery, over-ear headphones, and a gold chain necklace. He sits before a professional black microphone on a stand. In the background, a white banner features stars and the text \"HUSTLE,\" while a dark screen displays \"BOSS TALK 101.\" Overlaid on the bottom of the scene are logos for \"BOSS TALK 101\" and \"PODCAST.\" As the sequence progresses, the man is speaking and gesturing with his hands, which are adorned with gold jewelry. His facial expressions shift from a slight smile with squinted eyes to a more open-mouthed expression as he talks, moving his head and hands slightly while remaining focused forward toward an unseen interlocutor."
+}

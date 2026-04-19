@@ -1,0 +1,15 @@
+{
+  "video_id": "81f227ad4bce507e68b0ffc1d3bfe371",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit side-by-side in a room, positioned in front of a television and a soundbar. The man on the left wears a dark green t-shirt, while the man on the right wears a grey t-shirt and a necklace with a pendant. Behind them, a shelf holds several rows of DVDs or games. Overlaid at the top of the scene is the text \"OUR STUPID REACTIONS\" in yellow and white letters. A smaller inset video window shows a scene with two people, one facing away from the camera and a woman facing toward them; the caption \"Babur.\" is visible at the bottom of this inset. As the sequence progresses, the man on the left speaks, shifting his facial expressions slightly, while the man on the right maintains a focused gaze, with his hand positioned near his mouth. The environment and the content of the inset video remain constant throughout."
+}

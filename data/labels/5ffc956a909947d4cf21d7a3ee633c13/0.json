@@ -1,0 +1,15 @@
+{
+  "video_id": "5ffc956a909947d4cf21d7a3ee633c13",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white tour bus is parked outdoors in front of a modern building featuring large windows and the Real Madrid logo. The bus displays \"REAL MADRID\" and \"Esteban Rivas\" on its windshield and bears the license plate \"8812 KVG\" and the number \"430\". To the left of the bus, a person dressed in dark clothing stands near a green hedge. On-screen text in the bottom left corner reads \"CIUDAD REAL MADRID\", \"MONDAY 13TH\", and \"10:07\". The scene remains static across the frames, with no significant movement from the person or changes to the environment, while the lighting and positions of the bus and surrounding landscape stay consistent throughout the sequence."
+}

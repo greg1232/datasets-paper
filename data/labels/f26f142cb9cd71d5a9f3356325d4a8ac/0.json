@@ -1,0 +1,15 @@
+{
+  "video_id": "f26f142cb9cd71d5a9f3356325d4a8ac",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-279.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.295,
+    0.885,
+    1.475,
+    2.065
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a presentation slide deck being shared during a video call. A man with light skin and short hair, wearing a dark shirt, is visible in a small webcam feed in the upper right corner. The presentation begins with a slide titled \"03R Mass Market Consumption\" featuring a circular diagram with text including \"People's Health & Welfare,\" \"Retail Stores,\" and \"buy from food retail retailers.\" The scene then transitions to a slide titled \"Industrialized Farming,\" which contains detailed text explaining systemic issues and a complex flow chart illustrating the relationship between \"Industrialized Farming,\" \"Industrial Infrastructure,\" \"Industrial Organic Land,\" and \"Food Industry.\" In the final frames, a green highlight box appears over the \"Industrialized Farming\" section of the flow chart, moving down to emphasize \"Industrialized Agriculture Factory Farming.\" The browser tabs at the top remain consistent throughout, showing various open pages and a Google Meet interface."
+}

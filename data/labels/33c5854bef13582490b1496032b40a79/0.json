@@ -1,0 +1,15 @@
+{
+  "video_id": "33c5854bef13582490b1496032b40a79",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording of a web browser shows a presentation being delivered during a video call. The main window displays a black slide with centered green text that reads \"Trial & Learning\" and \"An Insightful Journey\" underneath. In the top right corner of the browser window, a small video feed shows a man wearing a black shirt and dark headphones, looking directly at the camera. The browser's address bar and several open tabs are visible at the top of the screen, with one tab titled \"Trial & Learning by Synergetic\". As the video progresses, the man in the video feed remains stationary, and the content of the presentation slide does not change. The interface elements of the browser, including the bookmarks bar and the video call window, remain consistent across the sequence."
+}

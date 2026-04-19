@@ -1,0 +1,15 @@
+{
+  "video_id": "1db0640ac7cad28d5ff129c538b2c4ae",
+  "url": "./data/segments/3E6ctN22V7k-Scene-108.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.205,
+    0.615,
+    1.025,
+    1.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a room with brick walls and a tiled floor, a man and several children are gathered around a large, blue rectangular chest. The man, dressed in a light-colored button-down shirt and khaki trousers, stands with his back to the viewer, leaning over the chest. Around the chest, several children are seated on the floor; some wear reddish-brown shirts. In the background, there is a black screen and shelves filled with books and folders. The scene remains static across the frames, with the people maintaining their positions. At the bottom of the image, white on-screen text reads, \"These children will help the Congo.\" The composition depicts a quiet, focused moment in what appears to be a classroom or community center setting."
+}

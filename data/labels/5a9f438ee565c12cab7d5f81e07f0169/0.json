@@ -1,0 +1,15 @@
+{
+  "video_id": "5a9f438ee565c12cab7d5f81e07f0169",
+  "url": "./data/segments/3TQScsCOS2k-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.165,
+    0.495,
+    0.825,
+    1.155
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair, wearing a black blouse featuring a white zebra print, stands in front of a lush green jungle backdrop featuring waterfalls. To her right, the text \"JUMANJI WELCOME TO THE JUNGLE\" is prominently displayed. She holds a black tablet in her hands. As the scene progresses, she speaks and uses her right hand to gesture outward, moving it from her side to an open, welcoming position. Throughout the sequence, she maintains a cheerful expression, looking slightly off-camera to her right while continuing to hold the tablet with her left hand. The background and her attire remain constant, while her facial expressions and hand gestures shift to emphasize her speech."
+}

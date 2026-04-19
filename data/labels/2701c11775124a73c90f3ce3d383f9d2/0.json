@@ -1,0 +1,15 @@
+{
+  "video_id": "2701c11775124a73c90f3ce3d383f9d2",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-143.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.525,
+    0.875,
+    1.225
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast focuses on political updates, featuring a split-screen layout with a central image of a man in a white shirt and a large building in the background. To the left and right of this central image are smaller portraits of various political figures, including \"\u0938\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940\", \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\", \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\", and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930\". Text overlays indicate election data, stating \"2019 \u0932\u094b\u0915 \u0938\u092d\u093e \u0915\u0941\u0932 \u0938\u0940\u091f\u0947\u0902 42\" and \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 02\", accompanied by a hand-symbol logo. The top red banner transitions from showing a single character \"\u0928\" to the phrase \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940\". As the sequence progresses, the bottom red banner displays scrolling news text, including \"\u0928\u0940\u0924\u0940\u0936 \u0938\u092e\u0947\u0924 9 \u0935\u093f\u0927\u093e\u092f\u0915\u094b\u0902 \u0928\u0947 \u092e\u0902\u0924\u094d\u0930\u0940 \u092a\u0926 \u0915\u0940 \u0936\u092a\u0925\", while the top banner updates to \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". The \"MANARODH\" logo and a time stamp of \"10:08 PM\" are visible at the bottom."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "70cf478034741b80f9a0d4a5cf150bbc",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-074.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.155,
+    0.465,
+    0.775,
+    1.085
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Professional soccer players in blue jerseys and green shorts are practicing on a green grass field inside a large stadium. The background features red stadium seating and advertising banners with logos and text, including \"PULEVA\", \"CERVEZAS ALHAMBRA\", \"COVIRAN\", \"Jeep\", \"COMPASS\", and \"CAJA RURAL\". A white crest with a crown is visible in the center of the banners. In the initial sequence, the players are spread across the field, some jogging and others standing. As the scene progresses, they move toward the right side of the frame, gradually clustering together. Several small orange and blue markers are placed on the grass. A few individuals in black athletic wear, likely coaches or staff, are also present. The players maintain their blue and green attire throughout, and the overall activity transitions from dispersed movement to a tighter group formation."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "bd6a5f104e02844cf4baf5c9f3dd2409",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.526
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static screen of a financial trading platform featuring multiple technical analysis charts for a stock. The charts show price action through green and red candlesticks, along with various indicators including moving averages and a MACD histogram. Legible text on the screens includes \"Vistra Corp Elec power biz,\" \"MACD (12,26,9,1.1,UpColorDefault...\", and \"Stochastic Slow (High,Low,Close,14,3,3,12,80,20)\". The charts are labeled with letters such as \"A,\" \"B,\" \"C,\" \"D,\" \"E,\" and \"F\" to mark specific price points or trends. A red dashed rectangular box highlights a specific section of the price movement in the center of the charts. Across the sequence, the image remains entirely stationary, showing no changes in the data, the cursor position, or the on-screen text, resulting in a perfectly still visual representation of the trading interface."
+}

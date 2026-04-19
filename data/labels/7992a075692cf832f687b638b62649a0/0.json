@@ -1,0 +1,15 @@
+{
+  "video_id": "7992a075692cf832f687b638b62649a0",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-290.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording of a web browser shows a virtual meeting and a complex diagram on a dark background. A man with glasses and a dark shirt is visible in a small video feed in the upper right corner. The central display is a conceptual map with several circular icons connected by curved lines, featuring labels such as \"Rural Community Focus,\" \"Large Corporate Farm,\" and \"Household.\" Various smaller labels like \"pay,\" \"Hire,\" and \"Provide\" are placed along the connecting lines. The browser's address bar displays a URL starting with \"blackboard.edu,\" and the tab title includes \"Module 1: Introduction.\" Throughout the sequence, the visual content remains largely static, with only a slight shift in the man's facial expression and posture in the video feed, suggesting a live presentation or a recorded lecture being viewed on a computer screen."
+}

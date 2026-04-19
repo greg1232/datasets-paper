@@ -1,0 +1,15 @@
+{
+  "video_id": "f58b5304149117339d464f9cc90ae41a",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.709,
+    0.993
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair, wearing a grey long-sleeved shirt, is seated at a white table in a brightly lit indoor setting. He holds a white tablet in both hands, looking at a screen displaying data charts and graphs. Across the table, another person wearing a white garment is partially visible, their hand resting near a laptop that also displays financial charts. Blue text is overlaid across the center of the scene, reading \"TO CONSISTENTLY ADD WINNING TRADES TO YOUR PORTFOLIO?\". Throughout the sequence, the man remains in a similar position, focusing on his tablet, while the person opposite him remains still. The lighting and composition are consistent across the frames, with the focus remaining on the two individuals interacting with their digital devices."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ce698fe567ba2054b274697f4d2fabdd",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-540.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits in a studio setting, wearing a white baseball cap, a black hoodie with \"BOSS\" printed in gold lettering, and a gold watch. He is positioned behind a desk equipped with a professional microphone on a boom arm, a black recording device, and a blue and red mug. Behind him is a white backdrop featuring the text \"UNICORN HUSTLE\" repeated several times and a blue sign above that reads \"Where BOSSES Talk!\". The man is engaged in conversation, gesturing with both hands to emphasize his points. Across the sequence, he shifts his hand positions, moving from an open-palm gesture to a more closed posture as he speaks. His facial expression remains focused and serious throughout the clip, while his posture remains consistent as he leans slightly toward the microphone."
+}

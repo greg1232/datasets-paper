@@ -1,0 +1,15 @@
+{
+  "video_id": "6d20d5653b294c243546a66959fe4908",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.629,
+    25.887,
+    43.146,
+    60.404
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with short hair, wearing a light-colored shirt, appears in a small inset video window in the bottom-left corner of a screen recording. The main portion of the display shows a trading platform featuring a financial candlestick chart with blue trendlines and a horizontal red zone. On the left side of the interface, a promotional panel for \"TICKMILL\" is visible, containing the text \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN\" followed by a list of features including \"Keine Requotes\" and the website \"www.tickmill.com\". The logo for TICKMILL is displayed in the top-left corner of the application and again within the promotional panel. Across the frames, the person in the inset window is speaking, with their facial expressions and mouth movements changing as they talk, while the trading chart and surrounding text remain static."
+}

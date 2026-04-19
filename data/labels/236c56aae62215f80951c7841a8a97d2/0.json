@@ -1,0 +1,15 @@
+{
+  "video_id": "236c56aae62215f80951c7841a8a97d2",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.158,
+    0.475,
+    0.792,
+    1.108
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair and a dark blue shirt is positioned in a small webcam overlay in the lower-left corner of the screen, appearing surprised with his mouth open. He wears headphones and sits in a room with a white brick wall behind him and a decorated Christmas tree to his left. The main background consists of a dark, blurred gradient of purple and blue light. At the top of the screen, a horizontal gaming HUD displays various statistics in white and yellow text, including \"173,037\", \"0\", \"14,600\", \"2,343,543\", and \"LV 19\", alongside a timer showing \"90\". Throughout the sequence, the man remains in the same position and clothing, maintaining a similar expression of astonishment while slightly shifting his facial muscles and gaze. The background and HUD elements remain static across the frames."
+}

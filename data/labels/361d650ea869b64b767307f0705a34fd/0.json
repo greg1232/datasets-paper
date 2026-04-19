@@ -1,0 +1,15 @@
+{
+  "video_id": "361d650ea869b64b767307f0705a34fd",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-171.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.152,
+    0.456,
+    0.76,
+    1.065
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a headset is seen in a close-up shot, appearing upside down. Below this view, a screen displays an \"ITEM MANAGER\" interface from a video game. The menu shows an \"AUCTION HOUSE\" tab with various player cards for sale. On-screen text includes currency amounts like \"179,037,\" \"14,600,\" and \"2,943,543,\" as well as a level indicator \"LV 19\". The interface lists categories such as \"QUALITY,\" \"TEAM,\" \"PROGRAM,\" and \"CHEMISTRY.\" In the bottom left corner, a small inset video shows the same man from a front-facing perspective, wearing a dark t-shirt and sitting in front of a microphone and a decorated Christmas tree. The visuals remain static across the frames, showing the man's face in the top section and the game's marketplace and the man's webcam feed in the bottom section."
+}

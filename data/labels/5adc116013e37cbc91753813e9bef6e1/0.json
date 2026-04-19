@@ -1,0 +1,15 @@
+{
+  "video_id": "5adc116013e37cbc91753813e9bef6e1",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.7,
+    2.1,
+    3.5,
+    4.9
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A gold-colored screen displays a digital announcement from the \"UCAR CENTER FOR SCIENCE EDUCATION.\" The logo for \"super science saturday\" is positioned on the left, featuring a small starburst icon. Large white text reads \"NEXT UP,\" followed by \"TOUR NCAR Research Aviation Facility.\" The frames capture a countdown timer at the bottom of the screen, which updates in chronological order. The time changes from \"12:00\" to \"11:58,\" then to \"11:57,\" and finally to \"11:55.\" No people, clothing, or physical equipment are visible, as the video consists entirely of this static graphic with a changing numeric value. The background remains a consistent solid gold color across all frames, with all text and logos remaining in their fixed positions."
+}

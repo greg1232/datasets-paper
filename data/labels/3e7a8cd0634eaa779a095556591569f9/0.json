@@ -1,0 +1,15 @@
+{
+  "video_id": "3e7a8cd0634eaa779a095556591569f9",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.71,
+    8.13,
+    13.55,
+    18.97
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This educational presentation on \"CRYOGENIC ENGINEERING\" focuses on \"Tutorial \u2013 3\" and the \"Figure of Merit (FOM).\" Each frame displays a temperature-entropy (T-S) diagram showing various thermodynamic processes, including \"T=const\", \"D=const\", \"p=const\", and \"h=const\". The diagram is annotated with numbers 1 through 4 and includes a temperature axis with markers for 200 and 300. The footer indicates the presentation is by \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" and features the NPTEL logo. As the sequence progresses, two blue boxes containing mathematical formulas appear over the diagram: one stating \"W / m_r = 2772.1\" and another stating \"W / m_r = 476.0\". A small mouse cursor is visible, moving across the screen and hovering near the second blue box in the final frames."
+}

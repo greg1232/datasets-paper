@@ -1,0 +1,15 @@
+{
+  "video_id": "36a87db21cb9834a36157ed6b1082e92",
+  "url": "./data/segments/3l84m5pRmyk-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.361,
+    1.082,
+    1.804,
+    2.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A short animation features a light blue 3D isometric cube against a plain white background. In the initial scene, the cube is accompanied by a large, dark purple shadow extending to its left. As the sequence progresses, the purple shadow vanishes, replaced briefly by a thin red outline that clings to the cube's left edge. The cube then shrinks in size, moving toward the center of the frame. Finally, the cube returns to its original size, and black text appears centered beneath it, reading \"theCUBE\". The animation focuses entirely on the movement, scaling, and accompanying visual elements of the geometric logo."
+}

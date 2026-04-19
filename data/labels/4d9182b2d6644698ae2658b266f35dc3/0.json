@@ -1,0 +1,15 @@
+{
+  "video_id": "4d9182b2d6644698ae2658b266f35dc3",
+  "url": "./data/segments/3Z229_lKLpk-Scene-123.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.395,
+    1.185,
+    1.975,
+    2.765
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene takes place within a formal legislative chamber, characterized by rows of wooden desks and seating. A group of people, predominantly men, are seated in tiered rows. Many of the men are dressed in traditional Indian attire, including white kurtas, with some wearing Nehru jackets in colors such as black, white, or pink. One man is wearing a yellow shirt. They are seated behind long wooden desks, some of which have small screens or microphones attached. The individuals are mostly still, appearing to be listening or observing a proceeding. Throughout the sequence, the people remain in their positions with minimal movement; some shift their posture slightly or glance in different directions, but the overall composition of the room and the placement of the people remain consistent. There is no visible on-screen text or logos."
+}

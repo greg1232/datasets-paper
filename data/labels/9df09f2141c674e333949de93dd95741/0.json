@@ -1,0 +1,15 @@
+{
+  "video_id": "9df09f2141c674e333949de93dd95741",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-305.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.203,
+    0.61,
+    1.017,
+    1.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits in a studio setting for a podcast, wearing a black hoodie with the words \"BOSS TALK\" in large gold lettering and a white baseball cap. He is wearing over-ear headphones and speaking into a professional microphone mounted on a boom arm. Behind him is a white backdrop featuring a logo that says \"HUSTLE\" alongside gold stars. To the right, a sign reads \"Where BOSSES Talk!\". A black equipment case is visible on the left, and a black mug with red and white text that says \"BOSS TALK\" sits on the desk to the right. As the sequence progresses, the man remains seated and continues speaking, shifting his head slightly. In the final moments, he begins to gesture with both hands to emphasize his points, while the camera angle and setting remain constant."
+}

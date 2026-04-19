@@ -1,0 +1,15 @@
+{
+  "video_id": "bd30d37c7cd6a0c785d2566fc4f3028e",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.171,
+    0.513,
+    0.855,
+    1.197
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand interacts with a catalog page featuring a \"FEELS LIKE FROST SUITE.\" The page displays a collection of winter-themed stationery, including purple and grey cards and envelopes, some adorned with ribbons and floral imagery. Legible text includes \"You winter\u2019s heart!\" and \"Yuletide Cheer.\" The right side of the page lists various product components, such as \"FROSTED POLYMER\" and \"FROSTED FRAMES SERIES.\" In the first two frames, the person's right hand is positioned at the top right, pointing toward a small image of a snowy building. As the sequence progresses, the hand moves downward. In the third frame, the hand is gesturing toward the center of the page. By the final frame, the hand is spread open across the right side of the catalog, while a second hand appears at the bottom, pointing toward the \"You winter\u2019s heart!\" text on the left."
+}

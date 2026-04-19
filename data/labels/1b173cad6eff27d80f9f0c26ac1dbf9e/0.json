@@ -1,0 +1,15 @@
+{
+  "video_id": "1b173cad6eff27d80f9f0c26ac1dbf9e",
+  "url": "./data/segments/3o6LBa7ZAp0-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    16.5,
+    49.499,
+    82.499,
+    115.499
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men in dark suits, white shirts, and ties sit at a long brown table against a textured gray wall. In the background, a logo featuring a stylized globe and the text \"POLICY\" is visible. On the table are microphones, water bottles, clear glasses, and nameplates, one of which reads \"Mahmoud AHMED\". The man on the left wears glasses and a blue lanyard; he begins by looking down with his hands clasped, then looks down at the table, and eventually looks forward. The man on the right is bald; he starts by leaning forward and looking down, then raises his hand to touch his forehead, and finally looks down at a piece of white paper he is holding. The camera remains static throughout the sequence, capturing the subtle movements of the two men as they engage with documents and their surroundings."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "22c73041ad3bbf0b72f8f0904c4996eb",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.131,
+    0.394,
+    0.656,
+    0.919
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a clear protective plastic card sleeve in front of a camera, moving it slightly across the view. In the background, a man with a beard wearing a dark blue t-shirt sits at a desk with a microphone, appearing to be broadcasting or recording. The setting is an indoor room with a desk and equipment. Behind the man, a logo reads \"JASPYS\" with smaller text below that says \"Sports Cards & More,\" and another line of text reads \"CASEBREAKS.COM\". These logos and the text \"JASPYS\" and \"CASEBREAKS.COM\" are also overlaid on the upper portion of the screen. As the frames progress, the hand holding the plastic sleeve shifts position, momentarily obscuring and then revealing more of the background scene. The man in the background remains seated and relatively still throughout the sequence."
+}

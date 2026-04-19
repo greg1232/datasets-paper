@@ -1,0 +1,15 @@
+{
+  "video_id": "3d450ab1c420707c3cdcdafc2368f92a",
+  "url": "./data/segments/3Z229_lKLpk-Scene-215.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.18,
+    3.54,
+    5.9,
+    8.26
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with white hair and a white beard, dressed in a cream-colored traditional Indian outfit consisting of a long tunic and a matching sleeveless vest, stands behind a brown wooden podium. He is positioned in front of a textured, dark green geometric wall. Two microphones are mounted on the podium, extending toward him. Throughout the sequence, the man is speaking, initially looking forward with a neutral expression. As the scene progresses, he continues to talk and then brings his hands together in a prayer-like gesture, known as Namaste, near his face. To his right, a vertical gold-colored column with decorative red floral accents stands against the green wall. The background remains constant while the man's facial expressions and hand movements change as he addresses an audience."
+}

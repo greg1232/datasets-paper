@@ -1,0 +1,15 @@
+{
+  "video_id": "236239d232f2f52aa3e8a9bb71dd67c3",
+  "url": "./data/segments/3Kxl1O310k8-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.74,
+    2.22,
+    3.7,
+    5.18
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide is displayed, featuring the heading \"Work together to create a culture of support.\" Below the title, five icons are aligned horizontally with corresponding descriptive text. The first icon, a balance scale, is paired with \"Balance people with places and systems.\" The second icon, quotation marks, is paired with \"Tell 'story of us' rather than 'story of them'.\" The third icon, interlocking circles, is paired with \"Connect housing to other social issues and outcomes.\" The fourth icon, a map pin, is paired with \"Where you live affects you.\" The fifth icon, a speech bubble, is paired with \"Consider language that we use (e.g. home vs housing).\" To the right is a thumbnail image with the text \"\u201cYou Don\u2019t Have to Live Here\u201d\" and a logo for \"M Everyone.\" The bottom left corner shows the text \"MHP.\" The scene remains static across all frames."
+}

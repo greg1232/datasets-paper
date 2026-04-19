@@ -1,0 +1,15 @@
+{
+  "video_id": "10fbfa41fb86b1255e95e3f6beef3965",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.463,
+    0.772,
+    1.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is shown working in the footwell of a vehicle, which is lined with brown carpeting and contains various mechanical components, including pedals and wiring. The hand holds a light-colored, cylindrical tube and maneuvers it across the floor area. Initially, the tube is held vertically near the center of the footwell. As the sequence progresses, the hand moves the tube toward the right, tilting it horizontally. The tube is then shifted further toward the bottom right of the frame, passing over the brown carpeted surface. The person's clothing is not visible, as only their hand and part of their forearm enter the frame. No text or logos are clearly legible on the visible components. The scene remains focused on the interaction between the hand, the tube, and the interior of the car's floorboard."
+}

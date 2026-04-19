@@ -1,0 +1,15 @@
+{
+  "video_id": "4db1ef13bbe1a9e3d0c89556e40fc7b2",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-170.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.24,
+    0.72,
+    1.2,
+    1.68
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser with multiple tabs open, including one titled \"True Learning by Synternity.\" The main interface features a dark-themed interactive map with interconnected circular nodes. In the top right corner, a video call window shows a man wearing a grey baseball cap. A smaller embedded video window on the map depicts two people dancing, one in a grey shirt and another in a red dress. As the sequence progresses, the dark map evolves; initially, only a few colored nodes are visible, but by the final scene, numerous new nodes populate the screen. These nodes include icons of people and various labels in green text, such as \"Insights,\" \"Learning,\" and \"Interconnectedness.\" The overall scene demonstrates a user navigating or expanding a conceptual network within a digital platform while remaining in a video conference."
+}

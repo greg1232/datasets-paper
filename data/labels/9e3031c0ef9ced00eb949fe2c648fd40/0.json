@@ -1,0 +1,15 @@
+{
+  "video_id": "9e3031c0ef9ced00eb949fe2c648fd40",
+  "url": "./data/segments/3cfugv0xNbU-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Captured through a green-tinted night vision lens, the scene takes place in a dimly lit, enclosed space. Two individuals in military uniforms and gear are present. One person, wearing a helmet and tactical vest, stands on the left, while another person wears a headset and a face mask. In the beginning, the person on the left reaches out to touch or adjust something on the other person's chest. As the scene progresses, the person on the left moves their hand upward toward the other person's face and head. The person on the right remains relatively stationary, looking toward the first person. A small, blue hexagonal logo is visible in the bottom right corner of each view. The environment appears to be the interior of a vehicle or a small room with metallic surfaces."
+}

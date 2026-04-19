@@ -1,0 +1,15 @@
+{
+  "video_id": "f19117ff4d17357803556da4002589c2",
+  "url": "./data/segments/3TQScsCOS2k-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair wears a black short-sleeved top featuring a gold pattern. She stands before a jungle-themed backdrop depicting misty green mountains and dense foliage, overlaid with the gold text \"JUMANJI\" and the red and white subtitle \"WELCOME to the JUNGLE\". In her left hand, she holds a small, square black object with a white logo. As the sequence progresses, she speaks and gestures with her right hand, moving it from her chest toward her side. While she maintains a smile and looks slightly off-camera, her right hand transitions from a resting position to an active gesture, pointing toward her waist in the final frame. The background and her position remain stationary throughout the clip, with the only movement being her facial expressions and the motion of her right arm."
+}

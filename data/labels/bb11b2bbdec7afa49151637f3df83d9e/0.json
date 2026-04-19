@@ -1,0 +1,15 @@
+{
+  "video_id": "bb11b2bbdec7afa49151637f3df83d9e",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-095.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.682,
+    23.047,
+    38.411,
+    53.776
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair, wearing a striped purple and white collared shirt and a black headset with a microphone, is seen in a room with light-colored walls and pale yellow curtains. In the first two frames, she looks forward with a neutral expression, her mouth closed. As the sequence progresses, she begins to speak, her mouth opening in the third frame. In the final frame, while continuing to speak, she raises her right hand to adjust the earpiece of her headset. The text \"Nancy Dany#\" is visible in the lower-left corner of each frame. The background remains static throughout the clip, consisting of the curtains and a simple wall."
+}

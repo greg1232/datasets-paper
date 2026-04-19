@@ -1,0 +1,15 @@
+{
+  "video_id": "cef0a9c9f10eb672478dc53ed23c9ff0",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-350.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.119,
+    0.356,
+    0.594,
+    0.831
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a gold-colored trading card against a dark background, partially obscuring a larger graphic of palm trees. The card is being held by the left edge, with the person's thumb and fingers visible. In a picture-in-picture window, a man with a beard wearing a dark blue t-shirt is seated in a chair, looking toward the camera. The scene is overlaid with a logo that reads \"JASPYS\" in stylized orange and white letters, accompanied by the text \"CASEBREAKS.COM\" below it. As the sequence progresses, the hand slightly shifts its grip on the gold card, moving it slightly across the surface. The man in the smaller window remains seated, observing the process. The background behind the man appears to be an office or hobby room with various items on shelves."
+}

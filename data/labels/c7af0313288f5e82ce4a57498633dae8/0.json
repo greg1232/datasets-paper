@@ -1,0 +1,15 @@
+{
+  "video_id": "c7af0313288f5e82ce4a57498633dae8",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.781,
+    20.344,
+    33.906,
+    47.469
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a screen recording of a web browser navigating the website RANDOM.ORG. Initially, the browser is on a \"Dice Roller\" page with a button to \"Roll Dice\" and \"Reset Form.\" The screen then transitions to a \"List Randomizer\" page where a randomized list of six names is displayed, including \"1. Nathan-Ray,\" \"2. BRIAN FRANK,\" and \"6. Kyle Barter.\" The page includes the text \"There were 6 items in your list. Here they are in random order:\" and a timestamp of \"2022-02-05 22:12:13 UTC.\" The user then navigates back to the \"Part 1: Enter List Items\" section, where names such as \"ATLANTIC,\" \"SOUTHWEST,\" and \"NORTHWEST\" are typed into a text box. Throughout the clip, banners for \"CASEBREAKS.com\" with \"SUBSCRIBE\" buttons are visible at the top and bottom of the browser window."
+}

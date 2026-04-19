@@ -1,0 +1,15 @@
+{
+  "video_id": "7d37c3a4003bcc33bd4b9b1fc7d3fa6e",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is speaking into several microphones held by journalists in an outdoor setting. He is an older man with gray hair and glasses, wearing a dark sleeveless vest over a white long-sleeved shirt. He is surrounded by other men, including one to his left wearing a gray jacket and another to his right in a black jacket. As the sequence progresses, the speaker gestures with his hand while talking, and the camera angle shifts slightly. The scene is overlaid with various news graphics. A red banner at the bottom contains the white text \"PM \u092e\u094b\u0926\u0940 \u0928\u0947 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930 \u0915\u094b \u092c\u0927\u093e\u0908 \u0926\u0940\", alongside a logo for \"MAHA RAJYA\" and a timestamp of \"10:03 PM\". At the top, a red banner reads \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u093c\u0940 \u0939\u0948\". On the sides, there are portrait photos and names of political figures, including \"\u0938\u0941\u092c\u094d\u0930\u093e\u091f \u091a\u094c\u0927\u0930\u0940\", \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\", \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\", and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930\"."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2c94f86cff6b24ad979e3166699e7081",
+  "url": "./data/segments/3a0FD1177FA-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is shown from the chest down, working on a white wooden tabletop. They are wearing a white smartwatch on their left wrist and a ring on their left ring finger. The person uses a gray cutting mat and a metallic ruler to measure and cut a piece of green patterned fabric with yellow and white accents. Using a rotary cutter, the person slides the tool along the ruler to trim the fabric. As the sequence progresses, the person's hands move to adjust the fabric and then lift the cut piece away from the mat. A logo in the bottom left corner of the scene reads \"Stamping Jill\". In the background, a blurred piece of paper with the text \"real things\" is partially visible."
+}

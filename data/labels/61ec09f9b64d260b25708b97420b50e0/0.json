@@ -1,0 +1,15 @@
+{
+  "video_id": "61ec09f9b64d260b25708b97420b50e0",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-183.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.4,
+    1.2,
+    2.0,
+    2.8
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark hat is visible in a small video call window in the top right corner of a screen recording. Most of the screen displays a presentation slide with a black background and green text that reads, \"A clear insight Compressed in time Presented in a manner that allows the audience to discover it themselves\", followed by a dashed line and the text \"The Power of Moments Heath Brothers\". The overall interface shows a web browser with multiple open tabs at the top. As the sequence progresses, the screen transitions from the presentation slide to a black screen. In the final stage, a small piece of green text appearing as \"Pleasant Breakfast\" is centered on the black background, while the video call window with the person in the hat remains visible in the corner."
+}

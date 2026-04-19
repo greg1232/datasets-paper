@@ -1,0 +1,15 @@
+{
+  "video_id": "132f22749fbbf81262c70ba7a838d8b3",
+  "url": "./data/segments/3o6LBa7ZAp0-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.367,
+    1.101,
+    1.835,
+    2.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men in dark business suits and ties are seated at a long table against a textured grey wall. The man on the left wears glasses and rests his chin on his hand, listening attentively. The man on the right is speaking and gesturing with his right hand. On the table in front of them are microphones, clear plastic water bottles, and white nameplates, one of which reads \"Mamadou ANMEO\". Small potted plants sit on the table. As the sequence progresses, a man in a dark suit holding a professional camera enters the scene from the left, moving behind the seated men to capture a shot. The man on the right continues to speak and gesture, while the man on the left maintains his contemplative posture. A small, illegible logo is visible at the top center of the wall."
+}

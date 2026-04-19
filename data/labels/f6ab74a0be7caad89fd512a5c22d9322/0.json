@@ -1,0 +1,15 @@
+{
+  "video_id": "f6ab74a0be7caad89fd512a5c22d9322",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-402.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.781,
+    1.094
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair and a dark shirt is seen in a small picture-in-picture window in the bottom left of a simulated American football game. The game takes place in a large stadium filled with spectators, featuring a green field with white yard lines and a red and gold end zone area marked \"COMMANDERS.\" Players in white uniforms and players in dark uniforms are positioned across the field. A scoreboard at the top displays \"2nd & 10\", \"14\", \"7\", \"3rd\", \"0:39\", \"47\", and \":19\". As the sequence progresses, the players in white engage with those in dark uniforms, with several players colliding and falling toward the turf near the \"40\" yard line. The man in the inset window watches the action with a neutral to focused expression. The overall scene depicts a digital sports simulation being viewed by a spectator."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9e9c761ba4feac2d3e58eb48a6873b9b",
+  "url": "./data/segments/3E6ctN22V7k-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.84
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a woodworking setting, a person wearing a red long-sleeved garment works at a table. Several flat boards of varying colors\u2014including natural wood, light blue, and brown\u2014are stacked on the surface. The person's hand is visible, moving across the top board. In the initial frames, the hand is positioned toward the left side of a light-colored wooden board, which has a thin green line running along its length. As the scene progresses, the hand slides smoothly to the right, smoothing or adjusting the board. The camera remains stationary, capturing a close-up of the tabletop and the person's arm. Centered at the bottom of every frame is a line of white on-screen text that reads, \"This is the first and the last thing we should give to people who have lost everything.\""
+}

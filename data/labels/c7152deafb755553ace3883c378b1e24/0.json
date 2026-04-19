@@ -1,0 +1,15 @@
+{
+  "video_id": "c7152deafb755553ace3883c378b1e24",
+  "url": "./data/segments/3P1vSUbet40-Scene-0281.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.219,
+    0.657,
+    1.095,
+    1.533
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a black t-shirt, a black baseball cap with a logo, and over-ear headphones, sits in a studio environment. He wears a gold chain and a gold watch on his left wrist. He is positioned in front of a microphone, holding the stand with his left hand. Behind him is a white backdrop featuring the text \"HUSTLE\" and stars, as well as a larger logo that says \"BOSS TALK 101\". On-screen graphics appear, including a logo that reads \"BOSS TALK PODCAST\" and a text overlay that says \"CHECK IT!\". Another graphic on the right reads \"BOSS TALK 101 By Village Media\". Throughout the sequence, the man's expression shifts from a neutral look as he speaks into the microphone to a smile, while his head tilts slightly to the side."
+}

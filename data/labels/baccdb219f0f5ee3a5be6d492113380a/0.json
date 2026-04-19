@@ -1,0 +1,15 @@
+{
+  "video_id": "baccdb219f0f5ee3a5be6d492113380a",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-288.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.55,
+    1.65,
+    2.75,
+    3.85
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser open to a page titled \"Rural Community Food System.\" The page features a complex mind map with various icons connected by blue lines on a black background, accompanied by text including \"You can contribute to the development of this model by adding connections\" and \"References\" with links like \"Large Corporate Farm Systems.\" In the top right, a small video feed shows a person wearing a dark blue baseball cap and a dark shirt. As the video progresses, the browser window transitions from a split-screen view showing both text and the map to a full-screen display of the mind map, which includes icons of people, plants, and buildings. The person in the video feed remains visible in the corner throughout, though their position shifts slightly. The browser tabs at the top list multiple open pages, including \"Truth & Learning by Spyri\" and \"Future of Society.\""
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "77426fb8b4e0af40a65d6007900374b4",
+  "url": "./data/segments/3mmDnftP1M8-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.688,
+    2.062,
+    3.438,
+    4.812
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair, wearing a light blue button-down shirt and a black headset with a microphone, is positioned against a plain, light-colored wall. He is gesturing with his hands as he speaks. In the beginning, he holds his hands upright and close together in front of his chest. As the scene progresses, he tilts his head back and closes his eyes, bringing his hands together in a prayer-like position. Finally, he looks forward again and raises his right arm and hand high into the air while his left hand remains near his chest. The text \"Ashish Raichur\" is visible in the bottom left corner of the scene. No other people, objects, or logos are present in the environment."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4395ab1eb423dd9948d7615e821f5e53",
+  "url": "./data/segments/3P1vSUbet40-Scene-0316.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark skin, wearing a white shirt with suspenders and a red bowtie, sits in a studio setting. He is wearing a large, grey, stylized wig and black headphones. He is positioned in front of a professional microphone, and his mouth is open as if he is speaking. The background consists of a wall decorated with numerous framed photographs and various items of clothing on hangers. Two logos are visible on the screen: one on the left featuring a microphone icon and the text \"PODCAST\" below \"STALID\", and another on the right that reads \"TALK JOY\" next to a microphone icon. As the sequence progresses, the man continues to speak, shifting his facial expression slightly and moving his hand into the frame towards the end, though his seated position and the surrounding environment remain constant."
+}

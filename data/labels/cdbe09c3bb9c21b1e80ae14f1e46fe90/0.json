@@ -1,0 +1,15 @@
+{
+  "video_id": "cdbe09c3bb9c21b1e80ae14f1e46fe90",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.125,
+    1.875,
+    2.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is shown mixing a grainy, beige-colored food mixture inside a large metal bowl. The bowl sits on a wooden surface next to a small white plate and a red bowl, both containing additional portions of the same grainy mixture. In the top-left frame, the person begins stirring the contents with a red utensil. As the sequence progresses through the top-right and bottom-left frames, the movement of the utensil creates a blur, indicating a rapid stirring motion that lifts and folds the food. By the final frame, the food is piled high and shifted within the bowl due to the mixing. The logo and text \"UCAR CENTER FOR SCIENCE EDUCATION\" appear in the upper-left corner of every frame. The scene remains static in location and composition, focusing entirely on the action of stirring the food."
+}

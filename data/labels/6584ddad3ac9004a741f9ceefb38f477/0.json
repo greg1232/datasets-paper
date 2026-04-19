@@ -1,0 +1,15 @@
+{
+  "video_id": "6584ddad3ac9004a741f9ceefb38f477",
+  "url": "./data/segments/3a0FD1177FA-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.412,
+    1.236,
+    2.059,
+    2.883
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown working on a white wooden surface, using crafting tools to cut patterned paper. The person wears a white wristband on their left arm. They use a grey and clear paper trimmer to cut a piece of olive-green patterned paper. In the initial frames, the person adjusts the trimmer's guide and holds the paper in place. As the sequence progresses, they slide a long, white ruler across the white surface and position it against the side of the trimmer. A small white rectangular block with the text \"MEMENTO\" is placed on the table nearby. In the bottom left corner of each frame, a logo reads \"Stamping Jill\" next to a small heart. The action focuses on the precise alignment and movement of the crafting tools to prepare the paper for cutting."
+}

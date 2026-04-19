@@ -1,0 +1,15 @@
+{
+  "video_id": "153bc3ecb42c024059c3c05805f0c7ac",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-100.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.379,
+    1.137,
+    1.896,
+    2.654
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large indoor hall with a high ceiling and cream-colored walls, several people are engaged in a martial arts demonstration on a blue mat. The center of the action involves three men and one woman. One man wears a black sleeveless shirt and white pants, while the woman is dressed in a white long-sleeved top and white pants. A third man in a light-colored outfit and a fourth man in a black shirt and blue pants are also present. As the sequence progresses, the man in the black sleeveless shirt and white pants interacts with the woman in white, appearing to execute a throw or a coordinated move. Simultaneously, the man in the blue pants engages with the man in the light-colored outfit. In the background, a large audience is seated, watching the demonstration. The scene shifts as the participants move dynamically across the blue floor, transitioning through different stages of their martial arts maneuvers."
+}

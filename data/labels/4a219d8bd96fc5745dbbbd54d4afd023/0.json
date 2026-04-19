@@ -1,0 +1,15 @@
+{
+  "video_id": "4a219d8bd96fc5745dbbbd54d4afd023",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.245,
+    0.735,
+    1.225,
+    1.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of men walk through an outdoor covered transit area toward a large white bus. The bus features the \"Real Madrid\" logo and text on its side. Several men are dressed in casual athletic wear, including t-shirts, dark trousers, and baseball caps, while others wear high-visibility yellow vests over their clothing. As the sequence progresses, the men move from left to right across the frame. In the beginning, they are spaced apart, but they gradually congregate and walk closer to the bus. One man in a beige t-shirt and black cap leads the group, walking with a purposeful stride. The background consists of large red architectural pillars and a paved ground. Security personnel in yellow vests stand by, monitoring the movement of the group as they approach the vehicle."
+}

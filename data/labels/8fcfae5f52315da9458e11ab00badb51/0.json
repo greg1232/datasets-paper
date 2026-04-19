@@ -1,0 +1,15 @@
+{
+  "video_id": "8fcfae5f52315da9458e11ab00badb51",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.484,
+    1.451,
+    2.419,
+    3.387
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is seen reaching into the footwell of a vehicle, likely a Corvette as indicated by the partial text \"CORVET\" visible on a sill plate. The interior is tan with dark floor mats and various components. A white rod or handle is being manipulated across the space. In the footwell, there is a black structural piece with a handle, a red pedal or cover, and some loose debris. As the sequence progresses, the hand moves a tool or part within the cramped area, shifting the white rod's position. The final frame shifts perspective to a close-up of a metallic emblem or badge on a dark surface, though it is blurred due to motion. The lighting is natural, suggesting the vehicle is outdoors or in a well-lit garage."
+}

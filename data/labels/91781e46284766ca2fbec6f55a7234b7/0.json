@@ -1,0 +1,15 @@
+{
+  "video_id": "91781e46284766ca2fbec6f55a7234b7",
+  "url": "./data/segments/3L_uHTClWfk-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.975,
+    14.925,
+    24.875,
+    34.825
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static screen capture of an official IRS webpage providing information about Required Minimum Distributions (RMDs). The IRS logo is prominent in the top left corner, followed by a navigation menu with options for \"SEARCH | HELP | MENU\". The text explains that RMDs are taxable income and subject to penalties if not taken timely. It specifies that for traditional IRA, SEP, SARSEP, and SIMPLE IRA accounts, distributions must begin at age 72. It further states, \"Account holders reaching age 72 in 2022 must take their first RMD by April 1, 2023, and the second RMD by December 31, 2023, and each year thereafter.\" Additional sections address retirement plans such as 401(k), 403(b), and 457(b), noting the first RMD is due by April 1 of the year after reaching age 72. There is no movement, people, or change in content across the frames."
+}

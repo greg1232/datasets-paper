@@ -1,0 +1,15 @@
+{
+  "video_id": "e92ee04d2caec48ea693fa5df9142f22",
+  "url": "./data/segments/3L_uHTClWfk-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.171,
+    0.513,
+    0.854,
+    1.196
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with brown hair, wearing a teal blazer over a white collared shirt and a gold necklace, is seated indoors. In the background, a window with horizontal blinds is visible. The woman is positioned facing slightly to the left, with her gaze directed off-camera. Across the sequence, her facial expression shifts slightly. In the initial moments, she maintains a relatively neutral, attentive look with her lips pressed together. As the sequence progresses, her eyes widen and her eyebrows lift slightly, conveying a sense of surprise, confusion, or apprehension. Her head remains relatively still, though there is a subtle shift in her gaze and a slight tension in her facial muscles. No text, logos, or other people are visible in the scene."
+}

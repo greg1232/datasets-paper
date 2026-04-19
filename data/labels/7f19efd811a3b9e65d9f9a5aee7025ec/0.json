@@ -1,0 +1,15 @@
+{
+  "video_id": "7f19efd811a3b9e65d9f9a5aee7025ec",
+  "url": "./data/segments/3szCdVKgMug-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.221,
+    0.663,
+    1.105,
+    1.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The provided image consists of four frames that are entirely black. There are no visible people, objects, settings, or text present in any of the frames. The scene remains completely dark and unchanging throughout the sequence, with no discernible visual information or movement."
+}

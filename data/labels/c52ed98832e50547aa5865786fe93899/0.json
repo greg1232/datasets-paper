@@ -1,0 +1,15 @@
+{
+  "video_id": "c52ed98832e50547aa5865786fe93899",
+  "url": "./data/segments/3hLeTO8SC3U-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.312,
+    9.935,
+    16.558,
+    23.181
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A bald man with a light-colored dress shirt and dark blazer speaks while gesturing with his hands. He wears a small headset microphone on his cheek. He is positioned in an indoor setting with a muted background where other people are dimly visible, including one person in a green shirt. On-screen graphics across the bottom of the video include the MongoDB logo and text identifying the event as \"MONGODB WORLD 2022\" with hashtags \"#MDW22 | #theCUBE\". The text \"theCUBE\" appears next to the phrase \"From the Javits Center, New York, NY\". One frame specifically identifies the speaker as \"SANJEEV MOHAN\" and lists his title as \"Principal, SanjMo | @SanjMo\". As the sequence progresses, the man's facial expressions shift and his right hand moves from an open gesture to a closed position near his chest, while the lower-third graphics alternate between event details and the speaker's name."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4687a21799cf5cd345fab2abefe61397",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view focuses on the mechanical engine components of a vehicle, featuring a metallic, grime-covered assembly. A brown exhaust pipe runs horizontally across the top of the frame. Below it, a drive chain connects different parts of the engine, and various bolts, wires, and metallic casings are visible. A small white label with a barcode and black text is attached to a component near the top center. To the right, a rounded metallic cover features a partially legible logo consisting of stylized letters. The scene remains static across the frames, with no people present and no visible movement or changes in the position of the machinery, wires, or debris. The lighting is consistent, highlighting the textured, oily surfaces of the engine components."
+}

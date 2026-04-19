@@ -1,0 +1,15 @@
+{
+  "video_id": "5e83e45ec8b3e812ebe77aacec224cc5",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-257.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.219,
+    0.656,
+    1.094,
+    1.531
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is being played in a large stadium under bright lights, with the word \"COMMANDERS\" painted in red on the green turf. Players in white and black uniforms are lined up across the field, preparing for a play. A digital scoreboard at the top displays \"3rd & G,\" the team logos, \"1st,\" \"2:33,\" and \"20.\" In a picture-in-picture window on the left, a fair-skinned man with blond hair wearing a dark blue shirt speaks to the camera. On-screen graphics include the \"XFACTOR\" logo and a \"MOMENTUM LEGEND\" banner featuring a Nike swoosh and the text \"HOLD THE LINE.\" As the sequence progresses, the game clock ticks down from \":13\" to \":11,\" and the play begins with the players in motion. The text \"LET'S GO DEFF\" appears in the lower-left corner of the broadcast overlay."
+}

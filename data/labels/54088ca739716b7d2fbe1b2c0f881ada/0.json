@@ -1,0 +1,15 @@
+{
+  "video_id": "54088ca739716b7d2fbe1b2c0f881ada",
+  "url": "./data/segments/3QD9oO6sRns-Scene-130.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.41,
+    1.231,
+    2.052,
+    2.873
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand interacts with sports card boxes on a dark surface in a room with white walls. In the foreground, a dark blue box with \"TOPPS\" and \"CLEARLY AUTHENTIC\" printed in white and gold text, along with the year \"2020,\" is being handled. Several identical boxes are stacked in the background. Throughout the sequence, the hand pushes the foreground box forward and then slides it back and forth. An orange and white logo reading \"JASPYS CASEBREAKS\" is superimposed across the bottom of the screen. In the bottom right corner, a small inset video shows a man wearing a black shirt and a black baseball cap. Another smaller inset shows a close-up of a person's face. The text \"casebreaks.com\" is visible beneath the \"JASPY\" logo in these insets. A red and white cup sits on the table to the left of the boxes."
+}

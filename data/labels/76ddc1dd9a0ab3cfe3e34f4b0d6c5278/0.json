@@ -1,0 +1,15 @@
+{
+  "video_id": "76ddc1dd9a0ab3cfe3e34f4b0d6c5278",
+  "url": "./data/segments/3Smz5pevbI4-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.345,
+    10.035,
+    16.725,
+    23.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a static white background filled with various logos and text related to peace-building initiatives. Prominent logos include \"Soccer For Peace FOUNDATION,\" \"Youth in Action,\" \"Peace Camp,\" \"Soliya,\" and \"Seeds of Peace.\" Other visible text includes \"Projects for Peace,\" \"The Global Coalition for Conflict Transformation,\" \"Peace Parsha,\" and \"PTU PEACE TOGETHER UGANDA.\" Phrases such as \"Enlightened Dissent\" and \"GLOBAL NOMADSHIP\" are also present. Small icons depicting people holding hands, stylized figures, and a blue and yellow flag are scattered across the layout. There are no people or physical settings depicted; instead, the frames show a collection of graphic elements. The scene remains completely static across all four frames, with no movement, changes in text, or shifts in the arrangement of the logos."
+}

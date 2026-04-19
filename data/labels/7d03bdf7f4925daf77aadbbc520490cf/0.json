@@ -1,0 +1,15 @@
+{
+  "video_id": "7d03bdf7f4925daf77aadbbc520490cf",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.709,
+    0.993
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows the internal mechanical components of a vehicle, likely an all-terrain vehicle, featuring a complex arrangement of metal parts, hoses, and wiring. A metallic tube runs horizontally across the top of the frame. Below it, a drive chain connects gears within a dark metal frame. A silver casing on the right side is embossed with the logo \"POLARIS\". Various bolts, connectors, and electrical wires are visible, some held together by zip ties. The machinery is coated in a layer of dust and grime, suggesting outdoor use. Throughout the sequence, the camera remains static, and there is no movement among the mechanical parts or any people present. The scene remains completely still across all frames, maintaining a consistent focus on the engine and drive assembly."
+}

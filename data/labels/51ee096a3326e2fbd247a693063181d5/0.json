@@ -1,0 +1,15 @@
+{
+  "video_id": "51ee096a3326e2fbd247a693063181d5",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-111.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.33,
+    0.55,
+    0.77
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dark, blue-toned scene shows a crowd of people in the background, though they are heavily blurred and shadowed. Yellow graphic elements transition across the screen. Initially, a yellow circular outline containing a chevron-like shape appears in the upper right. As the sequence progresses, a different yellow emblem appears in the lower left, featuring a circle containing a stylized \"M\" with a small white dot beneath it. Finally, a bright yellow and white circular logo appears in the lower right, incorporating a similar chevron shape within a segmented ring. The background remains a dimly lit, crowded environment throughout, with the glowing yellow graphics serving as the primary focal point against the dark blue backdrop."
+}

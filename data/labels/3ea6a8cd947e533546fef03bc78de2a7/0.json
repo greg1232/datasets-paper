@@ -1,0 +1,15 @@
+{
+  "video_id": "3ea6a8cd947e533546fef03bc78de2a7",
+  "url": "./data/segments/3P1vSUbet40-Scene-1007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.297,
+    0.892,
+    1.486,
+    2.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a towering, grey, textured hairstyle and glasses is seated in a studio setting, wearing a white dress shirt, a red bowtie, and gold suspenders. He wears black over-ear headphones and speaks into a professional black microphone positioned in front of him. In the background, a woman with pink hair, wearing a green dress, stands with her back to the camera. The walls are decorated with a framed picture of a face and a logo featuring a shield and the text \"UNIQUE FASHIONS.\" Two red and white logos appear on the screen: one on the left reads \"#STALKD PODCAST\" and one on the right reads \"BOSS TALK 101.\" Throughout the sequence, the man remains in a similar position, talking into the microphone, while the woman in the background shifts her posture, eventually raising her arm."
+}

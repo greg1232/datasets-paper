@@ -1,0 +1,15 @@
+{
+  "video_id": "adc6b7d636db4642c19b93dc436f267b",
+  "url": "./data/segments/3i5-ZukC--g-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a dark, abstract digital environment characterized by a deep purple and black color palette. A grid of faint, glowing points of light is connected by thin lines, creating a three-dimensional sense of depth. Throughout the clip, bright red light streaks and vertical flares pulse and shift across the screen. In the lower half of the scene, translucent blocks of computer code appear and disappear, with fragments of C-style programming language visible. Legible snippets include \"int main()\", \"printf\", and \"for(i=0; i<row; i++)\". The camera perspective seems to drift slightly, causing the floating elements and red highlights to shift positions relative to the background grid. There are no people or physical locations present; the entire visual is a stylized representation of a data network or a computing process."
+}

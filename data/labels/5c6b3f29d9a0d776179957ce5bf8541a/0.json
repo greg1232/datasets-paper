@@ -1,0 +1,15 @@
+{
+  "video_id": "5c6b3f29d9a0d776179957ce5bf8541a",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-152.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a digital workspace where a man with glasses is featured in a small video overlay. The main screen displays a complex network diagram on a black background, consisting of various circular icons and connecting lines. Legible labels within the diagram include \"Rural Community Food System\" and \"Food Systems.\" The browser tabs at the top include titles such as \"Trail & Learning by Systemic,\" \"Resilience by Systemic,\" \"Future of Society by Systemic,\" and \"Insights Introduction.\" In the top right of the interface, a separate video feed shows a man wearing a dark cap and shirt. As the sequence progresses, the colorful icons and connecting lines of the network diagram fade into a dark grey, leaving only a few elements highlighted, including the man in the glasses and the man in the cap. The overall layout remains consistent, showing a transition from a fully detailed map to a dimmed version."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "050b2856c95145125e5d6b3977f44968",
+  "url": "./data/segments/3o6LBa7ZAp0-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.697,
+    2.09,
+    3.483,
+    4.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two bald men in dark suits and ties sit at a long white table against a grey patterned wall in a professional setting. The man on the left wears glasses and rests his chin on his hand, while the man on the right wears a red tie and speaks. On the table, there are several microphones, water bottles, and small nameplates, one of which reads \" Claude\". A small potted plant is positioned on the table between the men. Across the frames, the man on the left remains relatively still, maintaining his contemplative pose, while the man on the right continues to talk, shifting his facial expressions and mouth position slightly as he speaks. The background and the arrangement of objects on the table remain constant throughout the sequence."
+}

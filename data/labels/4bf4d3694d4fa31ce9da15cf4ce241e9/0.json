@@ -1,0 +1,15 @@
+{
+  "video_id": "4bf4d3694d4fa31ce9da15cf4ce241e9",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.184,
+    0.551,
+    0.918,
+    1.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand enters the scene, holding a long, thin white rod and moving it across the frame. The setting is a rustic, industrial-style environment with a tan-colored surface and various weathered metal tools and components. A large, dark metal bracket with a curved edge and a smaller, ornate silver-colored metal piece are visible. The text \"ADJUSTABLE\" is partially visible on a metal part in the background. As the sequence progresses, the hand pushes the white rod downwards and towards the right, crossing over the dark metal bracket. The rod's position shifts from the top left toward the center right of the frame, moving steadily across the various metallic objects. The hand remains partially visible on the right edge, guiding the rod's motion throughout the scene."
+}

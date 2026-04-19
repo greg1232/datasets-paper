@@ -1,0 +1,15 @@
+{
+  "video_id": "38c48a5e92e9c9d1f0756f955e782e82",
+  "url": "./data/segments/3E6ctN22V7k-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.705,
+    1.175,
+    1.645
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up sequence shows hands interacting with a large, yellow storage case reinforced with silver metal edges and corners. In the first frame, a person wearing a black sleeve grips the top edge of the case, while another person in a red garment has their hand resting on a separate yellow surface in the background. As the scene progresses, the person in black slides their hand along the silver metal rail. The yellow case features a small label with the letters \"DX\" visible in the first frame, which disappears from view as the camera shifts. Throughout all four frames, the same white subtitles appear at the bottom of the screen, reading, \"All of the sudden there should be people coming out of nowhere,\". The focus remains on the tactile interaction between the hands and the industrial equipment."
+}

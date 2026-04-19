@@ -1,0 +1,15 @@
+{
+  "video_id": "d71f07ec4b859456fd725ae0530b51e4",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.734,
+    2.202,
+    3.67,
+    5.138
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical training setting, several people wearing face masks and medical scrubs are gathered in a hallway. A woman in a grey hooded sweatshirt and a blue mask stands in the foreground, holding papers. Behind her, a woman in dark blue scrubs holds a document, and another woman in pink scrubs stands further back, also holding a paper. A fourth person in grey scrubs is positioned to the right. A wall-mounted soap dispenser and a red circular sign that reads \"PLEASE STAY 6FT APART\" are visible on the wall. A purple banner across the lower portion of the frames contains the text \"Day 2\", \"Central Line\", and \"Sim Week\". As the scene progresses, the woman in the grey sweatshirt and the woman in the dark blue scrubs shift their positions slightly, and the woman in the grey sweatshirt moves her papers."
+}

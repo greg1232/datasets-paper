@@ -1,0 +1,15 @@
+{
+  "video_id": "9f8807d957613b18cc9e72dbc2b83b91",
+  "url": "./data/segments/3QD9oO6sRns-Scene-126.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.408,
+    1.225,
+    2.042,
+    2.858
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt and a white baseball cap is broadcasting from a studio featuring a black surface with the orange and white logo \"JASPYS CASEBREAKS\". He is positioned behind the desk, and a small inset window in the upper right corner shows a repeated view of him and the logo \"JASPYS CASEBREAKS\" with the website \"CASEBREAKS.COM\" beneath it. On the desk, several stacks of boxed sports card products are piled up. Throughout the sequence, the man is seen interacting with the products. In the final frames, his hand enters the frame from the right, reaching toward and gripping one of the black boxes from the stack. The background includes white surfaces and additional branded materials, while the primary focus remains on the man and the \"JASPYS CASEBREAKS\" branding prominently displayed on the foreground surface."
+}

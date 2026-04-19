@@ -1,0 +1,15 @@
+{
+  "video_id": "3f3966aa203bed2eec92e0fde7cdc81f",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-271.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.269,
+    0.448,
+    0.627
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand interacts with a black textured surface in an indoor setting. A man wearing a black polo shirt with a yellow logo on the chest is seated in the background behind a desk equipped with a monitor and other electronic devices. The scene features a repetitive logo that reads \"JASPYS\" with \"CASEBREAKS.COM\" printed below it. Stacks of graded trading cards in plastic slabs are visible on the left side of the desk. As the sequence progresses, the camera angle shifts from a close-up of the textured surface to reveal the man in the background. The man remains seated and looks toward the camera while the hand continues to move across the black surface. The lighting is focused on the workspace, highlighting the items on the desk and the man's presence in the room."
+}

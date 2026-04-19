@@ -1,0 +1,15 @@
+{
+  "video_id": "3bc7c772f7372f82d24b0466c3be81c3",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-326.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    15.235,
+    45.705,
+    76.175,
+    106.645
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large-scale video conference call is depicted, featuring a grid of numerous participants in various home or office settings. The participants, primarily men and women of varying ages, are seen from the chest up, wearing casual attire such as t-shirts and button-down shirts. Some people are speaking or gesturing, while others listen attentively. Visible in some backgrounds are bookshelves, curtains, and household items. Several participants have their names displayed in small text at the bottom of their video feeds, including \"Jerry McHale,\" \"Richard Silverman,\" \"Sara Jallige,\" \"Mira van Dyck,\" \"Zora_voldlabrator,\" \"Jen Burko,\" \"Nagu Gela,\" and \"Mira van Dyck van Eype.\" Throughout the sequence, the active speaker changes, and individual participants shift their posture or facial expressions, while the overall composition of the gallery view remains consistent."
+}

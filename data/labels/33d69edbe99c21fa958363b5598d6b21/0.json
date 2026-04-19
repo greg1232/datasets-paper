@@ -1,0 +1,15 @@
+{
+  "video_id": "33d69edbe99c21fa958363b5598d6b21",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.802,
+    5.405,
+    9.009,
+    12.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A bald man with a grey beard and a grey polo shirt is the central focus, speaking directly toward the camera in a crowded indoor convention center. Behind him, another bald man wearing glasses and a grey button-down shirt with a white identification badge looks on with a smile. The background features other attendees, display booths, and overhead lighting typical of a trade show. In the first frame, the man in the polo shirt looks calmly at the camera. As the sequence progresses, his expression becomes more animated, his mouth opening wider as he speaks. By the final frame, he is captured mid-sentence with a surprised or emphatic expression. In the distance, a sign is partially visible with the text \"MicroPlasma\". The man in the button-down shirt remains relatively still in the background throughout the clip, maintaining his smiling expression."
+}

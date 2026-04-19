@@ -1,0 +1,15 @@
+{
+  "video_id": "33e2269fadd7a3e24e72b06abcb22ba1",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-215.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.785,
+    5.355,
+    8.925,
+    12.495
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a blue baseball cap and a dark shirt is seen in a small video call window in the upper right corner of a computer screen. The main portion of the screen displays a complex mind-map or concept map on a dark background, consisting of various circular icons connected by blue lines. These icons are labeled with text, including \"black-hole\" and \"Flexible flow.\" The browser tabs at the top of the window show titles such as \"Trust & Learning by Systemsynth,\" \"Future of Society by Systemsynth,\" and \"Rural Community Food System.\" In the first frame, the browser window is maximized to show only the mind map. In the subsequent frames, the view shifts to show the man's video feed and a glimpse of other participants in a gallery view. The conceptual map remains static throughout the sequence, while the screen layout changes to include the video conference participants."
+}

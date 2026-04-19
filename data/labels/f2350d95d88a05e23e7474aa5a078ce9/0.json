@@ -1,0 +1,15 @@
+{
+  "video_id": "f2350d95d88a05e23e7474aa5a078ce9",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.237,
+    0.712,
+    1.188,
+    1.662
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white cargo airplane with a purple stripe and the word \"\u041f\u041e\u0427\u0422\u0410\" written on its side taxis across a grassy airfield under an overcast sky. The aircraft features a high T-tail and engines mounted at the rear of the fuselage. In the background, several helicopters are parked on the tarmac near a tall red and white striped tower and utility poles. A red logo with the number \"13\" appears in the upper right corner of each scene. As the airplane moves from left to right, its position shifts slightly across the frame. The ground is covered in green grass and low-lying vegetation, and a red marker is visible on the airfield surface. No people are visible in the frames."
+}

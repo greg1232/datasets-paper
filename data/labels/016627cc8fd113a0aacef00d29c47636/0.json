@@ -1,0 +1,15 @@
+{
+  "video_id": "016627cc8fd113a0aacef00d29c47636",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.905,
+    2.715,
+    4.525,
+    6.335
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The image displays a series of lecture slides titled \"CRYOGENIC ENGINEERING\" and \"Tutorial \u2013 3,\" presented by Prof. M D Atrey of the Department of Mechanical Engineering, IIT Bombay. An NPTEL logo appears in the bottom left corner of each frame. The slides focus on \"Liquid yield,\" featuring a T-S (temperature-entropy) diagram with colored lines indicating constant temperature and pressure processes. A mathematical formula for liquid yield, $y = \\frac{h_1 - h_2}{h_1 - h_r}$, is shown in a blue box. As the sequence progresses, a data table appears at the bottom of the diagram. This table lists values for pressure $p$ (bar), temperature $T$ (K), enthalpy $h$ (j/g), and entropy $s$ (j/gK) across different states labeled \"1\", \"2\", and \"f\". The frames show the progression of the lecture as these technical details are introduced to explain the cryogenic process."
+}

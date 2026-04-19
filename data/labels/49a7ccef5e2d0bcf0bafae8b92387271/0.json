@@ -1,0 +1,15 @@
+{
+  "video_id": "49a7ccef5e2d0bcf0bafae8b92387271",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-199.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.147,
+    3.441,
+    5.735,
+    8.029
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video transitions from financial data to promotional graphics. It begins with a split screen showing a stock market candlestick chart on the left and a person's hand flipping through paper currency on the right. A blue banner across the middle contains the text \"Basil Chapman\" and \"The Tiger Technicians Hour | June 8th, 2022\". The scene then shifts to a dark background filled with cascading green and red digital data streams. A globe logo appears on the left side of the screen next to the website address \"www.tfnn.com\". Below this, a red YouTube play button icon is paired with the text \"tfnncorp\". The blue banner featuring \"Basil Chapman\" and \"The Tiger Technicians Hour | June 8th, 2022\" remains constant at the bottom of the screen during the digital data sequence."
+}

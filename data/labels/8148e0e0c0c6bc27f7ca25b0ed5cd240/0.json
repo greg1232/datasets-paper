@@ -1,0 +1,15 @@
+{
+  "video_id": "8148e0e0c0c6bc27f7ca25b0ed5cd240",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.41,
+    1.23,
+    2.05,
+    2.87
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a wide, static landscape shot of a residential town nestled at the base of rolling mountains under a pale blue sky. A sparse foreground of dry, golden fields leads to a middle ground filled with a dense cluster of small houses and green trees. In the far distance, large, hazy grey mountains stretch across the horizon. A white circular logo featuring a crown is visible in the top center of the scene. As the sequence progresses, the camera slowly pans to the right, shifting the perspective of the town and the mountain peaks. There are no people visible in the frames, and the scene remains quiet and still, with only the subtle movement of the camera changing the view of the terrain."
+}

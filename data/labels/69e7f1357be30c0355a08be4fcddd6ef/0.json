@@ -1,0 +1,15 @@
+{
+  "video_id": "69e7f1357be30c0355a08be4fcddd6ef",
+  "url": "./data/segments/3l84m5pRmyk-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.26,
+    3.779,
+    6.298,
+    8.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a grey suit jacket, white dress shirt, and striped tie stands before a white background featuring the hashtag \"#BigDataSV\" and the year \"2015\" repeated twice. He wears a small headset microphone. In front of him sits a silver laptop, partially obscured by a blue 3D cube logo. Initially, the man looks down toward the laptop with a neutral expression. As time progresses, he looks up and begins speaking, gesturing with both hands open and palms facing inward to emphasize his points. He eventually returns his gaze downward toward the laptop screen, continuing to speak while gesturing slightly with his right hand. The background and equipment remain stationary throughout the sequence, while the man's facial expressions and hand movements shift as he delivers his presentation."
+}

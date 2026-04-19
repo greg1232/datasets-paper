@@ -1,0 +1,15 @@
+{
+  "video_id": "1fae1056a20a5a208b0b8217c69b963a",
+  "url": "./data/segments/3iUTkJy84EY-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.51,
+    1.53,
+    2.55,
+    3.57
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a series of text-based slides against a dark grey background. Initially, the scene is blurred and distorted, showing overlapping and fragmented text that reads \"Session 12\u2014Part 7\" and \"Keypoints of Maternal, Infant & Young Child Nutrition.\" As the sequence progresses, the visual noise clears, and the text stabilizes into a crisp, centered presentation. The text is displayed in a gold-colored font, with \"Session 12 \u2013 Part 7\" appearing as a header above the main title, \"Keypoints of Maternal, Infant & Young Child Nutrition.\" There are no people, objects, or logos visible in the frames. The scene transitions from a chaotic, blurred state to a clear, static slide, effectively acting as a title screen for an educational session."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0f5457ef460220fe445325cb083b8232",
+  "url": "./data/segments/3sJ5OX75erw-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.4,
+    19.2,
+    32.0,
+    44.8
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a presentation slide titled \"OPS-5G Collaboration with the Linux Foundation.\" Below the title, the text states, \"OPS-5G performers will be contributing directly to Linux Foundation projects.\" A central table lists \"LF Project,\" \"Performer,\" and \"Status,\" with entries including \"ONAP\" performed by \"USC ISI\" with the status \"Active discussions \u2013 USC ISI and ONAP Team,\" and \"Open Daylight\" performed by \"GATech\" with the status \"OOL interest in OpenFlow code upgrade.\" Other projects listed include \"DPDK,\" \"FD.io,\" \"EMCO / intel Smart Edge Open,\" and \"Zephyr.\" In the top right corner, a small video inset shows a man with short dark hair and a beard wearing a blue shirt. The bottom of the slide contains the hashtag \"#opennetledge\" and logos for \"THE LINUX FOUNDATION,\" \"LF NETWORKING,\" and \"LF EDGE,\" followed by the text \"DISTRIBUTION STATEMENT A. Approved for public release. distribution unlimited.\" Across the frames, the slide remains static with no visual changes."
+}

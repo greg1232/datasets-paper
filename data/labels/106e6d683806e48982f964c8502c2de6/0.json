@@ -1,0 +1,15 @@
+{
+  "video_id": "106e6d683806e48982f964c8502c2de6",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-177.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.88,
+    11.641,
+    19.401,
+    27.161
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair, wearing a red top and dangling earrings, is centered within a circular white frame against a solid black background. She is smiling and looking slightly to her left. In the bottom left and center of the screen, the text \"Nancy Ramya\" appears in a small white font. Across the sequence, the woman remains in the same position and expression, and the text remains stationary. There are no changes in her clothing, the setting, or the on-screen text as the video progresses, resulting in a static visual presentation."
+}

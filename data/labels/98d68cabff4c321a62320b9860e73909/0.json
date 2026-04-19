@@ -1,0 +1,15 @@
+{
+  "video_id": "98d68cabff4c321a62320b9860e73909",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-657.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.334,
+    1.001,
+    1.668,
+    2.336
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt, a green baseball cap, and headphones speaks into a professional microphone in a room decorated with framed photos and a white mannequin wearing a white shirt. His t-shirt features the white and orange text \"I CON NEVER DO SHIT AT WORK\". The background includes racks of clothing and a logo that reads \"BODILY\". In the first frame, the man looks toward the camera with his mouth open as if speaking. By the second frame, he looks down and slightly to the side, his hand beginning to move toward the right edge of the frame. In the third frame, he continues to look downward with a neutral expression. In the final frame, he looks straight ahead with his eyes partially closed. Throughout the sequence, the camera remains stationary, capturing his facial expressions and slight movements."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2f223580a62493e9cb9c9bddad1d408a",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.537,
+    0.896,
+    1.254
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A desolate, hazy outdoor field with sparse vegetation and a distant tree line serves as the setting for this sequence. In the initial frames, the scene is mostly obscured by mist, with only a few distant figures visible. As the sequence progresses, several individuals dressed in olive-drab military attire and helmets emerge from the haze. One person in the foreground moves toward the right, carrying a handheld device. Other figures are seen walking across the field in the background. A red and white circular logo containing the number \"13\" and the word \"estadio\" appears in the top right corner of each frame. The camera remains stationary as the figures move through the environment, with the visibility slightly improving to reveal more of the soldiers' movements across the landscape."
+}

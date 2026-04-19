@@ -1,0 +1,15 @@
+{
+  "video_id": "66c4bca8d4b22b2b4b1830437586d5c7",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.475,
+    1.425,
+    2.375,
+    3.325
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call features multiple participants. A man with glasses and a blue striped shirt, identified by the text \"Jerry Nichibai,\" appears in a room with a blue chair. Another man, identified as \"Howard S. Meyerman,\" wears a grey t-shirt with \"DEEP\" printed on it and sits outdoors under a large tree. A third participant, identified as \"Gail Bellinger,\" wears a blue shirt and headsets in a room with a computer setup, and a woman identified as \"Linda T.\" wears headsets in a room with a tan wall. Initially, only Jerry is visible, but the screen expands to include Howard. Subsequently, Gail and Linda join the call. In the final sequence, all four participants are visible simultaneously, appearing in their respective remote locations. The participants maintain relatively steady positions, looking toward their cameras as the interface updates to show more people."
+}

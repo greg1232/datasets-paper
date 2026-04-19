@@ -1,0 +1,15 @@
+{
+  "video_id": "3fd5562b4d4f65c681cb082e8d391cf0",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-244.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.552,
+    4.655,
+    7.758,
+    10.861
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing large over-ear headphones and a black jacket over a grey shirt sits in a studio with black sound-absorbing foam panels on the wall behind him. He is positioned in front of a professional microphone mounted on a shock mount and boom arm. Throughout the sequence, the man looks slightly to his left and speaks into the microphone. He gestures with his right hand, bringing it up toward his face and moving it in a sweeping motion across his field of vision. As he speaks, his facial expression shifts slightly, and he blinks. The background and equipment remain stationary while the man's head and hand movements provide the primary action in the scene."
+}

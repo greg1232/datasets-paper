@@ -1,0 +1,15 @@
+{
+  "video_id": "ea1d9bf1da9c92860525fc08a457d81f",
+  "url": "./data/segments/3HgCF6yVXko-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.0,
+    3.0,
+    5.0,
+    7.0
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A modern open-concept kitchen and living area are captured in these frames. The kitchen features dark brown cabinetry, white countertops, and a stainless steel vent hood hanging from the ceiling. A red tea kettle sits on a black gas stovetop integrated into the counter. In the background, a living room is visible with a brown leather sofa and a red patterned rug on the floor. Large windows with beige curtains allow soft light into the space. The camera pans smoothly across the room, starting with a wide shot of the kitchen and living area, then shifting focus toward the left, revealing more of the kitchen's cabinetry and a built-in oven. No people are present in the scene, and there is no visible on-screen text or logos throughout the sequence."
+}

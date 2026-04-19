@@ -1,0 +1,15 @@
+{
+  "video_id": "7d4feab614b78b87fa7f8b736c82fac9",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-152.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.355,
+    1.065,
+    1.775,
+    2.485
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with glasses, wearing a white garment and a light-colored shawl, speaks into a handheld microphone outdoors. In the top-left frame, images of several men are displayed in small boxes on the left and right sides of the screen, while the top banner contains the text \"2024 \u092e\u0947\u0902 JD...\" and the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo. A red banner at the bottom reads \"BJP \u0938\u0947 \u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930 \u0928\u0940\u0924\u0940\u0936 \u0938\u0930\u0915\u093e\u0930 \u092e\u0947\u0902 \u092e\u0902\u0924\u094d\u0930\u0940 \u092c\u0928\u0947\" and displays the time \"10:08 PM.\" In the subsequent frames, the layout shifts. The left-side boxes now feature a man labeled \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930,\" while the right side shows men labeled \"\u092e\u0902\u0924\u094d\u0930\u0940 \u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\" and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930.\" The top banner text changes to \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\" The bottom red banner and timestamp remain the same. The speaker remains centered, holding the microphone throughout the sequence."
+}

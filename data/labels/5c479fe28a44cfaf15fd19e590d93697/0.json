@@ -1,0 +1,15 @@
+{
+  "video_id": "5c479fe28a44cfaf15fd19e590d93697",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.459,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A side-view mirror and the dark glossy exterior of a car are visible in the foreground, reflecting the surrounding environment. The vehicle is parked in a paved parking lot with visible cracks in the asphalt. In the background, several cars are parked under a bright sky with scattered clouds and green leafy trees. A small grass verge separates the parking area from a road. As the sequence progresses, the camera shifts slightly, changing the perspective and the reflections on the car's surface. The background cars and trees remain stationary, but the angle of the shot evolves, revealing more of the parking lot's surface and the reflections on the vehicle's side panel. No people, on-screen text, or logos are visible in the scene."
+}

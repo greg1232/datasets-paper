@@ -1,0 +1,15 @@
+{
+  "video_id": "9fb9bd6eac08eb9a0ad3b8b8d493e4a7",
+  "url": "./data/segments/3l84m5pRmyk-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.929,
+    11.787,
+    19.645,
+    27.502
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a blue button-down shirt with an \"INFOOBJECTS\" logo on the chest and a headset microphone stands in front of a dark background. Behind him is a white wall featuring the logos \"theCUBE\" and \"siliconANGLE.\" At the bottom of the scene, a blue banner displays the text \"RISHI YADAV | @meditativesoul,\" \"CEO,\" and \"info0objects,\" alongside an \"H2O\" logo under the words \"SPONSORED BY.\" Initially, the man holds up a book titled \"Spark Cookbook\" for the viewer to see. As the sequence progresses, he lowers the book and speaks, shifting his facial expression and gaze. He remains in the same position throughout the clip, with the background and on-screen graphics remaining static while only his posture and expressions change."
+}

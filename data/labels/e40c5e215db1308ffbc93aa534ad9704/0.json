@@ -1,0 +1,15 @@
+{
+  "video_id": "e40c5e215db1308ffbc93aa534ad9704",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.42,
+    1.26,
+    2.1,
+    2.94
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a series of animated graphics for a news organization against a dark red background. Initially, a blue 3D block with the word \"NEWS\" in white capital letters is shown, with a red square containing the number \"18\" positioned above it. As the sequence progresses, the scene shifts to a bright, stylized visual featuring the same \"NEWS 18\" logo, accompanied by the word \"\u0907\u0902\u0921\u093f\u092f\u093e\" written in Hindi script. The final frames stabilize into a centered composition where the blue \"NEWS\" text and red \"18\" square sit directly above the white Hindi text \"\u0907\u0902\u0921\u093f\u092f\u093e\". A bright light source glows from behind the text, creating a lens flare effect and illuminating the red, grid-like floor beneath the logo. There are no people or physical locations present, as the footage consists entirely of motion graphics and digital branding."
+}

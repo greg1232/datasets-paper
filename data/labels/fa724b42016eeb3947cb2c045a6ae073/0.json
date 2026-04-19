@@ -1,0 +1,15 @@
+{
+  "video_id": "fa724b42016eeb3947cb2c045a6ae073",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-432.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.073,
+    0.219,
+    0.365,
+    0.511
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt, a green baseball cap, and black headphones sits at a table in a studio setting. He is speaking into a black microphone and gesturing with his right hand. Behind him are clothing displays featuring shirts and the text \"UNIQUE FASHIONS\". To his right, another person is partially visible, wearing a blue garment. On the table, there is another microphone and a monitor displaying \"BOSSES TALK\" and \"CONNECT WITH US\". A logo for \"VEM\" and the text \"VIRTUAL REALITY\" are visible on the wall in the background. In the bottom corners of the frames, red and white logos for \"THE BOSS\" and \"BOSS TALK\" are visible. Across the frames, the man continues to speak and move his hand, while the camera remains stationary, capturing the scene from a medium side profile."
+}

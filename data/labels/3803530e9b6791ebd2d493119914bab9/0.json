@@ -1,0 +1,15 @@
+{
+  "video_id": "3803530e9b6791ebd2d493119914bab9",
+  "url": "./data/segments/3P1vSUbet40-Scene-0508.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark navy blue baseball cap, a dark t-shirt, and large over-ear headphones sits in a studio setting. He wears a gold chain around his neck and is positioned in front of a professional microphone. His t-shirt features the white text \"CHECK IT!\" on the chest. In the background, a white wall displays the phrase \"HUSTLE\" repeated vertically, accompanied by small gold stars. To his right, a screen displays the text \"ROSS TALK 101\". Various overlays are visible on the screen, including a logo that reads \"ROSS TALK 101 PODCAST\" on the left and \"ROSS TALK 101\" on the right. The man remains in a static position across the sequence, looking slightly to his left with a neutral expression, while the background and equipment remain unchanged."
+}

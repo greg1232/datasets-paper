@@ -1,0 +1,15 @@
+{
+  "video_id": "2428c833f70e6855a2d61a352be2e194",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-112.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.812,
+    1.137
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a graded sports card in a protective plastic case, rotating and tilting it to show the surface. In the background, a man wearing a dark t-shirt with a small yellow logo sits behind a desk featuring a white surface with green palm tree designs. He is positioned in front of a screen that displays the \"JASPYS\" logo and the text \"CASEBREAKS.COM\". The scene is layered with an overlay that repeats the \"JASPYS\" logo and \"CASEBREAKS.COM\" in the upper center and right. A small picture-in-picture window shows the man sitting at his desk with a black case or piece of equipment in front of him. As the sequence progresses, the hand moves the card closer to the camera, focusing on a signature on the card's surface, while the man in the background remains seated and observant."
+}

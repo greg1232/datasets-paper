@@ -1,0 +1,15 @@
+{
+  "video_id": "7a63fa77a60808c41c432efa6359be5e",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-076.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.99,
+    1.385
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card featuring basketball player Chris Mullin of the Golden State Warriors. The card is labeled \"AWARD-WINNING\" and depicts Mullin in a yellow and blue jersey. A signature is written across the bottom of the card. In the background, a man wearing a black jacket is visible in a small inset window, seated in a room with equipment. A red and black surface with the \"JASPYS\" logo and the text \"CASEBREAKS.com\" is prominent. As the sequence progresses, the person moves the card, shifting its position and angle. In the final frames, the card is partially obscured as it is moved toward the right, and the view shifts slightly to show the card resting on a dark surface. The background elements, including the man in the inset and the branded surface, remain consistent throughout the clip."
+}

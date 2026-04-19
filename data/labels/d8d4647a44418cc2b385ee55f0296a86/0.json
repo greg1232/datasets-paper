@@ -1,0 +1,15 @@
+{
+  "video_id": "d8d4647a44418cc2b385ee55f0296a86",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-273.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    11.345,
+    34.034,
+    56.723,
+    79.413
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands behind a microphone in an indoor setting with wood-paneled walls, wearing a white long-sleeved shirt and a dark decorative vest. He is positioned in front of an audience, seen from the back, consisting of several people with varying hair colors and clothing, including some wearing dark purple garments. A microphone on a stand is positioned directly in front of the man. The text \"ORCA\" appears as a white logo on the right side of the scene. Across the sequence of frames, the man remains in place, speaking or singing into the microphone, while the audience members remain still. The scene is a static shot with minimal movement, focusing on the man as he addresses the gathered group."
+}

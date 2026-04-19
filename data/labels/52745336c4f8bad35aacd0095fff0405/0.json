@@ -1,0 +1,15 @@
+{
+  "video_id": "52745336c4f8bad35aacd0095fff0405",
+  "url": "./data/segments/3QD9oO6sRns-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.687,
+    1.146,
+    1.604
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen in a sports card breaking environment, characterized by a black table surface with a large \"JASPYS BREAKS\" logo and the text \"Sports Cards & Collectibles HERMOSA BEACH\" visible. In the background, several boxes labeled \"CLEARLY AUTHENTIC\" are stacked. A small inset video window shows a man wearing a black t-shirt and a black baseball cap. Throughout the sequence, the man's hand enters the main frame from the left, reaching toward the center. He interacts with the card boxes, eventually grasping and lifting one of the \"CLEARLY AUTHENTIC\" boxes. A small red plastic cup sits on the table to the left. The scene transitions from the man's hand approaching the items to him actively picking up a product box, while the inset video continues to show his face and upper body as he manages the breaking process."
+}

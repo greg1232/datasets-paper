@@ -1,0 +1,15 @@
+{
+  "video_id": "3666fea27afae85cc1ae4ca64d2ec24f",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A flashlight beam illuminates a patch of dark, sandy ground scattered with small green plants and dried leaves. The light source is positioned in the center, creating a bright white hotspot that casts deep shadows around the edges of the frame. A dark, obscured silhouette of a person's hand or arm is visible on the right side, holding the light source and partially blocking the view. Across the sequence, the flashlight remains focused on the same area of the ground, and the handheld movement is minimal. The scene remains dark and focused on the ground's texture and vegetation, with no people's faces, clothing, or on-screen text visible. The lighting and perspective stay consistent throughout the sequence, showing a steady view of the forest floor under the artificial light."
+}

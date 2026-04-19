@@ -1,0 +1,15 @@
+{
+  "video_id": "4c6026d4ef8b7b26723676c07b46cef0",
+  "url": "./data/segments/3L_uHTClWfk-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.279,
+    0.837,
+    1.396,
+    1.954
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows the control panel of a metallic, silver-toned coffee machine. The surface is polished and reflective, featuring three circular buttons arranged in a row. The leftmost button displays a single cup icon, the center button shows two cups, and the rightmost button features an icon of a hand pressing down. Above the buttons, a series of horizontal ridges are embossed into the metal. The machine is set against a soft, light-green background. Throughout the sequence, the camera remains static, and there are no people present. The buttons remain unpressed, and there are no changes in lighting or motion across the frames, resulting in a still image of the appliance's interface. No text or logos are legible on the device."
+}

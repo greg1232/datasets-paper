@@ -1,0 +1,15 @@
+{
+  "video_id": "5776eeeddb4d7bc6681cabf1db7b3b35",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.285,
+    3.855,
+    6.425,
+    8.995
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording of a virtual meeting shows a presentation titled \"Trial & Learning An Insightful Journey\" in green text against a black background. At the top of the screen, a web browser interface is visible with multiple open tabs, including one titled \"decto.michaeli.fsl learning.\" In the upper right corner, a small video feed shows a man wearing glasses and a blue button-down shirt. He appears static throughout the sequence. The primary focus of the video is the presentation slide, which remains constant across the frames. The layout of the browser windows and the presence of the man's video feed do not change, indicating a steady state during this portion of the recording. No other people or objects are visible beyond the computer interface and the individual in the video call."
+}

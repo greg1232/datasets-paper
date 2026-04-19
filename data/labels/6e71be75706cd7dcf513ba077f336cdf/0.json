@@ -1,0 +1,15 @@
+{
+  "video_id": "6e71be75706cd7dcf513ba077f336cdf",
+  "url": "./data/segments/3E6ctN22V7k-Scene-123.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.295,
+    0.885,
+    1.475,
+    2.065
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two young children are engaged in an educational activity using a printed board game and small wooden cylinders. In the initial scene, a girl in a yellow top and another child in a pink shirt look down at the board. The board features colorful illustrations of landscapes and people, alongside rows of numbered circles from 1 to 10 and a section with red circles containing symbols like \"+\" and \"-\". As the sequence progresses, hands enter the frame to manipulate the wooden cylinders and a small white die with black dots. The children move the cylinders across the numbered circles, interacting with the board's layout to solve mathematical problems. The setting is indoors with a simple background, and the focus remains on the tactile interaction between the children and the learning materials as they progress through the game."
+}

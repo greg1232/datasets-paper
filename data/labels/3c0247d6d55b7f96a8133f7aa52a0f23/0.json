@@ -1,0 +1,15 @@
+{
+  "video_id": "3c0247d6d55b7f96a8133f7aa52a0f23",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-091.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.16,
+    0.48,
+    0.8,
+    1.12
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital scoreboard at a stadium displays a football match result. The screen shows a score of \"0-1\" with a timer reading \"09:57\". To the left of the score is the red and white crest of Granada CF, and to the right is the blue, gold, and white crest of Real Madrid. Below the timer, the text \"LaLiga Santander\" is visible. The scoreboard is positioned against a dark background, with a faintly visible \"WINAMAX\" logo to the left and \"CAJA RURAL GRANADA\" text to the right. The Real Madrid logo also appears as a small white icon at the top and bottom center of the scene. Across the sequence of frames, the visual remains static, with no movement, change in score, or shift in the timer, maintaining a consistent image of the match progress."
+}

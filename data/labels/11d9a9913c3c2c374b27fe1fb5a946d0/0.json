@@ -1,0 +1,15 @@
+{
+  "video_id": "11d9a9913c3c2c374b27fe1fb5a946d0",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.14,
+    0.42,
+    0.7,
+    0.98
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast depicts a press conference with several men gathered in a crowded indoor setting. A man in a white shirt and glasses stands centrally, speaking into a cluster of microphones, including one with a \"PTI\" logo and another with a \"\u092d\u093e\u0930\u0924\" logo. He is surrounded by other men, some wearing dark jackets and scarves. The scene is framed by a red and blue news graphic. On the left and right sides of the screen, small portrait photos of political figures are displayed alongside names such as \"\u0921\u093f\u091c\u0940 CM\", \"\u0938\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940\", \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\", \"\u092e\u0902\u0924\u094d\u0930\u0940\", \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\", and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930\". A prominent red ticker at the bottom reads \"PM \u092e\u094b\u0926\u0940 \u0928\u0947 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930 \u0915\u094b \u092c\u0927\u093e\u0908 \u0926\u0940\" and includes a timestamp of \"10:03 PM\". Across the top, a headline reads \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091b\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\". The visual remains largely static across the sequence, with only minor changes in the men's facial expressions and postures as they interact."
+}

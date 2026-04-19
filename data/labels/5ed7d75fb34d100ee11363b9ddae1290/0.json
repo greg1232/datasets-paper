@@ -1,0 +1,15 @@
+{
+  "video_id": "5ed7d75fb34d100ee11363b9ddae1290",
+  "url": "./data/segments/3KyEoC29eqs-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.283,
+    6.85,
+    11.417,
+    15.983
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video displays a televised broadcast of an event for the \"\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940 \u0938\u094d\u0925\u093e\u092a\u0928\u093e \u0926\u093f\u0935\u0938\". The screen features a split-screen layout: on the left, Prime Minister Narendra Modi speaks, wearing a white kurta, a multi-colored scarf, and glasses; on the right, several men in traditional Indian attire sit in a row. The background behind the speakers is a repeating pattern of the lotus logo. Banners at the top and bottom contain the text \"\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940 \u0938\u094d\u0925\u093e\u092a\u0928\u093e \u0926\u093f\u0935\u0938\" and \"\u0932\u093e\u0907\u0935 \u0926\u0947\u0916\u0947\u0902\", along with social media handles like \"/BJP4India\" and the URL \"www.bjp.org/bjplive\". Small labels like \"\u092a\u094d\u0930\u091c\u093e\u0928\u0947\u0924\u094d\u0930\u0940\" and \"\u0926\u093f\u0932\u094d\u0932\u0940\" are also visible. Across the frames, Modi remains the central figure on the left, gesturing with his hands as he speaks, while the group of seated men on the right remains relatively still, observing the proceedings."
+}

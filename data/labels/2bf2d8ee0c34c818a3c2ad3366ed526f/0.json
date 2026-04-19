@@ -1,0 +1,15 @@
+{
+  "video_id": "2bf2d8ee0c34c818a3c2ad3366ed526f",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.475,
+    7.425,
+    12.375,
+    17.325
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing glasses, a white dress shirt, a dark tie, and a dark suit jacket speaks in a television studio setting. He is positioned in front of a blue background featuring a circular graphic and the text \"PLUS POLITICS.\" To his left is a red vertical banner with the \"plustv\" logo. A news ticker at the bottom of the screen consistently displays the headline \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\" alongside the label \"PLUS POLITICS.\" The lower banner changes across the sequence; it initially shows \"SUBSCRIBE\" and \"WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE,\" then switches to \"WATCH ON\" followed by logos for \"DStv CH 408\" and \"StarTimes CH 308,\" later displays \"WATCH ONLINE\" with \"W W W . P LUSTVAFRICA.COM/LIVE-TV,\" and finally reverts to \"SUBSCRIBE\" with \"WWW.YOUTUBE.COM/PLUSTVAFRICA.\" The man remains in the same position, speaking and gesturing slightly with his facial expressions throughout the clip."
+}

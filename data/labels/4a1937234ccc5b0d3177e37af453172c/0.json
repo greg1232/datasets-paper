@@ -1,0 +1,15 @@
+{
+  "video_id": "4a1937234ccc5b0d3177e37af453172c",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.363,
+    1.089,
+    1.814,
+    2.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a blue surgical gown and yellow gloves performs a medical procedure on a tan-colored anatomical mannequin. In the initial frames, the person uses a surgical tool to make an incision in the mannequin's chest area, which is partially draped with blue and white surgical cloths. As the sequence progresses, the person replaces the tool with a needle and catheter, carefully inserting it into the established incision. The scene remains static in terms of setting and personnel, with only the movement of the hands and tools changing to show the progression of the procedure. Throughout all frames, the bottom left corner features a purple graphic with a figure and a red capsule containing the text \"Day 2,\" while the bottom right corner displays a logo with the text \"Sim Week\" and \"Medical Simulation University\" underneath."
+}

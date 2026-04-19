@@ -1,0 +1,15 @@
+{
+  "video_id": "34b45eaff9ac04ed35d40e63a09f8032",
+  "url": "./data/segments/3Smz5pevbI4-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    9.614,
+    28.841,
+    48.069,
+    67.296
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with brown hair, wearing red glasses, a black V-neck blouse, and a chunky gold necklace, stands at a podium speaking. She is positioned in front of a backdrop consisting of an American flag on the left and a dark blue flag on the right featuring a white seal and the partially visible text \"STA\" and \"ITU\". A microphone is positioned in front of her. Across the sequence, the woman begins by looking forward and speaking with her mouth open, then shifts her gaze downward toward documents on the podium. She then looks back up and slightly to the side with a subtle smile before glancing down once more. The background, consisting of the flags and a paneled wall, remains static throughout the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7536615095345be6fc39181a95fd9d71",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-180.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.385,
+    1.155,
+    1.925,
+    2.695
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark beanie and a dark shirt appears in a small video call window in the upper right corner of a screen. The main area of the screen displays a black background with green text centered in the middle. The text reads, \"Moments To provoke thoughts! To feel something!\" The top of the image shows a web browser interface with multiple open tabs and a URL bar. Throughout the sequence, the person in the video call remains visible and relatively still, while the green text on the black background stays static. The browser tabs and the layout of the screen remain consistent across the frames, indicating a screen recording of a digital presentation or video conference."
+}

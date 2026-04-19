@@ -1,0 +1,15 @@
+{
+  "video_id": "3c4e1609af8b67f14ff67e689ff7a60c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-396.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.404,
+    1.212,
+    2.021,
+    2.829
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played on a green grass field within a crowded stadium under bright lights. American football players in white and black uniforms compete, with players from both teams colliding and running across the field. A small video inset shows a man with blonde hair wearing a dark shirt and a headset, observing the action. The game HUD displays \"3rd & 11\", the score \"14\", and a clock at \"1:08\". As the sequence progresses, the camera angle shifts from a wide overhead view to a closer perspective on the field. In one scene, a white-uniformed player throws a pass, triggering on-screen text that reads \"PERFECT ACCURACY\" and \"BULLET PASS\". The final view focuses on a player in a white jersey running toward the sideline while other players in black uniforms pursue him. Red and green markers appear on the turf beneath the players' feet."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "268262436a492f3c844905592c5f0004",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.215,
+    0.645,
+    1.075,
+    1.505
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, dark trousers, and a grey backpack walks toward the open door of a white team bus. The bus is decorated with large graphic images and various sponsor logos, including \"Emirates FLY BETTER\", \"adidas\", \"codere\", and the Real Madrid club crest. A second man, wearing a grey shirt, dark trousers, and a black face mask, stands by the bus entrance, holding a door or railing. In the background, a building and palm trees are reflected in a dark glass wall. As the sequence progresses, the man with the backpack moves closer to the bus entrance, and the man in the mask remains stationary, watching him approach. The scene remains static in terms of setting and lighting, focusing entirely on the man's movement toward the vehicle."
+}

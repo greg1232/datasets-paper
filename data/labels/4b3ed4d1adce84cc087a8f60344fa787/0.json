@@ -1,0 +1,15 @@
+{
+  "video_id": "4b3ed4d1adce84cc087a8f60344fa787",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.237,
+    0.396,
+    0.554
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a centrally aligned logo for \"Kanal13AZ\" against a plain background. The logo consists of a dark red circle containing the stylized number \"13\" with the word \"kanal\" written vertically beside it. Below the circular emblem, the text \"Kanal13AZ\" is displayed, and further down is a small button containing the phrase \"bildirisleri a\u00e7\". As the sequence progresses, the background transitions from a light grey to a dark grey, and eventually to almost complete black. Simultaneously, the logo and accompanying text fade in brightness, becoming increasingly dim and desaturated. By the final stage, the entire screen is black, and all visual elements, including the logo and the button, have completely disappeared from view."
+}

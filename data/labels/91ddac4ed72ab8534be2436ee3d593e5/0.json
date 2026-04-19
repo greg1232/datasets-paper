@@ -1,0 +1,15 @@
+{
+  "video_id": "91ddac4ed72ab8534be2436ee3d593e5",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.522,
+    4.567,
+    7.612,
+    10.656
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The provided image consists of a single, very dark frame. The scene is almost entirely black, with very little visible detail. On the left side of the image, there is a faint, rectangular sliver of light, possibly reflecting off a metallic or smooth surface. The rest of the image is obscured by deep shadows, making it impossible to identify the setting, location, people, or any specific objects. There is no legible text, logos, or movement visible, as the image is a static, dark shot."
+}

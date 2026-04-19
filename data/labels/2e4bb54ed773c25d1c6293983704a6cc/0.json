@@ -1,0 +1,15 @@
+{
+  "video_id": "2e4bb54ed773c25d1c6293983704a6cc",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-104.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.267,
+    0.8,
+    1.333,
+    1.867
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large indoor venue with a blue carpeted floor and a crowd of people seated at tables in the background, several individuals engage in martial arts practices. Two pairs of practitioners are visible. On the left, a person in a black shirt and dark pants interacts with a person wearing white clothing. On the right, a person in a light-colored shirt and tan pants practices with another person dressed in a black shirt and blue pants. Throughout the sequence, the practitioners move dynamically; the pair on the left shifts positions, with the person in white moving from a standing stance to a lower position. Meanwhile, the pair on the right engages in striking and blocking motions, with the individual in blue pants stepping forward and pivoting. The architectural setting features warm lighting and recessed ceiling fixtures, while a banner with yellow characters is visible in the upper background."
+}

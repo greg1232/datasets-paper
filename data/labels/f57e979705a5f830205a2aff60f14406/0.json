@@ -1,0 +1,15 @@
+{
+  "video_id": "f57e979705a5f830205a2aff60f14406",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-197.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.245,
+    0.735,
+    1.225,
+    1.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a complex causal loop diagram set against a black background, viewed through a web browser. The diagram consists of various phrases connected by curved, colored arrows indicating relationships such as \"increases\" and \"decreases.\" Legible text nodes include \"Attractiveness of Garden,\" \"Bird Seed,\" \"Birds at the feeder,\" and \"Unsightly Goats.\" Several browser tabs are open at the top, with one titled \"Tutorial Learning by Systemthinking.\" A small video call window is visible in the upper right corner, showing a man wearing a dark baseball cap and a dark shirt. As the sequence progresses, a red cursor moves across the diagram, hovering over the \"Birds at the feeder\" node and tracing along the connecting arrows. The layout of the diagram and the man in the video window remain static, while the red cursor is the primary element of motion."
+}

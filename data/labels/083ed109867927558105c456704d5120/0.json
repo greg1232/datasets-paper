@@ -1,0 +1,15 @@
+{
+  "video_id": "083ed109867927558105c456704d5120",
+  "url": "./data/segments/3F2rz23IKUk-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    23.01,
+    69.03,
+    115.05,
+    161.07
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with brown hair and glasses stands in a neutral-colored room, possibly a lecture hall or conference space, delivering a presentation. He is wearing a black t-shirt with a yellow graphic and the text \"Kna b\" on the front, along with a blue lanyard and a white identification badge. In the background, a light-colored wall is visible with a screen partially showing a white projection. As he speaks, his gestures evolve; he begins with his hands held low in front of him, then raises them wide in an expansive gesture, and eventually brings his right hand toward his chest before extending his left hand outward. A black chair back is visible in the foreground of each scene. The man remains the central focus, shifting his posture and hand positions while maintaining his standing position in front of the screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7fc5b70b0fea91f07a4228d8f85a0121",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.563,
+    0.788
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green all-terrain vehicle (ATV) is parked indoors on a concrete floor within a garage or workshop setting. The vehicle features a prominent front black metal brush guard and a storage box integrated into the front bodywork. A single white headlight is positioned centrally on the front cowl. In the background, various pieces of mechanical equipment, including a red tool chest and another vehicle, are partially visible. No people are present in the scene. Throughout the sequence, the camera remains stationary, and there is no movement of the ATV or any other objects. The lighting and composition stay consistent, resulting in a static scene where the vehicle remains completely still. There is no legible on-screen text or branding visible on the ATV or the surrounding environment."
+}

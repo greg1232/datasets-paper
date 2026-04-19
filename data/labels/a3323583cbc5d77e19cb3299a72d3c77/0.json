@@ -1,0 +1,15 @@
+{
+  "video_id": "a3323583cbc5d77e19cb3299a72d3c77",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.463,
+    0.772,
+    1.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown working with crafting supplies over a catalog page. The background is a product page titled \"FEELS LIKE FROST SUITE\" which features various winter-themed craft items. In the foreground, the person holds a plastic sheet containing \"FROSTED FRAMES 5 DIES,\" which include intricate snowflake and frame shapes. The person wears a dark long-sleeved garment. In the first frame, the person is positioning their hand over the dies. In the second frame, they begin to grip the plastic sheet. By the third frame, they are lifting the sheet away from the catalog page. In the final frame, the person is moving the plastic sheet further to the left, partially obscuring the catalog page. Other visible text on the page includes \"Yutitude Cheers\" on a small card and various product descriptions in small print."
+}

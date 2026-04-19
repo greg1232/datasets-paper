@@ -1,0 +1,15 @@
+{
+  "video_id": "ec46dc3d1d9d0d11d5f9b480560b3db8",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-086.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark long-sleeved shirt and blue jeans rides a green all-terrain vehicle (ATV) outdoors. The scene begins with the man driving the ATV toward the open entrance of a dark garage or shed, passing by a grassy area and a light-colored building. In the subsequent frames, the ATV continues moving forward and enters the dark interior of the structure, eventually disappearing from view as the camera remains stationary inside the garage. A red bucket is visible near the garage entrance, and the interior reveals a concrete floor with a white chalk line and the dark silhouette of another large vehicle or piece of equipment parked on the right. The lighting shifts from bright outdoor daylight to the deep shadows of the indoor space as the vehicle transitions between the two environments."
+}

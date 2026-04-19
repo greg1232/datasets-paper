@@ -1,0 +1,15 @@
+{
+  "video_id": "88f675ece965cfedc588b4658767b744",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-132.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser window with multiple open tabs, including \"True Learning by Systemini,\" \"Elements by Systemini,\" and \"Rural Community Food System.\" The main view is a dark-themed digital interface featuring a network map with interconnected nodes. One node contains a small profile picture of a man, and nearby text reads \"True Learning by Systemini\" and \"Sarah Bedding.\" To the right, a rectangular video window shows a group of people sitting around a table in a room with colorful decorations and supplies. In the top right corner of the browser, a separate small video feed shows a man with gray hair wearing a black hat and a dark shirt. Across the sequence, the man in the black hat is speaking, his facial expression and mouth movements changing slightly as he talks, while the rest of the screen remains static."
+}

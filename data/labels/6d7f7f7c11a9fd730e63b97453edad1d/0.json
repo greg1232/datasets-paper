@@ -1,0 +1,15 @@
+{
+  "video_id": "6d7f7f7c11a9fd730e63b97453edad1d",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.819,
+    8.458,
+    14.097,
+    19.736
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man and a woman perform music together in an indoor setting with wooden slatted walls in the background. The woman wears a mint-green long-sleeved shirt and a colorful scarf tied around her neck. The man wears a white long-sleeved shirt under a black vest with red and white embroidery on the lapels. He holds a guitar and sings into a microphone on a stand. As the sequence progresses, the man moves the microphone closer to his mouth and then shifts it away while continuing to sing. The woman stands beside him, looking toward him and smiling. The heads of several audience members are visible in the foreground, partially obscuring the performers. In the lower right corner of the scene, the text \"ORCA\" is displayed in white capital letters."
+}

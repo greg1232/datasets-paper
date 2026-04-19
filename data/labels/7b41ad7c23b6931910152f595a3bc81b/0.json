@@ -1,0 +1,15 @@
+{
+  "video_id": "7b41ad7c23b6931910152f595a3bc81b",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-344.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.365,
+    16.095,
+    26.825,
+    37.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call features a grid of participants in various home and office settings. The group includes men and women of different ages, some wearing glasses and casual attire like t-shirts and button-down shirts. Some participants are speaking or listening attentively, while others shift their posture or gaze. Legible names beneath some video feeds include \"Jerry Nicholai,\" \"Heather O'Donohue,\" \"Julie Becky,\" \"leisangdelling,\" \"Setti Modeling,\" and \"Setti Bedam.\" A recurring blue and white logo with a stylized \"S\" appears in the backgrounds of some participants. Across the sequence, the layout of the call remains consistent, but individual participants exhibit subtle movements, such as nodding, blinking, or shifting their position in their chairs. The lighting varies between the feeds, with some individuals appearing in bright daylight and others in dimmer, indoor light."
+}

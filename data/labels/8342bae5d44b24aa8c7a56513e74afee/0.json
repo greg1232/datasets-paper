@@ -1,0 +1,15 @@
+{
+  "video_id": "8342bae5d44b24aa8c7a56513e74afee",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-119.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.529,
+    7.586,
+    12.643,
+    17.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, over-ear headphones, and a dark green t-shirt with the white text \"I ON NEVER DO SHIT\" is speaking into a professional microphone. He is in a room that appears to be a clothing shop or studio, with various framed photos on the wall behind him and clothing racks and a mannequin wearing a white shirt in the background. Two logos are visible on screen: a black circular logo on the left and a red \"BODLY\" logo on the right. Across the sequence, the man is captured in a mid-shot, speaking and shifting his facial expression slightly. He looks towards someone off-camera to his right, his mouth opening and closing as he talks, while his overall posture and position in the frame remain consistent."
+}

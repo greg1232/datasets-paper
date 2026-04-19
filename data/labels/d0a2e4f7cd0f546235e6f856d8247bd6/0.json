@@ -1,0 +1,15 @@
+{
+  "video_id": "d0a2e4f7cd0f546235e6f856d8247bd6",
+  "url": "./data/segments/3L_uHTClWfk-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.033,
+    24.1,
+    40.167,
+    56.233
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a screen recording of a webpage from the IRS website. The IRS logo is visible in the top left corner, and the navigation menu includes \"SEARCH | HELP | MENU\". The page contains detailed text regarding Required Minimum Distributions (RMDs). The content begins with information on when RMDs are due, stating, \"the first RMD is due by April 1 of the year the they reach age 72, or the participant is no longer employed (if allowed by the plan). A 5% owner of the employer must begin taking RMDs at age 72.\" Below this, a section explains that \"RMDs may not be rolled over to another IRA or retirement plan\" and mentions the \"RMD Comparison Chart.\" A bold header reads \"RMD Calculations and 50% tax on missed distributions,\" followed by guidance for IRS trustees and plan administrators. Across the frames, a mouse cursor moves across the text, highlighting different words and phrases."
+}

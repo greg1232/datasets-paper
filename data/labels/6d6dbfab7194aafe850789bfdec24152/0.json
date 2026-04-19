@@ -1,0 +1,15 @@
+{
+  "video_id": "6d6dbfab7194aafe850789bfdec24152",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-092.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Set against a dark, black background filled with scattered, glowing yellow particles and horizontal light streaks, a list of white text grows vertically. Initially, the list consists of \"XAU\", \"HUI\", \"GDX\", \"DOLLAR\", and \"BON\". As time progresses, the text is updated and expanded. The word \"BON\" becomes \"BONDS\", and new lines are added below it, including \"RAND\" and \"and\". Eventually, the list further evolves to include the full phrase \"and 25 different mining eq\", though the last word \"eq\" is only fully visible in the final sequence. The text remains centered in two identical vertical columns on the left and right sides of the screen, with the content mirroring exactly between the two columns throughout the progression. No people or physical locations are visible in the frames."
+}

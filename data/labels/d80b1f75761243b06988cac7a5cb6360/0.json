@@ -1,0 +1,15 @@
+{
+  "video_id": "d80b1f75761243b06988cac7a5cb6360",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.684,
+    2.052,
+    3.42,
+    4.788
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with long dark hair and glasses performs in front of a horizontally slatted wooden wall. He is dressed in a white long-sleeved shirt under a black vest adorned with blue floral embroidery and a red and white decorative garment underneath. He stands behind a microphone on a black stand. In the first frame, he is singing into the microphone. In the second frame, he shifts his position slightly and begins to play an acoustic guitar, which becomes partially visible. In the final two frames, he continues to sing and play the guitar, though the instrument is mostly obscured from view. The white text \"ORCA\" is visible on the right side of the scene. The man remains the sole focus throughout the sequence, with his expressions and posture shifting as he transitions between singing and playing."
+}

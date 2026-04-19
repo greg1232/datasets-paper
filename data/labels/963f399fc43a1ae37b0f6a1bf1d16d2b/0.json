@@ -1,0 +1,15 @@
+{
+  "video_id": "963f399fc43a1ae37b0f6a1bf1d16d2b",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical simulation setting, three women are gathered around a patient bed. One woman, wearing blue scrubs and a black face mask, uses a stethoscope to examine a person lying in bed, whose red hair is visible. She wears blue gloves and is accompanied by another woman in blue scrubs. To the right, a third woman stands wearing a dark grey polo shirt and a light blue face mask. The room contains medical equipment and two light-green chairs against a beige wall. Across all frames, the woman in blue scrubs maintains her position, continuing to hold the stethoscope against the patient. The woman in the grey polo remains standing, observing the procedure. The text \"Sim Week\" is visible in the bottom right corner of every frame. The scene remains relatively static, with only slight shifts in the women's postures as the examination progresses."
+}

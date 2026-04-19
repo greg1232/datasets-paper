@@ -1,0 +1,15 @@
+{
+  "video_id": "3fe008dbaefc540d237bb7aded0e1c4e",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-158.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.517,
+    1.552,
+    2.586,
+    3.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with gray hair and glasses is speaking into a black microphone. He is wearing a light-colored, patterned button-down shirt and a beaded necklace. The background consists of tan-colored horizontal blinds. The text \"ORCA\" appears in a white bubble on the right side of the screen. As the sequence progresses, the man's facial expressions shift slightly as he speaks, with his mouth moving and eyes blinking. He remains in a stationary position, facing the microphone, which is held by a black stand. The lighting is consistent across the scene, casting soft shadows on his face and the background blinds. There are no other people or significant objects visible in the shot."
+}

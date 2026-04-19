@@ -1,0 +1,15 @@
+{
+  "video_id": "33288e442b6e0e072b83446f1cb8c146",
+  "url": "./data/segments/3QD9oO6sRns-Scene-093.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.267,
+    3.8,
+    6.333,
+    8.867
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a clear plastic card protector, positioning a trading card inside it. The setting is a room filled with stacked boxes of collectibles. In the background, a smaller inset video window shows a man wearing a black t-shirt and a white baseball cap sitting at a desk. On-screen text within this inset window reads \"CASEBREAKS.COM\" and \"JASMIN'S BREAKS.\" A logo featuring a red and white design is also visible. As the sequence progresses, the hands carefully slide the card further into the protective sleeve. The background elements, including the stacks of boxes and the man in the inset video, remain stationary while the focus remains on the manual action of securing the card within the plastic holder."
+}

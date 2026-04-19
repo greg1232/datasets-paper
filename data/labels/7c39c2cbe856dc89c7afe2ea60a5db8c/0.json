@@ -1,0 +1,15 @@
+{
+  "video_id": "7c39c2cbe856dc89c7afe2ea60a5db8c",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.546,
+    1.639,
+    2.732,
+    3.825
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video recording of a legislative meeting takes place in a room with wooden paneling and a presentation screen displaying a graph. An on-screen graphic at the bottom of each frame features the logo \"ORCA\" and text that reads \"April 12, 2019 House Committee on General, Housing, and Military Affairs S.23 Increasing the Minimum Wage\". In the initial scenes, the camera focuses on a woman with dark hair and a man with a gray beard wearing a suit and tie. As the clip progresses, the man with the beard becomes the focal point, gesturing with his hands while speaking. Other attendees are present, including a man in a light-colored vest and a woman with glasses. A table in front of them holds water bottles and papers. The camera angle shifts from a wider shot of the room to a closer view of the speakers."
+}

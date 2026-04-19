@@ -1,0 +1,15 @@
+{
+  "video_id": "60a936d415bd6d2a2159561d1d8a6e9d",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-125.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.512,
+    1.537,
+    2.562,
+    3.587
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair wearing a dark shirt and headphones is visible in a small inset window in the lower-left corner of the screen. He gestures with his hands and speaks while sitting in front of a background featuring a decorated holiday tree. The main screen begins with a purple and black gradient and the text \"BACK\" next to a red icon. A large, stylized 3D logo featuring a lime green and white \"U1\" on a dark grey rectangular base then appears against a background of green and blue horizontal digital lines. This logo remains centered and stationary as the man continues to talk. In the final sequence, the logo is obscured by a bright, explosive flash of yellow and green light that fills the center of the screen, creating a burst effect that radiates outward."
+}

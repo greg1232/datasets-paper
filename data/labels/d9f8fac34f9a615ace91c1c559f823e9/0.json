@@ -1,0 +1,15 @@
+{
+  "video_id": "d9f8fac34f9a615ace91c1c559f823e9",
+  "url": "./data/segments/3hLeTO8SC3U-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.519,
+    7.558,
+    12.596,
+    17.634
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A bald man with a medium complexion, wearing a white collared shirt and a dark blazer, speaks while gesturing with his hands in a professional indoor setting. In the background, several people are blurred, including individuals in casual attire like a grey jacket and a green shirt. A lower-third graphic overlays the bottom of the scene, featuring a blue cube logo and the text \"SANJEEV MOHAN\" in bold, followed by \"Principal, SanjMo | @SanjMo\". To the left, it says \"theCUBE\" and \"From the Javits Center, New York, NY\", while the right side states \"Sponsored By\" above a \"MongoDB\" logo. As the sequence progresses, the man continues speaking, shifting his facial expressions and moving his hands from an open-palm gesture toward a more closed position. The background remains consistent, though the blurred figures move slightly, and the on-screen text remains static."
+}

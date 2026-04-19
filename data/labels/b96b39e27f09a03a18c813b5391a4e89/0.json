@@ -1,0 +1,15 @@
+{
+  "video_id": "b96b39e27f09a03a18c813b5391a4e89",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.084,
+    3.253,
+    5.422,
+    7.591
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a dark scene, where only a few lights from a building and a parked white car are visible in the distance. A step ladder stands near the building. The scene then shifts to a close-up, top-down view of the ground, illuminated by a bright circular light source. The ground consists of light-colored soil and sparse green vegetation. There are no people visible in any of the frames, and no text or logos appear on the screen. The sequence transitions from a wide, dark outdoor shot of a residential or industrial area at night to a focused, brightly lit view of the earth's surface."
+}

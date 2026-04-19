@@ -1,0 +1,15 @@
+{
+  "video_id": "cc28fe478c400eb6aaac3a75faa3e038",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.563,
+    1.689,
+    2.815,
+    3.941
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An aerial view shows a vast open-pit mine with stepped earthen walls surrounding a deep, turquoise-colored pool of water. A small gold and white \"VG\" logo is positioned in the upper right corner throughout the sequence. As the video progresses, yellow and white text overlays appear centered on the screen. Initially, the text begins to emerge, eventually fully displaying \"MT TODD GOLD PROJECT\" in bold yellow capital letters, followed by the phrase \"in the Northern Territory of Australia.\" in white. The camera remains stationary, keeping the expansive mining site in focus while the informational text remains static once fully rendered over the landscape. No people or equipment are visible in the scene."
+}

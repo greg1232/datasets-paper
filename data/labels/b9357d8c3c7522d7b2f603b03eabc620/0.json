@@ -1,0 +1,15 @@
+{
+  "video_id": "b9357d8c3c7522d7b2f603b03eabc620",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-621.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.219,
+    0.657,
+    1.095,
+    1.533
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a dark green t-shirt that reads \"I CON NEVER DO SHIT\" is seated in front of a professional microphone in a room that appears to be a clothing boutique or studio. The background features a white mannequin wearing a white shirt, various garments on clothing racks, and numerous framed photos on the wall. Two logos are visible on the screen: a circular black and white logo on the left and a red and white logo on the right that says \"BODILY\". As the sequence progresses, the man's expression shifts from a neutral look to a slight smile and then to a wider, joyful laugh with his eyes partially closed. He remains in a static position, facing slightly to the left of the camera, while his facial expressions animate throughout the clip."
+}

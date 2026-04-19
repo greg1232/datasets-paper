@@ -1,0 +1,15 @@
+{
+  "video_id": "eaf92eb58846abf55696cf4b7e39fcc9",
+  "url": "./data/segments/3Kxl1O310k8-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    9.705,
+    29.115,
+    48.525,
+    67.935
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide is displayed, featuring a white background with a gold-colored banner across the bottom. The slide contains a series of text blocks and an image of a formal letter from the Commonwealth of Massachusetts Department of Housing & Community Development. Large black text at the top asks, \"What does \u201cpreserve\u201d mean\" followed by a definition in quotes: \"Protection of personal or real property from injury, harm or destruction.\" Below this, the text \"That\u2019s not rehab!\" is written. Further down, another quoted section states, \"...for the rehabilitation or restoration of open space and community housing that is acquired or created as provided by this section...\" followed by \"Section 5, CPA.\" The gold banner at the bottom contains the text \"MHP\" and \"Preservation.\" The image remains static across the sequence, showing no changes in the text, logos, or layout."
+}

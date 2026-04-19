@@ -1,0 +1,15 @@
+{
+  "video_id": "b60ed17339a718bbc32f0a11441ff923",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.871,
+    2.612,
+    4.353,
+    6.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit side-by-side in a room, reacting to a video displayed on a screen embedded in the center of the image. The man on the left wears a dark green t-shirt, while the man on the right wears a grey t-shirt and a necklace. Behind them is a television with the text \"OUR STUPID REACTIONS\" across the top, a soundbar, and a shelf filled with CDs. The embedded video shows scenes from a drama. In the first sequence, a figure in a dark cloak is seen from behind in a stone corridor, followed by a shot of a woman with long dark hair looking out over a city. The subtitles read \"I want... Kharzacada.\" As the sequence progresses, the scene shifts to a dim room with several people standing, before focusing on a close-up of a woman's face. The final subtitle changes to \"I accept his condition.\""
+}

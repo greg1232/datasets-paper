@@ -1,0 +1,15 @@
+{
+  "video_id": "68b6c9bf5ca125947fec97e99d7ca392",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-855.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap and over-ear headphones sits before a professional microphone in a room filled with framed pictures and clothing racks. He is dressed in a dark green t-shirt featuring the white text \"ION NEVER DO SHIT AT WORK\". The room's background includes a white mannequin wearing a white t-shirt and various pieces of clothing on hangers. In the lower corners of the scene, two logos are visible: a circular black and white logo on the left and a red and white logo on the right that includes the text \"ROX\". Throughout the sequence, the man remains seated in the same position, slightly bowing his head as he speaks into the microphone. The scene remains static with minimal movement, capturing a close-up shot of the man from the chest up as he interacts with the recording equipment."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a3ffea0562d098e14afa27eb914a5553",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.13,
+    0.39,
+    0.65,
+    0.91
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A soccer training session takes place on a green field within a large stadium featuring red seating. The stadium walls display various advertisements and logos, including \"IDEAL,\" \"PULEVA,\" \"COVIRAN,\" and \"CERVEZAS ALHAMBRA,\" while a \"WELCOME\" sign is visible in the background. Several players are present, some wearing blue jerseys and green shorts, others in black training gear. In the initial sequence, a player in blue dribbles a soccer ball across the grass toward the right, pursued by a player in black. Other players stand or move in the background near white markers. As the sequence progresses, the player in blue continues their run with the ball, while the player in black trails closely behind. By the end of the clip, the player in blue has moved further right, and other players shift their positions on the pitch, with multiple soccer balls scattered across the field."
+}

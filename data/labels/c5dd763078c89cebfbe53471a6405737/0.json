@@ -1,0 +1,15 @@
+{
+  "video_id": "c5dd763078c89cebfbe53471a6405737",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-152.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.73,
+    2.19,
+    3.649,
+    5.109
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, dark hair and a beard is seated in a recording studio, wearing a black hooded sweatshirt and large black over-ear headphones. He is positioned behind a professional silver condenser microphone mounted on a black boom arm. The background consists of dark grey, sound-absorbing acoustic foam panels with a ribbed texture. Throughout the sequence, the man remains in a fixed position, facing slightly toward the right. He looks upward and to the side with a pensive expression, shifting his gaze slightly between the frames. His facial expression remains relatively neutral, though his eyes move as he looks around the room. No on-screen text or logos are visible. The only changes across the frames are the subtle movements of his eyes and slight shifts in his head position as he observes something off-camera."
+}

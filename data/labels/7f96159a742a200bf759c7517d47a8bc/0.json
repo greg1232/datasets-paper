@@ -1,0 +1,15 @@
+{
+  "video_id": "7f96159a742a200bf759c7517d47a8bc",
+  "url": "./data/segments/3P1vSUbet40-Scene-0534.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with her hair in a high bun and wearing a black t-shirt is seated in a studio setting, wearing over-the-ear headphones. She is smiling and looking toward her right, with her left hand resting on the back of her neck. In front of her is a professional microphone on a boom arm. Behind her, a television screen displays the name \"Johnson\" in red text, along with smaller text that reads \"Employee Only.\" To her right, a black wall features the logo \"BOSS TALK 101\" in red and white, accompanied by the phrase \"by 11 Logo Studio.\" To her left, another logo says \"STUDIO PODCAST.\" Across the sequence of frames, the woman remains in the same position and maintains her expression and posture, with very minimal movement as she continues to smile and gaze off-camera."
+}

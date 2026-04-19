@@ -1,0 +1,15 @@
+{
+  "video_id": "055862acec601651e2a2dea346752736",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-179.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.265,
+    0.795,
+    1.325,
+    1.855
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a blue shirt and a dark baseball cap appears in a small video window at the top of a screen sharing session. The main area of the screen is black with green text that reads, \"Moments To provoke thoughts! To feel something!\". The interface surrounding the video content includes a browser address bar and several open tabs, one of which is titled \"True & Learning by Systemath\". In the upper right, a small profile icon and the name \"Savett Bedding\" are visible. The man remains in his video feed throughout the sequence, looking toward the camera. The screen content remains static across the frames, with the green text consistently displayed against the black background, indicating a presentation or a slide being shared during a virtual meeting."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "8b4cd6ecb06e482edcfe250fb40683fb",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.908,
+    8.725,
+    14.542,
+    20.358
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital presentation screen displays a blue, cosmic-themed background featuring a stylized image of Earth and a glowing network of interconnected lines and dots. Across the center of the screen, the text \"Demo: Fluent Bit + Loki\" is written in white. A small, rectangular inset video in the top right corner shows a man with short dark hair and glasses wearing a light-colored shirt, positioned in a room with visible shelving. Throughout the sequence, the primary background and central text remain static. In the final frames, a small white \"x\" symbol briefly appears on the horizontal blue line at the top of the screen, and the man in the inset video shifts his posture slightly while looking toward the camera."
+}

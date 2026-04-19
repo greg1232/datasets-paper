@@ -1,0 +1,15 @@
+{
+  "video_id": "68cc2302c9c816e5c2c68f2b33c8e7d9",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-167.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.098,
+    0.294,
+    0.49,
+    0.685
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light brown hair, wearing a dark grey t-shirt, appears in a picture-in-picture window in the bottom left of a gaming interface. He sits in a room with a decorated Christmas tree visible behind him to the left. The main screen displays a menu titled \"AUCTIONS & TRADES\" from a game, featuring options for \"AUCTION HOUSE\" and \"TRADE BLOCK,\" with a gavel icon and two arrows pointing right. Other visible menu options include \"MY AUCTIONS,\" \"MY BIDS,\" \"MY TRADE BLOCK,\" and \"MY TRADE OFFERS.\" At the top right, numerical values and levels are shown, including \"LV 19\" and \"S1.\" As the sequence progresses, the man's facial expression changes from a slight smile to a look of shock or surprise, with his mouth opening wide. The background gaming menu remains static throughout the frames."
+}

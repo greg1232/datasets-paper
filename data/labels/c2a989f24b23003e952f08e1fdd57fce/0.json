@@ -1,0 +1,15 @@
+{
+  "video_id": "c2a989f24b23003e952f08e1fdd57fce",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-181.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.059,
+    3.178,
+    5.297,
+    7.416
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a static graphic layout featuring a portrait of a man with glasses and short dark hair. Beside his image, text identifies the program as \"Tiger Technicians Hour with host: Basil Chapman.\" Below his name, he is credited as the \"Author of: CD book 'The Chapman Wave' and the Opening Call newsletter.\" At the bottom of the frame, a blue banner displays \"Basil Chapman\" in large white letters, with a smaller line below stating \"The Tiger Technicians Hour | June 8th, 2022.\" A logo for \"I.COM INVESTORS\" is visible in the bottom right corner. The man remains expressionless and stationary throughout the clip, and there are no changes in the text, clothing, or background elements across the frames. The scene is a consistent digital overlay used for a broadcast introduction or information slide."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c7fa5df93acd6ff48a87d3311e2c8fd9",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.759
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a white lab coat, a colorful patterned scrub cap, and a blue surgical mask stands in an indoor setting. They are gesturing with their right hand while facing a person whose back is to the camera. To the left, a checklist of medical tasks is displayed on the screen. The list includes items such as \"Intubation and difficult airway management,\" \"Lap chole,\" \"Abdominal wall closure,\" \"GI bleed in ICU,\" \"Family updates,\" \"Admission of transfer patient,\" \"Ex lap for liver injury,\" and \"Ventilator management.\" In the bottom right corner, a logo with a symbol and the text \"Sim Week\" is visible. As the sequence progresses, the items on the checklist are removed one by one from the top down, starting with \"Intubation and difficult airway management,\" until only the bottom few items remain. The person in the lab coat continues to gesture and speak throughout the scene."
+}

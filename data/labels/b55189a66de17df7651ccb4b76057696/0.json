@@ -1,0 +1,15 @@
+{
+  "video_id": "b55189a66de17df7651ccb4b76057696",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-182.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.327,
+    0.981,
+    1.635,
+    2.29
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair, wearing round glasses and silver over-ear headphones, speaks into a black professional microphone. He is wearing a dark blue textured short-sleeved shirt. He is positioned in a room with a light-colored wood-paneled wall and a decorated Christmas tree with blue, green, and red lights to his left. Behind him is a screen showing a blue logo and the partial text \"20\". As the sequence progresses, the man continues speaking, shifting his facial expressions and moving his head slightly. He occasionally gestures with his right hand, which becomes visible as he lifts it during the latter part of the clip. The background remains static, while the man's mouth movements and hand gestures indicate active conversation throughout the scene."
+}

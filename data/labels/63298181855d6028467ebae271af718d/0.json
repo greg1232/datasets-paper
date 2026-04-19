@@ -1,0 +1,15 @@
+{
+  "video_id": "63298181855d6028467ebae271af718d",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-308.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.087,
+    0.262,
+    0.438,
+    0.612
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair wearing a navy blue t-shirt and white over-ear headphones is reacting in front of a camera. He is indoors in a room with a decorated Christmas tree to his left and a framed picture behind him containing the text \"20 SAN\". His expression shifts from a wide-mouthed look of surprise to a shouting expression. Superimposed over the scene is footage of an American football game played on a green field. The football players wear dark uniforms with white numbering, including numbers 65 and 63. Large red and yellow lettering is visible on the field. In the football footage, players move across the field, with one player in a white jersey running towards the right side of the frame. As the sequence progresses, the man's mouth opens wider and his eyes widen in response to the game action occurring in the overlay."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5972592545121d478c8f5ab2a97b617d",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-481.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.704,
+    2.111,
+    3.519,
+    4.927
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the text \"ION NEVER DO SHIT AT WORK\" speaks into a professional black microphone in an indoor studio setting. The background features several framed pictures on the wall and a white mannequin wearing a white garment. To the man's side, clothing racks are visible. In the bottom corners of the scene, there are logos; one on the left appears as a circular emblem with \"BONE\" and another on the right in red text that reads \"BONE\". As the sequence progresses, the man shifts his gaze and expression, transitioning from a neutral look to a smile while speaking. His mouth opens and closes as he talks, and his head tilts slightly, reflecting a natural conversational flow within the studio environment."
+}

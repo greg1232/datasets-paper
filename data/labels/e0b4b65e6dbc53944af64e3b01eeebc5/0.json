@@ -1,0 +1,15 @@
+{
+  "video_id": "e0b4b65e6dbc53944af64e3b01eeebc5",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.485,
+    1.455,
+    2.425,
+    3.395
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news anchor stands in a studio, wearing a dark suit, a white dress shirt, a maroon tie, and glasses. He is positioned in front of a blue digital background that features a stylized map of Africa and a circular graphic. A prominent white and blue banner reads \"PLUS POLITICS\" with a city skyline silhouette beneath the text. To the left, a red pillar displays a logo and the word \"plustv\". At the bottom of the screen, a white bar contains the text \"WATCH ONLINE\" and the website \"WWW.PLUSTVAFRICA.COM/LIVE-TV\". Across the sequence, the anchor remains in a central position, speaking directly to the camera. His facial expression shifts slightly as he talks, and he blinks and moves his mouth, while the background elements and on-screen text remain static."
+}

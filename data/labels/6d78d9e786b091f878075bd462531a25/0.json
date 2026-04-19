@@ -1,0 +1,15 @@
+{
+  "video_id": "6d78d9e786b091f878075bd462531a25",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.59,
+    7.77,
+    12.95,
+    18.13
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide for a course on \"CRYOGENIC ENGINEERING\" is shown, specifically for \"Tutorial \u2013 1\". The slide features a mathematical formula for $y$, a table of thermodynamic properties including pressure \"p (bar)\", temperature \"T (K)\", enthalpy \"h (j/g)\", and entropy \"s (j/gK)\" for states 1, 2, f, and g. A specific constant, $\\varepsilon_2 = 0.95$, is noted. Below the table, a calculation for $y_2$ is displayed, substituting values from the table into the formula to yield the result \"25.466 / 423.1\". The bottom of the slide credits \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" and includes the \"NPTEL\" logo. As the sequence progresses, a final result of \"= 0.060\" is written in red text next to the calculation. This red text appears first on the right side of the equation and then moves to the left side in subsequent frames."
+}

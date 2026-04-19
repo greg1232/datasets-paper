@@ -1,0 +1,15 @@
+{
+  "video_id": "699fc5ea5fd51a88b4e70afb28c7585c",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-533.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.782,
+    1.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt featuring the white text \"ION NEVER DO SHIT\" sits in a room that appears to be a clothing store or studio. He is positioned behind a professional black microphone on a boom arm. Behind him, the wall is decorated with numerous framed photographs, and a white male mannequin wearing a white t-shirt stands to his right, near a rack of hanging clothes. Small logos appear in the bottom corners of the scene, including one that reads \"TOT\". Across the sequence, the man's facial expression shifts from a neutral, slightly pensive look with closed lips to an open-mouthed expression as he speaks, tilting his head slightly. The background remains static while the man remains centered in the frame, interacting with an unseen person off-camera."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "31442d1dd536fe4fea6482a8113713ab",
+  "url": "./data/segments/3P1vSUbet40-Scene-0999.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.078,
+    0.235,
+    0.391,
+    0.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white collared shirt, a bow tie, glasses, over-ear headphones, and a tall, spiky grey wig sits in a room decorated with numerous framed photos on the wall. He is positioned in front of a professional microphone. To his left, a logo and text read \"BOSS TALK 101 PODCAST,\" while similar text, \"BOSS TALK 101,\" appears to his right. In the background, a shelving unit holds various items, including a yellow object with the text \"LEE\" visible. Across the sequence of frames, the man remains in a stationary seated position, primarily facing toward the left side of the frame. His facial expression remains relatively constant, and his mouth is slightly open as if speaking, with very minimal movement in his posture and head position between the frames."
+}

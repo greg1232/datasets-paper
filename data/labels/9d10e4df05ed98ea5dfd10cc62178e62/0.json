@@ -1,0 +1,15 @@
+{
+  "video_id": "9d10e4df05ed98ea5dfd10cc62178e62",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.319,
+    0.956,
+    1.594,
+    2.231
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold and manipulate a basketball trading card against a backdrop featuring a red and orange logo with the text \"JASPYS\" and the website \"CASEBREAKS.COM\". The card, titled \"PITCH BLACK\" and \"OBSIDIAN,\" features an image of a basketball player in a dark jersey. In the initial frames, the hands hold the card flat, showcasing its reflective, textured surface. As the sequence progresses, the person tilts and rotates the card to catch the light, revealing a holographic effect. On the reverse side of the card, white text is visible against a dark background, including a description of a player's performance and the \"PANINI\" logo. Small inset windows throughout the scene show a man wearing a black hoodie sitting at a desk with equipment and more trading card packs."
+}

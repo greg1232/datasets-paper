@@ -1,0 +1,15 @@
+{
+  "video_id": "0b412c7d4b3f8048eb2de2410c5ef807",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-383.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.387,
+    0.646,
+    0.904
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair and a navy shirt is shown in a small picture-in-picture window in the lower-left corner of a football game broadcast. He is sitting in front of a decorated Christmas tree. On the main screen, several football players are on a green grass field. Some players wear white jerseys with black numbers, while others wear all-black uniforms. A player in a white jersey with the number 58 is standing on the right side of the field. On-screen graphics at the top show \"1st & 10\", a score of \"14\" and \"7\", \"3rd\", \"2:30\", and \":30\". Text below the score reads \"HOLD THE LINE ENABLED! AWAY TEAM HAS IMPROVED DRIVE\". As the sequence progresses, the players shift positions; a player in a white jersey and a player in black move toward each other in the center, and the man in the small window changes his facial expression."
+}

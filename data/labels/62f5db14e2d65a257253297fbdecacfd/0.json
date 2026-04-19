@@ -1,0 +1,15 @@
+{
+  "video_id": "62f5db14e2d65a257253297fbdecacfd",
+  "url": "./data/segments/3Kxl1O310k8-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.2,
+    15.6,
+    26.0,
+    36.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a presentation slide with a white background. At the top, the heading \"Identify housing needs\" is written in black text. Below this, a photograph shows two industrial vacuum cleaners; one is red and the other is blue with a \"Vacmaster\" logo. A large, yellow \"no\" symbol (a circle with a diagonal line) is superimposed over the red vacuum cleaner. To the right of the image, black text reads, \"Kick off your work with current data showing the local housing landscape. Make sure data is not collected in a vacuum.\" In the upper right corner, a small inset video shows a person wearing a dark blazer. The slide is bordered by a yellow bar at the bottom containing the letters \"MHP\". Across all frames, the visual elements remain static, with no movement or changes in the text or imagery."
+}

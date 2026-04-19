@@ -1,0 +1,15 @@
+{
+  "video_id": "01eaba3fac3d934d721df9d386f60114",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.696,
+    2.088,
+    3.479,
+    4.871
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and a light-colored shirt is visible in a small inset video window in the bottom-left corner of a screen showing a financial trading interface. The interface features the \"TICKMILL\" logo in the top-left and bottom-left corners, alongside German text that reads \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN.\" The main display shows a Bitcoin price chart labeled \"BTCUSD (D1)\" with red and green candlestick patterns and a blue diagonal trend line. A green horizontal support zone is highlighted at the bottom of the chart. Across the sequence, the man remains in his inset window, speaking and gesturing with his face. The trading chart remains static, while a small cursor moves slightly across the screen and a few data points in the right-hand margin fluctuate, indicating a live market feed."
+}

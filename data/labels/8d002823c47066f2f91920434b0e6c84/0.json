@@ -1,0 +1,15 @@
+{
+  "video_id": "8d002823c47066f2f91920434b0e6c84",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.209,
+    0.626,
+    1.043,
+    1.46
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video is set in an indoor space with a light-colored wall featuring a shelf holding stacked fabrics and small bowls. The text \"Our Stupid Reactions\" is displayed on a screen in the background, surrounded by small geometric icons like diamonds, circles, and plus signs. In the initial scene, only the furniture and the screen are visible. As the sequence progresses, two men enter the frame from the bottom. One man wears a grey t-shirt, and the other wears a black t-shirt and has a beard. They move closer to each other, partially obscuring the screen and the shelf. A red button appears at the bottom of the screen, which initially displays \"S\" and later displays \"Sub\". The men stand side-by-side, with the man in the black shirt leaning slightly toward the man in the grey shirt."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6a710ab97eaf44c007e46ee773510154",
+  "url": "./data/segments/3JGRt3BFYrM-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.417,
+    1.25,
+    2.083,
+    2.917
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A short animation features a corporate logo on a plain white background. The logo consists of a stylized, italicized \"ST\" in a gradient of blue tones, with a metallic, three-dimensional appearance. In the beginning, the logo is partially transparent and blurred, quickly resolving into a sharp, solid image. As the animation progresses, lowercase text appears beneath the logo. The text \"life.augmented\" fades in, aligned with the bottom of the \"ST\" graphic. By the end of the sequence, the logo and the accompanying tagline \"life.augmented\" are fully visible and stationary against the white backdrop."
+}

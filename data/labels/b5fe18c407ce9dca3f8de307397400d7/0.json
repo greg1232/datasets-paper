@@ -1,0 +1,15 @@
+{
+  "video_id": "b5fe18c407ce9dca3f8de307397400d7",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-074.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.925,
+    5.775,
+    9.625,
+    13.475
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser displaying a complex visual mapping tool on a black background. The central map consists of circular icons containing images, connected by blue curved lines to a white rectangular table. The table contains columns labeled \"Purpose,\" \"Product,\" and \"Career,\" with text entries such as \"Systems Thinking,\" \"Just Sustenance,\" and \"Systems Thinking\" repeated across different cells. Various icons, including a small person and a globe, are linked to this table. In the top right corner, a small video inset shows a man with short dark hair and a blue shirt. At the top of the browser, multiple tabs are open, including \"True Learning by Systemantics,\" \"Future of Society by Systemantics,\" and \"Road Community Food Spot.\" The scene remains static across the frames, with the mapping interface and the man in the video feed staying consistent."
+}

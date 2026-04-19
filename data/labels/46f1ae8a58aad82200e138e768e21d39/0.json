@@ -1,0 +1,15 @@
+{
+  "video_id": "46f1ae8a58aad82200e138e768e21d39",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.485,
+    1.455,
+    2.424,
+    3.394
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with her hair styled in a top-knot and braids sits in a podcast studio, wearing a dark green t-shirt with a red graphic design and black over-ear headphones. She is positioned behind a black professional microphone on a stand. In the background, a black banner features white text that reads \"BOSS TALK 101,\" \"It's A Unique Hustle,\" \"CAST,\" and \"About It!\" A framed picture of a person's hands is also visible on the wall. Small logos for \"BOSS TALK 101\" appear in the bottom corners of the scene. Across the sequence, the woman is speaking and listening, her facial expressions shifting from a slight smile and an open mouth to a more serious, pensive look with furrowed brows. The camera angle remains static, focusing on her from the chest up as she interacts with someone off-screen."
+}

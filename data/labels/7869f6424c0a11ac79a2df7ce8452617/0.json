@@ -1,0 +1,15 @@
+{
+  "video_id": "7869f6424c0a11ac79a2df7ce8452617",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.813,
+    1.139
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A flashlight illuminates a patch of dark, rocky soil scattered with small green plants. The beam of light is concentrated in the center of the frame, creating a bright circular highlight that reveals the texture of the dirt and small pebbles. As the sequence progresses, the light shifts slightly across the ground, subtly changing which small plants are highlighted. Small, thin leaves of varying sizes are scattered throughout the illuminated area. The surrounding edges of the scene remain in deep shadow, creating a vignetted effect. No people, equipment, or text are visible in the frames. The overall scene is a static view of the earth at night, with only the movement of the light source providing change across the frames."
+}

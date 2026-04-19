@@ -1,0 +1,15 @@
+{
+  "video_id": "a961239d48731d221d65140a32680087",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.855,
+    2.565,
+    4.275,
+    5.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a static educational slide for a course on \"CRYOGENIC ENGINEERING,\" specifically for \"Tutorial \u2013 1.\" The slide features a mathematical formula for $y$ involving variables $h_1, h_2, h_f, h_g,$ and $\\varepsilon$, with a given value of $\\varepsilon_4 = 0.85$ displayed to the right of the equation. At the bottom of the screen, a banner identifies the presenter as \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" An NPTEL logo is visible in the bottom-left corner. Across the frames, the content of the slide remains completely unchanged. The only movement is a small white mouse cursor that drifts across the screen, appearing near the value of $\\varepsilon_4$ in the first two frames and then moving toward the center of the slide in the final frames."
+}

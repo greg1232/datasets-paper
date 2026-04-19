@@ -1,0 +1,15 @@
+{
+  "video_id": "d51ca0fdba62a0d20852e1897e55ed6c",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-298.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.344,
+    7.032,
+    11.72,
+    16.408
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short grey hair and a beard is seated in a recording studio, wearing a black zip-up jacket over a grey shirt and large black over-ear headphones. He is positioned behind a professional silver microphone attached to a black boom arm. The background consists of dark grey acoustic foam panels with vertical ribbing. Across the sequence, the man displays a series of facial expressions: he begins by squinting his eyes and tilting his head slightly, then shifts his gaze upward and to the side with wide eyes. He then closes his eyes momentarily before returning to a squinting expression. The setting and equipment remain static throughout the clip, with only the man's subtle facial movements and shifts in gaze providing action."
+}

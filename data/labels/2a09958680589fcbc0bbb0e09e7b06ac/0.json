@@ -1,0 +1,15 @@
+{
+  "video_id": "2a09958680589fcbc0bbb0e09e7b06ac",
+  "url": "./data/segments/3P1vSUbet40-Scene-0717.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.37,
+    1.11,
+    1.851,
+    2.591
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip features two men in a studio environment during a podcast recording. One man is dressed in a white shirt, red bow tie, and white suspenders, wearing a large grey wig and headphones while speaking into a microphone. The other man wears a black t-shirt, a black baseball cap, headphones, and a gold chain. In the background, framed photos and \"EMPIRE HUSTLE\" text with stars are visible on the wall. Both men are positioned in front of microphones with \"BOSS TALK 101\" and \"PODCAST\" logos appearing as on-screen overlays. As the sequence progresses, the focus shifts entirely to the man in the black shirt, who is seen gesturing with his hands while talking. He wears a silver watch and bracelet, and his expressions shift as he speaks, moving from open-handed gestures to a more closed posture by the end of the clip."
+}

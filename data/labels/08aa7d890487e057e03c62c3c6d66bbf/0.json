@@ -1,0 +1,15 @@
+{
+  "video_id": "08aa7d890487e057e03c62c3c6d66bbf",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.385,
+    1.155,
+    1.925,
+    2.695
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast displays a scene with several men seated together. A man in a white kurta and dark vest sits centrally, while another man in a white kurta and orange vest sits to his right, gesturing with his hands. A third man in a white garment is partially visible on the left. On-screen text in Hindi appears consistently. A red banner at the top reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". A ticker at the bottom states \"\u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e: \u0928\u0940\u0924\u0940\u0936 \u0915\u093e \u0935\u093e\u092a\u0938 \u0906\u0928\u093e \u0938\u0941\u0916\u0926 \u0938\u092e\u093e\u091a\u093e\u0930 \u0939\u0948\" and shows the time \"10:02 PM\". Sidebars identify the individuals, with labels like \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\" and \"\u092e\u0902\u0924\u094d\u0930\u0940\". As the scene progresses, the sidebar labels change, introducing names such as \"\u0935\u093f\u091c\u0947\u0902\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\" and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930\". In the final frame, the top banner updates to include \"2024 \u092e\u0947\u0902\". The overall setting appears to be a formal gathering or political meeting."
+}

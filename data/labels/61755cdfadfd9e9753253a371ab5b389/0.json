@@ -1,0 +1,15 @@
+{
+  "video_id": "61755cdfadfd9e9753253a371ab5b389",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.425,
+    1.275,
+    2.125,
+    2.975
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white, blue, and red coach bus is parked at a transportation hub beneath the Real Madrid club logo. The bus features the text \"Esteban Rios\" and \"Irizar\" on its rear. In the initial frames, the bus is stationary, and the area around it is quiet. As the scene progresses, a person wearing a dark shirt and light-colored pants appears and walks toward the open door at the rear of the bus. The setting includes a grey paved area and a modern building structure with glass panels and a metal awning. A green fence separates the bus from another structure nearby. The lighting is bright and clear, and the camera remains static, capturing the arrival of the individual at the vehicle's entrance."
+}

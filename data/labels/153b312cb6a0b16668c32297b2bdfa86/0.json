@@ -1,0 +1,15 @@
+{
+  "video_id": "153b312cb6a0b16668c32297b2bdfa86",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-115.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.445,
+    1.335,
+    2.225,
+    3.115
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast from plustv features a man with a grey traditional cap and white clothing, appearing in a small inset window on the left. He is seen in a thoughtful pose with his hand near his chin. To his right, a blue graphic panel displays the text \"ON THE PHONE,\" identifying the speaker as \"OLUSOLA OYEKANMI POLITICAL ANALYST\" located in \"LAGOS.\" A purple banner across the bottom reads \"PLUS POLITICS\" followed by the headline \"NIGERIA NEEDS ME \u2013 BOLA TINUBU.\" The screen transitions slightly across the sequence; the bottom ticker changes from a \"WATCH ONLINE\" prompt with the URL \"WWW . PLUSTVAFRICA.COM/LIVE-TV\" to a \"SUBSCRIBE\" prompt with the link \"WWW.YOUTUBE.COM/PLUSTVAFRICA.\" The plustv logo is consistently visible in the upper left corner. The man's posture and the on-screen graphics remain static throughout the clip."
+}

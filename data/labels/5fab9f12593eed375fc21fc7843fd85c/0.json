@@ -1,0 +1,15 @@
+{
+  "video_id": "5fab9f12593eed375fc21fc7843fd85c",
+  "url": "./data/segments/3_3xsVMtx3c-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.172,
+    0.516,
+    0.859,
+    1.203
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Inside a clothing store, a person wearing a grey baseball cap and a mauve long-sleeved shirt stands before a rack of dark jackets. The background features walls lined with merchandise, including t-shirts and \"ONEILL\" branded signage. Large white text overlays the scene, reading \"25% OFF HOODIES JACKETS & SWEATERS\". As the sequence progresses, the person interacts with the clothing, first reaching out towards the garments while shimmering light effects appear on screen. They then turn slightly, shifting their position to touch and adjust the black jackets hanging on the rack. Throughout the frames, the person remains centered in the shot, their movements focused on the apparel. The lighting is bright, typical of a retail environment, and the promotional text remains static across the view as the person moves."
+}

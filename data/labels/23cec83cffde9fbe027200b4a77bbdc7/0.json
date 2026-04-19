@@ -1,0 +1,15 @@
+{
+  "video_id": "23cec83cffde9fbe027200b4a77bbdc7",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A disassembled mechanical gear assembly, likely from a vehicle's transmission or engine, sits on a cluttered workbench. The assembly features several interconnected metal gears, including a large circular gear and smaller drive gears, housed within a light-colored metal casing. The workbench is strewn with various tools, including pliers, a screwdriver with an orange handle, and a blue socket set organizer. In the background, a bright orange plastic storage bin and a red toolbox are visible. No people are present in the scene. Across the frames, the camera remains stationary and the scene is static; there is no visible movement of the gears or tools, and no on-screen text or logos are present. The lighting is consistent, showing a workshop environment where a mechanical repair or inspection is taking place."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e823fe55e87a4b09bde91026a76f7af4",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.462,
+    0.771,
+    1.079
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is preparing food in a kitchen setting. In a large metal bowl, they are mixing a beige-colored grain mixture, likely cooked rice or a similar cereal, using a light-colored utensil. Next to the bowl are a small white plate and a red bowl, both containing portions of the same grain mixture. The person's hand is visible as they stir the contents of the large bowl, with the motion causing a blur in some of the frames. The top left corner of every frame features a logo with a stylized blue icon and the text \"UCAR CENTER FOR SCIENCE EDUCATION\". Throughout the sequence, the camera remains stationary, focusing on the bowls and the mixing action, while the grain is moved and shifted within the metal bowl as the utensil stirs through it."
+}

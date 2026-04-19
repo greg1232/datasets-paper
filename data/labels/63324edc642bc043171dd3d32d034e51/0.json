@@ -1,0 +1,15 @@
+{
+  "video_id": "63324edc642bc043171dd3d32d034e51",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-127.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.349,
+    1.047,
+    1.745,
+    2.443
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call interface features two participants. One woman, wearing a striped shirt and over-ear headphones, is positioned in a room with light-colored curtains and a neutral wall. The other participant is a man appearing in a small, circular inset window against a black background; he wears a dark patterned shirt and a black cap. The on-screen text \"Seyi Adebola\" appears beside the man's video feed, and the text \"Nancy\" is partially visible below the woman's feed. As the video progresses, the layout of the screen flips. The woman shifts from the top-left to the bottom-right position, while the man's small circular window moves from the top-right to the bottom-left position. Despite the change in screen arrangement, both individuals remain still, looking toward their respective cameras with neutral or slight smiling expressions."
+}

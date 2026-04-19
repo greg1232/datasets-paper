@@ -1,0 +1,15 @@
+{
+  "video_id": "7b4e2d60c73c25b885128135e4f642c5",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-300.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.6,
+    1.0,
+    1.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair, glasses, and a mustache is wearing a dark t-shirt and large over-ear headphones while speaking. He is positioned in a room with light-colored wooden paneled walls. To his left, a decorated Christmas tree with small lights is visible. Behind him, a framed piece of art hangs on the wall, featuring a prominent number \"20\". As the sequence progresses, the man's facial expression changes; he begins with a wide smile showing his teeth, then shifts to a more neutral speaking pose, and finally settles into a slight smile with his mouth partially open. He remains in a stationary position throughout the clip, with the camera angle staying constant. No other people are present, and no other text or logos are visible in the scene."
+}

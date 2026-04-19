@@ -1,0 +1,15 @@
+{
+  "video_id": "537f47df9a99e2cb577f13251048ee48",
+  "url": "./data/segments/3F2rz23IKUk-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and light brown hair stands in an indoor setting, likely a classroom or lecture hall, positioned in front of a light-colored wall. He is wearing a black t-shirt featuring a picture of a man and the text \"Knuth\". A blue lanyard hangs around his neck, featuring repeating white text that reads \"Gridbore\". He is looking downward, focusing on a small white object held in his hands. Across the sequence, he remains in a similar position, though his head tilts slightly further down and his facial expression shifts as he manipulates the object. His arms are bent at the elbows, and he holds the device with both hands near his waist. The background remains static, showing a plain wall and a vertical grey pillar to the left."
+}

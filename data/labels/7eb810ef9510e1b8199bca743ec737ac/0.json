@@ -1,0 +1,15 @@
+{
+  "video_id": "7eb810ef9510e1b8199bca743ec737ac",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.5,
+    2.5,
+    3.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair wearing a black t-shirt and white headphones is shown in a small picture-in-picture window in the bottom-left corner of a video game screen. He is speaking and gesturing with his hands, with a decorated Christmas tree visible behind him. The main screen displays a menu titled \"UNOPENED PACKS\" against a dark purple background. Along the top, several currency values and a level are listed, including \"173,037\", \"14,609\", \"2,343,543\", and \"LV 19 (90)\". Five stylized gift-box packs with glowing gems and figures are lined up horizontally. Below these, labels read \"ST PRESENT x4\", \"SMALL PRESENT x6\", \"LOVELY PRESENT x1\", and \"BLITZ PRESEN\". A \"BACK\" button is visible at the bottom. As the sequence progresses, the man continues talking and moving his hands while the game menu remains static."
+}

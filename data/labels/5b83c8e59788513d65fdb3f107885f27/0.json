@@ -1,0 +1,15 @@
+{
+  "video_id": "5b83c8e59788513d65fdb3f107885f27",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.156,
+    6.469,
+    10.782,
+    15.094
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a view of a textured gray ground surface where a person's dark shadow is cast. The perspective then shifts to the interior of a vehicle, revealing a red and black interior with red seats, a black dashboard, and a center console. The camera focuses on a red seat with black leather bolsters and red stitching. A person's finger points to a small tear or imperfection in the black leather edge of the seat. The final shot provides a closer view of the red fabric and the black leather side bolster of the seat, emphasizing the contrast between the materials and the red stitching along the seam. No text or logos are visible throughout the sequence."
+}

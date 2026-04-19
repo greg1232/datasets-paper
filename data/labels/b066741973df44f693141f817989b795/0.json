@@ -1,0 +1,15 @@
+{
+  "video_id": "b066741973df44f693141f817989b795",
+  "url": "./data/segments/3EOkyr653jg-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.709,
+    0.993
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark, long-sleeved garment with a light-colored cuff is seated at a surface with papers. Their dark-skinned hands are visible as they interact with several white documents containing columns of numbers and text. In the initial scene, the person's right hand rests on a page while holding a yellow pencil, which they use to point at specific entries. As the sequence progresses, the hand moves across the page, shifting the pencil's position to track information. On one of the documents, the text \"FIX VAT\" is legible. The person's left hand remains steady on the edge of the papers, holding them in place. By the final sequence, a small, rectangular blue and white object is placed on top of the lower document, partially obscuring the text as the right hand continues to navigate the paperwork with the yellow pencil."
+}

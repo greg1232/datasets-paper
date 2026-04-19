@@ -1,0 +1,15 @@
+{
+  "video_id": "38deb489ab0bee30aefc355b58ff3246",
+  "url": "./data/segments/3JYDT8lap5U-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.87,
+    2.61,
+    4.35,
+    6.09
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a dark blazer over a light-colored shirt and a lanyard around his neck, stands on a stage during a presentation. To his side is a large projection screen displaying a slide titled \"NOT TOO DIFFERENT, EH!\" which contains two blocks of Python code. At the bottom of the slide, the text \"europython\" appears next to a green snake logo, followed by \"Edinburgh 23 29 July 2018\". As the sequence progresses, the man gestures with his hands while speaking, shifting his body position slightly and changing his facial expression to engage with the audience. The background remains a dark, neutral tone, and the content of the projection screen stays constant throughout the frames. He remains the sole person visible, focused on delivering the presentation in a professional setting."
+}

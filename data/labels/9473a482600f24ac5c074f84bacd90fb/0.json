@@ -1,0 +1,15 @@
+{
+  "video_id": "9473a482600f24ac5c074f84bacd90fb",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser open to a learning platform with multiple tabs, including \"That & Learning by Systemics,\" \"Elements by Systemics,\" \"Insights -> Introduction Kumo,\" and \"Rural Community Food System.\" The main window displays a dark-themed conceptual map featuring various circular nodes connected by lines, with a white rectangular overlay containing blue bars and lines. A small video feed in the upper right corner shows a man wearing a black baseball cap and a dark shirt. In the top left, the browser address bar indicates \"blackboard.ucl.ac.uk/learning.\" A sidebar on the right lists \"Saved Beddings\" and \"Search.\" As the sequence progresses, the man in the video feed remains largely stationary, while the conceptual map on the screen stays consistent, showing a stable view of the digital workspace without any significant changes in the interface or the user's activity."
+}

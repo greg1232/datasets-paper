@@ -1,0 +1,15 @@
+{
+  "video_id": "01003f9cf60b25c2ca5b975a11e6d52d",
+  "url": "./data/segments/3tXiKB90OM0-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.342,
+    4.025,
+    6.708,
+    9.392
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, grey naval ship is positioned in a waterway, facing the viewer, as it prepares to dock or maneuver near a wooden pier. To the left of the ship, a smaller tugboat is positioned in the water, assisting with the operation. The setting is a bright, sunny day under a clear blue sky, with a flat coastline and sparse green vegetation visible in the background. The foreground features a concrete ledge bordering the water. As the sequence progresses, the large naval ship slowly moves forward toward the viewer, while the tugboat remains positioned to its side. There are no visible people, logos, or on-screen text in the frames. The scene remains steady, capturing the slow, deliberate movement of the vessels through the calm, blue-green water."
+}

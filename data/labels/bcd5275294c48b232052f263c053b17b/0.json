@@ -1,0 +1,15 @@
+{
+  "video_id": "bcd5275294c48b232052f263c053b17b",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-194.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.446,
+    1.339,
+    2.231,
+    3.124
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A laptop sits atop a blue fabric surface in a brightly lit room with white curtains and sunlight streaming in from the right. The screen displays a website with a header that reads \"LIVE @ TFNN.COM\" and \"TIGER TECHNICIANS NETWORK\". A dark blue banner stretches across the bottom of the scene, featuring the name \"Basil Chapman\" in large white font, with the subtext \"The Tiger Technicians Hour | June 8th, 2022\" below it. In the first two frames, the laptop screen shows a specific video page with a video player at the top and a list of other videos below. In the latter two frames, the view on the laptop screen shifts, showing a grid of various video thumbnails, indicating that the user has navigated to a different section or scrolled down the page. The physical setting and the on-screen banner remain static throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "89dccdceae80337e6b773e02c30aa348",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.394,
+    1.181,
+    1.969,
+    2.756
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a graded sports card featuring an image of Tom Glavine, with the text \"TOM GLAVINE\" and a signature visible on the card. The card is encased in a clear protective plastic slab. In the background, a man wearing a black t-shirt sits at a desk with computer equipment. The setting includes a white surface and a colorful banner with palm tree graphics. On-screen graphics display the logo \"JASPYS\" and the website \"CASEBREAKS.COM\". Throughout the sequence, the hand slightly shifts the position and angle of the card, tilting it to show different reflections on the plastic casing. The man in the background remains seated at his workstation, looking toward the camera. The background and overlay text remain constant while the primary focus remains on the movement of the graded card."
+}

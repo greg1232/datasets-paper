@@ -1,0 +1,15 @@
+{
+  "video_id": "85b73a734b73817d77769ed63b4ecd21",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-264.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.563,
+    1.689,
+    2.815,
+    3.941
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is recording in a studio with sound-absorbing foam panels on the wall. He wears black over-ear headphones and a white t-shirt, and a tattoo is visible on his right upper arm. He speaks into a silver professional microphone mounted on a boom arm, which has the text \"Shure SM7B\" visible on the stand. As the sequence progresses, the man gestures with his hands to emphasize his speech. Initially, his right hand is raised and open in front of him. He then moves his hand upward and away from his face, momentarily pulling it back before extending both hands outward in a wide, open gesture. His facial expressions shift from a focused look to an open-mouthed speaking posture as he continues his conversation."
+}

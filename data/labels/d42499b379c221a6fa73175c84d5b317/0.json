@@ -1,0 +1,15 @@
+{
+  "video_id": "d42499b379c221a6fa73175c84d5b317",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.66,
+    1.981,
+    3.302,
+    4.623
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen manipulating a stack of white and yellow rectangular boxes on a table featuring a beach-themed mat with palm trees. The person wears a dark-colored shirt. Across the frames, the person's right hand reaches out to touch and then lift the top yellow box from the stack. On-screen text includes a red \"JASPYS LIVE\" logo and the website \"CASEBREAKS.COM\". A small inset video window in the lower portion of each frame shows a man with a beard and glasses wearing a dark t-shirt, sitting in a gaming chair in front of computer equipment. This inset window also features the \"JASPYS\" logo and the text \"Sports Cards & More\". The background contains various blurred items, including what appears to be trading card supplies. The action progresses from the hand approaching the boxes to the hand grasping and beginning to lift the top yellow box."
+}

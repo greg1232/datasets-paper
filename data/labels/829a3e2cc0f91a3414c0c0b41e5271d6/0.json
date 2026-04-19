@@ -1,0 +1,15 @@
+{
+  "video_id": "829a3e2cc0f91a3414c0c0b41e5271d6",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-079.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.32,
+    3.96,
+    6.6,
+    9.24
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This video captures a technical presentation on \"CRYOGENIC ENGINEERING\" for \"Tutorial \u2013 4,\" as indicated by the headers. The screen displays mathematical calculations for \"Work/unit mass of gas liquefied\" and the \"Figure of Merit (FOM).\" Initial equations show $-\\frac{W}{m} = 486.2$ and $y = 0.0215$, leading to a calculated value of $22613.95\\text{ J/g}$. As the sequence progresses, the \"Figure of Merit (FOM)\" section is elaborated upon. The text $-\\frac{W}{m_f} = 22613.95$ and $-\\frac{W}{m_f} = 761$ appear, culminating in a final calculation where $\\text{FOM} = \\frac{W_c}{m_f} = \\frac{761}{22613.95} = 0.0336$. The bottom of the screen credits \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" and features an \"NPTEL\" logo in the bottom-left corner. A red circular cursor moves across the screen, highlighting the evolving calculations and the final result."
+}

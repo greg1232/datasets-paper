@@ -1,0 +1,15 @@
+{
+  "video_id": "bd308650e28559d9edb050a2d83909e5",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-132.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.16,
+    0.48,
+    0.8,
+    1.12
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast captures a man in a white short-sleeved shirt sitting inside a vehicle, facing left toward another individual. The interior of the car is visible, with headrests and a window frame. To the left and right of the main footage, vertical banners display portraits of men with accompanying text including \"\u0921\u093f\u092a\u0941\u091f\u0940 CM\" and names like \"\u0938\u0941\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940,\" \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e,\" and \"\u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930.\" A red and yellow \"BREAKING NEWS\" ticker runs across the bottom, accompanied by a clock reading \"10:07 PM\" and the \"MAHAHODH\" logo. As the scene progresses, the man in the white shirt becomes more animated, eventually raising his right arm and flexing his bicep. The top red banner changes from \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\" to text referencing \"2024 \u092e\u0947\u0902 JDU,\" while the final frames show the banner reading \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\"."
+}

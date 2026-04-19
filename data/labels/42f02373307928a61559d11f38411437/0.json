@@ -1,0 +1,15 @@
+{
+  "video_id": "42f02373307928a61559d11f38411437",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.495,
+    1.486,
+    2.476,
+    3.467
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark green baseball cap and a matching dark green t-shirt with the white text \"I NEVER DO SHIT\" across the chest speaks into a professional microphone. He is wearing black over-ear headphones and is seated in what appears to be a clothing store or studio, with several framed photographs on the wall behind him and a white mannequin wearing a white shirt in the background. Clothing racks and store fixtures are visible further back in the room. Two logos are present on screen: a circular black and white logo containing the word \"BODE\" on the left and red text that reads \"BODE REALLY TOT\" on the right. As the sequence progresses, the man's facial expressions change as he speaks, moving from a slight smile to a more focused expression, while his overall position and the environment remain stationary."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d5b6d5eba04050dd7c8f47ffc359689c",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-227.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a baseball cap and a black shirt is seen in a small video call window in the upper right corner of a computer screen. The main area of the screen displays a digital concept map on a black background, consisting of various circular icons connected by blue lines. These icons contain images and labels such as \"Sustainability,\" \"Biodiversity,\" \"Social Justice,\" and \"Ecological Health.\" Along the top of the browser window, several open tabs are visible, including ones titled \"True Learning by Systemeni,\" \"Elements by Systemeni,\" \"Future of Society by Systemeni,\" and \"Insights Introduction to Rumi.\" A sidebar on the right lists names, including \"Sarah Beddingfield.\" As the sequence progresses, the man in the video window remains present, though his facial expression shifts slightly as he looks toward the screen, while the digital map remains static throughout the frames."
+}

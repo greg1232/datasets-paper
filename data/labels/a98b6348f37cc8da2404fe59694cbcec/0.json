@@ -1,0 +1,15 @@
+{
+  "video_id": "a98b6348f37cc8da2404fe59694cbcec",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-462.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.312,
+    0.521,
+    0.729
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair and glasses, wearing a black t-shirt and white headphones, is positioned in a room with a Christmas tree and a screen displaying \"20\" in the background. He appears expressive, gesturing with his hands as he speaks. The scene transitions from a close-up of the man to a digital presentation featuring a large, stylized 3D icon of a black and neon-green bottle or container with the bold white text \"U1\" on it. This digital object is set against a blue and black background with glowing neon-green horizontal lines. In the subsequent scenes, the man remains visible in a smaller picture-in-picture window in the bottom-left corner, continuing to gesture excitedly while the large \"U1\" graphic remains the central focus of the screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6783bf5c39ff7010ef033d1d71fd5f75",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.813,
+    1.139
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a close-up, static shot of the mechanical underside of a piece of machinery, likely a vehicle or industrial equipment. A thick, brown metal pipe runs horizontally across the top of the frame. Below it, a complex assembly of metal parts is visible, including a drive chain, various bolts, gears, and a metallic housing. A white label is attached to one of the components with the legible text \"101510000105\". To the right, a rounded metal component features the embossed letters \"pcl\". The entire scene is covered in a layer of dirt and grease, suggesting an outdoor or industrial setting. There are no people present in the frames. Across the sequence, there is no visible movement or change in the position of the components, as the view remains fixed on the machinery."
+}

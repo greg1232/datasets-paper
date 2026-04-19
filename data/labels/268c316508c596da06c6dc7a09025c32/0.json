@@ -1,0 +1,15 @@
+{
+  "video_id": "268c316508c596da06c6dc7a09025c32",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-289.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.193,
+    0.579,
+    0.965,
+    1.35
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap and a black hoodie with gold lettering that reads \"BOSS TALK\" sits in a studio setting. He is positioned behind a dark table equipped with a professional microphone on a boom arm and a black mug with red and white text that reads \"THE TALK OUT LOUD PODCAST\". In the background, a white wall features a repeated logo containing five stars and the word \"HUSTLE\". A blue sign above the man states, \"Where BOSSES Talk!\". The man is smiling and speaking, his facial expressions shifting slightly as he engages in conversation. His posture remains consistent throughout the sequence, with his hands resting on the table. The scene remains static in terms of camera angle and environment, focusing on the man as he talks into the microphone."
+}

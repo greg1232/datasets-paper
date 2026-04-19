@@ -1,0 +1,15 @@
+{
+  "video_id": "09819f096b9fb56f5159223f6b76ac68",
+  "url": "./data/segments/3cfugv0xNbU-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.467,
+    1.401,
+    2.336,
+    3.27
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Captured through a green-tinted night vision lens, the scene depicts a military medical operation centered around an ambulance. In the initial frame, a person wearing a military uniform and a tactical vest stands by an open vehicle door. As the sequence progresses, the person moves out of view, shifting the focus to the front of the white ambulance. The vehicle's headlights are illuminated, casting bright glows of light. On the front of the ambulance, the word \"AMBULANCE\" is printed in large, capital letters. Below this, a license plate is visible containing the text \"US NAVY\" and the number \"04-81600\". The frames transition from a close-up of the personnel to a wider view of the vehicle's front end, emphasizing the medical transport equipment in a dark, nighttime environment."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "83d05017bd30f7c741e05e1d5cb496b6",
+  "url": "./data/segments/3r9Dh8YKpLU-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    35.289,
+    105.868,
+    176.447,
+    247.026
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair, wearing a pink top, appears in a small inset video window in the bottom right of a series of educational slides. The slides focus on the mathematical concept of factorials, featuring the heading \"What is Factorial ?\" or \"Factorial\" and the logo for \"Walchand Institute of Technology, Solapur\" at the bottom. The presentation begins by defining the factorial function as multiplying \"all whole numbers from our chosen number down to 1\" and provides examples such as \"1! = 1\" and \"6! = 6 \u00d7 5 \u00d7 4 \u00d7 3 \u00d7 2 \u00d7 1 = 720\". The scene transitions to show calculating values from previous ones, using a series of curved arrows to connect calculations like \"x2\", \"x3\", \"x4\", and \"x5\" resulting in values from 1 to 120. Subsequent frames use examples of arranging letters to explain the formula \"n!\" and a recursive flow chart that breaks down \"5!\" into smaller components until it reaches \"1\"."
+}

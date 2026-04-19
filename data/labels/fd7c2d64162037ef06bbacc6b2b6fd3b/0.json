@@ -1,0 +1,15 @@
+{
+  "video_id": "fd7c2d64162037ef06bbacc6b2b6fd3b",
+  "url": "./data/segments/3F2rz23IKUk-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    13.295,
+    39.885,
+    66.475,
+    93.065
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a black t-shirt stands at the front of a classroom, gesturing while addressing a group of students. The students are seated in rows of chairs, facing the presenter. One student in the foreground wears a grey t-shirt with a white penguin logo on the back, while another wears a bright yellow shirt. Other students are dressed in dark or neutral-toned clothing, such as black and grey shirts. The room features grey brick walls, a white projection screen, and several desks and chairs. Equipment including a small electronic device on a table is visible near the presenter. As the sequence progresses, the presenter remains at the front, shifting his stance slightly while continuing to speak to the audience. The students remain seated, listening attentively, with minimal movement observed throughout the scene."
+}

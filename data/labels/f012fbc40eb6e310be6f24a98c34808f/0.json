@@ -1,0 +1,15 @@
+{
+  "video_id": "f012fbc40eb6e310be6f24a98c34808f",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-330.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.301,
+    3.904,
+    6.506,
+    9.109
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is recorded in a studio setting against a dark, vertically ribbed acoustic foam wall. He wears black over-ear headphones and a white t-shirt featuring a dark, stylized logo that reads \"Stay Authentic\". A professional silver condenser microphone, mounted on a boom arm, is positioned closely in front of his face. Throughout the sequence, the man remains in the same position, looking slightly toward the microphone. His facial expressions shift subtly as he speaks, with his mouth opening and closing and his gaze shifting slightly. The camera remains static, focusing on his upper body and head, capturing the slight movements of his jaw and lips as he talks into the microphone."
+}

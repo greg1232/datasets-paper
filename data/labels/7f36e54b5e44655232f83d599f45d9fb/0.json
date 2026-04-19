@@ -1,0 +1,15 @@
+{
+  "video_id": "7f36e54b5e44655232f83d599f45d9fb",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.488,
+    1.464,
+    2.44,
+    3.416
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting with a brown slatted wall background, two people stand before a seated audience. A woman wears a light green long-sleeved shirt and a colorful patterned scarf, holding a piece of paper in her hands. Beside her, a man wears a white long-sleeved shirt under a black vest and glasses; he speaks into a microphone on a stand, gesturing with his hand toward his face. Several people are seated in the foreground, facing away from the camera, with their hair visible. A white logo with the text \"ORCA\" is positioned on the right side of the scene. Across the sequence, the woman remains mostly stationary while holding her paper, and the man continues to speak, shifting his hand position and facial expression slightly as he addresses the group."
+}

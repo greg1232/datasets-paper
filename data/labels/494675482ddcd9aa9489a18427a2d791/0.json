@@ -1,0 +1,15 @@
+{
+  "video_id": "494675482ddcd9aa9489a18427a2d791",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-301.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.327,
+    0.981,
+    1.635,
+    2.29
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A televised American football game takes place in a large stadium with a grass field. Players in white and black uniforms are spread across the field, with some engaging in a play near the center. The top of the screen displays a game clock and statistics, including \"3rd & 3\", \"1st\", and \"3:10 32\", along with team logos. A red line marks a specific yardage on the field, and numbers like \"20\" and \"30\" indicate yard markers. A picture-in-picture window appears in the bottom left of some frames, showing a blonde man wearing a black shirt. As the sequence progresses, the camera angle shifts from a wide overhead view to a lower, closer perspective of the players. The on-screen text changes slightly to \"3:09 32\", and a banner at the bottom reads \"OFFENSE AT WORK\" and \"UNOFFENDABLE\"."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f1ff748139b80f4086c908f39578e3f1",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-332.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.345,
+    10.035,
+    16.725,
+    23.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grid of video conference windows shows several participants in a virtual meeting. The participants are mostly men in casual attire, such as t-shirts and button-down shirts, located in various home office or indoor settings. Some wear glasses, and one woman is seen resting her chin on her hand. Legible on-screen names include \"Jerry Michalski,\" \"Brenda,\" \"Elia collaborator,\" \"Arangawong,\" \"Jin Barks,\" and \"Sajid Hesham.\" In some windows, participants are talking or gesturing, while others remain still. The scene remains largely static across the sequence, with only minor changes in the facial expressions and posture of the participants. The backgrounds vary from plain walls and bookshelves to living room settings. The lighting is consistent across the frames, and the layout of the video call remains unchanged throughout the clip."
+}

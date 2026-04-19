@@ -1,0 +1,15 @@
+{
+  "video_id": "72fcf100cf1af3057a049031f9ecec87",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-117.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.223,
+    0.669,
+    1.115,
+    1.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a clear plastic protective card sleeve over a colorful surface featuring green palm tree motifs. In the background, a small inset video window displays a man with a beard wearing a dark blue t-shirt, seated at a desk with equipment. The text \"JASPYS\" and \"CASEBREAKS.COM\" appears prominently as a logo and watermark on the screen. Across the sequence, the person's hand tilts and maneuvers the plastic sleeve, occasionally revealing a trading card inside. The man in the inset window remains in a similar seated position, observing the action. The scene transitions from a close-up view of the empty sleeve to a view where a card is partially visible through the plastic, while the overall setting of the desk and the \"JASPYS\" branding remain constant."
+}

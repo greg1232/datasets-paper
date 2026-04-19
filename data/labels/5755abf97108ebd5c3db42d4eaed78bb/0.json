@@ -1,0 +1,15 @@
+{
+  "video_id": "5755abf97108ebd5c3db42d4eaed78bb",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.27,
+    0.45,
+    0.63
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a group of men standing together, centered around an older man wearing a black Nehru jacket over a light-colored shirt. To his left is a man in a light brown jacket and a grey scarf, and to his right is a man wearing glasses. The scene takes place indoors, with other individuals partially visible in the background. A red and yellow news banner dominates the bottom of the screen with the white text \"BREAKING NEWS\", while a red bar at the top displays the Hindi text \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". On the sides of the screen, smaller profile images of men are displayed with accompanying labels such as \"\u0921\u093f\u091c\u0940 CM\", \"\u092e\u0902\u0924\u094d\u0930\u0940\", \"\u0938\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940\", \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\", \"\u0935\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\", and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930\". A timestamp in the lower right corner reads \"10:03 PM\". The visual remains nearly static across the frames, with only subtle shifts in the people's facial expressions."
+}

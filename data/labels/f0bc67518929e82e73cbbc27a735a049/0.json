@@ -1,0 +1,15 @@
+{
+  "video_id": "f0bc67518929e82e73cbbc27a735a049",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.933
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a text editor with a configuration file open, likely for a logging system. The editor is split vertically, showing the same file content on both the left and right sides. The text includes configuration parameters such as \"input-kubernetes.conf,\" \"tail,\" and \"Path /var/log/containers/apache\u30ed\u30b0,\" alongside log entries starting with \"printail_2\" and timestamps. Phrases like \"level=info,\" \"msg=Started partner,\" and \"HTTP_Listen 0.0.0.0:2020\" are visible throughout the code. As the video progresses, the user scrolls down through the configuration file, revealing additional sections like \"filter-kubernetes.conf\" and \"output-loki.conf.\" The right side of the screen mirrors the movements of the left side, showing the same lines of code being scrolled past. The interface includes a dark theme with syntax highlighting in various colors and a status bar at the bottom indicating \"0:less\" and a line counter."
+}

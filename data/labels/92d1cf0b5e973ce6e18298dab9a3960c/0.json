@@ -1,0 +1,15 @@
+{
+  "video_id": "92d1cf0b5e973ce6e18298dab9a3960c",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.171,
+    0.513,
+    0.854,
+    1.196
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large, brightly lit hall featuring recessed ceiling lighting and ornate chandeliers, several people are practicing martial arts on a blue mat. One person wears yellow attire and performs a sweeping leg motion, while others wear blue uniforms or casual grey clothing. Some participants hold long wooden staves, swinging them in coordinated movements. In the background, a seated audience watches the demonstration from behind a row of tables. As the sequence progresses, the individual in yellow completes their low sweep and returns to a standing position. Simultaneously, the participants in blue and grey shift their stances and move their staves, while the overall positioning of the group evolves across the blue floor. The background environment remains static throughout the action."
+}

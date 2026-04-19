@@ -1,0 +1,15 @@
+{
+  "video_id": "4fa9cd324e188d716019d3ec0739e1c8",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.897,
+    2.69,
+    4.484,
+    6.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white ambulance with red emergency lights on its roof travels along a paved road in a rural landscape. The road is flanked by dry, brown grass and tall, withered plants under a clear, pale blue sky. Utility poles line the side of the road, stretching into the distance. As the vehicle moves closer toward the viewer, the camera angle shifts from a wide shot to a close-up perspective, eventually focusing on the spinning wheel and lower chassis of the vehicle as it passes by. White text appears at the bottom of the screen; the first half reads \"Sometimes we must drive the ambulance really quickly\" and the second half reads \"and sometimes we face difficulties on the road\". No people are visible outside the vehicle."
+}

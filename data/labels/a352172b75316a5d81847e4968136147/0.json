@@ -1,0 +1,15 @@
+{
+  "video_id": "a352172b75316a5d81847e4968136147",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-074.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.712,
+    11.137,
+    18.562,
+    25.988
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A technical diagram illustrating a data pipeline between \"Edge\" and \"Cloud\" environments is displayed on a screen. On the left, the \"Edge\" section shows three rows, each consisting of \"HW / SW\" connected to an \"Event\" box. These events feed into a large blue vertical block labeled \"Log Events Collector (aggregator).\" This collector then passes data to the \"Cloud\" section, which contains a light gray container housing a \"Stream Processor\" and an \"Analysis\" block. The \"Stream Processor\" sends data to a database icon and also feeds into the \"Analysis\" block, which in turn sends data to another database icon. A small inset video in the upper right corner shows a person with glasses wearing a pink shirt. Across the sequence of frames, the diagram and the person in the inset remain static, with no visible changes in the layout, text, or actions."
+}

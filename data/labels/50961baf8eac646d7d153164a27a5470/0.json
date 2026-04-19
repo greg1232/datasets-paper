@@ -1,0 +1,15 @@
+{
+  "video_id": "50961baf8eac646d7d153164a27a5470",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-099.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.022,
+    3.066,
+    5.109,
+    7.153
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, a beard, and a headset wears a white collared shirt and a dark tie. He is positioned in front of several monitors displaying financial charts with red and green candlesticks. Across the sequence, the man remains stationary and looks directly toward the viewer. White and yellow text appears on the screen over the image. Initially, the text reads \"EDUCATING TRADERS\". In the next stage, the phrase expands to \"EDUCATING TRADERS FOR\" in white, followed by \"20+ YEARS\" appearing in a bright yellow font. The final frames maintain this complete text overlay, \"EDUCATING TRADERS FOR 20+ YEARS\", while the man continues his steady gaze. The background remains a blur of trading screens, creating a professional financial environment."
+}

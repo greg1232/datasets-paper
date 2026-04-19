@@ -1,0 +1,15 @@
+{
+  "video_id": "279880a63e0626e228767dd1cd9978c9",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-276.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.221,
+    0.663,
+    1.105,
+    1.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An elderly man with short gray hair and glasses is seen speaking at a podium against a backdrop of horizontally slatted wooden walls. He is wearing a light blue patterned shirt and a beaded necklace with a pendant. A black microphone on a stand is positioned in front of him, and a portion of a colorful object, possibly a book or folder, is visible at the bottom of the frame. The text \"ORCA\" appears in white capital letters on the right side of each scene. As the sequence progresses, the man maintains a smiling expression, slightly tilting his head and shifting his gaze. His facial muscles move subtly as he speaks, and he slightly adjusts his posture while remaining behind the microphone. The background and the \"ORCA\" text remain stationary throughout the clip."
+}

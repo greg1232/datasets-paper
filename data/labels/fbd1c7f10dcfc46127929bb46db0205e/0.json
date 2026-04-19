@@ -1,0 +1,15 @@
+{
+  "video_id": "fbd1c7f10dcfc46127929bb46db0205e",
+  "url": "./data/segments/3Z229_lKLpk-Scene-110.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.355,
+    1.065,
+    1.775,
+    2.485
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The image depicts a large, symmetrical assembly hall with rows of curved wooden desks and green carpeting. Numerous people are seated at these desks, many wearing white and light-colored traditional Indian clothing, such as kurtas. The scene is mirrored both horizontally and vertically, creating a kaleidoscopic effect where the seating arrangements radiate from a central point. The participants appear to be seated and listening or observing, with minimal movement visible. The architecture includes high ceilings and structural columns that frame the wide, open space of the chamber. No on-screen text, logos, or specific equipment are legible due to the mirroring effect. The scene remains static across the mirrored views, showing a large body of officials gathered in a formal, legislative-style environment."
+}

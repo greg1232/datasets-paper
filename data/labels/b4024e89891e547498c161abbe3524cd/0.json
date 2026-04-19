@@ -1,0 +1,15 @@
+{
+  "video_id": "b4024e89891e547498c161abbe3524cd",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-149.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.315,
+    0.945,
+    1.575,
+    2.205
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a web browser with multiple open tabs and a video conferencing interface. The main window shows a complex concept map with various circular icons connected by blue lines on a black background. Legible labels within the map include \"Knowledge,\" \"Learning,\" \"Instruction,\" \"Intuition,\" and \"Practice.\" A smaller video feed in the upper right corner shows a man wearing a dark blue baseball cap and a dark shirt. At the top of the browser, several tabs are visible, including titles such as \"True & Learning by Systemantics,\" \"Future of Society by Systemantics,\" and \"Rural Community Food System.\" The interface includes a URL bar showing \"blackboard.com\" and navigation buttons. Across the sequence, the screen remains mostly static, with the man in the video feed and the conceptual diagram remaining in place, while a mouse cursor moves slightly across the black background of the concept map."
+}

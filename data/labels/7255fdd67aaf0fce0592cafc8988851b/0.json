@@ -1,0 +1,15 @@
+{
+  "video_id": "7255fdd67aaf0fce0592cafc8988851b",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-162.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.729,
+    14.187,
+    23.646,
+    33.104
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands centrally within a circular frame, set against a stark black background. He is dressed in a dark, patterned button-down shirt with white detailing on the collar and cuffs. He maintains a steady, smiling expression while looking directly toward the camera. The background within the circle appears to be an indoor setting with a neutral-colored wall. The text \"Seyi Adebola\" is printed in a small, white sans-serif font in two locations: once on the far left side of the screen and once in the center. Across the sequence, the man remains largely stationary, though his facial expression and slight posture shift subtly, while the circular frame and the on-screen text remain fixed in place."
+}

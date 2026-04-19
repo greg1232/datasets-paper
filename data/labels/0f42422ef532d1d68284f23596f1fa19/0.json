@@ -1,0 +1,15 @@
+{
+  "video_id": "0f42422ef532d1d68284f23596f1fa19",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.1,
+    3.3,
+    5.5,
+    7.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This educational presentation on \"CRYOGENIC ENGINEERING\" focuses on \"Tutorial \u2013 2,\" specifically calculating the \"Work/unit mass of gas compressed.\" The slide features a thermodynamic graph plotting temperature (T) against entropy (s), showing processes of constant temperature (\"T=const\"), constant entropy (\"s=const\"), and constant pressure (\"p=const\"). A data table provides values for pressure (p), temperature (T), enthalpy (h), and entropy (s) for states 1, 2, and f. A mathematical formula for work, $W/m = T_1(s_1 - s_2) - (h_1 - h_2)$, is presented, followed by a calculated result: \"W/m = 300(4.4 - 2.75) - (462 - 430) = 463 J/g\". The bottom of the slide attributes the content to \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" and includes an \"NPTEL\" logo. Across the frames, a red circle moves along the final calculation line, highlighting different parts of the equation."
+}

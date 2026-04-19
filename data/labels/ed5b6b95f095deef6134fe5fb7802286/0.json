@@ -1,0 +1,15 @@
+{
+  "video_id": "ed5b6b95f095deef6134fe5fb7802286",
+  "url": "./data/segments/3E6ctN22V7k-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.33,
+    0.99,
+    1.65,
+    2.31
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A yellow equipment case on wheels is pushed across a floor. A man wearing a black hooded sweatshirt and grey pants works with another man dressed in a black coat and blue scarf to load the yellow case into the back of a white van. A third person, wearing a tan coat, is partially visible on the right side of the scene. As the men push the case deeper into the vehicle, the perspective shifts to show the interior of the van, which also contains cardboard boxes. One of these boxes features the \"amazon\" logo. A woman wearing a black coat and a brown scarf stands by the open rear doors of the van, looking toward the equipment being loaded. The man in the black coat and blue scarf remains by the back of the vehicle as the loading process continues."
+}

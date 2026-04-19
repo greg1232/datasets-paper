@@ -1,0 +1,15 @@
+{
+  "video_id": "b40210ccb7bbf8040bdec8eac3532e6a",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.538,
+    0.897,
+    1.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows a black plastic fuse box within a vehicle. Multiple colored automotive fuses are slotted into the board, with labels printed on the plastic surface beneath them. Legible labels include \"TAIL\", \"HTD MIR\", \"CRUISE\", \"L.C.D\", \"RADIO\", \"AIR BAG\", \"BRAKE\", and \"STOP\". Some fuses are blue, red, and yellow. A thin red wire extends from the right side of the fuse box toward the upper right corner. As the sequence progresses, a finger briefly appears at the bottom center of the frame, touching the black plastic casing, before disappearing. The camera remains stationary, providing a steady view of the electrical components and the surrounding black plastic housing throughout the clip."
+}

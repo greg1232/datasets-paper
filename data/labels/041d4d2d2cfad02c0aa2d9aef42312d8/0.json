@@ -1,0 +1,15 @@
+{
+  "video_id": "041d4d2d2cfad02c0aa2d9aef42312d8",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.122,
+    21.365,
+    35.608,
+    49.852
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit side-by-side in an indoor setting in front of a television screen displaying the neon text \"YOUR STUPID REACTIONS\". The man on the left wears a dark green t-shirt, while the man on the right wears a grey t-shirt and a necklace. Behind them is a wooden shelf filled with a collection of DVDs. On-screen text identifies the individuals as \"@RICKSEGALL\" and \"@KORBINMILES\", with a \"PATREON\" logo positioned between them. Throughout the sequence, the man on the left looks toward the man on the right with a concerned or questioning expression. The man on the right begins with his hand to his chin, looking thoughtful, before gradually shifting his gaze to look directly at the man on the left. By the end of the sequence, the man on the right is speaking while looking toward the man on the left, who maintains a skeptical facial expression."
+}

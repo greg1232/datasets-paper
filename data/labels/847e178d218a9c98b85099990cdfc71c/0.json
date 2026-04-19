@@ -1,0 +1,15 @@
+{
+  "video_id": "847e178d218a9c98b85099990cdfc71c",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-160.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser with multiple open tabs, including \"Truth & Learning by Systemyni\", \"Future of Society by Systemyni\", and \"Insights | Introduction to Kumu\". The main view displays a conceptual map with various circular nodes and connecting lines on a dark background. A small inset video feed in the upper right corner shows a man with a fair complexion and a baseball cap looking toward the camera. Several circular profile icons and a rectangular image of a person in white clothing are integrated into the conceptual map. Legible text within the map includes \"The Role of Blocking\". Between the frames, the man in the inset video remains relatively still, though his facial expression shifts slightly, and the overall layout of the web browser and conceptual map remains static."
+}

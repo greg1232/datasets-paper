@@ -1,0 +1,15 @@
+{
+  "video_id": "c860b038f493127158a5055be7e9bdc5",
+  "url": "./data/segments/3EOkyr653jg-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.86,
+    5.581,
+    9.301,
+    13.021
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A graphic for \"Lakeland NEWS\" is displayed against a blurred, abstract background of blue, green, and dark tones. The \"Lakeland\" portion of the logo is written in a stylized green font, while \"NEWS\" appears below it in a bold, blue, three-dimensional font. Centered beneath the logo is the text \"Visit lptv.org\" in white. As the sequence progresses, additional white text appears at the bottom of the screen, reading \"To make a tax-deductible contribution\". In the final moment, a thin, horizontal gold line briefly flashes across the center of the \"NEWS\" text, creating a shimmering light effect. No people, clothing, or physical locations are visible, as the entire sequence consists of a digital motion graphic."
+}

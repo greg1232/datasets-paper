@@ -1,0 +1,15 @@
+{
+  "video_id": "83787b0596bff3ebfaa0b9762a34186f",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.479,
+    7.437,
+    12.396,
+    17.354
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a presentation slide titled \"Stream Processor.\" The slide features a technical diagram where three boxes labeled \"HW / SW\" point toward three corresponding red boxes labeled \"Event,\" which then feed into a larger central light-gray box containing a teal rectangle labeled \"Stream Processor.\" This central box also points downward to a red button labeled \"Real Time Analysis\" and rightward toward a 3D cylinder icon representing a database. In the upper right corner, a small webcam overlay shows a person wearing a white shirt and glasses. Across the series of frames, the content of the slide and the person in the webcam remain static, with no movement or changes occurring in the visual elements or the layout of the diagram."
+}

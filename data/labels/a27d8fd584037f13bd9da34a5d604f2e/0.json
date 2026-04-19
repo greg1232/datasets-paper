@@ -1,0 +1,15 @@
+{
+  "video_id": "a27d8fd584037f13bd9da34a5d604f2e",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-268.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.18,
+    0.54,
+    0.9,
+    1.26
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with a beard and a dark baseball cap is seen in a small video window on the right side of a screen share. The main screen displays a digital document titled \"Rural Community Food System\" with the heading \"13R Retailers willing to source Local & Product Cost/Price.\" The text describes retailers' willingness to source local products relative to demand and the \"Product Cost\" to improve local consumption. A complex causal loop diagram with green lines and arrows is visible on the right side of the document. In the upper portion of the screen, a web browser is open with multiple tabs, including one titled \"R Learning by Learning by SystemDynamics.\" As the sequence progresses, a mouse cursor moves across the screen, and a dropdown menu appears, highlighting a list of items including \"Changing Mental Models,\" \"Changing Components,\" and \"Innovation.\""
+}

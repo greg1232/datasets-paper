@@ -1,0 +1,15 @@
+{
+  "video_id": "8d802de25a2a105adcc8f75271196998",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-122.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.0,
+    6.0,
+    10.0,
+    14.0
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a dark suit, a white shirt, and a maroon tie, stands before a digital backdrop in a news studio setting. Behind him is a blue graphic featuring a stylized world map and a circular emblem with the text \"PLUS POLITICS\". To his left, a red pillar displays a white \"L\" logo and the word \"plustv\". At the bottom of the screen, a white ticker bar contains various labels and links. In the first few frames, the text includes \"SUBSCRIBE\" and \"WWW.YOUTUBE.COM/PLUSTVAFRICA\", with the latter expanding to \"WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE\" in the second frame. By the final frames, the ticker changes to \"FOLLOW US\" alongside social media icons and \"PLUSTVAFRICA\", and \"WATCH ON\" followed by \"DStv CH 408\" and \"StarTimes CH 308\". The man remains centered, speaking to the camera with subtle shifts in his facial expression and posture."
+}

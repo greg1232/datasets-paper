@@ -1,0 +1,15 @@
+{
+  "video_id": "f87ee43b63da49f37dd845afdeb85b8b",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-808.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.203,
+    0.61,
+    1.017,
+    1.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark, curly hair tied up is seated in a podcast studio, wearing a dark green t-shirt featuring a red graphic and the text \"EST1990\". She is positioned in front of a professional black microphone on a boom arm. Behind her is a black backdrop with white text that reads \"ODCAST\" and \"Talk About It!\", along with red text that says \"BESS TALK IT\" and \"It s A Unique Hustle\". To her left, a framed picture of a person is mounted on a white wall. In the foreground, two clear glasses containing liquid are visible on a table. Across the frames, the woman remains seated and speaking, with slight shifts in her facial expressions and head positioning as she talks. The scene remains static in terms of location and equipment, with only the woman's subtle movements changing over time."
+}

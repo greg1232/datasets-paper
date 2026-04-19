@@ -1,0 +1,15 @@
+{
+  "video_id": "de89a42e5a1e4985fef0b38274885b5a",
+  "url": "./data/segments/3Ma0wGTm5QQ-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.446,
+    4.338,
+    7.229,
+    10.121
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a red t-shirt stands against a black background. On his shirt is a white logo that reads \"Learning in Hand with TONY VINCENT\". To his right, large, stylized text in blue, purple, and white reads \"LEVEL UP YOUR VIDEOS\", accompanied by a large purple upward-pointing arrow. Across the sequence, the man speaks directly toward the camera, gesturing with his hands. In the first frame, he has a slight smile with his hands held low. By the second and third frames, his expression becomes more animated, with his mouth open as he speaks and his hands beginning to lift. In the final frame, he continues speaking while looking slightly to the side, his expression focused. The background and the \"LEVEL UP YOUR VIDEOS\" graphic remain static throughout the clip."
+}

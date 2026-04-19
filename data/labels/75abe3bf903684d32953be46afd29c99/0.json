@@ -1,0 +1,15 @@
+{
+  "video_id": "75abe3bf903684d32953be46afd29c99",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.418,
+    16.254,
+    27.09,
+    37.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a sequence of financial technical analysis charts for a stock, likely Exxon Mobil, as indicated by the text \"Exxon Mobil Multimetrical sd\" appearing in multiple panes. The screen is filled with a grid of eight similar charts, each featuring green and red candlesticks, moving average lines, and technical indicators such as MACD and Stochastic Slow. Legible text includes \"MACD (12,26,9,1,1,UpColorDefault...)\" and \"Stochastic Slow (High,Low,Close,14,3,3,1,20,80)\". Throughout the clip, the view remains static on these data-rich dashboards, which are characterized by a dark background with vibrant green, red, and white lines. There are no people or physical locations visible, only the digital interface of a trading platform. The scene does not change significantly between frames, maintaining a consistent focus on the market data and technical indicators."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "05fc70b8f53d6d956219c1139fd80d25",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-259.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and shaved head, wearing a white t-shirt and black over-ear headphones, is speaking into a silver condenser microphone mounted on a boom arm. The microphone has a label that reads \"Neumann Nuvox U87 Ai\". The scene is set in a studio with a dark grey, horizontally ribbed acoustic foam background. The man is positioned in the center of the frame, gesturing with his right hand. Across the sequence, his facial expressions shift slightly as he speaks, and his hand moves in a blurring motion, starting from his side, sweeping across his chest, and then moving back toward his side. His tattoos are partially visible on his right upper arm. The camera remains stationary, keeping the man and the equipment in a consistent medium close-up shot throughout the sequence."
+}

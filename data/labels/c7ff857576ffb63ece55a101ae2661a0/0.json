@@ -1,0 +1,15 @@
+{
+  "video_id": "c7ff857576ffb63ece55a101ae2661a0",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-350.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.758
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen capture shows a video game menu titled \"HALFTIME ADJUSTMENTS: OFFENSE\" from a sports simulation. A timer counts down from \":28\" to \":27\". The interface features lists of \"ACTIVE SUPERSTARS\" including names like \"GENO SMITH,\" \"NICK CHUBBA,\" and \"JASON KELCE,\" along with indicators for \"X-FACTOR LIMIT\" and \"AP LIMIT.\" The top half of the screen displays a strategic option for \"DOUBLE ME,\" while the bottom half switches to \"FREIGHT TRAIN\" with details on \"GOAL LINE BACK\" and \"BRUSER.\" In the bottom-left corner, a small inset window shows a fair-skinned man with blond hair wearing a black shirt, resting his chin on his hand with a thoughtful expression. A festive holiday decoration with lights is visible behind him. The layout remains mostly static, with only the timer and the selected strategic ability changing as the sequence progresses."
+}

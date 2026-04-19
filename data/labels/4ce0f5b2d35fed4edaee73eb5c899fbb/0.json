@@ -1,0 +1,15 @@
+{
+  "video_id": "4ce0f5b2d35fed4edaee73eb5c899fbb",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.317,
+    0.951,
+    1.585,
+    2.219
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man and woman sit together at a dark wooden table in a brightly lit indoor setting. The man, wearing glasses and a white button-down shirt, looks toward a white laptop screen, while the woman, wearing glasses and a white blouse, looks on beside him. On the table are the laptop, a white mug, and a smartphone. In the background, a lamp and a bowl of fruit are visible. Across the sequence, the man and woman remain in their positions, though they shift their posture slightly. In the subsequent frames, blue text overlays the scene, reading \"IS PUBLISHED EVERY MORNING WHEN THE MARKETS OPEN\". The text appears first in the upper right portion of the frame and then shifts to the lower left and lower right areas as the sequence progresses, while the subjects continue to focus on the laptop."
+}

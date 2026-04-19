@@ -1,0 +1,15 @@
+{
+  "video_id": "14b3315f913c1d294616ec33c7811e01",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-843.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.532,
+    1.595,
+    2.659,
+    3.722
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark green t-shirt and a matching baseball cap sits in a studio setting, speaking into a black professional microphone. His shirt features the white text \"ION NEVER DO SHIT AT WORK\". He wears black over-ear headphones. Behind him is a wall adorned with various framed photographs and a clothing rack with garments on hangers. A white mannequin wearing a white t-shirt stands in the background. In the bottom corners of the scene, there are logos: one on the left with the word \"TAPE\" inside a circle and another on the right that reads \"BODLY FELTY\". As the scene progresses, the man continues talking, shifting his facial expressions and head position. In the final sequence, he raises his right arm and points his index finger forward and slightly upward, partially obscuring his own face and the microphone."
+}

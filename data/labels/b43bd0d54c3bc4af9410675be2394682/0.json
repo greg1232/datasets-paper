@@ -1,0 +1,15 @@
+{
+  "video_id": "b43bd0d54c3bc4af9410675be2394682",
+  "url": "./data/segments/3P1vSUbet40-Scene-0494.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.271,
+    0.813,
+    1.356,
+    1.898
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a tall, light-colored mohawk, glasses, and headphones wears a white button-down shirt with a small bowtie while speaking into a black microphone. He is positioned in an indoor studio setting featuring a background with a logo and the text \"UNIQUE FASHIONS.\" On the bottom left and right of the screen, graphics display \"BOSS TALK PODCAST\" and \"BOSS TALK 101.\" As the scene progresses, the man continues to speak, maintaining his position and attire. The camera then cuts to a different man wearing a black baseball cap, a black t-shirt that says \"CHECK IT OUT MAN,\" and headphones. This second man is also positioned in front of a black microphone in a studio environment. Behind him, a wall features the words \"HUSTLE\" and \"BOSS TALK 101\" alongside several black stars."
+}

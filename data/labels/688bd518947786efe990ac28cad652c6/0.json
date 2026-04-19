@@ -1,0 +1,15 @@
+{
+  "video_id": "688bd518947786efe990ac28cad652c6",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.44,
+    1.319,
+    2.198,
+    3.077
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with light-colored hair wearing a dark shirt is shown in a small video overlay in the lower-left corner of a screen. He is positioned in front of a gaming setup featuring a monitor and a decorated holiday tree. The main screen displays a \"LINEUP\" menu for a sports video game, showing several player cards with a pink and purple color scheme. Across the top, a navigation bar lists options including \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS (K).\" Numerical values like \"173,037,\" \"14,609,\" and \"2,343,543\" are visible in the top right corner. Below the player cards, buttons for \"BEST LINEUP,\" \"HELP,\" and \"BACK\" are displayed. As the sequence progresses, the person in the overlay remains relatively stationary, while the game screen remains constant, showing the team composition and player stats."
+}

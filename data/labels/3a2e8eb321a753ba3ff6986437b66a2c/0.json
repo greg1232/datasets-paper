@@ -1,0 +1,15 @@
+{
+  "video_id": "3a2e8eb321a753ba3ff6986437b66a2c",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.44,
+    1.32,
+    2.2,
+    3.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair, wearing a dark navy blazer over a black button-down shirt, stands behind a white podium against a plain light-gray background. On the podium sits a clear plastic water bottle and a black gooseneck microphone. The \"mediasite\" logo, featuring a stylized clover-like icon, appears in the top left corner of the scene. The man begins by speaking and gesturing with his left hand extended outward, palm open. As the sequence progresses, he brings his left arm back toward his body, eventually clasping both hands together in front of him. He maintains a serious expression while looking slightly to his left. Throughout the progression, the setting and the objects on the podium remain stationary, while the man's posture shifts from an active gesturing phase to a more composed, still stance."
+}

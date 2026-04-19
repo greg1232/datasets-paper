@@ -1,0 +1,15 @@
+{
+  "video_id": "9315641585e9c9f26482046c5a55770c",
+  "url": "./data/segments/3mmDnftP1M8-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.135,
+    0.406,
+    0.677,
+    0.948
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light blue button-down shirt and a black headset with a microphone is positioned against a plain, pale blue background. He holds both hands up in front of him with palms facing outward. In the initial moments, his hands are held relatively still and open, though his mouth is slightly open as if speaking. As time progresses, he begins to move his hands, shifting them slightly and then bringing them closer together and apart in a rhythmic gesture. His expression remains focused, and his mouth continues to move. The text \"Ashish Raichur\" appears in the bottom left corner of the scene throughout the sequence. The lighting is consistent, and the man remains centered in the shot as he gestures with his hands."
+}

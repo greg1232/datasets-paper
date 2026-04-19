@@ -1,0 +1,15 @@
+{
+  "video_id": "1bead0f8f68f46541d8ba99c5df8984f",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-289.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.919,
+    2.756,
+    4.594,
+    6.431
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a graded sports card in a protective plastic case, featuring an image of Nolan Ryan in a Houston Astros uniform. The card includes a signature and the text \"NOLAN RYAN \u2022 P\" and \"ASTROS.\" In the background, a man with a beard wearing a navy blue t-shirt sits at a desk with computer equipment, including a monitor and keyboard. On-screen graphics display the logo \"JASPYS\" and the website \"CASEBREAKS.COM,\" along with smaller text that reads \"Sports Cards & Memorabilia.\" As the sequence progresses, the hands slightly adjust the angle of the graded card, shifting it subtly toward the right while maintaining a firm grip. The background setting remains consistent, with the man sitting still behind the card, and the overlay text and logos remain static throughout the scene."
+}

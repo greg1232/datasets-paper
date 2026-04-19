@@ -1,0 +1,15 @@
+{
+  "video_id": "fad4dd605ea85f8ebc14f6bdcb530602",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-219.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a sports trading card featuring an athlete in a blue and orange jersey, showcasing a signature on the front. The card bears the name \"SCHMIDT\" and the text \"GET IN THE GAME\". In the background, a man wearing a dark blue shirt and a headset sits at a desk with various electronic equipment, including a monitor. The environment is a room with a patterned rug on the floor. A logo that reads \"JASPYS\" above \"CASEBREAKS.COM\" appears in the upper right corner of the scene, and a smaller version of the same logo is visible on the desk. As the sequence progresses, the hand tilts the holographic card to catch the light, causing shimmering patterns to move across its surface. The person maintains a steady grip on the card while the man in the background remains seated."
+}

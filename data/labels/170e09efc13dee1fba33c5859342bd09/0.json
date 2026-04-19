@@ -1,0 +1,15 @@
+{
+  "video_id": "170e09efc13dee1fba33c5859342bd09",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-745.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.955,
+    5.865,
+    9.775,
+    13.686
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a dark green t-shirt with the text \"ION NEVER DO SHIT\" printed in white sits in a studio environment. He is positioned in front of a black professional microphone, speaking as his facial expressions shift slightly across the sequence. The background features a wall decorated with framed photographs and a white mannequin wearing a white t-shirt. To the right, clothing racks with various garments are visible. Two logos appear on screen: a circular black-and-white logo on the left and a red-and-white \"BOOGIE\" logo on the right. Throughout the clip, the man remains seated in the same position, with only subtle movements in his head and mouth as he talks into the microphone."
+}

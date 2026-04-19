@@ -1,0 +1,15 @@
+{
+  "video_id": "11fc6f0bc7804241f6bcac9e7c49cfa3",
+  "url": "./data/segments/3P1vSUbet40-Scene-0331.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.151,
+    0.454,
+    0.756,
+    1.058
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip features a recording studio setting with white walls adorned with photographs and a logo that reads \"BOSS TALK 101\". In the initial scene, a man with a tall, silver, textured hairstyle wears glasses, a white shirt, a bow tie, and suspenders, speaking into a professional microphone while wearing headphones. The scene then shifts to another man wearing a black baseball cap with a logo, a black t-shirt with the text \"CHECK IT!\", and gold chains. He is also wearing headphones and is positioned in front of a microphone. On-screen graphics include a logo that reads \"BOSS TALK PODCAST\" and a larger \"BOSS TALK 101\" logo. As the sequence progresses, the second man remains in the frame, subtly shifting his gaze and expression while speaking, while the background remains constant with the \"BOSS TALK 101\" branding visible."
+}

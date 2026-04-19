@@ -1,0 +1,15 @@
+{
+  "video_id": "970d114108e41099fa666648024988c2",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-212.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.562,
+    0.787
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a protective plastic slab containing a sports trading card with a signature. The scene transitions from a close-up of the slab to a wider view that includes a man wearing a dark t-shirt with a yellow circular logo, sitting in front of a computer monitor and keyboard. The background features a surface with a palm tree design. On-screen overlays appear in multiple locations, displaying the text \"JASPYS\" in red and white and the website \"CASEBREAKS.COM\" in blue. As the sequence progresses, the perspective shifts between the close-up of the signed card and a small inset window showing the man in his workspace. In the final frames, the hands reposition the slab, tilting it to show the signature more clearly while the man continues to sit in the background."
+}

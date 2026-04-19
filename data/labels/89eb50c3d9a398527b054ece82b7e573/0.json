@@ -1,0 +1,15 @@
+{
+  "video_id": "89eb50c3d9a398527b054ece82b7e573",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-321.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.362,
+    1.087,
+    1.812,
+    2.538
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a dark, textured, rectangular playmat in a room with various items in the background. In a small picture-in-picture window, a man wearing a navy blue shirt is visible, sitting in front of a computer monitor and keyboard. The logo \"JASPYS\" and the text \"CASEBREAKS.COM\" are displayed prominently on the screen. As the sequence progresses, the person shifts the playmat, tilting it and adjusting their grip with their fingers. The background remains constant, showing white shelves with stacked items and a table surface decorated with a green palm tree motif. The man in the smaller window remains seated, looking toward the camera, while the focus stays on the movement of the mat being handled in the foreground."
+}

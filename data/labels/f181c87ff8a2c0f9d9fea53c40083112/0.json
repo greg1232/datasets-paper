@@ -1,0 +1,15 @@
+{
+  "video_id": "f181c87ff8a2c0f9d9fea53c40083112",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, two female healthcare professionals wearing blue scrubs, black jackets, and black face masks attend to a patient mannequin lying in a hospital bed. One professional, wearing a red lanyard, holds a white piece of paper and wears blue gloves. To her right, another professional stands with a stethoscope draped around her neck. The background includes a red medical cart stocked with equipment, including a monitoring device, and a wall with mounted medical devices. Each frame features on-screen text that reads \"Day 1\" in a purple bubble on the left and \"Sim Week\" with a signal icon on the right. Across the sequence, the professionals remain largely stationary, with the woman holding the paper shifting her posture slightly and adjusting the paper in her gloved hands as they focus on the mannequin."
+}

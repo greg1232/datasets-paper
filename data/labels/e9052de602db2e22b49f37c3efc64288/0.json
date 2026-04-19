@@ -1,0 +1,15 @@
+{
+  "video_id": "e9052de602db2e22b49f37c3efc64288",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.35,
+    1.05,
+    1.75,
+    2.45
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a graded trading card featuring a baseball player in a white uniform, while a man wearing a dark blue t-shirt sits in the background. The setting appears to be a professional card-breaking station, featuring a white table with a branded mat depicting orange suns and green palm trees. The logo \"JASPYS LIVE\" and the website \"CASEBREAKS.COM\" are prominently displayed on the screen. As the sequence progresses, the person holding the card moves it closer to the camera, eventually tilting it and moving it out of view, while the man in the background remains seated. A white storage box and a black electronic device are visible on the table. The card displays a signature that reads \"Rodasen\" and the name \"CAREW\" printed at the bottom."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a94f76d27217b00245fbc2f18cdbd2a5",
+  "url": "./data/segments/3l84m5pRmyk-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.212,
+    9.635,
+    16.058,
+    22.481
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair, wearing a grey suit jacket, a white shirt, and a patterned tie, is giving a presentation. He stands before a white backdrop featuring the hashtag \"#BigDataSV 2015\" repeated twice. In the initial stages, he gestures with both hands while looking slightly downward toward a laptop positioned in front of him. As the sequence progresses, he looks forward and speaks, continuing to gesture with his hands. A blue lower-third graphic appears across the bottom of the screen, displaying the text \"JEFF KELLY I @jeffreykelly,\" followed by \"Senior Analyst\" and \"Wikbon\" in smaller font. To the left of this text, a logo for \"NFO-OBJECTS\" is visible. The scene transitions from the man focusing on his equipment to engaging with his audience, with the informational graphic becoming a permanent fixture on the screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a747c65f94c852b5b87907f0a68b4f90",
+  "url": "./data/segments/3HgCF6yVXko-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.496,
+    1.488,
+    2.479,
+    3.471
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static wide shot depicts the exterior of a large, two-story beige house featuring a balcony with a black metal railing and a covered lower porch supported by pillars. In the foreground, a bright blue swimming pool is partially visible, enclosed by a black metal fence. A well-manicured green lawn separates the pool area from the house and a perimeter wall. In the distance, other similar residential buildings and palm trees are visible under a pale, overcast sky. As the scene progresses, a person wearing dark clothing walks from the right side of the lawn toward the left, moving behind the fence and out of view. The camera remains stationary throughout the sequence, capturing the person's movement across the yard while the rest of the architectural and landscape elements remain still."
+}

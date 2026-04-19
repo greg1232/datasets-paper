@@ -1,0 +1,15 @@
+{
+  "video_id": "ec90704411d3bd42b66f7bfcffd28808",
+  "url": "./data/segments/3Ma0wGTm5QQ-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.975,
+    1.625,
+    2.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair, wearing a red t-shirt, stands centered against a colorful, stylized background. The background features green hills, a white picket fence, and a large blue icon resembling a document. Bold blue text at the top of the scene reads \"with Google Sites\". The man's red shirt displays a white logo that says \"Learning in Hand with TONY VINCENT\". Across the sequence, the man remains in the same position, facing the camera and speaking. His expression and mouth movements shift slightly as he talks, and his hands move subtly at his sides. The background and the on-screen text remain static throughout the clip, maintaining a consistent visual setting as the man delivers his presentation."
+}

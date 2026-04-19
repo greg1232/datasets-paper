@@ -1,0 +1,15 @@
+{
+  "video_id": "866bfcdda207ac39fd1b45b3bf4ffe19",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.735,
+    2.205,
+    3.675,
+    5.145
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man, identified by on-screen text as Bola Tinubu, is featured in a series of static shots. He wears glasses, a grey garment, and a matching patterned traditional cap. He maintains a steady, neutral expression while looking toward the camera against a dark, blurred background. The frames are overlaid with a consistent graphical interface from a news program. A purple banner reads \"PLUS POLITICS\" above a larger white section with the text \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\". In the upper left corner, a \"plustv\" logo is visible. The bottom of the screen displays viewing information, including the \"DStv CH 408\" and \"StarTimes CH 308\" logos. Some frames also include a \"FOLLOW US\" section with social media icons and the handle \"PLUSTVAFRICA\". There is no visible movement or change in the man's pose or the background across the sequence."
+}

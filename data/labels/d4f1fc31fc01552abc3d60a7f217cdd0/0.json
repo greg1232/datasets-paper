@@ -1,0 +1,15 @@
+{
+  "video_id": "d4f1fc31fc01552abc3d60a7f217cdd0",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.699,
+    2.096,
+    3.493,
+    4.89
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a dark, textured black background featuring the metallic text \"BOSS TALK 101\". As the scene progresses, the word \"PODCAST\" appears in small red letters beneath the main title, accompanied by a red glow. The scene then transitions to a studio setting where a man is seated at a desk. He is wearing a white baseball cap, a black hoodie with the words \"BOSS TALK 101\" printed in gold, and headphones. He is positioned in front of a professional microphone on a boom arm. Behind him is a white backdrop with yellow stars and the words \"UNIQUE HUSTLE\" repeated, as well as a sign that reads \"BOSS TALK 101 Where BOSSES Talk!\". A black mug with a logo sits on the desk to his right. The man remains seated and still as the shot focuses on him."
+}

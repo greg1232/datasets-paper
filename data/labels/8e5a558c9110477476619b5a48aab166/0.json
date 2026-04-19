@@ -1,0 +1,15 @@
+{
+  "video_id": "8e5a558c9110477476619b5a48aab166",
+  "url": "./data/segments/3P1vSUbet40-Scene-0249.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with her hair styled in a high bun, wearing black headphones and a black t-shirt, is seated in a studio setting. She is smiling and facing toward the left, speaking into a professional black microphone mounted on a boom arm. Behind her is a yellow wall and a dark gray background. To her left, a monitor displays the name \"Johnson\" in red text, with smaller text above it reading \"Employee Only\". A logo featuring a microphone and the text \"BOSS TALK 101\" is visible on the right side of the screen, while another logo on the left includes the word \"PODCAST\". Across the sequence, the woman maintains her smiling expression and posture, with only slight movements in her facial expressions and head position as she continues to speak."
+}

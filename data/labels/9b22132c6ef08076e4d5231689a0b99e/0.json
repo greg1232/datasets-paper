@@ -1,0 +1,15 @@
+{
+  "video_id": "9b22132c6ef08076e4d5231689a0b99e",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A security camera view shows a dark, outdoor area with a grainy, monochromatic image. In the background, a white ladder leans against a wall or structure. A person wearing a light-colored garment is partially visible on the left edge of the frame. As the sequence progresses, the camera angle shifts slightly, and the light-colored figure moves toward the center, eventually appearing as a small, pale shape near the ladder. The ground is uneven and textured. A red and white overlay at the bottom left of each view contains the text \"Cam 04\" followed by a small red icon and a white mute symbol. The overall scene is dimly lit, capturing subtle movements in a quiet, industrial or backyard setting."
+}

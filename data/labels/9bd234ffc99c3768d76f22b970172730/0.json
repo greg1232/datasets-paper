@@ -1,0 +1,15 @@
+{
+  "video_id": "9bd234ffc99c3768d76f22b970172730",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    96.417,
+    289.251,
+    482.086,
+    674.92
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A recorded session of the \"House Committee on General, Housing, and Military Affairs\" takes place in a wood-paneled room. On-screen text at the bottom indicates the date is \"April 12, 2019\" and the topic is \"S.23 Increasing the Minimum Wage,\" accompanied by an \"ORCA\" logo. In the early frames, a man with a beard in a dark suit and tie speaks while gesturing with his hands, seated next to a man in glasses and a suit. A woman with blonde hair is partially visible to the left. As the sequence progresses, the camera angle shifts to show other participants. A man in a dark suit and tie listens while another man in a grey sweater sits at a desk. A woman with brown hair watches the proceedings. In the final frame, a man in a dark blazer is seen from behind, standing and facing the committee."
+}

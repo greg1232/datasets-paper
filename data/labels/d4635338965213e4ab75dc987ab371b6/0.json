@@ -1,0 +1,15 @@
+{
+  "video_id": "d4635338965213e4ab75dc987ab371b6",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.771,
+    2.313,
+    3.854,
+    5.396
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A live stream broadcast from \"CASEBREAKS.COM\" features a man with short dark hair wearing a black hooded sweatshirt. He is seated behind a desk with a microphone, positioned in a small inset window on the right side of the screen. The main display is a white webpage featuring a list of NBA team abbreviations and a chat log. The text on the page specifies a \"2021-22 Panini Mosaic Basketball Hobby 1-Pack Break 'RT'\" with \"30 spots.\" A chatbot named Nightbot provides a link: \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/3SedsK9\". As the sequence progresses, the list of team abbreviations is gradually filled in with blue highlighted boxes. The final frame shows a product image of a \"2021-22 NBA Draft\" pack of cards and text announcing \"*19X CROWN ROYALE PYT #5 TEAM GIVEAWAY*\"."
+}

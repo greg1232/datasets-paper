@@ -1,0 +1,15 @@
+{
+  "video_id": "f43cb67346d8bf52bb7b227edc316601",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-414.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.422,
+    1.267,
+    2.111,
+    2.956
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black hoodie with the gold text \"BOSS\" and a white baseball cap sits in a studio setting. He wears large black over-ear headphones and a gold watch on his left wrist. In front of him is a professional microphone on a boom arm and a black mug with red and white text that reads \"TALK OUT\". Behind him, a white backdrop features the \"UNIQUE HUSTLE\" logo repeated vertically with gold stars. A blue banner above him contains the phrase \"Where BOSSES Talk!\". Throughout the sequence, the man is speaking and gesturing with his hands. His facial expressions shift from a focused look to an open-mouthed expression as he talks, and his right arm moves from his side to an extended position in front of him. The camera angle remains static, capturing him from the waist up."
+}

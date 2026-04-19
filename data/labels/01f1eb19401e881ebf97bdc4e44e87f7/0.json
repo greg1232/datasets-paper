@@ -1,0 +1,15 @@
+{
+  "video_id": "01f1eb19401e881ebf97bdc4e44e87f7",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.958,
+    2.875,
+    4.792,
+    6.708
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman wearing light gray medical scrubs stands in a professional setting that appears to be a clinic or office. She has blonde hair tied back and is speaking toward the camera. In front of her is a white table holding a white piece of paper and a black mechanical device with various internal components. A dark gray medical chair is positioned behind the table. As the sequence progresses, the woman gestures with her hands, moving them from her sides toward the center of her body. By the final frames, she is holding a small, dark object in her hands while continuing to speak. In the background, a purple and white informational poster is visible on the wall, though the text is too small to be legible. The lighting is bright and consistent, and the woman remains the central focus of the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b1ad3959d5e4585e51bee6bd67bd72a5",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-173.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hoodie, and headphones sits in a recording studio, speaking into a professional microphone mounted on a black adjustable arm. He wears a gold chain around his neck. Behind him is a white backdrop featuring a recurring logo that includes five gold stars and the words \"UNICORN HUSTLE.\" To his right, a large red and white sign reads \"BOSS TALK 101\" and \"'Where BOSSES Talk!'\" On the table in front of him sits a black equipment box and a white mug with red text that says \"BOSS TALK 101.\" Across the sequence, the man remains in the same position, slightly shifting his head and facial expressions as he talks, while the camera angle and the surrounding environment remain static."
+}

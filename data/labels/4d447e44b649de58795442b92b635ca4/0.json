@@ -1,0 +1,15 @@
+{
+  "video_id": "4d447e44b649de58795442b92b635ca4",
+  "url": "./data/segments/3VCwl-aQ_oQ-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.6,
+    1.8,
+    3.0,
+    4.2
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a computer desktop with a print settings menu and a live stream window. In the live stream, a man with a beard, wearing a black t-shirt, sits in front of a microphone and a monitor. A logo for \"JASPYS CASEBREAKS.COM\" appears at the bottom of the stream, along with a chat window featuring messages from \"Nightbot\" that read, \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/N-zSdeBK9\". To the left of the stream, a print dialog box is open, showing a list of names including \"Ron Wester 2\", \"James Conti 2\", and \"Ron Wester 4\". As the sequence progresses, a cursor moves through the \"Formatting\" section of the print settings, checking boxes for \"Page numbers\", \"Workbook title\", \"Sheet name\", \"Current date\", and \"Current time\"."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "db89b72eefa06891b1ac0c6554714f97",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-147.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.629,
+    37.888,
+    63.146,
+    88.405
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with gray hair and glasses speaks from behind a wooden podium in front of a light brown slatted wall. He wears a light blue button-down shirt adorned with eagle motifs and a traditional beaded necklace featuring a prominent tooth or claw pendant. A black microphone is positioned in front of him, and a yellow folder rests on the podium. To his right, the text \"ORCA\" appears on the screen. As the sequence progresses, the man speaks, shifting his facial expressions and slightly moving his head. He gestures with his right hand in the beginning, but his arm eventually lowers and disappears from view as he focuses on the documents before him. The camera remains static throughout, maintaining a medium shot of the speaker."
+}

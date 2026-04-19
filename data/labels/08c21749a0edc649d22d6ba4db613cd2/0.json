@@ -1,0 +1,15 @@
+{
+  "video_id": "08c21749a0edc649d22d6ba4db613cd2",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.917,
+    32.75,
+    54.583,
+    76.417
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair is visible in a small inset window at the bottom left of a larger screen displaying a trading platform. He is speaking, with his mouth open in the final frame. The main screen features the \"TICKMILL\" logo and the German text \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN,\" followed by a list of features including \"PICAs,\" \"Niedriger Spread ab 0.1 Pips,\" and \"www.tickmill.com/de/.\" A financial chart for \"(EURGBP)\" is displayed, showing price fluctuations over time with various lines, indicators, and a red zig-zagging trend line. The chart layout remains static across the sequence, but the man in the inset window changes his facial expressions and mouth movements as he speaks, while the software interface and text remain constant."
+}

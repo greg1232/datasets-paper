@@ -1,0 +1,15 @@
+{
+  "video_id": "062e534d2883bb0bed00a81fa3631546",
+  "url": "./data/segments/3JYDT8lap5U-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.82,
+    17.46,
+    29.1,
+    40.74
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard, wearing a dark blazer over a white t-shirt, stands on a stage during a presentation at EuroPython in Edinburgh on July 23, 2018. He gestures with his hands while speaking beside a large projection screen. In the first frame, the screen displays the heading \"NOW WE CAN USE IT!\" above a block of Python code and the word \"SUCCESS!\". In the following frames, the screen content changes to a slide titled \"GOING DEEP: TRAINING AN RNN IN PYTHON,\" which includes a different snippet of code and the phrase \"FOLLOWING THE EXACT SAME STEPS!\". The bottom of the screen features the \"europython\" logo, a red snake icon, and the text \"Edinburgh 23 29 July 2018\". As the sequence progresses, the man continues to gesture and speak, shifting his body and arm positions while remaining beside the presentation."
+}

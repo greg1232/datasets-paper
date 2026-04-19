@@ -1,0 +1,15 @@
+{
+  "video_id": "f6d5ba5b032ef023e82252e831f34539",
+  "url": "./data/segments/3F2rz23IKUk-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.15,
+    21.45,
+    35.75,
+    50.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light brown hair and glasses stands in a room with gray walls, wearing a black t-shirt and a blue lanyard with an identification badge. His t-shirt features a graphic and the text \"Knuth\". He is positioned behind the back of a black chair. As he speaks, he gestures with his hands, moving them from his waist upward towards his chest. In the beginning, his hands are loosely clasped in front of him. He then raises his hands, bringing them closer together as if emphasizing a point. Toward the end, his right hand remains slightly raised while his left arm drops back down to his side. The background remains static throughout the sequence, showing a plain wall with a vertical gray pillar and a horizontal dividing line."
+}

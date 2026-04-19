@@ -1,0 +1,15 @@
+{
+  "video_id": "2ed9f701e789ca116c67cb5e7d4a644e",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-092.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.238,
+    0.396,
+    0.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green Polaris 6x6 all-terrain vehicle is parked on a concrete surface in front of a reddish-brown wooden fence. The vehicle features a cargo bed at the rear with the text \"POLARIS\" and \"MUD & SNOW\" visible on its side. The main body of the vehicle also displays \"POLARIS\" and \"6x6\" branding. A person wearing a black helmet and dark clothing is seated in the driver's seat, though only their upper body is visible. Across the frames, the scene remains virtually static, with the vehicle and the person remaining in the same position. There is very little movement, with only subtle shifts in the lighting and minor vibrations, indicating that the vehicle is stationary while the person is seated. The surroundings consist of the paved ground and the textured wooden backdrop of the fence."
+}

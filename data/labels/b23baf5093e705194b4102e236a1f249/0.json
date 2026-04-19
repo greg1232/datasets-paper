@@ -1,0 +1,15 @@
+{
+  "video_id": "b23baf5093e705194b4102e236a1f249",
+  "url": "./data/segments/3QD9oO6sRns-Scene-170.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.604,
+    0.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen interacting with a product box in a setting featuring a black tabletop mat with \"JASPYS CASEBREAKS\" printed in white and orange text. The box is primarily white and grey, featuring the words \"CLEARLY AUTHENTIC\" in bold, black uppercase letters. As the sequence progresses, the person rotates and tilts the box, showing different angles of its packaging. A small inset video in the corner displays a man wearing a black t-shirt, appearing to be the host of the presentation. The background includes a white surface and a small red and white container. The \"JASPYS CASEBREAKS\" logo is prominently displayed across the bottom of the frame and within the inset video. Throughout the movement, the focus remains on the \"CLEARLY AUTHENTIC\" branding on the product box as it is handled."
+}

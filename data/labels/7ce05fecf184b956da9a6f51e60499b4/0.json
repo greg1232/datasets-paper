@@ -1,0 +1,15 @@
+{
+  "video_id": "7ce05fecf184b956da9a6f51e60499b4",
+  "url": "./data/segments/3a0FD1177FA-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.688,
+    1.147,
+    1.606
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is working on a white tabletop, preparing a piece of patterned green and gold paper. The person wears a white watch on their left wrist and a black watch on their right wrist across different frames. In the beginning, their left hand holds the paper in place while their right hand moves toward the center of the page. As the sequence progresses, the person uses both hands to flatten and align the paper against a metal ruler and a cutting guide. Various crafting supplies are scattered around the workspace, including a stamp set labeled \"Thank You,\" a white ink pad branded \"MEMENTO,\" and several clear plastic packages. A watermark in the bottom-left corner of the frames reads \"Stamping Fill\" next to a heart icon. The scene remains static, with the primary movement being the person's hands adjusting the paper for precise cutting."
+}

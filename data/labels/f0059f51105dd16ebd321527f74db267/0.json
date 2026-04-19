@@ -1,0 +1,15 @@
+{
+  "video_id": "f0059f51105dd16ebd321527f74db267",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.537,
+    0.896,
+    1.254
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of frames shows a group of people in military attire moving through a foggy, desolate landscape of grey dirt and sparse, dry vegetation. The figures wear dark green or grey camouflage uniforms and tactical gear. Initially, the scene is obscured by haze, with few figures visible in the distance. As the sequence progresses, more individuals appear, running across the open terrain toward the left side of the frame. One person in the foreground is seen from behind, running with their arms pumping. A red and white circular logo containing the number \"13\" is visible in the upper right corner of each frame. The ground is uneven and muddy, with a dark, textured embankment visible in the immediate foreground. The visibility remains low throughout due to the heavy mist and muted colors of the environment."
+}

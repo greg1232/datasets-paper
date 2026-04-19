@@ -1,0 +1,15 @@
+{
+  "video_id": "b2f09b9f2f64d6da5fa201d2143669ae",
+  "url": "./data/segments/3a0FD1177FA-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.751,
+    1.251,
+    1.752
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with a smartwatch and rings on their fingers uses a paper trimmer to cut a strip of floral-patterned paper. The setting is a white tabletop where the grey and black trimmer is placed. In the first frame, the person's hands position a strip of yellow and green floral paper against the trimmer's guide. As the sequence progresses, the person holds the paper steady while sliding the cutting blade across the material. The paper is cut, and the trimmed piece is moved. A logo with a heart and the text \"Stamping Jill\" is visible in the lower-left area of each frame. To the left and right of the trimmer, other strips of patterned paper, including a blue and white design, are laid out on the surface. The movement is focused entirely on the precision of the cutting process."
+}

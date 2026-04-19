@@ -1,0 +1,15 @@
+{
+  "video_id": "61ffac64c20bbded1c3533a77504994d",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.47,
+    1.41,
+    2.35,
+    3.29
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short hair, wearing a dark blue blazer over a dark blue shirt, stands behind a podium against a plain, light-colored wall. A clear plastic water bottle and a thin black microphone are positioned on the podium in front of him. The \"mediasite\" logo appears in the top left and bottom left corners of the scene. Throughout the sequence, the man is speaking, with his facial expression shifting slightly as he talks. Initially, he holds his hands still near the podium, but as the sequence progresses, he begins to gesture with his hands to emphasize his points, moving his right arm outward and opening his palm toward the side. The camera remains stationary, maintaining a medium shot of the man from the waist up as he delivers his presentation."
+}

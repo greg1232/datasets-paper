@@ -1,0 +1,15 @@
+{
+  "video_id": "a37cbb8b2ff8803a9c113fa25b689a6d",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.371,
+    1.114,
+    1.856,
+    2.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical simulation room, several people are gathered around a medical mannequin. A woman wearing blue scrubs, a face mask, and gloves works on the mannequin, which is partially covered by a clear plastic drape. A man in a grey shirt and black trousers stands nearby, initially holding a phone to record the scene before putting it away. In the background, a laptop sits on a cart and another person is partially visible. A purple circular badge with a silhouette and the text \"Day 2\" is visible on the left, while the \"Sim Week\" logo and the text \"SIMULATION IN MEDICINE DEPARTMENT\" appear on the right. Throughout the sequence, the woman continues her procedure on the mannequin while the man adjusts his position and puts his phone in his pocket, with the overall setting and equipment remaining constant."
+}

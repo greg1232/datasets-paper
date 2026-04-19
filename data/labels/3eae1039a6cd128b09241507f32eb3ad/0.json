@@ -1,0 +1,15 @@
+{
+  "video_id": "3eae1039a6cd128b09241507f32eb3ad",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-103.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.231,
+    0.694,
+    1.156,
+    1.619
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands manipulate a clear plastic sleeve and a collectible card over a surface featuring a logo with green palm trees and a orange circular border. A small white pedestal holds a yellow object in the background. To the right, a smaller inset video window shows a man with a beard wearing a dark blue t-shirt sitting at a desk with equipment. On-screen text in red and white reads \"JASPYS\" and \"CASEBREAKS.COM\". As the sequence progresses, the hands move the clear sleeve, eventually revealing a card with a signature inside a gold-bordered case. The background elements, including the palm tree logo, the pedestal, and the inset video of the man, remain consistent throughout the action."
+}

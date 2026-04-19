@@ -1,0 +1,15 @@
+{
+  "video_id": "006dafb8ffe4851743aec4ecf280f40c",
+  "url": "./data/segments/3QD9oO6sRns-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.687,
+    1.146,
+    1.604
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a collectible trading card product in a room with a branded backdrop. The backdrop features an orange oval logo with the text \"JASPYS\" and the words \"CASEBREAKS\" written in white beneath it. A small inset video shows a man wearing a black t-shirt and a black baseball cap. The product being opened is a box labeled \"CLEARLY AUTHENTIC\" and \"2020\". In the beginning, hands are seen removing a plastic wrapper from the top of the box. As the sequence progresses, the hands pull the plastic away to reveal the box and a trading card inside. The text \"CASEBREAKS.COM\" is visible near the small inset video of the man. The scene transitions from the initial act of unwrapping to the physical movement of the box and the exposure of the contents."
+}

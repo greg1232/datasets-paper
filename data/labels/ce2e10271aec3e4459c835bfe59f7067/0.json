@@ -1,0 +1,15 @@
+{
+  "video_id": "ce2e10271aec3e4459c835bfe59f7067",
+  "url": "./data/segments/3JYDT8lap5U-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.48,
+    1.44,
+    2.4,
+    3.36
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard, wearing a dark blazer over a white shirt and a lanyard, stands on a stage giving a presentation. He is positioned to the left of a large projection screen that displays the title \"INDUSTRIAL MACHINE LEARNING\" and the subtitle \"HORIZONTALLY SCALABLE DATA PIPELINES WITH AIRFLOW.\" Below this, the screen lists \"Alejandro Saucedo\" along with social handles \"@AxSaucedo\" and \"in/axsaucedo.\" At the bottom of the overall presentation slide, the \"europython\" logo and the text \"Edinburgh 23 29 July 2018\" are visible. Throughout the sequence, the man's posture and gestures shift slightly as he speaks; he begins by gesturing with his left hand, then brings both arms down to his sides, and eventually stands with his hands clasped in front of him. The background remains a dark, consistent stage environment with a soft blue glow."
+}

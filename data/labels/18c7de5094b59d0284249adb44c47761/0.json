@@ -1,0 +1,15 @@
+{
+  "video_id": "18c7de5094b59d0284249adb44c47761",
+  "url": "./data/segments/3a0FD1177FA-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.182,
+    0.547,
+    0.912,
+    1.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands and arms are visible as they work on a white tabletop with crafting supplies. They hold a square piece of green and yellow patterned paper against a silver paper trimmer with a built-in ruler. A white watch is worn on their left wrist. Nearby, there are various stamping tools, including a stamp that reads \"Thank You\" and an ink pad labeled \"ALEKRAMENTO\". A logo for \"The Stamping\" is visible in the bottom left corner of the scene. Across the sequence, the person positions the patterned paper securely under the trimmer's guide. In the final moments, the person uses the trimmer's sliding blade to make a clean cut across the top edge of the paper. The background remains a consistent white surface with a grid-patterned mat under the crafting equipment."
+}

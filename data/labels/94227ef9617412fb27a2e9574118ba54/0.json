@@ -1,0 +1,15 @@
+{
+  "video_id": "94227ef9617412fb27a2e9574118ba54",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.145,
+    0.435,
+    0.725,
+    1.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast segment features a red-themed graphical overlay with various portraits of political figures and scrolling headlines. The top banners across all frames read \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948,\" and a \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo is visible in the upper right. Small portraits of individuals, including \"\u0938\u092a\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940,\" \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e,\" \"\u0935\u093f\u091c\u0947\u0902\u0926\u094d\u0930 \u092f\u093e\u0926\u0935,\" and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930,\" are positioned on the sides. A central video window shows a man in a light-colored shirt and glasses speaking into multiple microphones, with the \"ANI\" logo visible on one. Below this, a ticker reads \"\u0938\u092a\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940, \u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e \u0915\u094b \u092d\u0940 PM \u0928\u0947 \u092c\u0927\u093e\u0908 \u0926\u0940,\" and a timestamp indicates \"10:04 PM.\" As the sequence progresses, the central video continues, and the portraits on the left change, eventually showing \"\u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930, CM, \u092c\u093f\u0939\u093e\u0930\" and \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\" alongside the other graphics."
+}

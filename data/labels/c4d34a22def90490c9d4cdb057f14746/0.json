@@ -1,0 +1,15 @@
+{
+  "video_id": "c4d34a22def90490c9d4cdb057f14746",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-483.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.388,
+    1.163,
+    1.938,
+    2.712
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, glasses, and white over-ear headphones sits in a room wearing a dark blue t-shirt. He is positioned in front of a microphone and a screen displaying the number \"20\". To his left, a Christmas tree decorated with colorful lights is visible. The man is speaking and gesturing with his hands. Initially, his arms are spread wide, but as the sequence progresses, he brings his hands closer to his body, gesturing emphatically toward his chest and face. His facial expression shifts from a wide-eyed, open-mouthed look of surprise or excitement to a more focused, intense expression while talking. The background remains static, featuring the decorated tree and the screen, while the only movement comes from the man's shifting posture and animated hand gestures."
+}

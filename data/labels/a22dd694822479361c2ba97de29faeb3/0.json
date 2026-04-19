@@ -1,0 +1,15 @@
+{
+  "video_id": "a22dd694822479361c2ba97de29faeb3",
+  "url": "./data/segments/3F2rz23IKUk-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.975,
+    8.925,
+    14.875,
+    20.825
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static white screen featuring a centered heading and a bulleted list of text. The heading reads, \"It doesn't have to be scary\". Below the heading, three bullet points provide information regarding copyright holders and legal actions. The first point states, \"Copyright holders simply want you to follow the rules they released their code under\", the second says, \"Legal action is always a last resort\", and the third reads, \"The easier it is for people to raise their concerns, the less likely it is to face any kind of legal trouble\". There are no people, objects, or logos visible in the scene. The image remains completely unchanging across all frames, with the text and layout staying in the exact same position."
+}

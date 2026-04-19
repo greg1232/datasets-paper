@@ -1,0 +1,15 @@
+{
+  "video_id": "d102289fb1af0382e43b65a5d8b9124b",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-273.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.613,
+    1.839,
+    3.066,
+    4.292
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey and white trucker hat with a circular logo, and black over-ear headphones sits in a studio. He is positioned in front of a professional microphone attached to a shock mount and a boom arm, which bears the brand name \"Blue\". The background consists of dark grey acoustic foam panels with a ribbed texture. Across the sequence, the man remains largely stationary, facing slightly to the right toward the microphone. His mouth is slightly open as if he is speaking. There is a tattoo visible on his right upper arm. The scene is consistent across the frames, with only subtle shifts in the man's facial expression and the position of his lips as he talks into the microphone."
+}

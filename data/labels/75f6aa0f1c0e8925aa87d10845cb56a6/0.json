@@ -1,0 +1,15 @@
+{
+  "video_id": "75f6aa0f1c0e8925aa87d10845cb56a6",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.105,
+    0.315,
+    0.525,
+    0.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a view from a dark tunnel looking out toward a bright soccer stadium. Red stadium seating fills the background, with the letters \"N A D\" visible on a banner across the stands. The Real Madrid club logo appears in the upper center of the scene. In the foreground, a row of red bucket seats faces the field, partially obscured by the shadows of the tunnel. The lighting is high-contrast, with the tunnel walls and the seats in the foreground remaining in deep shadow while the stadium beyond is brightly illuminated under a light blue sky with scattered clouds. Throughout the sequence, the camera remains completely static, and there are no people present. The scene is still, with no visible movement or changes occurring across the frames."
+}

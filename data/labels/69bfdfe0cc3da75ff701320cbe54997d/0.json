@@ -1,0 +1,15 @@
+{
+  "video_id": "69bfdfe0cc3da75ff701320cbe54997d",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A small, square electronic component sits centered on a plain, light-colored surface. The component is a dark gray or black integrated circuit package with gold-colored contact pins along its bottom edge and a grid of small, circular holes on its top surface. No people, text, or logos are visible in the scene. As time progresses, the camera's focus shifts, causing the object to appear sharp in the initial frames and gradually becoming blurred by the final frame. The lighting remains consistent throughout, casting a soft shadow beneath the component. The background is a neutral, featureless expanse, keeping the visual focus entirely on the small piece of hardware as it undergoes this change in focus."
+}

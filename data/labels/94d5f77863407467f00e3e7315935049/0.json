@@ -1,0 +1,15 @@
+{
+  "video_id": "94d5f77863407467f00e3e7315935049",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-118.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.335,
+    4.004,
+    6.673,
+    9.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a short beard and headphones sits in a studio against a dark gray acoustic foam wall. He wears a white t-shirt featuring a dark logo with the text \"Stay Authentic\" and \"Mind Your Own\". A professional silver microphone is positioned directly in front of him on a black boom arm. In the beginning, the man looks slightly to his left with a neutral expression. As time progresses, he turns his head toward the center and begins to smile and speak, opening his mouth as he engages with someone off-camera. His facial expressions shift from a contemplative look to an active, smiling conversation. Throughout the sequence, the background and equipment remain stationary while only the man's head and facial expressions move."
+}

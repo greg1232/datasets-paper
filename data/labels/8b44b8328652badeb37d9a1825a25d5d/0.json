@@ -1,0 +1,15 @@
+{
+  "video_id": "8b44b8328652badeb37d9a1825a25d5d",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-074.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people are performing a synchronized routine in a large ballroom with a blue carpeted floor and a coffered ceiling featuring ornate chandeliers. Several performers wear blue traditional Chinese-style attire, while others are dressed in white or black. In the sequence, the performers begin with their arms extended outward or raised. As the routine progresses, they move in unison, shifting their arm positions and stepping forward. One man in white takes a more central, active role, moving his arms in fluid, rhythmic motions. The performers in blue maintain a steady formation behind and beside him, mirroring certain movements. In the background, a seated audience is visible, watching the performance from the edges of the room. The scene transitions from a static, wide stance to more dynamic, flowing movements as the group coordinates their motions across the floor."
+}

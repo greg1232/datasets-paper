@@ -1,0 +1,15 @@
+{
+  "video_id": "3e1a40e03decad67fd7248a827e6f0b2",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-104.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    15.719,
+    47.156,
+    78.594,
+    110.031
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair, wearing a striped button-down shirt and a black headset with a microphone, is speaking in an indoor setting. She is positioned in front of light-colored walls and yellow curtains with a blue accent stripe. In the first frame, her eyes are nearly closed and her mouth is open as she speaks. By the second frame, her eyes are open and looking forward. In the final two frames, she continues talking while gesturing with both hands, bringing them up and slightly inward. The text \"Nancy Dameye\" appears in the bottom left corner of each frame. The background remains static throughout the sequence, with a neutral-toned surface visible behind her on the right side of the scene."
+}

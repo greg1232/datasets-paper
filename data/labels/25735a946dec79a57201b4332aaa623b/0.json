@@ -1,0 +1,15 @@
+{
+  "video_id": "25735a946dec79a57201b4332aaa623b",
+  "url": "./data/segments/3szCdVKgMug-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.634,
+    1.902,
+    3.17,
+    4.438
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A stationary shot captures a weathered stone pedestal topped with a spherical ornament, situated in a lush garden setting with weeping willow branches hanging from above. The background features green foliage, red flowers, and a glimpse of a white fence. Large, white, capitalized text is superimposed on the left side of the scene, reading, \"WHAT ACCOUNTS FOR CHANGE ACCORDING TO THE ATOMISTS?\". The camera remains completely still across the duration of the clip, and no people or moving objects are visible. There is no change in the environment, the positioning of the stone ornament, or the displayed text from the beginning to the end of the sequence, resulting in a static visual experience."
+}

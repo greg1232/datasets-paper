@@ -1,0 +1,15 @@
+{
+  "video_id": "da8f02e1fa99daa531c3eda0ce41b935",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser window featuring a complex concept map with nodes and connecting lines against a black background. A small inset video window in the top right corner shows a man wearing a dark shirt and a headset with a microphone. The browser's address bar contains several open tabs, including \"True Learning by Systemenics!\", \"Future of Society by Systemenics!\", and \"Rural Community Food System X\". A white rectangular overlay contains a blue diagram with several boxes and arrows. On the far right of the screen, a vertical side panel displays small profile icons and the text \"Guest Bedding\". Across the sequence of frames, the visual elements remain static; the man in the inset video remains in the same position, and there is no movement or change in the diagrams or the browser interface, indicating a frozen or still moment within the recording."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "de8a23f025ab1680d4e2c8bd21baf58e",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-747.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.224,
+    0.673,
+    1.121,
+    1.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap and a dark green t-shirt with the text \"ION NEVER DO\" and a large \"777\" graphic on the chest is speaking into a professional black microphone while wearing over-ear headphones. He is positioned in a room with a wall of framed photographs behind him and a white mannequin wearing a white shirt nearby. To his right, racks of clothing are visible. Throughout the clip, the man gestures with his right hand over his chest while speaking, with his facial expression shifting slightly as he talks. Two logos appear on screen: a circular logo on the left containing \"BEYOND\" and a red logo on the right that says \"BEYOND FELIX TOT\". The camera remains stationary as the man continues his conversation, with only his head and hand movements changing across the sequence."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ec9c5346ac4c578ee5ce5f56dff23acb",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.125,
+    1.875,
+    2.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a terminal window running a series of command-line operations. The interface is dark with white and green text, and a top status bar indicates \"Oct 28 00:22\". The terminal is split into two vertical panes. In the left pane, a user is executing Kubernetes commands, specifically using \"kubectl create\" to deploy configuration files such as \"-f /fluent-oct-configmap.yml\" and \"-f /fluent-oct-ds-mockups.yml\". The right pane displays a scrolling log of system messages featuring timestamps, \"msg='tail'\", and references to \"router\", \"logback\", and \"componenttailer\". As the sequence progresses, the user enters new commands in the left pane, causing the log in the right pane to update and scroll upward. The text \"Oct 28 00:22\" remains constant at the top of the screen throughout the sequence."
+}

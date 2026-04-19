@@ -1,0 +1,15 @@
+{
+  "video_id": "b30aa6dc331810c3def7444b2c7050ba",
+  "url": "./data/segments/3P1vSUbet40-Scene-0802.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.82,
+    5.459,
+    9.098,
+    12.737
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a black t-shirt that reads \"CHECK IT OUT\" and a black baseball cap, speaks into a professional microphone in a studio setting. He wears headphones over his ears and a gold chain around his neck. To his left is a white banner featuring gold stars and the text \"EMPIRE HUSTLE.\" In the background, a screen displays the word \"BOSS\" and \"TALK 101.\" Overlaid graphics on the screen include a logo that says \"BOSS TALK 101 PODCAST\" and a red and white banner reading \"BOSS TALK 101.\" Across the sequence, the man is actively gesturing with his hands to emphasize his points. He begins by raising his right index finger, shifts to a neutral speaking pose, and eventually opens both hands in an expansive gesture while continuing to address the microphone."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d1df4ecd4dfc0c2c66fc57d24ee5b4f6",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-088.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.331,
+    0.552,
+    0.773
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a graded sports trading card featuring a baseball player, identified by the text \"KEN GRIFFEY JR.\" on the card's label. The card is encased in a clear protective plastic slab. In the background, a man wearing a dark blue t-shirt is visible in a smaller inset window, sitting in front of a computer setup. The room is decorated with a tropical-themed backdrop featuring palm trees. On-screen text includes a logo and the website \"JASPYS CASEBREAKS.COM\" in red and black. Throughout the sequence, the hands slightly shift the angle of the graded card, tilting it to catch the light and show the holographic signature and the gold border of the card. The background elements, including the man in the inset and the surrounding environment, remain stationary as the focus stays on the movement of the trading card."
+}

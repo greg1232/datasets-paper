@@ -1,0 +1,15 @@
+{
+  "video_id": "09e8ed40f347d8028ab69a3dd395ca8e",
+  "url": "./data/segments/3Z229_lKLpk-Scene-121.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.6,
+    1.0,
+    1.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large assembly of people is gathered in a formal, tiered chamber, likely a legislative body. The room is filled with individuals seated in rows, many dressed in white or light-colored traditional Indian attire, such as kurtas, while some wear colorful turbans or waistcoats. They are seated behind long wooden desks equipped with small monitors. The room features high ceilings and ornate wooden paneling. Throughout the sequence, the scene remains static in terms of camera angle, showing a wide shot of the crowded hall. The people are primarily seated and facing forward, with some subtly shifting their posture or interacting with their devices. There is no visible on-screen text or logos. The movement between the frames is minimal, depicting a steady, quiet atmosphere of a formal session in progress."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a21d70e803d791c1cd392cb09ad4bc83",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-235.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser displaying a complex conceptual map against a dark background. The map consists of various circular icons containing images, connected by curved blue lines. Some icons are labeled with green text, such as \"Interdependence,\" \"Holistic,\" and \"Integrative.\" In the upper right corner, a small video inset shows a man with a light-colored hat and a dark shirt looking at the camera. The browser tabs at the top list several pages, including \"True Learning by Systemics,\" \"Future of Society by Systemics,\" and \"Insights | Introduction Ruins.\" A search bar contains the text \"blackoutsite true learning.\" Throughout the sequence, the layout of the conceptual map and the appearance of the man in the video inset remain static, with no visible movement or changes in the on-screen content across the frames."
+}

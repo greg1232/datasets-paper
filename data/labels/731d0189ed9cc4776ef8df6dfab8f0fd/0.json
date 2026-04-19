@@ -1,0 +1,15 @@
+{
+  "video_id": "731d0189ed9cc4776ef8df6dfab8f0fd",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.4,
+    1.2,
+    2.0,
+    2.8
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation takes place in a sterile, modern room with a white wall and light grey flooring. Three people are present: a man on the left wearing a dark navy blazer and blue jeans, a woman in the center wearing a red top under a dark cardigan and light-colored trousers, and a man on the right wearing a camouflage-patterned shirt and blue jeans. The woman is seated on a white stool behind a small white round table, while the men stand beside similar tables. Each table holds a small microphone. In the background, a vertical banner features a close-up image of praying hands and the text \"INTERACTIE\" followed by \"Samen praktijk en onderzoek\". The logo \"mediasite\" is visible at the top center of the scene. Across the sequence, the man on the left remains relatively stationary while gesturing slightly, the woman maintains her seated position, and the man on the right stands still, looking toward the others."
+}

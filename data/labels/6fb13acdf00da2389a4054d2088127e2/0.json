@@ -1,0 +1,15 @@
+{
+  "video_id": "6fb13acdf00da2389a4054d2088127e2",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-371.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.256,
+    0.427,
+    0.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grayscale video clip captures a close-up view of a coarse, textured surface, likely a road or pavement, with a faded white line visible across the upper half of the scene. The text \"PERFECT ACCURACY\" and \"BULLET PASS\" is overlaid in white capital letters in all four corners of the frame, remaining stationary throughout the sequence. A small, dark, jagged object enters from the left side of the screen and moves horizontally across the center toward the right. As the object progresses, it remains centered vertically between the top and bottom sets of text. The background remains static, and no people, clothing, or other equipment are visible in the shot. The only movement is the steady rightward trajectory of the dark object across the grainy surface."
+}

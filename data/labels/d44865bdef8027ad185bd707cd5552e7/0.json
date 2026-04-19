@@ -1,0 +1,15 @@
+{
+  "video_id": "d44865bdef8027ad185bd707cd5552e7",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-150.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.37,
+    1.11,
+    1.85,
+    2.59
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast displays a group of men seated at a long table in a conference room, with a large white backdrop behind them featuring the word \"INDIA\" in bold black letters. The men are dressed in formal attire, mostly white shirts or traditional Indian wear. Several small inset portraits of men appear on the left and right sides of the screen. The \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo is visible in the top right corner of each frame. Red and yellow banners at the bottom and top provide Hindi text. In the initial frames, the top text reads \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091b\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u093c\u0940 \u0939\u0948\" and the bottom ticker says \"JDU \u0915\u094b\u091f\u0947 \u0938\u0947 \u092e\u0902\u0924\u094d\u0930\u0940 \u092c\u0928\u0947 \u0935\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\". As the scene progresses, the top banner changes to \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\" and the bottom ticker updates to \"BJP \u0938\u0947 \u0921\u0949. \u092a\u094d\u0930\u0947\". The time \"10:08 PM\" is displayed in the bottom right corner."
+}

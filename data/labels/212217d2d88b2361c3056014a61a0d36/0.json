@@ -1,0 +1,15 @@
+{
+  "video_id": "212217d2d88b2361c3056014a61a0d36",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, gray hair and glasses, wearing a black suit jacket, is seen in profile facing left in a formal indoor setting. He appears to be speaking or listening during a meeting. To his left, another person is partially visible, wearing a black vest over a white shirt and holding a professional camera. In the background, a red bag with a cartoon chick illustration and a silver thermos sit on a surface. An on-screen graphic at the bottom features the logo \"ORCA\" and the text \"April 12, 2019,\" \"House Committee on General, Housing, and Military Affairs,\" and a green bar stating \"S.23 Increasing the Minimum Wage.\" Across the sequence, the man in the suit remains the central focus, slightly shifting his head and expression, while the person with the camera remains mostly stationary in the background."
+}

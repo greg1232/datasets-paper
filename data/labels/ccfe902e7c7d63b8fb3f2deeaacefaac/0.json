@@ -1,0 +1,15 @@
+{
+  "video_id": "ccfe902e7c7d63b8fb3f2deeaacefaac",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-170.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A surfer wearing a dark wetsuit rides inside the tube of a large, cresting ocean wave under a cloudy sky. Large, stylized white 3D text animates across the center of the scene, rotating and unfolding. In the earliest stage, the letters are fragmented and distorted, but as the sequence progresses, they align to form a coherent phrase. By the end of the clip, the text clearly reads \"Technicians Hour,\" though it is preceded by partially obscured words. The surfer remains positioned deep within the wave's barrel, gliding forward as the white foam of the crest crashes behind them. The camera maintains a steady side profile of the wave's curve, capturing the fluid motion of the water and the dynamic movement of the rotating typography overlaying the action."
+}

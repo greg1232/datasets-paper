@@ -1,0 +1,15 @@
+{
+  "video_id": "5101f458512668f9ccec390eaa07d86d",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.755,
+    2.265,
+    3.775,
+    5.284
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot captures a vehicle's digital instrument cluster. The screen displays the text \"BRAKE\" accompanied by a red warning icon, followed by the instruction \"Press Brake and Push Button to Start\" and a mileage reading of \"20434 mi.\" To the right, a circular gauge with red markings and numbers including 0, 20, 40, 60, 80, and 100 is visible. In the initial frames, the display is clear and focused. As the sequence progresses, a blurry, bright object moves across the foreground, partially obscuring the view of the screen and gauges. This movement creates a lens flare effect and a significant loss of focus, causing the text and gauge markings to become blurred and distorted by the end of the clip. No people are visible in the scene."
+}

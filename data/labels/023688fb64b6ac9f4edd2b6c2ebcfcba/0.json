@@ -1,0 +1,15 @@
+{
+  "video_id": "023688fb64b6ac9f4edd2b6c2ebcfcba",
+  "url": "./data/segments/3fokLGPK15Q-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.825,
+    2.475,
+    4.125,
+    5.775
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A blonde woman wearing a black t-shirt and a flesh-colored headset microphone stands against a solid purple background. Her shirt features white text that reads \"WHO'S IN YOUR\". In the first frame, she is looking toward her right with a slight smile. By the second frame, she turns to face forward, her expression becoming more serious as she begins to speak. In the third frame, she looks back toward her right, smiling broadly and gesturing with both hands, which are partially visible at the bottom of the frame. In the final frame, she faces forward again with a neutral expression, her right hand slightly raised in a gesture. Throughout the sequence, her posture and facial expressions shift as she communicates, while the background and her attire remain constant."
+}

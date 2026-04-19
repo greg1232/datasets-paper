@@ -1,0 +1,15 @@
+{
+  "video_id": "d3681024681be3f9ed0283ac11ed40c4",
+  "url": "./data/segments/3F2rz23IKUk-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.935,
+    20.805,
+    34.675,
+    48.545
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with fair skin, glasses, and brown hair stands in a sparsely furnished room with light-colored walls. He is wearing a black t-shirt featuring a graphic and the text \"Keith\", along with a blue lanyard and an identification badge hanging around his neck. Behind him is a white board or wall panel. In the foreground, the top of a black office chair is partially visible. As the sequence progresses, the man is speaking and gesturing with his hands. In the initial moments, he raises his hands to emphasize a point; as time passes, his arms lower, and he shifts his posture slightly while continuing to speak. His facial expressions change subtly as he delivers his presentation, though he remains the sole person visible in the scene throughout the clip."
+}

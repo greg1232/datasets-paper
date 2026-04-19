@@ -1,0 +1,15 @@
+{
+  "video_id": "8461528c86370ac535de46ef60cf53c7",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-474.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.202,
+    0.606,
+    1.01,
+    1.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip features a person in a small inset window on the left and a large digital football player card on the right. The person is a man with light-colored hair wearing a dark t-shirt, positioned in a room with a decorated Christmas tree visible behind him. To his right is a purple card for \"DAVID MAYO\" with the \"LOLB\" label and a \"92 OVR\" rating. The card displays a player in a red \"COMMANDERS\" jersey with the number \"61\" and the phrase \"Merry Mut-mas\" written across the bottom. A green cartoonish face icon is positioned between the man and the card. As the sequence progresses, the man's facial expression changes from a neutral look to one of excitement, opening his mouth and gesturing with his hand. The digital card and its associated text, including \"RUN STOPPER,\" remain static throughout the sequence."
+}

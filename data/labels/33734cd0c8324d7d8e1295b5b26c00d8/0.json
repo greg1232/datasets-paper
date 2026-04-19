@@ -1,0 +1,15 @@
+{
+  "video_id": "33734cd0c8324d7d8e1295b5b26c00d8",
+  "url": "./data/segments/3Sq594WkayE-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.24,
+    3.719,
+    6.198,
+    8.677
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is shown in a close-up shot, wearing a dark-colored hooded garment. They hold a small, green plant sprig to their nose and mouth, appearing to smell it. The scene then transitions to a wide shot of a beach under an overcast sky, where white waves are breaking and rolling toward the shore across a greyish-blue ocean. The footage then becomes distorted with a semi-transparent overlay and visual artifacts that blur the image of the crashing waves. The sequence concludes with a clear view of the surf continuing to wash onto the sandy coastline, maintaining the same muted, cool color palette throughout the coastal imagery. There are no visible logos or on-screen text."
+}

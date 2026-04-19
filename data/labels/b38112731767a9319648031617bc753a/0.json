@@ -1,0 +1,15 @@
+{
+  "video_id": "b38112731767a9319648031617bc753a",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.746,
+    2.238,
+    3.729,
+    5.221
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short blonde hair, wearing a black top, appears in a circular inset window on the left side of the screen. The main view shows a top-down perspective of a kitchen setting, featuring a light-colored tiled countertop. On the counter, there is a large metal mixing bowl, a silver fish, a red kitchen tool, and a rectangular metal baking tray containing some light-colored food remnants. In the top-left corner of the screen, the text \"UCAR CENTER FOR SCIENCE EDUCATION\" is visible next to a logo consisting of three wavy lines. Across the sequence, the scene remains static with very little movement. The woman in the inset remains in a similar position, staring toward the camera with a neutral expression, while the objects on the countertop stay still."
+}

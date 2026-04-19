@@ -1,0 +1,15 @@
+{
+  "video_id": "16f755bd6356780792cc5f42031b06fa",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-501.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.089,
+    0.266,
+    0.443,
+    0.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair styled in braids and a bun sits in a studio setting, wearing a dark green t-shirt. She is positioned behind a black table with a professional microphone on a boom arm in front of her. To her left and behind her are blue and white banners. One banner features the text \"BOSS TALK 101\" and the phrase \"It's A Unique Hustle.\" Another banner behind her contains the words \"PODCAST,\" \"Talk About It!,\" and \"with Us.\" A smaller logo on the table reads \"BOSS TALK 101.\" To the far left, a framed picture showing a close-up of hands is visible on the wall. Throughout the sequence, the woman remains seated and maintains a similar posture, gazing slightly to her right with a neutral expression, while the scene remains static with no significant movement or changes in the environment."
+}

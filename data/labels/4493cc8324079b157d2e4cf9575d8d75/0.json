@@ -1,0 +1,15 @@
+{
+  "video_id": "4493cc8324079b157d2e4cf9575d8d75",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-107.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.575,
+    1.725,
+    2.875,
+    4.025
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a video conferencing session over a digital mind-mapping tool. In the top right corner, a man with short gray hair and glasses is visible in a small inset video feed. The main screen shows a dark background with a network of interconnected nodes and icons. A central node features a cartoon illustration of a shopping cart with the word \"SALE\" written in bold letters. Surrounding this are several smaller circular nodes containing profile photos of various people and illustrative icons. Legible on-screen text includes browser tabs at the top, such as \"True Learning by Systemyn\", \"Elements by Systemyn\", \"Future of Society by Systemyn\", and \"Insights > Introduction > Kumu\". A side menu includes text like \"time Sequence\" and \"Guest Builder\". Throughout the frames, the layout remains static, with no visible movement or changes in the interface or the man's expression."
+}

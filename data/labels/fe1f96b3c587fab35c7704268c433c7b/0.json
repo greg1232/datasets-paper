@@ -1,0 +1,15 @@
+{
+  "video_id": "fe1f96b3c587fab35c7704268c433c7b",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-769.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, black headphones, a black hoodie with \"BOSS\" in gold lettering, and a gold watch is speaking into a professional studio microphone. He is seated in a studio with a white background featuring a repeating logo that includes stars and the text \"HUSTLE\". Behind him, a blue and red sign reads \"Where BOSSES Talk!\" and \"TK 101\". A black microphone arm and a black mug with red text that says \"TALK OUT\" are visible on the desk in front of him. As the sequence progresses, the man continues to speak, shifting his facial expressions and slightly moving his head and shoulders. In the bottom left corner of the scene, a small logo contains the words \"TALK OUT\". The environment remains static while the man is the only source of movement."
+}

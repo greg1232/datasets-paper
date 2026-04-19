@@ -1,0 +1,15 @@
+{
+  "video_id": "5025a8ffd47d5ebaf4daa05a12d5217c",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-451.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.109,
+    0.328,
+    0.547,
+    0.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair tied in a high bun and wearing headphones sits behind a desk in a studio setting. She is dressed in a dark green t-shirt featuring a red and white graphic. In front of her is a professional microphone on a stand. Behind her is a black backdrop with white and red text and logos, including the phrases \"BESS TALK 101,\" \"It's A Unique Hustle,\" \"PODCAST,\" and \"Talk About It!\". A framed image of a person's hands is visible on the wall to the left. Throughout the sequence, the woman remains seated, shifting her gaze and slightly changing her facial expression as she looks downward and to her left. Small logos for \"BESS TALK 101\" appear in the lower corners of the scene. The camera remains stationary, capturing her from the chest up as she engages with something off-screen."
+}

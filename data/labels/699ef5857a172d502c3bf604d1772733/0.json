@@ -1,0 +1,15 @@
+{
+  "video_id": "699ef5857a172d502c3bf604d1772733",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-112.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.234,
+    0.701,
+    1.168,
+    1.635
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting, three individuals are seen interacting. A man with glasses and a black face mask, wearing blue scrubs, is seated and speaking, gesturing with his right hand. Beside him, a woman with long dark hair, dressed in a black blazer and a blue shirt, listens attentively with her hand resting on her chin. In the foreground, the back of a third person's head and shoulder are visible, also wearing blue scrubs. As the sequence progresses, the man in scrubs continues to speak and move his hand, while the woman remains in a listening posture. A purple graphic featuring a silhouette and the text \"Day 4\" appears in the lower-left corner of each scene, and a logo with the text \"Sim Week\" is visible in the lower-right corner. The background consists of plain, light-colored walls and office chairs."
+}

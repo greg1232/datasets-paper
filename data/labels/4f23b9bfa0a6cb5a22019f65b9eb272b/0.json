@@ -1,0 +1,15 @@
+{
+  "video_id": "4f23b9bfa0a6cb5a22019f65b9eb272b",
+  "url": "./data/segments/3o6LBa7ZAp0-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.993,
+    17.98,
+    29.967,
+    41.954
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men in dark suits and ties sit at a long conference table against a patterned grey wall. The man on the left wears glasses and a light-colored tie, while the man on the right wears a red tie. On the table are microphones, water bottles, and nameplates, one of which reads \"Mahmood AHMED\". The logo \"POLICY\" is visible on the wall in the background. In the beginning, the man on the left touches his forehead while the man on the right speaks and gestures with his hand. As time progresses, the man on the left lowers his hand and eventually takes a sip from a glass of water. Meanwhile, the man on the right stops speaking and looks down, resting his hand on the table. The scene remains static in terms of location, with only the subtle movements and gestures of the two men changing across the sequence."
+}

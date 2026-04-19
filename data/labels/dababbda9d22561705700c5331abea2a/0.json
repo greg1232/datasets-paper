@@ -1,0 +1,15 @@
+{
+  "video_id": "dababbda9d22561705700c5331abea2a",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.678,
+    2.033,
+    3.389,
+    4.744
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A tablet displays a software interface titled \"Alpha Szenszor eNose v1.0.14\" against a neutral indoor background. The screen features a line graph plotting \"Current (\u00b5A)\" over \"Time (s),\" showing several decaying curves. Below the graph is a \"STOP\" button and a \"Resting (5s)\" section containing a comprehensive list of sensor channels, from \"Channel 1\" to \"Channel 22,\" each accompanied by a yellow indicator light. As the sequence progresses, a hand enters the frame from the right, holding a small, thin object that appears to be a sensor or probe. The hand moves the object toward the tablet's screen, though the software interface remains static throughout the clip. The focus remains on the technical readouts and the interaction between the handheld device and the electronic display."
+}

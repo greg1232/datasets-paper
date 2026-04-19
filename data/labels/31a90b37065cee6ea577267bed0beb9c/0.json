@@ -1,0 +1,15 @@
+{
+  "video_id": "31a90b37065cee6ea577267bed0beb9c",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.279,
+    0.837,
+    1.396,
+    1.954
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An airplane with a white body and a thin purple stripe along its fuselage taxiing on an airport runway. The aircraft features a T-tail and rear-mounted engines, with the word \"POLSKA\" visible on its side. In the background, two helicopters are parked on a grassy area near tall communication masts and a red-and-white striped chimney. The sky is an overcast, pale grey. A red circular logo containing the number \"13\" appears in the top right corner of each scene. As the sequence progresses, the airplane slowly moves from left to right across the frame. The background remains static, with the helicopters and industrial structures staying in position as the aircraft passes them. The lighting is flat and diffused, consistent with a cloudy day."
+}

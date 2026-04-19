@@ -1,0 +1,15 @@
+{
+  "video_id": "21d38f7ed769f1f3dad8a23cf7ad9f35",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-236.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.196,
+    0.588,
+    0.98,
+    1.372
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large ocean wave curls over a surfer in a dark suit, who is partially visible beneath the crest. Overlaid on the scene is white, stylized 3D text that evolves throughout the clip. Initially, the text is distorted and swirling, echoing the shape of the breaking wave. As time progresses, the text stabilizes and expands to reveal the full title. By the end of the sequence, the phrase \"the Tiger Technicians Hour\" is clearly legible, stretched across the center of the frame in a bold, italicized font. The backdrop remains a dynamic shot of a crashing wave with white foam and a deep blue ocean, while the camera remains steady on the surfer positioned within the tube of the wave."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "fd3085517e69e55e920cfbb97e7bf338",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-093.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.371,
+    1.114,
+    1.856,
+    2.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation room, a group of healthcare professionals and students are gathered around a patient mannequin lying on a hospital bed covered by a white sheet. A person in pink scrubs and blue gloves stands to the left, while another in a dark blue scrub top and blue pants assists. A woman in a black long-sleeved shirt and blue gloves performs a procedure on the mannequin's chest, while other observers in scrubs and masks stand in the background. The room contains various medical monitors, equipment, and a small table in the foreground holding a blue container and other supplies. The scene progresses as the woman in black adjusts her position and hands move closer to the patient. On-screen text in the bottom corners of the video reads \"Day 3\" and \"Sim Week,\" accompanying a small purple graphic."
+}

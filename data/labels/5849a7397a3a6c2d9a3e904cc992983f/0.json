@@ -1,0 +1,15 @@
+{
+  "video_id": "5849a7397a3a6c2d9a3e904cc992983f",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-170.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.14,
+    0.42,
+    0.7,
+    0.98
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a scene of Prime Minister Narendra Modi, wearing a light-colored garment, standing behind a podium and pressing his hands together in a namaste gesture. He is positioned against a dark backdrop with blurred figures behind him. The screen is filled with various news graphics, including portraits of political figures such as Nitish Kumar and Dr. Prem Kumar. A red ticker at the bottom reads \"PM \u092e\u094b\u0926\u0940 \u0928\u0947 \u0939\u0940\u091f \u0915\u0930 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930 \u0915\u094b \u092c\u0927\u093e\u0908 \u0926\u0940\" and displays the time \"10:09 PM\". In the upper right, a \"NEWS 18\" logo is visible. As the sequence progresses, the visuals transition from a shot of Modi to a graphic overlay featuring Nitish Kumar and another man, with bold white text stating \"\u0928\u0940\u0924\u0940\u0936 \u0939\u093f\u091f \u0932\u093e\u0932\u0942 \u092b\u094d\u0932\u0949\u092a!\". A woman in a yellow suit appears in a small inset window, reporting on the situation. The overall layout remains consistent with news channel branding and scrolling headlines."
+}

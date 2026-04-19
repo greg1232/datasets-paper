@@ -1,0 +1,15 @@
+{
+  "video_id": "8587b54081fd7819ffd91e059a205bb1",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.029,
+    3.087,
+    5.146,
+    7.204
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor gymnasium with blue walls, a polished wooden floor, and blue bleachers, a person wearing a pink sleeveless top and black shorts plays with a basketball. In the initial scene, the person stands on a black rectangular section of the court, holding a basketball and preparing to throw it. As the sequence progresses, the person launches the ball upward and forward toward the right side of the frame. The ball travels through the air, momentarily disappearing from view as the person follows through with their motion, lunging forward with arms extended. Finally, the person comes to a stop and stands upright, watching as the ball reaches the peak of its arc. A basketball hoop with a white backboard and red rim is visible in the background, along with a green circular section of the court floor."
+}

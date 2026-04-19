@@ -1,0 +1,15 @@
+{
+  "video_id": "ccf559d9636b9aa4d4a46f411d0dcc4c",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.775,
+    26.325,
+    43.875,
+    61.425
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"Logging in Kubernetes Workflow\" is shown, with the subtitle \"Container Streaming Logs over stdout / stderr\". The slide features a diagram with a \"Master\" section containing a blue Kubernetes logo and a \"Metadata / Context\" box listing \"Host\", \"Labels\", \"Pod Name\", \"Container Name\", \"Pod ID\", and \"Annotations\". Below this, a JSON-style log snippet is displayed, including the text '\"log\":\"78.170.117.242 - - [19/Nov/2020:22:06:45 +0000] \\\"GET /go HTTP/1.0\\\" 200 2216in\", \"stream\":\"stdout\", \"time\":\"2020-11-19T22:06:45.785285125Z\"'. In the top right corner of the screen, a small video inset shows a woman with long dark hair wearing a pink top, looking toward the camera. Across the frames, the visual content of the slide and the woman in the inset remain static, with no discernible movement or change in the scene."
+}

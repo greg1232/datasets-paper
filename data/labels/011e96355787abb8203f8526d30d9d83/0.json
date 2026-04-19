@@ -1,0 +1,15 @@
+{
+  "video_id": "011e96355787abb8203f8526d30d9d83",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-090.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.41,
+    1.23,
+    2.05,
+    2.87
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news report features a man in a grey vest and light-colored shirt speaking into a cluster of microphones, including one with an \"ANI\" logo and another with a \"PTC\" logo. He is surrounded by several other people, including men and women, some of whom are wearing scarves. In the top left frame, the on-screen text at the top reads \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091b\u0920\", while the others display \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". A red and yellow banner at the bottom across all frames states \"BREAKING NEWS\" and lists the time as \"10:05 PM\", with a \"MAHARASHTRA\" label. The right side of the screen shows small portrait photos of men with accompanying text: \"\u092e\u0902\u0924\u094d\u0930\u0940 \u0935\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\" and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930\". The left side of the screen shows portraits of men with text including \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\". The speaker's expressions and the positions of the people around him shift slightly as the scene progresses."
+}

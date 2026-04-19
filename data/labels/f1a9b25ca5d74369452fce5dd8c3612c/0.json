@@ -1,0 +1,15 @@
+{
+  "video_id": "f1a9b25ca5d74369452fce5dd8c3612c",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men are seated side-by-side in an indoor setting, appearing in a reaction-style video. The man on the left wears a grey t-shirt and maintains a skeptical facial expression, while the man on the right wears a similar grey t-shirt and a necklace, resting his chin on his hand. They are positioned in front of a large television screen that displays the text \"OUR STUPID REACTIONS\" in glowing yellow letters. Behind them, a shelf is filled with numerous CDs or DVDs. An inset video window plays in the center of the screen, showing a cinematic scene with figures in a courtyard. As the video progresses, the content of the inset window shifts, showing different angles of a character in a flowing purple garment moving through a scene. The two men remain mostly stationary, their focused and unimpressed expressions barely changing as they watch the footage."
+}

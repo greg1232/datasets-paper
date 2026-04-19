@@ -1,0 +1,15 @@
+{
+  "video_id": "23223c87e61eb376529f44fd0b50c78d",
+  "url": "./data/segments/3QD9oO6sRns-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.394,
+    1.181,
+    1.969,
+    2.756
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is seen interacting with a white box on a table, set against a backdrop of numerous black and red boxes labeled \"CLEARLY AUTHENTIC\". The table is covered with a mat featuring the text \"Sports Cards & Collect\". A small inset video in the lower right corner shows a man wearing a black baseball cap and a black t-shirt. Logos for \"JASPERS CASEBREAKS.COM\" appear on the backdrop and as an overlay next to the inset video. As the sequence progresses, the hand pushes the white box across the table and then uses a tool to cut into the top of the packaging. The white box is positioned atop a larger black box with the word \"BREAKS\" visible. The background remains static while the hand performs the action of opening the sports card product."
+}

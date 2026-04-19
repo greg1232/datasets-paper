@@ -1,0 +1,15 @@
+{
+  "video_id": "e9c944dd2aa4a55ba0cc012b6c9b3f48",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-218.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.385,
+    1.155,
+    1.925,
+    2.695
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser displaying a complex mind map or network diagram on a dark background. The diagram consists of various circular icons, including figures of people and symbols, connected by blue curved lines. Some nodes contain text such as \"Insights -> introduction Runo,\" \"Involved People,\" and \"Invisible Things.\" A browser tab at the top reads \"Trust & Learning by Systemeni\" and another says \"Future of Society by Systemeni.\" In the upper right corner of the screen, a small video inset shows a man wearing a dark baseball cap and a dark shirt, appearing to be in a call or presentation. As the video progresses, the man's video feed vanishes and reappears, and a vertical sidebar on the right flickers, showing a name that reads \"Santi Rodriguez.\" The main network diagram remains static throughout the sequence."
+}

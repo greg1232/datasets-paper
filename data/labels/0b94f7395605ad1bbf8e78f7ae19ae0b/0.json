@@ -1,0 +1,15 @@
+{
+  "video_id": "0b94f7395605ad1bbf8e78f7ae19ae0b",
+  "url": "./data/segments/3QD9oO6sRns-Scene-085.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.227,
+    0.681,
+    1.135,
+    1.59
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a clear plastic protective case containing a baseball card featuring a player in a white uniform. In the initial sequence, the person grips the case, shifting their hold to better display the card. The background is a cluttered workspace with numerous white and grey boxes stacked behind the person. A small inset video window shows a man wearing a black t-shirt and a black baseball cap sitting at a desk. On-screen graphics include red and white text that reads \"PYS EBREAKS\" and \"CASEBREAKS.com,\" along with the name \"JASM\" appearing near the inset video. As the sequence progresses, the person tilts the card case to show different angles of the card and its enclosure, eventually holding it more steady for the camera. The lighting is bright, reflecting off the plastic surfaces of the case and the surrounding packaging."
+}

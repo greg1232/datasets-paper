@@ -1,0 +1,15 @@
+{
+  "video_id": "b761d6406f41806ab045834c43c512e1",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.331,
+    0.552,
+    0.773
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair and glasses wears a dark blue t-shirt and white headphones while speaking into a black microphone. He is positioned in front of a screen displaying a blue-toned image and a decorated Christmas tree with glowing green and white lights. To the left of the man, large white text reads \"HEIGHT\" above the measurement \"5' 10\"\". The background consists of a solid purple gradient. Throughout the sequence, the man remains in the same position, though his facial expression and mouth position shift slightly as he speaks. The on-screen text and background elements remain static, and no other people or significant changes occur in the scene."
+}

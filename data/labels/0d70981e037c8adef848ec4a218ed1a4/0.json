@@ -1,0 +1,15 @@
+{
+  "video_id": "0d70981e037c8adef848ec4a218ed1a4",
+  "url": "./data/segments/3QD9oO6sRns-Scene-084.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.86,
+    2.581,
+    4.302,
+    6.023
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a graded sports card encased in a clear plastic slab. The card features baseball player Jorge Soler of the Kansas City Royals, showing him in a batting stance wearing a white jersey and blue helmet. The card is labeled \"ROYALS\" and \"JORGE SOLER\" in bold text. As the person tilts the slab, light reflects off the plastic surface, partially obscuring the image of the player. In the background, a man wearing a black baseball cap and a black t-shirt is visible within a small inset window. This inset shows him sitting in front of a desk with various sports card supplies and boxes. On-screen graphics include the \"JASMINE\" logo and the website \"CASEBREAKS.com.\" The word \"BREAKS\" is partially visible in large letters at the bottom of the scene. The background is a blurred room with stacked boxes."
+}

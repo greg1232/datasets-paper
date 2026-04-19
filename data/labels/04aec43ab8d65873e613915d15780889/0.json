@@ -1,0 +1,15 @@
+{
+  "video_id": "04aec43ab8d65873e613915d15780889",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-128.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser window displaying a digital mapping tool against a black background. A network of circular nodes is connected by blue lines, with a small profile picture of a person labeled \"Justin Blocking\" highlighted in green. A larger rectangular window is open over the map, featuring a black-and-white illustration of two people talking in a landscape and the text \"SLUM EXAMPLE\". Next to the illustration, text reads \"WHY YOU DESERVE JUST BECAUSE YOU HAVE MONEY DOES NOT GIVE YOU THE RIGHT TO OCCUPY ANY SPACE\". In the top right corner, a video call window shows a man with a light-colored shirt and a grey cap. Across the frames, the screen remains static, with the layout of the browser tabs, the network map, the illustration window, and the video call feed remaining unchanged."
+}

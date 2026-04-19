@@ -1,0 +1,15 @@
+{
+  "video_id": "1f4072097e234bf5ebc561496da85931",
+  "url": "./data/segments/3P1vSUbet40-Scene-1049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.136,
+    0.407,
+    0.678,
+    0.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde-highlighted hair styled in a high bun and wearing black headphones is seated in a recording studio. She is dressed in a black t-shirt and is positioned in front of a professional microphone. In the background, a screen displays the name \"ohnson\" and a sign on the wall reads \"Employees Only.\" A logo on the screen and overlaying the image includes the text \"BOSS TALK 101\" and \"PODCAST,\" accompanied by a graphic of a microphone. The woman maintains a slight smile and a steady gaze toward someone off-screen, with very little physical movement across the sequence. The setting remains static, with the lighting and composition constant throughout the frames, capturing her listening or waiting to speak during a podcast recording session."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "824daa1b8046efd0a70a781f8abf2e8e",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-082.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.409,
+    1.226,
+    2.044,
+    2.861
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a beard is recorded in a studio setting against a dark, vertically ribbed acoustic foam wall. He wears a black jacket over a grey shirt and has large black over-ear headphones on his head. A professional condenser microphone on a black boom arm is positioned directly in front of his mouth. As the sequence progresses, the man shifts his facial expressions while speaking. In the beginning, he looks forward with his eyes partially closed, then opens them and gazes slightly to his right. He then shifts his eyes further to the right with a slight smirk, before closing his eyes and smiling broadly. The background, clothing, and equipment remain static throughout the sequence, while only the man's head and facial expressions move."
+}

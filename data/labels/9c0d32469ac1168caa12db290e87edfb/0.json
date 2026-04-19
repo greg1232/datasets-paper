@@ -1,0 +1,15 @@
+{
+  "video_id": "9c0d32469ac1168caa12db290e87edfb",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-378.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.65,
+    1.95,
+    3.25,
+    4.55
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An American football game is played on a green turf field marked with white yard lines and the word \"COMMANDERS\" in large white letters. Players from two teams compete; one team wears white jerseys and pants, while the other wears black uniforms. In the first half of the sequence, offensive players in white clash with defensive players in black near the line of scrimmage. On-screen graphics display \"1st & 10\" and a score of \"14\" to \"7,\" while a timer shows \"3:20\" in the \"3rd\" quarter. A small inset video window in the lower-left corner shows a blonde man in a dark blue shirt. As the sequence progresses, the players scatter across the field during a play, and the graphic updates to \"2nd & 9\" with the clock moving to \"3:03\" and \"3:02.\" A green circular marker with \"22\" appears on the field over a player."
+}

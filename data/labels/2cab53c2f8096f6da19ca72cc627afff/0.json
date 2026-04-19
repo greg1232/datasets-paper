@@ -1,0 +1,15 @@
+{
+  "video_id": "2cab53c2f8096f6da19ca72cc627afff",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.754,
+    2.262,
+    3.771,
+    5.279
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a black t-shirt with a yellow logo, is presented in a picture-in-picture overlay in the bottom right corner of a screen. He is seated in a room with a computer monitor and other equipment visible behind him. The main screen display consists of a Google Sheets spreadsheet titled \"TH 5/13 - 2021 TOPPS TRANSCENDENT COLLECTION HALL OF FAME EDITION BASEBA...\". A separate inset window shows a cardboard box with the word \"TRANSCENDENT\" printed on it. At the bottom of the screen, a red banner contains the text \"Hit the SUBSCRIBE button down below!\" next to a red \"Subscribe\" button, and a website address reads \"WWW.JAEPYSKALEBREAKS.COM\". Between the initial and final frames, the spreadsheet is updated to include a list of items, starting with \"(1) 1989 Topps Baseball Superfoot Autograph #1 of 1\"."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "09fa8b9be2f0e8c03e2048c4f0044f53",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.562,
+    0.787
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a terminal window filled with lines of technical log data and configuration text. The screen is split, showing the same content repeated side-by-side. Legible text includes configuration directives like \"Merge_Log On\", \"log_processed\", and \"KBS.Logging.Enable on\", as well as log entries containing timestamps and identifiers such as \"level=info t=2020-10-28T06:21:35.27428220Z\". Other visible terms include \"output-loki.conf\", \"parsere.conf\", and \"name loki\". The content is presented in a monospaced font against a dark background, typical of a command-line interface or a text editor. Throughout the sequence, the image remains static, with no movement, changes in text, or changes in the layout of the window. No people or physical locations are visible beyond the digital interface."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2e9c2370196cebe562515dde3c7c66d3",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.491,
+    10.473,
+    17.455,
+    24.437
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A House Committee meeting takes place in a professional room with wood paneling and a screen displaying a chart. Three men are seated at a table. On the left, a bald man in a dark suit and glasses looks toward the center. In the middle, a man with curly hair, a beard, and a dark blazer over a light shirt gestures with his hand while speaking. To the right, a man in a light-colored shirt and a grey sweater vest sits with his back partially to the camera. On the table are water bottles, papers, and a white cup. On-screen text at the bottom reads \"ORCA House Committee on General, Housing, and Military Affairs,\" with the date \"April 12, 2019\" and a green bar stating \"S.23 Increasing the Minimum Wage.\" As the scene progresses, the man in the blazer stops gesturing and eventually rests his hand on his chin, while the other men remain seated."
+}

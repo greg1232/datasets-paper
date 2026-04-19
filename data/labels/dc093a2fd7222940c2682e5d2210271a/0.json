@@ -1,0 +1,15 @@
+{
+  "video_id": "dc093a2fd7222940c2682e5d2210271a",
+  "url": "./data/segments/3jaAcpqJEbg-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.408,
+    4.225,
+    7.042,
+    9.858
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head stands behind a dark lectern in front of a blue illuminated backdrop. He is wearing a blue t-shirt with the word \"exotel\" printed on the chest and a white lanyard with an identification badge around his neck. The backdrop features recurring blue logos and white text that reads \"rootconf\" and \"has geek\". To the right of the lectern, a small yellow hashtag symbol \"###\" is visible. The man stands still, facing forward toward the camera with a neutral expression. Across the sequence of frames, there is no significant movement or change in the scene; the man remains in the same position and posture, and the background lighting and logos remain constant, indicating a static shot of the presenter."
+}

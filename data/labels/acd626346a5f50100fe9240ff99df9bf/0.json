@@ -1,0 +1,15 @@
+{
+  "video_id": "acd626346a5f50100fe9240ff99df9bf",
+  "url": "./data/segments/3l84m5pRmyk-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.271,
+    0.813,
+    1.356,
+    1.898
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a static shot of a promotional backdrop in a professional setting. The background consists of a white wall featuring repeating blue cube logos and the text \"#BigDataSV\" followed by \"2015\" and \"theCUBE\" in smaller lettering. To the left of the backdrop, a professional studio light is visible, casting illumination on the scene. There are no people present in the frames. The scene remains virtually unchanged throughout the clip, with only minor variations in lighting and image quality between the frames, maintaining a consistent view of the event branding and equipment."
+}

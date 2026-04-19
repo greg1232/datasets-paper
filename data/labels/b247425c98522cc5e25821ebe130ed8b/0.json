@@ -1,0 +1,15 @@
+{
+  "video_id": "b247425c98522cc5e25821ebe130ed8b",
+  "url": "./data/segments/3IrHmvnGXTc-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair wearing a white and grey checked button-down shirt is speaking in a studio setting. He sits in a brown leather chair in front of a black wall, with a large screen displaying a teal and blue geometric design behind him. A professional black microphone on a boom arm is positioned directly in front of his face. Throughout the sequence, the man is talking, with his mouth open and facial expression shifting as he speaks. He begins with his hands out of view, but as the sequence progresses, he raises his hands and uses expressive gestures to emphasize his points, moving his arms and fingers in the air. The camera angle remains a static medium shot, focusing on his upper body and the equipment in front of him."
+}

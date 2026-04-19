@@ -1,0 +1,15 @@
+{
+  "video_id": "9deaa2e5b2f8e2848e0b32b4b51c1037",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.256,
+    0.427,
+    0.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen preparing to open a collection of trading card packs. In the initial scenes, a hand reaches toward a stack of black \"OBSIDIAN\" card packs resting on a red and orange surface featuring the \"JASPYS\" logo and the website \"CASEBREAKS.COM\". To the right, a small inset video window shows a man with short brown hair wearing a black jacket, sitting in a room with shelving in the background. As the sequence progresses, the person moves a clear plastic wrapper containing more \"OBSIDIAN\" packs onto the table. The man in the inset window remains visible, observing the process. The background remains a consistent red and orange branded playmat with \"JASPYS\" and \"CASEBREAKS.COM\" prominently displayed throughout the action."
+}

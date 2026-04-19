@@ -1,0 +1,15 @@
+{
+  "video_id": "eff4f76fe3c8887f326d4f16ecf49441",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-107.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.446,
+    1.338,
+    2.229,
+    3.121
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video captures a gaming interface themed around autumn, featuring a large red banner with a stylized white \"U1\" logo set against a background of pumpkins, orange leaves, and wooden fences. The top left corner displays the text \"HARVEST PRESENT\". In the upper right, game statistics show \"LV 19\" and \"(90)\". A man with blond hair, wearing a dark blue t-shirt and a headset, is visible in a small picture-in-picture window in the lower left, gesturing with his hands while speaking. At the bottom of the screen, menu options include \"UK/UNMARK\", \"ITEMS ALL\", and \"BACK\". As the sequence progresses, the interface remains static until the final frame, where a large, semi-transparent orange and purple leaf graphic slides across the screen from the left, partially obscuring the central \"U1\" logo and the background."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c05e4a4a9bc82bc69e2bcb7e530370e6",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-207.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.221,
+    0.663,
+    1.104,
+    1.546
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair, wearing a dark grey t-shirt and white over-ear headphones, appears in a small video overlay in the lower-left corner of a gaming interface. He is positioned in front of a decorated Christmas tree with colorful lights. The main screen displays a menu titled \"AUCTIONS & TRADES\" with various currency icons and values at the top, including \"173,034\", \"14,600\", and \"2,193,944\", alongside \"LVL 19\". The interface features sections labeled \"AUCTION HOUSE\", \"TRADE BLOCK\", \"MY AUCTIONS\", \"MY BIDS\", \"MY TRADE BLOCK\", and \"MY TRADE OFFERS\". A large white icon of a gavel is visible under \"AUCTION HOUSE\", and a white arrow icon is under \"TRADE BLOCK\". Across the sequence, the man remains in his position, smiling and speaking, while the gaming menu remains static, showing no changes in navigation or selected options."
+}

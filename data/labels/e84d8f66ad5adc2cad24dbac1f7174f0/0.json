@@ -1,0 +1,15 @@
+{
+  "video_id": "e84d8f66ad5adc2cad24dbac1f7174f0",
+  "url": "./data/segments/3TQScsCOS2k-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.405,
+    1.215,
+    2.025,
+    2.835
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A surreal digital montage features a light-blue cat wearing a silver party hat, positioned as if it were a popsicle on a wooden stick. The cat's expression is grumpy, and its eye color shifts from red to green to a light blue across the sequence. The background is a colorful, abstract collage containing palm trees, sparkling effects, and a large, semi-transparent white letter \"N.\" A bright green banner at the top of the scene displays the text \"CLICK HERE TO SUBSCRIBE\" in white capital letters, which later changes to a bright pink banner in the final sequence. A white cursor arrow is visible, pointing toward the subscription text. The overall color palette shifts dynamically, transitioning from bright yellow and green tones to deep pink and purple hues as the sequence progresses."
+}

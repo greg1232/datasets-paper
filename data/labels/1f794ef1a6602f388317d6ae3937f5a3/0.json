@@ -1,0 +1,15 @@
+{
+  "video_id": "1f794ef1a6602f388317d6ae3937f5a3",
+  "url": "./data/segments/3iUTkJy84EY-Scene-119.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.5,
+    2.5,
+    3.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses stands against a dark, plain background, speaking directly to the camera. She is wearing a light green tunic with a floral embroidered neckline and a thin dark necklace. In the first frame, her mouth is slightly open as she begins to speak. By the second frame, her mouth opens wider, and her left hand begins to move into the frame. In the third frame, she continues speaking with a focused expression, and her right hand enters the frame. In the final frame, she is speaking with her eyes partially closed and both hands raised in a gesturing motion. A small, circular logo with the text \"NPTEL\" is visible in the lower-left corner of the scene throughout the sequence."
+}

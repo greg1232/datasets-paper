@@ -1,0 +1,15 @@
+{
+  "video_id": "bfa3a2e377664c12b489f9de8c8bdf13",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-448.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark curly hair tied in a bun and wearing black headphones and a dark green t-shirt is seated in a podcast studio. She is positioned in front of a professional black microphone on a boom arm, with her arm extending across the table towards the left. To her right is a black backdrop featuring the text \"SS TALK 101\", \"Dr. A Unique Handle\", and \"ODCAST\", along with the phrase \"lk About It!\". A logo for \"BOSS TALK 101\" appears in a small red and white box on the left and near the center. A blue-toned framed image of hands is visible on the wall behind her. Across the sequence, the woman maintains a consistent posture and expression, slightly closing her eyes as if listening or reflecting, with minimal movement in her facial expression or position."
+}

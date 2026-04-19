@@ -1,0 +1,15 @@
+{
+  "video_id": "b36a97f36f4478b203005a16bb622cd4",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.188,
+    0.562,
+    0.938,
+    1.312
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a software interface for log analysis, likely a monitoring tool. The dark-themed application displays an \"Explore\" section with a query bar containing the text `Log labels = {\"Fluent-Fluent-01*\"}`. Below this is a timeline of activity with vertical markers and a detailed list of log entries. Each log entry contains timestamps, such as `2020-08-28 00:22:37`, and technical strings including \"top\" and \"Fluent-Fluent-01\". A small video inset in the top right corner shows a man with short dark hair wearing a white shirt. Throughout the sequence, the screen remains static, showing the same log data and the man in the inset. The top of the window indicates a browser tab labeled \"Activities Google Chrome\" and a system clock reading \"Oct 28 00:22\". No actions or changes occur between the sampled moments."
+}

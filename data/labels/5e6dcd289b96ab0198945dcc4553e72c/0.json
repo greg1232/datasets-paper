@@ -1,0 +1,15 @@
+{
+  "video_id": "5e6dcd289b96ab0198945dcc4553e72c",
+  "url": "./data/segments/3P1vSUbet40-Scene-0155.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is featured in a podcast studio setting, appearing in different outfits across the frames. In the first scene, he wears a white shirt with a red bow tie, suspenders, and a tall, grey, stylized wig, speaking into a microphone while wearing headphones. Subsequent frames show him in a different outfit: a black t-shirt with \"CHECK IT M\" printed on it, a black baseball cap with a gold emblem, and gold jewelry, including a watch and necklace. He is seen adjusting his headphones and cap while positioned in front of a microphone. The background includes a white wall with \"BOSS TALK 101\" and \"HUSTLE\" text, alongside stars. On-screen logos include \"BOSS TALK 101\" and \"BOSS TALK PODCAST.\" The scene transitions from the man in the white shirt to the man in the black t-shirt, who is seen adjusting his gear."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "3b307ecacc0832f9f0ad64322cd8d179",
+  "url": "./data/segments/3Kxl1O310k8-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    108.94,
+    326.82,
+    544.7,
+    762.58
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grid-style video conference displays multiple participants in a repeating pattern across several rows. The participants include a man in a plaid shirt and glasses, a man in a dark jacket and glasses, a woman with blonde hair wearing a headset, a woman with blonde hair resting her chin on her hand, a man in a grey jacket and glasses, and a man in a light-colored button-down shirt in front of a brick building. Other participants include a man with a beard in a dark jacket, a man in a black hoodie and glasses, and a man in a dark suit and glasses. The images cycle through these faces, repeating the same group of individuals in a shifting sequence. Each person remains in their own static home or office setting, appearing as a separate tile in the virtual meeting interface. No on-screen text or logos are clearly legible."
+}

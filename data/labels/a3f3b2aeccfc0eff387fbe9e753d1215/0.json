@@ -1,0 +1,15 @@
+{
+  "video_id": "a3f3b2aeccfc0eff387fbe9e753d1215",
+  "url": "./data/segments/3_3xsVMtx3c-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.0,
+    3.333,
+    4.667
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a pink t-shirt and a light-colored baseball cap is browsing clothing in a retail store. The store features slatwall shelving displaying various apparel, including t-shirts and hats. A sign reading \"ONEILL\" is visible at the top of the wall. The person is interacting with a black jacket hanging on a rack. Initially, they are adjusting the garment with their right hand. As the sequence progresses, they use both hands to shift the black jacket and examine another dark garment hanging beside it. Various other items are visible in the background, including a blue shirt and packaging labeled \"BN3THR\". The person's focus remains on the clothing rack as they move the garments to inspect them more closely."
+}

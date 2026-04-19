@@ -1,0 +1,15 @@
+{
+  "video_id": "89445fec484929a74b45173dd7271297",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-385.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.5,
+    2.5,
+    3.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair and a white headset is seen in a small picture-in-picture window in the bottom left corner of a football video game broadcast, appearing surprised with his hand near his mouth. The main gameplay footage shows an American football field during a game between the Atlanta Falcons and another team. The game is at \"2nd & 8\" with \"14\" points for the Falcons and \"7\" for the opponent. On-screen text indicates the time is in the \"3rd\" quarter with \"2:12\" remaining, later ticking down to \"2:09\". A banner across the middle displays \"MOMENTUM LEGEND\" and \"FACTOR\", alongside logos for \"ULTIMATE TEAM\". Players in white and black uniforms are positioned on the grass field, with some in motion. The scene transitions slightly as the game clock decreases and the players shift positions during the play."
+}

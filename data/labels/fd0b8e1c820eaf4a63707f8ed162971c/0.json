@@ -1,0 +1,15 @@
+{
+  "video_id": "fd0b8e1c820eaf4a63707f8ed162971c",
+  "url": "./data/segments/3INb3jiuu6g-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a formal assembly setting with green seating and several men dressed in traditional attire, including caps and robes. Many of the men are wearing light blue surgical face masks. One man in a beige robe and cap is centered, while others are seated around him, including a man in a white robe and another in a dark cap. On-screen text at the bottom of the frame includes a news banner that reads \"NEWS NOW\" followed by \"JUSUN STRIKE\" and \"REPS URGE FG TO ENSURE SPEEDY RESOLUTION\". A website address, \"www.plustvafrica.com/liive-tv\", is visible, alongside the \"plustv\" logo. In the final frame, the website address changes to \"www.youtube.com/plustvafrica\". Throughout the frames, the men remain largely stationary in their seats, with slight shifts in posture and head movements as they observe the proceedings in the room."
+}

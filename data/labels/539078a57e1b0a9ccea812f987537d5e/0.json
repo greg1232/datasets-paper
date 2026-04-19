@@ -1,0 +1,15 @@
+{
+  "video_id": "539078a57e1b0a9ccea812f987537d5e",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a pink short-sleeved shirt stands at a desk, interacting with a laptop and a larger monitor. In the background, another person wearing blue scrubs is partially visible. The laptop screen and the monitor both display a multi-pane video call showing several people in a medical or clinical setting. The person in pink reaches toward the laptop screen, pointing or adjusting something. On the desk, there is a silver laptop, a computer monitor, a keyboard, a mouse, and a white box. A small watermark in the bottom right corner of the scenes reads \"Sim Week\". As the sequence progresses, the person in the pink shirt maintains their position, and their arm moves slightly while interacting with the laptop. The background elements, including the screens and the surrounding environment, remain mostly static."
+}

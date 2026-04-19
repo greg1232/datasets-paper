@@ -1,0 +1,15 @@
+{
+  "video_id": "90a452d0739f79f91df437062328926e",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-324.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.775,
+    11.325,
+    18.875,
+    26.425
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call features a large grid of participants in various home or office settings. The screen displays multiple rows of small video feeds, showing individuals of diverse ages and backgrounds. Some people are wearing casual attire like t-shirts and sweaters, while others wear collared shirts. Throughout the sequence, participants are seen listening, speaking, and reacting with subtle facial expressions and hand gestures, such as resting a chin on a hand. Legible on-screen names associated with the video feeds include \"Jerry McHohan,\" \"Edward Silverman,\" \"Sara Gattegno,\" \"Jim Burke,\" \"Jagjit Cillo,\" \"Patrick Nuryn,\" \"Era_collaborator,\" \"Sriang Boonyong,\" \"Kai,\" \"Klaus Boger,\" \"Ryutai Lajan,\" \"Judith Svanan,\" \"Mira Janvan-de Kyse,\" and \"Nil Geis.\" The visual layout remains constant as the video feeds update with the real-time movements and expressions of the people participating in the call."
+}

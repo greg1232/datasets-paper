@@ -1,0 +1,15 @@
+{
+  "video_id": "b8477f7e27c52d460923688e625f52ee",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-355.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.41,
+    1.231,
+    2.052,
+    2.873
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blonde hair wearing a dark blue shirt is visible in a picture-in-picture overlay at the bottom left of a gameplay recording for \"MADDEN NFL 23\". The game depicts an American football match in a large stadium under bright lights, with \"ULTIMATE TEAM\" and \"UT\" logos displayed on electronic banners. A scoreboard at the top reads \"MADDEN NFL 23\", showing a score of \"14\" to \"7\", with the time at \"4:00\" in the \"3rd\" quarter. In the initial scene, players in black uniforms are running across a green field toward the end zone. As the sequence progresses, the view shifts to follow players in white uniforms. One player in a white jersey, wearing number 11, is highlighted by a red circular cursor as they move across the field. The person in the overlay remains present throughout, observing the game."
+}

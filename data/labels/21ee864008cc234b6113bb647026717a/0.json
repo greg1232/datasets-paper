@@ -1,0 +1,15 @@
+{
+  "video_id": "21ee864008cc234b6113bb647026717a",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.751,
+    1.251,
+    1.752
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video depicts a formal meeting of the \"House Committee on General, Housing, and Military Affairs\" on \"April 12, 2019,\" regarding \"S.23 Increasing the Minimum Wage,\" as indicated by a persistent banner at the bottom of the screen featuring the \"ORCA\" logo. The setting is an office or conference room with wood-paneled walls, desks, and laptops. In the early sequence, several people in business attire, including suits and dress shirts, are seated at a large table. One man leans back while another looks toward a screen. The view then shifts to a close-up of a desk with a laptop and various office supplies. The scene eventually transitions to show two men in suits; one rests his head in his hand while the other, wearing a tie, appears to be speaking or gesturing. A laptop with a \"NATIVE\" sticker is visible on the table in front of them."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2c3dbf054a36f59c32c5e332d5357343",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-087.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.095,
+    0.285,
+    0.475,
+    0.665
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen capture of a web browser shows a video call overlaying a digital mind map. A man wearing a dark baseball cap is visible in a small video window in the upper right corner. The main screen features a complex network of interconnected nodes on a black background, containing various circular icons and text labels such as \"Interdisciplinary,\" \"Holistic,\" \"Integrative,\" \"Diverse,\" and \"Flexible Thinking.\" The browser tabs at the top indicate multiple open pages, including one titled \"True & Learning by Systemic |\" and others mentioning \"Society of Deliberation\" and \"Insights introduction to Kumo.\" Throughout the sequence, the mouse cursor moves across the mind map, specifically shifting from the center toward the left side of the diagram. The overall layout and the content of the mind map remain static as the user interacts with the interface."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "3c656b05e8fc7703beda4368fe664ccf",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-141.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.85,
+    11.549,
+    19.248,
+    26.948
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing glasses, a white shirt, a dark vest, and a red scarf stands behind a podium and speaks into a microphone. He is positioned in front of a wall of vertical wooden slats. An audience of people, seen from behind, sits before him; several women have grey or brown hair and wear casual clothing. The text \"ORCA\" appears in white capital letters on a dark background in the lower right of the scene. As the sequence progresses, the man continues to speak, shifting his gaze slightly and gesturing. In the later frames, he begins to lower his head and reach toward a guitar resting in front of him, preparing to play. The audience remains seated and attentive, facing the speaker throughout the duration of the clip."
+}

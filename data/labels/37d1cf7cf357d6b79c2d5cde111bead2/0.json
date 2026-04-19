@@ -1,0 +1,15 @@
+{
+  "video_id": "37d1cf7cf357d6b79c2d5cde111bead2",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-179.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.817,
+    2.452,
+    4.087,
+    5.722
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a recording studio against a dark grey, textured acoustic foam wall. He wears a grey t-shirt, black headphones, and a grey baseball cap featuring a cartoon monster logo. A professional microphone on a boom arm is positioned in front of his face, with the word \"Blue\" visible on the arm's hardware. Throughout the sequence, the man is speaking into the microphone while gesturing with his right arm. He begins with his arm lowered and hand open, then lifts his arm and hand upward. His movement continues as he raises his hand higher, eventually bringing it closer to his head while keeping his palm facing inward. The camera remains stationary, capturing the man from the chest up as he speaks and gesticulates."
+}

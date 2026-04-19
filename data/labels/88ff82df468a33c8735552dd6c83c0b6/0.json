@@ -1,0 +1,15 @@
+{
+  "video_id": "88ff82df468a33c8735552dd6c83c0b6",
+  "url": "./data/segments/3mmDnftP1M8-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.562,
+    4.688,
+    7.812,
+    10.938
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair, wearing a light blue button-down shirt and a black headset with a microphone, is positioned against a plain, light-colored background. In each frame, the name \"Ashish Raichur\" is visible in the bottom left corner. He is actively speaking and gesturing with his hands to emphasize his points. Initially, his hands are raised in front of his chest with fingers curled. As the sequence progresses, he shifts his hand positions, moving his right hand further outward while keeping his left hand closer to his body. In the final frame, he tilts his head slightly to the side and brings both hands closer together toward his chest, with his fingers interlaced or touching. His facial expressions change as he speaks, with his mouth open in different stages of articulation across the sequence."
+}

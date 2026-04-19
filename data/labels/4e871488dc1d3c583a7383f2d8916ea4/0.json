@@ -1,0 +1,15 @@
+{
+  "video_id": "4e871488dc1d3c583a7383f2d8916ea4",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-254.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.345,
+    0.575,
+    0.805
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser displaying a presentation on a \"Rural Community Food System.\" The main content is a white slide titled \"Introduction,\" which poses the question, \"What constitutes a sustainable localized food system for a rural community Source as as possible from locally owned and operated to benefit the community.\" Below this, a \"Session Videos\" section lists several timestamps. The text notes that users can contribute to the model by \"adding communities or by knowing a member to evolve the map,\" and directs viewers to \"the former Wiki Collaborative Library for full art of guides, especially the Crit Nuts.\" To the right of the text is a complex green network diagram. In the top right corner of the browser window, a small video feed shows a man with glasses wearing a dark shirt. Across the sequence of frames, the man remains relatively still, while the browser window remains static, showing no changes in the on-screen text or images."
+}

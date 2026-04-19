@@ -1,0 +1,15 @@
+{
+  "video_id": "dc5538deefd025a39479074cee6a50cc",
+  "url": "./data/segments/3QD9oO6sRns-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.169,
+    0.506,
+    0.844,
+    1.181
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand reaches toward a stack of black boxes featuring the \"TOPPS\" logo and the text \"CLEARLY AUTHENTIC\". The scene is set in a room where several more of these boxes are stacked in the background. In the lower portion of the screen, a man wearing a black t-shirt is visible in a small inset window. The background of the main shot features a red and black surface with the text \"EBREAKS.\" and \"Casebreaks.\" displayed. As the sequence progresses, the hand moves to grasp and pull a box from the stack. The text \"CLEARLY AUTHENTIC\" is prominently displayed on the sides of the boxes. A small overlay graphic in the corner includes the website \"CASEBREAKS.com\". The movement is focused on the interaction between the person's hand and the merchandise, while the man in the inset window remains stationary."
+}

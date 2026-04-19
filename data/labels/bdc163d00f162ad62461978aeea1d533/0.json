@@ -1,0 +1,15 @@
+{
+  "video_id": "bdc163d00f162ad62461978aeea1d533",
+  "url": "./data/segments/3QD9oO6sRns-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.5,
+    0.833,
+    1.167
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a graded sports trading card encased in a clear plastic slab. In the initial frames, the person holds the slab upright, displaying a baseball player in a white uniform. The scene is set in a room with boxes of trading cards visible in the background. A smaller inset window in the lower right corner shows a man wearing a black t-shirt and a black baseball cap. Prominent red and white on-screen text reads \"SPYS SEBREAKS\" across the bottom, with \"JASPYS\" and \"CASEBREAKS.COM\" appearing in smaller logos. As the sequence progresses, the person adjusts their grip and tilts the plastic slab, causing light to reflect off the surface and obscuring the image of the card. The movement shifts the orientation of the slab from a front-facing view to a slanted angle, while the background and the man in the inset window remain constant."
+}

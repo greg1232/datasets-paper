@@ -1,0 +1,15 @@
+{
+  "video_id": "5df13bcedba3f37f3f0347c7acccd182",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.629,
+    1.887,
+    3.146,
+    4.404
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A repeating blue pattern featuring cloud-native computing motifs serves as the backdrop for a series of logos. A circular emblem is centered in multiple areas, containing a stylized globe and the text \"KubeCon CloudNativeCon North America 2020\". Below this text, the word \"Virtual\" is written in a cursive script, and the phrase \"KEEP CLOUD NATIVE EVERYWHERE\" curves around the outer edge of the circle. The surrounding background is filled with various white line-art icons, including representations of a helm, a cloud, a network, and a small robot. The visual composition remains completely static across all frames, with no movement, people, or changes in the arrangement of objects or text."
+}

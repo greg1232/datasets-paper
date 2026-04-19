@@ -1,0 +1,15 @@
+{
+  "video_id": "075dbf4f2026e0babe47ab2192dfd2f4",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.463,
+    1.388,
+    2.312,
+    3.238
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a Google Sheets spreadsheet titled \"F 5/19/23 - **CN CROWN ROYALE PYT #5 TEAM GIVEAWAY** 21...\". The spreadsheet contains columns of names and team associations. A chat window on the right side shows messages from \"glowbug27\" saying \"turning\" and from \"Nightbot\" stating, \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://tbl.nz/S6eK8K9\". In the bottom right corner, a video overlay features a man with a beard and short dark hair wearing a black t-shirt, positioned in front of a logo that reads \"JASPY'S CASEBREAKS.COM\". In the first half of the clip, the spreadsheet is mostly blank. As the video progresses to the second half, the \"TEAM\" column is suddenly populated with various NBA team names, such as \"NEW ORLEANS PELICANS\", \"BROOKLYN NETS\", and \"LOS ANGELES KLIPPERS\", corresponding to the names listed in the \"PLAYER\" column."
+}

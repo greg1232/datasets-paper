@@ -1,0 +1,15 @@
+{
+  "video_id": "91cb126e414fed0ab17ecfebcf6b1fef",
+  "url": "./data/segments/3U065Ox-1uA-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.4,
+    1.201,
+    2.002,
+    2.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene takes place outdoors against a gray, textured stone wall. Three men are visible, all wearing dark suits, light-colored shirts, and white protective face masks. The man in the center is the primary focus, appearing to speak or react while blinking and shifting his facial expression. To his left, another man wearing glasses is partially visible, and to his right, a third man stands still, looking forward. Each frame features the \"AP\" and \"VOA 60 LEARNING ENGLISH\" logos in the top left corner. On-screen captions change as the clip progresses; the initial text reads \"South Korea and Japan criticize the test,\" which then shifts to \"the seventh in January.\" throughout the remaining frames. The camera remains static, capturing slight movements of the men's heads and eyes as the dialogue sequence unfolds."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "48c7bd2fa6373e0eb69b566b4684a3b4",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-267.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.812,
+    1.137
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen interacting with a small, white rectangular box resting on a surface decorated with green palm tree graphics. In the background, a man with a beard wearing a dark blue shirt is visible in a small inset video window. The screen features the text \"JASPYS\" in a stylized orange and yellow font and the URL \"CASEBREAKS.COM\" in a white box. In the first frame, a left hand stabilizes the white box while a right hand begins to open it. As the sequence progresses, the right hand lifts the lid of the box, revealing a white interior. By the final frame, the lid is opened wider, showing the empty interior of the box. The setting appears to be a workspace with various items blurred in the background, including what looks like more white boxes and equipment."
+}

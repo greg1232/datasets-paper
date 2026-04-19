@@ -1,0 +1,15 @@
+{
+  "video_id": "fd155eaa733e67c68cef90db32bd1784",
+  "url": "./data/segments/3P1vSUbet40-Scene-0824.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.255,
+    0.766,
+    1.277,
+    1.788
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits in a podcast studio, wearing a black baseball cap with an eagle logo, a black t-shirt featuring the text \"CHECK IT\", and over-ear headphones. He is positioned in front of a professional microphone and faces slightly to his left, maintaining a steady gaze as he speaks. Behind him, a white wall displays yellow stars and the phrase \"GRINDERS HUSTLE\" repeated vertically. A screen in the background shows the word \"BOSS\" and other blurred graphics. Superimposed on the scene are logos for \"BOSS TALK 101\" and a circular \"BOSS TALK 101 PODCAST\" emblem. Throughout the sequence, the man remains in a consistent seated position, with only slight movements of his head and facial expressions as he continues talking, while the camera angle and studio environment stay stationary."
+}

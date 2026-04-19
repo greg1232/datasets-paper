@@ -1,0 +1,15 @@
+{
+  "video_id": "279b094ca7025de60afba2d0a1080702",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.242,
+    0.726,
+    1.21,
+    1.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation room, a team of healthcare professionals gathers around a patient mannequin lying on a bed covered by a white sheet. The team consists of several individuals wearing medical scrubs in colors such as light pink and blue, and one person in a black long-sleeved shirt. Across the frames, the staff interact and move around the bed, with some wearing blue medical gloves. Medical equipment, including a red crash cart and a bedside table with various supplies, is visible in the background. The on-screen text \"Sim Week\" appears in the bottom right corner of each frame. At the top of the frames, a checklist includes the phrases \"Ex lap for liver injury\" and \"Ventilator management.\" As the sequence progresses, the team members shift their positions and lean over the mannequin to perform simulated clinical tasks."
+}

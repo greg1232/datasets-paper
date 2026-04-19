@@ -1,0 +1,15 @@
+{
+  "video_id": "5f6dcd29ee99cc6c1c78ce29cff2ca7e",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.826,
+    1.376,
+    1.927
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A low-resolution, grainy security camera captures a dimly lit indoor space, possibly a garage or basement, featuring a white ceiling and a light source creating a bright glare. In the background, a metal ladder leans against a raised platform or loft area. A person is partially visible in the lower right foreground, though their clothing and features are obscured by the low quality of the footage. As the sequence progresses, the camera shifts perspective slightly, moving from a blurred, shaky view to a more stable angle. The person remains in the lower right, and the ladder and overhead structure stay stationary in the background. There is some illegible text in the upper right corners of the frames, but no clear words or logos are readable. The scene remains static and dark throughout the short clip."
+}

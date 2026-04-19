@@ -1,0 +1,15 @@
+{
+  "video_id": "cc6a769eca8327502d4a91f529c27da3",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.726,
+    2.177,
+    3.629,
+    5.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with curly strawberry-blonde hair is centered against a solid yellow background. She wears a black blazer over a dark blouse featuring a yellow and green botanical pattern, accented by a thin gold necklace. In the upper right corner of each scene, a white logo reads \"COINTELEGRAPH\" next to a small circular emblem. Throughout the sequence, the woman remains in a stationary, medium shot, facing the camera. Her expression shifts as she speaks, with her mouth opening and closing in a natural conversational manner. Her head remains relatively steady, with only minor movements as she articulates her words. No other people or objects are visible in the frame, and the lighting remains consistent across the duration of the clip."
+}

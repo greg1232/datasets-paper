@@ -1,0 +1,15 @@
+{
+  "video_id": "90da21101c8babd09d67ab81e5ec66ef",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-227.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.708,
+    0.992
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is seen in a close-up, using a small clear tool to lift a yellow card from a white rectangular tray. In the background, a small screen shows a man with a beard wearing a navy blue polo shirt with a yellow logo on the chest. This screen also displays the logo \"JASPYS\" and the website \"CASEBREAKS.COM\". The man is seated at a desk with a computer monitor and other equipment. As the sequence progresses, the hand continues to lift the yellow card upward, while the man in the background remains seated and looking toward the camera. The scene takes place in an indoor environment with various pieces of electronic equipment and branded materials visible on the smaller inset screen."
+}

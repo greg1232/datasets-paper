@@ -1,0 +1,15 @@
+{
+  "video_id": "1c8692bae99d988d0a1865c4c1dab503",
+  "url": "./data/segments/3a0FD1177FA-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.871,
+    2.612,
+    4.353,
+    6.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is crafting on a white gridded cutting mat. The workspace contains various pieces of patterned paper in green and yellow floral motifs, a small white rectangular card, and a white ink pad labeled \"MEMEN\". A clear stamp block is positioned nearby, featuring the text \"BIRTHDAY is filled with ALL the Best things!\". In the first frame, the materials are laid out. In the second frame, a hand wearing a white smartwatch and a ring enters the scene, adjusting a piece of floral patterned paper. By the third frame, the hand moves to shift a larger piece of patterned paper that has a brown stripe on one side. In the final frame, the person's other hand enters to press the clear stamp block onto a piece of paper. A logo in the bottom left corner reads \"Amazing Jill\"."
+}

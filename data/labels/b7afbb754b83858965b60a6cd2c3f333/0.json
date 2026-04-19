@@ -1,0 +1,15 @@
+{
+  "video_id": "b7afbb754b83858965b60a6cd2c3f333",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-217.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.751,
+    1.251,
+    1.752
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is seated in a recording studio, wearing a white t-shirt and black over-ear headphones. He is positioned in front of a professional microphone mounted on a boom arm, which features the text \"Electro-Voice RE20\". The background consists of dark gray acoustic foam panels. Throughout the sequence, the man is speaking and gesturing with his left hand. He begins by raising his hand to chest height, palm facing down, and moving it slightly forward. As the scene progresses, he continues this gesture, sweeping his hand across the space in front of him while maintaining a focused facial expression. His right arm, which is tattooed, is partially visible resting on a surface beside him. The lighting remains consistent, and the camera angle stays fixed on the man from the chest up."
+}

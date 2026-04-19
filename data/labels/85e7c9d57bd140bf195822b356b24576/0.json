@@ -1,0 +1,15 @@
+{
+  "video_id": "85e7c9d57bd140bf195822b356b24576",
+  "url": "./data/segments/3P1vSUbet40-Scene-0461.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.078,
+    0.235,
+    0.391,
+    0.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a distinctive tall, grey, textured hairstyle and glasses is seated in a studio setting. He is wearing a white long-sleeved shirt and a bow tie, with professional headphones over his ears. He is positioned in front of a black microphone, speaking while looking slightly off-camera. The background consists of a wall decorated with framed photos and merchandise, including clothing and a yellow tag with the word \"LEE\". Two logos appear on the screen: one on the left that reads \"PODCAST\" under a graphic, and one on the right that says \"GOSS TALK JOY\". As the sequence progresses, the man remains in the same position, but his facial expressions shift slightly as he continues to speak, with subtle movements of his mouth and eyes while the overall composition of the scene and the on-screen graphics remain static."
+}

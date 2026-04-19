@@ -1,0 +1,15 @@
+{
+  "video_id": "2cd5e2488f852549654fdfc410e88132",
+  "url": "./data/segments/3iUTkJy84EY-Scene-062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.39,
+    1.17,
+    1.95,
+    2.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses, wearing a light green embroidered top and a dark necklace, is speaking against a plain dark background. In the initial sequence, she looks forward with her mouth open as she speaks, while her right hand is positioned low near her waist. As the scene progresses, she closes her eyes and brings her right hand up toward her chest. She then re-opens her eyes, continues speaking with a focused expression, and moves her right hand further across her chest, gesturing with her fingers spread. A small logo containing the text \"NPTEL\" is visible in the bottom left corner of each scene. The woman remains centered in the frame throughout the sequence, with the only changes being her facial expressions and the motion of her hand as she emphasizes her speech."
+}

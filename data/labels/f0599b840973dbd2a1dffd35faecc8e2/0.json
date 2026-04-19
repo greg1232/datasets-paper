@@ -1,0 +1,15 @@
+{
+  "video_id": "f0599b840973dbd2a1dffd35faecc8e2",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.459,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a long, white, cylindrical object and moves it across the interior of a vehicle's footwell. The setting is a dusty and worn automotive interior, featuring a dark metal pedal assembly and surrounding beige carpeting. The hand, visible from the wrist down, enters from the right side of the frame and gradually shifts the white tool from a higher position to a lower one. As the sequence progresses, the tool is lowered toward the metal pedal structure, passing over a black cable and a grey plastic component. The surroundings remain static, showing the aged materials and mechanical parts of the car's floor area. There are no visible logos, on-screen text, or other people present in the scene."
+}

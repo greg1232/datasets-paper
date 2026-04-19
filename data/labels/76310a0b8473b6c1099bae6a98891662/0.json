@@ -1,0 +1,15 @@
+{
+  "video_id": "76310a0b8473b6c1099bae6a98891662",
+  "url": "./data/segments/3dN_F08u-KE-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.625,
+    1.875,
+    3.125,
+    4.375
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, gray military naval ship with the number \"954\" on its hull sails across a blue body of water, accompanied by a smaller white coast guard boat. The larger ship features a complex superstructure with various radars and antenna arrays and a red stripe along its waterline. The smaller boat has red and orange markings and the legible text \"SAHIL GUVENLIK COAST GUARD\" printed on its side. Both vessels move from left to right, leaving white wakes in the water. In the upper right corner of each frame, a red circular logo containing the number \"13\" is visible. As the sequence progresses, the vessels move further to the right across the frame, with the distance between the two ships remaining relatively constant while they navigate the open sea."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "07ea4be6abb937217642a5e1f0a64c45",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-085.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.751,
+    1.051
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a simulated hospital room, two medical professionals in blue scrubs and black jackets attend to a patient lying in a bed. One professional wears a black mask and blue gloves, standing with hands poised, while the second professional, also in a black mask and blue gloves, holds a white piece of paper. The patient, with red hair, lies beneath a white floral blanket. The room contains medical equipment, including a wall-mounted monitor and a blue curtain. On-screen text includes \"Day 2\" inside a purple circle and \"Sim Week\" next to a small building icon. A digital clock at the top left displays \"110 '13\". Throughout the sequence, the professionals remain relatively still, maintaining their positions and expressions as they look toward the patient, with only slight adjustments in their posture and the positioning of the paper."
+}

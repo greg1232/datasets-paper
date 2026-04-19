@@ -1,0 +1,15 @@
+{
+  "video_id": "fcd94a8d075e32b215e618835bc394f4",
+  "url": "./data/segments/3a0FD1177FA-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.533,
+    4.598,
+    7.664,
+    10.729
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with a tattoo on their forearm and wearing a white smartwatch is using a paper trimmer on a white wooden surface to cut decorative paper. The paper features a dark green and yellow floral pattern. In the initial scenes, the person positions a sheet of the patterned paper under the trimmer's blade, using their left hand to hold the paper steady against the guide. The right hand operates the cutting mechanism. As the sequence progresses, a piece of the paper is sliced off, and the remaining portion is shifted to cut another strip. Several craft supplies are scattered around the workspace, including a white \"MEMENTO\" ink pad and stamps with legible text such as \"Thank You\" and \"Birthday\". A clear plastic ruler and a cutting mat are also visible on the table, assisting in the precision of the crafting project."
+}

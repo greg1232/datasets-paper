@@ -1,0 +1,15 @@
+{
+  "video_id": "5be3d174337a2774c4491f6732a5cf4f",
+  "url": "./data/segments/3P1vSUbet40-Scene-0436.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.078,
+    0.235,
+    0.391,
+    0.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits in a podcast studio, wearing a black t-shirt with the text \"CHECK IT!\" and a black baseball cap featuring a metallic emblem. He wears over-ear headphones and sits behind a professional microphone on a boom arm. To his left and right, graphic overlays appear on the screen: one featuring a microphone icon and the text \"BOSS TALK 101 PODCAST\" and another simply saying \"BOSS TALK 101\". In the background, a white wall is decorated with gold stars and the word \"HUSTLE\" repeated vertically. A screen behind him partially displays the words \"BOSS TALK 101\". Throughout the sequence, the man remains in a consistent seated position, glancing slightly to his right with a subtle smile. The scene is static, with very little movement as the man maintains his expression and posture across the sequence."
+}

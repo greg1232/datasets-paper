@@ -1,0 +1,15 @@
+{
+  "video_id": "3a3524cba6d7a760a5334f01ecc14b83",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-177.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.19,
+    0.57,
+    0.95,
+    1.33
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a video call with a presenter in a small window at the top right. The presenter is a man with short hair wearing a dark shirt. In the first frame, the main screen displays a complex conceptual map with various circular icons and connecting lines, including text such as \"Systems Thinking\" and \"Complexity.\" As the video progresses, the conceptual map is replaced by a black screen featuring centered green text that reads \"Moments To provoke thoughts! To feel something!\" This text remains constant across the subsequent frames. The browser interface is visible at the top, showing several open tabs and a URL starting with \"deck.slideteam.net.\" The presenter remains in his small video window throughout the sequence, appearing stationary while the main presentation content transitions from the diagram to the poetic text."
+}

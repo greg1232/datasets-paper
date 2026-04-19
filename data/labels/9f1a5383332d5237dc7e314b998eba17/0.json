@@ -1,0 +1,15 @@
+{
+  "video_id": "9f1a5383332d5237dc7e314b998eba17",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand reaches into a small, clear plastic ribbed container holding an electronic circuit board with various wires and components. The scene takes place on a white surface. In the beginning, the hand's fingers are positioned near the top edge of the container, with the index finger slightly curved. As the sequence progresses, the person moves their hand to grasp the container. By the end, the index finger is pressed firmly against the side of the clear plastic wall, and the container is shifted slightly to the right. A black object is partially visible in the foreground, and a white piece of paper with the partially legible text \"87 So\" is located on the table to the right. The lighting is bright and consistent across the frames, highlighting the texture of the skin on the hand and the transparency of the plastic case."
+}

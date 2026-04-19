@@ -1,0 +1,15 @@
+{
+  "video_id": "fdb7819e14f5e4dbb17b75af9286c31b",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-104.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.688,
+    1.147,
+    1.606
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing black headphones and a microphone speaks in a dark setting, while a smaller inset window displays various scenes. In the first scene, a teal bottle and a red cup are shown against a black background with the text \"3D THERMO 3D Vacuum Insulation\" and \"KEEPS YOUR FAVORITE WINE AT THE PERFECT TEMPERATURE\". The scene then shifts to a person in a grey vest and dark pants standing by the open back of a red vehicle in a wooded area, interacting with another person. A white rectangular box obscures part of the image. In the final scenes, the inset window shows the same two people by the red vehicle in the woods, with the bold white text \"PERFECT FOR CAMPING\" overlaid across the center of the image. Throughout the sequence, the man in the headphones remains in the primary frame, maintaining a similar expression and position."
+}

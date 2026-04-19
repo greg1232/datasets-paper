@@ -1,0 +1,15 @@
+{
+  "video_id": "111a4b008cdf1af5c24d879778476dc1",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-115.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.08,
+    3.241,
+    5.401,
+    7.562
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a white t-shirt and large over-ear headphones, is positioned in front of a professional microphone mounted on a boom arm. He is in a studio with dark grey acoustic foam paneling on the wall behind him. His white t-shirt features a small logo with the text \"Salty Atlantic\" and \"WINE SHOP\". A tattoo is visible on his right upper arm. As the sequence progresses, the man's facial expression shifts; he starts with his eyes partially closed and mouth slightly open, then looks directly toward the camera with a neutral expression, and finally transitions into a wide smile, showing his teeth. The microphone and background remain static throughout the scene while the man remains seated and facing forward."
+}

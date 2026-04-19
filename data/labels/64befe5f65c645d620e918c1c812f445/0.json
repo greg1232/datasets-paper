@@ -1,0 +1,15 @@
+{
+  "video_id": "64befe5f65c645d620e918c1c812f445",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-094.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.459,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green Polaris utility vehicle is parked on a concrete surface in front of a weathered brown wooden wall. The vehicle features a cargo bed at the rear and a storage box at the front. The brand name \"POLARIS\" is clearly visible in white text on the side of the cargo bed and on the vehicle's body, along with the model designation \"5x6\". A person wearing a green helmet is seated in the driver's seat. Across the sequence of frames, the scene remains static; there is no perceptible movement from the driver or the vehicle, and the lighting and environment stay consistent. The vehicle is equipped with large, treaded tires and a black frame, positioned in a side-profile view that showcases its rugged design. No other people or significant objects are present in the scene."
+}

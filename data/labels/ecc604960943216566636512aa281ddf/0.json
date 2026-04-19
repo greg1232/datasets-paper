@@ -1,0 +1,15 @@
+{
+  "video_id": "ecc604960943216566636512aa281ddf",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.29,
+    0.87,
+    1.45,
+    2.03
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call featuring multiple participants is displayed in a grid layout. The participants include men and women in various indoor settings, such as offices with bookshelves and home environments. Some men wear glasses and casual shirts, while one woman is seen resting her chin on her hand. Several people are identified by on-screen text labels, including \"Jerry McKulin\", \"Shawn Berry\", \"Charles Mass\", \"Clark Quinn\", \"Patrick McKulin\", \"Syari Lapiro\", and \"mloongoodwing\". Throughout the sequence, the grid layout remains consistent, and the participants' positions do not change. One individual, \"Syari Lapiro\", is seen holding a red and white can. Another person's feed shows a partial view of a graphic with blue and white shapes. The individuals appear to be listening or speaking, with minimal movement between the sampled frames, maintaining their general poses and expressions."
+}

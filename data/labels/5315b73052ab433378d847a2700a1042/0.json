@@ -1,0 +1,15 @@
+{
+  "video_id": "5315b73052ab433378d847a2700a1042",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-128.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.505,
+    1.514,
+    2.523,
+    3.533
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing glasses, a white shirt, and a dark vest stands behind a podium, speaking into a microphone in a room with wood-paneled walls and brown blinds. He is facing an audience of people, mostly seen from the back, some of whom are wearing blue sashes. In the foreground, a white text box containing the word \"ORCA\" appears on the right side of the scene. As the sequence progresses, the camera zooms out, revealing more of the audience and the room. A second man, an older individual with grey hair and a blue shirt, is seen standing at a separate podium to the left. The speaker in the vest continues to address the crowd while the audience members remain seated and attentive. The \"ORCA\" text box persists throughout the frames, positioned over different parts of the scene as the perspective widens."
+}

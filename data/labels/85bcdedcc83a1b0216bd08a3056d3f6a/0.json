@@ -1,0 +1,15 @@
+{
+  "video_id": "85bcdedcc83a1b0216bd08a3056d3f6a",
+  "url": "./data/segments/3fokLGPK15Q-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.895,
+    5.685,
+    9.475,
+    13.265
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair tied back sits against a purple textured background, wearing a black t-shirt with the text \"WHO'S IN YOUR\" printed in white across the chest, with additional obscured text below. She wears a small, beige-colored headset microphone near her mouth. Across the sequence, the woman is speaking, her facial expressions shifting as she communicates. In the first frame, she has a slight smile and an open mouth. In the second frame, her expression becomes more neutral with pressed lips. By the third frame, she is speaking again with a more focused expression, and in the final frame, she maintains this speaking posture, looking slightly toward the right side of the frame. The background and her clothing remain constant throughout the clip, while her head and facial movements indicate active conversation."
+}

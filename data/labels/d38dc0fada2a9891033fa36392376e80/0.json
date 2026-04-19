@@ -1,0 +1,15 @@
+{
+  "video_id": "d38dc0fada2a9891033fa36392376e80",
+  "url": "./data/segments/3Smz5pevbI4-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    47.047,
+    141.141,
+    235.235,
+    329.329
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a presentation on psychological interventions. The initial scene features a slide titled \"Test intuitive psych interventions: Congo\" with a sub-heading \"Talk Show vs Soap Opera\" and a photograph of several people sitting in a circle outdoors in a rural setting, some wearing traditional attire and others in casual clothing. As the video progresses, a graph appears on the right side of the slide, plotting \"Salt Donated\" against \"control\" and \"experimental\" groups, with a legend indicating \"Soap\" and \"Soap + Talk.\" The presentation then transitions to a slide titled \"Test intuitive psych interventions: Roma,\" which lists \"Europe's largest minority group\" and \"Historical injustices: Roma Holocaust.\" The final frame adds two overlapping images of a \"Fake Article,\" one highlighting the phrase \"groups are malleable\" and the other highlighting \"groups are fixed,\" alongside a note mentioning \"#1: group malleability (Halperin... Dweck et al., 2011).\""
+}

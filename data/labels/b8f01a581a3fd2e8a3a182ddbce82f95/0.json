@@ -1,0 +1,15 @@
+{
+  "video_id": "b8f01a581a3fd2e8a3a182ddbce82f95",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.237,
+    0.396,
+    0.554
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static webpage for \"CASEBREAKS.COM,\" featuring a white background with various lists of NBA team names and technical data. The page contains text including \"9. PORTLAND TRAIL BLAZERS,\" \"10. CHARLOTTE HORNETS,\" and \"11. PHOENIX SUNS,\" along with a prompt that reads \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/3seSeka9Y.\" A small, circular profile picture of a man with a beard and a black shirt is visible on the right side. At the bottom, red and black logos for \"JASY S\" and \"CASEBREAKS.COM\" are displayed. Across the sequence, the visual content remains completely unchanged, with no movement, shifts in lighting, or changes in the text and imagery. The screen is a frozen capture of the website interface throughout the duration of the clip."
+}

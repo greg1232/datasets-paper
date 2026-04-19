@@ -1,0 +1,15 @@
+{
+  "video_id": "54a5e954877b21e46bb7a385d85aa31e",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.864,
+    5.593,
+    9.322,
+    13.051
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is seated in a recording studio against a grey, vertically ribbed acoustic foam wall. He wears black over-ear headphones and a white t-shirt featuring a logo that reads \"Stay Authentic\". A professional condenser microphone on a boom arm is positioned in front of him. Throughout the sequence, the man is speaking and gesturing with his right hand. He begins by pointing upward and outward, then transitions to touching the top of his head with his fingertips. His expression remains focused as he talks into the microphone. The camera remains stationary in a medium close-up shot, capturing the man from the waist up as his hand movements shift from a pointing gesture to a touch on his head."
+}

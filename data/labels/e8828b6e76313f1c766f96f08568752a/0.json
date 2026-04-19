@@ -1,0 +1,15 @@
+{
+  "video_id": "e8828b6e76313f1c766f96f08568752a",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.925,
+    2.775,
+    4.625,
+    6.475
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman stands in an office setting, positioned in front of a white desk. She is dressed in a white lab coat over a matching white top and trousers. Behind her, a window reveals a building exterior. On the desk, there is a computer monitor displaying an image, a black keyboard, and a computer mouse. Across the sequence, the woman is speaking, and her facial expression and mouth movements change as she talks. She begins with her hands clasped in front of her waist, but by the final frame, she has shifted her posture, moving her left hand slightly away from her body in a subtle gesturing motion. The background and the placement of the equipment on the desk remain static throughout the clip."
+}

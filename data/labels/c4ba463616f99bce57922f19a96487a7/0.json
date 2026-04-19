@@ -1,0 +1,15 @@
+{
+  "video_id": "c4ba463616f99bce57922f19a96487a7",
+  "url": "./data/segments/3P1vSUbet40-Scene-0471.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with her hair in a high bun is seated in a podcast studio, wearing a black t-shirt and large black over-ear headphones. She is smiling and looking slightly to her left, with a professional microphone positioned in front of her. The background features a white wall and a black partition separated by a vertical yellow stripe. To the left, a screen displays the word \"Johnson\" in red text. On-screen graphics include a circular logo that says \"PODCAST\" and text that reads \"BOSS TALK 101\" and \"boss talk 101\". Across the sequence of frames, the woman remains in a consistent pose and expression, with very minimal movement, maintaining her smile and gaze as the scene stays static."
+}

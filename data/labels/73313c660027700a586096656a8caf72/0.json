@@ -1,0 +1,15 @@
+{
+  "video_id": "73313c660027700a586096656a8caf72",
+  "url": "./data/segments/3rrLMM3eyQc-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.292,
+    0.875,
+    1.458,
+    2.042
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a split-screen layout combining motion graphics with live-action footage. On the left side, a graphic background transitions from a red \"SUBSCRIBE\" button to a \"SUBSCRIBED\" status with a notification bell icon, accompanied by the website address \"www.plustvafrica.com\" and repeated \"SUBSCRIBE\" text in a light pink hue. The right side displays two different scenes: an aerial cityscape showing a dense urban area with numerous reddish-brown rooftops and a waterway leading toward a skyline, followed by a close-up of a woman. She wears a pink and black floral patterned garment and large white earrings, looking slightly off-camera. As the sequence progresses, the subscription button on the left is clicked, changing from red \"SUBSCRIBE\" to a grey \"SUBSCRIBED\" state, while the visual on the right switches from the wide city view to the portrait of the woman."
+}

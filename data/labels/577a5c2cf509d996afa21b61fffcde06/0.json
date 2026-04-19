@@ -1,0 +1,15 @@
+{
+  "video_id": "577a5c2cf509d996afa21b61fffcde06",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-131.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.781,
+    1.094
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a clear plastic protective sleeve over a desk, partially obscuring a screen in the background. On the screen, a man with a beard wearing a dark blue t-shirt sits in a room with various equipment and a computer monitor. The screen features the logo \"JASPYS\" and the website \"CASEBREAKS.COM\" prominently at the top. Below this, a smaller logo reads \"JASPYS Sports Cards & More.\" As the sequence progresses, the hand moves the clear plastic sleeve across the field of view, shifting the perspective of the background screen. The surface beneath the hand is white with green graphics of palm trees. The man on the screen remains seated and talking, while the movement of the plastic sleeve creates a slight visual distortion and reflection across the scene."
+}

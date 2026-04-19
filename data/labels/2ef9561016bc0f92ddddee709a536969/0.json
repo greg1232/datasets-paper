@@ -1,0 +1,15 @@
+{
+  "video_id": "2ef9561016bc0f92ddddee709a536969",
+  "url": "./data/segments/3_3xsVMtx3c-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.396,
+    1.188,
+    1.979,
+    2.771
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light-colored baseball cap and a pink t-shirt is browsing clothing in a retail store. He stands in front of a clothing rack featuring various items, including black jackets and turquoise shirts. Behind him, the walls are decorated with merchandise and signage, including the brand name \"ONEILL\" and \"BN3TH.\" In the initial sequence, the man stands with his back to the camera, looking at the rack. He then reaches out with his right hand to touch a black jacket. As the scene progresses, he uses both hands to pull a black jacket forward from the rack to examine it more closely. The surrounding environment remains static, with various articles of clothing and branded displays visible in the background, while the man's movements focus on interacting with the black outerwear."
+}

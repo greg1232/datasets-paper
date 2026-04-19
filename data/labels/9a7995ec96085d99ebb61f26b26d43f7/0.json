@@ -1,0 +1,15 @@
+{
+  "video_id": "9a7995ec96085d99ebb61f26b26d43f7",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-246.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.106,
+    0.319,
+    0.531,
+    0.744
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a collectible trading card over a white plastic storage box with a yellow top. The card features a dark background with a silver signature and gold edges. In the background, a small inset window shows a man with a beard wearing a navy blue t-shirt and glasses, seated in a gaming chair in front of computer monitors. The screen displays the \"JASPYS\" logo along with the text \"CASEBREAKS.COM\" and \"Sports Cards & More.\" As the sequence progresses, the hands tilt the card, moving it from a vertical position to a more horizontal angle over the box, revealing different reflections on the card's surface. The overall setting is a brightly lit room with a patterned surface beneath the card and storage box."
+}

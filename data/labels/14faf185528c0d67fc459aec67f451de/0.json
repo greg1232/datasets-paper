@@ -1,0 +1,15 @@
+{
+  "video_id": "14faf185528c0d67fc459aec67f451de",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-238.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.7,
+    2.1,
+    3.5,
+    4.9
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser with multiple open tabs, including \"True Learning by Systemenll,\" \"Future of Society by Systemenll,\" and \"Road Community Food System.\" The main window features a complex conceptual map with colorful nodes connected by blue lines on a dark background. Text labels such as \"Whole-systems,\" \"Interconnected,\" \"Interdependence,\" and \"Holistic\" are visible within these nodes. In the upper right corner, a small video feed shows a man wearing a grey baseball cap and a dark shirt. Between the first and last frames, a cursor moves across the conceptual map, and a small pop-up window appears over the browser tabs with the text \"Road Community Food System.\" The layout of the map and the man in the video feed remain static, while the user interacts with the browser interface."
+}

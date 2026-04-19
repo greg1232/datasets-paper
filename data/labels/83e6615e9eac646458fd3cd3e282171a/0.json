@@ -1,0 +1,15 @@
+{
+  "video_id": "83e6615e9eac646458fd3cd3e282171a",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.613,
+    1.838,
+    3.062,
+    4.288
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a kitchen setting, a person uses a red spatula to stir a mixture of cooked grains and chopped onions in a large stainless steel bowl. To the right of the bowl, there is a small white plate containing more grains and a small red bowl filled with white, bean-like ingredients. The person's hand is visible on the left side of the bowl, actively mixing the ingredients. As the sequence progresses, the red spatula moves through the mixture, folding the grains and onions together. In the top left corner of each frame, a logo and text read \"UCAR CENTER FOR SCIENCE EDUCATION\" set against a blue and white cloudy background. The background of the scene consists of a light-colored wooden surface upon which the cooking vessels are placed. The action remains focused on the repetitive motion of stirring within the metallic bowl."
+}

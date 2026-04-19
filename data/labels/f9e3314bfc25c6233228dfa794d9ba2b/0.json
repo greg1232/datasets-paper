@@ -1,0 +1,15 @@
+{
+  "video_id": "f9e3314bfc25c6233228dfa794d9ba2b",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-154.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.237,
+    0.396,
+    0.554
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a graded sports card in a protective plastic case, tilting and turning it to show different angles. The person's hands are prominent in the foreground, while the background consists of a table with a palm tree patterned cloth. In the upper right of each scene, the logo \"JASPYS\" is visible alongside the text \"CASEBREAKS.COM\". A small inset window in the lower portion of the frames shows a man with a beard wearing a dark t-shirt with a yellow logo, sitting in front of a computer setup. As the sequence progresses, the person shifts the card, moving it from a vertical orientation to a more angled position, reflecting light off the plastic surface. The man in the inset remains seated, observing the process. The surroundings include various equipment and boxes on the table, maintaining a consistent setting throughout the clip."
+}

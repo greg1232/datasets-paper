@@ -1,0 +1,15 @@
+{
+  "video_id": "d17b521ad4683935ee8bdf27afb5a97c",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's left hand, wearing a ring on the ring finger and a dark bracelet on the wrist, is shown pointing to a catalog page. The page showcases a product line titled \"FROST SUITE\" and \"S LIKE FROST SUITE,\" featuring various winter-themed crafting supplies such as purple and white stamps, dies, and frosted frames. Legible text on the page includes product descriptions like \"FROSTED FRAMES\" and \"FROSTED POLKA DOTS,\" as well as price points such as \"Cling : TS2474 $76.00.\" The layout includes several example cards with phrases like \"You warm my heart\" and \"Yuleide Cheer.\" Across the sequence, the person's finger moves slightly across the page, gesturing toward different items in the \"FROST SUITE\" collection to highlight specific products for the viewer."
+}

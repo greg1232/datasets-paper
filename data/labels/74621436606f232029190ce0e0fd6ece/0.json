@@ -1,0 +1,15 @@
+{
+  "video_id": "74621436606f232029190ce0e0fd6ece",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing dark clothing and gloves sits atop a dark green all-terrain vehicle (ATV) parked inside a garage or shed. The vehicle features a black front brush guard, large knobby tires, and a single headlight. To the right, a portion of another ATV is visible, showing its rear tire and frame. The environment includes a light-colored concrete floor and a doorway in the background that lets in bright daylight. As the scene progresses, the person on the green ATV remains stationary, and the camera angle shifts slightly, creating a subtle handheld movement. There are no visible logos or on-screen text. The interaction between the subjects and the environment remains constant throughout the clip, with the person simply perched on the vehicle while the camera captures a brief, steady shot of the front of the ATV."
+}

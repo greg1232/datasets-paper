@@ -1,0 +1,15 @@
+{
+  "video_id": "39ba8fea43160b6ba6f3bd77663b5f20",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.323,
+    0.969,
+    1.615,
+    2.26
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen interacting with sports card boxes atop a red and orange surface featuring the \"JASPYS\" logo and \"CASEBREAKS.com\" text. In the foreground, a black \"OBSIDIAN\" box is displayed with the text \"LOOK FOR ROOKIE JERSEY AUTOGRAPHS\" and a graphic of a basketball player. Behind this box, a stack of similar \"OBSIDIAN\" boxes is visible. A small inset window in each frame shows a man with a beard wearing a black shirt, seated in a room with shelves of collectibles in the background. As the sequence progresses, a hand reaches toward and touches the foreground box. The scene maintains a consistent setting, focusing on the sports card merchandise and the presenter's activity, while the inset window provides a view of the person conducting the session."
+}

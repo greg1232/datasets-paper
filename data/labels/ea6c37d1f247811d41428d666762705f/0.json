@@ -1,0 +1,15 @@
+{
+  "video_id": "ea6c37d1f247811d41428d666762705f",
+  "url": "./data/segments/3dN_F08u-KE-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.42,
+    1.26,
+    2.1,
+    2.94
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grayscale, thermal-style video captures a wide, hazy landscape. In the upper-left corner of each frame, a trident emblem accompanies the text \"\u0413\u041e\u041b\u041e\u0412\u041d\u0415 \u0423\u041f\u0420\u0410\u0412\u041b\u0406\u041d\u041d\u042f \u0420\u041e\u0417\u0412\u0406\u0414\u041a\u0418\". A red \"13\" logo appears in the upper-right, and a circular \"GROUP 13\" logo with a bird emblem is positioned in the lower-right. A crosshair overlay is centered in the view. The scene begins with a bright, jagged formation of light and heat in the distance, suggesting an explosion or intense fire. As the sequence progresses, this bright area expands and softens into a broad, luminous cloud of smoke and heat that fills the horizon. The landscape remains desolate and indistinct, with shifting gradients of gray and white as the thermal energy spreads across the environment, obscuring the distant terrain."
+}

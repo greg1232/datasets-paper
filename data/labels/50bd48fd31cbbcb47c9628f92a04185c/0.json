@@ -1,0 +1,15 @@
+{
+  "video_id": "50bd48fd31cbbcb47c9628f92a04185c",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.288,
+    0.863,
+    1.439,
+    2.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows the windshield and cowl area of a vehicle. The windshield is slightly dirty with small specs of dust and debris. Along the right edge of the glass, the black plastic trim of the cowl is worn, with some dirt and organic debris gathered in the crevices. The reflections on the glass show a bright sky and the green foliage of nearby trees. Throughout the sequence, the camera remains relatively static, though there is a slight shift in angle. In the lower frames, the perspective moves slightly, providing a clearer view of the mechanical components and wiring located beneath the cowl area on the right side of the frame. No people, text, or logos are visible in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ebef4cca7ec5206526ce7fcbac418afb",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.475,
+    1.425,
+    2.375,
+    3.325
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a pink sleeveless shirt and dark shorts is in a gymnasium with a basketball court featuring a blue perimeter and a green painted key. In the initial scene, he holds a basketball and begins a motion to throw it. He then brings the ball overhead and launches it upward toward the ceiling. As the ball reaches its peak height, he remains stationary with his arms slightly raised. Finally, the ball descends through the air behind him as he stands with his arms down by his sides. The gym includes blue bleachers along the walls and two basketball hoops with transparent backboards mounted high on the white walls. No text or logos are visible in the scene."
+}

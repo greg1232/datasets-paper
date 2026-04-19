@@ -1,0 +1,15 @@
+{
+  "video_id": "100c9b1a0c436e0c8f6c4b95c80938f6",
+  "url": "./data/segments/3l84m5pRmyk-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.346,
+    1.039,
+    1.731,
+    2.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a wide global view of Earth, centered on North America and the Pacific Ocean. The perspective then rapidly zooms in, transitioning from a satellite view of the planet to a closer aerial view of a green and brown mountainous landscape. As the zoom continues, the scenery shifts to an urban environment, revealing a sprawling city with various low-rise and mid-rise buildings nestled against a backdrop of hills. The final view is a close-up aerial shot of a city center, highlighting several large, modern architectural structures, including a prominent multi-story hotel or office complex with a light-colored facade and a curved building adjacent to it. There are no people, on-screen text, or logos visible in any of the frames. The sequence depicts a seamless transition from a planetary scale down to a specific city street level."
+}

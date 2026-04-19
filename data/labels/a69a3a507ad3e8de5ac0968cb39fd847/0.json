@@ -1,0 +1,15 @@
+{
+  "video_id": "a69a3a507ad3e8de5ac0968cb39fd847",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    22.725,
+    68.175,
+    113.625,
+    159.075
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An educational presentation on \"CRYOGENIC ENGINEERING\" focuses on the \"Heat Exchanger.\" The top frames provide a textual definition, stating that \"A heat exchanger is a device in which the cooling effect from cold fluid is transferred to precool the hot fluid.\" The text further explains that it can be a \"two \u2013 fluid type or a three \u2013 fluid type\" and that the process is \"isobaric\" because it occurs at a \"constant pressure.\" As the presentation progresses to the bottom frames, visual diagrams are introduced. One diagram shows a heat exchanger with \"Fluid A, in, hot\" entering and \"Fluid A, out, cold\" exiting, accompanied by a temperature-length graph. The final frame adds a second fluid stream, labeling \"Fluid B, out, hot\" and \"Fluid B, in, cold,\" with a corresponding blue curve added to the temperature graph. Each frame features the NPTEL logo and the text \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\""
+}

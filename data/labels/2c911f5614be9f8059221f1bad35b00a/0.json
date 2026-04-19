@@ -1,0 +1,15 @@
+{
+  "video_id": "2c911f5614be9f8059221f1bad35b00a",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-123.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.135,
+    0.405,
+    0.675,
+    0.945
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of men are gathered outdoors in a sunny location with trees and a white vehicle in the background. One man in a white kurta and white pants stands prominently in the center, while another man wearing a white shirt and a black vest stands to his right. Several other men in varying attire, including white shirts and khakis, are scattered around them. The scene remains largely static across the frames, with only minor shifts in the men's postures and positions. A news overlay frames the footage with a red banner at the bottom stating \"\u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e: \u0928\u0940\u0924\u0940\u0936 \u0915\u093e \u0935\u093e\u092a\u0938 \u0906\u0928\u093e \u0938\u0941\u0916\u0926 \u0938\u092e\u093e\u091a\u093e\u0930 \u0939\u0948\" and a timestamp of \"10:07 PM\". In the top left and right corners, boxes contain portraits and names including \"\u0921\u093f\u092a\u094d\u091f\u0940 CM \u0938\u092e\u094d\u0930\u093e\u091f \u091a\u094c\u0927\u0930\u0940\", \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\", \"\u092e\u0902\u0924\u094d\u0930\u0940 \u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\", and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930\". A yellow banner at the top of the later frames reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\"."
+}

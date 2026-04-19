@@ -1,0 +1,15 @@
+{
+  "video_id": "da0f2c593d712578c39a29ebf03a80f7",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.687,
+    5.061,
+    8.436,
+    11.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A bald man with a grey beard, wearing a grey polo shirt, stands in a professional exhibition setting. Behind him are white display panels featuring logos and technical text. Legible text includes \"ZB38 AlphaSzenzor Inc\" and \"ALPHASENZOR.\" A name tag is clipped to his shirt, though only fragmented text is visible. Across the sequence, the man is speaking to someone off-camera. In the beginning, he looks slightly to the side with a neutral expression. He then faces forward, speaking with his mouth open. He momentarily looks down and away, before returning his gaze to the front, continuing to speak with an active facial expression. The background remains static, showing a partial view of a dark banner with the text \"AKER 3D\" and another panel marked \"ZB39 De.\" The camera remains in a medium close-up shot throughout the sequence."
+}

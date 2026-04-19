@@ -1,0 +1,15 @@
+{
+  "video_id": "5bd449649a9cc26ef6db04be52132d76",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-103.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.355,
+    4.065,
+    6.775,
+    9.485
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen capture shows a web browser window displaying a video call and a complex digital diagram on a black background. The diagram consists of various circles connected by curved lines; some circles contain icons, such as a red character and a small human figure. A small video feed in the upper right corner features a man wearing a grey hat and glasses, sitting in front of a dark background. Beside him, a larger video feed shows a red puppet interacting with people in a room with dark wooden paneling and a piano. The browser tabs at the top include titles such as \"True Learning by Systemdyn,\" \"Insights | Introduction | Rums,\" and \"Rural Community Food System.\" Other visible text includes \"play\" and \"starting\" near the diagram's icons. Across the sequence, the visual elements remain static, with no significant changes in movement or layout between the views."
+}

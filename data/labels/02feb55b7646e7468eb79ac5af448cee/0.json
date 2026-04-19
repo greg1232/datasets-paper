@@ -1,0 +1,15 @@
+{
+  "video_id": "02feb55b7646e7468eb79ac5af448cee",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-138.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The image consists of four identical frames displaying a medical simulation or training schedule table. The table is organized by days of the week, from Monday to Friday, and lists various clinical scenarios and training modules. Legible column headers include \"TRAUMA CASE (LEADING TO EXLAP)\", \"ADMISSION ORDERS (with paging intern/resident)\", \"ED CONSULT, OVERFLOW INTO ICU/TRAUMA\", and \"DIFFICULTY BREATHING\". Specific training tasks listed in the cells include \"EXLAP ON SIMULATOR, SPLENectomy AND BOWEL INJURY\", \"ALTERED MENTATION C-STARS\", \"PEPPER LAPAROSCOPIC\", and \"CENTRAL LINE PRACTICE\". Other noted scenarios include \"DETICK CONSENT FOR LAP CHOLE AND CENTRAL LINE PLACEMENT\", \"CODE ON POST-OP SURGICAL\", \"CHEST TUBE PLACEMENT\", and \"NURSING SKILLS\". The layout remains completely static across all four frames, with no changes in content, perspective, or visible movement, presenting a consistent view of the written training curriculum."
+}

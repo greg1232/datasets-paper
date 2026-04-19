@@ -1,0 +1,15 @@
+{
+  "video_id": "7203a40428a090accfcdfdbf32bbeff0",
+  "url": "./data/segments/3Z229_lKLpk-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.315,
+    0.945,
+    1.575,
+    2.205
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a group of men seated in a tiered assembly hall with green carpeting. The men are dressed in formal Indian attire, predominantly wearing white kurtas, some paired with dark vests or blue waistcoats, and one individual wearing a blue turban. They are seated in rows of wooden benches. Throughout the sequence, the men remain largely stationary, though subtle shifts in posture and facial expressions are visible as they look in different directions. One man in the foreground, wearing a white kurta, appears to be listening intently. The scene is captured from a slightly elevated angle, showing the organized layout of the chamber. There is no visible on-screen text, logos, or electronic equipment besides the wooden desk structures in front of the attendees. The lighting is consistent across the frames, maintaining a formal and static atmosphere."
+}

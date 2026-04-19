@@ -1,0 +1,15 @@
+{
+  "video_id": "1366c79a80de7e0f79c16165d57dc193",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.088,
+    0.263,
+    0.438,
+    0.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing dark grey or black trousers is positioned on the right side of the scene, standing on a light-colored wooden surface with horizontal planks. To the left, a small, rectangular white card with black text and a floral illustration is partially visible, tucked under a piece of light blue fabric or paper. The card contains the text \"art\" and \"n eart\" in a cursive font, along with a barcode at the bottom. As the sequence progresses, the person's leg moves slightly, shifting its position relative to the wooden planks. The camera angle remains static, capturing a close-up view of the lower leg and the adjacent object. The lighting is soft and consistent across the frames, highlighting the texture of the wooden background and the fabric of the trousers."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a1c526b4e462724b62d93b2ca1b81078",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.77,
+    23.31,
+    38.85,
+    54.39
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man and a woman are engaged in a conversation on a stage against a plain light-colored backdrop. The man, wearing a dark navy suit and trousers, stands on the left, while the woman, dressed in a dark blazer over a magenta top and light-colored trousers, stands on the right. Between them are two small white circular tables, each holding a bottle of water and a microphone. Above the scene, a black banner displays the logo and text \"mediasite by cornerstone\". Throughout the sequence, the woman remains relatively still, gesturing slightly with her hands as she speaks. The man listens attentively; he begins with his hands clasped in front of him, briefly raises his hand to his face in a thoughtful gesture, and then returns to his original posture. The camera remains static, capturing the interaction in a wide shot."
+}

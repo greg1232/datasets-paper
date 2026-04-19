@@ -1,0 +1,15 @@
+{
+  "video_id": "f60d510a22eb3153fec8f00f12a89b25",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-113.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.365,
+    1.094,
+    1.823,
+    2.552
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and a smiling expression is captured in a medium shot, wearing a blue and white pinstriped button-down shirt and black over-ear headphones. She is positioned in an indoor setting with light-colored walls, a beige curtain, and a blue curtain visible in the background. Throughout the sequence, she maintains a positive demeanor, speaking and smiling as her facial expressions shift slightly. In the lower-left corner of each shot, the on-screen text \"Nancy Ramya\" is visible. The background remains static, and the woman's position stays consistent, with only the subtle movements of her mouth and eyes changing as she talks."
+}

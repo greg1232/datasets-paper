@@ -1,0 +1,15 @@
+{
+  "video_id": "e529fb6c6d66292d9f17a5e201c8e972",
+  "url": "./data/segments/3QD9oO6sRns-Scene-150.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.237,
+    0.396,
+    0.554
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with small boxes on a black surface in a setting that appears to be a trading card breaking studio. The surface features a large orange and white logo that reads \"JASPYS CASEBREAKS\". In the background, several white boxes are scattered, and a person wearing a black t-shirt and a baseball cap is partially visible, sitting behind a desk. A small inset video window in the corner also shows the person and the workspace. Across the sequence, the person's hand enters the frame to handle the small boxes, shifting their position and moving them across the black mat. The background remains consistent, with the \"JASPYS CASEBREAKS\" branding prominently displayed on the surface and as a watermark in the corner, while the foreground action focuses on the manual manipulation of the product boxes."
+}

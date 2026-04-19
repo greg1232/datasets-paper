@@ -1,0 +1,15 @@
+{
+  "video_id": "d8c03b1021443b714cf1380787ceb557",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-421.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.123,
+    0.369,
+    0.615,
+    0.86
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, wearing round glasses, a dark blue patterned button-down shirt, and white over-ear headphones, is seated in a room. Behind him is a wall with a framed blue sign featuring the number \"20\" and a small blue fish logo. To his left, a decorated Christmas tree with glowing green, blue, and red lights is partially visible. A black microphone is positioned in front of him. Across the sequence, the man is laughing and talking, with his facial expressions shifting from a wide smile to an open-mouthed laugh and then to a more subtle smile. His head moves slightly as he reacts, but he remains in the same position throughout the clip. The background and equipment remain static as the focus stays on his animated facial reactions."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "bbe68eca724918f0e4c2e5ff0c7fa1f1",
+  "url": "./data/segments/3PlNaEZzZg0-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.671,
+    8.013,
+    13.354,
+    18.696
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard and glasses, dressed in a bright yellow kurta and a red, white, and orange patterned stole, stands behind a podium covered in a draped yellow cloth. He is positioned in front of a large backdrop featuring stylized red architectural outlines and green foliage. The man is speaking, with his mouth open and his hands resting on the edge of the podium. Throughout the sequence, he remains in the same position, though his facial expressions shift slightly as he speaks, and his head tilts slightly from side to side. He looks toward the left of the frame in some moments and toward the right in others. No text or logos are visible on the screen, and no other people or equipment are present in the shot."
+}

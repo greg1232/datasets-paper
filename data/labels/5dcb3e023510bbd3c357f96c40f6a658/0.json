@@ -1,0 +1,15 @@
+{
+  "video_id": "5dcb3e023510bbd3c357f96c40f6a658",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-316.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.095,
+    0.285,
+    0.475,
+    0.665
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call features a grid of participants in their respective home or office environments. The participants are diverse in age and gender, dressed in casual attire such as t-shirts and sweaters. Some people are speaking or listening attentively, while others are adjusting their positions. Legible on-screen text identifies some individuals, including \"Jerry Nichols\", \"Perry Mayman\", \"Jen Bartle\", \"Patrice Moore\", \"Satyamej Hersh\", \"Franca Pittas\", and \"Hari K\". Several participants are seen with headsets or wearing glasses. One frame shows a placeholder icon for a user named \"Hari K\" who is not currently visible. The visual arrangement of the participants remains consistent throughout the sequence, with no changes in the number of attendees or the overall layout of the virtual meeting room."
+}

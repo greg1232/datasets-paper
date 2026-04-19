@@ -1,0 +1,15 @@
+{
+  "video_id": "864f0cbbfb2f837e79c23104b5b82420",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.267,
+    0.8,
+    1.333,
+    1.867
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is preparing a dish in a kitchen setting, where a large metal mixing bowl sits on a wooden surface. In the initial sequence, the person's hands pour a light-colored, grainy mixture into the bowl. To the side, a white plate holds more of the same mixture, and a small red bowl contains white, bean-like ingredients. A circular inset window shows a woman with blonde hair wearing a black top, who appears to be presenting the activity. The logo and text \"UCAR CENTER FOR SCIENCE EDUCATION\" are displayed in the upper left corner of the scene. As the sequence progresses, the hands move to stir and mix the ingredients together within the large metal bowl. The background remains consistent throughout the frames, with the focus staying on the mixing process and the woman in the inset."
+}

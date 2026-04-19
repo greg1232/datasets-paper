@@ -1,0 +1,15 @@
+{
+  "video_id": "2f084eb1c3b21112cc03a4bf5bc602dd",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-087.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.751,
+    1.051
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video provides a close-up view of the interior door panel of a vehicle. The panel features a combination of brown tan upholstery, a light-colored wood-grain insert, and dark gray plastic molding. Centrally located is a recessed door handle and lock mechanism. To the right, a power window and lock control panel is integrated into the gray plastic armrest. Legible text on this panel includes \"POWER WINDOWS\" and \"POWER LOCKS.\" Throughout the sequence, the camera remains focused on the door panel, with a slight shift in lighting and perspective. The scene is static, as no people are present, and there are no movements of the controls or handles. The background shows a glimpse of green grass outside the open vehicle door."
+}

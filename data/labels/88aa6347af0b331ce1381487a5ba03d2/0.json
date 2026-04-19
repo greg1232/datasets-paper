@@ -1,0 +1,15 @@
+{
+  "video_id": "88aa6347af0b331ce1381487a5ba03d2",
+  "url": "./data/segments/3Smz5pevbI4-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.07,
+    21.209,
+    35.348,
+    49.487
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a grey blazer and brown trousers stands behind a wooden podium on a stage, addressing an audience. To his right, another man wearing a dark suit, white shirt, and blue tie sits in a black chair next to a small glass table. Behind them is a white wall featuring a repeated logo and the text \"INSTITUTE OF ISRAEL\". A blue flag with a white emblem stands to the left of the speaker. Below the stage, a diverse audience of people is seated, some of whom are using laptops. Across the frames, the scene remains largely static, with the speaker gesturing slightly with his right hand while the seated man remains still, listening. The lighting is bright and consistent throughout the sequence, and the positions of the people and objects on the stage do not change significantly."
+}

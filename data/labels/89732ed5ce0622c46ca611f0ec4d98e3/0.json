@@ -1,0 +1,15 @@
+{
+  "video_id": "89732ed5ce0622c46ca611f0ec4d98e3",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.826,
+    1.376,
+    1.927
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a dusty, light-colored quarry or excavation site, a yellow front-end loader and a yellow dump truck are positioned near a rocky cliff wall. The loader is situated to the left of the dump truck, with its bucket lowered toward the ground. A gold logo containing the letters \"VG\" is visible in the upper right corner of the scene. Across the sequence, the two vehicles remain nearly stationary, though the loader makes slight adjustments to its position. The surrounding landscape is composed of pale, sandy soil and jagged rock formations. No people are visible in the frames. The lighting is bright and overhead, casting distinct shadows beneath the heavy machinery on the flat, open ground."
+}

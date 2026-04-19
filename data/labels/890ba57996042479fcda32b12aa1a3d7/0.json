@@ -1,0 +1,15 @@
+{
+  "video_id": "890ba57996042479fcda32b12aa1a3d7",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.24,
+    3.719,
+    6.198,
+    8.677
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a live stream layout featuring a man with a beard wearing a black shirt, positioned in a webcam overlay at the bottom right. The main screen displays a web browser navigating the website \"RANDOM.ORG,\" specifically the \"List Randomizer\" tool. A list of names, including \"Ryan Presnell\" and \"Carl Hagedorn,\" is processed to be put in random order. To the right of the main window, a chat feed shows messages from \"glowbug27\" saying \"turning\" and \"Nightbot\" posting a link: \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/2Z6ebsK9\". A logo for \"JASPY'S CASEBREAKS.COM\" is visible at the bottom. As the sequence progresses, the user transitions from the randomizer results page to a Google Sheets spreadsheet where the randomized list of names is pasted into a column."
+}

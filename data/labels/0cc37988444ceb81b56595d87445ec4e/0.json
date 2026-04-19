@@ -1,0 +1,15 @@
+{
+  "video_id": "0cc37988444ceb81b56595d87445ec4e",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.158,
+    0.475,
+    0.792,
+    1.108
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen mixing a large quantity of light-colored, textured food, possibly grains or cooked vegetables, inside a dark grey bowl. The bowl sits on a light wooden surface next to a small white dish and a small red bowl, both containing similar food items. The top left corner of every frame contains a logo and the text \"UCAR CENTER FOR SCIENCE EDUCATION\". As the sequence progresses, the hands actively stir and toss the mixture, causing the food to move dynamically within the bowl. The motion becomes more blurred in the final frame, indicating a faster mixing action. The background remains a consistent, neutral indoor setting throughout the short clip, with the focus entirely on the preparation of the food."
+}

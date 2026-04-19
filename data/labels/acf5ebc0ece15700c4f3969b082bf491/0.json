@@ -1,0 +1,15 @@
+{
+  "video_id": "acf5ebc0ece15700c4f3969b082bf491",
+  "url": "./data/segments/3JYDT8lap5U-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    32.135,
+    96.405,
+    160.675,
+    224.945
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark suit jacket over a white shirt stands on a stage during a presentation at EuroPython in Edinburgh on July 23, 2018, as indicated by the footer text and logo. In the first frame, he stands beside a slide titled \"DON'T UNDERESTIMATE HIDDEN COMPLEXITIES\" which lists challenges like \"Complexity of staging and deploying ML models\" and \"Monitoring of ML ecosystem.\" As the presentation progresses, the slide changes to a white screen stating, \"After CryptoML was caught using deep learning... ...they were featured in the top 10 global news.\" The man continues to gesture while speaking. Later, a new slide appears titled \"INTRODUCING CELERY\" featuring an image of celery and the bullet points \"Distributed,\" \"Asynchronous,\" \"Task Queue,\" and \"For Python.\" The final scene shows the man gesturing toward a slide containing Python code and the header \"CONSUMER - STEP 2: CELERIZE IT.\""
+}

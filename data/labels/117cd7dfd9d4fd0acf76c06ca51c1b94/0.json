@@ -1,0 +1,15 @@
+{
+  "video_id": "117cd7dfd9d4fd0acf76c06ca51c1b94",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.126,
+    1.877,
+    2.628
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green all-terrain vehicle (ATV) is parked indoors on a light-colored concrete floor, likely in a garage or showroom, with another similar vehicle partially visible behind it. The green ATV features a black front brush guard, large treaded tires, and a white headlight. A white sticker with the word \"WARNING\" is visible on the front bodywork, and the vehicle behind it has \"4X4\" printed on its side. The environment is filled with various mechanical parts and equipment in the background. As the sequence progresses, the camera undergoes a slight shifting movement, tilting and zooming in closer to the front of the green ATV. No people are present in the scene, and the vehicle remains stationary throughout the frames."
+}

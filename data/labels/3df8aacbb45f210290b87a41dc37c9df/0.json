@@ -1,0 +1,15 @@
+{
+  "video_id": "3df8aacbb45f210290b87a41dc37c9df",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital animation unfolds against a dark, textured background featuring a glowing blue, circular energy field. In the beginning, a white, glitchy rectangular shape appears in the center of the blue sphere. As the sequence progresses, this shape transforms and clarifies into the legible text \"PLUS POLITICS\" in a bold, sans-serif white font. The text is contained within a bright, horizontal rectangular banner that exhibits a digital, pixelated flicker. Simultaneously, a thin, glowing blue arc emerges above the text, curving upward and outward. Below the words, a white waveform visualization fluctuates, resembling an audio frequency signal. By the end of the clip, the \"PLUS POLITICS\" logo is fully centered and stabilized within the pulsating blue light, with the arc and waveform flanking it, creating a polished digital graphic."
+}

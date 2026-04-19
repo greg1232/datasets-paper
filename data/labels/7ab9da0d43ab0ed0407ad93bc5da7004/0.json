@@ -1,0 +1,15 @@
+{
+  "video_id": "7ab9da0d43ab0ed0407ad93bc5da7004",
+  "url": "./data/segments/3F2rz23IKUk-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.245,
+    12.735,
+    21.225,
+    29.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with brown hair and glasses stands in an indoor setting, likely a classroom or lecture hall, in front of a plain wall with a horizontal divider. He wears a black t-shirt featuring a yellow graphic and the text \"Kn th\" and a blue lanyard with an ID badge. Initially, he stands with his hands raised, speaking with an open expression. He then looks down and clasps his hands together. In the subsequent sequence, he looks back up toward the viewer while keeping his hands joined. Finally, he lifts a white framed object, which appears to be a tablet or a small screen, into the air with his right hand while moving his left hand. A black chair is partially visible in the lower foreground throughout the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4a1b1abc6fffb6e1d31bef2da488f8c6",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.222,
+    3.666,
+    6.11,
+    8.554
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person stands in a medical simulation setting, with other individuals wearing blue scrubs and masks visible in the background. Superimposed on the scene is a checklist of medical procedures and tasks, including items such as \"Trauma resuscitation,\" \"Admission order writing,\" \"ED Consultation/IV trainer,\" and \"Evaluation of shortness of breath in clinic.\" Small pink badges labeled \"Sim Week\" appear next to certain sections of the list. Throughout the sequence, the list of tasks is scrolled through, with new items appearing at the bottom and others moving upward. The list continues with entries like \"Code on post-op patient,\" \"Chest tube placement, bronchoscopy,\" \"Nursing 101,\" and \"Intubation and difficult airway management.\" As the scrolling continues, items such as \"Abdominal wall closure,\" \"GI bleed in ICU,\" \"Family updates,\" and \"Admission of transfer patient\" become visible. The background remains a consistent hospital-like environment while the text moves."
+}

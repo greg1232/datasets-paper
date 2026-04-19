@@ -1,0 +1,15 @@
+{
+  "video_id": "bc8da7d3a3bfa99441ea767e2445102a",
+  "url": "./data/segments/3hcAJKLX-Ps-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.84
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a short beard, wearing a white collared shirt, speaks into a handheld microphone. He stands in an indoor setting with a bright, modern ceiling featuring recessed lighting and suspended black fixtures. Behind him, a large yellow banner displays an image of his own face and Tamil text including \"\u0ba8\u0bbe\u0bb0\u0bbf\u0bb2\u0bcd\u0bb5\u0ba4\u0bc1\". Other men are visible in the background, including one wearing a dark suit and red tie and another in a light pink shirt. The man gestures with his left hand while speaking, moving it away from his body before bringing it back closer to his chest. He maintains a consistent position throughout the sequence, though his facial expressions shift as he talks. A small logo featuring a hand symbol is partially visible on the banner near his shoulder."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c191a49bc7305ef421f5c38e72a19181",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.055,
+    15.165,
+    25.275,
+    35.385
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman stands in front of a projected presentation in an indoor room, delivering a talk to an audience. She is wearing a dark blazer over a white t-shirt and jeans, holding a thin tablet or folder in her hands. To her right, a man wearing a light yellow shirt and a green beanie is seen from behind, listening to the presentation. The projection on the wall depicts a futuristic cityscape with winding metallic paths and displays the text \"information superhighway\" in white lowercase letters. A black chair is visible in the background to the right. Across the sequence, the woman gestures with her right hand while speaking, shifting her posture slightly. The man remains seated and still, focusing on the screen. The lighting and the overall environment remain consistent as the woman continues her presentation."
+}

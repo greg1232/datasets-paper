@@ -1,0 +1,15 @@
+{
+  "video_id": "3c30ca673ffa0136e5bc96222beae227",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-160.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    9.952,
+    29.855,
+    49.758,
+    69.661
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with gray hair and glasses stands behind a podium in front of a brown slatted wall, speaking into a black microphone. He wears a light blue button-down shirt adorned with bird patterns and a colorful horizontal stripe across the middle, complemented by a beaded necklace with a pendant. In the bottom right corner of each frame, the text \"ORCA\" is displayed in a white box. As the sequence progresses, the man speaks, shifting his facial expressions from a serious look to a slight smile and back. His head moves slightly as he talks, and his hands are partially visible at the bottom of the frame, resting on the podium. The camera remains stationary, capturing the man from the chest up throughout the clip."
+}

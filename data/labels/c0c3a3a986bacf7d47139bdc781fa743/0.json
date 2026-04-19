@@ -1,0 +1,15 @@
+{
+  "video_id": "c0c3a3a986bacf7d47139bdc781fa743",
+  "url": "./data/segments/3E6ctN22V7k-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.965,
+    2.895,
+    4.825,
+    6.755
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with short, dark curly hair and a dark jacket is captured in a close-up shot against a blurred outdoor background of greenery and a pale structure. He is speaking, and his facial expression remains solemn and steady as he looks slightly off-camera to the left. Throughout the sequence, his posture and position remain nearly static, with only slight natural movements of his lips and eyes as he speaks. Overlaid across the bottom of the screen in a light-colored font is the text, \"We pass our days mostly at home, or we wander in the camp without anything to do.\" The scene remains consistent across the frames, focusing on the man's face to convey a sense of stillness and reflection."
+}

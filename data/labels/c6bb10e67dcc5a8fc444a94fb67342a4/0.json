@@ -1,0 +1,15 @@
+{
+  "video_id": "c6bb10e67dcc5a8fc444a94fb67342a4",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.5,
+    2.5,
+    3.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a pink t-shirt and grey shorts is practicing basketball in an indoor gymnasium. The gym features a polished wooden court with blue and green painted sections, blue bleachers in the background, and a basketball hoop with a white backboard. In the sequence, the man starts by standing on the court, preparing to shoot. He then jumps upward, releasing the basketball toward the hoop. The ball travels through the air, momentarily appearing at the top of the frame near the rim. Finally, the man lands back on the court as the ball bounces off the floor in front of him. No other people are visible in the gym, and there is no on-screen text or logos present."
+}

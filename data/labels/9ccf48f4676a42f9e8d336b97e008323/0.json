@@ -1,0 +1,15 @@
+{
+  "video_id": "9ccf48f4676a42f9e8d336b97e008323",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-130.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.242,
+    0.726,
+    1.21,
+    1.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people is seated in an auditorium facing a podium where a speaker stands. The room features vertical wood-paneled walls and blinds in the background. The speaker, a person wearing a white top and dark vest, stands behind a dark lectern, gesturing with their hands while speaking. In the audience, several individuals are seen from behind; one man wears a grey patterned blazer, a woman wears a blue and white scarf, and another wears a yellow jacket. A white watermark with the text \"ORCA\" is visible on the right side of the screen. Between the frames, the speaker shifts their posture and hand positions, moving from leaning over the lectern to standing more upright with a hand raised toward their face, while the seated audience remains relatively still."
+}

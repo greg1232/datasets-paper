@@ -1,0 +1,15 @@
+{
+  "video_id": "1c4cba4e3f9293899b510dad97194c15",
+  "url": "./data/segments/3Z229_lKLpk-Scene-173.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.395,
+    1.185,
+    1.975,
+    2.765
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with white hair and a beard, dressed in a light-colored traditional Indian outfit consisting of a long-sleeved shirt and a sleeveless vest, stands behind a brown podium. He is speaking in front of a textured, dark green wall with geometric patterns and vertical metallic columns adorned with pink floral accents. Two microphones are positioned on the podium in front of him. As the sequence progresses, the man uses his left hand to gesture, starting with his arm resting near the podium, then lifting it and waving it in the air to emphasize his points. His facial expressions change slightly as he speaks, with his mouth open and gaze shifting. The background, the podium, and his attire remain constant throughout the scene, while his physical movements provide the only dynamic elements."
+}

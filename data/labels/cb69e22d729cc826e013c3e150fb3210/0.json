@@ -1,0 +1,15 @@
+{
+  "video_id": "cb69e22d729cc826e013c3e150fb3210",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-128.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.206,
+    0.619,
+    1.031,
+    1.444
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds up a baseball trading card featuring an athlete in a white jersey. The card includes a signature and the name \"MADDUX\" printed at the bottom. In the background, a man wearing a navy blue t-shirt is seated behind a table, and a blue banner with green palm trees and the text \"JASPYS\" and \"CASEBREAKS.COM\" is visible. To the right of the man sits a small electronic device and a stack of cards. As the sequence progresses, the hand subtly shifts the position of the card, moving it slightly to the right and tilting it. The background remains static, showing the man and the equipment on the table. The logo \"JASPYS\" and the website \"CASEBREAKS.COM\" are consistently displayed in the upper right area of the scene."
+}

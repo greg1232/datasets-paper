@@ -1,0 +1,15 @@
+{
+  "video_id": "de1e49ea6cd5540c98ae8d22b30f3e8d",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-210.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.776,
+    2.327,
+    3.879,
+    5.43
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video segment features a static background image of a wooden desk from an overhead perspective, showing a notebook, a white piece of paper, and a white coffee mug. Overlaid on this scene is a blue and white graphic interface. A dark blue banner at the bottom displays the name \"Basil Chapman\" in white, with the smaller text \"The Tiger Technicians Hour | June 8th, 2022\" beneath it. In the upper right, the bold blue text \"DAILY MARKET OVERVIEWS\" is visible. As the sequence progresses, a list of topics appears one by one beneath the header, each preceded by a blue arrow. First, \"KEY INDICES\" appears. This is followed by the partial appearance of \"SELECTIVE STOCKS,\" which is fully revealed in the final frame alongside a third entry, \"COMMODITIES.\" The background and the bottom banner remain stationary throughout the transition."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d702466e6e9d036c784402e082122e69",
+  "url": "./data/segments/3P1vSUbet40-Scene-0840.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white button-down shirt, a red bowtie, and a tall, grey, textured wig sits in a studio. He wears over-ear headphones and has his hand raised to his left ear. He is positioned behind a microphone on a boom arm. The background is a wall decorated with numerous small, framed photographs and a \"LEE\" branded garment. On-screen text appears twice in each scene: a logo on the left that reads \"BOSS TALK 101 PODCAST\" and text on the right that reads \"BOSS TALK 101\". The man remains relatively still across the sequence, with slight shifts in his head position and facial expression as he looks slightly downward and to the side. The camera angle remains a medium shot, capturing him from the waist up against the cluttered studio backdrop."
+}

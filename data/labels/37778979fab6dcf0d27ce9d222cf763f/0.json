@@ -1,0 +1,15 @@
+{
+  "video_id": "37778979fab6dcf0d27ce9d222cf763f",
+  "url": "./data/segments/3EOkyr653jg-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.482,
+    7.445,
+    12.408,
+    17.372
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young woman with blonde hair, wearing a blue t-shirt and a dark cardigan, is interviewed outdoors in front of a large solar panel array and a small building. In the first three frames, she is speaking, with on-screen text identifying her as \"Erica Bjelland\" and \"Program Development Specialist.\" Her shirt features the logo \"RREAL\" and the phrase \"The Power to make a difference\" above the words \"Rural Renewable Energy Alliance.\" As the sequence progresses, she continues talking while maintaining a pleasant expression. The scene then cuts to an indoor news studio where a man in a grey suit jacket and a patterned tie sits at a curved desk next to a woman in a black blazer. They are positioned in front of a backdrop featuring a \"PBS\" logo. This shift in setting moves the perspective from the field interview to the studio hosts."
+}

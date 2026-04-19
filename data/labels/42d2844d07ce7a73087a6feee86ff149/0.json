@@ -1,0 +1,15 @@
+{
+  "video_id": "42d2844d07ce7a73087a6feee86ff149",
+  "url": "./data/segments/3E6ctN22V7k-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.385,
+    1.155,
+    1.925,
+    2.695
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot shows a person's hand holding a blue pen, positioned over a piece of lined paper covered in handwriting. The hand is dark-skinned and holds the pen in a writing position, though it remains relatively still across the sequence. The background is slightly blurred, showing the edges of the notebook and a blue surface, possibly a folder or another book. White subtitles appear at the bottom of the scene, stating, \"I like reading, I like writing, I am a slam artist, and I am also a journalist.\" The lighting is soft and muted, casting a cool tone over the image. Between the frames, there is minimal movement as the person holds the pen steady over the text, with the focus remaining tightly on the interaction between the hand, the pen, and the handwritten page."
+}

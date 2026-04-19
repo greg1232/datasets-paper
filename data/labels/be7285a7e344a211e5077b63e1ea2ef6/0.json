@@ -1,0 +1,15 @@
+{
+  "video_id": "be7285a7e344a211e5077b63e1ea2ef6",
+  "url": "./data/segments/3P1vSUbet40-Scene-0172.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.751,
+    1.251,
+    1.752
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with light brown hair tied up and wearing black headphones and a black t-shirt is seated in a podcast studio. She is speaking and gesturing with her right hand. In front of her is a black professional microphone on a boom arm. Behind her is a white wall featuring a yellow vertical stripe and a black sign with the name \"Johnson\" in red text, with \"Employee Only\" written smaller above it. On-screen graphics include a logo with the text \"BOSS TALK 101\" in red and white, as well as a smaller badge that reads \"PODCAST\". Across the sequence, the woman continues her conversation, shifting her facial expressions and moving her hand and arm while maintaining her position in front of the microphone."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9827e2b5541acdca6596c9023e98a779",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.33,
+    0.55,
+    0.77
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A soccer player wearing a blue Real Madrid jersey and green shorts stands on a green grass field in a stadium with red seating. He holds a soccer ball in his hands. In the background, another person in dark athletic wear is visible. The field is lined with banners featuring the word \"CASTOR\" and the phrase \"JUNTOS POR UN M\u00c1S LIMPIO.\" A Real Madrid crest is visible in the top center and bottom left of the frames. Overlaid on the scene is a subscription interface. A \"SUBSCRIBED\" button is present, and a cursor interacts with the elements; it first clicks the button and then a notification bell icon. In the final sequence, the subscription overlay transforms into a set of blue horizontal bars with a small blue graphic to the right. The player remains in a similar position, though he shifts his stance slightly as the clip progresses."
+}

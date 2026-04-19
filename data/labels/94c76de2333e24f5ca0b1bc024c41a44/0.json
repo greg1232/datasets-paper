@@ -1,0 +1,15 @@
+{
+  "video_id": "94c76de2333e24f5ca0b1bc024c41a44",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-250.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.901,
+    1.502,
+    2.102
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and a shaved head wears black over-ear headphones and a white t-shirt with the text \"Stay Solid\" printed on the chest. He is positioned in a recording studio in front of a dark grey, ribbed acoustic foam wall. A silver condenser microphone, held by a black shock mount and boom arm, is situated directly in front of him. As the sequence progresses, the man looks slightly to his right and smiles broadly, showing his teeth. His expression shifts from a subtle grin to an open-mouthed laugh while he remains seated and facing toward the microphone. The background and equipment remain stationary throughout the clip, while the man's facial expressions and head position shift slightly as he reacts to something occurring off-screen."
+}

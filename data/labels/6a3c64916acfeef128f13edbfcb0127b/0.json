@@ -1,0 +1,15 @@
+{
+  "video_id": "6a3c64916acfeef128f13edbfcb0127b",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-079.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.305,
+    0.915,
+    1.525,
+    2.135
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features reports on political figures in Bihar. The scene transitions from a graphic displaying a map of Bihar with images of two men in white traditional clothing standing on either side. On-screen text includes \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091b\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\" and a red banner reading \"JDU \u0915\u093e \u0927\u092e\u0915\u0940\" which changes to \"JDU \u0915\u094b \u0927\u092e\u0915\u0940\" in the subsequent frame. The \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo is visible in the upper right, and a \"BREAKING NEWS\" ticker runs across the bottom along with a timestamp of \"10:04 PM\". The footage then cuts to a man with a mustache wearing a red vest over a white shirt, seen inside a vehicle. He gestures with his hand while speaking into a microphone labeled \"ANI\". On-screen text changes to \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". The names \"\u0921\u093f\u091c\u0940 CM\", \"\u0938\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940\", \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\", \"\u092e\u0902\u0924\u094d\u0930\u0940\", \"\u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930\", and \"\u0935\u093f\u091c\u092f \u091a\u094c\u0927\u0930\u0940\" appear on the left and right sides of the screen."
+}

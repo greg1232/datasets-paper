@@ -1,0 +1,15 @@
+{
+  "video_id": "f7c89848773a81e475320a5093055f3e",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-153.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.455,
+    1.365,
+    2.275,
+    3.185
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast shows a group of men and one woman seated behind a long white table against a red backdrop. The men are dressed in a mix of formal suits and traditional Indian attire, including kurtas and turbans. They sit side-by-side, facing forward, with water bottles and small floral arrangements on the table. On-screen text overlays identify several individuals, including \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\" (Vijay Sinha), \"\u0938\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940\" (Sabrat Chaudhary), and \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\" (Santosh Suman). A news ticker at the bottom and a headline bar at the top feature Hindi text, including the phrases \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\" and \"JDU \u0915\u094b\u091f\u0947 \u0938\u0947 \u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930 \u092e\u0902\u0924\u094d\u0930\u0940 \u092c\u0928\u0947\". The \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo appears in the upper right corner. As the scene progresses, the graphics shift, and a small inset window appears in the bottom right showing a man, while a new inset in the middle left shows a close-up of \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\" (Chief Minister Nitish Kumar)."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9284e06e093472febd7406c83a744da5",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.321,
+    0.963,
+    1.604,
+    2.246
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, white airplane is positioned inside a spacious aircraft hangar with industrial metal framing and overhead lighting. The camera slowly zooms in on the nose of the aircraft, moving from a wide shot of the cockpit windows and engines to a close-up of the rounded nose cone. The plane features a distinct black band across the front, just below the cockpit windows. In the background, several jet engines are visible under the wings, and the hangar floor is a smooth, grey concrete. A red and white logo with the number \"13\" appears in the top right corner of each frame. No people are visible in the shots. As the sequence progresses, the cockpit windows disappear from view as the camera centers entirely on the white, curved surface of the aircraft's nose."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "fe18c08fd60bd8852075b2f71914f763",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.388,
+    1.164,
+    1.939,
+    2.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands before a microphone in a room with wood-paneled walls and blinds. He is dressed in a white long-sleeved shirt under a black vest. He appears to be speaking or singing, with his mouth open in the sequence. In front of him, the backs of several audience members are visible, including individuals with long blonde and white hair. To the right side of the scene, the word \"ORCA\" appears in white capital letters against a white rectangular background. Throughout the frames, the man remains in the same position, though he slightly shifts his posture and moves his left arm upward and away from his body. The audience members remain relatively still, and the background environment stays consistent across the duration of the clip."
+}

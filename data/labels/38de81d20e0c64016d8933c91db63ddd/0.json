@@ -1,0 +1,15 @@
+{
+  "video_id": "38de81d20e0c64016d8933c91db63ddd",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-890.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, headphones, and a black hoodie with \"BOSS\" written in gold letters sits in a studio setting. He is positioned behind a dark desk equipped with a professional microphone on a boom arm. To his left, a white banner displays the text \"URBANE HUSTLE\" beneath a row of stars. Behind him, blue text on the wall reads \"Where BOSSES Talk!\". On the desk, a small black device and a red-and-white circular logo that says \"THE TALK OUT GAME\" are visible. Throughout the sequence, the man remains seated, initially looking toward someone off-camera to his right while gesturing with his left hand. By the final scene, he turns his head and begins to speak, his facial expression shifting as he engages in conversation."
+}

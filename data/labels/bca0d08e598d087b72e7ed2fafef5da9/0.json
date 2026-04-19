@@ -1,0 +1,15 @@
+{
+  "video_id": "bca0d08e598d087b72e7ed2fafef5da9",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-179.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.781,
+    1.094
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light brown hair wearing a dark blue t-shirt is visible in a small rectangular webcam overlay in the lower-left corner of the screen, positioned in front of a decorated Christmas tree. The main screen displays a gaming interface with a red background and the text \"ULTIMATE TEAM\" repeated at the top and bottom. A naming menu is open, featuring the heading \"ITEM NAME\" above a text entry box and a virtual QWERTY keyboard. In the first frame, the text box contains \"randa|\". As the sequence progresses, the characters are deleted one by one. By the second frame, it reads \"ran|\", the third \"ra|\", and finally, the fourth frame shows an empty text box \"|\". Throughout this process, the \"e\" key on the virtual keyboard remains highlighted in yellow. The keyboard includes options such as \"EXIT\", \"BACK\", \"CAPS\", \"CLEAR\", \"SPACE\", and \"DONE\"."
+}

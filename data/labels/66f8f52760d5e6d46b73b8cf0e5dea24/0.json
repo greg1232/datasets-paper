@@ -1,0 +1,15 @@
+{
+  "video_id": "66f8f52760d5e6d46b73b8cf0e5dea24",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.177,
+    0.532,
+    0.886,
+    1.241
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit side-by-side in a room, positioned in front of a television and a shelf of media cases. The man on the left wears a grey t-shirt and maintains a neutral expression, while the man on the right, also in a grey t-shirt and wearing a necklace, rests his chin on his hand. Behind them, a glowing neon sign reads \"OUR STUPID REACTIONS\", though the first word is partially obscured in the first frame. A small screen is superimposed in the center of the shot, showing a dark scene. In the initial frame, this inset screen displays a dimly lit room with the caption \"My life doesn't hold more value than my people.\" As the sequence progresses, the image in the inset screen shifts to a dark, shadowy environment where a creature-like figure appears to move. The two men remain still, watching the footage."
+}

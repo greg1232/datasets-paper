@@ -1,0 +1,15 @@
+{
+  "video_id": "e420eae8e65c35e599ddf3887bcae01f",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.602,
+    1.806,
+    3.01,
+    4.215
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair wearing a dark blue t-shirt is visible in a small webcam overlay in the bottom left of a video game screen. The main display shows a menu titled \"UNOPENED PACKS\" featuring several dark, stone-textured gift boxes with glowing gems or objects inside. On-screen text identifies these as \"LOVELY PRESENT,\" \"BLITZ PRESENT,\" and \"SMALL PRESENT,\" along with quantities like \"x6\" and \"x1.\" The top of the screen displays numeric values and a level indicator \"LV 19.\" The man looks toward the camera and speaks, his facial expressions changing slightly as he progresses through the menu. Across the sequence, the screen content shifts as the user scrolls through the available packs, moving the highlight from the leftmost presents toward the right, while the man remains in his consistent position in the corner."
+}

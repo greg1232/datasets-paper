@@ -1,0 +1,15 @@
+{
+  "video_id": "1ad2d4ca272e45f2e77faf30d876181f",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-413.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.077,
+    0.231,
+    0.385,
+    0.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game takes place in a stadium under bright lights, with a grass field marked with yard lines and the word \"COMMANDERS\" visible in the end zone. Players in white uniforms and opposing players in dark uniforms are engaged in a play. A quarterback in a white uniform drops back and then moves forward, eventually being tackled by a defensive player. A picture-in-picture window in the lower corner shows a man wearing a dark shirt and headphones, observing the action. On-screen graphics at the top show \"1st & 10\", a score of \"14\" and \"7\", and a game clock at \"3:59\" in the \"4th\" quarter. As the sequence progresses, the play unfolds with the quarterback moving toward the line of scrimmage and getting brought down. The game clock advances slightly to \"3:58\" toward the end of the clip."
+}

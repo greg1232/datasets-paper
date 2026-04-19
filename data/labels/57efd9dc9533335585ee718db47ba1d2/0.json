@@ -1,0 +1,15 @@
+{
+  "video_id": "57efd9dc9533335585ee718db47ba1d2",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.205,
+    0.615,
+    1.025,
+    1.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A stylized blue digital animation unfolds across the sequence. The scene features a glowing, three-dimensional logo consisting of the text \"PLUS POLITICS\" in white, capital letters. This text is positioned on a luminous blue rectangular platform that appears to float above a textured, grid-like surface. Below the text, a bright blue silhouette of a city skyline is visible, encircled by a glowing blue ring. The background consists of vertical, shimmering blue light bars that create a high-tech, electronic atmosphere. As the sequence progresses, the camera angle shifts, moving from a high, tilted perspective to a lower, more direct view. The lighting intensifies, causing the glow around the \"PLUS POLITICS\" logo and the city skyline to brighten and expand, filling more of the screen with a vibrant blue light."
+}

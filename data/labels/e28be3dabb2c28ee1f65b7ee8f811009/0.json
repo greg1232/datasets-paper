@@ -1,0 +1,15 @@
+{
+  "video_id": "e28be3dabb2c28ee1f65b7ee8f811009",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a split-view interface featuring a terminal window and a web browser. The terminal window is filled with lines of server logs, containing timestamps and HTTP request data such as \"GET /favicon.ico HTTP/1.1\" and \"GET /index.html HTTP/1.1\". To the right, a Google Chrome browser window attempts to load a page at \"localhost:3000\" but fails, displaying the error message \"This site can\u2019t be reached\" followed by \"localhost refused to connect.\" The browser suggests troubleshooting steps, including \"Checking the connection\" and \"Checking the proxy and the firewall,\" and notes \"ERR_CONNECTION_REFUSED\" at the bottom. As the sequence progresses, the screen layout shifts, showing a duplicate view of the same browser error page across the bottom half of the screen, while the terminal logs remain visible in the upper left."
+}

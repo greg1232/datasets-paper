@@ -1,0 +1,15 @@
+{
+  "video_id": "3ea30b6b468a0a125e193db30913f39d",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.815,
+    14.444,
+    24.073,
+    33.702
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with styled hair and a light beard, wearing a pink sleeveless athletic tank top, is positioned in the foreground of a basketball gymnasium. The setting features a polished wooden court with green markings, blue padded wall panels, and blue bleachers in the background. Basketball hoops are mounted on the walls. Across the sequence, the man remains centered in the shot, facing the camera. He is speaking, and his facial expressions shift slightly as he talks, with his mouth moving and his eyes blinking. His posture remains relatively still, though there is a subtle shift in his head position and gaze between the beginning and end of the sequence. No on-screen text, logos, or other people are visible in the scene."
+}

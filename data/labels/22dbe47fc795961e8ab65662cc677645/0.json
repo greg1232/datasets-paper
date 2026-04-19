@@ -1,0 +1,15 @@
+{
+  "video_id": "22dbe47fc795961e8ab65662cc677645",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-305.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.145,
+    9.435,
+    15.725,
+    22.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call features a grid of participants in various home or office settings. The screen displays multiple people, including individuals identified by on-screen text as \"Jerry Michalk,\" \"Howard Silverman,\" \"mwangbedding,\" \"Jim Burke,\" \"Patricia Marcini,\" \"Seymour Harris,\" \"Judith Bentum,\" and \"Michael Orient.\" The participants are mostly men wearing casual shirts, with some wearing glasses. Many are looking at their cameras, while others are talking or gesturing. The background for some includes bookshelves or plain walls. As the video progresses, the arrangement of the participants' video feeds shifts, with some faces appearing and disappearing or moving to different positions on the screen. The overall layout remains a grid of video tiles, capturing a group of people engaging in a remote meeting."
+}

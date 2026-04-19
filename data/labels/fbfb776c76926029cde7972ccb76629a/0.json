@@ -1,0 +1,15 @@
+{
+  "video_id": "fbfb776c76926029cde7972ccb76629a",
+  "url": "./data/segments/3tXiKB90OM0-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.442,
+    7.325,
+    12.208,
+    17.092
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a navy blue uniform and a bright red life vest with the text \"BD-04\" printed on the back is working alongside the hull of a large, grey ship docked at a pier. In the initial sequence, the individual is bent over near the waterline, handling a thick white rope or cable that extends from the ship toward the dock. As the scene progresses, the camera shifts perspective, showing the person moving further along the side of the vessel. The grey hull of the ship features a prominent anchor and the number \"44\" painted in white near the top. The background reveals a calm body of water and white buildings along a distant shoreline under a bright sky. The person remains focused on managing the equipment as they move parallel to the ship's side."
+}

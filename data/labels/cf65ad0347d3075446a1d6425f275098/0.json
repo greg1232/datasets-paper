@@ -1,0 +1,15 @@
+{
+  "video_id": "cf65ad0347d3075446a1d6425f275098",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-195.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.26,
+    0.78,
+    1.3,
+    1.82
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a digital presentation of a causal loop diagram on a black background. The diagram consists of green text labels connected by curved blue arrows, illustrating a system of relationships. Legible labels include \"Attractiveness of Garden,\" \"Birds at Food,\" \"Unsightly Goats,\" and \"Buy Bird deterrent.\" Red dashed arrows also connect several elements, such as \"Frustrate\" and \"deter.\" A man wearing a dark hat is visible in a small video inset at the top center of the screen, though he remains relatively still across the sequence. The browser interface is visible at the top, showing tabs and a URL from \"blackboard.com.\" As the video progresses, a white mouse cursor moves across the screen, eventually hovering over the label \"Scares\" in the lower center of the diagram, while the overall layout of the system map remains static."
+}

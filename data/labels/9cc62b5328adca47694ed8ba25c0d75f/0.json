@@ -1,0 +1,15 @@
+{
+  "video_id": "9cc62b5328adca47694ed8ba25c0d75f",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-262.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.125,
+    1.875,
+    2.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game broadcast features a wide shot of a field with \"COMMANDERS\" written in large red letters across the turf. Players in white and black uniforms are positioned on the field, preparing for a play. In the bottom-left corner of the screen, a man with blond hair wearing a navy blue shirt is visible in a small inset window. The broadcast overlay includes several labels at the top and bottom, including \"INSIDE STUFF,\" \"UNDER PRESSURE,\" and \"DEEP OUT ZONE KO.\" The logo \"XFACTOR\" is displayed prominently on the screen. Across the sequence, the players on the field shift their positions slightly as they engage in the play, while the man in the inset window remains relatively still. Text such as \"CARLON WATKINS,\" \"JONEN TOO TALL JONES,\" and \"DEMARCUS WARE\" appears in small banners across the top and bottom of the screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d98bad573adede0031dbf63dc249bdb9",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.29,
+    0.869,
+    1.448,
+    2.027
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black t-shirt is seated at a desk in a room with grey walls, appearing in a video stream overlay. To the left of the person, a digital spreadsheet lists NBA teams and corresponding names, such as \"BROOKLYN NETS\" and \"CHARLOTTE HORNETS.\" On the right, a chat window displays messages from \"glowbog27\" and \"Nightbot,\" including the text \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/2SswK4y\". A \"JASY'S CASEBREAKS.COM\" logo is visible at the bottom of the stream. As the sequence progresses, a hand enters the frame from the right, holding a cardboard box containing various items, which is gradually moved toward the center of the screen, partially obscuring the spreadsheet and the person. The scene shifts from a static view of the streamer and their screen to the introduction of physical products being presented to the camera."
+}

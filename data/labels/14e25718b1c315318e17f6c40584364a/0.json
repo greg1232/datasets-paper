@@ -1,0 +1,15 @@
+{
+  "video_id": "14e25718b1c315318e17f6c40584364a",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.517,
+    1.55,
+    2.583,
+    3.617
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is positioned in the bottom left corner of the screen, appearing as a talking head overlay against a backdrop of a trading platform. The background features the \"TICKMILL\" logo and the German text \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN,\" alongside trading specifications such as \"Knappste Spreads ab 0.1 Pips.\" The main focus of the screen is a BTCUSD (H1) financial chart displaying a price line and green volume bars. A list of various currency pairs and their corresponding values is visible on the left side of the interface. As the sequence progresses, the man remains in the same position, speaking and gesturing slightly while the background trading interface remains static, showing the same chart and data throughout the clip."
+}

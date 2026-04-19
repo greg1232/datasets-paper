@@ -1,0 +1,15 @@
+{
+  "video_id": "ee03dec90f7d78da76ec7fc9ffe94a99",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.89,
+    5.67,
+    9.45,
+    13.23
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video conferencing session where a participant, a man wearing a dark baseball cap, is visible in a small window at the top. The main area of the screen displays a dark-themed interactive mind map or network diagram with various connected nodes and circular icons. A smaller inset window shows a cartoon avatar of a person with dark hair. The browser tabs at the top show several open pages, including \"Truth & Learning by Systemen,\" \"Elements, by Systemen(li),\" \"Future of Society, by Systemen,\" and \"Insights | Introduction & Kurs.\" The sidebar lists \"Saved Settings.\" Across the sequence, the layout of the interface remains static, though the man in the video window shifts his gaze and expression slightly. The visual elements of the network diagram and the on-screen text remain consistent throughout the clip."
+}

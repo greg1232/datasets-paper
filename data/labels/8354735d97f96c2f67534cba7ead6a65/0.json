@@ -1,0 +1,15 @@
+{
+  "video_id": "8354735d97f96c2f67534cba7ead6a65",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-085.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.095,
+    0.285,
+    0.475,
+    0.665
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short brown hair, wearing a teal long-sleeved blouse and a silver necklace, stands behind a white podium in a minimalist setting with a plain light grey wall. In the upper left corner of each frame, the logo \"mediasite\" is visible along with a stylized graphic. On the podium, several microphones with thin black necks are positioned. Across the sequence, the woman transitions from looking forward with a neutral expression to looking down toward the podium. Her hands move slightly as she gestures, and she appears to be referencing notes or equipment on the table in front of her. To her left and right, black monitor screens are partially visible. The scene remains static in terms of location and lighting, with the only movement being the woman's head tilting downward and her hands shifting slightly."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "392ae8eacff42b1b3a240464099c601b",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-071.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.338,
+    1.014,
+    1.689,
+    2.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows the mechanical belt-drive system of a piece of machinery, featuring two silver metal pulleys connected by a dark drive belt. In the upper left, a person's hand enters the frame, moving toward the top of the mechanism. As time progresses, the hand continues to shift and interact with the components near the upper pulley and surrounding wiring. The machinery consists of a larger, finned aluminum pulley at the top right and a smaller pulley at the bottom left. The area is filled with dark metal casings and black electrical conduits. The scene remains focused on this specific mechanical assembly throughout the sequence, with the only significant change being the motion of the person's hand as they inspect or adjust the equipment. No text or logos are legible on the components."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "10e9dfaac99cb466a89054f2c60d7c6e",
+  "url": "./data/segments/3IrHmvnGXTc-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.427,
+    7.282,
+    12.137,
+    16.992
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static end-screen set against a black background filled with small, white specks resembling a starry night sky. At the top of the screen, the text \"THANKS FOR WATCHING\" appears in large, white, uppercase letters. Below this, three white placeholders are arranged horizontally: two rectangular boxes on the ends and a circular one in the center. Under the left rectangle is the text \"PREVIOUS VIDEO,\" and under the right rectangle is \"MY SUGGESTION.\" The central circle is accompanied by the text \"SUBSCRIBE\" in large letters, with \"FOR MORE VIDEOS\" written in smaller text underneath it. In the bottom right corner, the website \"SECUREAGENTMARKETING.COM\" is displayed in white uppercase letters. There are no people or moving objects present, and the visual elements remain identical across all frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0e9e2481f3fb1f86822f45e87863aa3b",
+  "url": "./data/segments/3F2rz23IKUk-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.67,
+    5.01,
+    8.35,
+    11.69
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static slide containing text on a plain white background. At the top of the screen, the heading \"Further information\" is written in a centered, black font. Below this heading, a bulleted list begins with the text \"Linux Foundation Open Compliance program:\". Indented underneath this line is a URL: \"https://www.linuxfoundation.org/programs/legal/compliance\". The text is consistently formatted across all frames, and there are no people, objects, or logos present. There is no movement or visual change throughout the duration of the clip; the scene remains entirely stationary, showing the same information without any updates or transitions."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "758b392605667c5acb1d8546af7f2651",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.329,
+    0.988,
+    1.647,
+    2.306
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a professional conference room with beige walls and fluorescent lighting, a group of people are gathered around white tables for a presentation. A screen on the left displays a projection containing the text \"ormation supervising\". Several individuals are seated, mostly wearing dark business attire, while a few women in the foreground are seen from behind. A man in a dark suit sits at the head of the table, and others are distributed around it with notebooks and a laptop open. In the initial frames, the group remains relatively still, listening to the presentation. As the sequence progresses, a woman in a black blazer enters the room from the left, walking toward the center. The seated participants remain in their positions, with some looking toward the screen and others toward the entering woman, while the overall layout of the room and the equipment remains unchanged."
+}

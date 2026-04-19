@@ -1,0 +1,15 @@
+{
+  "video_id": "2e0b8d224acb9accb75331c3e1b9c535",
+  "url": "./data/segments/3hcAJKLX-Ps-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.165,
+    0.495,
+    0.825,
+    1.155
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and glasses, wearing a maroon long-sleeved shirt and a black lanyard, stands indoors before a bright yellow and green backdrop featuring the Tamil text \"\u0b95\u0bbe\u0baa\u0bcd\u0baa\u0bcb\u0bae\u0bcd!\". He holds a silver and black microphone to his mouth. Behind him is a red and black chair. As the sequence progresses, he speaks into the microphone, gesturing with his left hand. In the second frame, he raises his index finger while speaking. In the third frame, his hand is partially visible as he continues to talk. In the final frame, another man wearing a white shirt is partially visible on the left side of the screen, while the primary subject remains centered, continuing to address the audience. The setting remains consistent across the frames, with a simple indoor arrangement."
+}

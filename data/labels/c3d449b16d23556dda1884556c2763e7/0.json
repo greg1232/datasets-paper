@@ -1,0 +1,15 @@
+{
+  "video_id": "c3d449b16d23556dda1884556c2763e7",
+  "url": "./data/segments/3mmDnftP1M8-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.615,
+    1.844,
+    3.073,
+    4.302
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light blue button-down shirt and black over-ear headphones with a microphone is positioned against a plain, light-colored wall. He is speaking and gesturing with his hands to emphasize his points. In the beginning, he holds his hands out to his sides with open palms. As the sequence progresses, he brings his hands inward, eventually resting both palms flat against his chest. The text \"Ashish Raichur\" appears in the bottom left corner of each shot. The man's facial expressions shift from an open-mouthed speaking pose to a more focused expression as he brings his hands to his chest, while the background and his attire remain constant throughout the clip."
+}

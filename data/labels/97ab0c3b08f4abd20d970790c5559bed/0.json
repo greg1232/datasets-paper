@@ -1,0 +1,15 @@
+{
+  "video_id": "97ab0c3b08f4abd20d970790c5559bed",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A disassembled mechanical engine assembly sits on a wooden workbench, surrounded by various tools. The central focus is a complex arrangement of metallic gears, including a large, dark circular gear and a smaller silver gear connected by a chain. To the left is a bright yellow plastic component, while a red tool chest is visible in the background. Small hand tools, including pliers and screwdrivers, are scattered across the workspace. Throughout the sequence, the camera remains stationary, capturing the static components of the engine. There are no people present in the frames, and there is no visible on-screen text or logos. The scene remains consistent across all frames, showing the intricate internal machinery of the engine in a state of repair or assembly."
+}

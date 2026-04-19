@@ -1,0 +1,15 @@
+{
+  "video_id": "74cada8e9b3a5d0f34a615b145506417",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.158,
+    0.475,
+    0.792,
+    1.108
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blonde hair wearing a navy blue shirt and a gaming headset is seen in a small video overlay in the corner of a screen displaying a football video game interface. In the initial frames, the interface shows a \"LINEUP\" screen with various player cards for a defensive team, including categories like \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" and \"STRATEGY.\" The person in the overlay is speaking and gesturing with their hands. As the sequence progresses, the view shifts to a close-up of specific player cards. Two prominent cards are displayed: one for \"MICAH PARSONS\" with a rating of \"93\" and another for \"TROY POLAMALU\" with a rating of \"96,\" listed as \"SS.\" The background of the game interface features dark colors with neon pink and green accents. The person in the overlay remains visible, continuing to talk and gesture throughout the sequence."
+}

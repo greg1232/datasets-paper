@@ -1,0 +1,15 @@
+{
+  "video_id": "29fe24a43e64cbfc4f712cd2215a6309",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-197.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.292,
+    0.876,
+    1.46,
+    2.044
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair and glasses, wearing a blue patterned button-down shirt, stands at a wooden podium in a room with vertical wooden blinds. He holds an open yellow book and speaks into a black microphone attached to the podium. A logo with a stylized red sun and the word \"OKRAVAL\" is visible on the front of the podium, and the text \"ORCA\" appears in a white box on the right side of the scene. The backs of several people's heads are visible in the foreground as they face the speaker. Over the course of the sequence, the man continues to read from his book and speak. In the final frame, the image becomes translucent, overlaying a wider shot of the room that shows more of the seated audience and another person standing in the background to the right."
+}

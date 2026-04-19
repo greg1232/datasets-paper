@@ -1,0 +1,15 @@
+{
+  "video_id": "c7e54d2e03f0bc729ed9bdbebb0e3ba2",
+  "url": "./data/segments/3Smz5pevbI4-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.359,
+    1.076,
+    1.793,
+    2.511
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a formal auditorium setting, a woman stands behind a wooden podium on the left, while two men are seated in chairs to her right on a raised platform. The woman is wearing a dark dress, and the two men are dressed in suits. Behind them is a grey wall featuring repeating logos and the text \"INSTITUTE OF PEACE\" and \"INSTITUTE OF PEACE\". To the left of the podium stands a blue flag with a white emblem. In the foreground, the heads and shoulders of an audience are visible, facing the stage. Across the sequence of frames, the woman speaks from the podium, and the seated men maintain their positions, with the man on the far right occasionally shifting his posture. A piece of white paper is briefly visible being held up by a person in the audience. The scene remains consistent in composition and lighting throughout the clip."
+}

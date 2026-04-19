@@ -1,0 +1,15 @@
+{
+  "video_id": "cef573b513122178a4b43aaf3ec25d7a",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-123.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.388,
+    1.164,
+    1.939,
+    2.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey baseball cap with a circular logo, and black headphones sits in a studio with dark, ribbed sound-absorbing wall panels. He is positioned in front of a professional microphone held by a black shock mount arm, which features the text \"Shure SM7B\" on its side. As the sequence progresses, the man is speaking, with his mouth open and moving near the microphone. He gestures with his right hand, raising it with fingers spread in the initial moments before gradually lowering it. His right arm reveals a tattoo on the bicep. The camera angle remains a steady medium close-up, capturing his profile and upper body throughout the scene."
+}

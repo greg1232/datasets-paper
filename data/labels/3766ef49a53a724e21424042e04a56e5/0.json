@@ -1,0 +1,15 @@
+{
+  "video_id": "3766ef49a53a724e21424042e04a56e5",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.0,
+    3.333,
+    4.667
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a split-screen view of a computer monitor showing a terminal window. The screen is divided into two identical side-by-side panels, each running a command-line interface with a dark background and light-colored text. The terminal is filled with logs of HTTP requests, including entries such as \"GET /rapage/http1.0\" and \"GET /index.html HTTP/1.0\". At the top of each panel, a directory path is visible, and a command prompt shows \"1 docker-compose\". The top right corner of the screen reveals a small portion of a user's profile picture and the date \"Oct 28 0021\". A status bar at the bottom of each terminal window contains text including \"0-back?\". Throughout the sequence, the image remains static, with no visible changes in the text, layout, or movement on the screen across the frames."
+}

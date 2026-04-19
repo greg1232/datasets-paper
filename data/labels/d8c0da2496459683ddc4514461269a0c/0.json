@@ -1,0 +1,15 @@
+{
+  "video_id": "d8c0da2496459683ddc4514461269a0c",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.238,
+    0.713,
+    1.189,
+    1.664
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical or educational setting, two women are engaged in a conversation across a dark grey table. One woman is seated, wearing a black cardigan over a pink shirt and a white face mask. She is gesturing with her hands as she speaks. Opposite her, partially visible from the side and back, is another woman wearing a blue scrub top and a black face mask. On the table lie several white papers and folders. The background features shelving units filled with various medical supplies and containers, with a wall-mounted device and papers pinned to the wall. The on-screen text \"Sim Week\" appears in the bottom right corner of the scene. As the sequence progresses, the seated woman continues to gesture and speak, eventually touching her face mask with her hand to adjust it, while the woman in blue remains listening."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "fa6305504b6e756d267d44696b5cadda",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-068.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.279,
+    0.838,
+    1.397,
+    1.956
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a small, clear plastic package containing a holiday greeting card and envelope. The package is set against a white, rustic wooden surface. The card inside features a light blue background with white floral accents and the centered text, \"SENDING YOU A LITTLE Yuletide Cheer\". The person's hands, visible from the wrists down, grasp the sides of the clear packaging. Throughout the sequence, the person gently shifts their grip, moving their fingers and adjusting the position of the package slightly. To the left, a corner of another similar package is partially visible. The scene remains stationary in a top-down perspective, focusing on the tactile interaction with the gift packaging."
+}

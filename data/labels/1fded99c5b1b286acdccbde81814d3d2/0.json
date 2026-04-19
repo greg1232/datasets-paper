@@ -1,0 +1,15 @@
+{
+  "video_id": "1fded99c5b1b286acdccbde81814d3d2",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-632.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.808,
+    2.424,
+    4.04,
+    5.657
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a green t-shirt with the white text \"ION NEVER DO SHIT IT WORK\" sits in a room filled with framed photos and a white mannequin. He speaks into a black professional microphone positioned in front of him. As the scene progresses, he gestures with his right hand and shifts his facial expressions while talking. In the background, clothing racks and various framed images are visible on the wall. To the left, a small circular logo is present, and to the right, a red logo reads \"THE REALITY TOT\". The camera remains stationary, focusing on the man's upper body and the immediate surrounding environment throughout the sequence."
+}

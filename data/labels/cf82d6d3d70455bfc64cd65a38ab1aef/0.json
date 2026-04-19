@@ -1,0 +1,15 @@
+{
+  "video_id": "cf82d6d3d70455bfc64cd65a38ab1aef",
+  "url": "./data/segments/3mmDnftP1M8-Scene-076.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.536,
+    7.609,
+    12.682,
+    17.755
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light blue button-down shirt and a black gaming headset with an attached microphone speaks while facing the camera against a plain, light-colored wall. In the initial sequence, he gestures with his right hand near his chest and looks slightly downward. As the scene progresses, he continues to speak with a focused expression, shifting his gaze downward. In the final segments, he lifts both hands, gesturing with open palms to emphasize his points. The name \"Ashish Raichur\" appears as white text in the bottom left corner of each segment. The lighting remains consistent throughout the clip, and no other people or objects are visible in the frame."
+}

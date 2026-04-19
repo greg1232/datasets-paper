@@ -1,0 +1,15 @@
+{
+  "video_id": "3402a4ff8e6810d1b6a08cf4f9b2a0b2",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.558,
+    1.675,
+    2.792,
+    3.908
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a military helmet and camouflage gear is positioned inside a narrow, dirt-walled trench. The setting is a desolate outdoor area with patches of snow on the ground and bare trees under a clear blue sky. To the left, the text \"Hero Ukraine\" is visible. In the upper right corner of the frames, a red logo featuring the number \"13\" is displayed. As the sequence progresses, the person in the foreground shifts their position slightly while looking forward through the trench. Another individual, also in military gear, is partially visible further ahead in the trench. The environment remains static, with the focus staying on the perspective of the person in the helmet as they observe the terrain ahead."
+}

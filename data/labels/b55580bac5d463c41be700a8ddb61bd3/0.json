@@ -1,0 +1,15 @@
+{
+  "video_id": "b55580bac5d463c41be700a8ddb61bd3",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-180.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.171,
+    0.513,
+    0.854,
+    1.196
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a sports trading card featuring a player in a baseball cap, which is signed and numbered \"17/20\" for \"Jim Rice.\" The card is enclosed in a protective plastic slab. In the background, another man wearing a dark t-shirt sits at a desk with electronic equipment, including a monitor. The setting appears to be a room dedicated to card breaking, with various boxes and supplies visible. On-screen graphics include a logo that reads \"JASPYS\" and the website \"CASEBREAKS.COM.\" A blue and orange banner with palm tree silhouettes runs across the middle of the screen. As the sequence progresses, the hand subtly tilts the card to catch the light, causing a glare to shift across the surface of the plastic protector, while the man in the background remains seated and looking toward the camera."
+}

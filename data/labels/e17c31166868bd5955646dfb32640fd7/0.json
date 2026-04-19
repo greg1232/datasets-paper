@@ -1,0 +1,15 @@
+{
+  "video_id": "e17c31166868bd5955646dfb32640fd7",
+  "url": "./data/segments/3Z229_lKLpk-Scene-093.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.305,
+    0.915,
+    1.525,
+    2.135
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a large assembly of people seated in a formal, tiered auditorium with a large, ornate wooden carved partition in the foreground. Most of the attendees are men wearing a mix of traditional Indian attire, such as white kurtas and colorful waistcoats, and western-style business suits. They are seated in rows of wooden benches, facing forward with neutral expressions. Between the frames, the scene remains largely static, with the individuals staying in their positions. Some people slightly shift their posture or turn their heads, but no significant movements, interactions, or changes in the environment occur. No on-screen text, logos, or electronic equipment are visible in the scene, focusing instead on the rows of participants in the wooden chamber."
+}

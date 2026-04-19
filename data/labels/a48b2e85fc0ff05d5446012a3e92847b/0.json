@@ -1,0 +1,15 @@
+{
+  "video_id": "a48b2e85fc0ff05d5446012a3e92847b",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-332.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.123,
+    0.369,
+    0.615,
+    0.86
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is seen holding and sliding a deck of sports cards resting in a black plastic case. The cards feature athletes, and the top card depicts a player in a white and blue uniform. The setting is a table covered with a decorative mat featuring green palm tree silhouettes. In the upper right of the scene, a logo reads \"JASPYS\" with \"CASEBREAKS.com\" printed underneath. A small inset window in the corner shows a man with a beard wearing a navy blue t-shirt sitting in a gaming chair. As the sequence progresses, the person's fingers grip the edge of the card stack and slide the cards forward and slightly upward out of the protective case. The man in the inset remains seated, watching the action take place. The lighting is bright and focused on the cards and the workspace."
+}

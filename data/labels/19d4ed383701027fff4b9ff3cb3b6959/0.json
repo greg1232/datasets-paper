@@ -1,0 +1,15 @@
+{
+  "video_id": "19d4ed383701027fff4b9ff3cb3b6959",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.213,
+    0.638,
+    1.064,
+    1.489
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a tattoo on his right upper arm is recorded in a studio setting against a black acoustic foam wall. He wears a grey t-shirt, a grey baseball cap, and black over-ear headphones. He is positioned in front of a professional microphone mounted on a black boom arm with the text \"BlueMicrophone\" visible. Throughout the sequence, the man is speaking into the microphone. In the initial stages, he is viewed from a side profile, looking toward the microphone. As the sequence progresses, he shifts his position, turning his head and body to face more directly toward the camera while continuing to speak. His expression remains relatively neutral as he communicates. The lighting is consistent across the scene, and the background remains static throughout his movements."
+}

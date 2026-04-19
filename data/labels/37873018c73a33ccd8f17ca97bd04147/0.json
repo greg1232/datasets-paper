@@ -1,0 +1,15 @@
+{
+  "video_id": "37873018c73a33ccd8f17ca97bd04147",
+  "url": "./data/segments/3JGRt3BFYrM-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.337,
+    4.012,
+    6.688,
+    9.362
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a technical software interface for configuring a microcontroller project. The application window contains several tabs, including \"Project Configuration\" and \"Power Consumption Calculation.\" A central information panel features the STMicroelectronics logo and the text \"Wireless and ultra-low-power MCU\" and \"State-of-the-art RF performance,\" alongside a list of features such as \"Dualcore,\" \"Low power,\" and \"BOM saving.\" Below this, a detailed table lists various MCU parts with columns for \"Reference,\" \"Package,\" and \"Freq.\" As the sequence progresses, a user interacts with the left-hand navigation menu. In the final frames, a specific part, \"STM32WBA52,\" is selected, which updates the main display to show a high-performance foundation line description including \"ARM Cortex-M33 core with DSP and FPU, 512 Kbytes Flash, 160 MHz CPU, ART Accelerator, Dual QoS.\" The interface remains static in its layout while the displayed content updates based on the selection."
+}

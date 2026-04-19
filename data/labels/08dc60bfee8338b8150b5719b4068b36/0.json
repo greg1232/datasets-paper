@@ -1,0 +1,15 @@
+{
+  "video_id": "08dc60bfee8338b8150b5719b4068b36",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-100.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.901,
+    1.502,
+    2.102
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and headphones sits before a professional microphone on a boom arm, positioned against a dark, ribbed acoustic foam wall. He wears a white shirt and looks toward the camera. Across the sequence, several smaller video windows appear over his shoulder, showing different scenes. First, a woman in a dark floral top and a man in a maroon shirt are shown indoors; the woman holds a white mug. Then, the scene shifts to a man in a blue quilted vest outdoors in a grassy yard, drinking from a black cup. Finally, a window shows a woman laughing in a car, followed by a shot of three people outdoors in a wooded area. One man wears a tan sweater and another wears a maroon shirt, and they are raising glasses in a toast. Small icons and text appear at the bottom of the final window, including \"Herbal Powder Cost,\" \"BPA Free,\" and \"Does Not Toast.\""
+}

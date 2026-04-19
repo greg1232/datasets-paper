@@ -1,0 +1,15 @@
+{
+  "video_id": "1f3d91eb3b6735c331064a651095afec",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-316.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.193,
+    0.579,
+    0.965,
+    1.35
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a dark complexion wearing a green baseball cap, black headphones, and a dark green t-shirt with the text \"ION NEVE DO SMTH\" is seated in a room that appears to be a studio or clothing store. He is positioned behind a professional black microphone on a boom arm. The background is filled with framed photographs on the wall and clothing racks with garments, including white t-shirts on mannequins. On-screen graphics include a circular logo on the left and the red text \"BOSS LY FE\" on the right. Across the sequence, the man's expression shifts; he begins by looking slightly to the side with a neutral expression, then shifts his gaze and begins to smile. By the final frames, he looks downward and closes his eyes while maintaining a smirk."
+}

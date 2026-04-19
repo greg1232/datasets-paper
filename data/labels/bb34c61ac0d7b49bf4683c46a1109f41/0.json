@@ -1,0 +1,15 @@
+{
+  "video_id": "bb34c61ac0d7b49bf4683c46a1109f41",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a presentation titled \"Trial & Learning\" with the subtitle \"An Insightful Journey\" centered in green text against a black background. The video is captured within a web browser, showing multiple open tabs and a browser address bar at the top. A small webcam inset in the upper right corner features a man wearing a dark cap and a dark shirt, looking toward the camera. As the sequence progresses, the man remains in the inset, though his posture shifts slightly. The main presentation slide remains static, showing the same green text on the black screen. In the final moments, a white mouse cursor appears on the right side of the black presentation area, moving slightly toward the center. The browser interface and the man's presence in the corner remain constant throughout the clip."
+}

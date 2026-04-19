@@ -1,0 +1,15 @@
+{
+  "video_id": "63de3056e181e558b084b4ea4b2b3a49",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-093.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.31,
+    0.93,
+    1.55,
+    2.17
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A small drone flies in a dark night sky above a sports stadium. The drone is suspended by a thin wire or cable that extends upward and out of the frame. Below, the stadium stands are filled with rows of red seats. Several signs are visible on the stadium walls, including two prominent red signs with the word \"IDEAL\" written in white uppercase letters. Other less legible text includes \"MU\u00d1OZSOTO\" and \"CEF Radio\". In the upper right corner of each scene, a white logo of the Real Madrid football club is displayed. As the sequence progresses, the drone slowly drifts across the frame from left to right, while the stadium seating and background remain stationary. The lighting is dim, with the focus on the drone against the dark sky and the red colors of the empty stadium seating."
+}

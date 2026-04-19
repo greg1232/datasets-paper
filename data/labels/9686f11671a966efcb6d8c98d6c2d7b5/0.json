@@ -1,0 +1,15 @@
+{
+  "video_id": "9686f11671a966efcb6d8c98d6c2d7b5",
+  "url": "./data/segments/3QD9oO6sRns-Scene-104.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.583,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a gray box branded with the text \"CLEARLY AUTHENTIC\" and \"CASEBREAKS\". In the initial frames, the hands carefully lift a clear plastic protective case containing a card from inside the box. The background is a neutral white surface with various items, including what appears to be a sports jersey. An inset video in the corner shows a man wearing a baseball cap and a black t-shirt sitting at a desk with computer monitors. Overlaid on the screen is the logo \"PYST\" and the word \"CASEBREAKS\". As the sequence progresses, the hands fully remove the encased card from the box and hold it upright, revealing the interior of the packaging. The man in the inset video remains stationary, observing the process as the card is displayed."
+}

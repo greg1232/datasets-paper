@@ -1,0 +1,15 @@
+{
+  "video_id": "34187bd169425b52c9ec0daff13dd269",
+  "url": "./data/segments/3iUTkJy84EY-Scene-289.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.53,
+    1.59,
+    2.65,
+    3.71
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is speaking against a plain dark background. She wears a light green tunic with red and gold embroidery around the neckline and a dark necklace. A small black lavalier microphone is clipped to the front of her shirt. In the lower-left corner of each frame, there is a logo accompanied by the text \"NPTEL\". Across the sequence, the woman remains centered in a medium shot, talking and gesturing slightly with her head and facial expressions. Her mouth is open in varying stages of speech, indicating she is in the middle of a presentation or lecture. The lighting is consistent, focusing on the woman while the background remains a solid, dark void. No other people or objects are visible in the scene."
+}

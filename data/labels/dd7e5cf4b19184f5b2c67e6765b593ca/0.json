@@ -1,0 +1,15 @@
+{
+  "video_id": "dd7e5cf4b19184f5b2c67e6765b593ca",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.526,
+    1.577,
+    2.628,
+    3.679
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown working at a desk covered in financial documents and stock charts. The person is using a white marker to highlight or draw on a printed chart featuring a downward-trending line graph. Beside the paperwork sits a white smartphone and a magnifying glass. The setting is a professional workspace, focused closely on the desk's surface. Overlaid on the bottom of the scene is a blue and white text banner that evolves across the sequence. It begins by stating \"THESE NEWSLETTERS ARE TOM'S\" and then expands to read \"THESE NEWSLETTERS ARE PACKED FULL OF TOM'S ADVANCED TECHNICAL ANALYSIS\". As the video progresses, the person's hand moves the marker across the page, emphasizing different points on the financial data. The background remains consistent, focusing on the interaction between the person and the technical documents."
+}

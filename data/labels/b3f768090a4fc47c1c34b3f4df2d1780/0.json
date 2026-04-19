@@ -1,0 +1,15 @@
+{
+  "video_id": "b3f768090a4fc47c1c34b3f4df2d1780",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.525,
+    1.575,
+    2.625,
+    3.675
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A view from an airplane window shows a white wing extending over a vast, arid landscape of brown and tan terrain under a clear blue sky. The wing features a winglet at its tip and small flaps underneath. In the upper right corner of the view, a white logo consisting of a crown above a stylized \"MC\" monogram is visible. Across the sequence of frames, the camera remains steady, capturing a consistent perspective of the wing and the earth below. The lighting remains constant, and there are no people or other objects visible within the scene. The landscape slightly shifts as the aircraft moves forward, while the logo remains fixed in the corner of the display."
+}

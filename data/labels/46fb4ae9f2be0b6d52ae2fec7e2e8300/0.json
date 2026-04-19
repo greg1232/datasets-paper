@@ -1,0 +1,15 @@
+{
+  "video_id": "46fb4ae9f2be0b6d52ae2fec7e2e8300",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-143.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark blue baseball cap is visible in a small video call window in the upper right corner of a computer screen. The main area of the screen displays a complex digital concept map on a dark background, featuring various circular icons containing images and portraits connected by blue lines. Legible green text labels accompany several of these icons, including \"Learning,\" \"Insights,\" and \"Insights/Intuition.\" A larger rectangular image of a woman is positioned near the center-right of the map. At the top of the screen, multiple browser tabs are open with titles such as \"Truth & Learning by Systemsynth,\" \"Society by Systemsynth,\" and \"Road Community Food Spot.\" As the sequence progresses, the screen transitions from showing the full concept map to a darkened view where most of the map fades into the background, leaving only a few highlighted nodes and the woman's portrait visible."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e323f156953b967febd987f26a072909",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-240.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.125,
+    1.875,
+    2.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark t-shirt and headphones is shown in a picture-in-picture window on the left, gesturing while speaking against a background featuring a Christmas tree. The main view displays an American football stadium with a green field and a large crowd in the stands. On-screen graphics at the top include the text \"1st & 10\", \"1st\", and a clock reading \"3:03\", along with \"32\" and \".27\". Logos for the Atlanta Falcons and other teams are visible. On the field, players in white and dark uniforms are gathered, and various sideline equipment, including carts and benches, is present. As the scene progresses, the man in the inset continues to talk and gesture, while the football players on the field shift positions, with some moving toward the center and others remaining stationary. The overall stadium environment and on-screen scoreboard remain constant."
+}

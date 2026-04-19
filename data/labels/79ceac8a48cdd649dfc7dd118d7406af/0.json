@@ -1,0 +1,15 @@
+{
+  "video_id": "79ceac8a48cdd649dfc7dd118d7406af",
+  "url": "./data/segments/3Kxl1O310k8-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    9.315,
+    27.945,
+    46.575,
+    65.205
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a repeating series of four housing project slides featuring photos and text. The first project is in Middleborough, \"Shoe Shop Place,\" with \"25 units of rental housing\" and a \"Local contribution: $25k.\" The second is in Williamstown, \"Cole Ave Apartments,\" featuring \"42 units of rental housing\" and a \"Local contribution: $200k.\" The third is in Swampscott, \"Machon School,\" with \"38 units of age-restricted rental housing.\" The fourth is in Auburn, \"Mary D. Stone Apartments,\" containing \"55 units of age-restricted rental housing.\" Photos of the buildings are accompanied by credits such as \"Photo: Allegrone Companies,\" \"Photo: Penrose,\" and \"Photo: B'Nai B'Rith Housing.\" A yellow banner appears across the middle and bottom of the sequence with the text \"Create (adaptive reuse).\" The scene consists of these same slides looping identically, showing no changes in content or people."
+}

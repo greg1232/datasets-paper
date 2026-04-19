@@ -1,0 +1,15 @@
+{
+  "video_id": "17a0ec1e1da0d3fa9ac09fd9e776f4d5",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.345,
+    0.575,
+    0.805
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor transit area with red pillars and a light-colored floor, a group of men dressed in athletic wear and casual attire gather near a white team bus. Several men wear grey t-shirts and black trousers, and many are wearing black face masks. One man in a yellow shirt stands to the left. In the background, a white bus is visible with the text \"Real Madrid\" printed on its side. A circular logo featuring a crown and letters is overlaid in the top right corner of the scene. As the sequence progresses, the men shift positions; those on the left move toward the center and right, while others stand waiting. A person carrying a black backpack moves across the frame, and some individuals appear to be interacting or talking as they prepare to board or depart from the bus."
+}

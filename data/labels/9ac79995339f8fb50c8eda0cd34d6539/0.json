@@ -1,0 +1,15 @@
+{
+  "video_id": "9ac79995339f8fb50c8eda0cd34d6539",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-226.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.119,
+    0.356,
+    0.594,
+    0.831
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A hand holds a clear plastic protective slab over a white surface. In the background, a man with a beard, wearing a navy blue shirt with a yellow circular logo on the chest, is visible in a smaller picture-in-picture window. He is seated at a table with various equipment, including what appears to be a keyboard and electronic devices. The background of the main scene and the picture-in-picture window both feature branding for \"JASPYS\" and the website \"CASEBREAKS.COM\". In the picture-in-picture window, the man is gesturing with his hands while looking toward the camera. Across the sequence of frames, the hand holding the plastic slab shifts slightly, moving it closer to the white surface and then slightly away, while the man in the inset window continues to speak and gesture, maintaining his seated position at the workspace."
+}

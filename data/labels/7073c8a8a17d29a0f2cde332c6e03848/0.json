@@ -1,0 +1,15 @@
+{
+  "video_id": "7073c8a8a17d29a0f2cde332c6e03848",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.571,
+    1.714,
+    2.857,
+    4.0
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand interacts with the mechanical components of an engine or piece of machinery. The scene focuses on a metal assembly featuring a large, circular, finned silver pulley and a black drive belt. In the initial stages, a hand reaches toward the belt, which is stretched across the pulley. As the sequence progresses, the person uses their fingers to push or pull on the black belt, testing its tension or position. The hand moves closer to the belt and applies pressure, shifting the belt's alignment slightly. The background consists of dark mechanical parts, wires, and a grey metal housing. There are no visible logos, on-screen text, or other people present in the frames. The focus remains constant on the interaction between the hand and the drive belt system throughout the brief clip."
+}

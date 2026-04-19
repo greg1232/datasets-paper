@@ -1,0 +1,15 @@
+{
+  "video_id": "a4c5f8b214cd1952edef68f183046c5e",
+  "url": "./data/segments/3iUTkJy84EY-Scene-082.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses stands against a solid dark background. She is wearing a light green, long-sleeved top featuring red and white floral embroidery along the neckline. In the first frame, she has her mouth open as if speaking and her right hand is blurred in motion. In the second frame, she continues to speak while gesturing with her right hand raised. By the third frame, her expression is more neutral, and her hand is lowered. In the final frame, she is speaking again, with her hand moving across the bottom of the frame. A small circular logo with the text \"NPTEL\" is visible in the bottom left corner of each frame. The lighting remains constant throughout the sequence, focusing on the woman as she delivers a presentation."
+}

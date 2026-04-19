@@ -1,0 +1,15 @@
+{
+  "video_id": "2a41e6bb8b9e1f07c53e427a630134ac",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital interface for a sports game shows a player card for \"TROY POLAMALU\" with an overall rating of \"95\" and the position \"#43 SS\". The screen features a dark purple background with sections for \"SUPERSTAR X-FACTOR & ABILITIES\" and \"CHEMISTRIES & POSITIONS\". A specific ability called \"ACROBAT\" is highlighted, with a description stating \"During sacks & interceptions\". Various stats are visible at the top, including numbers like \"173,037\", \"14,609\", and \"2,343,543\". A small video inset in the bottom left displays a man with fair skin and light brown hair wearing a blue shirt. Across the sequence, the game menu remains static, but the man in the inset transitions from a neutral facial expression to a wide-mouthed, smiling expression, appearing to react with excitement to the information on the screen."
+}

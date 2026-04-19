@@ -1,0 +1,15 @@
+{
+  "video_id": "1d6fe41858044dd10832e7b50a841751",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.16,
+    3.48,
+    5.8,
+    8.12
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a building exterior and a logo for the International Criminal Court. The scene features a tall, modern building with numerous windows and a flagpole flying a red and white flag. Overlaid on the left side of the screen is a large, circular white logo consisting of a laurel wreath surrounding a stylized scale and a building, accompanied by the text \"Cour P\u00e9nale Internationale\" and \"International Criminal Court.\" The \"peoples dispatch\" logo appears in the upper left corner, and a location pin icon with the text \"WORLD POLITICS\" is visible. As the video progresses, a news headline fades in across the bottom of the frame, reading \"US sanctions 'kangaroo' ICC over war crimes probe.\" The camera remains static, focusing on the building and the graphic overlays throughout the sequence."
+}

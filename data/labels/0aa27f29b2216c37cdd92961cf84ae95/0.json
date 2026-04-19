@@ -1,0 +1,15 @@
+{
+  "video_id": "0aa27f29b2216c37cdd92961cf84ae95",
+  "url": "./data/segments/3l84m5pRmyk-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.427,
+    7.282,
+    12.137,
+    16.992
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a gray suit jacket, white shirt, and a blue and white striped tie is speaking while seated behind a laptop. He is positioned in front of a white background featuring the hashtag \"#BigDataSV\" and the year \"2015\" repeated twice. On the desk in front of him, a small orange sign reads \"NFO-OBJECTS\". The man is the sole person visible in the scene. Initially, he is speaking with a neutral expression, looking slightly off-camera. As time progresses, he shifts his focus and begins to gesture with both hands, raising them up and outward to emphasize his points while continuing to talk. His facial expressions transition from a calm speaking demeanor to a more active and engaged look as he uses his hands to communicate."
+}

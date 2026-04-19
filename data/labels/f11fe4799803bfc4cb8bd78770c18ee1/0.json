@@ -1,0 +1,15 @@
+{
+  "video_id": "f11fe4799803bfc4cb8bd78770c18ee1",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.773,
+    5.318,
+    8.863,
+    12.408
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, dark hair and a mustache, wearing a light blue polo shirt, speaks while seated inside a vehicle. Behind him, a window reveals a white surface with a dark, downward-pointing arrow. A circular logo is partially visible on his shirt. As he speaks, his facial expression remains somber, and he looks slightly off-camera. White subtitles appear at the bottom of each scene, recounting a tragic story. The text progresses from \"so the doctors quickly tried to treat the other four\" to \"The child started to ask for water,\" then \"When we transported him to the ambulance,\" and finally \"he died in the ambulance, and that was very sad.\" The lighting is soft, and the camera remains in a steady medium close-up shot, capturing the man's emotional delivery across the duration of the clip."
+}

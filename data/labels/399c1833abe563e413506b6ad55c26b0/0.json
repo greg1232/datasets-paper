@@ -1,0 +1,15 @@
+{
+  "video_id": "399c1833abe563e413506b6ad55c26b0",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    18.89,
+    56.669,
+    94.449,
+    132.228
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video captures a meeting of the \"House Committee on General, Housing, and Military Affairs\" on \"April 12, 2019,\" as indicated by on-screen text. The scene takes place in a wood-paneled room where four people are seated at a table. A man in a dark suit and glasses sits on the left, initially leaning on his hand before straightening up. Next to him, a man with a grey beard wearing a blue suit and tie listens and then begins to gesture with his hands while speaking. A man in a beige vest and glasses and a woman in a floral blouse are also present. The table holds water bottles, glasses, and documents. An \"ORCA\" logo appears in the bottom left corner, and a green banner reads \"S.23 Increasing the Minimum Wage.\" Across the sequence, the man in the blue suit becomes more animated as he speaks to the group."
+}

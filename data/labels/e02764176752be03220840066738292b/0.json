@@ -1,0 +1,15 @@
+{
+  "video_id": "e02764176752be03220840066738292b",
+  "url": "./data/segments/3L_uHTClWfk-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.625,
+    1.875,
+    3.125,
+    4.375
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows the Statue of Liberty set against a dusky sky with orange and blue hues. The statue, a light greenish-teal color, is seen from the waist up, holding her torch aloft and a tablet in her other arm. In the upper right corner of every frame, there is a white rectangular logo containing an orange silhouette of a basketball player and the orange text \"WNBA\". As the sequence progresses, the camera slowly zooms out, making the statue appear smaller within the frame. The background sky remains consistent throughout the shot, and the position of the \"WNBA\" logo remains static in the corner. There are no people present other than the statue itself."
+}

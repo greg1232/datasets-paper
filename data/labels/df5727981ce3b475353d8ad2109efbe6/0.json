@@ -1,0 +1,15 @@
+{
+  "video_id": "df5727981ce3b475353d8ad2109efbe6",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-340.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.5,
+    0.833,
+    1.167
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An American football game is displayed on a screen, featuring players in white and dark uniforms positioned on a green field with \"COMMANDERS\" written in large red letters. A game HUD at the top provides statistics, including \"1st & 10\", \"7\", and \"2nd 0:39 25\", alongside the text \"ULTIMATI\" and \"TIMATE TEAM\". A picture-in-picture overlay in the bottom corner shows a blond man in a dark shirt. In the initial sequence, the man is centered in his overlay, and the football players are set in their positions. As the action progresses, the man remains in the overlay, but a text box appears above him stating \"WR HOT ROUTES\". The football players begin to move, with some shifting forward and others adjusting their stances, while the game clock and down markers remain visible on the overhead display."
+}

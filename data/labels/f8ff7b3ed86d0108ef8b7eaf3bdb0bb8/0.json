@@ -1,0 +1,15 @@
+{
+  "video_id": "f8ff7b3ed86d0108ef8b7eaf3bdb0bb8",
+  "url": "./data/segments/3Smz5pevbI4-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.13,
+    15.39,
+    25.651,
+    35.911
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands before a neutral-toned backdrop featuring repeated logos and the text \"UNITED STATES INSTITUTE OF PEACE\". He is dressed in a light-colored button-down shirt, a dark blazer, and dark trousers. Throughout the sequence, he speaks and gestures with his hands to emphasize his points. In the beginning, he holds his hands loosely in front of him. As the scene progresses, he begins to move his hands more actively, shifting his posture slightly as he continues to address an audience off-camera. The background remains static, consisting of a repetitive pattern of the institute's name and a circular emblem. The lighting is consistent and bright, illuminating the speaker as he delivers his presentation in a professional setting."
+}

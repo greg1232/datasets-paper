@@ -1,0 +1,15 @@
+{
+  "video_id": "5f586c9a52393d232c3179e1cf4e77a2",
+  "url": "./data/segments/3l84m5pRmyk-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.697,
+    2.09,
+    3.483,
+    4.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A professional panel discussion takes place in a studio setting with a black backdrop and a blue-branded backdrop featuring the \"CUBE\" logo. Three men are seated at a round black table. The man on the left wears a dark suit and tie, gesturing with his hands as he speaks. The man in the center wears a grey suit and tie, sitting behind an open silver laptop. The man on the right wears a blue button-down shirt. Across the bottom of the screen, a blue graphic contains the text \"#theCUBE LIVE at #BigDataSV 2015\" and \"Fairmont Ruston - Valley Room San Jose, CA\". As the sequence progresses, the man on the left continues to talk and gesture, while the man on the right shifts his posture and begins to gesture with his right hand. The man in the center remains relatively still, facing forward."
+}

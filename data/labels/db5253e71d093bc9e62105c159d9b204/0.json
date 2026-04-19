@@ -1,0 +1,15 @@
+{
+  "video_id": "db5253e71d093bc9e62105c159d9b204",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-238.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.087,
+    0.262,
+    0.438,
+    0.612
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with short blond hair wearing a dark blue shirt is seen in a small window in the bottom left of a video game interface. The game features a football stadium filled with spectators under a night sky, with the Atlanta Falcons logo visible on the field. On-screen text indicates a game situation of \"1st & 10\" with \"3:03\" remaining in the first quarter. The interface displays a \"SELECT A PLAY\" menu with options including \"COACH SUGGESTIONS,\" \"PLAYBOOK,\" and \"RECENT PLAYS.\" A highlighted play called \"SAFE HANDS\" is described as \"Designed to be a better job building onto the ball.\" As the sequence progresses, the play-calling menu expands, showing different tactical options such as \"DIG RETURN,\" \"HB SLAM,\" \"STRONG FLOOD,\" and \"TEXAS.\" The person in the window reacts with various facial expressions while navigating the menu to choose a play."
+}

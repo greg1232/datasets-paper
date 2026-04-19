@@ -1,0 +1,15 @@
+{
+  "video_id": "182325b325034f4dff59926585947ecf",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-228.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a video call interface featuring a digital concept map on a dark background. The map consists of various circular icons connected by blue lines, containing text such as \"Social Hubs,\" \"Food Hubs,\" \"Community Hubs,\" \"Local Food,\" and \"Local Economy.\" At the top of the browser window, multiple tabs are open, including ones titled \"Trust & Learning by Systemic,\" \"Promote by SystemicHub,\" \"Future of Density by Systemic,\" \"Insights > Introduction to Rums,\" and \"Rural Community Food System.\" In the upper right corner, a small video feed displays a man wearing a dark baseball cap and a dark shirt. As the sequence progresses, the man's video feed disappears and then reappears, and the cursor moves slightly across the screen. The overall layout remains consistent, showcasing a collaborative digital workspace used for mapping systemic connections within a community food system."
+}

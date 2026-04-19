@@ -1,0 +1,15 @@
+{
+  "video_id": "38c0a47e923202c4a51043e338ebedd3",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-319.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.237,
+    0.712,
+    1.188,
+    1.662
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is broadcast in black and white, featuring players in helmets and jerseys on a field with yard lines. On-screen graphics display \"2nd & 2\", \"EXO\", \"2:27\", and \"WORLD CHAMPIONS 1937 1942\". A small inset window in the bottom left shows a man wearing a headset. In the first frame, players are clustered together during a play, with one player wearing jersey number 42. As the sequence progresses, the players shift positions; a player in a white jersey with number 78 becomes prominent as he moves forward. By the final frames, the players have dispersed across the field, with some running and others standing. The timer on the screen counts down from \"2:27\" to \"2:26\", and the game clock remains at \":10\". The stadium stands are filled with spectators in the background."
+}

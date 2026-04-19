@@ -1,0 +1,15 @@
+{
+  "video_id": "36bbb8cc7c0ef4974404a2f6988bdbbc",
+  "url": "./data/segments/3Z229_lKLpk-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.635,
+    4.905,
+    8.175,
+    11.445
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard and glasses, wearing a light-colored Nehru jacket over a white shirt, speaks from behind a wooden podium. He is positioned in front of a dark green, textured wall with a geometric pattern and vertical decorative columns featuring small red flowers. Two microphones on long flexible necks are attached to the podium in front of him. Throughout the sequence, the man is gesturing with his hands as he speaks. He begins by speaking with both hands slightly raised, then raises his right index finger for emphasis. Later, he brings his right hand closer to his face while continuing to speak, and finally settles back into a posture with his hands resting near the podium. The setting remains static, with the focus entirely on the man's delivery and expressions."
+}

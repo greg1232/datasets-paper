@@ -1,0 +1,15 @@
+{
+  "video_id": "c46b974258ee9f44000ead1c98899fe1",
+  "url": "./data/segments/3P5zYKAFzh4-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.711,
+    8.133,
+    13.555,
+    18.977
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dense grove of slender, leafless trees stands against a clear, bright blue sky. The trees feature smooth, grayish-brown bark and thin branches that reach upward, creating a vertical pattern of lines across the scene. The ground is covered in a layer of dried, brown leaf litter and dormant underbrush. The camera remains stationary throughout the sequence, providing a static view of the woodland. There are no people, animals, equipment, or on-screen text present. The lighting is consistent across the frames, with bright sunlight casting soft shadows between the trunks. Very minimal movement occurs between the frames, with only slight shifts in the light and the subtle swaying of the finest upper branches, maintaining a still and quiet atmosphere within the forest setting."
+}

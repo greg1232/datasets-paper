@@ -1,0 +1,15 @@
+{
+  "video_id": "603dff9c5b95ab881723d6f1660330e2",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.538,
+    0.897,
+    1.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene captures a close-up view of a vehicle's digital dashboard display. The interface features a circular gauge on the left with red markings and a central digital screen. On this screen, white text reads \"BRAKE\" next to a red brake icon, followed by the instructions \"Press Brake and Push Button to Start\". Below these instructions, the odometer displays \"20434 mi\". The image shows a slight shift in perspective and lighting across the sequence, but the screen remains static with the same prompt and mileage displayed. The surrounding dashboard is a dark, metallic grey with smooth, curved contours. No people are visible in the frames, and the focus remains entirely on the instrument cluster's start-up sequence."
+}

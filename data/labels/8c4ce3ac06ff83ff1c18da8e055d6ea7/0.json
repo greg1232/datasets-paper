@@ -1,0 +1,15 @@
+{
+  "video_id": "8c4ce3ac06ff83ff1c18da8e055d6ea7",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an outdoor courtyard setting with palm trees, manicured shrubs, and a modern building with a glass-and-metal overhang, several men are walking. Most of the men are dressed in matching outfits consisting of grey polo shirts and black trousers, with some carrying black backpacks. A circular logo is visible in the upper right corner of the scene. In the beginning, a man in the foreground walks toward the left, while behind him, another man in a grey polo and black pants walks forward, holding a black object in his hand. As the sequence progresses, the group continues to move across the paved walkway. The man in the center shifts his position, turning slightly toward his companions. In the final frames, he is seen walking and talking with another man wearing the same grey polo and black trousers, as they move together across the courtyard."
+}

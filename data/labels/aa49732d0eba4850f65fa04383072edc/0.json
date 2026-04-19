@@ -1,0 +1,15 @@
+{
+  "video_id": "aa49732d0eba4850f65fa04383072edc",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-276.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.012,
+    3.037,
+    5.062,
+    7.087
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen from a first-person perspective interacting with a dark, textured, glittery surface in an indoor setting. In the background, a man with a beard and a dark blue shirt is visible within a smaller picture-in-picture window, appearing to be broadcasting from a desk. The environment includes various boxes and collectibles on shelves. The logo \"JASPYS CASEBREAKS.COM\" is prominently displayed in orange and white text at the top and bottom of the small video insert. As the sequence progresses, the person's hand enters the frame from the left, touching and pressing down on the sparkly surface. The man in the inset window remains present, maintaining a similar pose and expression throughout the frames. The overall scene focuses on the tactile interaction with the material while the broadcast continues in the background."
+}

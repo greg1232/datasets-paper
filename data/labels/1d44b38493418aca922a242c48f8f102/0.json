@@ -1,0 +1,15 @@
+{
+  "video_id": "1d44b38493418aca922a242c48f8f102",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-171.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.847,
+    2.54,
+    4.233,
+    5.927
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with grey hair and a black shirt is positioned in front of a plain, light-colored wall. He faces the camera, speaking and subtly shifting his facial expressions. In the top right frame, a blue graphic overlay appears at the bottom of the screen featuring the text \"Basil Chapman\" and \"The Tiger Technicians Hour | June 8th, 2022\". The \"Tiger-TV\" logo is visible in the top right corner of the first and third frames. As the sequence progresses to the bottom frames, the graphic changes to display \"Basil Chapman\" and a phone number, \"1-877-927-6648\". A small portion of a blue object is visible on a surface to the man's left. The man remains centered in the frame throughout the clip, with only minor changes in his posture and mouth movements as he continues to talk."
+}

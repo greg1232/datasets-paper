@@ -1,0 +1,15 @@
+{
+  "video_id": "7fe89d7bda78280abf1988fa1e99a87c",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-201.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.237,
+    0.396,
+    0.554
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card featuring an athlete and a signature over a white surface. The card is encased in a protective plastic sleeve, and the signature is accompanied by the printed name \"RODRIGUEZ.\" In the background, a smaller inset video shows a man with a beard wearing a black t-shirt with a yellow logo, sitting in front of computer equipment. The screen displays the logos \"JASPYS\" and \"CASEBREAKS.COM\" in red and white text. As the sequence progresses, the person holding the card tilts it, causing light to reflect off the plastic surface and shifting the angle of the card. The background remains constant, featuring a white tabletop with a decorative orange and green palm tree design. The man in the inset video remains seated, looking toward the camera."
+}

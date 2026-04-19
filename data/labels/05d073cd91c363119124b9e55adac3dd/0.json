@@ -1,0 +1,15 @@
+{
+  "video_id": "05d073cd91c363119124b9e55adac3dd",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.631,
+    1.894,
+    3.156,
+    4.419
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard wearing a black shirt is seen in a series of small inset video feeds, alternating between looking at the camera and handling items on a table. The main focus of the scene is a collection of \"OBSIDIAN\" trading card boxes and individual packs resting on a colorful gaming surface featuring a large \"JASPYS\" logo and the web address \"CASEBREAKS.COM\". The obsidian boxes are black with red accents and state \"2 AUTOGRAPPHS!\" on their front panels. As the sequence progresses, the camera angle shifts from a close-up of a single box to a wider shot showing multiple stacked boxes and individual foil packs of cards. The man continues to interact with the products in the corner feed while the main view focuses on the arrangement of the collectibles on the desk."
+}

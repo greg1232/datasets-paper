@@ -1,0 +1,15 @@
+{
+  "video_id": "7a9a654493aebb45fc97afcdeb403ddc",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-132.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A medical procedure is performed on a patient's body, with gloved hands using surgical instruments. The setting involves a blue surgical drape and a patient's skin. In the initial frames, one person uses a metallic clamp or forceps to hold tissue while another person's hand, wearing a white glove, works near a thin suture thread. As the sequence progresses, the hands adjust their positions and the instruments move to manipulate the surgical site. A purple silhouette of a female body is visible on the left side of each frame, accompanied by a purple circle containing the text \"Day 5\". In the bottom right corner of every frame, there is a logo of a building next to the text \"Sim Week\". The scene transitions from the placement of a suture to the further manipulation of the surgical area using the metallic tools."
+}

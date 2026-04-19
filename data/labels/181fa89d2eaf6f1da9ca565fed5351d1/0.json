@@ -1,0 +1,15 @@
+{
+  "video_id": "181fa89d2eaf6f1da9ca565fed5351d1",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-175.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    26.689,
+    80.067,
+    133.446,
+    186.824
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with grey hair and glasses speaks from behind a wooden podium against a background of horizontal wooden slats. He wears a blue button-down shirt featuring a decorative pattern and a colorful striped band across the chest. A black microphone is positioned in front of him, and he looks down at notes on the podium as he speaks. The podium displays a logo with a stylized sun and the word \"LIBRARY\". On the right side of the frame, a white rectangular box contains the text \"ORCA\". The tops of people's heads are visible in the foreground, suggesting an audience. Across the sequence, the man's posture and facial expressions shift slightly as he reads his notes and addresses the crowd, while the background and the \"ORCA\" text remain static."
+}

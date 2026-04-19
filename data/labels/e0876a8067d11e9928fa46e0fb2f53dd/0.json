@@ -1,0 +1,15 @@
+{
+  "video_id": "e0876a8067d11e9928fa46e0fb2f53dd",
+  "url": "./data/segments/3INb3jiuu6g-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.965,
+    2.895,
+    4.825,
+    6.755
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news anchor with brown hair, wearing a black t-shirt and a necklace, presents a news segment from a studio. Behind her is a screen displaying a globe and the text \"News NOW.\" The background features a stylized digital environment with purple and blue tones. On-screen graphics at the bottom include the labels \"NEWS NOW\" and \"JUSUN STRIKE,\" followed by the headline \"REPS URGE FG TO ENSURE SPEEDY RESOLUTION.\" The logo \"plustv\" appears on the right, and a banner instructs viewers to \"Watch us on DSTv CHANNEL 408.\" At the bottom of the final frames, social media icons are visible next to \"Follow us @plustvafrica.\" As the sequence progresses, the anchor speaks, her facial expressions and mouth movements changing slightly as she delivers the report, while the graphic elements remain constant across the screen."
+}

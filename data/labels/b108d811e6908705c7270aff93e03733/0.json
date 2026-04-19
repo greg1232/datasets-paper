@@ -1,0 +1,15 @@
+{
+  "video_id": "b108d811e6908705c7270aff93e03733",
+  "url": "./data/segments/3P1vSUbet40-Scene-0813.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.245,
+    0.735,
+    1.225,
+    1.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a podcast studio, wearing a black t-shirt with \"CHECK IT!\" printed on the front, a black baseball cap with an embroidered logo, and over-ear headphones. He wears several gold chains around his neck. He is positioned in front of a professional microphone. The background features a white wall with yellow star graphics and the words \"BRING THE HUSTLE\" repeated vertically. To his right, a red logo reads \"BOSS TALK 101\". On the left side of the screen, a logo reads \"BOSS TALK 101 PODCAST\". As the sequence progresses, the man shifts his position and gaze; he begins by looking forward and slightly upward, then looks down and away from the camera, before returning his gaze forward. The camera remains stationary throughout these movements, capturing his upper body and the surrounding studio equipment."
+}

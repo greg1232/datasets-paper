@@ -1,0 +1,15 @@
+{
+  "video_id": "e64c8d8fde8fc8eca996df5eb845a66e",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.57,
+    7.71,
+    12.85,
+    17.99
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair, wearing a dark navy blazer over a dark button-down shirt, stands before a plain, light-gray wall. In the upper left corner of the scene, the text \"mediasite\" is visible next to a logo. A small table in front of him holds a clear plastic water bottle with a blue cap and a thin microphone that extends upward toward his face. He is speaking and gesturing with his hands to emphasize his points. Initially, he holds both hands up and open, then brings them down as he speaks. He briefly looks toward the side before returning his gaze forward, finishing with his right hand open and gesturing outward. The background remains static throughout the sequence, focusing entirely on the man's upper body and his active communication style."
+}

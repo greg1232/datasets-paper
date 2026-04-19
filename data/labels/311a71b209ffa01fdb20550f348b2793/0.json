@@ -1,0 +1,15 @@
+{
+  "video_id": "311a71b209ffa01fdb20550f348b2793",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.401,
+    1.204,
+    2.007,
+    2.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot captures a vehicle's tire as it moves along a paved road bordered by dry, brownish grass and dirt. The tire occupies the central foreground, rolling forward across the asphalt. A distinct dark grey strip or shadow stretches across the road beneath and ahead of the tire. In each frame, white subtitles are centered at the bottom of the screen, stating \"so the doctors quickly tried to treat the other four\". As the sequence progresses, the vehicle continues its forward motion, causing the tire to shift slightly and the background scenery to glide past. The lighting is bright and natural, suggesting an outdoor setting during the day. No people, logos, or other equipment are visible in the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "816cab9639ea504e7f97e60adf09bac7",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.31,
+    0.931,
+    1.552,
+    2.173
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a graded sports card encased in a clear plastic slab, showcasing a baseball card of Carlton Fisk. The card features a photograph of Fisk and a signature across the bottom, with his name \"CARLTON FISK\" printed below. In the background, a man with a beard wearing a black t-shirt sits at a desk, appearing as a small overlay window. The setting includes a desk with various equipment and a decorative mat featuring palm trees. Prominent red and blue logos for \"JASPYS\" and the website \"CASEBREAKS.COM\" are visible in the upper right and center background. Throughout the sequence, the hands slightly shift the angle of the card, causing the light to reflect off the plastic casing, while the man in the background remains seated. The scene stays consistent across the frames, focusing on the display of the collectible card."
+}

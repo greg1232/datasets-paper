@@ -1,0 +1,15 @@
+{
+  "video_id": "4ac20f451468c7ffed4b12cbab3419eb",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-223.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.106,
+    0.319,
+    0.531,
+    0.744
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video captures a screen showing a football stadium with a grass field and large stands under a bright sky. A man with blond hair wearing a dark t-shirt is visible in a small inset window in the lower-left corner of the display. Across the stadium's electronic displays, the text \"ULTIMATE TEAM\" is repeated. As the sequence progresses, digital cards appear overlaid on the stadium view. One green card shows a football player, and another blue card features a player with the text \"CB 97\" and \"HAROLD CAMERON\" displayed. A small green \"LINEUP\" tag appears next to these cards. The man in the inset window remains present throughout, looking toward the camera. The background remains a static view of the empty stadium, while the digital athlete cards appear and shift position on the screen."
+}

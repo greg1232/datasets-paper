@@ -1,0 +1,15 @@
+{
+  "video_id": "ebdfbb8779aa32fa1b766c2679749de2",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.265,
+    3.795,
+    6.325,
+    8.855
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This video clip captures a presentation on \"CRYOGENIC ENGINEERING\" for \"Tutorial \u2013 1\" by \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" The NPTEL logo is visible in the bottom left corner of each frame. The presentation features a blue header and footer with white text. Centered on the screen is a mathematical formula: \"y = ((h1 - h2) - (1 - \u03b5)(h1 - hg)) / ((h1 - hf) - (1 - \u03b5)(h1 - hg))\", accompanied by the value \"\u03b52 = 0.95\" highlighted in yellow. As the video progresses, the first two frames remain identical. In the third frame, a cursor appears on the white background. In the final frame, a data table is introduced below the formula. This table contains columns labeled \"1\", \"2\", \"f\", and \"g\", with corresponding values for pressure \"p (bar)\", temperature \"T (K)\", enthalpy \"h (J/g)\", and entropy \"s (J/gK)\"."
+}

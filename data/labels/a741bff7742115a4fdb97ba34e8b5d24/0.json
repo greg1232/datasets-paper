@@ -1,0 +1,15 @@
+{
+  "video_id": "a741bff7742115a4fdb97ba34e8b5d24",
+  "url": "./data/segments/3iUTkJy84EY-Scene-196.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.205,
+    0.615,
+    1.025,
+    1.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short dark hair and glasses is speaking against a plain dark gray background. She wears a light green, embroidered top and a dark necklace. Across the sequence, she is captured from the waist up, gesturing with both hands to emphasize her points. Her expressions shift slightly as she talks, with her mouth opening and closing and her hands moving in a fluid, conversational manner. A small circular logo featuring a stylized lamp and the text \"NPTEL\" is visible in the bottom-left corner of the scene. The woman remains the sole subject of the video, and the setting and her attire remain constant throughout the frames."
+}

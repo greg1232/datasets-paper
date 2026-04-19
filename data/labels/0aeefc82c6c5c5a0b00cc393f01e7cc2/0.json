@@ -1,0 +1,15 @@
+{
+  "video_id": "0aeefc82c6c5c5a0b00cc393f01e7cc2",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-228.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.613,
+    1.838,
+    3.062,
+    4.288
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game sequence of an American football match takes place on a green grass field. Players in white uniforms and players in black uniforms are lined up facing each other at the line of scrimmage. A small inset window shows a man with blond hair wearing a blue shirt and headphones, reacting to the game. On-screen text includes \"3rd & 3\", \"1st\", and a clock showing times from \":16\" down to \":11\". Logos for the Atlanta Falcons and \"EXO\" are visible at the top. As the action progresses, the quarterback in the white uniform snaps the ball and moves backward. The man in the inset window opens his mouth in a surprised expression. Between the frames, the game clock counts down from \"3:23\" to \"3:18\", and the players shift positions as the play begins to unfold on the field."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "045400c798d1ef940b95fcd83e9d7171",
+  "url": "./data/segments/3Ma0wGTm5QQ-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.854,
+    2.562,
+    4.271,
+    5.979
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a red t-shirt stands against a purple background featuring a concentric chevron pattern. His shirt features a white logo that reads \"Learning in Hand with TONY VINCENT\". To his left is a large graphic that reads \"Google FORMS AWESOMENESS\" with a stylized list icon beneath the text. The man is looking toward the camera and speaking; as the sequence progresses, his mouth opens and closes, and his facial expression shifts slightly as he talks. He remains in the same position and attire throughout the clip, and the background elements and text remain stationary. The composition is identical across the sequence, with only the man's subtle movements and speaking gestures providing variation."
+}

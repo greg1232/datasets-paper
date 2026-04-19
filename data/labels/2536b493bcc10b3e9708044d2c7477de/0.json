@@ -1,0 +1,15 @@
+{
+  "video_id": "2536b493bcc10b3e9708044d2c7477de",
+  "url": "./data/segments/3P5zYKAFzh4-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.988,
+    2.965,
+    4.942,
+    6.919
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A surreal illustration depicts a small, furry, creature-like being with large, pointed ears and distinct red eyes. The creature is shown in profile, clinging to the side of a pale, vertical surface that resembles a tree trunk or a textured wall. It uses its long, thin fingers to grip the surface, with one hand raised high. Its body is covered in dense, greyish-black fur rendered with fine, hatched lines. To the left of the creature, a small, dark, coiled object is attached to the vertical surface. The background consists of muted, neutral tones with vague, organic shapes suggesting a cavernous or wooded environment. Across the sequence of frames, the image remains static, with no movement or change in the creature's pose, the background elements, or the overall composition."
+}

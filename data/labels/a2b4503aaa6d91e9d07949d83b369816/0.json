@@ -1,0 +1,15 @@
+{
+  "video_id": "a2b4503aaa6d91e9d07949d83b369816",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-085.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.759
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up view of a person's hand and forearm interacting with a dark leather steering wheel inside a vehicle. The steering wheel features a small horn symbol and visible brown stitching along the inner rim. In the background, a portion of the car's dashboard is visible, featuring orange accents and a red logo containing the letters \"C\" and \"R\" in a stylized font. A person's hairy forearm and hand enter the frame from the right, moving behind the steering wheel. Between the frames, the hand shifts position, moving slightly upward and then back down as it reaches for something located behind the wheel. The lighting is bright, creating highlights on the leather surface of the steering wheel and the person's skin as their hand moves across the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e7df6219ed55d5c77a7af41be42d8ea6",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-428.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.287,
+    0.86,
+    1.434,
+    2.007
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark green t-shirt and a matching baseball cap with headphones sits in a studio, speaking while gesturing with his hands. He is positioned behind a table with two professional black microphones. In the background, a black banner features white and gold text, including \"UNIQUE FASHIONS\" and \"VISUAL REALITY,\" alongside a gold shield logo. A clothing rack with pink and white apparel is partially visible to the left. On-screen graphics include a circular logo on the left and a red \"TALK 10\" logo on the right. As the scene progresses, the man continues to talk, shifting his gaze and moving his hands to emphasize his points. The text on his shirt includes fragments such as \"STILL\" and \"CONNECT WITH US,\" though some parts are obscured by the microphone. The camera remains static, capturing his upper body and the studio environment."
+}

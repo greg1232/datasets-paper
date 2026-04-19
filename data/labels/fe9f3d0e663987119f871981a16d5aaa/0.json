@@ -1,0 +1,15 @@
+{
+  "video_id": "fe9f3d0e663987119f871981a16d5aaa",
+  "url": "./data/segments/3L_uHTClWfk-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.825,
+    1.375,
+    1.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is shown in a close-up shot against a plain, neutral-colored wall. He is wearing a white, rounded helmet that covers the top and sides of his head, a white coat over a black turtleneck shirt, and a small black headset microphone positioned near his mouth. Throughout the sequence, the man looks slightly off-camera to the left with a focused expression. His mouth opens and closes slightly as he appears to be speaking into the microphone. The background remains static, with a small, indistinct object visible on the wall behind him to the right. The camera angle and framing remain consistent across the sequence, capturing only subtle movements of the man's facial expressions and lips."
+}

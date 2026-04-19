@@ -1,0 +1,15 @@
+{
+  "video_id": "fb95e79d8f4be2937b49a912c553b9c3",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-359.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.094,
+    0.281,
+    0.469,
+    0.656
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is captured from an elevated angle on a green field marked with white yard lines and numbers such as \"40,\" \"30,\" and \"20.\" Two teams are positioned for a play: one wearing white jerseys and pants, and the other in black jerseys and pants. A player in white, labeled \"Smith\" with a red circle, stands behind the line of scrimmage. In the initial moments, a black-clad player is labeled \"Polamalu\" with a yellow circle. As the play progresses, the players clash at the line of scrimmage, and the white-clad team advances. On-screen markers shift, and \"Polamalu\" is seen moving toward the ball carrier. A large red and gold \"W\" logo is visible on the turf. At the top of the screen, the word \"COMMANDER\" appears in red. The action unfolds as the offensive line blocks the defenders, allowing the play to move forward toward the opponent's goal."
+}

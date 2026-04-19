@@ -1,0 +1,15 @@
+{
+  "video_id": "1162bdcf9e5b810245e648d92266d276",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-143.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.771,
+    17.313,
+    28.854,
+    40.396
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is centered within a small, circular vignette against a solid black background. He is wearing a black garment with gold and white patterned embroidery on the chest and shoulders. He has a neutral expression and is looking directly toward the camera. The scene remains static across the frames, with the man maintaining his pose and position. Small white text that reads \"Seyi Adebola\" appears in the lower-left corner of the left side and the lower-center of the right side of the overall composition. No movement or change in lighting occurs, and no other people or objects are visible in the scene."
+}

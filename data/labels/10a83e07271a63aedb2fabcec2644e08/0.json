@@ -1,0 +1,15 @@
+{
+  "video_id": "10a83e07271a63aedb2fabcec2644e08",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.27,
+    0.45,
+    0.63
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call interface displays a grid of twelve participants, some of whom are visible in repeated tiles across the sequence. The participants include men and women in various casual settings, such as home offices and rooms with neutral walls. Notable individuals include a man in a blue shirt with glasses identified as \"Jerry Michalski,\" a man in a grey shirt identified as \"Roland Zimmermann,\" a man in a blue shirt identified as \"Pyotril Nazyrin,\" and a woman in a tan shirt. Other attendees appear as \"Angan Mungyi,\" \"Charles Mast,\" \"Sara_collaborator,\" \"Seymour Nash,\" and \"Tarlan Bakinski.\" Some tiles feature static images or graphic logos instead of live video. The scene remains static across the sequence, with the participants maintaining their positions in the grid, though minor movements in their facial expressions and postures occur as they engage in the virtual meeting."
+}

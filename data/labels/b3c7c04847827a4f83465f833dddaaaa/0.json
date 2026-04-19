@@ -1,0 +1,15 @@
+{
+  "video_id": "b3c7c04847827a4f83465f833dddaaaa",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features scenes of political figures, primarily Nitish Kumar, who is seen wearing a white kurta and performing a namaste gesture. In the initial scenes, he is surrounded by a group of men, most of whom are also dressed in white attire, standing outdoors near a white vehicle. As the sequence progresses, the focus shifts to a closer shot of Nitish Kumar interacting with another man in a black shirt. The screen is heavily overlaid with news graphics in red and yellow. The top banner reads \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091b\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u093c\u0940 \u0939\u0948\" alongside the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo. A lower red ticker states \"\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f MLA \u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930 \u0938\u093f\u0902\u0939 \u092e\u0902\u0924\u094d\u0930\u0940 \u092c\u0928\u0947\". Small profile portraits with names like \"\u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\", \"\u092c\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\", \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930\", and \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\" appear on the sides. The timestamp \"10:03 PM\" is visible at the bottom right of the frames."
+}

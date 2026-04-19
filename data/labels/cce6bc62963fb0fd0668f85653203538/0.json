@@ -1,0 +1,15 @@
+{
+  "video_id": "cce6bc62963fb0fd0668f85653203538",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a video conferencing call overlaid on a complex conceptual map. The map consists of various circular icons and text labels connected by blue lines on a black background, featuring labels such as \"Deep Ecology,\" \"Social Ecology,\" and \"Integral Ecology.\" In the upper right corner, a man wearing a dark baseball cap is visible in a small video window. Across the top of the screen, multiple browser tabs are open, with titles including \"Trust & Learning by Systemantics,\" \"Insights I Introduction to Systems,\" and \"Root Community Food System.\" As the sequence progresses, a rectangular advertisement appears over the left side of the conceptual map. The advertisement features a red and white beer label with the text \"BEER\" and the phrase \"A TIME FOR CHANGE\" printed in bold, white capital letters against a red background."
+}

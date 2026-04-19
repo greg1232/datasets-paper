@@ -1,0 +1,15 @@
+{
+  "video_id": "d1cc9fbbc79f9a602aa71cc787e66926",
+  "url": "./data/segments/3Z229_lKLpk-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large group of men is seated in a tiered assembly hall with wood-paneled walls. The attendees are dressed in a variety of formal attire, including dark business suits and traditional Middle Eastern clothing, such as white thobes and ghutras. Most of the men are sitting still and facing forward, with some looking toward the front of the room. In the upper left corner of the scene, a blue screen displays a white emblem. The people remain in their seats throughout the sequence, with only subtle shifts in posture and head movements occurring as they observe the proceedings. There is no legible on-screen text or logos beyond the emblem on the blue screen. The camera remains stationary, capturing the static arrangement of the seated delegates in the auditorium."
+}

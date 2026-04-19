@@ -1,0 +1,15 @@
+{
+  "video_id": "98e31cfc83b80eee73ba872222eeea54",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.634,
+    25.901,
+    43.168,
+    60.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light pink button-down shirt and a watch on his left wrist stands in an office, speaking directly to the camera. He is positioned in front of a trading desk equipped with several monitors displaying financial charts and data. In the background, another man in a blue shirt and khaki pants is visible, standing and looking toward a different set of screens. The \"COINTELEGRAPH\" logo appears in the top right corner of the scene. As the sequence progresses, the man in the pink shirt gestures with his hands and moves his mouth, shifting his posture slightly while maintaining his position. The background elements, including the monitors and the other person, remain largely stationary, while the focus stays on the speaker as he delivers his message."
+}

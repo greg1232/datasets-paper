@@ -1,0 +1,15 @@
+{
+  "video_id": "bf68854d451ba00ff091790f7cf97be9",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-189.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.18,
+    0.54,
+    0.9,
+    1.26
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black baseball cap and a dark shirt is visible in a small video call window in the top right corner of a computer screen. The main area of the screen displays a black background with a complex causal loop diagram consisting of several interconnected nodes and blue arrows. Legible text within the diagram includes \"Frustration,\" \"Present Breakfast,\" \"Attractiveness of Garden,\" \"Birds at Feeder,\" \"Buy Bird Seed,\" and phrases such as \"encourages me to move,\" \"increases incursions,\" and \"increases the need to.\" The browser tabs at the top of the screen show various titles, including \"Trial & Learning by Systemdynamics,\" \"Society of Systems,\" and \"Rural Community Food System.\" Across the sequence of frames, the person in the video call remains stationary, and the content of the diagram and the browser window stays constant, showing no visual movement or changes."
+}

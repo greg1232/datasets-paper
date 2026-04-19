@@ -1,0 +1,15 @@
+{
+  "video_id": "d2789f4b3699e16b423b391b0c042687",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.381,
+    1.142,
+    1.903,
+    2.664
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a light grey t-shirt and a grey baseball cap is seen from behind, interacting with a white vehicle in a sandy, outdoor setting. The t-shirt features a large blue circular logo and the letters \"IOM\" printed both above and below the graphic. In the initial sequence, the person stands by the side of the vehicle near a spare tire mounted on the exterior. They reach toward the open door of the vehicle and then move away from it. As the scene progresses, the person walks away from the vehicle across the sandy ground, moving toward the right side of the frame. The white vehicle remains stationary in the background. Across all frames, the on-screen text reads, \"and sometimes it can be as many as 27 cases\"."
+}

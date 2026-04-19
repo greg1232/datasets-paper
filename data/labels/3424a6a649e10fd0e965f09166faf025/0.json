@@ -1,0 +1,15 @@
+{
+  "video_id": "3424a6a649e10fd0e965f09166faf025",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.317,
+    0.951,
+    1.585,
+    2.219
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation room, four people are gathered around a medical mannequin lying in a hospital bed. A woman on the left wears blue scrubs, blue gloves, and a lanyard, while two women in the center and right wear black scrubs and blue gloves. A fourth person, partially visible, is positioned behind the bed. The room is equipped with various medical devices, including monitors, intravenous pumps, and a yellow oxygen tank. In the top frames, the practitioners stand around the mannequin, which is covered in a white patterned gown. As the scene progresses to the bottom frames, the practitioners lean in and adjust the bedding and the mannequin's position. The text \"Sim Week\" appears in the bottom right corner of each frame. Throughout the sequence, the practitioners interact with the mannequin to practice clinical care in a controlled environment."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6704b8d22d5abcf9edbf56987ce0d5ae",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.479,
+    0.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of practitioners performs a synchronized martial arts routine in a large, brightly lit indoor hall with a purple floor and ornate chandeliers hanging from the ceiling. The central figure is a man dressed in a white traditional martial arts uniform, holding a long sword. He is surrounded by others wearing blue and purple uniforms. Across the sequence, the practitioners move in unison, transitioning from a high, extended striking posture with the sword raised overhead to a lower, more grounded stance. The man in white lunges forward, shifting his weight as he brings the sword down in a sweeping motion. The other practitioners mirror his movements, shifting their stances and extending their arms. The background remains static, focusing on the fluid, coordinated movements of the group as they execute their choreographed form."
+}

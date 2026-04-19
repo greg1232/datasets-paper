@@ -1,0 +1,15 @@
+{
+  "video_id": "ba1960377a8377b7893534b9714db74b",
+  "url": "./data/segments/3P5zYKAFzh4-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    79.417,
+    238.251,
+    397.084,
+    555.918
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call or interview takes place between a woman with red hair and a man with glasses and a goatee. The woman wears a light blue patterned shirt and red earrings, while the man wears a light blue button-down shirt. They appear in separate video feeds against different backgrounds; the woman is in a room with green string lights, and the man is in a room with a framed picture and a neon \"OPEN\" sign. Throughout the sequence, the woman listens attentively, eventually resting her chin on her hand, while the man speaks. A blue graphic overlay spans the bottom of the screen, featuring the word \"FOCUS\" and the text \"with Margaret Harrington\" on the left, and \"No More Time Climate Crisis Poems by Greg Delanty\" on the right, alongside a \"TOWN MEETING TV\" logo. The scene remains consistent in setting, with only the subjects' facial expressions and head positions shifting as they interact."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e4cd75b35f4db5c39c83ffb84873ee3c",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.183,
+    6.55,
+    10.917,
+    15.283
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard wearing a dark blue t-shirt sits in a room equipped with a computer and monitors. In the foreground, a pair of hands interacts with a gold-colored, corrugated rectangular object encased in a clear plastic protective box. The hands hold and shift the box, rotating it to show different angles of the gold item. In the background, a small inset window shows the man watching the process. Logos and text appear throughout the scenes, including \"JASPYS\" and \"CASEBREAKS.COM\" in orange and white lettering, as well as \"JASPYS Sports Cards\" on a surface behind the man. As the sequence progresses, the hands move the plastic case, eventually sliding a finger across the top of the gold object. The background setting remains consistent, featuring a desk with various equipment and a colorful patterned mat beneath the objects."
+}

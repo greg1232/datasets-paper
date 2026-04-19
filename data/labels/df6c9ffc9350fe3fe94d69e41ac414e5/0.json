@@ -1,0 +1,15 @@
+{
+  "video_id": "df6c9ffc9350fe3fe94d69e41ac414e5",
+  "url": "./data/segments/3QD9oO6sRns-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.265,
+    0.794,
+    1.323,
+    1.852
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a sports trading card encased in a clear plastic protector. The card features a baseball player in a white uniform with the text \"1990s\" and \"FRANK THOMAS\" visible on the bottom. In the background, a man wearing a black t-shirt and a black baseball cap is partially visible within a smaller inset window. He appears to be in a room with various boxes and items, including a banner that reads \"LEBREAKS\". The logos \"CASEBREAKS\" and \"CASEBREAKS.com\" are superimposed on the image. Throughout the sequence, the hand subtly shifts the position of the encased card, tilting it slightly to show different angles of the protective case and the card inside. The background remains static, while the focus stays on the hand manipulating the collectible card against the backdrop of the room and the inset video feed."
+}

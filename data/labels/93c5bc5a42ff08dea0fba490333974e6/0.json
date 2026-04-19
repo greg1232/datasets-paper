@@ -1,0 +1,15 @@
+{
+  "video_id": "93c5bc5a42ff08dea0fba490333974e6",
+  "url": "./data/segments/3sJ5OX75erw-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.615,
+    31.845,
+    53.075,
+    74.305
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"OPS-5G TA3 \u2013 Secure Slices\" is displayed, featuring a dark blue background. The objective stated on the slide is to \"Mitigate new attack surfaces, such as side-channels, introduced by virtualization and slicing.\" Below the text, a technical diagram illustrates three network slices: \"eMBB\", \"URLLC\", and \"mMTC\". Each slice shows a flow from \"Edge DC\" to \"Local DC\" and finally to \"Central DC\", with various icons representing network components. The \"USCViterbi\" logo is prominent in the top right corner. In the top right of the screen, a small inset video shows a man with dark hair wearing a dark blue shirt. The bottom of the slide contains the hashtag \"#openedge\" and logos for \"THE LINUX FOUNDATION\", \"LF NETWORKING\", and \"LF EDGE\", along with the text \"DISTRIBUTION TREATMENT A. Approved for public release: distribution unlimited.\" The scene remains static across the frames, with no visible changes in the presentation content or the man's posture."
+}

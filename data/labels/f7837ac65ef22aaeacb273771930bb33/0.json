@@ -1,0 +1,15 @@
+{
+  "video_id": "f7837ac65ef22aaeacb273771930bb33",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.801,
+    2.402,
+    4.004,
+    5.606
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, three women in scrubs and jackets stand around a patient mannequin lying on a hospital bed. Two women wear black jackets over blue scrubs, while a third woman wears blue scrubs and a black face mask. They are wearing blue medical gloves and appear to be conducting a clinical assessment. The mannequin has red hair and is covered with a white sheet and a patterned gown. The room contains medical equipment, shelves with supplies, and a wall clock. A magenta banner across the lower third of the scene displays the text \"Day 1\", \"ED Consult\", and \"Sim Week\" alongside a silhouette logo. As the scene progresses, the women shift their positions slightly around the bed, and the mannequin's position is adjusted, revealing more of its patterned hospital gown."
+}

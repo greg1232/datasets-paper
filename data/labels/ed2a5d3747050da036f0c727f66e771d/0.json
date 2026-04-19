@@ -1,0 +1,15 @@
+{
+  "video_id": "ed2a5d3747050da036f0c727f66e771d",
+  "url": "./data/segments/3Smz5pevbI4-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.039,
+    30.118,
+    50.196,
+    70.274
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a series of slides containing text and brain imaging. The top section features a quote that reads, \"...One of the tear gas canisters hit Dima in the side, bresking two ribs. When Dima took a breath her broken bones scraped against each other.\" Below this text, multiple cross-sectional MRI scans of a human brain are displayed, some with highlighted colored regions. A citation at the bottom reads, \"Bruneau, Dutour and Saxe, Trans Roy Soc - B, 2012; Bruneau, Jacoby and Saxe, in prep\". As the sequence progresses, a second text block appears to the right: \"... Five years later, when Ali had a family, the israeli government brought bulldozers and destroyed his home while his children sat crying.\" Further down, the word \"Muslims\" appears above a row of small human silhouettes and a final brain scan. The layout shifts from focusing on a single narrative to presenting two contrasting stories and their associated neurological data."
+}

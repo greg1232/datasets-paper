@@ -1,0 +1,15 @@
+{
+  "video_id": "1de163e3772526af6cd3a4d00523ad8c",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot captures a mechanical assembly involving a belt drive system and a metal pulley. A person's hand, visible in the upper left corner, reaches toward the machinery. The person is wearing a dark-colored garment. The central focus is a silver, circular pulley with a ribbed outer edge, connected by a black drive belt to another pulley below. The equipment is made of cast metal and bolted together with various fasteners. As the sequence progresses, the hand moves closer to the belt and pulley assembly, appearing to adjust or touch a component of the machinery. The camera remains stationary, providing a steady view of the mechanical components and the hand's interaction with them throughout the short clip. There is no visible text or logos on the equipment."
+}

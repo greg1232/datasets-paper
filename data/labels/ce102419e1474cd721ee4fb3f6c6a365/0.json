@@ -1,0 +1,15 @@
+{
+  "video_id": "ce102419e1474cd721ee4fb3f6c6a365",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-084.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.295,
+    3.885,
+    6.475,
+    9.065
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news segment features a split-screen layout. On the left, a smaller inset shows a man wearing a red traditional cap and dark clothing. On the right, a larger portrait displays a smiling man with glasses wearing a blue pinstripe suit and a blue tie. Both are set against a purple and red graphic background. The text \"ON THE PHONE\" appears at the top, with a label identifying the man in the inset as \"OLUSOLA OYEKANMI\" and \"POLITICAL ANALYST,\" further noted as being in \"LAGOS.\" The \"plustv\" logo is visible in the upper left corners. A white banner at the bottom reads \"PLUS POLITICS\" and \"NIGERIA NEEDS ME \u2013 BOLA TINUBU.\" Across the sequential frames, the visuals remain static, but the bottom-most white bar changes: it initially displays \"WATCH ONLINE\" and \"WWW.PLUSTVAFRICA.COM/LIVE-TV,\" then transitions to \"SUBSCRIBE\" and \"WWW.YOUTUBE.COM/PLUSTVAFRICA,\" and finally shifts to \"SUBSCRIBE\" and \"WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE.\""
+}

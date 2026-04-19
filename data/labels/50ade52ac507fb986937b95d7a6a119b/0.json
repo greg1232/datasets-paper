@@ -1,0 +1,15 @@
+{
+  "video_id": "50ade52ac507fb986937b95d7a6a119b",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-109.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.238,
+    0.396,
+    0.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a smile, wearing black headphones and a dark garment over a grey shirt, is positioned in front of a professional microphone against a dark, ribbed acoustic wall. He is looking slightly to his left. In the beginning, a black rectangular overlay appears over the right side of the image. As the scene progresses, white text appears within this black box, reading \"Miir\", followed by \"WINE LINE\" in a larger, stylized font, and \"750 ml Bottle 10 oz Tumbler\" in a smaller font at the bottom. The man remains in a consistent pose and expression throughout the sequence, and the camera angle remains stationary. The transition across the frames shows only the gradual appearance and persistence of the \"Miir WINE LINE\" promotional text on the right side of the screen."
+}

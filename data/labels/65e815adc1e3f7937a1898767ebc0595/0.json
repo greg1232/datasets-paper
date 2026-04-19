@@ -1,0 +1,15 @@
+{
+  "video_id": "65e815adc1e3f7937a1898767ebc0595",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-156.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.525,
+    1.575,
+    2.625,
+    3.675
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds up a sports trading card featuring a player and the name \"Eddie Murray\" signed in blue ink. The card includes the text \"19/29\" and \"MURRAY\" printed on its face. In the background, a man wearing a navy blue t-shirt sits behind a desk equipped with a computer and microphone. A logo reading \"JASPYS CASEBREAKS.COM\" and a graphic of two palm trees are visible on the surface in front of him. As the sequence progresses, the hand moves the card away, revealing a small, rectangular white box with a yellow top. A second, smaller video overlay shows the man in the navy shirt continuing to sit at his desk. The setting appears to be a dedicated workspace for sports card breaking, with stacks of cards and protective sleeves scattered across the table."
+}

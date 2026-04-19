@@ -1,0 +1,15 @@
+{
+  "video_id": "6a255aa35197c11756e8e361866f6467",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.975,
+    1.625,
+    2.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a political graphic centered around the state of Bihar, depicted as a white map silhouette struck by a lightning bolt. To the left is a photo of Nitish Kumar, labeled as \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930,\" and to the right are photos of ministers, including \"\u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930\" and \"\u0935\u093f\u091c\u092f \u091a\u094c\u0927\u0930\u0940.\" A red banner across the middle reads \"\u0938\u0941\u0936\u093e\u0938\u0928 \u092a\u0930 \u091a\u0948\u0932\u0947\u0902\u091c,\" while the top header states \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". A red ticker at the bottom reads \"PM: NDA \u0938\u0930\u0915\u093e\u0930 \u092c\u093f\u0939\u093e\u0930 \u0915\u0947 \u0935\u093f\u0915\u093e\u0938 \u092e\u0947\u0902 \u0915\u0938\u0930 \u0928\u0939\u0940\u0902 \u091b\u094b\u0921\u093c\u0947\u0917\u0940\" next to a \"MAHAREED\" logo and a timestamp of \"10:04 PM.\" As the sequence progresses, the layout remains consistent, but new portraits of officials appear on the left side. A label \"\u0921\u093f\u092a\u094d\u091f\u0940 CM\" is introduced, accompanied by photos of \"\u0938\u092c\u0930\u093e\u0924 \u091a\u094c\u0927\u0930\u0940\" and \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e,\" who are added to the display alongside the existing figures."
+}

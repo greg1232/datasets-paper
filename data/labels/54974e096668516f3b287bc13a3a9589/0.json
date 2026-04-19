@@ -1,0 +1,15 @@
+{
+  "video_id": "54974e096668516f3b287bc13a3a9589",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.976,
+    1.627,
+    2.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up perspective reveals an automotive fuse box located behind a plastic interior panel. The box contains numerous multicolored fuses and several labels, including \"L.C.D.\", \"RADIO\", \"BRAKE\", and \"AIR BAG\". A thin red wire is visible, extending from the top edge. As the sequence progresses, the camera angle shifts, showing the fuse box nestled within the dark gray plastic housing of the vehicle's interior. A blue electrical connector is seen attached to one of the fuse slots, with the red wire connected to it. The view moves from a direct shot of the fuse labels to a wider angle that captures the surrounding plastic trim and a small screw holding the panel in place. The focus remains on the electrical components and the red wire as the viewpoint adjusts to show more of the surrounding structural assembly."
+}

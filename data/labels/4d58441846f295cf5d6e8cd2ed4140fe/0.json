@@ -1,0 +1,15 @@
+{
+  "video_id": "4d58441846f295cf5d6e8cd2ed4140fe",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A security camera captures a dimly lit, outdoor scene at night, featuring a dirt or gravel ground with a ladder leaning against a wall or structure in the background. The footage is grainy and appears to be from a monitoring system, with a user interface visible at the bottom of the screen including a speaker icon and the text \"Cam 04\". Across the sequence, the camera angle shifts slightly, and a faint, translucent shape moves across the left side of the frame. In the later frames, a white object or figure briefly appears near the bottom left edge of the screen before disappearing. The overall environment remains static, with the ladder and the surrounding dark ground remaining in place while the subtle movements occur in the foreground."
+}

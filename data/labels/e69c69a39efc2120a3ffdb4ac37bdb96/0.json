@@ -1,0 +1,15 @@
+{
+  "video_id": "e69c69a39efc2120a3ffdb4ac37bdb96",
+  "url": "./data/segments/3JGRt3BFYrM-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    11.046,
+    33.138,
+    55.229,
+    77.321
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a presentation slide titled \"USB Custom HID Device lab,\" featuring the STMicroelectronics logo. The slide outlines technical specifications for a USB device, noting that it should \"Use interrupt transfers for data transfer,\" has \"Limited throughput compared to CDC bulk (64 kB/s),\" uses \"Fixed packet size,\" and requires \"No need for driver on Microsoft Windows.\" It further states, \"Following example show you how to create USB Custom HID device, which is echoing the communication from host side.\" In the initial frame, the text is partially revealed alongside a stylized blue graphic and a circular diagram. As the sequence progresses, the text is fully displayed, and the visual layout transitions, repeating the title and the same bulleted list across the screen. The background remains a clean, white professional presentation style throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5191e7702f6e7b5fdbc2974b6f17600e",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.562,
+    0.787
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web page from \"RANDOM.ORG\" used as a \"List Randomizer.\" The page displays a numbered list of names, including \"Ryan Presnell,\" \"Michael Loguericio,\" and \"Steve Herrick.\" An overlay shows a chat window where a user named \"glowbog27\" says \"turning,\" and a bot named \"Nightbot\" posts, \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE >>> https://bit.ly/JsSce8K9.\" A small video feed in the bottom right features a man with dark hair and a beard wearing a black shirt, positioned in front of a red and white \"JASYP\" logo and the website \"CASEBREAKS.com.\" As the video progresses, the page transitions from the results of a randomization to the original input list, which begins with \"1. Ryan Presnell.\" The top of the page contains navigation links for \"Games,\" \"Numbers,\" and \"Drawings,\" while a footer displays \"\u00a9 1998-2023 RANDOM.ORG.\""
+}

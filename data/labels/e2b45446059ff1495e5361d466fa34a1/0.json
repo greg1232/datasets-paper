@@ -1,0 +1,15 @@
+{
+  "video_id": "e2b45446059ff1495e5361d466fa34a1",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.812,
+    1.137
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair, glasses, and a thin mustache is positioned in front of a microphone, wearing a navy blue patterned shirt, a gold chain, and white over-ear headphones. He is situated in a room with light-colored wooden paneled walls, flanked by two decorated Christmas trees with multicolored lights. Behind him is a framed blue sign featuring the number \"20\" and a logo. As the sequence progresses, the man speaks, his facial expressions shifting from a neutral, open-mouthed pose to a more animated expression with his mouth wide open, and finally to a slightly closed-mouth position. His head tilts slightly during these movements. The background elements, including the Christmas trees and the framed sign, remain stationary throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "49d0341dd1c0efc8c469aa58e2550fd0",
+  "url": "./data/segments/3Kxl1O310k8-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    27.955,
+    83.865,
+    139.775,
+    195.685
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a slideshow presentation about housing trusts. The initial scene displays a white slide with text organized into two sections. Under \"Trustees\" and \"MGL Chapter 44, Section 55c,\" bullet points state \"Minimum five,\" \"Includes CEO,\" \"Appointed by Mayor/CC/SB,\" \"Two-year terms,\" and \"'Public agents'.\" Beside this, under \"Board Powers\" and \"MGL Chapter 44, Section 55c,\" it notes \"16 explicit powers including:\" followed by bullets regarding accepting, purchasing, and selling real or personal property. Small video feeds of presenters appear at the top. The scene then transitions to a slide titled \"Trust annual reporting to CPC,\" which features the text, \"Housing trusts must track CPA funds separately and annually report to CPC to account for funds in CP-3 report to DOR,\" alongside an image of a formal document. The final frames maintain this reporting slide, with the MHP logo visible in the corners."
+}

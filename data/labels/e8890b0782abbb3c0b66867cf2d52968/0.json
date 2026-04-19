@@ -1,0 +1,15 @@
+{
+  "video_id": "e8890b0782abbb3c0b66867cf2d52968",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-897.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.991,
+    1.387
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, black headphones, and a black hoodie with gold lettering is seated at a desk in a studio setting. He is positioned behind a professional microphone mounted on a black boom arm. To his left, a white banner features a logo with five stars and the text \"URBAN HUSTLE\". Above him, a blue sign reads \"Where BOSSES Talk!\". On the desk to his right sits a black container with a red and white label that says \"TRACK OUT\". A small logo containing \"BOSS TALK\" is visible in the bottom left corner of the scene. Throughout the sequence, the man remains in the same position, looking towards the left and extending his right arm outward. The visual composition remains static across the frames, with no significant changes in movement, lighting, or positioning."
+}

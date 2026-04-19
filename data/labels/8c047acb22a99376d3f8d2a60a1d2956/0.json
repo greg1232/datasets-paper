@@ -1,0 +1,15 @@
+{
+  "video_id": "8c047acb22a99376d3f8d2a60a1d2956",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.238,
+    0.396,
+    0.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on a black textured plastic component of a vehicle. Embossed into the surface is the word \"CORVETTE\" in uppercase letters, accompanied by a circular logo to the right of the text. The object is angled, showing a curved edge on the left side and a recessed linear detail running horizontally across the lower portion. A small metallic piece is partially visible on the far left edge. As the sequence progresses, the camera subtly shifts its position, causing the lighting and shadows on the textured surface to change slightly. There are no people present in the scene, and the background remains mostly out of focus, consisting of dark mechanical elements. The image remains tightly cropped on the branded plastic part throughout the duration of the clip."
+}

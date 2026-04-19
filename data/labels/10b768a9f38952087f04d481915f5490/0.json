@@ -1,0 +1,15 @@
+{
+  "video_id": "10b768a9f38952087f04d481915f5490",
+  "url": "./data/segments/3E6ctN22V7k-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.705,
+    1.175,
+    1.645
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is shown interacting with a light blue piece of furniture, possibly a dresser or a cabinet. In the beginning, the hand rests on the flat top surface of the furniture. As the sequence progresses, the hand moves down to a drawer, where a finger is inserted into a circular cutout to pull the drawer open. The person is wearing a ring on their finger. Throughout the clip, white text is centered on the screen that reads, \"carrying colorful suitcases, raising up tents.\" The background is a plain, neutral-colored wall. The lighting is soft and consistent, focusing on the manual action of opening the drawer."
+}

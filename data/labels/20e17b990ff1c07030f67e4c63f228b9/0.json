@@ -1,0 +1,15 @@
+{
+  "video_id": "20e17b990ff1c07030f67e4c63f228b9",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-255.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.171,
+    0.513,
+    0.855,
+    1.197
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with long dark hair, wearing glasses, a white shirt, and a dark vest with white embroidery, stands behind a podium and speaks into a microphone. In front of them, several people are seated with their backs to the camera, including individuals with blonde, brown, and grey hair. The setting is an indoor room with a wall made of vertical wooden panels and horizontal slats. A white logo with the text \"ORCA\" is visible on the right side of the scene. As the sequence progresses, the speaker shifts their gaze and leans slightly forward, moving their head from a centered position to looking down toward the podium. The seated audience remains stationary throughout the frames, maintaining their positions as they listen to the speaker."
+}

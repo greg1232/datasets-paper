@@ -1,0 +1,15 @@
+{
+  "video_id": "8aa5acebdfd75eebd5398226fafc35cb",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows a dark grey or black plastic interior panel, likely from a vehicle, featuring a textured surface and a rectangular ventilation grille with small square holes. A horizontal shelf or ledge extends across the top of the scene, casting a shadow over the upper portion of the panel. As the sequence progresses, the camera subtly shifts its angle and position, creating a slight panning motion that reveals more of the panel's surface and the side of a cup holder on the left. The lighting remains consistent, highlighting the grainy texture of the plastic and the recessed details of the grille. No people, text, or logos are visible in the scene, and the focus remains entirely on the material and structural details of the interior component."
+}

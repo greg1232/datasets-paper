@@ -1,0 +1,15 @@
+{
+  "video_id": "8b4b1484a8c87da1ceeeeb15635d9221",
+  "url": "./data/segments/3P1vSUbet40-Scene-0991.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.407,
+    1.22,
+    2.033,
+    2.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a studio setting, wearing a distinctive tall, silver, textured headpiece, glasses, and over-ear headphones. He is dressed in a white button-down shirt paired with a red bow tie and tan suspenders. He sits behind a professional microphone on a boom arm. The background features a wall decorated with numerous framed photographs and some clothing items on hangers. In the lower-left and lower-right corners of the screen, logos appear: one on the left reads \"TOSS TALK\" with \"PODCAST\" underneath, and one on the right reads \"TOSS TALK 101\". Across the sequence, the man is speaking, with his mouth open in the first frame and gradually closing as he pauses and looks slightly to the side in the final frames. The camera remains static, capturing his subtle head movements and facial expressions during the conversation."
+}

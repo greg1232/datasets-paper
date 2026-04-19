@@ -1,0 +1,15 @@
+{
+  "video_id": "d22bcf9665e148ad5d5b20b6a7eeb90f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-313.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.76,
+    17.28,
+    28.8,
+    40.32
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a gallery view of a virtual meeting with multiple participants in a grid of video feeds. The participants are primarily men of various ages, most of whom are wearing casual attire like t-shirts or button-down shirts. Several men are wearing glasses. Throughout the sequence, the participants remain in their respective home or office settings, with some backgrounds showing bookshelves, curtains, or plain walls. Some individuals are looking directly at their cameras, while others look slightly away. Several name tags appear at the bottom of the video feeds, including \"Jetty Muchilu,\" \"Revenge of Silverman,\" \"Jen Burke,\" \"Bill Setty,\" and \"Francis Pittman.\" As the video progresses, there is minimal movement; the participants mostly maintain their positions, though subtle shifts in posture and facial expressions occur as they listen or prepare to speak."
+}

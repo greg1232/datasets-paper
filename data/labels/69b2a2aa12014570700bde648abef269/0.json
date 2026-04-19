@@ -1,0 +1,15 @@
+{
+  "video_id": "69b2a2aa12014570700bde648abef269",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-333.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.635,
+    1.906,
+    3.177,
+    4.448
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen interacting with trading cards in a room filled with stacks of graded cards. The setting features a black foam organizer tray on a table adorned with a logo of two green palm trees inside an orange semi-circle. The text \"JASPYS\" and \"CASEBREAKS.COM\" appear consistently in the background. In the initial sequence, a hand places a card into a slot in the black tray. As the scene transitions, a man with a beard wearing a dark blue t-shirt is visible in a small inset video window, watching the process. The hand continues to handle the cards, moving them around the table and the organizer. The background remains consistent, showing rows of slabbed cards and a wall with various collectible items, while the focus shifts between the close-up of the cards and the man's reactions in the inset window."
+}

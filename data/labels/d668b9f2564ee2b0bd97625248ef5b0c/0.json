@@ -1,0 +1,15 @@
+{
+  "video_id": "d668b9f2564ee2b0bd97625248ef5b0c",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-299.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.26,
+    21.78,
+    36.3,
+    50.82
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call interface displays a grid of participants in their respective home or office settings. The layout repeats four times, showing the same group of individuals in similar poses. The participants include several men and women, some wearing glasses and headsets. Notable individuals include \"Jerry Micklo,\" \"Howard Silverman,\" \"Era_collaborative,\" and \"Jim Barto,\" as indicated by the on-screen text labels below their video feeds. Some participants are dressed in casual attire like t-shirts, while others wear button-down shirts. The backgrounds vary, featuring bookshelves, curtains, and indoor plants. Throughout the sequence, the participants remain largely stationary, looking toward their cameras, with some blinking or slightly shifting their head positions. The visual composition of the grid remains constant, with the same individuals appearing in the same relative positions across the frames."
+}

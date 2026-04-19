@@ -1,0 +1,15 @@
+{
+  "video_id": "16b190133ef6c346f361225e20972108",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-415.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.123,
+    0.369,
+    0.615,
+    0.86
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is broadcast on a field with green grass and red borders, featuring a player in a white jersey with the number \"24\" standing near a red circle with a white \"X\" on the turf. In the background, other players in white and dark uniforms stand along the sideline, and spectators fill the stadium seats. A scoreboard at the top displays \"1st & 10\", \"14\", \"7\", \"4th 3:57\", \"21\", and \":20\", alongside logos for \"EXO\" and \"Suntory\". A picture-in-picture overlay shows a man with blond hair wearing a dark blue shirt and a headset, whose facial expression shifts from focused to surprised with an open mouth. As the sequence progresses, the player in the white jersey remains stationary, and the game clock updates from \"3:57\" to \"3:56\", while the man in the overlay continues to react with increasing intensity."
+}

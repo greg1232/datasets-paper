@@ -1,0 +1,15 @@
+{
+  "video_id": "f3081c4834ea72d152b4a3ce6e9d9ad7",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.6,
+    1.0,
+    1.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene is set on an airport tarmac next to a white airplane. The nose of the aircraft is visible, featuring the text \"CASTILLU LOARR\" on its side. A jet bridge is connected to the aircraft, and a logo consisting of a crown atop a circular crest is visible on the bridge's exterior wall. In the background, several ground service vehicles, including a white car and red luggage tugs, are parked on the concrete. The environment includes an airport terminal building under a clear blue sky. Throughout the sequence, the camera remains static and the scene is still; there are no visible people, and no movement or changes occur between the frames. The aircraft, vehicles, and equipment remain in the same positions from start to finish."
+}

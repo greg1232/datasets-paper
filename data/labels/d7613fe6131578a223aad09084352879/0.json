@@ -1,0 +1,15 @@
+{
+  "video_id": "d7613fe6131578a223aad09084352879",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-267.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, black headphones, and a black hoodie with \"BOSS TALK\" printed in gold lettering sits at a desk in a studio. He is positioned in front of a professional microphone mounted on a black boom arm. Behind him, a white backdrop features the words \"ORIGIN HUSTLE\" accompanied by yellow stars. A blue sign above him reads \"Where BOSSES Talk!\". On the desk, there is a black object with a logo and a blue container that says \"BOSS TALK OUT\". As the scene progresses, the man's expression shifts from a slight smile to a more intense, squinting facial expression, suggesting he is reacting to something or emphasizing a point while speaking. The camera remains stationary, focusing on his upper body and the equipment around him throughout the sequence."
+}

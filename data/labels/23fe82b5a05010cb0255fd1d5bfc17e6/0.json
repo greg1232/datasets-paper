@@ -1,0 +1,15 @@
+{
+  "video_id": "23fe82b5a05010cb0255fd1d5bfc17e6",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.152,
+    0.456,
+    0.76,
+    1.065
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a basketball trading card featuring player OG Anunoby of the Toronto Raptors against a backdrop of a red and black surface. The card is designed with a metallic, geometric silver frame. In the background, a logo reads \"JASPYS\" with the URL \"CASEBREAKS.com\" written beneath it. A smaller inset window shows a man with a beard wearing a black shirt sitting at a desk with a computer. Across the sequences, the hand slightly shifts the position and angle of the trading card, causing the holographic surface to catch the light and shimmer. The surrounding environment remains static, with the red surface and the \"JASPYS\" branding consistently visible. The man in the inset window remains seated, observing the process as the card is displayed."
+}

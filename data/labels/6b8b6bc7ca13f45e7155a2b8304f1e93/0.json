@@ -1,0 +1,15 @@
+{
+  "video_id": "6b8b6bc7ca13f45e7155a2b8304f1e93",
+  "url": "./data/segments/3mmDnftP1M8-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.786,
+    38.359,
+    63.932,
+    89.505
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light blue button-down shirt and a black headset with a microphone is positioned against a plain, light-colored wall. The text \"Ashish Raichur\" is visible in the bottom-left corner of each scene. In the first scene, the man is speaking and holding up his right hand with two fingers extended. By the second scene, he has lowered his hand and continues to look toward the camera. In the third scene, he raises his right hand again, gesturing with his fingers while speaking. In the final scene, he tilts his head back slightly and closes his eyes while speaking. Throughout the sequence, he remains centered in the frame, with the headset resting securely on his head and the microphone positioned near his mouth."
+}

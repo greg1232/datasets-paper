@@ -1,0 +1,15 @@
+{
+  "video_id": "89e673fd37837f729b459c93ea8016a3",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-131.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.185,
+    0.556,
+    0.927,
+    1.298
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen capture from a video game displays the player profile for \"JASON PIERRE-PAUL,\" a \"ROLB\" with an overall rating of \"90\". The interface features a dark purple background with various attribute bars and numbers, including ratings like \"91\", \"84\", and \"88\". A photograph of a football player in a black and white uniform is positioned on the right side of the profile. In the bottom left corner, a small video feed shows a blond man in a dark blue shirt speaking. Below the main profile, larger text displays \"PMV 72\" and \"FMV 91\" alongside horizontal progress bars. The top of the screen lists numbers such as \"173,037\", \"14,600\", and \"2,343,543\". The scene remains static across the sequence, with no discernible changes in the on-screen text, the man's position, or the game's interface."
+}

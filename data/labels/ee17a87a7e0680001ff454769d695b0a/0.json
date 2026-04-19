@@ -1,0 +1,15 @@
+{
+  "video_id": "ee17a87a7e0680001ff454769d695b0a",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-108.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.304,
+    0.913,
+    1.522,
+    2.131
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical setting, a medical team surrounds a patient on a bed. The team includes a man in blue scrubs facing away from the camera, another man in a grey jacket, and three women wearing blue scrubs and face masks. One woman wears a black blazer over her scrubs. They are working around a patient covered by a white sheet and a silver thermal blanket. In the background, medical equipment, shelves with linens, and monitors are visible. A purple banner across the bottom of the scene displays the text \"Day 4 Cooling & CRT Post Arrest\" alongside a \"Sim Week\" logo. As the sequence progresses, the team continues their coordinated care; the man in the grey jacket moves closer to the patient, and the woman in the blazer shifts her position toward the right. The woman in the center adjusts her gloves while the team maintains their focus on the patient."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4f4c053e7deb7f759e42149aade6e729",
+  "url": "./data/segments/3P1vSUbet40-Scene-0817.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.109,
+    0.328,
+    0.547,
+    0.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a tall, silver, textured hairstyle sits in a studio setting, wearing glasses, black headphones, a white button-down shirt, and a red bow tie. He is positioned in front of a black microphone on a boom arm, with a background wall decorated with numerous framed photos and a shirt labeled \"LEE.\" To his left, a logo displays \"BOSS TALK 101\" and \"PODCAST.\" Across the sequence, the man remains relatively still, looking slightly to his left with a neutral facial expression. The lighting and the surrounding environment, including the frames on the wall and the equipment, remain constant. The man's slight head movements and blinking are the only subtle changes as the scene progresses, while the on-screen text \"BOSS TALK 101 PODCAST\" remains stationary."
+}

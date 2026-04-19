@@ -1,0 +1,15 @@
+{
+  "video_id": "1abd47079b58f5a63ec182f791a40d7a",
+  "url": "./data/segments/3QD9oO6sRns-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.158,
+    0.475,
+    0.792,
+    1.108
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is seen interacting with cardboard boxes atop a black surface featuring the red and white logo \"JASPYS CASEBREAKS\". In the background, several more stacked boxes are visible. A small inset video in the bottom right shows a man wearing a black t-shirt and a baseball cap, sitting at a desk with equipment. As the scene progresses, the hand reaches for and begins to lift a white and blue box. The boxes have text printed on them, including the words \"CLEARLY AUTHENTIC\". The hand moves the box upward and slightly to the left, partially obscuring the \"JASPYS CASEBREAKS\" logo on the mat. The overall setting appears to be a dedicated workspace for opening collectible card boxes, with the \"JASPYS\" branding appearing both on the table surface and as a small logo overlay on the screen."
+}

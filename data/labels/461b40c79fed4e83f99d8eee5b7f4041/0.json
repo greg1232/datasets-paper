@@ -1,0 +1,15 @@
+{
+  "video_id": "461b40c79fed4e83f99d8eee5b7f4041",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-083.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.44,
+    4.32,
+    7.2,
+    10.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing glasses, a light blue button-down shirt, and a dark blazer is speaking in front of a blue and green abstract digital background. He is positioned centrally in the frame and remains in the same spot throughout the clip, gesturing slightly with his mouth as he speaks. In the bottom-left corner of each frame, a circular logo featuring a stylized gear and the text \"NPTEL\" is visible. In the bottom two frames, a blue banner appears at the bottom of the screen containing the white text \"Prof. M. D. Atrey\". The scene is consistent across the sequence, with the only significant changes being the man's slight facial movements during speech and the appearance of the name banner in the later frames."
+}

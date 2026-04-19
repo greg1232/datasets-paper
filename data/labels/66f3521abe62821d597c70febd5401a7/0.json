@@ -1,0 +1,15 @@
+{
+  "video_id": "66f3521abe62821d597c70febd5401a7",
+  "url": "./data/segments/3E6ctN22V7k-Scene-103.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.31,
+    0.93,
+    1.55,
+    2.17
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a sparsely furnished indoor setting with brick walls and a high ceiling, a group of men are gathered. In the foreground, a man stands with his back to the viewer, wearing dark trousers and a dark jacket. To the right, several men are seated on a low bench; one man in a green long-sleeved shirt and grey trousers sits with his arms folded across his chest, looking toward the left. Other men are seated nearby, including one wearing blue jeans and another in a white jacket standing in the background. To the far left, a yellow equipment case with a white letter \"A\" is partially visible. Across the bottom of the scene, white on-screen text reads, \"Tomorrow, or after tomorrow, our country will be at peace.\" The scene remains static across the frames, with the people remaining in their positions and the text staying consistent on the screen."
+}

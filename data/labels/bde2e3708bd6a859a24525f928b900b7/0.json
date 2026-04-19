@@ -1,0 +1,15 @@
+{
+  "video_id": "bde2e3708bd6a859a24525f928b900b7",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-407.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.152,
+    0.456,
+    0.76,
+    1.065
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game simulation of an American football game takes place in a large stadium under bright lights. Players in black uniforms and white uniforms are on a green field marked with white lines. On-screen text displays \"2nd & 10\", a score of \"14\" to \"7\", and a game clock at \"0:34\" in the \"3rd\" quarter. In a small inset window, a man with light-colored hair wearing a dark shirt reacts to the game. In the first frame, a player in black tackles a player in white to the ground. As the sequence progresses, the tackled player is brought down completely, and other players in black uniforms move toward the action. A player wearing number 22 in black runs toward the pile, while other players in green uniforms stand along the sideline. The game clock counts down from \"47\" to \"30\" seconds."
+}

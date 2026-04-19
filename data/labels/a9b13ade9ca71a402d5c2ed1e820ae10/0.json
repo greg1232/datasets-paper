@@ -1,0 +1,15 @@
+{
+  "video_id": "a9b13ade9ca71a402d5c2ed1e820ae10",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-136.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark blue t-shirt with a small yellow logo on the chest is seated in a room, visible within a small inset video window. He is positioned in front of equipment, including a yellow device and a black computer monitor. Above and below this inset window, the text \"JASPYS\" appears in a stylized orange font, accompanied by the website \"CASEBREAKS.COM\". The main focus of the frames is a close-up of a hand in the foreground, with the fingers slightly blurred as they move across the view. The background behind the hand features colorful, abstract patterns in blue and orange. As the sequence progresses, the hand shifts its position slightly, while the man in the inset window remains seated, looking toward the camera and gesturing with his hands."
+}

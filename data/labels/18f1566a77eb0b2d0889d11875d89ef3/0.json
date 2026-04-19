@@ -1,0 +1,15 @@
+{
+  "video_id": "18f1566a77eb0b2d0889d11875d89ef3",
+  "url": "./data/segments/3hGuLEduWLM-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.687,
+    1.146,
+    1.604
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two small birds, brown and grey with reddish tones, are perched on a light-colored ledge against a blurred green background. In the initial moments, one bird faces the other with its beak open, appearing to communicate or sing. As time progresses, the bird on the left continues to open its beak wide, interacting closely with the second bird, which remains relatively still and faces away. Yellow Marathi text is overlaid across the top and middle of the scene, reading \"\u091a\u093f\u0935 \u091a\u093f\u0935 \u091a\u093f\u092e\u0923\u0940\", while orange Marathi text appearing lower in the frame reads \"\u092e\u0930\u093e\u0920\u0940 \u092c\u093e\u0932\u0917\u0940\u0924\". These text overlays remain constant across the sequence. The action is subtle, focusing on the slight movements and behavioral interaction between the two birds as the scene unfolds."
+}

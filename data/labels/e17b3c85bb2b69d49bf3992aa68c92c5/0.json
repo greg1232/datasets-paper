@@ -1,0 +1,15 @@
+{
+  "video_id": "e17b3c85bb2b69d49bf3992aa68c92c5",
+  "url": "./data/segments/3F2rz23IKUk-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.415,
+    4.245,
+    7.075,
+    9.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static screen displays a white background with black text organized into a grid of four identical panels. Each panel features the header \"Large market for cheap tablets\" followed by a bulleted list. The list contains four points: \"Multiple vendors produce cheap ARM System on Chip designs\", \"Easily available reference designs\", \"Low-end tablets can be bought wholesale for well under $100\", and \"Easy opportunity for companies to import and rebrand\". There are no people, logos, or other objects visible in the scene. The image remains completely unchanged across all frames, presenting the same textual information in a repetitive layout throughout the sequence."
+}

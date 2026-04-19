@@ -1,0 +1,15 @@
+{
+  "video_id": "02db72f45ab556c98313c20b1503e834",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-300.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.435,
+    1.305,
+    2.175,
+    3.045
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a grid view of a virtual meeting with numerous participants in various home settings. Several individuals appear multiple times across the screen, including a man in a blue shirt, a man in a green shirt, and a woman with dark hair. Some participants are wearing glasses, such as the man in the green shirt and a man in a grey shirt. Visible on-screen text includes names like \"Jerry Michiko,\" \"Howard Silverman,\" \"Franca Pittoni,\" \"Era _collaboratore,\" and \"Am Burke.\" The background settings vary from home offices with bookshelves to rooms with plain walls. Throughout the sequence, the video appears to loop or repeat the same layout of participants, as the positions and appearances of the people, as well as the accompanying text labels, remain identical across the frames, showing no change in action or interaction."
+}

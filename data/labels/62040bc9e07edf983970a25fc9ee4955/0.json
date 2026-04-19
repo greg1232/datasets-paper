@@ -1,0 +1,15 @@
+{
+  "video_id": "62040bc9e07edf983970a25fc9ee4955",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-106.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.292,
+    0.875,
+    1.458,
+    2.042
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large, elegantly lit ballroom with high ceilings, ornate chandeliers, and red curtains along the edges, several people perform a dance on a raised blue stage. A seated audience fills the background. On the stage, one dancer wears a white outfit, while a couple interacts nearby; the woman is dressed in a light-colored top and tan pants, and the man wears a black shirt and blue jeans. As the sequence progresses, the man and woman dance closely together, their movements fluid as they shift positions across the blue flooring. The dancer in white remains on the left side of the stage, moving in sync with the overall performance. The lighting remains consistent throughout the scene, highlighting the expansive room and the coordinated actions of the performers as they move across the stage."
+}

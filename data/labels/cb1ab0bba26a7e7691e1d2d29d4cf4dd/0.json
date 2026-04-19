@@ -1,0 +1,15 @@
+{
+  "video_id": "cb1ab0bba26a7e7691e1d2d29d4cf4dd",
+  "url": "./data/segments/3dN_F08u-KE-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.125,
+    3.375,
+    5.625,
+    7.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grainy, black-and-white aerial video captured from a cockpit perspective shows a landscape below. A portion of the aircraft's nose is visible at the bottom of the view. In the distance, a horizon line separates the dark ground from a lighter sky. A crosshair target indicator is centered in the upper half of the frame. The red logo \"13\" appears in the top right corner of the scenes. As the sequence progresses, the camera tilts and pans across the terrain, which appears to be a mix of open ground and scattered structures. The movement of the aircraft causes the horizon to shift and the ground to glide past, creating a blurring effect across the landscape. No people or specific clothing are visible, and the focus remains on the external view through the aircraft's targeting or navigation system."
+}

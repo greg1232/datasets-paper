@@ -1,0 +1,15 @@
+{
+  "video_id": "e7c6c573bd257fa264d22d7e3229028e",
+  "url": "./data/segments/3P1vSUbet40-Scene-0657.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.182,
+    0.547,
+    0.912,
+    1.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt, a black baseball cap, and large over-ear headphones sits in a studio setting. He is gesturing with both hands open and palms up while speaking, with a smile on his face. A professional microphone on a stand is positioned directly in front of him. Behind him, a white backdrop features repeating text that reads \"EPIC HUSTLE\" accompanied by gold stars. To his right, a dark wall displays the words \"TALK 101\" in large, fragmented letters. On-screen overlays include a circular logo that says \"STUDIO PODCAST\" on the left and a red and black logo reading \"BOSS TALK 101\" on the right. His t-shirt has the text \"CHECK IT MAN\" printed across the chest. Throughout the sequence, the man maintains his position and expression, with slight variations in his hand gestures and facial movement as he talks."
+}

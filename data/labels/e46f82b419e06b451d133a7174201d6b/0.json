@@ -1,0 +1,15 @@
+{
+  "video_id": "e46f82b419e06b451d133a7174201d6b",
+  "url": "./data/segments/3tUAO4YGuKY-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.08,
+    0.24,
+    0.4,
+    0.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair, wearing a dark suit, white shirt, and a light-colored tie, sits at a table in front of a branded backdrop. The backdrop features the \"IIEA\" logo, the website \"iiea.com\", and the phrases \"Sharing Ideas Shaping Policy\" and \"The Institute of International and European Affairs\". On the table in front of him are a glass of water, a clear water bottle, and a nameplate that reads \"Noel Fahey Event Chair\". In the background, the side of another person's head is partially visible. Across the sequence, the man remains seated and focused downward, appearing to read or write on papers on the table. His posture shifts slightly as he looks down, and his right hand moves closer to the papers. The scene is captured from a side angle, with the lighting remaining consistent throughout the brief action."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "abc6f48cc21b77409c143abf179deb04",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.292,
+    0.875,
+    1.458,
+    2.042
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a desolate, foggy field, several individuals in tan and camouflage military uniforms are seen. In the early frames, a person in tan trousers is positioned near a fallen log, while other figures are visible in the distant haze. A handheld device with a small screen and antenna is held aloft in the first frame. As the sequence progresses, the scene shifts to show figures moving through a wooded area along a dirt path. One individual in full camouflage gear and a helmet walks away from the camera, carrying equipment on their back. Throughout the clips, a red and white \"13\" logo appears in the upper right corner, and the text \"Hero Ukraine\" is visible in the upper left of the bottom frames. The atmosphere is muted and overcast, with the figures transitioning from an open field to a more densely forested environment."
+}

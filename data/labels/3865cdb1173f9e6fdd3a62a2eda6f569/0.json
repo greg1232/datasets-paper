@@ -1,0 +1,15 @@
+{
+  "video_id": "3865cdb1173f9e6fdd3a62a2eda6f569",
+  "url": "./data/segments/3Z229_lKLpk-Scene-116.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.935,
+    2.805,
+    4.675,
+    6.545
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene is set in a large legislative chamber with tiered seating and green upholstery. Dozens of people, predominantly men, are seated in rows, facing forward. Many of the men wear white traditional Indian attire, such as kurtas, while others are in button-down shirts, suits, or orange robes. A few women are present, wearing colorful saris. The individuals are largely stationary, sitting and observing. As the sequence progresses, there is minimal movement; most people remain in their seats, though a few slight shifts in posture occur. The lighting is bright and overhead, casting soft shadows across the assembly. There is no visible on-screen text, logos, or specialized equipment other than the fixed desks in front of the attendees. The camera remains in a wide, static shot, capturing the organized layout of the chamber and the dense gathering of officials."
+}

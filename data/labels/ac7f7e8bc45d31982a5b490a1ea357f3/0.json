@@ -1,0 +1,15 @@
+{
+  "video_id": "ac7f7e8bc45d31982a5b490a1ea357f3",
+  "url": "./data/segments/3mmDnftP1M8-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.693,
+    2.078,
+    3.464,
+    4.849
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light blue button-down shirt and a black gaming headset with a microphone is speaking in front of a plain, light-colored wall. The text \"Ashish Raichur\" appears in the bottom left corner of each scene. As the sequence progresses, the man continues to speak, with his facial expressions and mouth movements changing to reflect his speech. He initially gestures with his right hand, which is visible as he raises it slightly. By the final scene, he is speaking with his eyes nearly closed, shifting his head position slightly as he communicates. The lighting remains consistent throughout, and there are no other people or objects present in the scene."
+}

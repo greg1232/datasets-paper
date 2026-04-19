@@ -1,0 +1,15 @@
+{
+  "video_id": "2db9c0f0c215541f5352a36cb458d296",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-231.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.098,
+    0.294,
+    0.49,
+    0.685
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is underway in a crowded stadium, viewed from a wide aerial perspective. Players in white and red uniforms are positioned on a green field marked with yard lines, including the \"20\" yard marker. A digital scoreboard at the top displays \"3rd & 3,\" team logos for the Colts and Falcons, \"1st,\" \"3:10,\" \"32,\" and \":06.\" A smaller inset video window in the lower-left corner shows a blonde man in a navy blue shirt speaking, with a decorated Christmas tree visible behind him. As the action progresses, the offensive players move toward the right side of the field, and a player in a white jersey runs forward. In the background, the crowd fills the stands, and \"OFFENSE AT WORK\" is partially visible in the top left. The man in the inset remains in the same position, speaking throughout the sequence."
+}

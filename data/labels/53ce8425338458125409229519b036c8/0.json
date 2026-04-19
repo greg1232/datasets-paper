@@ -1,0 +1,15 @@
+{
+  "video_id": "53ce8425338458125409229519b036c8",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.331,
+    0.552,
+    0.773
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a stack of trading cards, displaying a shiny, holographic card on top. The setting appears to be a room where a man in a black hoodie is visible in the background, seated in front of a desk with computer equipment. The scene is overlaid with a red and black graphic theme, including the text \"JASPYS\" and \"CASEBREAKS.COM\" appearing in several locations. Throughout the sequence, the hands tilt and rotate the stack of cards, shifting the angle of the holographic surface to catch the light and reveal different reflections. The man in the background remains stationary, watching the action. The overall composition maintains a consistent focus on the cards in the foreground while the background elements and the repetitive on-screen logos remain constant."
+}

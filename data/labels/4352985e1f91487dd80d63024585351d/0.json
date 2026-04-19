@@ -1,0 +1,15 @@
+{
+  "video_id": "4352985e1f91487dd80d63024585351d",
+  "url": "./data/segments/3E6ctN22V7k-Scene-095.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.715,
+    2.145,
+    3.575,
+    5.005
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of students in light-colored button-down shirts and yellow vests gather around a white table in a classroom setting. In the initial sequence, several students stand closely together, focusing their attention on handheld tablets. One student rests a hand on the table while others hold and interact with the devices. The scene then shifts to close-up views of the tablets' screens. One screen displays a French text titled \"Une vie d'\u00e9l\u00e9phant\" followed by a passage beginning with \"faufilait ais\u00e9ment en faisant de grands sourires aux animaux. Les lui rendaient en disant que\". Another screen shows a blue interface titled \"Countries of the World\" with menu options including \"Etudier\", \"Test\", and \"Rechercher\". The transition moves from a wide shot of the collaborative student group to detailed views of the educational software they are using."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "766855d8decbe77a34432d207b301a34",
+  "url": "./data/segments/3l84m5pRmyk-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.463,
+    0.772,
+    1.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a gray suit jacket, a white dress shirt, and a blue-and-white striped tie is seated behind a laptop in a professional setting. He has a thin headset microphone attached to his cheek. In the background, a white wall features the repeated hashtag \"#BigDataSV\" and the year \"2015\" in smaller blue text. A blue cubic logo is partially visible in the lower-left corner. Across the sequence, the man's gaze shifts; he begins by looking toward his right, then slowly lowers his eyes toward the laptop screen in front of him. His expression remains neutral and focused as he looks down. The camera remains static, and the man's position stays consistent throughout the clip, with only his head and eye movement changing as he transitions from looking away to looking down at his computer."
+}

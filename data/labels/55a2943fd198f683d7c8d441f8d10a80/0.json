@@ -1,0 +1,15 @@
+{
+  "video_id": "55a2943fd198f683d7c8d441f8d10a80",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-283.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser session during a presentation. The first two frames show a slide titled \"06R Commodification\" with a dark background featuring a green system dynamics diagram with arrows and labels like \"Industrial Farming\" and \"Commodification.\" A small video feed in the upper right corner shows a man with a beard wearing a dark shirt. The scene then shifts to a different webpage titled \"Rural Community Food System.\" This page contains a white text area with a large block of code and lists of \"References,\" including \"Large Corporate Farm Systems\" and \"SystemsWiki Genrel.\" The video feed of the man remains visible in the upper right. The browser tabs at the top indicate a series of related pages, including \"Force of Society, by Sy...\" and \"Large Corporate Farm...\" across the sequence."
+}

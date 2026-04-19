@@ -1,0 +1,15 @@
+{
+  "video_id": "778a37dc303ac5d5cb2d6c426add4f24",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-421.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.193,
+    0.579,
+    0.965,
+    1.35
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt, a matching green baseball cap, and black over-ear headphones is positioned in front of a professional microphone. He is seen in profile, facing left toward the microphone. In the background, a room is decorated with framed photographs on the wall and a white mannequin wearing a white t-shirt and olive pants. Clothing racks and a black ornate chair are also visible. Two logos appear on screen: a circular logo on the left containing the text \"THE\" and a red stylized logo on the right containing the text \"REALLY TOT\". Across the sequence, the man remains in a similar pose, though his head tilts slightly downward and he moves closer to the microphone, while the camera angle shifts subtly."
+}

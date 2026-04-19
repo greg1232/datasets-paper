@@ -1,0 +1,15 @@
+{
+  "video_id": "11dcc374e055e7e19aa4b72c29a3c95b",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.259,
+    0.776,
+    1.293,
+    1.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A bright, circular beam of light illuminates a patch of dark, sandy ground sparsely covered with small green plants. The lighting creates a high-contrast spotlight effect, leaving the surrounding areas in deep shadow. A small, indistinct wooden structure or post is partially visible in the upper right corner of the illuminated area. As the sequence progresses, the light source shifts slightly, causing the bright hotspot to move across the terrain and the edges of the circular beam to drift. There are no people, text, or logos visible in the scene. The focus remains entirely on the ground and the movement of the artificial light source scanning the dark environment."
+}

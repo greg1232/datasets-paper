@@ -1,0 +1,15 @@
+{
+  "video_id": "9af9c0567b085c62dca7a40b582d43d5",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-447.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.404,
+    1.212,
+    2.021,
+    2.829
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a digital dashboard with a purple background, showing various performance metrics represented by three-letter codes and numerical values. The top row features \"THP\" with a value of 10, \"PBK\" with 91, \"RBK\" with 95, \"TRK\" with 91, and \"COD\" with 68. The second row contains \"JKM\" with 77, \"IBL\" with 94, \"RBP\" with 92, \"RBF\" with 88, and \"PBP\" with 82. Below each number is a horizontal bar, some white and some green, indicating progress or level. A third row is partially visible at the bottom, showing codes like \"MRR\", \"LBK\", \"SAC\", \"MAC\", and \"DAC\" with various numbers. The scene remains static across all frames, with no visible people, movement, or changes in the displayed text and graphics."
+}

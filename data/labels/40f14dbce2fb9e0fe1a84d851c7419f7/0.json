@@ -1,0 +1,15 @@
+{
+  "video_id": "40f14dbce2fb9e0fe1a84d851c7419f7",
+  "url": "./data/segments/3g8tiPycwPo-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presenter stands at the front of a dimly lit room, speaking to a large audience seated in rows of chairs. The room is equipped with several large projection screens and overhead lighting. The audience consists of people dressed in business-casual attire, including button-down shirts and sweaters, facing the front of the room. As the scene progresses, the camera angle shifts slightly, providing a closer view of the attendees' heads and shoulders. In the lower portion of the screen, a graphic overlay appears and persists, containing the text \"14 APRIL 2018 \u00b7 NASHVILLE, TN\" and \"Trump's Economy: Boom Times or Dangerous Bubble?\". The presenter remains stationary behind a podium or table, gesturing while speaking to the crowd, who remain focused on the presentation."
+}

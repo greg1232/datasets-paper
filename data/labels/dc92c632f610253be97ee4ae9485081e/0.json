@@ -1,0 +1,15 @@
+{
+  "video_id": "dc92c632f610253be97ee4ae9485081e",
+  "url": "./data/segments/3Z229_lKLpk-Scene-096.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.63,
+    1.89,
+    3.15,
+    4.41
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a large, formal auditorium or assembly hall with high ceilings and rows of tiered seating. Numerous people are present, mostly dressed in light-colored or white clothing, seated in the main floor area and in smaller galleries located higher up on the walls. The hall is characterized by large, rectangular windows that let in bright light, casting a glow over the scene. As the sequence progresses, the camera angle shifts slightly, providing a different perspective of the assembly. The attendees remain mostly stationary, seated in their designated rows, creating a sense of a formal gathering or a legislative session. The architectural style is grand, with wood-paneled walls and a symmetrical layout, though no specific text, logos, or equipment are clearly legible within the frames."
+}

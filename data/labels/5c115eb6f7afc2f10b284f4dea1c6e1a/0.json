@@ -1,0 +1,15 @@
+{
+  "video_id": "5c115eb6f7afc2f10b284f4dea1c6e1a",
+  "url": "./data/segments/3TQScsCOS2k-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.19,
+    0.57,
+    0.95,
+    1.33
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A surreal, collage-style image features a repetitive composition across four sequences. A stylized, light-blue cat's head wearing a silver party hat is presented as a popsicle on a wooden stick. To the left, green palm trees stand against a pink background filled with floating white circles, while a blue container holds a vibrant pink plant. The text \"CLICK HERE TO SUBSCRIBE\" appears in a bright blue banner across the top left of each scene. As the sequence progresses, the color of the cat's eyes shifts dynamically: starting as purple, they transition to green, then blue, and finally red. The background elements, including the palms, the plant, and the on-screen text, remain static throughout the changes, while the feline's gaze remains fixed forward."
+}

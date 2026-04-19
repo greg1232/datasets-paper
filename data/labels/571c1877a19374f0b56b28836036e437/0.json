@@ -1,0 +1,15 @@
+{
+  "video_id": "571c1877a19374f0b56b28836036e437",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.625,
+    1.875,
+    3.125,
+    4.375
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a formal meeting room with pale yellow walls and a dark wood conference table in the foreground. Several white high-backed chairs are arranged around the table, and a matching white sofa is visible against the back wall. A dark wood side table with a small piece of equipment sits to the left. A person's arm and hand are partially visible on the far left edge, resting on the table. The scene remains static across the sequence, with no movement or changes in the room's layout. The on-screen text \"Hero Ukraine\" appears centered in the middle of the frame, and a red circular logo containing the number \"13\" is located in the upper right corner. The lighting is bright and consistent throughout the clip, emphasizing the professional and sparse interior of the setting."
+}

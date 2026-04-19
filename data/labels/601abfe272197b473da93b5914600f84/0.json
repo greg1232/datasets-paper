@@ -1,0 +1,15 @@
+{
+  "video_id": "601abfe272197b473da93b5914600f84",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.965,
+    2.894,
+    4.823,
+    6.752
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a scene viewed through a chain-link fence, featuring a white police vehicle with red and blue emergency lights on its roof, parked in a sandy, outdoor area. The background includes white tents and a few structural poles, suggesting a temporary camp or checkpoint. Dry, brown brush grows along the fence line in the foreground. The camera remains stationary throughout the sequence, with the visual composition staying consistent across the frames. The only changes are the white subtitles that appear at the bottom center of the screen. These captions progress from \"There are no exact working hours\" to \"sometimes you work 24 hours a day,\" and finally, \"You get really tired,\" which is repeated across the last two frames. No people are visible in the shot."
+}

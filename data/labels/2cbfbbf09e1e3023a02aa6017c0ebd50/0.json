@@ -1,0 +1,15 @@
+{
+  "video_id": "2cbfbbf09e1e3023a02aa6017c0ebd50",
+  "url": "./data/segments/3TQScsCOS2k-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with brown hair and a beard is seated in front of a jungle-themed backdrop featuring lush greenery, mountains, and a waterfall. He is wearing a red, blue, and green plaid button-down shirt. To his right, large stylized orange text reads \"JUMANJI,\" with the smaller text \"WELCOME TO THE JUNGLE\" appearing directly underneath. Throughout the sequence, the man remains in a seated position, facing slightly toward the left side of the frame. His expression shifts subtly as he speaks; initially, his mouth is closed and his gaze is steady, but by the final frame, his eyes are partially closed and his mouth is open, capturing a moment of active speech. The background and the on-screen logos remain static as the man's facial expressions change."
+}

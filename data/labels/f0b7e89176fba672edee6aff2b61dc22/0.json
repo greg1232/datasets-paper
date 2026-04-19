@@ -1,0 +1,15 @@
+{
+  "video_id": "f0b7e89176fba672edee6aff2b61dc22",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-135.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.395,
+    4.185,
+    6.975,
+    9.765
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a computer desktop displaying several open browser tabs and a video conferencing interface. The main window features a dark conceptual map with various grey circles connected by lines, interspersed with small profile images and green text. A smaller inset video window shows a group of people sitting at a long table in a room with beige walls and white chairs, some wearing casual attire and masks. In the top right corner, a separate video feed shows a man wearing a dark baseball cap and a dark shirt. The browser tabs at the top include titles such as \"That Learning by Systemini\", \"Elements by Systeminfo\", \"Future of Society by Systemini\", \"Insights Introduction Kumar\", and \"Rural Community Food System\". The scene remains largely static across the sequence, with only subtle movements from the people in the video feeds."
+}

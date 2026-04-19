@@ -1,0 +1,15 @@
+{
+  "video_id": "ba9c52b89899f1a323ccb2fa05ff26da",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.177,
+    0.532,
+    0.886,
+    1.241
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up, side view of a white vehicle moving forward. The vehicle features a thick red stripe across its midsection and a thinner blue stripe above it. On the side panel, there is a circular logo containing a stylized globe and the text \"IOM \u00b7 OIM\". The vehicle appears to be in motion, as the background and the lower wheel area blur slightly. On-screen text appears in white at the bottom of the frame, stating, \"but to help the Syrian refugees it's worth it\". Across the sequence, the camera tracks along the side of the vehicle, moving from the door panel toward the rear wheel well. No people are visible in the shots. The lighting is bright and consistent, suggesting an outdoor daytime setting."
+}

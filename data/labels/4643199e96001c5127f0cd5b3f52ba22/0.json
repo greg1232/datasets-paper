@@ -1,0 +1,15 @@
+{
+  "video_id": "4643199e96001c5127f0cd5b3f52ba22",
+  "url": "./data/segments/3Z229_lKLpk-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.255,
+    0.425,
+    0.595
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene depicts a static, close-up view of a decorative wall featuring contrasting materials and lighting. On the left, a textured, teal-colored stone wall displays a geometric, stepped pattern of recessed and protruding blocks. Two long, slender gold light fixtures are mounted vertically on this surface, each emitting a warm, soft glow from a bulb at the top. To the right of the stone section is a vertical panel of intricately carved brown wood, showcasing a repetitive, symmetrical pattern of overlapping leaf-like or scalloped motifs. The image is a composite of four identical frames, showing no movement or change in lighting, position, or composition across the sequence. No people, text, or logos are present in the scene."
+}

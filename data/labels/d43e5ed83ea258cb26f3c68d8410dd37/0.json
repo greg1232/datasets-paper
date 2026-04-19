@@ -1,0 +1,15 @@
+{
+  "video_id": "d43e5ed83ea258cb26f3c68d8410dd37",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-266.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.706,
+    1.177,
+    1.648
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold and manipulate a trading card encased in a clear plastic protector over a table featuring a tropical-themed mat with green palm trees. In the upper left and right frames, the hands shift the card, revealing a signature on the surface. Throughout the sequence, a small inset window shows a man with a beard and glasses wearing a black t-shirt, sitting in a room with electronic equipment. The text \"JASPYS CASEBREAKS.COM\" is prominently displayed as a logo in the center and right side of the frames. As the sequence progresses to the bottom frames, the focus shifts away from the trading card to show a small, white rectangular box resting on the table. The man in the inset window remains visible, looking toward the camera."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1d05481d2fbd86aedfcd535191a95536",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.094,
+    6.281,
+    10.469,
+    14.656
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A blurry video captures a dimly lit indoor space, possibly a kitchen or bar area. The scene begins with an out-of-focus shot of a doorway or narrow passage. As the camera moves, it reveals a counter illuminated by a bright blue light strip running along the underside. Two modern, light-colored bar stools with metallic bases are positioned in front of the counter. In the later frames, the lighting remains low, and a dark silhouette of a person is partially visible on the right side of the frame, though their clothing and specific actions are indistinguishable due to the darkness and blurriness. The camera shifts perspective, moving from a close-up of a wall to a wider view of the counter and seating area, maintaining a dark, atmospheric mood throughout the sequence. No text or logos are visible."
+}

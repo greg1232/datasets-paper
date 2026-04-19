@@ -1,0 +1,15 @@
+{
+  "video_id": "3e67aa62d2c54f9d8a0f2b2bfdad2b52",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.538,
+    0.897,
+    1.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot shows a digital screen displaying financial data, featuring blurred multicolored bar charts and line graphs. The camera focuses on the screen with a shallow depth of field, leaving much of the background out of focus. White, bold, capitalized text appears centrally on the screen, incrementally adding words across the sequence. In the first frame, the text reads \"TO PATTERNS\". By the second frame, it changes to \"TO PATTERNS IN STOCK\". In the third and fourth frames, the phrase is completed to read \"TO PATTERNS IN STOCK MARKET\". While the background image remains mostly static, the addition of the text reveals the subject matter of the video, centered on the analysis of stock market trends. No people or other objects are visible in the scene."
+}

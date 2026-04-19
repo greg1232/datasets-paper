@@ -1,0 +1,15 @@
+{
+  "video_id": "fec64302b719901f9133ba299cfcf004",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-401.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.58,
+    1.739,
+    2.899,
+    4.058
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt and a grey baseball cap with a red and white logo sits in a recording studio against a dark, sound-absorbing foam wall. He wears large black over-ear headphones and speaks into a professional microphone mounted on a black boom arm. The microphone is branded with the word \"Blue\" on the arm. Throughout the sequence, the man is animated, moving his arms and hands to emphasize his speech. He begins with his right hand raised and open, then shifts his posture, moving both arms outward and downward. His facial expression remains focused as he speaks directly into the microphone. The background and equipment remain static while the man's physical gestures evolve, showing a fluid motion of his hands as he communicates."
+}

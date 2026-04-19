@@ -1,0 +1,15 @@
+{
+  "video_id": "75875cf2f7b050d15bde8d7398f8b35c",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.1,
+    3.3,
+    5.5,
+    7.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit side-by-side in a room, positioned in front of a shelf of DVDs and a television. The man on the left wears a dark green t-shirt, while the man on the right wears a grey t-shirt and a necklace. Both men maintain solemn, focused facial expressions, with the man on the right resting his chin on his hand. Above them, glowing gold text reads \"OUR STUPID REACTIONS\". An inset video window is positioned between them, displaying various scenes. In the first scene, a figure in dark armor engages in combat with others. This shifts to a dynamic shot of figures fighting in a dark environment, then to a close-up of a person wearing a helmet, and finally to a wide shot of a silhouette on horseback against a smoky, overcast sky. The background setting and the two men remain static throughout the sequence."
+}

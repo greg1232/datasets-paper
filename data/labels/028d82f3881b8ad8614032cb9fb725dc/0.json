@@ -1,0 +1,15 @@
+{
+  "video_id": "028d82f3881b8ad8614032cb9fb725dc",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-175.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.377,
+    1.131,
+    1.885,
+    2.64
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen from a first-person perspective interacting with a stack of boxes on a colorful table featuring a palm tree design. The person's hands are visible as they reach for and move a small yellow box sitting atop a larger, light-brown box. In the background, a man with a beard, wearing a dark blue shirt, is seated and looking toward the camera. On the table, there are other stacks of white boxes and a black electronic device. The screen features recurring logos and text, including \"JASPYS\" and the website \"CASEBREAKS.COM\". Across the sequence, the person's hand reaches toward the yellow box, grips it, and begins to lift it upward, while the man in the background remains relatively stationary. The setting appears to be a professional or hobbyist space dedicated to card breaking."
+}

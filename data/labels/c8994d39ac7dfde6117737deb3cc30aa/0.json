@@ -1,0 +1,15 @@
+{
+  "video_id": "c8994d39ac7dfde6117737deb3cc30aa",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-165.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.688,
+    1.147,
+    1.606
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark green t-shirt with \"101 NEVER\" and \"ST\" in white text, a matching green baseball cap, and black headphones sits in a room filled with framed photographs and clothing racks. He is positioned in front of a professional black microphone and speaks throughout the sequence. In the background, a white mannequin is visible next to racks of clothing. The man holds a red cup, which he moves toward and away from his face as he talks. Logos appear in the corners of the scene, including a circular \"D\" logo on the left and red text that reads \"DASHLY\" and \"TOT\" on the right. Across the frames, the man's facial expression shifts as he continues speaking, while the surrounding environment and equipment remain static."
+}

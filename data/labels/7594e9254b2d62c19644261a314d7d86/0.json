@@ -1,0 +1,15 @@
+{
+  "video_id": "7594e9254b2d62c19644261a314d7d86",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.595,
+    1.785,
+    2.975,
+    4.165
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video begins with a logo featuring a stylized green and blue circle surrounding the text \"CDEEP IIT BOMBAY.\" The scene transitions to a background showing blurred industrial equipment and mechanical components, overlaid with a blue curved graphic. The words \"OCEANIC ENGINEERING\" appear briefly across the screen. As the clip progresses, the text changes to \"CRYOGENIC ENGINEERING\" in white capital letters, appearing over the same industrial backdrop and blue graphic. In the final frame, the text \"CRYOGENIC ENGINEERING\" remains at the top, while additional text appears below it, identifying \"Prof. M. D. Atrey\" from the \"Department of Mechanical Engineering IIT Bombay.\" The background remains a mix of dark blue tones and images of mechanical hardware throughout these transitions."
+}

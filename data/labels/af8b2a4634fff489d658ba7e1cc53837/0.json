@@ -1,0 +1,15 @@
+{
+  "video_id": "af8b2a4634fff489d658ba7e1cc53837",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.334,
+    1.001,
+    1.668,
+    2.336
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A professional video sequence shows a man in a business suit, white shirt, and striped tie, appearing in a small square inset on the right side of the screen. He is smiling and looking directly at the camera. To the left of the inset, large white text reads \"45+ YEARS EXPERIENCE\" against a dark, blurred background that features a colorful, jagged line graph suggestive of financial market data. In the foreground on the far right, the side of another person's head and shoulder, clad in a light-colored shirt, is partially visible, creating a layered composition. Across the sequence, the imagery remains static; the man's expression, the position of the text, and the background elements do not change, presenting a consistent promotional graphic."
+}

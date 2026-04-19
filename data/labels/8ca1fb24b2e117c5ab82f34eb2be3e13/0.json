@@ -1,0 +1,15 @@
+{
+  "video_id": "8ca1fb24b2e117c5ab82f34eb2be3e13",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-440.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.287,
+    0.86,
+    1.434,
+    2.007
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a white baseball cap, headphones, and a black hoodie with gold text that reads \"BOSS TALK,\" sits at a desk in a studio. He is wearing a gold watch and a chain. To his left is a professional microphone on a boom arm and a black speaker. A small container with a label that says \"BOSS TALK 101\" sits on the desk. The background is a white wall featuring logos with five stars and the words \"UNIQUE HUSTLE,\" along with a red banner that reads \"BOSS TALK 101 Where BOSSES Talk!\" Across the sequence, the man begins by looking toward the left of the frame. He then shifts his focus downward and uses his hands to handle a small, translucent plastic packet. He continues to examine the packet, tilting it slightly as he looks closely at its contents."
+}

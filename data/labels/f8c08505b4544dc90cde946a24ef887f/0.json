@@ -1,0 +1,15 @@
+{
+  "video_id": "f8c08505b4544dc90cde946a24ef887f",
+  "url": "./data/segments/3E6ctN22V7k-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.14,
+    0.42,
+    0.7,
+    0.98
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot captures a piece of white fabric with yellow and blue trim hanging from a rough, wooden structure. The fabric is draped over a dark brown, textured post, with a small portion of a colorful, striped cloth visible behind it. In the background, a blurred figure in dark clothing is partially visible. Across the lower third of the screen, white text reads, \"I fled the atrocities committed by rebel groups in the Congo.\" The scene remains static across the sequence, with only subtle movements in the hanging fabric and the blurred figure in the background, suggesting a slow-motion or still-life capture of the environment. The overall lighting is dim, emphasizing the textures of the wood and the stark white of the draped cloth."
+}

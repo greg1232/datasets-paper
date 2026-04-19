@@ -1,0 +1,15 @@
+{
+  "video_id": "2ca97868ab81d30987e7e5b05e94d14e",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-214.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.08,
+    0.24,
+    0.4,
+    0.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser displaying a complex mind map or conceptual network on a dark background. The network consists of various circular icons connected by blue lines, with labels such as \"the aletheia map,\" \"the aletheia,\" and \"the aletheia\" accompanying different nodes. A video call window is positioned in the upper right corner, showing a man wearing a dark baseball cap and a dark shirt. The browser tabs at the top include titles such as \"Trust & Learning by Systemenith,\" \"Future of Society by Systemenith,\" and \"Road Community Food Spot System.\" Across the sequence, the view remains static, showing the conceptual map and the man in the video window, with no significant movements or changes in the visual content. The man remains in a neutral pose, looking toward the camera."
+}

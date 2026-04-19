@@ -1,0 +1,15 @@
+{
+  "video_id": "aae706552d525229bd773138c24ece5a",
+  "url": "./data/segments/3Ma0wGTm5QQ-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a red t-shirt with the logo \"Learning in Hand\" stands against a stylized, cartoonish background. The background features a blue sky with white clouds, green rolling hills, and a white picket fence. Behind the man is a large, blue graphic depicting a simplified document or webpage icon. Large, blue, curved text at the top reads \"CURB APPEAL with Google Sites\". The man is gesturing with his hands as he speaks, though his expression remains relatively consistent across the sequence. As time progresses, his hand positions shift slightly, moving from a gesture with both hands raised in front of him to a more relaxed posture with his arms at his sides. The overall scene remains static except for the man's subtle movements, maintaining a consistent composition throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "3ab127d8f0b4a15f92acb03a58c31eb8",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-259.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.431,
+    1.294,
+    2.156,
+    3.019
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game takes place on a green turf field with white markings and red boundary areas. Players in white uniforms and players in black uniforms compete, with some in the background wearing yellow and green. In the first frame, a player in white runs toward the right while others block. By the second frame, the player in white is targeted by a player in black, and a circular green marker appears on the field. The third frame shows the player in white continuing to move forward as an opposing player in black lunges toward him. In the final frame, the player in white has been tackled and lies on the turf while a player in black stands nearby. On-screen text includes \"WORLD CHAMPIONS 1937 1942\" and \"GOOD ACCURACY.\" A small inset window shows a blond man in a dark shirt watching the game."
+}

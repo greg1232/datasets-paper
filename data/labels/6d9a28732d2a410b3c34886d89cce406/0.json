@@ -1,0 +1,15 @@
+{
+  "video_id": "6d9a28732d2a410b3c34886d89cce406",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-138.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    11.24,
+    33.721,
+    56.202,
+    78.683
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a screen containing multiple financial stock charts and technical analysis indicators. Each chart features green and red candlestick patterns, trend lines, and various oscillators like MACD and Stochastic Slow. One chart identifies \"TransOcean Ltd Offshore drilling: oil and gas\" with specific date markers such as \"3/2020\" and \"3/11/22\". Another chart contains a text box that reads \"Valero Energy Corp (VLO) Market of transportation chemicals & products\" and a price point of \"101.99\". Across the sequence, the screen content shifts as the user scrolls or navigates through different chart configurations and timeframes. The layout remains a grid of trading panels with numerical axes, labels like \"CW projections (0.3,BLACK,RI)\", and a dark grey background. No people are visible, as the entire scene consists of a digital interface for financial market analysis."
+}

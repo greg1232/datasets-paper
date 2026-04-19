@@ -1,0 +1,15 @@
+{
+  "video_id": "6ce52ac4bc52fd2b28b81da5b42c19aa",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-365.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.248,
+    0.744,
+    1.24,
+    1.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game captures an American football match played on a green field inside a crowded stadium. Players in white jerseys and white helmets compete against players in dark jerseys. A quarterback in white throws a pass towards a receiver. Overlaid on the gameplay is a small video window showing a man with blond hair wearing a blue shirt and headphones. As the play progresses, the on-screen text \"PERFECT ACCURACY\" and \"BULLET PASS\" appears in green and white. The top banner displays game statistics, including \"3rd & 8\", a score of \"14\" and \"7\", and a game clock at \"3:26\". By the end of the sequence, the man in the inset window reacts with an open-mouthed expression of excitement, and the view shifts to a close-up of him, filling a large portion of the screen while the game continues in the background."
+}

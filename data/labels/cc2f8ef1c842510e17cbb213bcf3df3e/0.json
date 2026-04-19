@@ -1,0 +1,15 @@
+{
+  "video_id": "cc2f8ef1c842510e17cbb213bcf3df3e",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-216.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head, a beard, and tattoos on his right arm is recording in a studio with dark, sound-absorbing foam walls. He wears over-ear black headphones and a white t-shirt. He is positioned in front of a professional condenser microphone mounted on a boom arm, which features the text \"broadcast-Master-Live 2024\". As the scene progresses, the man speaks into the microphone while gesturing with his hands. Initially, his right hand is low and slightly blurred from movement. In subsequent frames, he raises his right hand and moves it across the frame in a sweeping motion to emphasize his point, with the motion blur indicating rapid movement. His facial expression remains focused as he talks, and the camera angle remains a steady medium close-up throughout the sequence."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2d7aea0da595d3229735e3dd7a61de6f",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A nocturnal outdoor scene is illuminated by a bright, circular light source, casting a glow across a grassy area. In the background, a metal stepladder stands near a dark structure and some scattered items, including what appears to be a white container. A glowing green orb of light appears in the center of the frame, moving steadily from the lower-left foreground toward the upper-right background. As the sequence progresses, the orb travels across the lawn, gradually increasing in size and brightness before it begins to shift its position slightly relative to the ladder. The surrounding environment remains dark, with a few silhouettes of trees visible against the night sky. No people are present, and there is no visible on-screen text or logos throughout the footage."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "42ce69f1aa91adfd1fe3ff10c81e1f50",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.94,
+    2.82,
+    4.7,
+    6.58
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast from News18 India features a split-screen graphic and a live scene. The graphic displays photographs of three men: a man with a beard, Rahul Gandhi, and Nitish Kumar. Overlaying the images is large Hindi text that reads \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091b\u091f\u092a\u091f\u093e\u0908 \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948!\" while a red news ticker at the bottom states \"\u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e: \u0928\u0940\u0924\u0940\u0936 \u0915\u093e \u0935\u093e\u092a\u0938 \u0906\u0928\u093e \u0938\u0941\u0916\u0926 \u0938\u092e\u093e\u091a\u093e\u0930 \u0939\u0948\". The News18 India logo is visible at the top center. For several frames, this graphic remains static, showing the three men in formal white clothing. In the final frame, the scene shifts to a handheld shot of a chaotic outdoor environment. Several men in white shirts and dark vests are seen amidst a crowd, with some individuals appearing to be security personnel in khaki uniforms. White vehicles are partially visible in the background as a man in a white shirt moves quickly through the scene."
+}

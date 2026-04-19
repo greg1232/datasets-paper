@@ -1,0 +1,15 @@
+{
+  "video_id": "3a86c7141cb48c9e3180724131768a5a",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-101.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.483,
+    1.45,
+    2.417,
+    3.383
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a trading card encased in a clear plastic protective slab over a table featuring a blue mat with green palm tree designs. In the background, a man wearing a dark t-shirt is visible in a small inset window, sitting in front of a computer setup. Red and white logos reading \"JASPYS\" and \"CASEBREAKS.COM\" appear repeatedly on the screen. The person holding the card tilts it to show different angles, revealing a signature on the card's surface and the name \"JACKSON\" printed vertically. As the sequence progresses, the card is shifted and rotated, focusing on the reflective surface of the plastic case and the holographic elements of the card. The setting remains consistent, with the focus shifting from the full card to close-up details of the slab and the signature."
+}

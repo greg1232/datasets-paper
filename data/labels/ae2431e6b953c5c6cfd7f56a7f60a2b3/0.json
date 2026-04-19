@@ -1,0 +1,15 @@
+{
+  "video_id": "ae2431e6b953c5c6cfd7f56a7f60a2b3",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-240.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.32,
+    0.96,
+    1.6,
+    2.24
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a dark blue baseball cap and a gray shirt, is visible in a small video call window in the upper right corner of a screen. The main portion of the screen displays a presentation slide titled \"Introduction\" under the heading \"Rural Community Food System.\" The slide asks, \"What constitutes a sustainable localized food system for a rural community forum as locally owned and operated benefit the community?\" It includes a list of \"Session Videos\" with various date ranges and instructions stating, \"You can contribute to the development of this model by adding community or by mapping a member to evolve the map.\" A complex network diagram with green lines and dots is positioned on the right side of the slide. A \"Legend\" at the bottom identifies various elements, such as \"Large Corporate Farm System.\" Throughout the frames, the man remains in his window, and the content of the presentation slide remains static."
+}

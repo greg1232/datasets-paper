@@ -1,0 +1,15 @@
+{
+  "video_id": "55d0cb4331674a0b5841b0a29ad8e257",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.225,
+    0.676,
+    1.126,
+    1.577
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows the mechanical components of a vehicle's engine and drivetrain. A weathered, brown metallic pipe runs horizontally across the top of the frame. Below it, various engine parts are visible, including a silver-colored casing with the embossed word \"POLARIS\" and a drive chain connecting gears. A black frame supports the assembly, and various wires and connectors are attached to the engine. A small white label is visible on a component, though the text on it is illegible. The scene remains static across all frames, with no people present and no movement occurring between the shots. The lighting is consistent, highlighting the metallic textures and some accumulated dirt and grime on the engine components."
+}

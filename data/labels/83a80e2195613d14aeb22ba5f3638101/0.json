@@ -1,0 +1,15 @@
+{
+  "video_id": "83a80e2195613d14aeb22ba5f3638101",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-190.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.55,
+    1.65,
+    2.75,
+    3.85
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blonde hair wearing a dark blue shirt is visible in a small inset window in the lower-left corner of a screen, sitting in a room with a decorated Christmas tree behind them. The main screen displays a digital keyboard interface under the heading \"ITEM NAME\". A text entry field at the top shows the name \"maxx cr\" being typed. Across the sequence, the letters \"o\", \"s\", and \"b\" are highlighted in yellow one by one on the keyboard, and these characters are sequentially added to the text field, changing it from \"maxx cr\" to \"maxx cros\" and finally to \"maxx crosb\". The keyboard includes standard alphanumeric keys, as well as function buttons labeled \"EXIT\", \"BACK\", \"CAPS\", \"CLEAR\", \"SPACE\", and \"DONE\". The background of the interface is dark with reddish accents."
+}

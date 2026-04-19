@@ -1,0 +1,15 @@
+{
+  "video_id": "b08f861d840db71da285432cf41d837a",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot of a Black man is shown in a series of frames. He is wearing a white collared shirt and is speaking directly toward the camera. In the background, a dimly lit stadium is visible with blurred rows of red seats and bright stadium lights. The Real Madrid club crest is visible in the top right corner of the frames. Yellow subtitles appear at the bottom of the screen, reading \"haber marcado mi primer gol con el Real Madrid.\" followed by \"I scored my first goal with Real Madrid.\" across all frames. As the sequence progresses, the man's facial expressions shift slightly as he continues to talk, with his mouth opening and closing and his gaze remaining steady. The lighting on his face creates subtle highlights and shadows, while the overall environment remains static."
+}

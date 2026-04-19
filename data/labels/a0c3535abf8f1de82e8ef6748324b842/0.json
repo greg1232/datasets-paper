@@ -1,0 +1,15 @@
+{
+  "video_id": "a0c3535abf8f1de82e8ef6748324b842",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-270.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.81,
+    5.431,
+    9.052,
+    12.673
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark blue t-shirt is seen in a room featuring a table covered with a branded cloth showing palm tree silhouettes and the text \"JASPYS\" and \"CASEBREAKS.COM\". In the background, stacks of trading card boxes are visible. The person interacts with a black box containing smaller yellow containers. Throughout the sequence, the individual reaches into the black box, removing and handling items. At one point, the person is seen standing slightly further back from the table, wearing a dark shirt and dark pants. On-screen text and logos consistently display \"JASPYS\" and \"CASEBREAKS.COM\" across the top of the scene. The scene remains in the same location, with the primary action focusing on the person managing the contents of the box on the table."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "54d5c86368189a4111ac515e509097f8",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-841.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.182,
+    0.547,
+    0.912,
+    1.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt sits before a professional microphone in a room filled with framed photos on the wall and clothing racks in the background. His shirt features white text that reads \"ION NEVER DO SHIT\". On the left side of the screen is a logo for \"DIAMOND\", and on the right side, red text reads \"HOTLY TOT\". To his right, a white mannequin wears a white t-shirt. Throughout the sequence, the man is speaking and gesturing slightly with his facial expressions, shifting his gaze from the center towards the left side of the frame. The background remains static, with various framed pictures and apparel visible, while the man's movements are subtle as he continues to engage in a conversation."
+}

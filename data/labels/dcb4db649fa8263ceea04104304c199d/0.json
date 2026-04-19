@@ -1,0 +1,15 @@
+{
+  "video_id": "dcb4db649fa8263ceea04104304c199d",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-775.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hoodie with \"BOSS TALK\" in gold lettering, and a gold watch sits behind a desk in a studio setting. He is positioned in front of a white backdrop featuring a repeating logo that reads \"HUSTLE\" accompanied by gold stars. To his right, a blue sign reads \"Where BOSSES Talk!\". A professional microphone on a boom arm is positioned directly in front of him, and a black mug is visible on the desk. In the bottom left and right corners of the scene, graphics featuring the text \"BOSS TALK\" are visible. Across the sequence, the man is speaking, slightly shifting his head and adjusting his facial expression while looking toward someone off-screen to his right. His posture remains relatively consistent as he engages in conversation within the studio environment."
+}

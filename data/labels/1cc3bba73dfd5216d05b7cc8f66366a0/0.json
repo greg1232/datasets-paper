@@ -1,0 +1,15 @@
+{
+  "video_id": "1cc3bba73dfd5216d05b7cc8f66366a0",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.843,
+    2.528,
+    4.213,
+    5.898
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A gold, metallic logo featuring the stylized letters \"VG\" enclosed in a square border is centered against a dark, textured grey background. Vertical streaks of light subtly pass behind the logo. As the sequence progresses, white text appears at the bottom of the screen. Initially, the text \"NYSE American: VGZ\" fades in, followed by \"TSX: VGZ\" appearing immediately below it. The logo remains stationary and centered throughout the clip while the text becomes fully opaque and legible. The final state shows the metallic logo prominently displayed with the accompanying text \"NYSE American: VGZ\" and \"TSX: VGZ\" clearly visible underneath."
+}

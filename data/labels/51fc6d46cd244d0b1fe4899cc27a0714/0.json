@@ -1,0 +1,15 @@
+{
+  "video_id": "51fc6d46cd244d0b1fe4899cc27a0714",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.538,
+    1.614,
+    2.69,
+    3.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A musician with long hair, wearing a white shirt and dark vest, performs in a room with wood-paneled walls and blinds. In the beginning, he stands facing right, playing an acoustic guitar before a seated audience. The audience consists of several people viewed from behind, including individuals with long hair in various shades of blonde, brown, and white. As the scene progresses, the musician stops playing his guitar and moves to stand behind a wooden lectern, where he speaks into a microphone. The audience remains seated, watching him. A microphone on a boom arm is visible near the musician throughout the sequence. The white text \"ORCA\" appears on the right side of each frame. In the final frames, a person with white hair is seen sitting at the lectern before the musician takes over."
+}

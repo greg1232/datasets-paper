@@ -1,0 +1,15 @@
+{
+  "video_id": "889827f9110f69e973db7cd1df72f68e",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.095,
+    0.285,
+    0.475,
+    0.665
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of men stands in a covered loading area beside a large white tour bus with \"Real Madrid\" text and a logo on its side. A security worker in a bright yellow safety vest and dark pants stands near a barrier, interacting with another man wearing a green t-shirt and dark pants. Several other men, some in casual attire and others in dark suits, stand nearby or walk across the tiled pavement. As the scene progresses, the man in the green t-shirt moves slightly closer to the security worker. A man in a dark suit walks from the background toward the right side of the frame, while other individuals remain stationary or shift their positions. The red support pillars and the white bus remain consistent throughout the sequence, framing the activity in the transit area."
+}

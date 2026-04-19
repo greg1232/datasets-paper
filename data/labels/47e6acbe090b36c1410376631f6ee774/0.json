@@ -1,0 +1,15 @@
+{
+  "video_id": "47e6acbe090b36c1410376631f6ee774",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-382.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.05,
+    12.15,
+    20.249,
+    28.349
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head, a dark beard, and tattoos on his arm wears black headphones and a white t-shirt while speaking into a professional microphone mounted on a silver boom arm. He is positioned in front of a dark gray acoustic foam wall. Beside him, a smaller inset video window shows a man in a gray t-shirt and black pants performing weightlifting exercises in a gym, with a barbell and weights visible on the floor. Throughout the sequence, the man in the foreground reacts to the footage, shifting his facial expressions from a focused gaze to a look of surprise with his mouth open and hands beginning to gesture. The inset video changes slightly as the weightlifter moves through his repetitions, while the man in the foreground remains the central focus of the scene."
+}

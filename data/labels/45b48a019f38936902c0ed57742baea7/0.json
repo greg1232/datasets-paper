@@ -1,0 +1,15 @@
+{
+  "video_id": "45b48a019f38936902c0ed57742baea7",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-073.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of frames shows a minimalist, light-gray digital environment decorated with floating, colorful geometric outlines of stars, squares, and triangles. Vertical black lines divide the space, and small black circles are positioned along these lines. Over time, green graphical overlays appear on the screen. A green curved arrow first appears in the upper right, pointing downward. Subsequently, a large green circle emerges in the center of the lower half of the scene, encircling a section of the vertical lines. At the bottom of the view, a white rounded rectangular bar fades in and then expands in width. No people are present in the scene, and there is no legible on-screen text. The animation progresses from a clean background to one with these highlighted instructional elements."
+}

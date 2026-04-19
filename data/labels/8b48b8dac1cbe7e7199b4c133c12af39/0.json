@@ -1,0 +1,15 @@
+{
+  "video_id": "8b48b8dac1cbe7e7199b4c133c12af39",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-291.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.715,
+    2.144,
+    3.573,
+    5.002
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with items on a table featuring a blue, orange, and white surface decorated with palm tree illustrations. The person is holding a clear plastic card holder. Overlaid on the scene is a picture-in-picture video feed of a man with a beard wearing a black t-shirt, sitting in a room with equipment in the background. A logo appears in the top right and within the video overlay, reading \"JASPYS\" in stylized orange and yellow letters above the text \"CASEBREAKS.COM\". As the scene progresses, the person's hand moves closer to the center of the frame, adjusting the position of the plastic holder. The man in the inset video remains seated and watches the activity. The overall setting appears to be a focused recording of a card-breaking session."
+}

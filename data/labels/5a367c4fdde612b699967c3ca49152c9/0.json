@@ -1,0 +1,15 @@
+{
+  "video_id": "5a367c4fdde612b699967c3ca49152c9",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.625,
+    1.875,
+    3.125,
+    4.375
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static graphic appears on a deep blue background with subtle radial gradients. The screen displays a white rectangular box containing the \"paloalto NETWORKS\" logo, featuring a stylized red geometric symbol to the left of the brand name. Above this box, the text \"Thank You to Our Session Recording Sponsor\" is written in a clean, white sans-serif font. To the right of the white box is a circular blue emblem containing the KubeCon and CloudNativeCon logos for \"North America 2018\" with the word \"Virtual\" prominently displayed in a cursive script across the center. There are no people or physical equipment visible in the scene. Across all frames, the image remains completely stationary, with no changes in composition, text, or animation."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "87f35f52d9383abb3842dd9ecc356094",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.516,
+    10.548,
+    17.58,
+    24.612
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A gray Dodge Challenger is showcased in an outdoor parking area near a grassy area with trees. The first frame provides a side profile of the car's front end, showing a sleek gray finish and a black wheel. A white truck with red text on its side is partially visible in the background. The scene shifts to a front-facing view of the car, highlighting its headlights, grille, and a small \"Challenger\" badge on the front. The view then moves to a close-up of the driver's side door handle. Finally, a hand is seen reaching inside the vehicle, touching a bright red seat. The car's interior features dark gray flooring and red upholstery. Throughout the sequence, the focus transitions from the car's exterior styling to its interior details."
+}

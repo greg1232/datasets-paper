@@ -1,0 +1,15 @@
+{
+  "video_id": "9e307d09d799e44e207f30cc21a0e371",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.613,
+    1.839,
+    3.066,
+    4.292
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of frames captures a legislative meeting within a professional office or committee room. The setting features wooden cabinetry, desks, and a projection screen. In the initial scenes, several individuals in business attire, including a man in a dark suit and others in blazers and sweaters, are seated or standing. As the sequence progresses, the camera shifts to a different angle, showing a man with a beard and glasses gesturing with his hands while speaking to the group. On-screen text at the bottom of every frame includes the \"ORCA\" logo and the text \"April 12, 2019,\" \"House Committee on General, Housing, and Military Affairs,\" and a green banner stating \"S.23 Increasing the Minimum Wage.\" The scene transitions from a wide shot of attendees to a focused view of the speaker and those listening to him."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "75ddf132230cba892e22ece7ecdfe07a",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.781,
+    2.344,
+    3.906,
+    5.469
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds up a sports trading card featuring a baseball player in a red cap and jersey, signed by Johnny Bench. The card is displayed in front of a background that includes a logo for \"JASPYS\" and the website \"CASEBREAKS.COM\". In a smaller picture-in-picture window, a man with a beard wearing a dark t-shirt is visible, seated in a room with similar branding. The foreground shows a surface with a colorful graphic of palm trees and a beach scene. As the video progresses, the hand lowers the trading card, placing it into a white plastic holder. The man in the inset window continues to watch and react to the action. The \"JASPYS\" logo and \"CASEBREAKS.COM\" text remain visible throughout the sequence, consistently framing the activity of handling the collectible card."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "3a640671e580ca6bcbe05b958a240dcf",
+  "url": "./data/segments/3QD9oO6sRns-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.19,
+    0.569,
+    0.948,
+    1.327
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand enters the frame from the left, moving across a dark surface towards a set of sports card boxes. The setting is a workspace featuring a branded mat and backdrop with the text \"JASPYS Sports Cards & Collect\" and \"HERMOSA BEACH\". In the background, a man wearing a black t-shirt and a black baseball cap is visible in a small inset video window, where he is also seen interacting with items on a table. Stacked on the right are several blue and black boxes labeled \"CLEARLY AUTHENTIC\". A red cap-like object sits on the table to the left. As the sequence progresses, the hand moves closer to the center of the \"JASPYS CASEBREAKS\" logo printed on the mat, while the man in the inset window continues his activity. The layout remains consistent across the frames, with the only significant movement being the hand gliding across the table."
+}

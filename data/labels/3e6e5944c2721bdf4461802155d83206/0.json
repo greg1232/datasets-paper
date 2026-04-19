@@ -1,0 +1,15 @@
+{
+  "video_id": "3e6e5944c2721bdf4461802155d83206",
+  "url": "./data/segments/3U065Ox-1uA-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.313,
+    0.938,
+    1.564,
+    2.19
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black short-sleeved shirt and a blue watch on their left wrist holds a large trophy against a background of a green grass field. The trophy consists of a gold cup on top of a tiered black base with gold plaques containing text. The person's hands are positioned around the top and sides of the trophy, slightly shifting their grip as the sequence progresses. In the top frames, the trophy is held higher, and in the bottom frames, it is lowered slightly. Each frame contains a logo in the top left that reads \"REUTERS\" above \"VOA 60 LEARNING ENGLISH\". At the bottom of each frame, the caption \"tennis championship Sunday,\" is displayed. The gold plaques on the base of the trophy reflect the surroundings and contain several lines of engraved text, though most of it remains illegible."
+}

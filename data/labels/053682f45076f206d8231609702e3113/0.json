@@ -1,0 +1,15 @@
+{
+  "video_id": "053682f45076f206d8231609702e3113",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.094,
+    0.281,
+    0.469,
+    0.656
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown handling a clear plastic card holder over a desk featuring a colorful mat with palm tree illustrations. In the background, a man wearing a dark blue t-shirt is visible in a small picture-in-picture window, seated in front of a computer monitor. The screen displays the logo \"JASPYS\" and the text \"CASEBREAKS.COM\". The scene transitions from the person carefully placing a card into the clear holder in the first few frames to moving the holder across the desk. A stack of white and yellow boxes sits behind the card holder. The logo \"JASPYS\" and the URL \"CASEBREAKS.COM\" are repeated in large white and orange text across the top of the main video feed. As the sequence progresses, the person's hands shift the plastic holder to the right, momentarily obscuring parts of the background as they manipulate the card."
+}

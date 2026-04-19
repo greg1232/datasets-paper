@@ -1,0 +1,15 @@
+{
+  "video_id": "1dce3688f2603373bc59b0a1be154dc8",
+  "url": "./data/segments/3F2rz23IKUk-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.56,
+    37.68,
+    62.8,
+    87.92
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with glasses and shoulder-length brown hair stands before a plain, light-colored wall in what appears to be a presentation setting. He is wearing a black t-shirt with a graphic and yellow text that includes the word \"Knuth,\" and a lanyard with an identification badge around his neck. In the foreground, the top of a black computer monitor is visible. As the sequence progresses, the man speaks and uses hand gestures to emphasize his points. He begins with his hands raised and open, then brings them together in front of his waist, clasping them briefly before opening them slightly again. His facial expression remains focused and engaged as he looks toward an audience off-camera. The lighting is consistent throughout the scene, and the background remains stationary."
+}

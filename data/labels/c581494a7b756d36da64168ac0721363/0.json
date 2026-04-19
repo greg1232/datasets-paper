@@ -1,0 +1,15 @@
+{
+  "video_id": "c581494a7b756d36da64168ac0721363",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a formal meeting room, a presentation is being given. A large screen displays a \"Memorandum\" with a logo and text. Several people are seated at a long table, viewed from behind or the side; they are wearing dark suits and professional attire. On the left, a man with glasses is visible in profile. To the right, another individual is partially seen. A white binder and other documents sit on the table near a computer monitor. Across the bottom of the screen, a consistent graphic overlay features the \"ORCA\" logo on the left and the text \"April 12, 2019 House Committee on General, Housing, and Military Affairs S.23 Increasing the Minimum Wage\" on a white and green background. As the sequence progresses, the camera angle shifts slightly, moving from a wider view of the screen to a closer perspective of the people and the presentation."
+}

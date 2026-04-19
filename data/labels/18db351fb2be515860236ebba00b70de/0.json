@@ -1,0 +1,15 @@
+{
+  "video_id": "18db351fb2be515860236ebba00b70de",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.209,
+    0.626,
+    1.043,
+    1.46
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a grey button-down shirt holds up a white informational flyer with the logo \"IDTechEx\" at the top. The flyer advertises an event titled \"Reducing Power Consumption of IoT Gas Sensors by 1000X\" scheduled for \"Thursday, 15 November 2018: 5:10PM, Grand Ballroom F\" and includes the urgent phrase \"DON'T MISS IT\" in red text. Below this, the text notes that \"Carbon Nanotube Sensors have been dubbed by Industry Insiders as the 'Holy Grail' of Sensor Technology.\" The flyer also mentions \"20X Higher Integration Potential vs MOX\" and \"1000X Reduction in Power Consumption.\" As the video progresses, the person moves the flyer closer to the camera, shifting from a medium shot that shows the person's torso and a blue circular graphic on the flyer to a close-up shot focusing on the main text of the announcement."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f7a9aea2b566ef1a42d79622be926484",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-285.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.49,
+    1.47,
+    2.45,
+    3.43
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser open to a page titled \"Rural Community Food System.\" The page features a detailed diagram of a circular network with various nodes and connecting lines on the right side, while the left side contains text. The legible text includes a section titled \"References\" with links for \"Large Corporate Farm Systems,\" \"Community Size and Mass of Farm Production,\" \"Rural Community Food Systems,\" and \"SystemsWiki Content.\" Below this, a sentence reads, \"Follow us on Facebook, LinkedIn, or YouTube. My current work in progress happens at SystemsWiki.org.\" In the top right corner of the browser window, a small webcam overlay shows a man with dark hair and a beard wearing a dark shirt. As the sequence progresses, the browser window remains static, but the man in the webcam overlay shifts his head and facial expression slightly."
+}

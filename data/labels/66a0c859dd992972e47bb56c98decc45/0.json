@@ -1,0 +1,15 @@
+{
+  "video_id": "66a0c859dd992972e47bb56c98decc45",
+  "url": "./data/segments/3P1vSUbet40-Scene-0371.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.109,
+    0.328,
+    0.547,
+    0.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored, styled hair is seated in a studio, wearing glasses, headphones, a white button-down shirt with suspenders, and a red bow tie. He is positioned in front of a black microphone, looking toward someone off-screen. The background features a blurred studio setting with a framed shield logo on the wall and a sign that reads \"UNIQUE FASHIONS\". On the screen, a logo with a microphone icon and the text \"REAL TALK 101\" and \"PODCAST\" is visible in the bottom corners. Throughout the sequence, the man remains in the same position, speaking and shifting his gaze slightly as he interacts with another person who is partially visible on the far left side of the frame. The scene is stable, with the only movement being the man's facial expressions and small shifts in posture."
+}

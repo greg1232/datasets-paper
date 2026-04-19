@@ -1,0 +1,15 @@
+{
+  "video_id": "7eafc2bd2435a8736f911206bfb84c07",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-178.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.145,
+    0.435,
+    0.725,
+    1.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video call or presentation interface. A man wearing a dark baseball cap is visible in a small inset video window in the upper right corner. The main content area of the presentation consists of a black background with green text centered on the screen. The text reads, \"Moments To provoke thoughts! To feel something!\" across all frames. The interface includes a browser address bar at the top and several small icons and buttons associated with the video conferencing software. As the sequence progresses, the man in the inset window remains in a similar position, though his head tilts slightly and his facial expression shifts. The central green text remains static and unchanged throughout the clip, maintaining its position and wording."
+}

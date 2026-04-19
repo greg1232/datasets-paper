@@ -1,0 +1,15 @@
+{
+  "video_id": "7b5eab654f487beaba22a0ce31e510a1",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.094,
+    0.281,
+    0.469,
+    0.656
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser navigating a giveaway process. The initial view displays a list of numbered names, including \"11. Michael Loguericio\" and \"15. Michael Loguericio*\", alongside a \"RANDOM.ORG\" timestamp and a link to \"https://bit.ly/NzeS8k9\". A man with a beard and dark clothing is partially visible in a small video window at the bottom right. As the recording progresses, the user clicks \"Again!\", causing the browser to navigate to a \"RANDOM.ORG\" page with a \"List Randomizer\" heading. This page states, \"There were 30 items in your list. Here they are in random order:\" and lists names like \"1. Scott Eckert\" and \"2. Michael Loguericio\". The video then cuts back to the original giveaway list. Throughout the sequence, a red banner for \"CASEBREAKS.COM\" remains visible at the bottom of the screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "217d28f517d5fc77f5598ec44f9ba7c4",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-256.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.384,
+    13.151,
+    21.918,
+    30.685
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a white shirt and a dark vest, performs on a stage in front of a seated audience. He stands behind a microphone and holds a guitar. The background consists of tall, vertical wooden panels with horizontal slats. In the foreground, the backs of several audience members are visible; some wear maroon shirts and others wear blue. On the right side of the scene, a white rectangular logo contains the text \"ORCA\" in black capital letters. As the sequence progresses, the man shifts his position and looks down toward his guitar, then looks back up toward the audience. The audience members remain seated and still, facing the performer. The lighting and setting remain consistent throughout the scene, focusing on the interaction between the performer and the gathered crowd."
+}

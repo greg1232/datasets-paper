@@ -1,0 +1,15 @@
+{
+  "video_id": "3d44d089679be099094f964b761fad31",
+  "url": "./data/segments/3QD9oO6sRns-Scene-073.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.537,
+    0.896,
+    1.254
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a graded baseball card in a clear plastic case, showcasing a player in a white uniform. The setting appears to be a room with several boxes of sports cards in the background. In the lower right corner of each frame, a small inset video shows a man wearing a black t-shirt. Overlaid on the image is a logo that says \"CABENBREAKS\" and the website \"CABENBREAKS.com\". At the bottom of the frames, a partial banner displays the word \"BREAK\". As the sequence progresses, the person slightly tilts and rotates the graded card, changing how the light reflects off the plastic casing and the card's surface. The person's fingers grip the edges of the case to present the item clearly. The background and the inset video remain largely consistent throughout the short clip."
+}

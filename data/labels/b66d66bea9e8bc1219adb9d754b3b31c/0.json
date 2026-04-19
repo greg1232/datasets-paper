@@ -1,0 +1,15 @@
+{
+  "video_id": "b66d66bea9e8bc1219adb9d754b3b31c",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.073,
+    0.219,
+    0.365,
+    0.51
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair is speaking while wearing a black headset with a microphone and a striped button-down shirt. She is positioned in front of a neutral-colored wall and light-colored curtains that have a thin blue stripe on the left side. In the bottom left corner of each frame, the on-screen text \"Nancy Ramya\" is visible. As the sequence progresses, the woman's facial expressions shift slightly as she speaks, with her mouth opening and closing to form words. Her head remains relatively still, and there are no other people or significant objects present in the scene. The lighting remains consistent throughout the clip, and the background remains static while the woman continues her conversation."
+}

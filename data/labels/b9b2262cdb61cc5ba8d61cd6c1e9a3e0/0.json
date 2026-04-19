@@ -1,0 +1,15 @@
+{
+  "video_id": "b9b2262cdb61cc5ba8d61cd6c1e9a3e0",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-138.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.877,
+    2.631,
+    4.385,
+    6.14
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's arm and hand are visible as they interact with a stack of white boxes and yellow materials on a colorful table featuring palm tree designs. In the upper-left frame, the hand reaches toward the yellow material. By the upper-right frame, the hand has gripped a yellow card and is pulling it from the stack. In the lower-left frame, the hand moves the card, and by the lower-right frame, the person holds up a trading card featuring a baseball player in a blue uniform with the text \"EDGAR MARTINEZ\" and a signature. A small inset window in each frame shows a man with a beard wearing a black t-shirt and headphones, sitting in front of a computer setup. Each frame contains the logo \"JASPYS\" and the website \"CASEBREAKS.COM\" in the upper section."
+}

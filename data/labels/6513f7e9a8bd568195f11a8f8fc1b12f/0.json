@@ -1,0 +1,15 @@
+{
+  "video_id": "6513f7e9a8bd568195f11a8f8fc1b12f",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-146.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.33,
+    0.99,
+    1.65,
+    2.31
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene takes place in a formal meeting room where several men are seated at a long white table decorated with a floral arrangement. The men are dressed in light-colored button-down shirts. In the center, a man with glasses sits beside another man who is gesturing with his hand while speaking. Various graphics and text overlays are present across the screen, including the \"NEWS18\" logo and \"MANAREDH\" branding with a time stamp of \"10:08 PM\". The top-left frame features text reading \"\u092c\u093f\u0939\u093e\u0930 \u0915\u0947 \u0921\u093f\u092a\u094d\u091f\u0940 CM \u092c\u0928\u0947 \u0938\u092a\u094d\u092a\u094d\u0930\u093e\u091f \u091a\u094c\u0927\u0930\u0940\", while the top-right changes to \"\u092c\u093f\u0939\u093e\u0930 \u0915\u0947 \u0921\u093f\u092a\u094d\u091f\u0940 CM \u092c\u0928\u0947 \u0938\u092a\u094d\u092a\u0930\u093e\". The bottom-left and top-right frames share a headline stating \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091b\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\", and the bottom-right frame displays \"JDU \u0915\u094b\u091f\u0947 \u0938\u0947 \u092e\u0902\u0924\u094d\u0930\u0940 \u092c\u0928\u0947 \u0935\u093f\u091c\u092f\". Sidebars identify individuals as \"\u0921\u093f\u092a\u094d\u091f\u0940 CM\", \"\u092e\u0902\u0924\u094d\u0930\u0940\", and \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\", with accompanying headshots of men such as \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\" and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930\"."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "eef21fb15a36142573344c22bbfa7e52",
+  "url": "./data/segments/3fokLGPK15Q-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.19,
+    6.57,
+    10.95,
+    15.33
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people are seated in a row on a stage against a purple-lit background. On the left, a man with dark curly hair wears a white long-sleeved shirt and grey pants. In the middle, a woman with blonde hair tied back wears a black t-shirt with the text \"JUST DO IT\" and black pants. On the right, a man wears a grey suit jacket over a light blue shirt and grey trousers. They are sitting in wooden chairs, and in front of the man on the left is a white, blocky electronic device with \"U\" printed on its front. Throughout the sequence, the man on the left and the woman remain relatively still, while the man on the right is actively speaking, gesturing with his hands to emphasize his points. He shifts from a resting position with his hands in his lap to gesturing broadly with both hands towards the others."
+}

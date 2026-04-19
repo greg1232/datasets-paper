@@ -1,0 +1,15 @@
+{
+  "video_id": "77b1ca78636efae696eddc3bceca5e7f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-302.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.21,
+    15.63,
+    26.05,
+    36.47
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call displays a grid of multiple participants in their individual home settings. The participants include men and women of various ages; some wear glasses and casual attire, such as t-shirts and button-down shirts. Several people are seen listening or speaking, with some resting their chins on their hands. Visible backgrounds include bookshelves, home interiors, and outdoor greenery. On-screen text labels identifying participants appear at the bottom of each video tile, including names such as \"Jerry Michiko,\" \"Howard Silverman,\" \"Barbara,\" \"Burtis,\" \"Regina Shivers,\" \"Patrick Murphy,\" \"Era_collaborator,\" \"Jim Burtis,\" and \"Seymour Neve.\" The video shows a repeating loop of the same sequence of faces and layouts, as the arrangement of participants and their poses are identical across the progression, suggesting a static screen capture or a looping clip of the digital meeting."
+}

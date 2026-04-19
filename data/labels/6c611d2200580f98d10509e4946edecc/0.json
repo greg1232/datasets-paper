@@ -1,0 +1,15 @@
+{
+  "video_id": "6c611d2200580f98d10509e4946edecc",
+  "url": "./data/segments/3E6ctN22V7k-Scene-079.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.305,
+    0.915,
+    1.525,
+    2.135
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot shows a light-colored, ribbed surface, possibly a piece of industrial equipment or a structural beam, against a dark blue background. A small, metallic, spherical object moves across the surface of the material. Initially, the object is positioned toward the upper left of the frame. As the sequence progresses, it slides diagonally downward and to the right, following the longitudinal grooves of the surface. By the final frames, the metallic sphere has moved further down the incline, with a glimpse of a bright yellow surface appearing in the lower-left corner of the view. The camera remains focused on the textured surface as the sphere glides smoothly across it, maintaining a consistent trajectory throughout the movement. No people, text, or logos are visible in the scene."
+}

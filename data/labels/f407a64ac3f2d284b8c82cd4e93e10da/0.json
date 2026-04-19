@@ -1,0 +1,15 @@
+{
+  "video_id": "f407a64ac3f2d284b8c82cd4e93e10da",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-087.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.31,
+    0.93,
+    1.55,
+    2.17
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static presentation slide for a course titled \"CRYOGENIC ENGINEERING,\" which is written in orange and blue text at the top. A light blue horizontal banner stretches across the center of the frame containing the text \"Thank You!\" in a black, bold font. At the bottom of the screen, a dark blue footer contains the text \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" followed by the number \"52.\" In the bottom-left corner, a circular NPTEL logo is visible. There are no people or physical equipment present in the scene. Throughout the sequence, the image remains completely stationary, with no movement or changes occurring between the frames, indicating a still image used as a closing slide for a lecture."
+}

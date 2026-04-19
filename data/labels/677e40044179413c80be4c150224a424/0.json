@@ -1,0 +1,15 @@
+{
+  "video_id": "677e40044179413c80be4c150224a424",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-224.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.443,
+    4.329,
+    7.216,
+    10.102
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a room with wood-paneled walls, two men stand behind separate lecterns facing an audience. The man on the left wears a blue shirt, while the man on the right wears a dark vest over a white shirt. The audience consists of several people seen from behind, including individuals wearing maroon, yellow, and gray clothing. The scene remains nearly static across the sequence, with the speakers and audience members maintaining their positions. The lecterns feature a small red and white logo. A white graphic with the text \"ORCA\" appears in several locations throughout the sequence, overlaying the backs of audience members. The speakers appear to be addressing the group, though their specific movements are minimal. The overall environment suggests a formal presentation or lecture setting."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "224de542d5e98f7ef8ec5e9abecb43c7",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.963,
+    14.888,
+    24.812,
+    34.738
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of screen captures shows a Linux terminal window running on a dark-themed operating system. A user interacts with a Kubernetes cluster using command-line tools. In the first frame, the user executes `kubectl get pods --all-namespaces`, displaying a list of pods including `coredns`, `kube-apiserver-minikube`, and `storage-provisioner` all in a \"Running\" status. As the sequence progresses, the user enters `kubectl create -f pod-apache-annotated.yaml`, which deploys a new pod named `apache-logo-annotated`. The subsequent `kubectl get pods --all-namespaces` command confirms this new pod is also \"Running\". Finally, the user begins typing `kubectl logs`, targeting the newly created pod. The top bar of the desktop displays the date \"Oct 28\" and the time shifting from \"00:20\" to \"00:21\", while the terminal window remains centered against a dark blue background."
+}

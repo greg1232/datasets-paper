@@ -1,0 +1,15 @@
+{
+  "video_id": "e498517e369203707ffef397c725c65d",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.158,
+    0.475,
+    0.792,
+    1.109
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Against a plain, bright white background, a logo consisting of the letters \"MP\" emerges and transforms. Initially, the \"MP\" logo appears as a faint, thin white outline with a small graphic element integrated into the center. As the sequence progresses, the logo rapidly scales down and shifts toward the right, momentarily appearing as a small, dark silhouette. It then expands and centers itself, transitioning into a bold, dark blue font. The final state reveals the complete logo, featuring the bold \"MP\" text in dark blue with a detailed, circular graphic emblem nested between the two letters. The sequence captures a smooth animation of the logo scaling, moving, and changing color from a transparent outline to a solid, finished brand mark."
+}

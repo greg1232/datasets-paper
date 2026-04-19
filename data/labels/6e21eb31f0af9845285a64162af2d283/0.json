@@ -1,0 +1,15 @@
+{
+  "video_id": "6e21eb31f0af9845285a64162af2d283",
+  "url": "./data/segments/3JGRt3BFYrM-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.058,
+    3.175,
+    5.292,
+    7.408
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white background features light blue text in the upper half that reads, \"For more information, please visit www.st.com\". A thin blue horizontal line separates this text from the bottom half of the screen, with small grey text along the line stating, \"All rights reserved \u00a9 STMicroelectronics 2015\". The lower half of the screen transitions from being empty to displaying a stylized blue \"ST\" logo. As the sequence progresses, the logo appears centrally on the left before shifting slightly to the right. In the final stage, the text \"life.augmented\" appears in a smaller, grey font directly beneath the \"ST\" logo. The overall scene is a clean, corporate graphic animation moving from a textual call to action toward a branded company logo and slogan."
+}

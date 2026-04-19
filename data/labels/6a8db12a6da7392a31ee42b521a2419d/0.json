@@ -1,0 +1,15 @@
+{
+  "video_id": "6a8db12a6da7392a31ee42b521a2419d",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and glasses stands before a microphone in an indoor setting featuring a paneled wall. He wears a white long-sleeved shirt, a dark vest with blue embroidery, and a traditional necklace with a red and white pendant. He holds a light-colored acoustic guitar, though only the upper body of the instrument is visible. The white text \"ORCA\" is overlaid on the right side of the scene. Across the sequence, the man remains mostly stationary, maintaining a solemn facial expression. His head tilts slightly downward, and his lips move as if speaking or singing into the microphone. In the background, the tops of a few people's heads are partially visible at the bottom of the frame. The lighting and background remain consistent throughout the short clip."
+}

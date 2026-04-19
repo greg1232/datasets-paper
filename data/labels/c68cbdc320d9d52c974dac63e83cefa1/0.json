@@ -1,0 +1,15 @@
+{
+  "video_id": "c68cbdc320d9d52c974dac63e83cefa1",
+  "url": "./data/segments/3JYDT8lap5U-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.61,
+    10.83,
+    18.05,
+    25.27
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard, wearing a dark blazer over a dark shirt, delivers a presentation at \"europython\" in \"Edinburgh 23 29 July 2018,\" as indicated by the logos and text at the bottom of the slides. He stands behind a dark blue podium on a stage, gesturing with his hands as he speaks. Behind him, a large screen displays presentation slides. The first slide reads \"VISUALISE DOWNSTREAM PARAMS\" and shows a technical interface with the text \"You can see XCom parameters for each operator run.\" The following slides transition to focus on the architecture of a software tool, with the text \"AIRFLOW IS MODULAR\" and \"Modular separation of code, operators, dags, subdags, etc\" appearing alongside the note \"This allows for better testing and re-usability.\" The final slide changes the heading to \"AIRFLOW IS EXTENSIBLE,\" stating \"Airflow also allows you to write your own custom 'plugins'\" and \"It's possible to write your own Operators, hooks, etc\" above a block of code."
+}

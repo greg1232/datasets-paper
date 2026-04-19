@@ -1,0 +1,15 @@
+{
+  "video_id": "fa808448f1928ff976a314e81c720bfd",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.354,
+    1.062,
+    1.771,
+    2.479
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a pink sleeveless shirt and dark shorts is in an indoor basketball gymnasium with polished wooden floors, blue wall padding, and blue bleachers. The scene begins with him standing on the court, facing away from the camera toward a basketball hoop. He then leaps high into the air, extending his arm upward toward the rim. Following the jump, he descends back to the court, landing on his feet. He concludes the sequence by standing and facing toward the camera. The gymnasium is equipped with a standard basketball goal and backboard, and a green semicircular area is visible on the floor. No text, logos, or other people are present in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "91314cfe44fba4b39e0a8cb5d58c764e",
+  "url": "./data/segments/3iUTkJy84EY-Scene-188.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.16,
+    0.48,
+    0.8,
+    1.12
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is positioned centrally against a plain black background, appearing to be delivering a presentation or lecture. She wears a light green, patterned tunic with floral embroidery around the neckline and a dark necklace. A small lavalier microphone is clipped to the front of her garment. Across the sequence, she is speaking and gesturing with her hands to emphasize her points. In the initial stages, her right hand is raised near her chest, while her left hand remains lower. As the sequence progresses, she continues speaking, and her hands move fluidly, with her right hand shifting slightly lower and her left hand curving inward. In the bottom left corner of several frames, a small circular logo containing the text \"NPTEL\" is visible. The setting remains static throughout, focusing entirely on the woman's upper body and her expressive communication."
+}

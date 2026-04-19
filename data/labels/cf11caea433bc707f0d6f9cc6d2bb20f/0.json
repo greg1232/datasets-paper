@@ -1,0 +1,15 @@
+{
+  "video_id": "cf11caea433bc707f0d6f9cc6d2bb20f",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.015,
+    3.045,
+    5.075,
+    7.105
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A motion graphic features a dark blue background with abstract white lines, circles, and triangles. Two stylized red globes appear on the screen; the globe on the left is larger and encircled by a red orbital ring, while the smaller globe on the right is positioned further east. Below each globe is a red circle containing the white text \"DAILY ROUND-UP\" in a bold, italicized font. Beneath these red circles, the word \"INTERNATIONAL\" is written in smaller white capital letters. Faint, semi-transparent text reading \"DAILY ROUND-UP\" is repeated across the background in various positions. As the sequence progresses, the elements remain static in their positions, but the lighting and opacity of the background text shift slightly, creating a subtle sense of motion and depth within the digital composition."
+}

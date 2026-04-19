@@ -1,0 +1,15 @@
+{
+  "video_id": "9ff5a70833ec2738259bbd7d1752649d",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-083.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.379,
+    1.137,
+    1.896,
+    2.654
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large, indoor hall with a coffered ceiling and elaborate chandeliers, a group of people practice martial arts on a blue mat. Several participants wear blue uniforms, while one central figure wears a white uniform. In the initial frames, the person in white is seen from the back, moving dynamically across the floor, while others in blue execute coordinated strikes and stances around them. One person in a purple uniform is also visible in the background. As the sequence progresses, the group continues their synchronized movements; the person in white shifts their position and raises their arms, while the practitioners in blue move in unison, some lunging forward and others stepping back. A crowd of spectators is visible in the background, seated and watching the demonstration. There is no on-screen text or logos visible in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "02e692d3dfb55b02403e9b4bbf7ea7ef",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-079.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.846,
+    2.538,
+    4.229,
+    5.921
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static graphic on a solid mustard-yellow background. The screen features the text \"super science saturday\" written in a white, sans-serif lowercase font. This text is repeated in two columns, with one set of words on the left and an identical set on the right. Each column consists of three stacked words: \"super\" on the top line, \"science\" in the middle, and \"saturday\" on the bottom. A small, white, four-pointed star graphic or spark is positioned just to the right of the word \"science\" in both columns. There are no people, objects, or changes in movement; the imagery remains completely identical across all frames, creating a still image of the text against the yellow backdrop."
+}

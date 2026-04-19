@@ -1,0 +1,15 @@
+{
+  "video_id": "93c25c68e752abbd73b95f1fb6555deb",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.471,
+    1.414,
+    2.357,
+    3.299
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation room, a group of healthcare professionals manages a patient lying on a bed. A woman in blue scrubs and another in a black jacket over blue scrubs stand near the patient's head, while a third person in blue scrubs faces them. The people wear blue nitrile gloves and face masks. Medical equipment, including a red crash cart and monitors, is visible in the background. As the scene progresses, the woman in the black jacket looks down at a white document held by another staff member. A small purple figure and the text \"Day 1\" appear in the bottom-left corner of the frames, while the text \"Sim Week\" is positioned in the bottom-right corner. The focus shifts as the participants interact around the patient, examining the paperwork and coordinating their actions in the simulation."
+}

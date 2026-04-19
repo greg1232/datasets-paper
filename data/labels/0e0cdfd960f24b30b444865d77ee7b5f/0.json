@@ -1,0 +1,15 @@
+{
+  "video_id": "0e0cdfd960f24b30b444865d77ee7b5f",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-095.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.646,
+    1.939,
+    3.232,
+    4.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, a person wearing blue scrubs and purple gloves holds up a smartphone displaying a chest X-ray. Beside them, another person in white protective clothing and blue gloves is present. In the background, a hospital bed with white linens, a red medical cart, and a small wooden table with various containers are visible. Overlaid on the bottom of the scene are a purple silhouette icon and the text \"Day 3\" inside a circle, along with the text \"Sim Week\" next to a small icon of books. As the sequence progresses, the person in scrubs holds the phone steady while the person in white protective gear reaches out and takes the device to examine the X-ray image more closely. The camera remains mostly static, focusing on the interaction and the transfer of the smartphone between the two individuals."
+}

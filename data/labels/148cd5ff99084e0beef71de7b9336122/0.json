@@ -1,0 +1,15 @@
+{
+  "video_id": "148cd5ff99084e0beef71de7b9336122",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.265,
+    0.795,
+    1.325,
+    1.855
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen in a small video call window in the upper right corner of a screen, appearing in a room with light-colored walls. The main portion of the screen displays a complex network diagram on a black background, featuring various circular icons connected by curved blue lines. Several of these icons contain images of people, plants, or logos. Two prominent rectangular logos on the left side read \"IMPACT BEER\" and \"NATURE FOR CHANGE\". Other text labels within the network include \"Joy\", \"Hope\", and \"Flexible Style\". The top of the screen shows a browser window with multiple open tabs, including titles like \"Trust & Learning by Systemen!\", \"Ruminants, by Systemen!!\", and \"Future of Society by Systemen!\". Between frames, the layout remains largely static, but the person in the video call window shifts their position and expression slightly."
+}

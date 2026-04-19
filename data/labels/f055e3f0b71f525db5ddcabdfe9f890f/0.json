@@ -1,0 +1,15 @@
+{
+  "video_id": "f055e3f0b71f525db5ddcabdfe9f890f",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.185,
+    3.555,
+    5.925,
+    8.295
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark blazer over a black shirt stands behind a podium against a plain, light-colored wall. He is giving a presentation, gesturing with both hands as he speaks. A thin microphone stands in front of him, and a clear plastic water bottle sits on the podium. The logo \"mediasite by cornerstone\" is visible in the upper left and lower left corners of the scene. As the sequence progresses, the man shifts his posture and arm movements; he starts with his hands raised and open, then lowers his right arm, and eventually brings both hands closer to his chest before standing more still. His facial expression remains focused and serious throughout the transition between frames."
+}

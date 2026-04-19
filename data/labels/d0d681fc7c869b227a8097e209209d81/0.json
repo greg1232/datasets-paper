@@ -1,0 +1,15 @@
+{
+  "video_id": "d0d681fc7c869b227a8097e209209d81",
+  "url": "./data/segments/3phuyH7Y05U-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.246,
+    0.738,
+    1.229,
+    1.721
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a trimmed beard is seen delivering a presentation in a bright, indoor setting with a blurred cityscape visible through large windows in the background. He is dressed professionally in a dark charcoal suit, a light blue dress shirt, and a matching light blue silk tie. He holds a dark folder or tablet in his left arm while using his right hand to gesture as he speaks. Across the sequence, his expression remains engaged and focused, with slight variations in his facial muscles and eye gaze. His right hand moves from a relaxed position, slightly raised, to a more emphatic gesture where he points upward with his index finger, before transitioning back into a general hand movement to emphasize his points. No text, logos, or other people are visible in the scene."
+}

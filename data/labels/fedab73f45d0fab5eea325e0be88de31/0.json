@@ -1,0 +1,15 @@
+{
+  "video_id": "fedab73f45d0fab5eea325e0be88de31",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-161.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.184,
+    15.553,
+    25.922,
+    36.29
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair and glasses speaks behind a wooden lectern against a background of tan horizontal blinds. He wears a grey-blue patterned shirt with a light blue collar, a vibrant green and yellow stripe across the chest, and a beaded necklace with a feather pendant. A black microphone on a stand is positioned in front of him. He looks down toward some papers on the lectern, his hands resting on them. The white text \"ORCA\" is displayed in the lower right area of the scene. Across the sequence, the man remains in the same position, though his facial expression shifts slightly as he speaks and his gaze remains focused downward on the documents before him. No other people are visible in the scene."
+}

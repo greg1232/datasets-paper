@@ -1,0 +1,15 @@
+{
+  "video_id": "71a9f54edff16deb8f01b64e22ceb86e",
+  "url": "./data/segments/3QD9oO6sRns-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.633,
+    1.9,
+    3.167,
+    4.433
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a graded sports card encased in a plastic protector, featuring a photo of baseball player Frank Thomas with a blue autograph. The card is labeled \"1990s BATTERS\" and \"FRANK THOMAS.\" In the background, a man wearing a black t-shirt and a baseball cap sits behind a table, partially visible in a small inset window. The setting includes stacks of trading card boxes and a banner that reads \"SPYDER BREAKS.\" A logo for \"CASEBREAKS.COM\" is also visible on the screen. As the sequence progresses, the hand tilts the graded card slightly, shifting the light reflecting off the plastic surface. The background remains stationary, while the small inset video of the man shows slight movement as he interacts with items on the table. The composition focuses on the detailed presentation of the collectible card."
+}

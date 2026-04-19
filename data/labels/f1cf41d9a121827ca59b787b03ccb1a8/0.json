@@ -1,0 +1,15 @@
+{
+  "video_id": "f1cf41d9a121827ca59b787b03ccb1a8",
+  "url": "./data/segments/3QD9oO6sRns-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.537,
+    0.896,
+    1.254
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a trading card box on a black surface. In the background, several other similar boxes are stacked. A large orange and white logo reading \"JASPYS CASEBREAKS\" is prominent across the bottom of the frames, and a small inset video displays a man wearing a black t-shirt. In the first frame, a hand is lifting the lid of a white and blue box. In the second frame, the hand continues to open the box, revealing the interior. In the third frame, the person's fingers are peeling back a seal or sticker from the side of the box, which contains the word \"Clearly.\" By the fourth frame, the person is gripping the side of the box, moving it further. Throughout the sequence, the \"JASPYS CASEBREAKS\" logo remains constant, and the inset video shows the man observing the action."
+}

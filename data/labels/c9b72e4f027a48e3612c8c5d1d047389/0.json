@@ -1,0 +1,15 @@
+{
+  "video_id": "c9b72e4f027a48e3612c8c5d1d047389",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-113.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.788,
+    2.365,
+    3.941,
+    5.518
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a split-screen presentation. The left side displays a white background with the logo \"TFNN.com\" and the phrase \"EDUCATING INVESTORS\" in black text, positioned above a blue Discord icon. The right side shows a close-up of a person's hands holding and interacting with a mobile device. Yellow text is overlaid on the right side, which evolves as the video progresses. Initially, the text reads \"ACCESSIBLE ON MOBILE\". In subsequent frames, the text changes to \"ACCESSIBLE ON MOBILE OR TABLETS\". The person is wearing a dark-colored sleeve, and their fingers are seen tapping the screen of the device. The visual composition remains consistent throughout the frames, with only the updating on-screen text providing a sense of progression."
+}

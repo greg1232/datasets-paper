@@ -1,0 +1,15 @@
+{
+  "video_id": "e88cfcc772d7a76d853c8671d4ecda8c",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-406.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.019,
+    9.056,
+    15.093,
+    21.13
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, over-ear headphones, and a black hoodie with the text \"BOSS TALK\" in gold lettering sits in a studio setting. He is positioned behind a desk equipped with a professional microphone on a boom arm and a black mug that reads \"BOSS TALK OUT LOUD.\" Behind him is a white backdrop featuring a logo with the words \"UNICORN HUSTLE\" and five gold stars, while a blue sign above reads \"Where BOSSES Talk!\". As the sequence progresses, the man is seen speaking and gesturing with his hands; he starts by gesturing with his right hand, then pauses, and later moves both hands to emphasize his points. He wears a gold watch on his left wrist. The background remains static throughout the scene, while the man's facial expressions and hand movements change as he talks into the microphone."
+}

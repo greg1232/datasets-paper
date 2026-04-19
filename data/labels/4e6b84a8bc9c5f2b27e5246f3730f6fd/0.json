@@ -1,0 +1,15 @@
+{
+  "video_id": "4e6b84a8bc9c5f2b27e5246f3730f6fd",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.1,
+    6.3,
+    10.5,
+    14.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide illustrates a data flow architecture divided into \"Edge\" and \"Cloud\" sections. On the \"Edge\" side, three blocks labeled \"HW / SW\" send data, represented by red \"Event\" icons, into a \"Log Events Collector.\" This collector contains a \"Stream Processor\" with a blue bird logo and an \"Analysis\" block. The data then moves from the \"Edge\" to the \"Cloud\" side, where it is stored in two cylindrical database icons. A small video inset in the upper right corner shows a woman with long dark hair wearing a pink top, who is speaking during the presentation. Throughout the sequence of frames, the slide remains static, and the woman in the inset continues her presentation, with slight changes in her facial expression and head position as she speaks."
+}

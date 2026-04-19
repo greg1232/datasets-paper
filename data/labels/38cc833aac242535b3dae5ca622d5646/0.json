@@ -1,0 +1,15 @@
+{
+  "video_id": "38cc833aac242535b3dae5ca622d5646",
+  "url": "./data/segments/3Kxl1O310k8-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.675,
+    17.025,
+    28.375,
+    39.725
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital presentation is displayed, featuring a light gray rectangular panel containing three small, illustrative graphics. Below this panel are three yellow boxes with black text: \"Pre-development\", \"Housing plans and needs assessments\", and \"Rental Assistance\". A wide yellow banner stretches across the middle of the screen, containing the word \"Support\" in a larger font and the acronym \"MHP\" in a smaller font. In the top right and bottom right corners, a small inset video shows a woman with dark hair wearing a dark blue top, speaking to the camera against a blurred background. The visual elements remain static across the frames, showing a consistent slide layout meant for a presentation on housing support. The woman in the inset video is visible in the upper right of the first and second frames and the lower right of the third and fourth frames."
+}

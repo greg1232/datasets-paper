@@ -1,0 +1,15 @@
+{
+  "video_id": "63f07f80c4f7950759c2b4b2c4759189",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-144.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.073,
+    0.219,
+    0.365,
+    0.511
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with her hair in a high bun and wearing headphones and a dark green t-shirt is speaking into a professional microphone in a studio setting. Behind her is a black backdrop featuring the text \"BOSS TALK 101\" and \"It's A Unique Hustle,\" alongside the word \"CAST\" and the phrase \"About It!\". To her left, a framed photo of a person's hands is visible on the wall. On the table in front of her sit a few small containers. Red and white logos for \"BOSS TALK 101\" appear in the lower corners of the screen. As the sequence progresses, the woman is captured in mid-conversation, using expressive hand gestures to emphasize her points. Her mouth is open as she speaks, and her hands move from a gesture near her chest to a more open, outward position, reflecting the dynamic nature of her delivery."
+}

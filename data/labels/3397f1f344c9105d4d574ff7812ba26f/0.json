@@ -1,0 +1,15 @@
+{
+  "video_id": "3397f1f344c9105d4d574ff7812ba26f",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.105,
+    0.315,
+    0.525,
+    0.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip displays a fragmented, glitch-style montage of a room where individuals are present. A person wearing a white t-shirt is seen in various positions, sometimes standing and sometimes leaning. The scenes are overlaid with technical interfaces, including repeated headers with terms like \"RSS--\", \"5005-E\", \"EPP\", \"UJI\", and \"RDP_\". White text appears across the center of the frames, stating, \"SO FAR WE HAVE RECEIVED TOTAL PAYMENT OF $145 THOUSAND FROM DIGIBIT AND TIANG\". Below this text, a date and time stamp read \"2017. 12. 01\" and \"01:57:44\". Large, semi-transparent purple numbers, including \"07\", \"51\", \"18\", and \"01\", flicker across the screen. The visual presentation shifts rapidly, alternating between blurred close-ups of equipment and wider shots of the interior space, creating a disjointed sequence of overlapping images."
+}

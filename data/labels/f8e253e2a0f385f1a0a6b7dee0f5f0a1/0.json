@@ -1,0 +1,15 @@
+{
+  "video_id": "f8e253e2a0f385f1a0a6b7dee0f5f0a1",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.288,
+    9.863,
+    16.438,
+    23.012
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair is visible in a small picture-in-picture window in the bottom left corner of a screen recording. He is speaking and gesturing slightly as he explains a financial chart. The main screen displays a trading platform with a candlestick chart for \"EURGBP (D1)\". The chart includes a red horizontal line at \"0.89338\" and a green horizontal zone around \"0.88417\". To the left of the chart, a side panel features the \"TICKMILL\" logo and the German text \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN\". This panel also lists features such as \"FIX API\" and \"www.tickmill.com/de\". As the video progresses, the man's facial expressions and head position shift as he continues his presentation, while the background trading interface and on-screen text remain static."
+}

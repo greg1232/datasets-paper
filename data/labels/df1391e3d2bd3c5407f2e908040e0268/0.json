@@ -1,0 +1,15 @@
+{
+  "video_id": "df1391e3d2bd3c5407f2e908040e0268",
+  "url": "./data/segments/3Smz5pevbI4-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.838,
+    2.515,
+    4.192,
+    5.868
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static presentation slide against a black background. The slide features the text \"Questions?\" centered at the top. Below the text is a 3D anatomical illustration showing a human head in profile, with a translucent skin layer revealing a highlighted, golden-yellow brain inside. A blue rectangular frame outlines the area of the brain. In the background, two gray-scale MRI-style brain scans are visible. In the bottom right corner of the image, there is a small green 3D cube with the red letters \"HBL\" written on its faces. Throughout the sequence, the image remains entirely stationary, with no movement of the graphics, text, or background. There are no people present in the scene."
+}

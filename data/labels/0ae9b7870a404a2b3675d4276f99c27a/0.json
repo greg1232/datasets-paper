@@ -1,0 +1,15 @@
+{
+  "video_id": "0ae9b7870a404a2b3675d4276f99c27a",
+  "url": "./data/segments/3fokLGPK15Q-Scene-093.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.17,
+    0.51,
+    0.85,
+    1.19
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a professional studio setting with a dark background and purple lighting accents, three people sit in gold-framed chairs on a stage. On the left, a man wearing a white button-down shirt and dark trousers gestures with his hands; in the second and third frames, he holds a small, glowing pink spherical object. In the center, a woman with blonde hair pulled back wears a black t-shirt and black trousers, sitting with her hands folded in her lap. To the right, a man in a grey suit and light blue shirt sits with his legs crossed. Between the man in white and the woman is a large, white, rectangular technical device with intricate mechanical details and the letters \"U\" and \"E\" visible on its side. In the background, a red logo featuring the letters \"BL\" is partially visible. The scene remains mostly static as the man on the left interacts with the pink object."
+}

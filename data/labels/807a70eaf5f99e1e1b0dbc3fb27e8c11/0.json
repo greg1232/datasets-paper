@@ -1,0 +1,15 @@
+{
+  "video_id": "807a70eaf5f99e1e1b0dbc3fb27e8c11",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-101.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.99,
+    1.385
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blond hair wearing a dark shirt is visible in a small picture-in-picture window in the lower-left corner of a video game interface, appearing to speak. The main screen shows a digital card for a player named \"DERRICK MASON\" with the position \"WR\" and a rating of \"84.\" Across the top of the screen, numerical values and levels are displayed, including \"173,037,\" \"14,600,\" \"2,343,543,\" and \"LVL 19 (90).\" Text at the top left reads \"SMALL PRESENT.\" As the sequence progresses, the digital card is revealed and remains on screen until it disappears entirely. The top-left text changes to \"UNOPENED PACKS,\" and the bottom of the screen displays options such as \"PRESENT x1,\" \"BLITZ PRESENT x1,\" \"KRAMPUS LOGIN PACK x1,\" and \"GHOST OF MUT LOGI.\" Menu options like \"DISMISS ALL\" and \"BACK\" are visible at the bottom."
+}

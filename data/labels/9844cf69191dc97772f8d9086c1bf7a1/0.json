@@ -1,0 +1,15 @@
+{
+  "video_id": "9844cf69191dc97772f8d9086c1bf7a1",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-826.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.177,
+    0.532,
+    0.886,
+    1.241
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with her hair styled in a high bun and curls is seated in a podcast studio, wearing a dark green t-shirt featuring a circular red and white graphic. She sits before a black professional microphone, wearing black headphones. Behind her is a backdrop with the words \"BESS TALK TUT\" and \"PODCAST\" in large letters, along with the phrases \"It's A Unique Hustle\" and \"Talk About It!\". To her left, a framed piece of art depicts a person's hands. A small screen on the desk displays \"BESS TALK TUT\" and \"GEN\". Throughout the sequence, the woman maintains a consistent position, looking slightly to her left with a subtle, thoughtful expression. Her facial movements are minimal, showing slight shifts in her gaze and a small smile as she listens or prepares to speak, while the overall setting and equipment remain static."
+}

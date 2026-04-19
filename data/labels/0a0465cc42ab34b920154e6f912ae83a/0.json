@@ -1,0 +1,15 @@
+{
+  "video_id": "0a0465cc42ab34b920154e6f912ae83a",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-204.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.31,
+    0.93,
+    1.55,
+    2.17
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser displaying a complex causal loop diagram against a black background. The diagram features various green text nodes connected by blue and red curved arrows, including phrases such as \"Being Outside,\" \"Attractiveness of Garden,\" \"Bird Seed,\" and \"Unsightly Goats.\" A man with short grey hair is visible in a small webcam inset at the top of the screen; he wears a dark shirt and looks toward the camera. The browser's address bar and tab titles are visible, with text mentioning \"Tool & Learning by Systems,\" \"Elements,\" and \"Rural Community Food System.\" Across the sequence of frames, the scene remains almost entirely static. The man in the webcam window maintains a similar posture, and the diagram on the screen does not change, indicating a paused moment or a steady presentation of the systemic model."
+}

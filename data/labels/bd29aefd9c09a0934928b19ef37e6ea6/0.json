@@ -1,0 +1,15 @@
+{
+  "video_id": "bd29aefd9c09a0934928b19ef37e6ea6",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.465,
+    4.395,
+    7.325,
+    10.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This video clip shows a presentation slide for a course titled \"CRYOGENIC ENGINEERING.\" The slides are labeled \"Tutorial \u2013 4\" and focus on \"Liquid yield.\" Each slide features a mathematical formula for \"y\" presented in a blue box, which calculates liquid yield using variables such as $h_1, h_2, \\varepsilon, h_f,$ and $h_g$. The NPTEL logo appears in the bottom-left corner, and a footer credits \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" As the sequence progresses, the content on the slide evolves. Initially, only the formula is visible. Later, the value \"$\\varepsilon = 0.90$\" is added to the right of the equation. Finally, a data table appears below the formula, listing values for pressure \"p (bar)\", temperature \"T (K)\", enthalpy \"h (J/g)\", and entropy \"s (J/gK)\" across four columns labeled \"1\", \"2\", \"f\", and \"g\"."
+}

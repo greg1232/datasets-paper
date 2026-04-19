@@ -1,0 +1,15 @@
+{
+  "video_id": "d69cd092016d0a32ccc4dcd1f0099fa2",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-131.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.998,
+    5.993,
+    9.989,
+    13.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people is gathered in a room with brown wooden paneled walls and vertical blinds in the background. In the front, a man in a white shirt and dark vest stands behind a wooden podium, gesturing toward his forehead. Another man in a light-colored shirt is seated to his left. In the foreground, several people are seated with their backs to the camera; they include a man in a grey plaid shirt, a woman in a blue and white patterned shawl, and another woman in a yellow top. To the right, a man in a grey jacket sits near the edge of the frame. In the bottom right corner of each frame, the text \"ORCA\" is visible. As the sequence progresses, the man at the podium continues speaking, while the man seated to his left leans forward and looks down toward the podium."
+}

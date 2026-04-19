@@ -1,0 +1,15 @@
+{
+  "video_id": "33cb348e634a6011743d54590484531a",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-304.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.34,
+    1.019,
+    1.698,
+    2.377
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blond hair wearing a dark shirt and headphones is visible in a small video window on the left side of a screen. The rest of the display shows a sports video game interface featuring an aerial view of a football stadium filled with spectators. Text at the top indicates a game situation with \"1st & Goal\" and a game clock showing \"0:07\" then \"0:06\". A \"PREVIOUS PLAY\" menu is displayed in the center, listing \"COVER 4 QUARTERS\" and \"PA DEEP OUTS\". Below this, a play selection menu is open, with \"SELECT A PLAY\" written on the left and \"COVER 4 QUARTERS\" highlighted in multiple boxes. The screen also displays \"COACH SUGGESTIONS\", \"FORMATION\", \"CONCEPT\", \"PLAY TYPE\", \"FAVORITES\", and \"RECENT PLAYS\". As the sequence progresses, the person in the video window changes from a neutral expression to laughing with an open mouth, while the game clock counts down from \"0:07\" to \"0:06\"."
+}

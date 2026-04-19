@@ -1,0 +1,15 @@
+{
+  "video_id": "8f9c19c5044acccc3823142d5052a613",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-694.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.417,
+    1.251,
+    2.085,
+    2.92
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, black headphones, and a black hoodie with \"BOSS\" printed in gold letters sits at a desk in a studio setting. He wears a gold chain and a gold watch on his left wrist. He is positioned in front of a professional microphone on a boom arm. Behind him is a white banner featuring a gold star and the words \"UNICORN HUSTLE\" repeated. In the background, a blue wall contains the text \"'Where BOSSES Talk!'\". On the desk, a black container with red and white text that reads \"THE TALK OUT GAME\" is visible. A small logo in the bottom left corner also says \"THE TALK OUT GAME\". Throughout the sequence, the man remains stationary and maintains a serious expression, looking slightly to the side, with no significant changes in his posture or the environment."
+}

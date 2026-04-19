@@ -1,0 +1,15 @@
+{
+  "video_id": "656a54e6173d8c7a2629782452ac0db0",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-089.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.255,
+    0.765,
+    1.275,
+    1.785
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a video call interface where a person wearing a dark hat and shirt is visible in a small window at the top right. The main area of the screen displays a dark-themed digital whiteboard or mind map. In the center, a light blue square containing a green and white floral pattern features the word \"SHARE\" in bold, white, capital letters. Several small circular profile icons of people are scattered around this central square, connected by curved blue lines. One icon of a person with dark hair is positioned to the left of the \"SHARE\" box. At the top of the screen, multiple browser tabs are open with titles such as \"Trial & Learning by Systemic\", \"Elements by Systeminiz\", \"Future of Society by Systeminiz\", \"Insights Introduction & Forms\", and \"Rural Community Food System\". The scene remains static across the frames, with no visible changes in the content or the person's position."
+}

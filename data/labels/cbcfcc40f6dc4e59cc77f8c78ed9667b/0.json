@@ -1,0 +1,15 @@
+{
+  "video_id": "cbcfcc40f6dc4e59cc77f8c78ed9667b",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.584,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white, rod-like tool is used to probe the driver's side footwell of a vehicle. The area is dirty, featuring a tan interior with a black brake pedal and a gas pedal. The tool enters the scene from the left and moves toward the center of the footwell, poking into a dark, grimy area near the pedal assembly and various mechanical linkages. A small, light-colored piece of debris or a torn component is visible attached to a metal part near the top. As the tool moves, it pushes against the grime and mechanical components, shifting slightly in position across the sequence. The background consists of brown carpeting and plastic trim, with some reddish components visible near the right edge of the frame. No people are visible, and no legible text or logos appear on the equipment."
+}

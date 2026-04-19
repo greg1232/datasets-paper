@@ -1,0 +1,15 @@
+{
+  "video_id": "b4fa4e4b2cbf14e74831f20649739269",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.438,
+    1.312,
+    2.188,
+    3.062
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a screen recording of a computer interface, featuring a software application with a dark theme. The screen is divided into a main content area displaying a \"Loki Cheat Sheet\" and a top navigation bar showing open tabs, including \"Activities\" and \"Google Calendar.\" A small webcam feed in the top right corner shows a man with short dark hair wearing a dark shirt, facing the camera. The \"Loki Cheat Sheet\" contains instructional text such as \"See your logs,\" \"Combine stream selectors,\" \"Filtering for search terms,\" \"Count over time,\" and \"Rate.\" Between frames, the user scrolls down the page, causing the text to move upwards. The bottom section of the cheat sheet, including the \"Count over time\" and \"Rate\" sections, becomes more visible as the content shifts. The man in the webcam remains stationary throughout the sequence."
+}

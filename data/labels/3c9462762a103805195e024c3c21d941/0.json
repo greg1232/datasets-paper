@@ -1,0 +1,15 @@
+{
+  "video_id": "3c9462762a103805195e024c3c21d941",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.087,
+    0.262,
+    0.438,
+    0.612
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a computer terminal window running on a Linux-based system. The window shows a continuous stream of server log files scrolling rapidly in white text against a black background. Legible entries include repeated requests such as \"GET /sitemap.xml HTTP/1.0\" and references to \"ravengate HTTP/1.0\" and \"WordPress,\" interspersed with system paths like \"/var/log/syslog.\" The top of the window shows a menu bar with \"Activities,\" \"Terminal,\" and the date \"Oct 28 00:21.\" At the bottom of the interface, a status bar contains the text \"e-bash\" and \"utf-8.\" As the sequence progresses, the text scrolls upward, replacing old log entries with new ones in real-time, indicating active system monitoring or a security audit. The visual remains consistent in its layout and color scheme, with only the specific lines of code and timestamps changing as the logs update."
+}

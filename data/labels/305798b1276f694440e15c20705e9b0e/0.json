@@ -1,0 +1,15 @@
+{
+  "video_id": "305798b1276f694440e15c20705e9b0e",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-170.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.321,
+    0.963,
+    1.604,
+    2.246
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card featuring an athlete in a blue and white uniform, with the name \"RAINES\" printed on it. The card includes a signature and the number \"07/20.\" The person holds the card over a surface decorated with orange and teal palm tree graphics. In the background, a man wearing a black t-shirt sits in front of a computer setup. The \"JASPYS\" logo and the text \"CASEBREAKS.COM\" appear prominently in red and white on the screen. As the sequence progresses, the person tilts and shifts the card, showcasing its gold-bordered design and reflective surface. The man in the background remains seated, watching the process. The setting appears to be a dedicated space for sports card breaking, equipped with electronic devices and various card-related accessories."
+}

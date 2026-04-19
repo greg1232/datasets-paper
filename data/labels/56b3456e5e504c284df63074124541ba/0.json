@@ -1,0 +1,15 @@
+{
+  "video_id": "56b3456e5e504c284df63074124541ba",
+  "url": "./data/segments/3P1vSUbet40-Scene-0046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.547,
+    1.642,
+    2.737,
+    3.832
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey, peaked wig, eyeglasses, a white shirt with a red bowtie, and tan suspenders is seated in a studio setting. He wears black headphones and speaks into a professional microphone positioned in front of him. The background consists of a wall with several framed photographs and a white mannequin torso. On-screen graphics appear throughout the scene, including a logo on the left that reads \"PODCAST\" beneath a stylized \"P\" and \"STUDIO,\" and text on the right that reads \"GOSS TALK JOY\" above \"www.gosstalkjoy.com\". As the video progresses, the man continues speaking while slightly shifting his posture. In the final sequence, he raises his left hand toward the side of his head and wig, adjusting his position as he maintains a slight smile."
+}

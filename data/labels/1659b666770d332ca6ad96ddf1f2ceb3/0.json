@@ -1,0 +1,15 @@
+{
+  "video_id": "1659b666770d332ca6ad96ddf1f2ceb3",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-688.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap and a black hoodie with \"BOSS\" and other gold lettering sits in a studio setting. He is positioned behind a desk with a professional microphone on a boom arm in front of him. In the background, a white banner features the words \"UNIQUE HUSTLE\" repeatedly alongside gold stars. A blue sign above him reads \"Where BOSSES Talk!\". To his right, a black object with \"THE TALK OUT\" text is visible on the desk. The man begins by resting his hand near his head, looking toward the left of the frame. As the sequence progresses, he remains in a similar pose until the final moment, where he raises his hand to cover his eyes and forehead in a gesture of frustration or deep thought. Throughout the scene, he wears a gold watch on his left wrist."
+}

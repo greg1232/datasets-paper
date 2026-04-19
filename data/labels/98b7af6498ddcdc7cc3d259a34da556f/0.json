@@ -1,0 +1,15 @@
+{
+  "video_id": "98b7af6498ddcdc7cc3d259a34da556f",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.121,
+    12.362,
+    20.604,
+    28.845
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a short beard and tattoos on his arms is seated in a recording studio against a grey, ribbed acoustic foam wall. He wears a white t-shirt featuring a logo that reads \"Stay Authentic\" and has black headphones over his ears. A professional microphone on a boom arm is positioned directly in front of him. Throughout the sequence, the man keeps his right hand raised to his head. He begins by looking off to his right with a focused expression. He then closes his eyes and tilts his head slightly downward. His eyes reopen as he looks back toward the right, and he concludes the sequence by shifting his gaze slightly and opening his mouth as if beginning to speak. The camera angle remains static, capturing him from the chest up."
+}

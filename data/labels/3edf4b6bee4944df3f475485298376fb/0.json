@@ -1,0 +1,15 @@
+{
+  "video_id": "3edf4b6bee4944df3f475485298376fb",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-336.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.938,
+    2.815,
+    4.692,
+    6.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap and a dark green t-shirt with white text that reads \"ION NEVEZO SHIT\" speaks into a professional microphone. He is wearing black over-ear headphones and is seated in a room with several framed pictures on the wall and clothing displays in the background, including a white mannequin wearing a white shirt. The man remains in the same position throughout the sequence, though his facial expressions shift slightly as he talks, moving from a neutral look to speaking with an open mouth. A small white logo with a red and black design and the text \"BOOSTLY\" is visible in the bottom right of each frame, while a circular logo with \"SDR\" is seen in the bottom left. The lighting remains consistent, and the background environment does not change."
+}

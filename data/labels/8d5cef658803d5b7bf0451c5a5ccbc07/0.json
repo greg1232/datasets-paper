@@ -1,0 +1,15 @@
+{
+  "video_id": "8d5cef658803d5b7bf0451c5a5ccbc07",
+  "url": "./data/segments/3mmDnftP1M8-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.901,
+    11.703,
+    19.505,
+    27.307
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light blue button-down shirt and a black over-ear headset with an attached microphone is centered against a plain, light-colored wall. The text \"Ashish Raichur\" is visible in the bottom left corner of each frame. Across the sequence, the man is speaking, with his facial expressions and head position shifting slightly. Initially, he looks upward and to the side with an open mouth. He then shifts his gaze downward and closes his mouth, before looking forward and slightly upward again while speaking. In the final sequence, he maintains a forward-facing position with a neutral expression. He remains stationary throughout the clip, with the focus remaining on his head and shoulders."
+}

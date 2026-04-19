@@ -1,0 +1,15 @@
+{
+  "video_id": "cc9482aaaa5c2d1ec2afddfbfbf0be0b",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.183,
+    0.55,
+    0.917,
+    1.283
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a website for a \"List Randomizer\" from RANDOM.ORG. The page features a header with links such as \"Home,\" \"Games,\" and \"Randombers,\" along with a warning that \"We only operate services from the RANDOM.ORG domain.\" To the left and right of the main content, a live chat stream shows messages from users \"glowbg27\" and \"Nightbot,\" with Nightbot posting a link: \"https://tbn.bz/NzkS8kS9\". Below the chat, a webcam feed shows a man with a beard and dark hair wearing a dark shirt. In the center of the screen, a list of names is being randomized. While the initial list starts with names like \"Jay Goins\" and \"Carl Hagedorn,\" the scene shifts to show a new randomized result where \"Michael Loguercio\" is now listed first. The footer of the page contains the text \"CASEBREAKS.COM\" and a copyright notice stating \"\u00a9 1998-2023 RANDOM.ORG.\""
+}

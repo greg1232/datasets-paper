@@ -1,0 +1,15 @@
+{
+  "video_id": "4af197e9ed93ac261d6aa68fb92b335c",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features Nitish Kumar, the Chief Minister of Bihar, wearing a dark suit and tie, speaking into multiple microphones, including one with an \"ANI\" logo. He is surrounded by other men in formal attire. Small inset portrait photos of officials, including \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\" (Santosh Suman) and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930\" (Sumit Kumar), appear on the right side of the screen. A red and yellow ticker runs across the bottom, while a red banner at the top reads \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 \u2018\u092a\u093f\u0915\u094d\u091a\u0930\u2019 \u092c\u093e\u0915\u0940 \u0939\u0948\". The caption \"\u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930, CM, \u092c\u093f\u0939\u093e\u0930\" appears above the CM. The bottom ticker text evolves across the sequence, starting with \"PM \u0928\u0947 \u092c\u093f\u0939\u093e\u0930 \u0915\u0947 \u0926\u094b\u0928\u094b\u0902 \u0921\u093f\u092a\u094d\u091f\u0940 CM \u0915\u094b \u092c\u0927\u093e\u0908 \u0926\u0940\" and shifting to \"PM \u0928\u0947 \u092c\u093f\u0939\u093e\u0930\". Text on the left side of the frames mentions \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\", \"\u0921\u093f\u092a\u094d\u091f\u0940 CM\", \"\u0936\u0924\u094d\u0930\u0941\u0918\u094d\u0928 \u091a\u094c\u0927\u0930\u0940\", and \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\". A timestamp of \"10:04 PM\" is visible in the bottom right corner."
+}

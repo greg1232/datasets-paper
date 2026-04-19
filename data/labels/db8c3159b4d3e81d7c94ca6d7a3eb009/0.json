@@ -1,0 +1,15 @@
+{
+  "video_id": "db8c3159b4d3e81d7c94ca6d7a3eb009",
+  "url": "./data/segments/3OnnmWsJTLM-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.388,
+    0.646,
+    0.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long blonde hair stands in a vast, open field of tall green grass under a bright, hazy sky. She is wearing a light-colored sleeveless top and patterned leggings. Throughout the sequence, she holds a colorful kite with orange, green, and blue sections and long trailing ribbons. Initially, she holds the kite high above her head, stretching her arm upward toward the sky. As time progresses, she begins to lower the kite, bringing it closer to her head and shoulder. Her movement is fluid as she shifts her stance slightly, her arms moving in sync with the descent of the kite. The golden light of the horizon casts a warm glow over the landscape, highlighting the texture of the grass and the vibrant colors of the kite as she maneuvers it."
+}

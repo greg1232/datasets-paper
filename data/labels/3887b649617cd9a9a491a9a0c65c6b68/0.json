@@ -1,0 +1,15 @@
+{
+  "video_id": "3887b649617cd9a9a491a9a0c65c6b68",
+  "url": "./data/segments/3INb3jiuu6g-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.585,
+    1.755,
+    2.925,
+    4.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast segment captures a scene inside a legislative chamber with green tiered seating. Several individuals are present, including men in traditional attire and suits, and a woman in a striped garment, all wearing protective face masks. Some seats are marked with signs that read \"DO NOT SIT.\" Overlaid on the footage is a news banner featuring the text \"NEWS NOW\" and \"JUSUN STRIKE,\" followed by \"REPS URGE FG TO ENSURE SPEEDY RESOLUTION.\" A \"plustv\" logo appears on the right, and a YouTube URL, \"www.youtube.com/plustvafrica,\" is displayed at the bottom. Across the sequence, the camera remains stationary while the people in the scene shift slightly; some lean back or adjust their positions. In the final sequence, a man in a white garment moves across the foreground, partially obscuring the view of the other attendees."
+}

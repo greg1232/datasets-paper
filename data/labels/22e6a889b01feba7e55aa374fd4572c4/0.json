@@ -1,0 +1,15 @@
+{
+  "video_id": "22e6a889b01feba7e55aa374fd4572c4",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-300.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.339,
+    1.017,
+    1.694,
+    2.372
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt with the white text \"ION NEVER DO SHIT AT WO\" speaks into a professional black microphone. He is seated in a room that appears to be a clothing store or studio, with several framed pictures on the wall and a white mannequin wearing a white shirt and grey pants behind him. To the right, racks of colorful clothing are visible. In the lower corners of the scene, there are two logos: one on the left featuring a red and white graphic and the text \"TAY\", and one on the right featuring the red text \"TAY\" with smaller red text below it. Across the sequence, the man remains in the same position, speaking with subtle shifts in his facial expressions and slight movements of his head and mouth as he talks."
+}

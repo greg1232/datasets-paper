@@ -1,0 +1,15 @@
+{
+  "video_id": "cfd5026a3697ae0e1743753b8fcfc345",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-094.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical setting, a person wearing blue scrubs and purple gloves holds up a smartphone to display a chest X-ray image. They are standing next to a person lying on a medical bed, who is partially visible and wearing light-colored clothing. In the background, red medical carts and another person in pink pants can be seen. A small bedside table holds a grey basin and a blue container. Across the bottom of the scene, there is a graphic featuring a purple silhouette and the on-screen text \"Day 3\" inside a yellow circle and \"Sim Week\" next to a purple icon. As the sequence progresses, the person in blue scrubs shifts their position and moves the phone, while the person in pink pants in the background walks further away. The camera angle remains relatively steady, focusing on the interaction between the healthcare provider and the patient."
+}

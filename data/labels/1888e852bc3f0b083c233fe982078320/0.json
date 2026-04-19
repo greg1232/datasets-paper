@@ -1,0 +1,15 @@
+{
+  "video_id": "1888e852bc3f0b083c233fe982078320",
+  "url": "./data/segments/3phuyH7Y05U-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.296,
+    0.888,
+    1.479,
+    2.071
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A mirrored scene depicts a vast crowd of yellow-skinned characters in a simulated environment. The image is split horizontally, showing two identical rows of figures. In each row, a line of characters stands in the foreground against a backdrop of thousands of identical yellow figures engulfed in orange and yellow flames. The foreground characters wear various casual and formal clothes; one man wears a blue suit, another a green shirt with blue pants, and several women wear simple dresses. They are standing side-by-side, some with arms slightly raised or gesturing. The background is a dense mass of figures and fire that extends upward toward a dark ceiling. There is no movement or change between the mirrored sections, as the top half is a reflection of the bottom half, creating a symmetrical composition of a surreal, flaming crowd."
+}

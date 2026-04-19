@@ -1,0 +1,15 @@
+{
+  "video_id": "27866d58989f6e738c1eb9a3935cf6b5",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-240.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.43,
+    1.289,
+    2.148,
+    3.007
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with long dark hair and glasses performs in front of a backdrop of horizontal wooden blinds. He is wearing a white long-sleeved shirt under a dark blue vest adorned with intricate blue and red embroidery on the lapels. He stands behind a microphone on a stand, holding an acoustic guitar. In the foreground, the backs of several people's heads are visible, indicating an audience. The text \"ORCA\" appears in a white box on the right side of the scene. Across the sequence, the man continues singing, with his mouth open and head tilting slightly as he performs. His posture and the position of the microphone remain relatively constant, while his facial expressions shift slightly as he delivers his song."
+}

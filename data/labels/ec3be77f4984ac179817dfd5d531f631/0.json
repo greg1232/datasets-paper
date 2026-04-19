@@ -1,0 +1,15 @@
+{
+  "video_id": "ec3be77f4984ac179817dfd5d531f631",
+  "url": "./data/segments/3L_uHTClWfk-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.417,
+    1.25,
+    2.083,
+    2.917
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip features Joe Biden speaking in front of the White House. He is dressed in a dark blue suit, a white collared shirt, and a blue and white patterned tie. In the background, the white columns and facade of the White House are visible under a blue sky with scattered white clouds, with an American flag flying atop the building and a fountain flowing in the foreground. A small inset window in the lower-left corner shows a close-up of a person's hands being handcuffed. Across the sequence of frames, Biden remains in a static speaking pose, while the scenery and the inset footage of the handcuffs remain consistent without any significant movement or changes in composition. No text or logos are visible on the screen."
+}

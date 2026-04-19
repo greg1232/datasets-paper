@@ -1,0 +1,15 @@
+{
+  "video_id": "9c62069e7a0c2adffb979f6b80907ed8",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-160.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.751,
+    1.251,
+    1.752
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital landscape of abstract, glowing teal lines, dots, and geometric shapes floats against a dark, blurred background, creating a futuristic, data-driven atmosphere. There are no people or physical locations present; instead, the scene consists of shimmering light particles and interconnected network nodes. White text appears centrally and builds sequentially across the clip. It begins with the phrase \"DESIGNED TO GIVE YOU ALL OF,\" then expands to \"DESIGNED TO GIVE YOU ALL OF THE INFORMATION,\" and further develops to \"DESIGNED TO GIVE YOU ALL OF THE INFORMATION YOU.\" Finally, the text completes the sentence, reading \"DESIGNED TO GIVE YOU ALL OF THE INFORMATION YOU NEED TO.\" As the text evolves, the background elements shift subtly, with light streaks and data points drifting across the screen, maintaining a consistent color palette of deep greens and cyans."
+}

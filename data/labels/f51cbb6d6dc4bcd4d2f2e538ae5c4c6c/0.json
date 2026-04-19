@@ -1,0 +1,15 @@
+{
+  "video_id": "f51cbb6d6dc4bcd4d2f2e538ae5c4c6c",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-112.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.281,
+    0.844,
+    1.406,
+    1.969
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman wearing a striped button-down shirt and black over-ear headphones sits indoors in front of a plain wall and light-colored curtains. She is speaking toward the camera, with her facial expressions and mouth movements changing across the sequence. In the first frame, she has a wide smile with her teeth showing. By the second frame, her smile softens as she continues to speak. In the third frame, her mouth is nearly closed, and in the final frame, she is speaking again with a more neutral expression. To the left of her in every frame, the text \"Nancy Ramya\" is displayed in white on the screen. The background remains static throughout the clip, and the lighting is consistent, focusing on the woman from the chest up."
+}

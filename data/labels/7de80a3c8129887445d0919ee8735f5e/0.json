@@ -1,0 +1,15 @@
+{
+  "video_id": "7de80a3c8129887445d0919ee8735f5e",
+  "url": "./data/segments/3rrLMM3eyQc-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.458,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a panel of men sitting at a long table in an official setting, with several Israeli flags positioned behind them. The man on the left wears a white button-down shirt, while the man in the center wears a dark suit and red tie. Another man is partially visible on the far left, wearing a dark suit. The man in the white shirt remains relatively still, while the man in the dark suit keeps his head bowed, looking down at the table. On-screen graphics include a banner with the text \"FOREIGN NEWS\" and a headline that reads \"NUCLEAR PROGRAMME\" followed by \"ISRAEL EXPECTS I.A.E.A. TO GIVE IRAN CLEAR WARNING AHEAD\". A red \"SUBSCRIBE\" button and a website link \"WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE\" are displayed at the bottom. The \"plustv\" logo appears in the upper corners. The scene remains static across the sequence, with only slight movements in the subjects' posture."
+}

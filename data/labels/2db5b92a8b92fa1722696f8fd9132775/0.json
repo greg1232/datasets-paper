@@ -1,0 +1,15 @@
+{
+  "video_id": "2db5b92a8b92fa1722696f8fd9132775",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.584,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a light-colored long-sleeved shirt and light-wash jeans stands behind a dark table. On the table sits an open laptop displaying a financial chart and graph, along with a pair of white wired earbuds. The person's hands are visible, resting near the laptop and a white chair. A translucent overlay featuring the text \"TFNN.com\" and \"EDUCATING INVESTORS\" is centered on the screen. As the sequence progresses, the scene remains static in composition, but a blue gradient fade gradually washes over the entire frame. By the final moment, the background imagery of the person, laptop, and table becomes heavily obscured by a deep blue tint, while the white \"TFNN.com\" and \"EDUCATING INVESTORS\" text remains clearly visible and prominent in the center of the frame."
+}

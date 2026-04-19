@@ -1,0 +1,15 @@
+{
+  "video_id": "16389b4e5dcc5c5b817bf7d810ee612c",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.377,
+    1.131,
+    1.885,
+    2.64
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording begins on the website \"RANDOM.ORG\" on a page titled \"Dice Roller,\" which contains a tool to roll virtual dice. The browser then redirects to a Cloudflare security page that reads, \"Checking your browser before accessing www.random.org.\" This page states, \"This process is automatic. Your browser will redirect to your requested content shortly. Please allow up to 5 seconds...\" and includes \"DDoS protection by Cloudflare\" along with a specific Ray ID. Overlaid on the right side of the screen is a video featuring a man with a beard wearing a black shirt, positioned in a room with white walls and electronic equipment. Below him, text reads, \"Hit the SUBSCRIBE button down below!\" next to a red \"Subscribe\" button. As the sequence progresses, the word \"Redirecting...\" appears on the central security page while the video of the man remains static. A header for \"JASPYS CASEBREAKS.COM\" is visible throughout the overlay."
+}

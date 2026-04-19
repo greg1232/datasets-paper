@@ -1,0 +1,15 @@
+{
+  "video_id": "5a7ee701d872a819294a04310f46fb47",
+  "url": "./data/segments/3VCwl-aQ_oQ-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.442,
+    1.325,
+    2.208,
+    3.092
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a website called \"RANDOM.ORG\" which features a \"List Randomizer\" tool. The page contains an advisory warning that reads, \"Advisory: We only operate services from the RANDOM.ORG domain. Other sites that claim to be operated by us are impostors. If in doubt, contact us.\" A randomized list of ten names, including \"Ron Weasley\" appearing multiple times, is displayed. A chat window on the right shows a message from \"nightbot\" stating, \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/2NzsE8K9\". A banner at the bottom for \"CASEBREAKS.COM\" is visible. As the video progresses, a mouse cursor moves across the screen, clicking the \"Again!\" button at the bottom left. This action refreshes the list, causing the names in the \"List Randomizer\" section to reorder into a new random sequence."
+}

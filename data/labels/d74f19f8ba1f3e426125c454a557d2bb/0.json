@@ -1,0 +1,15 @@
+{
+  "video_id": "d74f19f8ba1f3e426125c454a557d2bb",
+  "url": "./data/segments/3phuyH7Y05U-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.583
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with curly brown hair, wearing a red short-sleeved shirt and a thin black cord necklace, is positioned in the center of the scene. He is indoors in a dimly lit space with blue-toned walls and a bright white light source visible to his right. Across the sequence, the man maintains a focused and slightly tense expression, looking toward something off-screen. His mouth is slightly open as he appears to be speaking or reacting. The camera remains stationary in a medium close-up shot, capturing minimal movement as he subtly shifts his head and facial muscles. There are no other people, objects, or legible text visible in the frames. The lighting creates a strong contrast between the shadowed side of his face and the glow coming from the light source behind him."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "3bb26dbd33642ef4fb7480d162d49387",
+  "url": "./data/segments/3mmDnftP1M8-Scene-073.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.0,
+    9.0,
+    15.0,
+    21.0
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light blue button-down shirt and a black over-the-ear headset with a microphone is positioned against a plain, neutral-colored wall. He is speaking and gesturing with both hands. In the first frame, he has his hands raised, with his right hand near his chest and his left hand extended outward. As the sequence progresses, he brings both hands closer together in front of him. He then transitions to placing his left hand on the side of his head, near the headset, while his right hand remains lowered. Finally, he returns to gesturing with both hands raised, palms facing inward. Each frame contains the text \"Ashish Raichur\" in the bottom-left corner. The background and his attire remain constant throughout the clip, while his facial expressions and hand movements shift to emphasize his speech."
+}

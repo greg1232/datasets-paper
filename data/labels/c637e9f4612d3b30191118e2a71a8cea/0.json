@@ -1,0 +1,15 @@
+{
+  "video_id": "c637e9f4612d3b30191118e2a71a8cea",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-402.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.089,
+    0.266,
+    0.443,
+    0.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with her hair tied up and wearing black headphones sits at a table in a studio setting. She is wearing a dark green t-shirt with red and white text that reads \"BOSS TALK 101\". She sits behind a professional black microphone on a stand. Behind her is a black backdrop featuring a logo that says \"BOSS TALK 101\" followed by \"It's A League Hustle\" and \"PODCAST\". Other text on the backdrop includes \"About It!\" and \"with Us\". To her right on the table is a small red and white logo that says \"BOSS TALK 101\". On the wall to her left is a framed picture of a person's hand. Across the sequence, the woman remains seated and maintains a similar posture, though she slightly shifts her gaze and expression while facing the microphone."
+}

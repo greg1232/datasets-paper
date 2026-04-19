@@ -1,0 +1,15 @@
+{
+  "video_id": "8324d377cc8284f7bd47d20ac7e374b1",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-498.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, large over-ear headphones, and a black hoodie with the word \"BOSS\" printed in gold letters across the chest is seated in a studio. He wears a gold chain around his neck and is positioned in profile, facing toward a professional microphone mounted on a black boom arm. Behind him is a white backdrop featuring a repeating logo consisting of five gold stars and the words \"UNION HUSTLE.\" To his right, a blue sign reads \"Where BOSSES Talk!\". A black object with the text \"TALK\" is visible on the table, alongside a black container featuring a logo that says \"BOSS TALK ON BOSS\". Throughout the sequence, the man remains still in his seated position, maintaining a neutral expression while looking forward, with no significant movement or change in the environment."
+}

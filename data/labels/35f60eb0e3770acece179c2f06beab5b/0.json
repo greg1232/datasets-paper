@@ -1,0 +1,15 @@
+{
+  "video_id": "35f60eb0e3770acece179c2f06beab5b",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-306.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.525,
+    0.875,
+    1.225
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game screen displays a football game in a massive stadium filled with spectators. On the field, players in dark uniforms are positioned near the end zone, where the word \"COMMANDERS\" is written in large yellow letters. A scoreboard at the top shows \"1st & Goal,\" the time \"4:00,\" and a countdown timer that changes from \"1:16\" to \"1:15.\" On-screen overlays include \"MOMENTUM LEGEND,\" \"X FACTOR,\" and \"HOLD THE LINE.\" A small picture-in-picture window in the lower-left corner shows a blonde man wearing a dark blue shirt. The scene remains mostly static across the frames, with the main action being the countdown timer decreasing by one second. Logos for Nike and various sponsorship banners, including \"SUPER BOWL CHAMPIONS,\" are visible along the sidelines and within the game's interface."
+}

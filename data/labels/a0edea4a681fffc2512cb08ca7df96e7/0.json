@@ -1,0 +1,15 @@
+{
+  "video_id": "a0edea4a681fffc2512cb08ca7df96e7",
+  "url": "./data/segments/3F2rz23IKUk-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    13.195,
+    39.585,
+    65.975,
+    92.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and light brown hair stands in a room with light-colored walls and a dark gray horizontal trim. He is wearing a black t-shirt featuring a graphic of a face and the text \"Knuth,\" along with a blue lanyard and a name tag. In the foreground, the top of a black computer monitor is visible. The man is speaking and gesturing with his hands. Initially, his hands are held together in front of his torso. As the scene progresses, he lowers his hands slightly and begins to move them apart and then back together, shifting his posture and facial expression while continuing to talk. He remains the sole person visible throughout the sequence, standing in a static indoor environment."
+}

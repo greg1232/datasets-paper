@@ -1,0 +1,15 @@
+{
+  "video_id": "768522e5c419fbe94756ce05c2c15c9b",
+  "url": "./data/segments/3fokLGPK15Q-Scene-096.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.355,
+    4.065,
+    6.775,
+    9.485
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair tied back in a ponytail stands before a purple textured backdrop. She wears a black t-shirt with the white text \"WHO'S IN YOUR\" visible across the chest, and a small beige headset microphone is positioned near her mouth. In the initial frames, she looks slightly to her right, speaking with a neutral expression. As the sequence progresses, she turns her head further to the right and raises both hands in a gesturing motion, with her palms facing inward. By the final frame, she turns her gaze back toward the center, continuing to speak with a focused expression. The lighting is consistent across the scene, and no other people or objects are visible."
+}

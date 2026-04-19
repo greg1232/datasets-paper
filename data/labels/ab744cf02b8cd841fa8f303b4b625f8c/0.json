@@ -1,0 +1,15 @@
+{
+  "video_id": "ab744cf02b8cd841fa8f303b4b625f8c",
+  "url": "./data/segments/3P1vSUbet40-Scene-0317.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.073,
+    0.219,
+    0.365,
+    0.511
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a studio setting, wearing a black t-shirt with \"CHECK IT!\" printed in white, a black baseball cap, and headphones. He wears a gold chain around his neck. He is positioned in front of a professional microphone and is looking toward someone off-screen to his left. The background is white with black text and star graphics. On-screen graphics include logos that read \"BOSS TALK 101\" and \"PODCAST\". To the man's right, a screen displays \"BOSS TALK 101\". Throughout the sequence, the man remains in a similar seated position, slightly shifting his head and expression while maintaining his gaze toward the side. The scene is static, with the only movement being the man's subtle facial expressions and head posture as he listens or prepares to speak."
+}

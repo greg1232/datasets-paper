@@ -1,0 +1,14 @@
+{
+  "video_id": "3b53ab1eee46a50753cf163d06c8583e",
+  "url": "./data/segments/3fokLGPK15Q-Scene-119.mp4",
+  "n_frames": 3,
+  "frame_timestamps": [
+    0.035,
+    0.105,
+    0.175
+  ],
+  "grid_layout": "1x3",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person stands on a circular stage within a dark venue, likely a conference or event space. The stage is illuminated by dynamic, intersecting beams of purple and blue laser lights that cut through the darkness. In the background, a large screen displays the word \"SLUSH\" in bold, white, stylized capital letters. The person on stage is dressed in light-colored clothing and stands near a small table or podium. As the scene progresses, the lighting shifts and becomes dimmer; the vibrant laser beams fade, and the background screen begins to darken. By the final sequence, the illumination has significantly decreased, leaving the person and the \"SLUSH\" logo in a much more muted, shadowy environment, with most of the bright light beams disappearing from view."
+}

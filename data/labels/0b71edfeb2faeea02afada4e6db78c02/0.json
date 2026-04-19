@@ -1,0 +1,15 @@
+{
+  "video_id": "0b71edfeb2faeea02afada4e6db78c02",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-097.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.76,
+    2.281,
+    3.802,
+    5.323
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark shirt and a headset is seen in a small video overlay in the bottom-left corner of a video game screen. In the first frame, the game shows a player card for \"EMMANUEL OGBOH\" with a rating of \"80\" and \"LE\" designation, set against a purple background with the text \"ULTIMATE T\" partially visible. The man in the overlay is smiling and waving. In the second frame, the game screen transitions to a bright green, glowing light effect. The third frame shows a black and silver pack with a large \"UT\" logo on a dark red background, with the text \"SMALL PRESENT\" in the top-left and \"YOU HAVE 18 NEW NOTIFICATIONS\" at the bottom. In the final frame, the pack opens to reveal another \"80\" rated player card for \"CHASE\" in a trophy-filled room, while the man in the overlay continues to watch."
+}

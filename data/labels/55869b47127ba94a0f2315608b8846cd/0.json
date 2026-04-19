@@ -1,0 +1,15 @@
+{
+  "video_id": "55869b47127ba94a0f2315608b8846cd",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-216.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.448,
+    1.345,
+    2.242,
+    3.139
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the text \"ION NEVE DO SH7\" is speaking into a professional microphone. He is positioned in a room that appears to be a studio or shop, with a wall behind him covered in framed photographs. To his right is a white mannequin wearing a white garment. The background also shows racks of clothing and a black chair. Two logos are visible on the screen: one on the left showing a circular emblem with the word \"SIGHT\" and another on the right with red stylized text. Across the sequence, the man remains in the same position, slightly shifting his facial expressions and mouth movements as he speaks, while the camera remains stationary."
+}

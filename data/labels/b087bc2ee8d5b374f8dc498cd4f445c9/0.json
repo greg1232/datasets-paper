@@ -1,0 +1,15 @@
+{
+  "video_id": "b087bc2ee8d5b374f8dc498cd4f445c9",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-232.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.813,
+    2.44,
+    4.067,
+    5.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the text \"ION NEVER DO SHIT\" printed in white is seated in a room filled with framed photos on the wall and a white mannequin wearing a white shirt in the background. He is positioned in front of a professional black microphone. Throughout the sequence, the man is speaking, his facial expressions shifting slightly as he talks. In the final frame, he raises his left hand, pointing his index finger upward to emphasize a point. Two logos appear on the screen: one on the left featuring a stylized \"R\" inside a circle and the words \"REAL TALK\" below it, and another on the right with the red text \"BODILY FULLY TOT\". The background remains static, featuring clothing racks and various framed images, while the man remains the central focus of the action."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f6f805f896b74c36286e56a600cf7e79",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.683,
+    5.05,
+    8.417,
+    11.783
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen opening a sports card package on a themed table featuring palm tree graphics. The scene begins with a yellow envelope resting atop a white cardboard box. As the sequence progresses, a person's hands reach in to reveal a gold-bordered trading card featuring a baseball player, with the name \"DAWSON\" printed at the bottom and an autograph above it. The card is numbered \"52/20\". The environment includes a small electronic device and several logos for \"JASPYS\" and \"CASEBREAKS.COM\". In the lower portion of the frames, a small inset window shows a man wearing a dark blue shirt observing the process. The sequence concludes with a close-up of the signed card being held up to the camera, showcasing the player in a white and blue uniform."
+}

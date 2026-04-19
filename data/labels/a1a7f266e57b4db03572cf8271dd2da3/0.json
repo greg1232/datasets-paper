@@ -1,0 +1,15 @@
+{
+  "video_id": "a1a7f266e57b4db03572cf8271dd2da3",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.355,
+    1.064,
+    1.773,
+    2.482
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An ambulance is parked on a sandy surface in front of a white building under a clear blue sky. A man wearing a white t-shirt, dark trousers, and a white cap is seen interacting with the back of the vehicle. The ambulance has its rear doors open, revealing a patient lying on a stretcher inside. The vehicle's exterior features a star-of-life symbol and the word \"AMBULANCE\" printed above the rear. As the scene progresses, the man moves closer to the vehicle and eventually reaches in to close one of the rear doors. A spare tire is mounted on the back of the ambulance. The on-screen text \"On a daily basis there are 3 to 4 cases\" appears across the bottom of the later frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "50ad586c1d3ea3d7baaaf91bb8a55bcb",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-303.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.495,
+    37.485,
+    62.475,
+    87.465
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of video conference calls displays a grid of participants in various indoor settings, such as offices and rooms with bookshelves. The attendees are mostly men, with a few women, dressed in casual attire like t-shirts and button-down shirts. Some participants wear eyeglasses or headsets. On-screen text identifying individuals includes \"Jerry Mahuli,\" \"Howard Silverman,\" \"Patric Murphy,\" \"Ian Burke,\" \"Seymour Heru,\" \"Bill Ratti,\" \"Meg Carmichael,\" \"Francis Pittman,\" and \"Michael Ohrent.\" Throughout the sequence, the group configuration shifts as different sets of people appear and disappear from the grid. Some participants remain constant, while others are replaced by new faces. The backgrounds remain static for each individual, showing home office environments with monitors, books, and walls, while the overall arrangement of the gallery view updates as the call progresses."
+}

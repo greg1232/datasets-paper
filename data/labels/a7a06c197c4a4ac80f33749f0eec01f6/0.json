@@ -1,0 +1,15 @@
+{
+  "video_id": "a7a06c197c4a4ac80f33749f0eec01f6",
+  "url": "./data/segments/3QD9oO6sRns-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.792,
+    2.375,
+    3.958,
+    5.542
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds and manipulates a cardboard shipping box over a desk. The box features printed text including \"848\", \"1/120 Count\", \"PKG0090402\", and a barcode. Part of a sentence reads \"certificate for this product shipment please refer to www.topps.com/coa\". The box is moved from a tilted position to a flat view, then tilted again. In the background, a logo for \"JASPYS CASEBREAKS\" and the website \"CASEBREAKS.COM\" are visible on a dark surface and as an on-screen overlay. A small inset video window shows a man wearing a black t-shirt and a black baseball cap sitting at a desk with equipment. As the sequence progresses, the cardboard box is shifted to reveal more of its side and top labels before being tilted away from the camera."
+}

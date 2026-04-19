@@ -1,0 +1,15 @@
+{
+  "video_id": "fe9442fcfb1681e7b6c698e8805e0f4c",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-086.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.417,
+    1.251,
+    2.085,
+    2.92
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video provides a sequence of close-up shots inside a vehicle's cabin. Initially, the view focuses on the steering wheel and a portion of the dark dashboard. The camera then shifts to a closer angle of the steering wheel's textured grip and the surrounding interior panels. The scene transitions to the center console, revealing a wooden-grain accent panel and a circular control knob. Finally, the perspective moves to the passenger side or center dash area, showing a compartment with a small flip-open door and a storage slot. The interior features a combination of dark plastic and brown fabric upholstery. No people are visible in the frames, and there is no legible on-screen text or logos present throughout the sequence."
+}

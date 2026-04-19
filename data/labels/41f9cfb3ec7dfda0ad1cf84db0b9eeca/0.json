@@ -1,0 +1,15 @@
+{
+  "video_id": "41f9cfb3ec7dfda0ad1cf84db0b9eeca",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.747,
+    2.24,
+    3.733,
+    5.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a workshop environment focused on mechanical repairs. Initially, the view is a blurred wide shot showing various tools, a blue plastic container, and a cardboard box scattered across a workbench. As the sequence progresses, the focus shifts and sharpens to a close-up of an open engine casing. The interior of the engine is visible, revealing several metallic gears, shafts, and a large circular dark purple component. The camera moves closer to the machinery, highlighting the intricate assembly of the gears and the white outer rim of the engine housing. In the background, an orange tool or part is visible on the workbench alongside other small mechanical components. No people, clothing, or on-screen text are visible in the frames."
+}

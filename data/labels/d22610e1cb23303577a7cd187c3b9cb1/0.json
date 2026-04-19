@@ -1,0 +1,15 @@
+{
+  "video_id": "d22610e1cb23303577a7cd187c3b9cb1",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.095,
+    0.285,
+    0.475,
+    0.665
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A soccer player in a blue jersey and green shorts is practicing on a grass field in a stadium. In the background, red stadium seats are visible, with large white letters forming part of a word and repeating green banners featuring the text \"COVIRAN\" in white capital letters. Two other players in similar blue and green training gear are present in the distance. The main player is seen moving across the field, initially walking past a soccer ball. As the sequence progresses, he controls the ball with his foot, flicking it upward. By the end of the sequence, he is balanced on one leg, having popped the ball into the air in front of him. Small white markers are placed on the turf, and the Real Madrid club crest is visible in the upper sections of the stadium."
+}

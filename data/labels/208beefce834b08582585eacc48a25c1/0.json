@@ -1,0 +1,15 @@
+{
+  "video_id": "208beefce834b08582585eacc48a25c1",
+  "url": "./data/segments/3F2rz23IKUk-Scene-074.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.225,
+    30.675,
+    51.125,
+    71.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a classroom or lecture hall, several people are seated in rows of chairs facing a projection screen and a front table. A person in a black t-shirt stands at the front table, moving across it while another person in a black shirt and khaki pants stands nearby. In the foreground, several audience members are seen from behind, including individuals in black t-shirts and one person with blonde hair wearing a light-colored shirt. The projection screen displays a light blue background with small, illegible text at the top. As the scene progresses, the person in khaki pants exits the frame to the left, while the person in the black t-shirt leans over the table. The audience remains mostly stationary, though some shift their posture. Equipment on the table includes papers, laptops, and small objects, and a set of storage cabinets is visible against the back wall."
+}

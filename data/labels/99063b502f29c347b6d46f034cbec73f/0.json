@@ -1,0 +1,15 @@
+{
+  "video_id": "99063b502f29c347b6d46f034cbec73f",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video depicts a meeting of the \"House Committee on General, Housing, and Military Affairs\" on \"April 12, 2019,\" focused on \"S.23 Increasing the Minimum Wage,\" as indicated by on-screen text and a green banner. The setting is a formal room featuring a projected \"Memorandum\" on a screen and a mirrored wall reflecting the committee's name. Several individuals are present, including a man with a beard and glasses wearing a dark blazer, and another man in a light-colored vest. In the initial scenes, the bearded man listens while the man in the vest speaks. As the sequence progresses, the bearded man becomes more active, gesturing with his hand and speaking. A woman with blonde hair is seen in profile, listening to the discussion. The \"ORCA\" logo is visible in the bottom left corner throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b1228c16f6971300382699bb124790b5",
+  "url": "./data/segments/3Smz5pevbI4-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.734,
+    2.202,
+    3.67,
+    5.138
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static screen displays \"Acknowledgments\" in large, centered text at the top. On the left side of the screen, names are listed under three geographic or institutional headings: \"MIT\" followed by Rebecca Saxe, Laura Ligouri, and Nir Jacoby; \"Other US\" followed by Nour Ktely, Adam Waytz, and Mina Ocara; and \"Hungary\" followed by Hanna Szekeres and Anna Kende. To the right of these lists, names are listed under the heading \"Beyond Conflict,\" including Tim Phillips, Lee-Or Karlinsky, and Ina Breuer. On the right side of the screen, three logos are stacked vertically: the Open Society Foundations logo featuring a stylized spiral, the blue and white DARPA logo, and a colorful circular emblem for the \"DEPARTMENT OF THE INTERIOR\" and \"Science & Technology.\" The scene remains completely motionless across all frames, with no change in the text, logos, or layout."
+}

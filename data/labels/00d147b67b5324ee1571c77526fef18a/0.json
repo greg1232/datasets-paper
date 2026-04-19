@@ -1,0 +1,15 @@
+{
+  "video_id": "00d147b67b5324ee1571c77526fef18a",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-361.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.433,
+    1.3,
+    2.167,
+    3.033
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game takes place in a large stadium with green turf and red boundary lines. A player in a white uniform carries the ball, while several players in black uniforms pursue him. In an inset window, a man with blond hair watches the game. A green circular indicator with the name \"Chubb\" appears beneath the player in white. As the sequence progresses, the player in white is tackled by a defender in black, falling to the ground. The defender stays on top of him. The man in the inset window reacts with a smile and then puts his hand to his forehead. Other players in black and white uniforms are scattered across the field. The stadium background features red walls and distant spectators. In the final moments, the tackled player in white is on the ground while a teammate in white stands nearby."
+}

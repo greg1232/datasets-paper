@@ -1,0 +1,15 @@
+{
+  "video_id": "f5c96e307540f53a6cca928e7c8b16f2",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-398.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.583
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played on a green field under bright lights, with a digital broadcast overlay at the top showing \"1st & 10\", \"14\", \"EXO 7\", \"3rd\", \"47\", and \":30\". The text \"SUPER BOWL CHAMPIONS\" and \"Q. SMITH 1516, 123 YDS, 1 TD, 1 INT\" are also visible. A player in a white jersey and helmet carries the ball while being pursued by defenders in black jerseys; one defender wears number 17 and another wears number 43. In the bottom left of each frame, a smaller window shows a blonde man in a blue shirt wearing a headset. As the action progresses, the player in white moves forward while the defender in jersey 43 closes in. The background features a crowd in the stands and other players scattered across the field."
+}

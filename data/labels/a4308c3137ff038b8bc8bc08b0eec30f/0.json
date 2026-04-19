@@ -1,0 +1,15 @@
+{
+  "video_id": "a4308c3137ff038b8bc8bc08b0eec30f",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-071.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.454,
+    1.362,
+    2.271,
+    3.179
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A gamer is seen in a picture-in-picture overlay in the bottom left of a video game menu screen titled \"UNOPENED PACKS.\" The man has blonde hair and wears a dark navy blue t-shirt; he appears to be speaking and reacting as the scene progresses. The menu displays several digital loot packs, including items labeled \"BLITZ PRESENT,\" \"KRAMPUS LOGIN PACK,\" and \"GHOST OF MUT LOGIN PACK.\" In the top right corner, several currency counters and a level indicator are visible, including the numbers \"173,037,\" \"14,600,\" \"2,343,543,\" and \"LV 19.\" A \"BACK\" button is located at the bottom of the menu. As the video progresses, the man's facial expressions shift from a neutral, talking state to an open-mouthed look of surprise or excitement, while the game menu remains static."
+}

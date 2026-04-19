@@ -1,0 +1,15 @@
+{
+  "video_id": "77c667417478b8ea26b9480f260e564f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser window with a complex conceptual map on a dark background. The map features various icons and text nodes connected by curved blue lines. Prominent labels include \"BEER\" and \"PLATFORM FOR CHANGE\" within red and white boxes. Other visible text nodes include \"Rural Community Food System,\" \"Insights | Introduction to Rumi,\" \"Future of Society by Systemenith,\" and \"Truth & Learning by Systemenith\" in the browser tabs. Small circular icons, some containing figures or symbols, are scattered throughout the network, with labels such as \"play\" and \"Imagine the unimaginable\" nearby. In the top right corner, a video call window shows a man with a grey beard wearing a black cap and a dark shirt, speaking to the camera. The visual composition remains static across the sequence, with no movement in the diagram or change in the man's position."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ef993276b328e83feec2b303d247b70f",
+  "url": "./data/segments/3TQScsCOS2k-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.51,
+    4.53,
+    7.55,
+    10.57
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with brown hair and a beard, identified by a pink on-screen text box as \"JACK BLACK,\" is seated in front of a digital backdrop depicting a lush, green jungle landscape with a waterfall and mist. He is wearing a red, blue, and grey plaid button-down shirt. To his left, the logo for \"JUMANJI WELCOME TO THE JUNGLE\" is visible. Across the sequence, the man is speaking, with his head tilting and his facial expressions shifting as he talks. In the initial frame, he is looking slightly downward and to the side with his mouth open, but in the subsequent frames, he shifts his gaze forward toward the camera, maintaining a neutral yet engaged expression while continuing to speak. The background and the \"JUMANJI WELCOME TO THE JUNGLE\" logo remain static throughout the clip."
+}

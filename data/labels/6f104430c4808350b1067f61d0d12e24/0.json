@@ -1,0 +1,15 @@
+{
+  "video_id": "6f104430c4808350b1067f61d0d12e24",
+  "url": "./data/segments/3JYDT8lap5U-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard, wearing a grey blazer over a white shirt and an event badge, stands on a stage giving a presentation. He is positioned to the left of a large screen displaying slide content. The setting is a conference, indicated by the \"europython\" logo and the text \"Edinburgh 23 29 July 2018\" visible at the bottom of the frames. In the first frame, the screen reads \"LEARNING BY EXAMPLE,\" \"Today we are...\", and \"BUILDING A TECH STARTUP.\" By the second frame, the slide changes to \"BUILDING A TECH STARTUP\" and \"CRYPTO-ML LTD.\" with bullet points including \"Let's jump the hype-train!\", \"A large scale crypto-analysis platform,\" \"Heavy compute data analysis, Transform, Fetch...\", and \"Going deep running predictions on LSTMs.\" The final frames show the man gesturing while the screen adds the question \"CAN WE SURVIVE THE 2017 CRYPTO-CRAZE?\" at the bottom."
+}

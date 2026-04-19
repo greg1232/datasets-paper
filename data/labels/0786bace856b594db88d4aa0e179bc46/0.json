@@ -1,0 +1,15 @@
+{
+  "video_id": "0786bace856b594db88d4aa0e179bc46",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.901,
+    1.502,
+    2.102
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video is set in a dimly lit indoor environment, appearing almost entirely dark in the initial stages. As the sequence progresses, a small, light-colored object, possibly a toy or a piece of equipment, becomes visible in the lower center of the scene. This object has a rectangular shape with small markings or details on its surface. To the right of the object, a vertical white structural element, such as a door frame or molding, is partially illuminated, providing a point of contrast against the surrounding shadows. There are no people, text, or logos visible in the frames. The scene shifts from complete darkness to a state where the object and the structural element are faintly revealed, though the overall environment remains very dark."
+}

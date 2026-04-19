@@ -1,0 +1,15 @@
+{
+  "video_id": "e992b8b28e2925bcdca86eb1e2478194",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-092.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.296,
+    0.888,
+    1.481,
+    2.073
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A medical monitor sits on a white table in a healthcare setting, surrounded by equipment and a red fabric bag. The screen displays multiple waveforms and several warning messages in red and yellow boxes, including \"Saturation signal low,\" \"ASP No Sensor Touch when sensor connected,\" and \"PAP No Sensor Touch when sensor connected.\" A green numerical value of \"142\" is visible in the top right of the monitor. A purple silhouette of a person accompanies the text \"Day 3\" in a pink circle, and a logo for \"Sim Week\" appears in the bottom right. As the scene progresses, the monitor's display remains largely the same, although the green number in the top right changes from \"142\" to \"141\" in the final frame. No people are visible in the actual scene; only the static monitor and surrounding medical supplies are shown."
+}

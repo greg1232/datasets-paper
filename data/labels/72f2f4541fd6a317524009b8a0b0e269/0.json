@@ -1,0 +1,15 @@
+{
+  "video_id": "72f2f4541fd6a317524009b8a0b0e269",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-116.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.31,
+    3.929,
+    6.548,
+    9.167
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a simulation training environment, a person wearing a dark jacket, glasses, and a white face mask observes a medical monitor. The top frames focus on the screen, which displays a laparoscopic view of surgical tools manipulating tissue. A small pink female silhouette icon and the text \"Day 4\" appear in the lower left, while a graphic of books and the text \"Sim Week\" are in the lower right. As the scene shifts to the bottom frames, the camera pulls back to reveal a wider view of the room. The observer stands next to another person wearing a white coat and a face mask, who is actively using laparoscopic instruments on a training mannequin. The background includes a medical supply wall with various bins and organizers, and a second monitor showing a pinkish interior view. The text \"Day 4\" and \"Sim Week\" remain visible on the screen."
+}

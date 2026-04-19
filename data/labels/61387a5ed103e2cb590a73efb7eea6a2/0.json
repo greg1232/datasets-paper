@@ -1,0 +1,15 @@
+{
+  "video_id": "61387a5ed103e2cb590a73efb7eea6a2",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-119.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.592,
+    4.775,
+    7.958,
+    11.142
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a collectible card product atop a themed mat featuring palm trees and a beach scene. In the initial sequence, a hand reaches for and removes a yellow package from a white box. The setting includes a background with \"JASPYS LIVE\" and \"CASEBREAKS.COM\" logos and a small person sitting at a desk visible in a screen-in-screen inset. As the sequence progresses, the person reveals a sports trading card featuring an athlete in a red cap and a signature that reads \"Brian Larkin.\" The person then places the card into a clear plastic protective sleeve. The environment is consistent throughout, featuring various card-related equipment and a digital display showing the same individual in a dark t-shirt monitoring the process."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "82aa4d12e4b31639308a6b21123eee11",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.237,
+    0.396,
+    0.554
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person uses a red spatula with a wooden handle to stir a large bowl of cooked pasta. The scene is set on a light-colored wooden surface, where a large metal mixing bowl dominates the center, accompanied by a small white plate and a red bowl, both containing more pasta. The person's hand is visible on the left side of the bowl, moving the spatula through the food to mix it. Across the sequence, the spatula moves from the left side toward the center and right, shifting the pasta as it blends. In the top left corner of each scene, there is a logo and text that reads \"UCAR CENTER FOR SCIENCE EDUCATION.\" The lighting is bright, and the pasta appears to be a spiral or rotini shape. The action progresses from a steady stir to a more rapid motion by the end of the sequence."
+}

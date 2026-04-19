@@ -1,0 +1,15 @@
+{
+  "video_id": "c4f713b538ad3a55de31cf6d72d18dc9",
+  "url": "./data/segments/3P1vSUbet40-Scene-0004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.589,
+    1.767,
+    2.946,
+    4.124
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a dark, textured background featuring the silver text \"BOSS TALK 101\" centered on the screen. As the sequence progresses, the text remains, but the word \"PODCAST\" appears in small red letters underneath. The scene then transitions through a series of fast-paced visual glitches and distortions, where the screen flashes white and the text \"BOSS TALK 101\" becomes fragmented and layered with red highlights. In the final segment, a man wearing a black shirt and sunglasses is partially visible on the right side of the frame, seated in a black chair. The background remains dark and textured, while the words \"BOSS TALK 101\" and \"PODCAST\" continue to appear in a distorted, glitchy manner across the screen, accompanied by the word \"HUSTLE\" and a row of small yellow stars on the left."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e5cd4d202fb073bd4b2665a3ad9e3eb8",
+  "url": "./data/segments/3Ma0wGTm5QQ-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.087,
+    0.262,
+    0.438,
+    0.612
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair, wearing a red t-shirt, is centered in the frame against a stylized, colorful graphic background. The background consists of blue, green, and white abstract shapes, including a white fence and rounded hills. The man's red shirt features a logo with the white text \"Learning in Hand\" and smaller text below it that reads \"WITH TONY VINCENT\". Across the sequence, the man is speaking, and his facial expression changes as his mouth opens and closes. He remains in a static, medium shot position throughout the clip. No other people or physical objects are present in the scene, as the environment is a digital graphic. The movement is limited to his facial expressions and slight shifts in posture as he speaks directly to the camera."
+}

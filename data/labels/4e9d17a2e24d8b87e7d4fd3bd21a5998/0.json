@@ -1,0 +1,15 @@
+{
+  "video_id": "4e9d17a2e24d8b87e7d4fd3bd21a5998",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-079.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.824,
+    23.473,
+    39.122,
+    54.771
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a series of financial stock charts with technical indicators, focusing on various assets. The top section of the screen shows candlestick charts with moving average lines and letter markers like \"E,\" \"F,\" \"G/C,\" and \"L.\" The charts include indicators such as \"MACD (12,26,9,1,1,UpColorDefault...,\" and \"Stochastic Slow (High,Low,Close,14,3,3,1,2,80,20,80).\" Specific text overlays appear, such as \"Vidra Color\" and \"Elc power box bt.\" As the video progresses, the focus shifts to different tickers, including \"Exxon Mobil\" and \"Multinatural oil.\" The layout consists of multiple mirrored or similar panes that update as different assets are analyzed. The color palette is dominated by green and red candlesticks against a light background, with blue and orange lines representing different technical trends and projections. The on-screen data changes slightly across the sequence, reflecting different market movements and timeframes."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4a604a5309970f72d34638dd8ac4c3f9",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-360.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark curly hair tied up in a bun sits in a podcast studio, wearing large black over-ear headphones and a dark green t-shirt with a red and white circular graphic. She is positioned behind a microphone and a dark desk. Behind her is a black backdrop featuring white text and logos, including \"BOSS TALK 101,\" \"It's A League Hustle,\" \"CAST,\" and \"About It!\". To her left, a framed picture hangs on the wall showing a close-up of hands. On the desk, small signs with the \"BOSS TALK 101\" logo are visible. Throughout the sequence, the woman remains seated and relatively still, maintaining a serious or contemplative facial expression with her eyes slightly closed and her head tilted slightly. There are no significant changes in her position, clothing, or the surrounding environment across the frames."
+}

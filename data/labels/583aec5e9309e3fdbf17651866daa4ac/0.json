@@ -1,0 +1,15 @@
+{
+  "video_id": "583aec5e9309e3fdbf17651866daa4ac",
+  "url": "./data/segments/3a0FD1177FA-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.209,
+    0.626,
+    1.043,
+    1.46
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with a white watch on their left wrist is working on a craft project atop a white gridded mat. They are using both hands to fold a small, cream-colored piece of cardstock. To the left, there is a piece of green patterned paper with white floral designs, and to the right, a small red stamp and other crafting tools are visible. In the bottom left corner of each scene, a logo featuring a heart and the text \"Amazing Jill\" is displayed. As the sequence progresses, the person carefully pinches and creases the cardstock, bending it downward to create a fold. The background remains static, showing the scattered pieces of green floral paper and the crafting equipment, while the focus remains on the precise hand movements used to shape the cream-colored paper."
+}

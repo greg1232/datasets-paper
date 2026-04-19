@@ -1,0 +1,15 @@
+{
+  "video_id": "81e3b6492d3cbbf67bb705a19b1fd2e4",
+  "url": "./data/segments/3JGRt3BFYrM-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.95,
+    17.85,
+    29.75,
+    41.65
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a screen recording of a software configuration tool for an STMicroelectronics microcontroller. The interface features a central schematic representation of a chip labeled \"STM32F446RETx LQFP64\" with the \"ST\" logo prominent in the middle. The chip is surrounded by a list of pin labels on the left, such as \"PA0\" and \"PB0,\" and a configuration panel on the right. As the sequence progresses, a user interacts with the interface, and the display updates to show various configuration settings and pin assignments. On-screen text including \"Clock Configuration,\" \"Pinout,\" and \"Peripheral Configuration\" is visible in the top menu bars. In the latter frames, the left panel populates with detailed settings for specific pins, including options like \"GPIO_Output\" and \"GPIO_Input,\" while the visual representation of the chip remains constant in the center of the screen."
+}

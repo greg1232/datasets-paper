@@ -1,0 +1,15 @@
+{
+  "video_id": "605ee1e06f5de5cb502653ba306469ef",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-222.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.317,
+    0.951,
+    1.585,
+    2.219
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's right hand is shown painting a landscape on a white canvas using a thin paintbrush. The artwork depicts a soft, green, and yellow outdoor scene with blurred foliage. A blue and black graphic banner at the bottom of the frame contains the text \"Basil Chapman\" in a large font, with a smaller line below stating \"The Tiger Technicians Hour | June 8th, 2022\". As the sequence progresses, white capitalized text appears centered over the artwork. Initially, the word \"FROM\" is displayed, which then updates in the later frames to read \"FROM ARTWORK\". The hand remains in a similar position, continuing to apply paint to the canvas as the text changes. The background consists of the painting and a glimpse of a white surface to the left."
+}

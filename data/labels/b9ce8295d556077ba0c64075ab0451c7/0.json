@@ -1,0 +1,15 @@
+{
+  "video_id": "b9ce8295d556077ba0c64075ab0451c7",
+  "url": "./data/segments/3QD9oO6sRns-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.706,
+    5.119,
+    8.531,
+    11.944
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey baseball cap and a black t-shirt is featured in a video set against a backdrop of sports memorabilia and \"JASYPS\" branding. He is positioned to the right of a screen displaying a list of Major League Baseball teams, including \"5. COLORADO ROCKIES\" and \"6. DETROIT TIGERS.\" The interface includes a timestamp \"2020-07-20 07:59:37 UTC\" and the message \"You have randomized this list 5 times.\" Red \"Subscribe\" buttons are visible on the screen. As the video progresses, the list of teams updates, and the text changes to \"You have randomized this list 6 times\" with a timestamp of \"2020-07-20 07:59:38 UTC.\" The man remains in the same position, looking toward the camera, while the digital interface on the left updates its contents. The \"CASEBREAKS.COM\" logo is prominently displayed throughout the sequence."
+}

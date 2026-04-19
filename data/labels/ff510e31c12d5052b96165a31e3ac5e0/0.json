@@ -1,0 +1,15 @@
+{
+  "video_id": "ff510e31c12d5052b96165a31e3ac5e0",
+  "url": "./data/segments/3rHRnfTOnJQ-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.517,
+    1.55,
+    2.583,
+    3.617
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a blue button-down shirt sits behind a keyboard in a studio with purple lighting, with a microphone and music stands visible in the background. A digital overlay displays a piano keyboard across the center and musical notation with text in the upper sections. The text transitions from \"Bb / D\" and \"D Perfect 5th\" to \"C Perfect 5th\" as the sequence progresses. The man's hands are positioned on the keys, pressing specific notes to match the changing musical instructions. In the initial frames, his fingers press keys corresponding to the D Perfect 5th chord. As the text changes to \"C Perfect 5th,\" his hands shift slightly to the left on the keyboard to play the corresponding notes. The scene remains consistent in setting and composition, with only the on-screen text, the musical notation, and the movement of the man's hands changing over time."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4e51ef60739366ab5c5be8a7c06cc591",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-183.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.123,
+    0.369,
+    0.615,
+    0.86
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a dark blue t-shirt, is seen in the background of a video streaming setup. He sits behind a desk featuring a \"JASPYS\" logo and palm tree graphics, with a black case and other equipment nearby. The foreground is dominated by a person's hands holding a clear plastic card holder containing a sports card with an autograph. On-screen text reads \"JASPYS LIVE\" and \"CASEBREAKS.COM\" in orange and white. Across the frames, the person holding the card shifts their grip and moves the card holder, rotating it to better display the autograph to the camera. The background remains relatively static, with the man observing the process and the surrounding studio environment staying consistent as the focus remains on the close-up manipulation of the collectible card."
+}

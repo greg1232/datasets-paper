@@ -1,0 +1,15 @@
+{
+  "video_id": "e26b97b398f1122f53ed6412b8339cfc",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.089,
+    0.266,
+    0.443,
+    0.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men are sitting in front of a television screen in an indoor setting. The man on the left wears a dark grey t-shirt and has a neutral expression, while the man on the right wears a light grey t-shirt and a necklace, appearing to hold something to his mouth. Behind them, a soundbar is mounted below a television, and a shelf filled with CDs is visible. The text \"OUR STUPID REACTIONS\" appears in a glowing yellow font at the top of the screen. A smaller inset video is superimposed over the center of the image, showing a man with a beard and a woman in a darker setting. As the scene progresses, the woman in the inset video shifts her position and then disappears from the frame, leaving only the bearded man. The two men in the main scene remain mostly still, maintaining their positions and expressions throughout the sequence."
+}

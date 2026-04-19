@@ -1,0 +1,15 @@
+{
+  "video_id": "d75b8a20fc72026caed9cba1ca253562",
+  "url": "./data/segments/3dN_F08u-KE-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.135,
+    0.405,
+    0.675,
+    0.945
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video clip, presented in grayscale, shows a view through a targeting reticle centered on a hazy landscape with a dark, horizontal landmass or cloud formation in the middle ground. In the upper left of each frame, there is a logo and the text \"\u0413\u041e\u041b\u041e\u0412\u041d\u0415 \u0423\u041f\u0420\u0410\u0412\u041b\u0406\u041d\u041d\u042f \u0420\u041e\u0417\u0412\u0406\u0414\u041a\u0418\". The top right and bottom right corners feature a red and white logo with the number \"13\". A circular logo containing the word \"GROUP\" and the number \"13\" is visible on the right side of the frame. Across the sequence, the camera remains relatively stationary, though the lighting and atmospheric haze shift slightly. The reticle remains centered, and the vague shapes of the landscape move subtly, suggesting a slow panning or drifting motion of the recording device. No people, clothing, or distinct interactions are visible in the scene."
+}

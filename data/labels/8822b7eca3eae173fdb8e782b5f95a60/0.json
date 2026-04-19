@@ -1,0 +1,15 @@
+{
+  "video_id": "8822b7eca3eae173fdb8e782b5f95a60",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.331,
+    0.994,
+    1.656,
+    2.319
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with blonde hair, wearing a dark t-shirt and headphones, appears in a small rectangular inset window on the left side of the screen. He is positioned in a room with a decorated Christmas tree visible behind him to the left and a white wall to his right. The main background is a purple gradient. Across the top of the screen, two sets of statistics are displayed: \"MCV\" with the number \"88\" and \"ZCV\" with the number \"99\" and a green \"+4\" next to a chevron symbol. Below each number is a horizontal progress bar; the bar under \"88\" is partially filled with green and white, while the bar under \"99\" is almost entirely green. Throughout the sequence, the man's expression changes from a neutral look to an open-mouthed, excited smile, returning to a more neutral expression by the end. The on-screen text and bars remain static."
+}

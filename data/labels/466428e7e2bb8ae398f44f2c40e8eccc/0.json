@@ -1,0 +1,15 @@
+{
+  "video_id": "466428e7e2bb8ae398f44f2c40e8eccc",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-196.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.395,
+    1.185,
+    1.975,
+    2.765
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a digital presentation showing a complex system dynamics causal loop diagram against a black background. The diagram consists of various nodes connected by blue and red arrows, featuring phrases such as \"Attractiveness of Garden,\" \"Birds at Feeders,\" \"Unsightly Gouts,\" and \"Frustration.\" A central node reads \"Squirrels.\" In the top two frames, a man wearing a dark cap is visible in a small video inset in the upper center of the screen. The browser tabs at the top indicate the session is hosted on \"Tru L & Learning by SystemDynamics\" and mentions \"Rural Community Food Tool.\" Throughout the sequence, a mouse cursor moves across the diagram, eventually hovering over and clicking the \"Squirrels\" node. The visual state of the diagram remains static, but the cursor's movement indicates an interactive exploration of the model."
+}

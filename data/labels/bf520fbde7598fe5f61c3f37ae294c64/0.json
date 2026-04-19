@@ -1,0 +1,15 @@
+{
+  "video_id": "bf520fbde7598fe5f61c3f37ae294c64",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.76,
+    2.28,
+    3.8,
+    5.32
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A reporter and a man are being interviewed on a soccer field with a stadium crowd and red seating in the background. The reporter, on the left, wears a dark blue suit, white shirt, and blue tie, holding a microphone with a white windscreen featuring a circular logo. The man being interviewed, on the right, is dressed in a dark navy suit, white shirt, and dark tie, and also holds a matching microphone. A Real Madrid crest is visible in the upper right corner of the scene. In the background, a banner displays the word \"WELCOME\". Across the sequence, the reporter remains relatively still while looking toward the man. The man's expression shifts from a serious, attentive look to a smile and a laugh, before returning to a neutral expression as he begins to speak. A large professional camera is partially visible in the left foreground."
+}

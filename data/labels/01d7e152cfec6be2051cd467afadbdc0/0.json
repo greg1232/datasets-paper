@@ -1,0 +1,15 @@
+{
+  "video_id": "01d7e152cfec6be2051cd467afadbdc0",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.44,
+    1.32,
+    2.2,
+    3.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a brightly lit indoor studio, three people are positioned around small white pedestal tables. On the left, a man wears a dark navy blazer and trousers. In the center, a woman is dressed in a dark navy blazer over a red top and light-colored trousers. On the right, a man wears a patterned olive-green shirt and dark trousers. Each table is equipped with a microphone. Behind them, a large screen displays an image of clasped hands and the blue text \"INTERACTIE\" and \"PRAKTIJK EN ZORGPRAAL\". The logo \"mediasite\" appears at the top of the scene. As the sequence progresses, the man on the left remains mostly stationary, while the man on the right gestures with his hand and shifts his posture slightly. The woman in the center maintains a steady stance, looking toward the man on the right. The background consists of empty grey seating in the foreground."
+}

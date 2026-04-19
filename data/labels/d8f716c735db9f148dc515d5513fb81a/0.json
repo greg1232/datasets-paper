@@ -1,0 +1,15 @@
+{
+  "video_id": "d8f716c735db9f148dc515d5513fb81a",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-068.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.238,
+    0.396,
+    0.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation room, several healthcare professionals are gathered around a simulation mannequin lying on a treatment table. One woman, wearing a blue scrub top and a mask, stands over the mannequin, while another woman in a black jacket, blue scrubs, and a mask stands at a wooden side table, organizing a blue tray. Two other women are present in the background: one wearing pink scrubs and a mask, and another partially visible on the right in a grey jacket. The room is equipped with various medical devices, including a red crash cart and a monitor. Across the sequence, the woman in the black jacket remains at the table while the woman in the blue scrubs maintains her position by the mannequin. On-screen text in the bottom corners of the frames reads \"Day 2\" and \"Sim Week\". The scene remains largely static, with minimal movement as the staff prepares for the simulation."
+}

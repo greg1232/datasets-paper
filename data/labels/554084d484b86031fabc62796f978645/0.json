@@ -1,0 +1,15 @@
+{
+  "video_id": "554084d484b86031fabc62796f978645",
+  "url": "./data/segments/3VCwl-aQ_oQ-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.583,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen capture displays a webpage for a \"List Randomizer\" from RANDOM.ORG. The page lists numbers 1.5 through 10.2 in random order and includes a warning stating, \"Advisory: We only operate services from the RANDOM.ORG domain. Other sites that claim to be operated by us are imposters.\" To the right, a chat window features messages from users \"angelist\" and \"Nightbot.\" \"angelist\" says, \"I think if you are a team signing Ohtani, you are going all in on everyone you can,\" while \"Nightbot\" provides a link for \"the BREAK SCHEDULE, SHIPPING INFO and MORE.\" At the bottom of the screen, a promotional banner for \"JAY S CASEBREAKS.COM\" features an image of a man wearing a black t-shirt and a black baseball cap. Across all four frames, the visual content remains static, with no changes in text, images, or layout."
+}

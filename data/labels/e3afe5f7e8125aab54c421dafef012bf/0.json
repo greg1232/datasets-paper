@@ -1,0 +1,15 @@
+{
+  "video_id": "e3afe5f7e8125aab54c421dafef012bf",
+  "url": "./data/segments/3tXiKB90OM0-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.5,
+    4.5,
+    7.5,
+    10.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large grey naval vessel is positioned on the right side of the frame, its bow facing left. A smaller red and white tugboat, marked with a white \"M\" logo, is positioned to the left of the ship's bow. A tow line connects the tugboat to the naval vessel. The scene takes place on a calm body of water under a clear blue sky, with a low, green coastline visible in the far distance. A concrete pier edge is visible in the bottom right foreground. Across the sequence, the tugboat remains relatively stationary, maintaining its position against the side of the larger ship. There is minimal movement between the frames, with only slight shifts in the water's surface and the positioning of the vessels as they drift together. No people are clearly visible on the decks of either vessel."
+}

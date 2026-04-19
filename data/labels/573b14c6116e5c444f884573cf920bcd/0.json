@@ -1,0 +1,15 @@
+{
+  "video_id": "573b14c6116e5c444f884573cf920bcd",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-118.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.714,
+    2.141,
+    3.568,
+    4.995
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair wears a striped purple and white button-down shirt and a black over-the-ear headset with a microphone. She is positioned in front of a plain wall, with light-colored curtains visible to her left. The text \"Nancy Denyla\" is visible in the bottom left corner of each frame. As the video progresses, the woman speaks, her mouth opening and closing while her gaze shifts slightly. In the first two frames, she looks forward with her mouth slightly open. By the third frame, her expression becomes more serious, and her eyes narrow slightly. In the final frame, her mouth opens again as she continues speaking. The setting and her clothing remain constant throughout the sequence, focusing entirely on her facial expressions and speech."
+}

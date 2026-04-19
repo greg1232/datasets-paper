@@ -1,0 +1,15 @@
+{
+  "video_id": "3f84000a9b0be8b4e2139029aa272dbc",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.284,
+    0.851,
+    1.418,
+    1.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view captures a vehicle's dashboard instrument cluster. The display includes a digital screen and several analog gauges. Legible text on the dashboard reads \"UNLEADED FUEL ONLY\" and \"D SDN ALARM\". The digital screen displays numeric values, including a large \"0\" at the bottom, while analog needles point to various markings on dials scaled up to 280. A white object partially obscures the lower-left side of the view, and a portion of a control handle is visible at the bottom center. Across the sequence of frames, the view remains steady with minimal movement, showing the instrument panel in a static state. There are no people present in the scene. The lighting is consistent, illuminating the grey and black surfaces of the dashboard and the orange-yellow tones of the gauges and digital display."
+}

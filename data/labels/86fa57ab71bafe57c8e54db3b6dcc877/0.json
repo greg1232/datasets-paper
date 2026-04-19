@@ -1,0 +1,15 @@
+{
+  "video_id": "86fa57ab71bafe57c8e54db3b6dcc877",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-298.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.315,
+    3.945,
+    6.575,
+    9.205
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen-sharing session displays a network map of colorful interconnected circular icons on a dark background, alongside a gallery of participants in a video conference. The participants, a diverse group of men and women, are seen in various home or office settings, wearing casual attire such as t-shirts and button-down shirts. Some individuals are wearing glasses or headsets. Names like \"Jerry Michalki,\" \"Patrick Murzyn,\" and \"Seymour Herin\" are visible beneath several video tiles. The scene transitions as the screen is shared and then stopped, causing the network map to disappear and be replaced by a larger grid of the participants' video feeds. In the final views, the participants remain in their respective frames, some looking toward their cameras while others look away, with household backgrounds including bookshelves, curtains, and walls visible behind them."
+}

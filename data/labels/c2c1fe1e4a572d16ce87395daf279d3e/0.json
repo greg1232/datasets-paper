@@ -1,0 +1,15 @@
+{
+  "video_id": "c2c1fe1e4a572d16ce87395daf279d3e",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.425,
+    1.276,
+    2.127,
+    2.978
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a grey long-sleeved shirt is seated at a white desk, using a black pen to write or mark papers. In the background, an open laptop displays a screen filled with financial charts and data. Blue text is overlaid on the scene; it begins with \"TOM O'BRIEN FOUNDED\" and transitions to \"TFNN OVER 20 YEARS AGO\" as the sequence progresses. The person's hand moves across the page, shifting the pen's position while the camera remains stationary. By the end of the clip, the hand has moved slightly to the right, and the text \"TFNN OVER 20 YEARS AGO\" remains centered on the screen. The overall environment is bright and focused on a workspace setting involving financial analysis."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "00565a8ee4f0c0e1df40383703c01a2d",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-342.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.005,
+    12.015,
+    20.025,
+    28.035
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call featuring several participants is displayed in a grid layout. The participants are in various home or office settings, with some in front of bookshelves and others against plain walls. One person wears a blue shirt, while others wear dark-colored clothing. On-screen text identifies the participants, including \"Jerry Nichols,\" \"Howard S. Brummfield,\" \"Betty Modeling,\" and \"Aire Jan van de Vyver.\" A blue and white logo is visible in the background of some of the video feeds. Throughout the clip, the participants remain in their respective frames, with subtle movements as they speak or listen. Some participants wear glasses, and one person is seen wearing a headset. The scene remains consistent across the sequence, with no significant changes in the participants' positions or the overall layout of the video call."
+}

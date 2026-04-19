@@ -1,0 +1,15 @@
+{
+  "video_id": "039a8576d117ef2bb89d26ededb5b038",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.727,
+    2.181,
+    3.635,
+    5.09
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static black screen featuring white and colorful text and icons. Centered at the top is the phrase \"Thanks for watching!\" in a bold, white sans-serif font. Below this greeting, three social media handles are listed vertically. The first is an Instagram handle featuring the Instagram logo and the text \"@StevenDunks\". The second is a Twitter handle featuring the Twitter bird logo and the text \"@StevieCeli\". The third is a podcast reference featuring a purple microphone icon and the text \"Neverending Conversations Podcast\". The scene remains completely unchanged across the sequence, with the layout, colors, and text remaining fixed in a centered alignment against the dark background. There are no people, physical locations, or movements visible in the clip."
+}

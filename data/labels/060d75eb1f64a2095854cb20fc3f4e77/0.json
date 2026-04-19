@@ -1,0 +1,15 @@
+{
+  "video_id": "060d75eb1f64a2095854cb20fc3f4e77",
+  "url": "./data/segments/3fokLGPK15Q-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.965,
+    5.895,
+    9.825,
+    13.755
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people sit in chairs on a stage in front of a dark backdrop accented with purple neon light tubes. On the left, a man wears a white button-down shirt and dark trousers. In the center, a woman wears a black t-shirt and dark trousers. On the right, a man wears a light gray blazer over a blue shirt and gray trousers. A white, textured, block-like object sits on the floor in front of the man on the left. In the background, the letters \"SL\" are partially visible in large, pink-lit characters. Across the sequence, the man on the left speaks and gestures with his hands, eventually resting them in his lap. The woman remains relatively still, listening and looking toward the man on the left. The man on the right shifts his posture, leaning in and then sitting back while holding a small object in his hand."
+}

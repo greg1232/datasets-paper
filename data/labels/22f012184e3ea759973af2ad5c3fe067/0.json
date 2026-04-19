@@ -1,0 +1,15 @@
+{
+  "video_id": "22f012184e3ea759973af2ad5c3fe067",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.759
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot captures the interior of a vehicle, focusing on the area around the steering wheel and the dashboard. A textured, dark-colored leather steering wheel dominates the right side of the view, while a portion of the dashboard and a vent are visible on the left. A metallic object, possibly a tool or a piece of equipment, is positioned in the foreground, partially obscuring the view of the dashboard. Behind the steering wheel, the instrument cluster is visible, though it remains out of focus. Across the sequence of images, the camera remains relatively stationary, with only subtle shifts in perspective. There are no people visible in the frames, and no text or logos are legible. The lighting is soft and diffused, highlighting the grain of the leather and the metallic finish of the object in the foreground."
+}

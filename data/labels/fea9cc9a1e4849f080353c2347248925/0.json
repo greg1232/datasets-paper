@@ -1,0 +1,15 @@
+{
+  "video_id": "fea9cc9a1e4849f080353c2347248925",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.365,
+    1.095,
+    1.825,
+    2.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black baseball cap and headphones is visible in a small video call inset in the top right corner of a screen. The main area of the screen displays a complex network map with various icons connected by blue lines on a black background. A white rectangular pop-up window containing an illustration of a small grey figure holding a large red magnet is positioned in the center-left of the map. Legible on-screen text includes \"Insights | Introduction | Kumu\" and \"Rural Community Food System\" in browser tabs at the top. Small labels within the network map, such as \"Food System,\" \"Healthy Foods,\" and \"Invisible Flow,\" accompany various icons. Across the sequence of frames, the scene remains virtually static, with the person in the video call and the elements of the network map and pop-up window staying in the same positions."
+}

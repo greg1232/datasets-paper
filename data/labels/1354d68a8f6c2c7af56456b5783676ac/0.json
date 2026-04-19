@@ -1,0 +1,15 @@
+{
+  "video_id": "1354d68a8f6c2c7af56456b5783676ac",
+  "url": "./data/segments/3l84m5pRmyk-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.388,
+    0.646,
+    0.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features an animated, blue geometric shape that evolves through shifting perspectives and colors. It begins with a dark blue, three-dimensional corner view of a cube, where a lighter blue surface forms the floor. As the sequence progresses, the view shifts, and a lighter blue cube begins to emerge from the top and sides, creating a sense of unfolding or expanding architecture. The shape transforms into an open-box structure with a light blue base and deeper blue walls. In the final stage, the perspective shifts further, showing the hollow interior of the blue cube from an isometric angle, with contrasting shades of blue defining the internal and external surfaces against a plain white background. There are no people, text, or logos present; the scene focuses entirely on the fluid movement and color transitions of the abstract blue object."
+}

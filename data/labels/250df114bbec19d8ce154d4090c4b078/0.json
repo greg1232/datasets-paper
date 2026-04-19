@@ -1,0 +1,15 @@
+{
+  "video_id": "250df114bbec19d8ce154d4090c4b078",
+  "url": "./data/segments/3U065Ox-1uA-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black t-shirt and a blue-strapped wristwatch is holding a large, silver trophy with a dark base. The scene takes place outdoors against a blurred green background. In the initial frames, the person holds the trophy upright, their hands gripping the sides of the cup. As the sequence progresses, the person begins to tilt the trophy slightly. The upper left corner of each frame displays the \"REUTERS\" logo and a \"VOA 60 LEARNING ENGLISH\" graphic. At the bottom of every frame, the caption \"becoming the all-time leader\" is visible. The movement is subtle, showing the person adjusting their hold on the trophy as the camera angle shifts slightly."
+}

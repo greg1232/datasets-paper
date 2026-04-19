@@ -1,0 +1,15 @@
+{
+  "video_id": "d4e133f3c6a3870a1efbad3614b03a61",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.308,
+    0.925,
+    1.542,
+    2.158
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is shown in a small picture-in-picture window in the bottom left corner, appearing as a headshot against a background that includes a \"TICKMILL\" logo. He is speaking and looking toward the camera. The primary focus of the screen is a financial trading platform displaying a candlestick chart for \"EURGBP (H1)\" highlighted by a red banner. The interface includes a sidebar with the text \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN\" followed by a list of features including \"PCX-Konten\" and \"www.tickmill.com/de/\". A \"TICKMILL\" logo is also visible in the top left corner of the screen. Across the sequence of frames, the man's facial expressions and mouth movements change as he speaks, while the trading chart and the surrounding interface remain static."
+}

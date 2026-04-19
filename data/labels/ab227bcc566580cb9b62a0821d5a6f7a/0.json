@@ -1,0 +1,15 @@
+{
+  "video_id": "ab227bcc566580cb9b62a0821d5a6f7a",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is presented in a small picture-in-picture window in the bottom left corner of a screen recording, showing his head and shoulders. He is speaking directly to the camera. The rest of the screen displays a trading platform interface featuring a candlestick price chart for \"GBP JPY\". In the upper left, a red and white promotional banner for \"TICKMILL\" is visible, accompanied by German text that reads: \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN\". The banner lists features such as \"TICKMILL\", \" Niedrige Spreads ab 0.1 Pips\", \"Schnelle Ausf\u00fchrung ab 0.1 Sek.\", and \"Keine Requotes\", along with the website \"www.tickmill.com/de\". A vertical price scale is located on the right side of the chart. Throughout the sequence, the man continues to speak, and the overall layout of the trading software and the promotional text remain static."
+}

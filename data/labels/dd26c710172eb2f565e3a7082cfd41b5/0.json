@@ -1,0 +1,15 @@
+{
+  "video_id": "dd26c710172eb2f565e3a7082cfd41b5",
+  "url": "./data/segments/3pLMflJEGQ4-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.75,
+    2.25,
+    3.75,
+    5.25
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with white hair and a beard, wearing rectangular glasses, a dark grey turtleneck, and a dark jacket with a textured collar, stands outdoors against a backdrop of dense green foliage. He is positioned centrally in the frame, speaking directly toward the camera. As the sequence progresses, his facial expressions shift slightly; he begins with a neutral gaze, then opens his mouth to speak, and eventually looks slightly upward and to the side. In the final sequence, his expression becomes more animated as he continues speaking, and his hands briefly enter the bottom of the frame, gesturing as he talks. The background remains a static wall of green leaves throughout the clip, and there is no on-screen text, logos, or equipment visible."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "28369f11bf7fdd76e23001691cf0f61a",
+  "url": "./data/segments/3hcAJKLX-Ps-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.405,
+    1.215,
+    2.025,
+    2.835
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a light-colored, long-sleeved button-down shirt, speaks into a handheld microphone. He stands in front of a yellow backdrop featuring text in a non-Latin script, including legible fragments such as \"\u0ba4\u0bca\u0bb4\u0bbf\u0bb2\u0bbe\" and \"\u0b86\u0bae\u0bcd\". The setting appears to be an indoor event space with white architectural panels on the ceiling. In the initial frames, the man holds the microphone with both hands near his chest, looking slightly downward. As the sequence progresses, he begins to gesture with his left hand to emphasize his points while continuing to hold the microphone in his right hand. In one frame, another man is partially visible in the background, appearing behind the speaker's right shoulder. The speaker's expressions change as he talks, moving from a concentrated look to an active speaking posture with an open mouth and expressive hand movements."
+}

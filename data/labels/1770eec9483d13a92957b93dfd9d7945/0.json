@@ -1,0 +1,15 @@
+{
+  "video_id": "1770eec9483d13a92957b93dfd9d7945",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.392,
+    1.176,
+    1.96,
+    2.744
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A vehicle travels along a multi-lane highway under a clear blue sky. The camera is positioned low on the side of the car, showing a portion of the black car's body and front wheel in the right side of the frame. In the distance, a white sedan travels in the same direction. As the video progresses, the white sedan moves closer to the camera vehicle, eventually shifting lanes to merge into the lane immediately beside the camera car. The surrounding environment consists of grassy medians and distant commercial buildings and signage. A red stop sign is visible on the roadside as the vehicles pass. The reflection on the polished black surface of the camera vehicle shows the white sedan and the passing landscape. No people are visible, and there is no legible on-screen text."
+}

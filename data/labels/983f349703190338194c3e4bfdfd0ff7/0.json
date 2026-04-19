@@ -1,0 +1,15 @@
+{
+  "video_id": "983f349703190338194c3e4bfdfd0ff7",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-284.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.135,
+    3.406,
+    5.677,
+    7.948
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a thick, black foam block over a table covered with a colorful cloth featuring palm tree graphics. In the background, a man wearing a dark blue t-shirt sits at a desk with computer equipment, appearing in a small inset window. The orange and white logo \"JASPYS CASEBREAKS.COM\" is prominently displayed in the upper portion of the scene. As the sequence progresses, the person moves the foam block, lifting it and then shifting it across the table surface. Several trading cards in protective sleeves are scattered nearby. The man in the inset window remains stationary, watching the action. The environment appears to be a hobby or gaming room, with various storage boxes and collectibles visible in the blurred background."
+}

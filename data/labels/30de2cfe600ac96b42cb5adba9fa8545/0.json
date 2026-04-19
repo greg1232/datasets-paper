@@ -1,0 +1,15 @@
+{
+  "video_id": "30de2cfe600ac96b42cb5adba9fa8545",
+  "url": "./data/segments/3tUAO4YGuKY-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    36.81,
+    110.43,
+    184.05,
+    257.67
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing glasses, a white shirt, a red tie, and a dark suit jacket speaks at a podium. In close-up views, he is positioned in front of a purple backdrop featuring the logo \"IIEA com\" and a circle of stars. He gestures with his right hand as he speaks. Wider shots reveal him standing at a wooden podium in a room with white curtains and a large screen behind him. The screen displays the text \"Joseph Quion,\" \"Chief Government Relations Officer of America, Government Affairs at Microsoft,\" and \"The End of the West \u2014 The Stakes for the US and Europe in a World of Disorder.\" A small audience of people in professional attire is seated in front of him. A logo for \"iiea.com\" appears in the bottom left corner of the scene. The sequence transitions from a tight shot of the speaker to a wide view of the presentation setting."
+}

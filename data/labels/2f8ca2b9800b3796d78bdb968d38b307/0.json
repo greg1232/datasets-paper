@@ -1,0 +1,15 @@
+{
+  "video_id": "2f8ca2b9800b3796d78bdb968d38b307",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.205,
+    0.615,
+    1.025,
+    1.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This news broadcast segment features a graphic display regarding political developments in Bihar. The screen displays a layout with multiple portraits: Nitish Kumar on the left, and Santosh Suman and Sumit Kumar on the right. The central area shows a white map of Bihar against a backdrop of a white building, with a purple lightning bolt striking the map. Throughout the sequence, a red header reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\" and the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo is visible in the top right. A red ticker at the bottom states \"PM: \u092c\u093f\u0939\u093e\u0930 \u0915\u0947 \u0932\u094b\u0917\u094b\u0902 \u0915\u0940 \u0906\u0915\u093e\u0902\u0915\u094d\u0937\u093e\u090f\u0901 \u092a\u0942\u0930\u0940 \u0939\u094b\u0902\u0917\u0940\" with a timestamp of \"10:04 PM\". Between frames, text overlays appear and disappear over the map of Bihar; first, the phrase \"\u0938\u0941\u0936\u093e\u0938\u0928 \u092a\u0930 \u091a\u0948\u0932\u0947\u0902\u091c\" appears, and later, it is replaced by \"\u0916\u0947\u0932\u093e \u0915\u093e \u0907\u0936\u093e\u0930\u093e\". The people in the portraits remain static, wearing traditional white Indian attire."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9c2d64d37f4ab8cca86bf0bd16e3b1dd",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-251.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.377,
+    1.131,
+    1.885,
+    2.64
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A hand holds a sports trading card featuring an athlete's photo and a signature, resting it atop a white rectangular box. The card includes the name \"ROBIN YOUNT\" printed at the bottom. In the background, a man wearing a navy blue t-shirt sits at a desk with a microphone and equipment, while a logo for \"JASPYS\" and the text \"CASEBREAKS.COM\" appear as an overlay on the screen. As the sequence progresses, the person holding the card begins to move it, eventually lifting it away from the box. The background elements, including the man and the \"JASPYS\" branding, remain consistent throughout. By the end of the clip, the card has been moved out of the frame, leaving only the white box and the background scene visible."
+}

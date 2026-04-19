@@ -1,0 +1,15 @@
+{
+  "video_id": "a8d170f7296d7fb36e1a6ceb9b7d09b3",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.41,
+    1.23,
+    2.05,
+    2.87
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair, wearing a dark blue blazer over a dark blue button-down shirt, stands behind a podium against a plain, light-grey background. To his right, a thin microphone extends toward him, and a clear plastic water bottle with a blue cap sits on the podium surface. The logo \"mediasite\" appears in the top left corner of the scene. Across the sequence, the man is speaking and using hand gestures to emphasize his points. He begins by raising his right hand with fingers slightly spread, then lowers it toward his chest. He subsequently extends his right arm outward and opens his palm in an expansive gesture while looking slightly to his left. His expression remains focused and serious throughout the movement, and the camera angle remains stationary as he shifts his posture and gestures."
+}

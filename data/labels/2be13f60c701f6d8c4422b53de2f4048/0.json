@@ -1,0 +1,15 @@
+{
+  "video_id": "2be13f60c701f6d8c4422b53de2f4048",
+  "url": "./data/segments/3E6ctN22V7k-Scene-128.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.365,
+    1.095,
+    1.825,
+    2.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young girl with dark hair, wearing a lime green shirt and a pink hair tie, is captured in a profile view as she gazes upward. She wears small gold hoop earrings. Beside her, the arm and torso of another person are visible, clad in a black quilted jacket. In the background, the lower legs of other individuals can be seen, including one person wearing grey sneakers with pink socks and another wearing beige sandals. The scene takes place outdoors on a sandy surface. Across the sequence of frames, the girl remains relatively still, maintaining her upward gaze, while there are subtle shifts in the positioning of the people around her and slight changes in the light and perspective. No text or logos are visible in the scene."
+}

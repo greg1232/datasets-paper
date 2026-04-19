@@ -1,0 +1,15 @@
+{
+  "video_id": "7c20fe1508c3fd13f8ae20368cbfc82d",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-820.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.109,
+    0.328,
+    0.547,
+    0.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt and a green baseball cap sits in a room filled with framed photos on the walls and clothing on racks. His t-shirt features the text \"NEVER DO SIT\" in white lettering. He is positioned in front of a professional black microphone on a boom arm. To his left, a logo that reads \"THE STREETS TALK\" is visible, and on the right, red text says \"STREETS TALK TOT\". In the background, a decorative black tufted chair sits against a wall of photos, and a white mannequin wearing a white garment is partially visible. Throughout the sequence, the man remains in a similar seated position, slightly tilting his head and shifting his gaze downward as he speaks, while the camera remains stationary."
+}

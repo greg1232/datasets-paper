@@ -1,0 +1,15 @@
+{
+  "video_id": "b0c7e42a2386c12e30afdfe34bb42570",
+  "url": "./data/segments/3iUTkJy84EY-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.54,
+    1.62,
+    2.7,
+    3.78
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static, dark gray screen containing white and yellow text. At the top of the screen, the phrase \"Maternal Infant Young Child Nutrition\" appears in a yellow serif font. Below this, in a smaller white serif font, is the text \"Prof. Rupal Dalal\" followed by \"Health and Nutrition\" on the line underneath. This entire block of text is centered horizontally and vertically in the upper half of the frame. In the lower half of the screen, the exact same set of text is repeated: \"Maternal Infant Young Child Nutrition\" in yellow, with \"Prof. Rupal Dalal\" and \"Health and Nutrition\" in white below it. There are no people, objects, or movements visible throughout the clip, as the scene remains completely stationary and unchanging across all frames."
+}

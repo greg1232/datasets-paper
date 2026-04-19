@@ -1,0 +1,15 @@
+{
+  "video_id": "3a9da5456aafebaccdc7b569c1b6527e",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.284,
+    0.851,
+    1.418,
+    1.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical or clinical setting, a woman with dark hair tied back in a ponytail is seen in profile. She is wearing a black face mask, a blue scrub top, and a dark black coat or jacket, with a stethoscope draped around her neck. Behind her is a light-colored wooden door featuring a red circular sign that reads \"PLEASE STAY 6FT APART\" with \"PHYSICAL DISTANCING IN EFFECT\" written around the border. In the background, a white-tiled wall and a red sharps container are visible. A watermark in the bottom right corner of each frame reads \"Sim Week\". Across the sequence, the woman remains mostly stationary, though she shifts her head slightly and blinks, while the camera maintains a steady medium shot focusing on her upper body and the door behind her."
+}

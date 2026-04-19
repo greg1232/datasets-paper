@@ -1,0 +1,15 @@
+{
+  "video_id": "cf60c1fcff1523f5ededecfa48a9e02a",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-340.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.04,
+    9.12,
+    15.2,
+    21.28
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call displays a grid of participants in various home settings. In several views, a man wearing glasses and a blue shirt is seen talking and gesturing with his hand. Another man wears a grey t-shirt with a graphic logo, while a third man wears a blue baseball cap and a blue shirt. A woman with dark hair is visible in one of the tiles. Other participants include a man in a blue t-shirt and a person in a black shirt. The environment consists of home offices and living rooms, with bookshelves, white walls, and computer monitors visible in the backgrounds. Legible on-screen name tags include \"Jerry Michael\", \"Doug Skerman\", \"Scott Mooring\", and \"Andre\". Throughout the sequence, the participants remain in their respective tiles, with minor changes in their facial expressions and head positions as they engage in the virtual meeting."
+}

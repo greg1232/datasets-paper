@@ -1,0 +1,15 @@
+{
+  "video_id": "0ceec8cf4938f66bba63f49dbc32b4b9",
+  "url": "./data/segments/3sJ5OX75erw-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.05,
+    9.15,
+    15.25,
+    21.35
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide is displayed, featuring a dark blue background with a network of interconnected grey circles and lines. The top right corner contains the text \"OPEN NETWORKING & EDGE EXECUTIVE FORUM\". Centered on the screen is the title \"The DARPA OPS-5G Program: A Collaboration between Government and the Open Source Community\", followed by the presenter's name \"Michael August\", his affiliation \"United States Department of the Navy\", and the date \"April 12th, 2022\". At the bottom, logos for \"THE LINUX FOUNDATION\", \"CNF NETWORKING\", and \"LF EDGE\" are visible, accompanied by the text \"DISTRIBUTION STATEMENT A. Approved for public release: distribution unlimited.\" A small hashtag \"#opennetledge\" appears in the bottom left corner. In the top right corner of the screen, a small video inset shows a man in a light blue button-down shirt. Throughout the sequence, the slide remains static while the man in the inset shifts his posture and facial expression slightly."
+}

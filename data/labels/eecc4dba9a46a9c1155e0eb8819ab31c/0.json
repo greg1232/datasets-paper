@@ -1,0 +1,15 @@
+{
+  "video_id": "eecc4dba9a46a9c1155e0eb8819ab31c",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.46,
+    1.38,
+    2.3,
+    3.22
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A male news presenter with glasses, wearing a dark suit, a white shirt, and a maroon tie, stands before a digital backdrop in a news studio. The background consists of a blue world map and circular graphic elements, with the text \"PLUS POLITICS\" prominently displayed in white capital letters. On the left side of the frame, a red vertical banner features a white logo and the word \"plus tv\". At the bottom of the screen, a white ticker provides viewing information: \"WATCH ON DStv CH 408\" and \"StarTimes CH 308\". As the sequence progresses, a lower-third graphic appears, identifying the presenter as \"KOFI BARTELS\" and providing his social media handle \"@KOFIBARTELS\". The presenter remains centered in the frame, maintaining a steady gaze toward the camera with minimal movement in his posture and expression throughout the clip."
+}

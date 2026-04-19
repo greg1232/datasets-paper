@@ -1,0 +1,15 @@
+{
+  "video_id": "23fe9d381db4b632031e6a3f0f9ec317",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.434,
+    1.301,
+    2.169,
+    3.036
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view of a vehicle's digital instrument cluster shows a dashboard display. On the left, a circular tachometer indicates \"RPM x1000\" with markings ranging from 3500 to 6000. To the right of the gauge, a digital screen displays the word \"BRAKE\" next to a red warning icon. Below this, white text instructs the driver to \"Press Brake and Push Button to Start,\" followed by a mileage reading of \"20434 mi\". A red light is visible in the upper right area of the screen. Throughout the sequence, the display remains static, and no people are visible. The perspective shifts slightly, with a blurred white object appearing in the foreground and moving across the bottom of the frame, partially obscuring the dashboard."
+}

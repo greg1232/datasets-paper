@@ -1,0 +1,15 @@
+{
+  "video_id": "42ff761ead11a604d4b8b166ca64b2e1",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-708.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.74,
+    2.221,
+    3.702,
+    5.182
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the text \"I NEVER DO SHIT\" is seated in a studio setting, speaking into a professional black microphone. Behind him is a wall decorated with framed photographs and a white mannequin torso wearing a white t-shirt, next to a clothing rack. On-screen graphics include a circular logo with the text \"LANE\" on the left and a red logo that reads \"HOTLY\" on the right. As the sequence progresses, the man's facial expressions shift slightly while he continues to speak, moving his mouth and shifting his gaze. His posture remains consistent, and the background elements, including the mannequin and the equipment, stay stationary throughout the frames."
+}

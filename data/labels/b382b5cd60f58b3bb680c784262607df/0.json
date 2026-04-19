@@ -1,0 +1,15 @@
+{
+  "video_id": "b382b5cd60f58b3bb680c784262607df",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.604,
+    0.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short hair and a light-colored shirt is visible in the bottom left of a screen recording showing a trading platform. The screen displays a financial chart with a fluctuating price line, alongside a list of currency pairs. Prominent branding for \"TICKMILL\" appears in the top left and as a banner on the left side, featuring the German text \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN\" and \"www.tickmill.com.de\". The trading chart includes shaded horizontal zones in red and green. As the video progresses, the price line moves across the chart, eventually plunging through the red and green zones toward the bottom of the screen. The man remains in his small video window, observing the market movements as the price line drops sharply toward the end of the sequence."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6cad58c03ba9d199ad9f6bc97a9dcbd8",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-217.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with long dark hair tied back and wearing glasses stands before a microphone in an indoor setting with brown horizontal blinds in the background. They are dressed in a white long-sleeved shirt under a dark vest with decorative red and white patterns. The individual is playing a light-colored acoustic guitar, their hands moving across the fretboard and strings as they look down. In the foreground, the backs of several people's heads are visible, including individuals with blonde and brown hair. The word \"ORCA\" appears in a white box on the right side of the scene. As the sequence progresses, the musician continues to play the guitar and maintains their posture, while the people in the foreground remain mostly stationary, though slight shifts in their positions occur."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "02fe63f5093780831e38cbd0df5ceb68",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-428.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.098,
+    0.294,
+    0.49,
+    0.685
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt and white headphones is positioned in a small picture-in-picture window in the bottom left corner of a video game interface. He is in a room with a white brick wall and a decorated Christmas tree. The main screen displays a purple background with the text \"90+ ZERO CHILL PLAYER\" at the top. Below this, a red and gold pack icon is visible above the word \"ELITE.\" A green button indicates a purchase option labeled \"BUY WITH\" and shows a cost of \"20,000 Training.\" At the bottom of the screen, menu options read \"BUY VIEW INFO HELP CANCEL.\" As the sequence progresses, the man's expression changes from a neutral look to an open-mouthed, surprised reaction, while the gaming interface remains static across the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "11dbed81dcdf57bef686f0c99c5ae5c2",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.538,
+    0.897,
+    1.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with white hair and glasses, wearing a black collared shirt, sits at a glass desk in a television studio. He is gesturing with his right hand while speaking. Behind him are large screens displaying financial data, including green and red ticker bars, price charts, and a \"Tiger-TV\" logo in the upper right corner. A blue graphic banner across the bottom of the screen contains the white text, \"A FREQUENT CONTRIBUTOR TO THE TD AMERITRADE NETWORK & CNBC\". As the sequence progresses, the man remains in the same position, though his hand movements shift slightly as he continues to talk. The financial data on the background screens remains largely static, and the overall lighting and composition of the studio set stay consistent throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "619634bfcbac095f03ae8dee33a086fc",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip features a person pouring a large quantity of white and green popcorn into a large, light-colored bowl. In the corner of each frame, a circular inset shows a woman with short blonde hair wearing a dark blue shirt, observing the action. The top left corner of the screen displays a logo and the text \"UCAR CENTER FOR SCIENCE EDUCATION\". As the sequence progresses, the popcorn continues to fall from the top of the frame, gradually filling the bottom of the bowl. The motion is captured with some blur, indicating the speed of the pour. The background consists of a soft blue and white cloud-like pattern that surrounds the main video feed and the inset. The woman in the inset remains relatively still, maintaining a focused expression as the popcorn accumulates."
+}

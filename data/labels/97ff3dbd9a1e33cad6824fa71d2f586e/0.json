@@ -1,0 +1,15 @@
+{
+  "video_id": "97ff3dbd9a1e33cad6824fa71d2f586e",
+  "url": "./data/segments/3E6ctN22V7k-Scene-115.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.425,
+    1.275,
+    2.125,
+    2.975
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young girl with dark skin and hair tied back with a red accessory wears a lime green ruffled blouse and red stud earrings. She is accompanied by an adult woman wearing a yellow and white polka-dot garment. In the initial sequence, the girl looks toward the woman with an open mouth as the woman holds a book. The girl then reaches out with her arm, appearing to engage with the material. As the scene progresses, the girl raises her hand toward her head while looking thoughtfully at the book. The final scene shifts to a close-up view of a page in the book, which features a black-and-white illustration of several zebras standing in a landscape with small trees and a sun. The woman's hand is visible, pointing toward the illustration as the girl looks on."
+}

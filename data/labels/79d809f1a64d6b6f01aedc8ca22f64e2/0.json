@@ -1,0 +1,15 @@
+{
+  "video_id": "79d809f1a64d6b6f01aedc8ca22f64e2",
+  "url": "./data/segments/3QD9oO6sRns-Scene-134.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.231,
+    0.694,
+    1.156,
+    1.619
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card encased in a clear protective plastic slab. The card features a baseball player in a purple jersey and cap, with a visible autograph. In the background, several boxes of trading cards are stacked on a surface. A small inset video window in the bottom right corner shows a man wearing a black t-shirt and a black baseball cap, sitting in front of a computer monitor. The inset contains text and logos, including \"CASEBREAKS.COM\" and \"JASIN.\" In the main view, a logo reading \"BREAK\" is visible on the surface below the card. As the sequence progresses, the person holding the card slightly tilts and shifts their grip on the protective slab, changing the angle of the card and the reflection of light on the plastic surface, while the man in the inset remains relatively still."
+}

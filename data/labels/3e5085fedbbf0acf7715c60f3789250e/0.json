@@ -1,0 +1,15 @@
+{
+  "video_id": "3e5085fedbbf0acf7715c60f3789250e",
+  "url": "./data/segments/3Kxl1O310k8-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.955,
+    17.865,
+    29.775,
+    41.685
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a static presentation slide displayed in a video conferencing format. The slide features a table titled \"CPA statute\" with columns for \"Open Space,\" \"Historic,\" \"Recreation,\" and \"Housing,\" and rows for \"Acquire,\" \"Create,\" \"Preserve,\" \"Support,\" and \"Rehabilitate and/or Restore.\" The table uses a color-coded system where \"YES\" entries are in light yellow or blue cells, and \"NO\" entries are in blue cells. Specifically, the \"Housing\" column is entirely blue with \"YES\" entries, while the \"Support\" row contains \"NO\" for all categories except Housing. In the bottom corners of the screen, small video feeds show individuals in a meeting; one person is visible in the top center and others in the bottom left and right corners. The scene remains unchanged across the frames, with the same slide and participants visible throughout the sequence."
+}

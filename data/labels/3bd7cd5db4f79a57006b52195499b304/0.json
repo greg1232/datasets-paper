@@ -1,0 +1,15 @@
+{
+  "video_id": "3bd7cd5db4f79a57006b52195499b304",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.155,
+    0.465,
+    0.775,
+    1.085
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news report from News18 India features a sequence of shots showing a group of men in a brightly lit indoor hallway. Several men are visible, mostly wearing light-colored button-down shirts; one man in the center wears a white shirt and appears to be moving forward. The scene is overlaid with several news graphics. The top banner reads \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\" and \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\". Small circular portraits of several men accompany labels such as \" \u0921\u093f\u092a\u094d\u091f\u0940 CM\", \"\u0938\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940\", \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\", \"\u092e\u0902\u0924\u094d\u0930\u0940\", \"\u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930\", and \"\u0935\u093f\u091c\u092f \u091a\u094c\u0927\u0930\u0940\". A red ticker at the bottom states \"JDU \u0915\u094b\u091f\u0947 \u0938\u0947 \u092e\u0902\u0924\u094d\u0930\u0940 \u092c\u0928\u0947 \u0935\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\" and displays the time \"10:03 PM\" alongside the word \"MAHARASHTRA\". As the sequence progresses, the camera follows the men as they walk through the hallway, with some figures appearing blurred due to motion."
+}

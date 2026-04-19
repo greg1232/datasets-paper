@@ -1,0 +1,15 @@
+{
+  "video_id": "722c5d8d21c3f2ddca6150edf110513d",
+  "url": "./data/segments/3EO0YIxkle8-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.779,
+    8.336,
+    13.894,
+    19.452
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older woman with short, curly grey hair and glasses is seated at a desk in an office setting. She is wearing a red collared shirt and is speaking, with her mouth open and expressions changing slightly across the sequence. Behind her is a large window showing green foliage outside, and to her right is a tall, beige metal filing cabinet topped with several folders and organizers. On the desk in front of her, there is a laptop, a stack of papers, and a folder containing a small dark device. To the left of the filing cabinet, a few blue and green bottles are visible on a shelf. The woman remains in a centered position throughout the clip, continuing her speech as the scene remains static except for her facial movements and subtle shifts in posture."
+}

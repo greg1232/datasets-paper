@@ -1,0 +1,15 @@
+{
+  "video_id": "95e1c82146450eea2b84a2c510994391",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a white, fluffy garment sits at a dark table against a background of blue horizontal lines. On the table is a dark purple bottle with a white label featuring the \"Kin.\" logo, along with other items including a small glass of clear liquid and a dark platter of food. The person's hand is visible near the bottle. Across the first three frames, the scene remains static while the on-screen text reads \"Two ingenious ways to socialize\". In the final frame, the text changes to \"and not one drop of alcohol.\" throughout the sequence, a tall, thin candle sits in the foreground to the right, slightly blurring the view. The overall lighting is moody and blue-toned, emphasizing the product on the table."
+}

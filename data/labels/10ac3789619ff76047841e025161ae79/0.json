@@ -1,0 +1,15 @@
+{
+  "video_id": "10ac3789619ff76047841e025161ae79",
+  "url": "./data/segments/3a0FD1177FA-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.261,
+    0.782,
+    1.303,
+    1.825
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown working on a craft project atop a white grid cutting mat. The workspace includes a small red stamp, a black ink pad, and white paper. In the initial frames, the person's left hand holds a white rectangular sentiment piece that reads \"Hoping your BIRTHDAY is filled with ALL THE best things\" over a piece of green and gold floral patterned paper. By the final frames, the person's right hand enters the view, and the sentiment piece is repositioned. Two strips of the floral patterned paper are laid out on the mat. A watermark in the bottom left corner of the scene reads \"Amazing Jill\". The action focuses on the precise placement of the sentiment piece onto the decorative background as part of a card-making process."
+}

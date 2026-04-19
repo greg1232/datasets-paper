@@ -1,0 +1,15 @@
+{
+  "video_id": "414e341fa8a97d1bb9dd6f3043fc28c6",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-202.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.289,
+    3.866,
+    6.444,
+    9.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard, wearing a white t-shirt and black over-ear headphones, is speaking into a professional condenser microphone. He is positioned in front of a wall covered in dark grey acoustic foam panels. The microphone is held by a shock mount and a boom arm, which has the text \"Rode\" visible on its side. Across the sequence, the man's expression transitions from a neutral look as he begins to speak to a wide, open-mouthed laugh. His eyes shift slightly, and his facial muscles relax into a smile. A tattoo is partially visible on his right upper arm. The lighting remains consistent, and the background stays static while the man's emotional state and mouth position change rapidly as he reacts to something."
+}

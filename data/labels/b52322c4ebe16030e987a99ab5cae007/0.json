@@ -1,0 +1,15 @@
+{
+  "video_id": "b52322c4ebe16030e987a99ab5cae007",
+  "url": "./data/segments/3UTYZnr_9PQ-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.116,
+    3.347,
+    5.578,
+    7.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A fleet of grey military aircraft is lined up on a grassy airfield under a bright, cloudy sky. In the background, a flat landscape with sparse buildings and a distant tower is visible. The planes are arranged in an angled row, facing toward the right side of the frame. As the sequence progresses, the camera pans slowly to the right, shifting the perspective and revealing more of the aircraft lineup. The planes remain stationary on the ground throughout the movement. The grass is a mix of green and brownish tones, and the paved runways are seen in the distance behind the aircraft. There are no people visible, and there is no on-screen text or logos present in the frames."
+}

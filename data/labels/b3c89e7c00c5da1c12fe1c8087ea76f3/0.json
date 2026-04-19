@@ -1,0 +1,15 @@
+{
+  "video_id": "b3c89e7c00c5da1c12fe1c8087ea76f3",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.192,
+    0.576,
+    0.959,
+    1.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green and black all-terrain vehicle (ATV) is parked inside a garage or workshop setting. The ATV features a large green front cargo box with the text \"500\" printed on its side and a \"YAMAHA\" logo visible on the upper section. It is equipped with a black front brush guard and large, knobby off-road tires. In the background, various pieces of equipment, including a red tool chest and other vehicle parts, are visible against a gray wall. The lighting is consistent throughout the scene, and there are no people present in the frames. Across the sequence, there is no movement or change in the position of the vehicle or the surrounding objects; the image remains static, showing the same view of the parked ATV from a slightly elevated angle."
+}

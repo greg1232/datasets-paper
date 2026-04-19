@@ -1,0 +1,15 @@
+{
+  "video_id": "68d915e5e05ef00d0ea6e499524fc8a5",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video consists of a static black background featuring four identical white logos. Each logo displays the text \"TFNN.com\" in a bold, sans-serif typeface, with the smaller phrase \"EDUCATING INVESTORS\" centered directly beneath it in all capital letters. The logos are arranged symmetrically, with one in each of the four quadrants of the screen. There are no people, movement, or environmental changes throughout the sequence. The imagery remains completely still and unchanged across the duration of the clip, maintaining a minimalist presentation of the corporate branding against the dark void."
+}

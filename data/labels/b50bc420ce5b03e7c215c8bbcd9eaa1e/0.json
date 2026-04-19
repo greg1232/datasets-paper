@@ -1,0 +1,15 @@
+{
+  "video_id": "b50bc420ce5b03e7c215c8bbcd9eaa1e",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.7,
+    5.1,
+    8.5,
+    11.9
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This educational presentation on \"CRYOGENIC ENGINEERING\" focuses on \"Tutorial \u2013 3\" and discusses the \"Figure of Merit (FOM)\". The slide features a thermodynamic diagram plotting temperature against entropy (S), showing a cycle with processes labeled \"T=const\", \"p=const\", and \"D=const\". Two calculations are displayed on the graph: \"$\\frac{W}{\\dot{m}_r} = 2772.1$\" and \"$\\frac{W}{\\dot{m}_r} = 476.0$\". At the bottom, the text \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" is visible alongside an NPTEL logo. As the sequence progresses, a formula for FOM is introduced: \"$\\text{FOM} = \\frac{\\frac{W}{\\dot{m}_r}}{\\frac{W}{\\dot{m}_r}}$\". In the final frames, the specific values from the graph are substituted into this formula, resulting in the final calculation: \"$\\frac{476.0}{2772.1} = 0.1717$\". The layout remains static while the mathematical derivation is incrementally written on the screen."
+}

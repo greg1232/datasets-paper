@@ -1,0 +1,15 @@
+{
+  "video_id": "2ea476968727314676bf99e0acda343b",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-368.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.196,
+    0.588,
+    0.979,
+    1.371
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sports simulation interface displays a football game's play-calling menu. The screen shows a stadium backdrop with \"FedEx\" logos and a game clock at \"3rd 3:25 28\" or \"3rd 3:25 28 :22\". A small inset video window features a fair-skinned man with blond hair wearing a dark shirt and a headset. The main interface reads \"SELECT A PLAY\" and lists categories like \"COACH SUGGESTIONS,\" \"PLAYER,\" and \"FORMATION.\" In the top frames, the active play selection highlights \"GO DBL POST\" under the \"FLOOD\" concept. As the sequence progresses, the selection shifts to \"Z SPOT\" and \"INSIDE ZONE.\" A \"PREVIOUS PLAY\" panel indicates \"MIKE BLITZ 2\" and \"FLOOD.\" Text such as \"4th & 8\" and \"P. PETERSON 3 TACKLES\" is visible near the top of the screen. The interface remains largely static while the highlighted play selection changes between the options."
+}

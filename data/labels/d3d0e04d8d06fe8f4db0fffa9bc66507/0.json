@@ -1,0 +1,15 @@
+{
+  "video_id": "d3d0e04d8d06fe8f4db0fffa9bc66507",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.255,
+    0.765,
+    1.275,
+    1.785
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black shirt and a black baseball cap is visible in a small video call window in the upper right corner of a computer screen. The main portion of the screen displays a complex conceptual map with a black background, featuring various colored circular icons connected by curved blue and green lines. Text labels such as \"Emotional Intelligence,\" \"Inquiry,\" and \"Holistic Thinking\" are scattered across the map. The browser tabs at the top of the screen include titles like \"True Learning by Systemenith,\" \"Future of Society by Systemenith,\" and \"Insights > Introduction to Rumi.\" As the sequence progresses, the person in the video window remains present, and the conceptual map stays static until a white rectangular pop-up window containing a small diagram of interconnected blue boxes and lines appears over the bottom center of the screen."
+}

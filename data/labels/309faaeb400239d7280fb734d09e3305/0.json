@@ -1,0 +1,15 @@
+{
+  "video_id": "309faaeb400239d7280fb734d09e3305",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.894,
+    20.683,
+    34.472,
+    48.261
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a fair complexion stands before a microphone, speaking or singing. He is dressed in a white long-sleeved shirt paired with a dark vest and a traditional red and white decorative collar. He holds a guitar, though only the top portion is visible. The setting is indoors against a backdrop of brown wooden slats. In the foreground, the backs of several people's heads are visible, including individuals with blonde and white hair. A small white rectangular logo with the black text \"ORCA\" is positioned on the right side of the scene. Across the sequence, the man remains in the same position, with slight shifts in his facial expressions and head posture as he speaks, while the audience members in the foreground remain relatively still."
+}

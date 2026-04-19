@@ -1,0 +1,15 @@
+{
+  "video_id": "a491a00925be0f82d88e48c4cc76ebc5",
+  "url": "./data/segments/3iUTkJy84EY-Scene-121.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.33,
+    0.55,
+    0.77
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses, wearing a light green blouse with an embroidered neckline and a dark necklace, speaks against a plain black background. She is positioned in the center of the frame, using her hands to gesture as she talks. A small logo with the text \"NPTEL\" is visible in the bottom left or center of the screen. Across the sequence, her facial expression remains focused and serious, while her mouth moves to indicate speech. Her hands shift slightly, moving from a more closed position to an open, gesturing motion to emphasize her points. The lighting is consistent and focused on the woman, leaving the background entirely dark and devoid of any other objects or people."
+}

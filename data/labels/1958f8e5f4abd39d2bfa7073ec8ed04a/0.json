@@ -1,0 +1,15 @@
+{
+  "video_id": "1958f8e5f4abd39d2bfa7073ec8ed04a",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.255,
+    0.766,
+    1.277,
+    1.788
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit in a room in front of a television and a shelf filled with CDs. Both men wear grey t-shirts; the man on the right also wears a necklace with a dark pendant. Above them, a television screen displays the text \"OUR STUPID REACTIONS\" in large, bold, white letters. An inset video window is centered in the frame, showing a cinematic scene. In the first frame, the inset shows a close-up of a person's clothing and the text \"My life doesn't hold more value than my family.\" In the second frame, the inset widens to show a man and a woman interacting. In the third frame, the inset focuses on a woman's face. In the final frame, the inset shows a close-up of a man's face. Throughout the sequence, the two men in the foreground maintain relatively still expressions while watching the video."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "3bfaa8c8df68331c8e1887a2bab25c3d",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-152.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.501,
+    2.502,
+    3.503
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide cinematic shot captures a rugged, mountainous landscape overlooking a vast sea of clouds. Steep, dark volcanic peaks with patches of green and yellow vegetation rise above a thick layer of white clouds that fills the valleys and stretches to the horizon under a soft, warm light. Across the sequence, the clouds in the center of the valley shift and drift, their shapes evolving as they flow between the mountain ridges. The lighting creates a golden glow on the edges of the clouds and the slopes of the mountains, while deep shadows persist in the crevices of the peaks. There are no people, equipment, or on-screen text visible; the scene is a steady, atmospheric view of the natural environment as the cloud cover subtly moves and transforms."
+}

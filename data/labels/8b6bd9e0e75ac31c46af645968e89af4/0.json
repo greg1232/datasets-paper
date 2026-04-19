@@ -1,0 +1,15 @@
+{
+  "video_id": "8b6bd9e0e75ac31c46af645968e89af4",
+  "url": "./data/segments/3pLMflJEGQ4-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.75,
+    2.25,
+    3.75,
+    5.25
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with white hair, a white beard, and glasses is positioned in front of a background of dense green foliage. He wears a dark grey turtleneck sweater under a grey jacket with a fleece collar and silver metallic accents on the shoulders. He has a white earbud in his right ear. As the sequence progresses, he is speaking, with his mouth open in the first frame and transitioning into different shapes as he talks. His facial expression remains relatively neutral, and his head stays centered in the shot. There is no on-screen text, equipment, or other people visible. The background remains static throughout the clip, while the only movement occurs in the man's facial expressions and slight shifts in his head position."
+}

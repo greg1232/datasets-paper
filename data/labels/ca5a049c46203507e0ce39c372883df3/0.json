@@ -1,0 +1,15 @@
+{
+  "video_id": "ca5a049c46203507e0ce39c372883df3",
+  "url": "./data/segments/3iUTkJy84EY-Scene-151.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with black hair and glasses is positioned in front of a plain black background, appearing to deliver a presentation or lecture. She wears a light green, long-sleeved top featuring delicate floral embroidery around the neckline and a black necklace. A small lapel microphone is clipped to her shirt. In the lower-left corner of the frames, a small logo containing the text \"NPTEL\" is visible. Throughout the sequence, the woman speaks and uses hand gestures to emphasize her points. In the first frame, her hands are raised and open. In the second, her hands remain slightly elevated. In the third, she lowers her hands slightly while continuing to speak. Finally, in the fourth frame, she brings her hands closer to her chest in a gesturing motion. The setting remains static, with only the woman's facial expressions and hand movements changing as she speaks."
+}

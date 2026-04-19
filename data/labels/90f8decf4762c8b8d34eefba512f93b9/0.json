@@ -1,0 +1,15 @@
+{
+  "video_id": "90f8decf4762c8b8d34eefba512f93b9",
+  "url": "./data/segments/3fokLGPK15Q-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.56,
+    1.68,
+    2.8,
+    3.92
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white shirt stands on a stage, speaking into a microphone. He is positioned on the left side of the frame, illuminated by a spotlight. Behind him, a large screen displays the text \"SLUSH 1\" in a stylized white font. To the right, a DJ booth is visible with equipment and a person operating it. The stage is filled with dynamic, crossing beams of purple and blue light that cut through a dark environment, creating a high-energy atmosphere. Throughout the sequence, the man remains in the same position, continuing his speech, while the light beams shift and sweep across the scene. The background text and the DJ booth remain constant, with only the movement of the light patterns changing slightly as the sequence progresses."
+}

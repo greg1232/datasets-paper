@@ -1,0 +1,15 @@
+{
+  "video_id": "f6f37b9f40bc9bc467ed79f374e0f7ae",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-092.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.583
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large ballroom with high ceilings and chandeliers, several people are gathered on a blue carpeted floor. Three primary individuals are featured: a man on the left wearing a black sleeveless top and white pants, a person in the center wearing an all-white outfit, and a man on the right wearing a black sleeveless top and blue jeans. In the background, a crowd of people is seated at tables. Throughout the sequence, the man on the left remains relatively stationary. The person in white moves slightly back and forth. The man in blue jeans is the most active, moving from the right side of the frame toward the center. By the final scene, the man in blue has stepped closer to the person in white, and another individual in a beige outfit has appeared behind them. No on-screen text or logos are visible."
+}

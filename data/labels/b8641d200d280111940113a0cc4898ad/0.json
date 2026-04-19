@@ -1,0 +1,15 @@
+{
+  "video_id": "b8641d200d280111940113a0cc4898ad",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.012,
+    3.037,
+    5.062,
+    7.087
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and glasses is seen in a small video inset in the bottom left corner of a screen recording. He is wearing a gray shirt and speaking toward the camera. The main part of the screen displays a financial trading platform with a candlestick chart and technical analysis lines. A prominent red and white \"TICKMILL\" logo appears in the top left and within the video inset. On the left side of the interface, German text reads \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN\" and includes a list of features such as \"Minimale Spreads ab 0.1 Pips\" and \"Keine Requotes,\" followed by the website \"www.tickmill.com/de\". A red horizontal box highlights a specific price area on the chart. Across the frames, the man continues to speak, while the cursor moves slightly across the trading chart."
+}

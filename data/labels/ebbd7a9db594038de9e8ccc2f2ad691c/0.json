@@ -1,0 +1,15 @@
+{
+  "video_id": "ebbd7a9db594038de9e8ccc2f2ad691c",
+  "url": "./data/segments/3E6ctN22V7k-Scene-087.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing light-colored pants and a white shirt is pushing a lime-green equipment cart across a light brown floor in front of a brick wall. The cart is a rugged flight case with silver metal edges and wheels, featuring two grey plastic bins tucked into a lower compartment. A lime-green panel is partially lifted, revealing the storage area beneath. As the person moves the cart from left to right, their hands remain on the top edges of the case to guide it. The movement is steady and minimal across the frames, with the cart shifting slightly to the right. No text or logos are visible on the equipment or in the background. The lighting is consistent throughout the scene, highlighting the contrast between the bright green cart and the earthy tones of the brick wall and flooring."
+}

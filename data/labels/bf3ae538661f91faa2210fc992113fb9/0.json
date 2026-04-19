@@ -1,0 +1,15 @@
+{
+  "video_id": "bf3ae538661f91faa2210fc992113fb9",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-224.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.19,
+    0.57,
+    0.95,
+    1.33
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a video conference call featuring a person wearing a dark cap and dark clothing in a small window in the upper right corner. The main area of the screen displays a digital concept map on a black background with various colorful icons connected by blue curved lines. Some of the labels on the map include \"Diversity,\" \"Health,\" \"Equity,\" \"Wealth,\" \"Opportunity,\" and \"Education.\" Browser tabs at the top of the screen indicate titles such as \"Trust & Learning by Systemini,\" \"Promote by Systemini,\" \"Future of Society by Systemini,\" and \"Insights - Introduction | Kumu.\" A sidebar on the right lists \"David Beddingfield.\" Throughout the sequence, the view remains static; the person in the video window remains in place, and the concept map does not change, indicating a still moment or a pause in the presentation."
+}

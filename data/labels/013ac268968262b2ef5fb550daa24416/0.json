@@ -1,0 +1,15 @@
+{
+  "video_id": "013ac268968262b2ef5fb550daa24416",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-137.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.225,
+    9.675,
+    16.125,
+    22.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a computer desktop displaying a web browser with multiple open tabs, including \"Trial & Learning by Systemic\", \"Future of Society by Systemic\", and \"Rural Community Feed System\". The main window shows a dark-themed conceptual map with interconnected circular nodes. One node contains a photo of a person, and another connects to a larger rectangular image depicting people gathered around tables in a room with colorful items. In the upper right corner, a small video inset shows a man wearing a dark baseball cap and a dark shirt, looking toward the camera. As the sequence progresses, the man in the inset shifts his gaze and makes slight facial movements, while the rest of the screen remains static. Legible text on the screen includes \"blackbox.ai trial learning\" in the address bar and small labels on the conceptual map such as \"Systemic Blocking\"."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "cabe4195c023df090749d35cf3e58849",
+  "url": "./data/segments/3U065Ox-1uA-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.279,
+    0.838,
+    1.397,
+    1.956
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip shows people moving through an outdoor public area in front of a large building. The scene is brightly lit with a strong glare from the sun. Several individuals are visible, including a person in a grey jacket and dark pants who is carrying a large brown cardboard box and walking toward the right across the frames. Other people are present in the background, including one person wearing a white coat and another wearing a face mask. A large grey bag is seen being moved across the ground. The top of the screen features the text \"REUTERS\" and a logo that reads \"VOA 60 LEARNING ENGLISH\". At the bottom of each frame, the caption \"And some celebrations of the Lunar New Year\" is displayed. As the sequence progresses, the person carrying the box moves further to the right, and others shift their positions in the background."
+}

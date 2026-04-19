@@ -1,0 +1,15 @@
+{
+  "video_id": "17944a5dd36e52cd8917fdf08b2f9d5d",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser window displaying a technical logging interface, likely for software monitoring. The interface features a dark mode theme with a timeline of log events at the top and a detailed log table below. The browser tab is titled \"Google Chrome\" and the system clock in the top right corner reads \"Oct 28 00:23\". The interface displays a query for log values containing the string `\"Fluent-C01\"`. The log table lists several entries with timestamps and metadata, including text such as `\"level\":\"info\"` and `\"message\":\"Log received from Fluent-C01\"`. A sidebar on the left contains filter options like \"Log Level,\" \"Log Source,\" and \"Log Tag.\" Throughout the sequence of frames, the screen remains static, showing the same technical data and interface layout without any visible cursor movement or content changes."
+}

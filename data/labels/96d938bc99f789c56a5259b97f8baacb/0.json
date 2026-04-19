@@ -1,0 +1,15 @@
+{
+  "video_id": "96d938bc99f789c56a5259b97f8baacb",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-100.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.45,
+    1.35,
+    2.25,
+    3.15
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a baseball card featuring a player named JACKSON against a colorful background with palm tree graphics. The card is signed in blue ink and includes a serial number \"3/5\". In the top right of the screen, a logo reads \"JASPYS\" above \"CASEBREAKS.COM\". A small inset video window shows a man with a beard wearing a dark t-shirt sitting in a room with electronics. As the sequence progresses, the hand moves the card, shifting its position and angle, eventually sliding it into a protective plastic sleeve. The background environment remains consistent, featuring a table with stacks of other cards and various equipment. The \"JASPYS CASEBREAKS.COM\" branding persists throughout the clip, and the man in the inset window continues to watch the process of sleeving the card."
+}

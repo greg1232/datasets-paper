@@ -1,0 +1,15 @@
+{
+  "video_id": "f1fbcb50257f247405b2b39a2b65af3d",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-226.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a formal presentation setting, a man stands at a podium facing a seated audience. He wears glasses, a white shirt, and a dark vest. The background consists of large, vertical wood-paneled walls with horizontal slats. The audience members are viewed from behind, dressed in casual attire such as sweaters and jackets in colors like white, maroon, yellow, and brown. The scene remains static across the sequence, with the speaker and the audience members maintaining their positions. The text \"ORCA\" appears in white block letters on a black rectangular background, overlaid on the right side of the frame near the audience. The lighting is consistent, and no significant movement or change in interaction occurs between the frames, depicting a continuous moment during a lecture or presentation."
+}

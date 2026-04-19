@@ -1,0 +1,15 @@
+{
+  "video_id": "c5a9c9a87abf8778e8c77ae119230c6d",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-369.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.442,
+    1.325,
+    2.208,
+    3.092
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An American football game is played in a large stadium under bright lights, with a crowd of spectators in the stands. Players from two teams are positioned on a green grass field; one team wears white jerseys and white pants, while the opposing team wears dark jerseys and dark pants. A digital overlay at the top of the screen displays game information, including \"4th & 8\", \"3rd\", and a game clock counting down from \":14\" to \":11\". The text \"MAKE SOME NOISE\" is visible on the scoreboard. A small inset window in the lower left shows a man with blonde hair and a dark blue shirt. Across the frames, the players on the line of scrimmage engage and move forward. Red lines and markers appear on the field in the later frames to indicate a play's trajectory or positioning."
+}

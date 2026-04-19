@@ -1,0 +1,15 @@
+{
+  "video_id": "9ea7566de0623f069c7da196fa2ce8f1",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.14,
+    0.419,
+    0.699,
+    0.978
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a grey and white checkered button-down shirt holds a black tablet in a bright, indoor setting. The tablet screen displays a light-colored interface with a blue header and a vertical list of items marked by small yellow circles. In the background, a white wall features a poster with small images and text, and a white surface is visible. As the sequence progresses, the person adjusts their grip on the tablet, shifting it slightly and tilting it toward the camera. A hand enters the frame from the right, briefly interacting with the device. The camera remains focused on the tablet screen and the person's hands and torso, capturing the subtle movement as they navigate the device's interface. No specific text on the screen or the background poster is legible."
+}

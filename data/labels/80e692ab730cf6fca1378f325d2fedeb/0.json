@@ -1,0 +1,15 @@
+{
+  "video_id": "80e692ab730cf6fca1378f325d2fedeb",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-228.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.526,
+    0.876,
+    1.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a room with wood-paneled walls and horizontal blinds, a small audience sits facing two men at a podium. One man, with gray hair, is seated on the left, while another man, wearing glasses, a white shirt, and a dark vest, stands on the right. The audience consists of several people seen from behind, including individuals wearing a maroon sweater, a yellow sweater, and a green jacket. A laptop is open on the podium in front of the speakers. The text \"ORCA\" is visible in the bottom right corner of the scene. Across the frames, there is very little movement; the seated and standing individuals remain in their positions, and the overall composition of the scene stays consistent, capturing a steady moment during a presentation or meeting."
+}

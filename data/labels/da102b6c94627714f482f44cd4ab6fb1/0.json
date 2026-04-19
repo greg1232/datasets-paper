@@ -1,0 +1,15 @@
+{
+  "video_id": "da102b6c94627714f482f44cd4ab6fb1",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.459,
+    1.376,
+    2.294,
+    3.212
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands interact with an open product catalog titled \"FEELS LIKE FROST SUITE.\" The catalog showcases a variety of winter-themed crafting supplies, including patterned papers, ribbons, and stamps. In the first frame, the person's right hand is positioned near the top of the right page. As the sequence progresses, their hands move across the page, gesturing toward various items like rolls of washi tape and stamped images. The left page features an arrangement of samples with text such as \"Yule tide Cheer\" and \"You wanted every heart.\" The right page lists specific products with prices, including a \"Cling set 153434 $78.00.\" The background remains static, focusing on the open book on a light-colored surface. In the final frame, the person's hand is blurred as it moves across the top of the right page, indicating active browsing."
+}

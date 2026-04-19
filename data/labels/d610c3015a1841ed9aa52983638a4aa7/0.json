@@ -1,0 +1,15 @@
+{
+  "video_id": "d610c3015a1841ed9aa52983638a4aa7",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.758,
+    11.275,
+    18.792,
+    26.308
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark top appears in a small inset video window at the top right of a presentation slide. The slide is titled \"Logging Processing in Kubernetes\" with the subtitle \"Read Logs from the Filesystem or Journald\". The presentation contains a technical diagram illustrating a data flow from a \"Master\" node containing \"Pod 1\" through \"Pod N\" toward a log path labeled \"/var/log/containers/*\" and a \"Read Logs\" action. The diagram includes various logos, including the Azure logo, an AWS logo, and a Kubernetes logo. Red arrows indicate the movement of logs toward these cloud providers and other storage solutions. Throughout the sequence, the person in the inset remains in the same position and attire, and the content of the slide remains static, with no changes to the text, diagrams, or logos across the frames."
+}

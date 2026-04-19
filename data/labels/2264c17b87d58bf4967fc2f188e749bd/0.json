@@ -1,0 +1,15 @@
+{
+  "video_id": "2264c17b87d58bf4967fc2f188e749bd",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-068.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up view of a vehicle's instrument cluster. The dashboard features several gauges and a digital display. Legible text on the panel includes \"UNLEADED FUEL ONLY\" and labels for the gauges, such as \"COOL\" and \"HOT\" on the temperature gauge. A digital screen displays numerical data, though the specific values are blurred. A person's hand, partially visible and wearing a white sleeve, is positioned near the steering column. Across the frames, the person reaches toward the ignition area, and a key is inserted into the ignition switch. The lighting remains consistent, and the camera remains stationary, capturing the focused action of starting or preparing to start the vehicle. The scene progresses from the hand approaching the ignition to the key being firmly seated in the lock."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7ec7837c3813b1f03e6771b5b315c2dc",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.158,
+    12.475,
+    20.792,
+    29.108
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair and glasses, wearing a light-blue dress shirt, is captured in a sequence of frames during a formal proceeding. He is seated behind a desk or table, with a dark jacket and a red bag with a cartoon character visible behind him. On-screen text identifies the event as \"April 12, 2019 House Committee on General, Housing, and Military Affairs\" and a green banner reads \"S.23 Increasing the Minimum Wage,\" accompanied by the \"ORCA\" logo. As the sequence progresses, the man transitions from a still, attentive posture to an active one, lifting his right arm and gesturing with his hand while speaking. The background remains constant, showing a light-colored wall and a vent, while the man's movements shift from a neutral gaze to an animated expression of communication."
+}

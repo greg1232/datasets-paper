@@ -1,0 +1,15 @@
+{
+  "video_id": "f8d4a3752e48098051030de465ab3432",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-567.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the white text \"ION NEVER DO SHIT\" is seated in a studio setting. He is positioned behind a professional black microphone. The background consists of a wall adorned with numerous framed photographs and a white mannequin wearing a white shirt. To the right, clothing racks with various garments are visible. Two logos appear on the screen: a circular logo on the left featuring a red and white design and text that is partially illegible, and a red logo on the right that reads \"BOOSTLY 101\". Throughout the sequence, the man remains in a stationary seated position, subtly shifting his facial expression and glancing slightly to the side while maintaining a neutral demeanor. The background and equipment remain static across the duration of the clip."
+}

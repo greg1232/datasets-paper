@@ -1,0 +1,15 @@
+{
+  "video_id": "2f72f3b52ceefcd3da0f4b7346ea1bc5",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-158.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.809,
+    2.427,
+    4.046,
+    5.664
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of approximately twelve students and faculty members pose for a celebratory photograph in front of a red brick building with a white stone facade that reads \"SCHO OF MEDICINE, A.D. MC\". Most of the individuals wear white lab coats over casual clothing, with several wearing blue scrubs and others in pink pants. One person stands on the far right wearing a green blazer. In the background, a person is seen leaping into the air with their legs spread wide. The group smiles and poses together, with some individuals making peace signs. A large QR code is overlaid in the upper left corner of the first frame, and the email address \"lbuchanan@som.umaryland.edu\" is written in white text at the bottom left. Throughout the sequence, the group remains largely stationary, though subtle shifts in their posture and expressions occur as they pose for the camera."
+}

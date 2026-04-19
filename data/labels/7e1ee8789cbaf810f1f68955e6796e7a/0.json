@@ -1,0 +1,15 @@
+{
+  "video_id": "7e1ee8789cbaf810f1f68955e6796e7a",
+  "url": "./data/segments/3fokLGPK15Q-Scene-086.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.225,
+    0.675,
+    1.125,
+    1.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person stands on a stage during a presentation, appearing on a small circular screen to the left of a larger central circular display. The larger screen features the white text \"SLUSH\" in a stylized font. The stage is lit with dramatic, intersecting purple and blue laser beams that crisscross the space. In the middle of the stage, there is a small table and a few chairs. The person on the screen is wearing a white shirt and appears to be speaking. Across the sequence, the person on the small circular screen moves slightly, and the patterns of the laser beams shift across the background and stage area, while the \"SLUSH\" logo remains stationary on the central screen. The overall atmosphere is dark, with the vibrant neon lights providing the primary illumination for the scene."
+}

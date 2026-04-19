@@ -1,0 +1,15 @@
+{
+  "video_id": "788cf82eceb343a2811bafafd2e46b17",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-116.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.62,
+    1.86,
+    3.1,
+    4.34
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A televised news broadcast from \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" features a press conference held under the banner of the \"NATIONAL DEVELOPMENTAL INCLUSIVE ALLIANCE\" in \"NEW DELHI\" on \"19 DECEMBER 2023\". A panel of men in formal and traditional Indian attire, including white kurtas and vests, are seated behind a long white table. The scene remains largely static, though the on-screen graphics shift. The top frames feature a red banner reading \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\" and a profile of \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\" alongside his photo. The bottom frames change the top headline to \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\". A consistent red ticker at the bottom reads \"\u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e: \u0938\u092c\u0915\u093e \u0938\u093e\u0925 \u0938\u092c\u0915\u093e \u0935\u093f\u0915\u093e\u0938 \u0915\u093e \u092e\u0902\u0924\u094d\u0930\". Small portrait photos and names of officials, such as \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\" and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930\", appear on the right side, while other names like \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\" are visible on the left."
+}

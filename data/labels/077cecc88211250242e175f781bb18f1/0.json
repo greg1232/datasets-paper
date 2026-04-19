@@ -1,0 +1,15 @@
+{
+  "video_id": "077cecc88211250242e175f781bb18f1",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.136,
+    0.407,
+    0.678,
+    0.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on a white promotional flyer or badge. The top of the card features the logo \"IDTechEx\" in green and black text on the left and the letters \"ALP\" on the right, separated by a horizontal blue line. Below the line, red text reads, \"Reducing Power Consumption of IoT Gas Sensors by 1000X Thursday, 15 November 2018: 5:10PM, Grand Ballroom F DON'T MISS IT\". To the right of this text is a square QR code. At the bottom, smaller gray text begins with \"Carbon Nanotube Sensors ha\" and \"Industry Insid\". As the video progresses, the camera remains stationary, capturing the card with minimal movement, though slight shifts in lighting and focus occur across the frames. No people, clothing, or other equipment are visible in the scene."
+}

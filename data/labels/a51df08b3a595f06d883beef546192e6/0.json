@@ -1,0 +1,15 @@
+{
+  "video_id": "a51df08b3a595f06d883beef546192e6",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.826,
+    1.376,
+    1.927
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, a person wearing a blue surgical gown and mask stands over a patient mannequin covered in blue sterile drapes. They use a hand-held ultrasound probe on the mannequin's neck, with a monitor nearby displaying the imaging. Another person, also in blue surgical attire, is positioned to the left, assisting with the procedure. In the background, a third person in pink scrubs and a mask observes. Large white text reading \"Sim Week\" appears across the center of the scene, and a logo in the bottom right corner says \"Sim Week\" followed by smaller text stating \"STUDENT TRANSITION TO RESIDENCY\". As the sequence progresses, the text \"A Week in the Life of a Surgical Intern Student Transition to Residency\" appears below \"Sim Week\". The personnel remain in their positions, focused on the simulation task as the on-screen text overlays evolve."
+}

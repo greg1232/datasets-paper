@@ -1,0 +1,15 @@
+{
+  "video_id": "6bf01f38d85b5b92bd108611195d61b5",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.211,
+    0.632,
+    1.053,
+    1.474
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting, possibly a trade show or conference, a man with glasses and a grey button-down shirt is seen. He wears a white name badge on his chest and stands in front of a white presentation board featuring text and diagrams. In the background, a sign reads \"Alpha\" and \"2938\". The man is initially seen smiling and looking toward the camera. As the scene progresses, he moves slightly and shifts his gaze. Another man with a grey beard and a similar grey shirt is partially visible in some frames, appearing to be in conversation or standing nearby. The perspective shifts from a medium shot of the first man to a closer view and then to a lower angle that captures the man's torso and a portion of a white display with a QR code. The man remains composed, maintaining a pleasant expression throughout the sequence."
+}

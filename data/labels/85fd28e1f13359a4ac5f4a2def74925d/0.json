@@ -1,0 +1,15 @@
+{
+  "video_id": "85fd28e1f13359a4ac5f4a2def74925d",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-222.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.206,
+    3.619,
+    6.031,
+    8.444
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a yellow box set against a white background, likely for a product reveal. In the background, a small inset video shows a man with a beard wearing a dark blue t-shirt with a yellow circular logo. The setting includes a desk with various cards and a monitor. The text \"JASPYS LIVE\" and \"CASEBREAKS.COM\" is prominently displayed as an overlay on the screen. As the sequence progresses, the person's hands carefully lift a card out of the yellow box. The card features a sports player in a red and blue uniform. The process begins with the hands positioning themselves over the box and concludes with the card being tilted upward to showcase its front face to the camera."
+}

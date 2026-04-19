@@ -1,0 +1,15 @@
+{
+  "video_id": "438e74a4f8c7aaf0613de952632fc81e",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.1,
+    15.3,
+    25.5,
+    35.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a mustache, wearing a light blue button-down shirt under a dark suit jacket, is speaking in a studio setting. He is positioned in front of a vibrant, abstract blue and green background. In the bottom left corner of each scene, the NPTEL logo is visible. As the sequence progresses, the man remains centered and continues speaking, with subtle shifts in his facial expression and head position. In the final frame, white text appears at the bottom of the screen identifying him as \"Prof. M. D. Atrey\". The lighting is consistent, and the man's attire and the background remain unchanged throughout the clip, focusing the viewer's attention on his presentation."
+}

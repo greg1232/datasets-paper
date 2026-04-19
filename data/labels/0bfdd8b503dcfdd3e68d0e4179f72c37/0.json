@@ -1,0 +1,15 @@
+{
+  "video_id": "0bfdd8b503dcfdd3e68d0e4179f72c37",
+  "url": "./data/segments/3Xr-czqAfSc-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.671,
+    5.013,
+    8.354,
+    11.696
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair, wearing a dark blazer over a dark dress, sits in a chair and looks down while reading an open book. The scene is split vertically, with a dark blue panel on the left containing white and light blue text and a brightly lit room on the right. The text on the left reads, \"When I found out about this program -- the combination of the fellowship, the masters in economics, and the faculty whose work I was already familiar with -- I was really excited about the opportunity to study under them.\" Below this, it says \"\u2014 Kristine\". Certain words, including \"fellowship\", \"masters in economics\", \"faculty\", and \"really excited\", are highlighted in a light blue color. Throughout the sequence, the woman remains in the same position, slightly shifting the book in her hands as she continues reading."
+}

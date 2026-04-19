@@ -1,0 +1,15 @@
+{
+  "video_id": "4406ce3774396a55facafc6a48986c89",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-172.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.583
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair wearing a dark blue shirt and headphones is seen in a small inset video window in the bottom-left of each frame. He is positioned in a room with a decorated Christmas tree and a computer monitor visible behind him. The main background of the screen consists of a purple and red gradient. Along the top and middle of the screen, user interface elements from a video game are displayed, including the text \"ULTIMATE TEAM\" and a status bar showing \"173,037\", \"14,600\", \"2,343,543\", and \"LVL 19\". In the lower half of the screen, a menu bar lists options such as \"AUCTION\", \"ATTRIBUTES\", \"EQUIPPABLES\", and \"STATS\". Throughout the frames, the man remains in the same position, though his facial expression shifts as he speaks, moving from a neutral look to one with a more open mouth."
+}

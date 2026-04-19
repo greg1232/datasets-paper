@@ -1,0 +1,15 @@
+{
+  "video_id": "6e1d6b6022715cfea8f25984cbea011b",
+  "url": "./data/segments/3phuyH7Y05U-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.479,
+    0.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An animated scene features a man dressed as a taxi driver, wearing a yellow polo shirt, dark sunglasses, and a yellow baseball cap with the word \"TAXI\" printed in black on the front. He has a prominent dark mustache and a stern expression. He is positioned indoors against a neutral-toned wall with a dark rectangular window or frame visible to his left. In the background, a blurred sign contains the text \"#IWILLDROPYOUOFF\" followed by the larger, stylized words \"YOUR\". A circular logo with the text \"AXE\" is visible on the left side of his chest. Across the sequence, the man remains mostly stationary, though his mouth opens slightly as if he is speaking or reacting, before returning to a closed position. The lighting and camera angle remain consistent, focusing on the man from the chest up."
+}

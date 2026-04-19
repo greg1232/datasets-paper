@@ -1,0 +1,15 @@
+{
+  "video_id": "e296eb4d47e256ca19225547f6f0c202",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-189.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.396,
+    1.188,
+    1.979,
+    2.771
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, wearing a dark blue t-shirt, is visible in a small picture-in-picture window on the left side of the screen, sitting in a room with a decorated Christmas tree behind him. The main part of the screen displays a virtual keyboard interface under the heading \"ITEM NAME.\" A text input field at the top evolves as the man interacts with the keyboard. In the first frame, the input field is empty. By the second frame, a yellow highlight appears on the letter \"m.\" In the third frame, the text \"m|\" appears in the input field, and the highlight moves to the letter \"a.\" In the final frame, the text changes to \"maxx c|\" as the highlight moves to the letter \"c.\" The keyboard includes rows of letters, numbers, and functional buttons such as \"EXIT,\" \"BACK,\" \"CAPS,\" \"CLEAR,\" and \"DONE.\""
+}

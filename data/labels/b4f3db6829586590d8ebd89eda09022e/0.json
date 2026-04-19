@@ -1,0 +1,15 @@
+{
+  "video_id": "b4f3db6829586590d8ebd89eda09022e",
+  "url": "./data/segments/3phuyH7Y05U-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.604,
+    0.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video begins with a digital character standing on a white sandy beach under a palm tree and a straw umbrella. The character wears a black t-shirt with the text \"Business Owners block\" in white, paired with dark pants. Two lounge chairs are visible behind the character, with turquoise water and distant islands in the background. The scene then abruptly cuts to an animated man from the show *American Dad!* standing in front of a yellow house at night. He wears a tan bucket hat, a white tank top, a gold chain, and a gold watch. He holds a silver microphone in his right hand and gesticulates with his left. Across the final three frames, the man remains in the same location and outfit, maintaining his grip on the microphone while slightly shifting his facial expression and the position of his gesturing arm."
+}

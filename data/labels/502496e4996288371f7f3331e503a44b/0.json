@@ -1,0 +1,15 @@
+{
+  "video_id": "502496e4996288371f7f3331e503a44b",
+  "url": "./data/segments/3phuyH7Y05U-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Inside a room with blue walls, several characters are gathered. A man in a red shirt stands behind a group that includes a blonde woman, a woman with long black hair, another blonde person, and a man with a shaved head. On the wall behind them hangs a framed painting of a man in a blue coat and hat. In the first frame, the man in the red shirt has a neutral expression. In the second frame, his face is momentarily distorted and blurred. By the third frame, he has a shocked expression with his mouth wide open. In the final frame, he maintains this shocked look while the man with the shaved head widens his eyes in surprise. The other characters remain relatively still, watching the interaction unfold. No text or logos are visible on screen."
+}

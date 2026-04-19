@@ -1,0 +1,15 @@
+{
+  "video_id": "ae63eb28f36430309bb41b51cf9e1589",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.1,
+    3.3,
+    5.5,
+    7.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short light-brown hair, wearing a dark navy blazer over a dark navy button-down shirt, stands behind a podium against a plain light-gray background. A microphone on a thin black stand and a clear plastic water bottle are positioned on the podium in front of him. The \"mediasite\" logo appears in the upper-left corner of the scene. Throughout the sequence, the man is speaking and gesturing with his hands. He begins looking slightly downward and to his left, then shifts his gaze forward and to his right. His right hand moves from a resting position to an open gesture, extending outward and slightly upward to emphasize his points. The lighting remains consistent, and the camera angle is a steady medium shot focusing on the man from the waist up."
+}

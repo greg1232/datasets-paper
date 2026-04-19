@@ -1,0 +1,15 @@
+{
+  "video_id": "3948dd5466aa590246b37703069be98b",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-068.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.512,
+    4.537,
+    7.562,
+    10.588
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair wearing a black shirt is shown in a circular inset window, while the main view displays a large silver bowl filled with popcorn. Some of the popcorn is naturally white, some is yellowish, and some is light green. The text \"UCAR CENTER FOR SCIENCE EDUCATION\" appears in the top left corner of each scene. In the beginning, the woman in the inset appears to be speaking and gesturing with her hand. A hand enters the main frame from the top left, reaching into the bowl to stir and toss the multicolored popcorn. As the sequence progresses, the hand moves more vigorously, mixing the green, yellow, and white kernels together. The woman in the inset continues to observe the process with a focused expression as the popcorn is shifted and blended within the bowl."
+}

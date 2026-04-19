@@ -1,0 +1,15 @@
+{
+  "video_id": "706c15b2b59a521a2b10ec6c7a5c8740",
+  "url": "./data/segments/3g8tiPycwPo-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.851,
+    2.553,
+    4.254,
+    5.956
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a dimly lit room where a crowd of people is gathered, facing a projection screen. The individuals are seen from behind, with some wearing casual attire, such as a green plaid shirt. Overlaid on this scene is the text \"MISES.ORG\" and the phrase \"Visit mises.org/donate to support programs and events like this.\" As the clip progresses, the background imagery fades away entirely, leaving a solid black screen. The white \"MISES.ORG\" logo and the accompanying call to action, \"Visit mises.org/donate to support programs and events like this,\" remain centered on the screen throughout the transition and for the remainder of the sequence. The visual focus shifts from the physical event setting to a clean, text-based graphic promoting donations to the organization."
+}

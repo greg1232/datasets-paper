@@ -1,0 +1,15 @@
+{
+  "video_id": "10b9c3013bc99a7a4430ae81cdd5eb90",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.482,
+    1.445,
+    2.409,
+    3.372
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A short video clip depicts a small, square electronic component on a flat, white surface. The initial frames show a blurred, plain white background with no objects in focus. As the sequence progresses, a tiny, dark brown or metallic square chip with a grid of silver contact points on its surface comes into view and becomes the focal point. The component is positioned toward the bottom right of the frame, resting on the neutral white backdrop. There are no people, text, or logos visible in the scene. The transition across the frames shows the object entering the field of vision or the camera focusing on it, moving from a blurred white expanse to a clear shot of the small hardware piece."
+}

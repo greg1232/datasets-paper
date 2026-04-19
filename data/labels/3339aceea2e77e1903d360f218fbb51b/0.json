@@ -1,0 +1,15 @@
+{
+  "video_id": "3339aceea2e77e1903d360f218fbb51b",
+  "url": "./data/segments/3hcAJKLX-Ps-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.495,
+    7.485,
+    12.475,
+    17.465
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video consists of a static graphic design with a light-colored, gradient background. Across all frames, the name \"RAHUL GANDHI\" appears in large, olive-green capital letters at the top and bottom of the screen. In the center, the text \"SUBSCRIBE TO MY CHANNEL\" is displayed, with \"SUBSCRIBE\" written in red and \"TO MY CHANNEL\" in smaller black letters. A small circular portrait of a man is located on the left side, accompanied by the text \"Rahul Gandhi @RahulGandhi\". To the right of the portrait are social media icons for Facebook, YouTube, and Instagram, followed by the website address \"www.rahulgandhi.in\". The visuals remain entirely consistent throughout the sequence, with no changes in the layout, text, or imagery, indicating a stationary end screen or promotional slide."
+}

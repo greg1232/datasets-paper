@@ -1,0 +1,15 @@
+{
+  "video_id": "c97a1c20719356913425d5645bb4092f",
+  "url": "./data/segments/3cfugv0xNbU-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.751,
+    1.051
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of images captured through a green-tinted night vision device shows a tactical operation unfolding near a vehicle. Several individuals in military-style tactical gear, including helmets and vests, are positioned on a paved surface. In the beginning, three figures are seen; one stands to the left, another is partially obscured in the center, and a third stands to the right wearing a vest with a rectangular patch on the back. As the sequence progresses, the figures shift positions. A person emerges from the open side door of a white van, moving forward while holding a weapon. Another individual moves toward the right side of the frame. A small, blue pentagonal icon appears in the lower right corner of each view. The scene remains focused on the coordinated movements of the tactical team around the vehicle under low-light conditions."
+}

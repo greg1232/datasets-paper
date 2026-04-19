@@ -1,0 +1,15 @@
+{
+  "video_id": "2fd9016566440b202f07ed78d3214c15",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.662,
+    1.986,
+    3.311,
+    4.635
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt with the white text \"ION NEVER DO SHIT\" and a matching green baseball cap with black headphones speaks into a professional grey microphone. He is in a room filled with framed photographs on the wall and clothing racks in the background, where a white mannequin wearing a white shirt and grey pants is visible. On-screen logos include a circular icon on the left and \"RODGELLY TOT\" in red text on the right. As the scene progresses, the man's facial expressions shift from speaking with an open mouth to a closed-mouth smile, turning his head slightly toward the right. The background remains static throughout the clip, while the man's movements and expressions convey an active conversation."
+}

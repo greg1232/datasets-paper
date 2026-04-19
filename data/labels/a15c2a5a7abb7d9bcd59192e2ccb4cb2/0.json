@@ -1,0 +1,15 @@
+{
+  "video_id": "a15c2a5a7abb7d9bcd59192e2ccb4cb2",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-180.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.532,
+    1.595,
+    2.659,
+    3.722
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt with the text \"I ON NEVER DO\" and \"SN7\" is speaking into a professional microphone in an indoor setting. He is gesturing with his right hand as he talks, moving it from an open position to a closed grip. The background features framed pictures on a wall and a white mannequin dressed in white clothing standing near a clothing rack. Two logos are visible on the screen: one on the left featuring a circular icon with the word \"SIGHT\" and another on the right with red text that says \"HOOD REALLY HOT\". As the sequence progresses, the man's facial expressions change and his hand gestures shift, while the background and equipment remain stationary."
+}

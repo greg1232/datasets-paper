@@ -1,0 +1,15 @@
+{
+  "video_id": "24f3abb49870249102360376e3a2f1a4",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-111.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, headphones, and a black hoodie with the gold text \"BOSSES TALK\" is seated at a desk in a recording studio. He is positioned in front of a professional microphone mounted on a black boom arm. To his right sits a black mug featuring the red and white text \"BOSSES TALK OUT LOUD\". Behind him is a white wall adorned with several gold star logos and the text \"UNICO HUSTLE\", as well as a blue sign that reads \"Where BOSSES Talk!\". Throughout the sequence, the man remains in the same position, shifting his facial expression from a slight smile to a wider grin as he looks toward someone off-camera to his right. He gestures slightly with his hands on the desk, while the background and equipment remain static."
+}

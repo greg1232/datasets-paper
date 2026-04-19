@@ -1,0 +1,15 @@
+{
+  "video_id": "851b317f7e8af978103f88294c6da525",
+  "url": "./data/segments/3L_uHTClWfk-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.087,
+    0.262,
+    0.438,
+    0.612
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a webpage from the official IRS website, featuring the logo \"IRS\" in the top left and a navigation menu with \"SEARCH | HELP | MENU\" in the top right. The page content focuses on \"Inherited IRAs\" and \"2020 coronavirus-related distribution.\" The text explains that an RMD may be required for inherited accounts and references \"Retirement Topics - Beneficiary\" and \"Publication 559, Survivors, Executors and Administrators.\" Below this, a section describes how, since \"2020 RMDs were waived,\" account owners or beneficiaries had options regarding returning RMDs to avoid paying taxes. As the video progresses, a vertical grey selection bar scrolls down the page, highlighting different sections of the text. By the end, the selection bar moves from the \"Inherited IRAs\" section down to the \"2020 coronavirus-related distribution\" section, indicating a user is scrolling or selecting text on the screen."
+}

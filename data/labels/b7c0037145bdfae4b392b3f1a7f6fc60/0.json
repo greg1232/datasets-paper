@@ -1,0 +1,15 @@
+{
+  "video_id": "b7c0037145bdfae4b392b3f1a7f6fc60",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-130.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.33,
+    0.99,
+    1.65,
+    2.31
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a web browser with several open tabs, including ones titled \"True Learning by Systemeni\", \"Problems by Systemdinitti\", \"Future of Society by Systemeni\", \"Insights Introduction Runns\", and \"Road Community Food System\". The main window shows a digital concept map on a dark background featuring various circular icons connected by blue lines. Some icons contain text such as \"Human Intelligence\", \"Artificial Intelligence\", \"Collective Intelligence\", and \"Intuitive Intelligence\". A video call window in the upper right corner shows a man wearing a black baseball cap and a dark shirt. As the sequence progresses, a white cursor moves across the concept map toward a red icon depicting a person. In the final stage, a small pop-up video window appears over the bottom right of the concept map, showing a brightly lit interior room with shelving and various items."
+}

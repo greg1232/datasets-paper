@@ -1,0 +1,15 @@
+{
+  "video_id": "755f4b0d19e5ee51f9f3bf6709b06e97",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.088,
+    0.263,
+    0.438,
+    0.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A flashlight beam illuminates a patch of dark, rocky ground and sparse green grass at night. The beam of light is centered in the frame, creating a bright white circular spot that fades into darkness at the edges. As the scene progresses, the flashlight moves slightly, shifting the illuminated area across the rough terrain. Small tufts of grass and scattered pebbles are visible within the light's path. No people, clothing, equipment, or text are present in the view. The movement of the light is subtle, causing the shadows and highlights on the ground to shift slightly between the frames, while the overall composition remains a close-up view of the earth under a handheld light source."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4b120ab5b3d9bc6b58f53a5d6191ba05",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-304.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.758
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a clear plastic case containing a sports card and a congratulatory insert. The insert contains the text \"CONGRATULATIONS!\" and \"You have just discovered a Hall of Fame Icons Autographed Card from 2021 Topps Series 1 Hall of Fame Collection.\" The name \"GREG MADDUX\" is visible at the top of the card. In the background, a smaller inset video shows a man with a beard wearing a black t-shirt sitting at a desk with equipment. The overall setting includes a surface featuring green palm tree graphics and several logos for \"JASPYS CASEBREAKS.COM\". As the sequence progresses, the person's hand moves the plastic case, shifting it slightly and then partially obscuring the view of the card in the final frames. The background inset remains constant, showing the man in the black shirt."
+}

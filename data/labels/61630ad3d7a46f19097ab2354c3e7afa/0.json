@@ -1,0 +1,15 @@
+{
+  "video_id": "61630ad3d7a46f19097ab2354c3e7afa",
+  "url": "./data/segments/3Smz5pevbI4-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    11.286,
+    33.859,
+    56.431,
+    79.004
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands on a stage in front of a backdrop featuring the repeated text \"UNITED STATES INSTITUTE OF PEACE\". He is wearing a light-colored button-down shirt, a grey blazer, and dark brown trousers. To his left is a wooden podium with a circular seal, and behind him are two flags: the flag of the United States and a blue flag with a white seal and the word \"TITU\". The man gestures with his hands as he speaks, shifting his posture across the sequence. Initially, he raises his right hand in a gesture of emphasis. He then briefly raises his hand toward his head before lowering it to his side. Finally, he opens both arms outward in an expansive gesture. The setting remains static, with the lighting and background constant throughout the scene."
+}

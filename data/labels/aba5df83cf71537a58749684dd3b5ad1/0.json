@@ -1,0 +1,15 @@
+{
+  "video_id": "aba5df83cf71537a58749684dd3b5ad1",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-105.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.933
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a black shirt, appears in a small picture-in-picture window at the bottom of a screen sharing a spreadsheet. The spreadsheet contains a list of names and regions, including \"BRIAN FRANK\" associated with \"ATLANTIC,\" \"CENTRAL,\" \"PACIFIC,\" and \"SOUTHWEST,\" as well as \"Kennard Bolt\" for \"NORTHWEST\" and \"Kyle Barber\" for \"SOUTHEAST.\" The background of the video is a large orange and grey graphic with the logo \"JASPYS CASEBREAKS.COM.\" In the upper portion of the screen, boxes of \"OBSIDIAN\" cards are visible. As the sequence progresses, the man's hand reaches into the frame to interact with the cards. On-screen text includes \"Hi like SUBSCRIBE button down below!\" and a red YouTube \"Subscribe\" button. The man remains in his designated window throughout the clip, speaking toward the camera while the spreadsheet remains the primary focus of the display."
+}

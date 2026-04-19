@@ -1,0 +1,15 @@
+{
+  "video_id": "52401db3fe6dc6ddd6c4ceaf29ae442a",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-236.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.96,
+    2.881,
+    4.802,
+    6.723
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a white tray and a gold-colored box on a table in a setting that appears to be a sports card breaking studio. The person, wearing a short-sleeved shirt, uses their hands to move the gold box within the tray. In a picture-in-picture window, a man with a beard wearing a dark blue t-shirt with a yellow circular logo is visible, looking toward the table. The background contains various card-related accessories and boxes. The text \"JASPYS LIVE\" and \"CASEBREAKS.COM\" is prominently displayed as an overlay on the screen, along with another \"JASPYS\" logo featuring \"Sports Cards & More\" underneath. Across the sequence, the person's hand enters the frame to grasp and shift the gold box toward the edge of the white tray, transitioning from a centered position to being pushed aside."
+}

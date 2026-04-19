@@ -1,0 +1,15 @@
+{
+  "video_id": "9d034d1c4836c4c87aa182b150ddd666",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-133.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a surgical setting, a person wearing blue gloves and a yellow glove performs a medical procedure on a patient's abdomen. The surgeon uses a metal surgical tool to manipulate a small piece of tissue within an incision. A white gauze pad with blood stains is positioned near the incision site. Across the frames, the surgeon's hands move as they adjust the tissue and tools, with the yellow-gloved hand moving in and out of the frame to assist. Two consistent overlays appear in each frame: a pink female silhouette icon next to the text \"Day 5\" on the left, and a small icon of a surgical tool next to the text \"Sim Week\" on the right. The lighting is focused intensely on the surgical area, while the surrounding background remains dark."
+}

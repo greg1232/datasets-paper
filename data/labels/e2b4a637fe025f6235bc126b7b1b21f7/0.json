@@ -1,0 +1,15 @@
+{
+  "video_id": "e2b4a637fe025f6235bc126b7b1b21f7",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.335,
+    1.006,
+    1.677,
+    2.348
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with blond hair and glasses is seated in a room, wearing a gray long-sleeved shirt and white over-ear headphones. He is positioned in front of a microphone and a framed blue poster with the number \"20\" visible. To his left is a decorated Christmas tree with glowing multicolored lights. A white text banner across the bottom of the scene reads \"INSTANTMADDENCOINS.COM - CODE MADD FOR 10% OFF!\", with the word \"MADD\" highlighted in green. As the video progresses, the man is speaking, and his facial expression shifts from a neutral, open-mouthed look to a smile. His head moves slightly, and his lips change shape as he talks, while the background elements, equipment, and the on-screen promotional text remain static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7002a88f3a9b67f3ea196bf150417a83",
+  "url": "./data/segments/3QD9oO6sRns-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.219,
+    0.656,
+    1.094,
+    1.531
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold and manipulate a sports card encased in a clear plastic protective holder. In the background, stacks of black boxes are visible, and a small inset video shows a man wearing a black t-shirt and a baseball cap sitting in front of a computer. On-screen graphics include a logo and the web address \"CASEBREAKS.com\", along with the word \"JASA\" and larger text that reads \"SPYS REAKS\". Across the sequence, the hands rotate the protected card to show different angles, moving from a side view to a front-facing view of the athlete pictured on the card, who is wearing a white jersey. The bottom of the frame displays the word \"EBRE\" in large, bold letters. The focus remains on the handling of the card while the inset video of the man remains constant in the lower center of the scene."
+}

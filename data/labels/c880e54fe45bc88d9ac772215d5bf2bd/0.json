@@ -1,0 +1,15 @@
+{
+  "video_id": "c880e54fe45bc88d9ac772215d5bf2bd",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-073.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.754,
+    11.262,
+    18.771,
+    26.279
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"Stream Processor\" is displayed, featuring a diagram on the left and a bulleted list on the right. The diagram consists of a rounded rectangular container housing a smaller teal box labeled \"Stream Processor\" with a red arrow pointing down to a red box labeled \"Real Time Analysis.\" The accompanying text describes the processor's capabilities: \"Receive structured events (records),\" \"Expose a Query Language\" (with sub-points for \"Keys selection,\" \"Filtering,\" \"Aggregation Functions,\" and \"Events Routing\"), and \"Do processing in-memory.\" In the top right corner of the screen, a small video inset shows a person with long dark hair wearing a light-colored garment. Across the sequence of frames, the content of the slide and the person in the inset remain static, with no visible movement or changes in the visual information."
+}

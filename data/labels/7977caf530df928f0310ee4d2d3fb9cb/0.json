@@ -1,0 +1,15 @@
+{
+  "video_id": "7977caf530df928f0310ee4d2d3fb9cb",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.435,
+    1.305,
+    2.175,
+    3.045
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair tied back is seated in front of a plain, light-grey wall. She is wearing a dark blazer over a red top. Her hands are clasped together in front of her on a table, where a clear plastic water bottle is also visible. A small microphone is positioned in front of her. In the upper-left corner of each frame, the text \"mediasite\" is visible next to a small, circular logo. Across the sequence, the woman remains in the same seated position, looking slightly to her right. Her facial expression remains relatively steady, though there are subtle shifts in her gaze and posture as she listens or prepares to speak. The background and the placement of the objects on the table remain unchanged throughout the clip."
+}

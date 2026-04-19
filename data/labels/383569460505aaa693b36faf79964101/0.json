@@ -1,0 +1,15 @@
+{
+  "video_id": "383569460505aaa693b36faf79964101",
+  "url": "./data/segments/3TQScsCOS2k-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.665,
+    4.995,
+    8.325,
+    11.655
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and brown hair, wearing a red, blue, and green plaid button-down shirt, is speaking while seated against a backdrop of a lush, green tropical landscape featuring waterfalls and mountains. On the left side of the background, the text \"JUMANJI\" appears in large, textured gold letters, with the smaller phrase \"WELCOME TO THE JUNGLE\" positioned directly underneath it. As the sequence progresses, the man gestures with his right hand and shifts his facial expressions while talking. He begins with a relatively neutral gaze, then opens his mouth wider and moves his hand upward in a conversational gesture. In the final moments, he narrows his eyes and furrows his brow, creating a more intense or skeptical expression. Throughout the clip, the background remains static while the man remains the central focus of the scene."
+}

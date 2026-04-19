@@ -1,0 +1,15 @@
+{
+  "video_id": "ca1ab3d61dda0399d248d2800682c3ab",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-310.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.571,
+    1.713,
+    2.854,
+    3.996
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is broadcast from a high-angle view over a field where \"COMMANDERS\" is written in large gold letters across a red end zone. Players in white and dark uniforms are lined up for a play. On-screen graphics indicate it is \"4th & Goal\" with the game clock counting down from \"3:15\" to \"3:09\" in the second quarter. A \"XFACTOR\" logo and a \"MOMENTUM LEGEND\" banner appear in the lower portion of the screen. In a smaller picture-in-picture window on the left, a blond man wearing a dark blue shirt and a headset is visible, appearing to speak or observe the game. The scene remains static in composition across the frames, with the only changes being the decreasing game clock and slight movements of the man in the inset window as he reacts to the game."
+}

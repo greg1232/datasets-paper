@@ -1,0 +1,15 @@
+{
+  "video_id": "5c9acbfe8116d1a7c5995ba1c166df71",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-096.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.14,
+    0.42,
+    0.7,
+    0.98
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser open to a visual mapping tool with a dark background, featuring various circular nodes connected by blue lines. Some nodes contain icons and text, such as \"holistic,\" \"systemic,\" \"integrative,\" and \"inclusive.\" A smaller video window in the top right shows a man with a grey beard and a dark baseball cap. Browser tabs at the top include titles like \"Trust & Learning by Systemics,\" \"Elements by Systemantics,\" and \"Future of Society by Systemics.\" Throughout the sequence, the man in the video window remains present, although he is briefly obscured. In the final scene, the visual map on the main screen fades to a dark, translucent state, while the man in the video window remains visible, looking toward the camera. The interface also includes a sidebar on the right with the name \"Kevin Beddington.\""
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "aecf9317e8c9eb552b0b20bfc61a5133",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.552,
+    1.656,
+    2.76,
+    3.865
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair wearing a blue shirt and gaming headphones is visible in a small picture-in-picture window on the left side of a video game interface. He is seated in a room with a decorated Christmas tree behind him. The main screen displays a \"LINEUP\" menu for a football game, featuring a grid of player cards with photos and statistics. The menu includes categories such as \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS.\" Numerical values are displayed at the top right, including \"173,037,\" \"0,\" \"14,609,\" and \"2,343,543.\" At the bottom of the screen, options like \"BEST LINEUP,\" \"HELP,\" and \"BACK\" are listed. As the sequence progresses, the man speaks and gestures with his hands, and the screen transitions from a brightly lit menu to a slightly dimmed version of the same interface."
+}

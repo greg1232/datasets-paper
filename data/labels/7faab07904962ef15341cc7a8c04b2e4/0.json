@@ -1,0 +1,15 @@
+{
+  "video_id": "7faab07904962ef15341cc7a8c04b2e4",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-248.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.077,
+    0.231,
+    0.385,
+    0.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a dark navy shirt and white headphones, appears in a picture-in-picture overlay in the bottom left of a football game broadcast. Behind him is a blurred interior setting with a screen displaying \"20\". The main footage shows an American football game on a grass field with players in white and black uniforms. On-screen graphics at the top include \"2nd & 6\", \"EXO\", \"1st\", \"2:57\", and a game clock counting down from \":30\" to \":29\". Other text includes \"SUPER BOWL CHAMPIONS\" and \"WORLD CHAMPIONS\" along the sidelines. In the foreground of the game, a player in a white jersey runs toward the right side of the screen, pursued by a player in a black jersey. The man in the overlay speaks, his facial expressions changing from a neutral look to an open-mouthed reaction as the action on the field progresses."
+}

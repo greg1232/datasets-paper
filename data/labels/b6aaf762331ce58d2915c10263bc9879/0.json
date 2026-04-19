@@ -1,0 +1,15 @@
+{
+  "video_id": "b6aaf762331ce58d2915c10263bc9879",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.759
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A recorded session of the \"House Committee on General, Housing, and Military Affairs\" takes place in an office setting. Three men are visible seated at a table; one man on the left wears a dark suit and holds his hand to his head, a second man in the center wears a dark suit and glasses, and a third man on the right wears a grey vest over a light-colored shirt. In the background, a projection screen displays text, and a wall features mirrored text that reads \"GENERAL HOUSING & MILITARY AFFAIRS.\" On the table are water bottles and papers. The \"ORCA\" logo appears in the bottom left corner, with the date \"April 12, 2019\" and a green banner stating \"S.23 Increasing the Minimum Wage\" across the bottom. Across the sequence, the man in the center gestures with his right hand while speaking, and the man on the left maintains his posture with his hand on his head."
+}

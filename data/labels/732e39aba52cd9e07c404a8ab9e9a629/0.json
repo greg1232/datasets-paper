@@ -1,0 +1,15 @@
+{
+  "video_id": "732e39aba52cd9e07c404a8ab9e9a629",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news segment features a group of men gathered outdoors during the day. In the center, a man in a white shirt and light-colored pants is cutting a bright orange ribbon, while other men in suits or formal Indian attire stand around him, observing. The man cutting the ribbon is flanked by men in dark suits, one of whom gestures with his hand. A red and yellow news banner spans the top and bottom of the screen. The top banner reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\" and features the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo. The bottom banner shows a clock reading \"10:03 PM\" and \"MANKADOH\". Small portrait photos of men with names like \"\u0938\u092a\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940\", \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\", \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\", and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930\" are displayed on the left and right sides of the screen. Across the frames, the camera slightly pans, shifting the focus of the group."
+}

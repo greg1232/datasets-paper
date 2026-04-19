@@ -1,0 +1,15 @@
+{
+  "video_id": "97609c3c3b64020b0be34ae0f86a497d",
+  "url": "./data/segments/3rrLMM3eyQc-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.387,
+    0.646,
+    0.904
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a formal setting featuring wood-paneled walls and Israeli flags, three men are seated at a long table. One man wears a white button-down shirt and looks down at a black folder, while another wears a dark suit, white shirt, and red tie, gesturing with his right hand. A third man, partially visible on the left, wears a beige garment and a head covering. On the table are nameplates and bottles of water. The screen features a news overlay with a purple \"plustv\" logo and a banner that reads \"FOREIGN NEWS\" above the headline \"NUCLEAR PROGRAMME\" and the subtext \"ISRAEL EXPECTS I.A.E.A. TO GIVE IRAN CLEAR WARNING AHEAD.\" At the bottom, there is a \"SUBSCRIBE\" button and the URL \"WWW.YOUTUBE.COM/PLUSTVAFRICA.\" Across the sequence, the men remain in their positions, with the man in the suit continuing to gesture as the man in the white shirt holds his folder."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "27993b1408be82f22df4c61d338926cc",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-107.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.5,
+    2.5,
+    3.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is being interviewed by a news crew outdoors in a daylight setting. He is wearing a light-colored shirt and a grey and white checked shawl draped over his shoulders. He speaks into a microphone labeled \"ANI.\" In the background, other people are visible, including a man in a dark suit and another in a white shirt. The footage is overlaid with several news graphics. A red header reads \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\" and a red ticker at the bottom of the first two frames states \"\u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e: NDA \u0938\u0930\u0915\u093e\u0930 \u092e\u0947\u0902 \u0935\u093f\u0915\u093e\u0938 \u0915\u094b \u0917\u0924\u093f \u092e\u093f\u0932\u0947\u0917\u0940\". The later frames change the ticker to \"\u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e: NDA \u0938\u0930\u0915\u093e\u0930 \u092e\u0947\u0902 \u0935\u093f\u0915\u093e\u0938 \u0915\u094b \u0917\u0924\u093f \u092e\u093f\u0932\u0947\" and add a header that reads \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0947\u0938\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u093c\u0940 \u0939\u0948\". Small profile photos of various people are displayed on the sides with names such as \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\", \"\u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930\", \"\u0935\u093f\u091c\u092f \u091a\u094c\u0927\u0930\u0940\", and \"\u0938\u0941\u092c\u0930\u093e\u0924 \u091a\u094c\u0927\u0930\u0940\". The \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo appears in the top right."
+}

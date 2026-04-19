@@ -1,0 +1,15 @@
+{
+  "video_id": "5831edd360a188f0cff1d162ff228bda",
+  "url": "./data/segments/3Smz5pevbI4-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.388,
+    25.163,
+    41.938,
+    58.713
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip features a recurring photograph of several men, including one in a military uniform and green beret who is gesturing and speaking to others. The setting appears to be an outdoor gathering. In the first frame, text is displayed below the photo that reads, \"History of violence Scarce resources Physical separation\". In the subsequent frames, this text is replaced by a long quote: \"Yet there remains another wall. This wall constitutes a psychological barrier between us, a barrier of suspicion . . . of rejection . . . of fear . . . of deception . . . a barrier of distorted and eroded interpretation of every event and statement.\" This quote is attributed to \"Former Egyptian President Anwar al-Sadat Speech to the Israeli Knesset, 1977\". As the video progresses, the text is highlighted in red, first moving from \"distorted and eroded\" in the third frame to include \"interpretation of every event and statement\" in the final frame."
+}

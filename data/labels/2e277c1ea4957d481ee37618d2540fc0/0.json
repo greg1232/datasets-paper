@@ -1,0 +1,15 @@
+{
+  "video_id": "2e277c1ea4957d481ee37618d2540fc0",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.795,
+    5.385,
+    8.975,
+    12.565
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands before a plain, light-gray background, wearing a dark navy blue blazer over a black button-down shirt. A microphone on a slender stand and a clear plastic water bottle are positioned on a surface in front of him. In the upper left corner of each frame, a logo reads \"mediasite by koretechnologies\". Initially, the man is seen touching the back of his neck with his right hand while looking downward. As the sequence progresses, he lowers his arm and looks toward the right side of the frame, shifting his posture. By the final frames, he is standing still, facing right with his arms at his sides, maintaining a neutral expression as he appears to be speaking or listening during a presentation."
+}

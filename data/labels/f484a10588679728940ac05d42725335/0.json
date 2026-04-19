@@ -1,0 +1,15 @@
+{
+  "video_id": "f484a10588679728940ac05d42725335",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.225,
+    0.675,
+    1.125,
+    1.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of men wearing grey t-shirts, dark trousers, and face masks walk outdoors through a sunny, paved area. They are moving toward the right side of the frame, passing by a white decorative screen and manicured conical shrubs. In the background, a white bus is partially visible. Each man is dressed in athletic casual wear, and some wear yellow sneakers. A white circular logo featuring a crown is visible in the upper right corner of the scene. Across the bottom left of the images, the on-screen text \"TEAM HOTEL 12:47\" appears. As the sequence progresses, the men move forward across the pavement, with one man in the foreground becoming the central focus as he walks closer to the camera, eventually filling more of the right side of the view."
+}

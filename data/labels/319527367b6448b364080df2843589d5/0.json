@@ -1,0 +1,15 @@
+{
+  "video_id": "319527367b6448b364080df2843589d5",
+  "url": "./data/segments/3HgCF6yVXko-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.817,
+    2.45,
+    4.083,
+    5.717
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A brightly lit bathroom is shown, featuring a glass-enclosed shower on the left, a dark brown vanity with a white countertop and two silver faucets, and a large rectangular mirror mounted on the wall above. A light-colored curtain hangs to the right of the vanity. In the reflection of the mirror, a brown door is visible. The camera pans slightly, moving from a view centered on the vanity and shower toward the right, revealing more of the room. A white bathtub edge is visible at the bottom of the scene. No people are present in the bathroom. The scene remains consistent in lighting and composition, with only a subtle shift in perspective as the camera moves, providing a wider view of the vanity area and the curtain."
+}

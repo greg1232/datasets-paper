@@ -1,0 +1,15 @@
+{
+  "video_id": "b589cc149c4ab4e6d47447e6fa7ac19c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-377.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.237,
+    0.396,
+    0.554
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played on a green field with \"COMMANDERS\" written in red on the sideline. Players in white and black uniforms clash during a play. A scoreboard at the top shows \"1st & 10\", \"14\", \"7\", \"3rd\", \"3:21\", \"20\", and \":19\". In a small inset window, a man wearing a dark shirt and white headphones sits in front of a screen with a decorated Christmas tree visible to his left. As the action progresses, the players move dynamically across the field, with some tackling and others sprinting. The man in the inset remains in place, observing the game. The game clock and game state on the scoreboard remain static across the sequence, while the players' positions shift significantly as the offensive and defensive lines collide and players pursue the ball carrier."
+}

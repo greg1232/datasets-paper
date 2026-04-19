@@ -1,0 +1,15 @@
+{
+  "video_id": "6f83a055710579dfb881608cf3138f2b",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.604,
+    0.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The provided image is completely black and contains no visible visual information, people, objects, or text. Consequently, there is no scene or action to describe."
+}

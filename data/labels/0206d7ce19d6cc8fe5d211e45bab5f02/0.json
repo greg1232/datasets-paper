@@ -1,0 +1,15 @@
+{
+  "video_id": "0206d7ce19d6cc8fe5d211e45bab5f02",
+  "url": "./data/segments/3l84m5pRmyk-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.234,
+    0.701,
+    1.168,
+    1.635
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a white background featuring three distinct hexagonal logos: a red hexagon containing a white stylized \"A\" for \"siliconANGLE\", a light blue 3D cube for \"theCUBE\", and a dark blue hexagon with a white \"W\" for \"WIKIBON\". The logos are arranged horizontally across the screen. As the video progresses, a line of text appears centered beneath the logos, stating \"theCUBE is a SiliconANGLE, Wikibon Production\". Below this, a smaller line of copyright text reads \"CC 2008 - 2015 (BY-SA 4.0) SiliconANGLE Media\". The sequence shows the transition from only the logos being present to the inclusion of the descriptive and copyright text. The logos and their accompanying text labels remain static throughout the duration of the clip."
+}

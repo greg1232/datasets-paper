@@ -1,0 +1,15 @@
+{
+  "video_id": "75a06d0b9b53097b3c7b2d53dc66db11",
+  "url": "./data/segments/3Kxl1O310k8-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.545,
+    1.635,
+    2.725,
+    3.815
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call features two men in separate locations. One man, with a bald head and glasses, wears a blue and white plaid shirt and is situated in a room with neutral-toned walls and a framed picture visible behind him. The other man has short grey hair and glasses, wearing a dark shirt, and is positioned against a plain, light-colored wall. The footage alternates between them. In the first sequence, the man in the plaid shirt looks toward the camera with a neutral expression, followed by the man in the dark shirt who also maintains a neutral gaze. The sequence repeats, but in the final segment, the man in the dark shirt is seen smiling. Faint, barely legible timestamp text appears in the center of the black bars separating the rows of video."
+}

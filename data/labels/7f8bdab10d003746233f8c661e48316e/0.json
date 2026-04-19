@@ -1,0 +1,15 @@
+{
+  "video_id": "7f8bdab10d003746233f8c661e48316e",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.839,
+    2.518,
+    4.197,
+    5.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark green t-shirt and a matching green baseball cap sits in a studio setting, speaking into a professional microphone. His t-shirt features white text that reads \"ION NEVER DO SHIT\". He wears black over-ear headphones and is positioned against a background featuring several framed photographs on a wall and a white mannequin dressed in white clothing. To his left, a logo is visible on screen that reads \"BOOST FLY TOT\". As the sequence progresses, the man's facial expression shifts from a skeptical, tight-lipped look with raised eyebrows to a wide, open-mouthed smile. Throughout the scene, he remains seated and facing toward the right of the frame, while the background and equipment stay stationary."
+}

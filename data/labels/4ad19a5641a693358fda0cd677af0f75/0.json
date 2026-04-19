@@ -1,0 +1,15 @@
+{
+  "video_id": "4ad19a5641a693358fda0cd677af0f75",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-139.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.185,
+    3.554,
+    5.923,
+    8.292
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair, wearing a black long-sleeved shirt and wired earphones, is centered against a plain white wall. He appears to be speaking, with his mouth open and shifting positions across the sequence. In the top left, he faces slightly left; by the top right, he has turned his head more toward the right. In the bottom left, he continues to look toward the right with an open mouth, and in the bottom right, he faces forward again, speaking. The text \"Tiger-TV\" is visible in the top right corner of the first two frames. To the right of the man, a blue object rests on a surface, partially visible in each shot. The lighting is consistent throughout, and the background remains a static, neutral white environment."
+}

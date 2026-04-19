@@ -1,0 +1,15 @@
+{
+  "video_id": "b74a4431057013edf2069f1a745a0788",
+  "url": "./data/segments/3P1vSUbet40-Scene-0949.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.24,
+    0.719,
+    1.199,
+    1.679
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde-tipped dreadlocks, wearing a black t-shirt and black headphones, sits in a recording studio. She is positioned behind a professional microphone. In the background, a screen displays the text \"ohnson\" in red, with a smaller \"Employees Only\" sign visible above it. On-screen graphics include a logo with a microphone icon and the text \"BOSS TALK 101\" alongside a smaller \"PODCAST\" badge. As the sequence progresses, the woman initially looks forward toward the microphone with a neutral expression. She then shifts her gaze and turns her head slightly to the left, looking away from the center of the frame. Throughout the clip, the woman remains seated and stationary, with only her head and gaze moving while the background and equipment remain constant."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ef185ec3b29c43b71e14745ace37bff8",
+  "url": "./data/segments/3Kxl1O310k8-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.035,
+    21.105,
+    35.175,
+    49.245
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video presentation features a slide titled \"Gloucester Housing Authority Sheedy Building,\" accompanied by a rendering of a multi-story, salmon-colored apartment building with a dark roof and several windows. To the right of the image, three bullet points state: \"Requested $86,000 in CPA to supplement state modernization formula funding ($196,000)\", \"Replaced 30+ year old roof\", and \"One unit shuttered and more were at risk\". A small inset video in the upper right corner shows a person with dark hair wearing a dark top, though their actions remain minimal across the sequence. At the bottom of the screen, a yellow banner contains the word \"Preservation\" and a small \"MHP\" logo. The scene remains static across all frames, with the presentation slide and the person in the inset window appearing unchanged, indicating a pause or slow transition during the delivery of the information."
+}

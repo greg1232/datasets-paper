@@ -1,0 +1,15 @@
+{
+  "video_id": "f48dbd5518cac949e845da58ab0a7b02",
+  "url": "./data/segments/3E6ctN22V7k-Scene-101.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.095,
+    0.285,
+    0.475,
+    0.665
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot shows a person with dark skin using a finger to point at a digital screen. The screen displays a map of a landmass, likely a country, accompanied by columns of data and text including phrases like \"English 82.1% Spanish\" and \"Other Indo-European.\" The person's finger moves slightly across the surface of the screen, interacting with the displayed information. The background is blurred, focusing attention on the hand and the device. Throughout the sequence, a line of white subtitle text remains constant at the bottom of the frame, reading, \"Just like the children where you are from.\" The lighting is soft, and the scene remains static in composition as only the subtle movement of the finger on the screen indicates the passage of time."
+}

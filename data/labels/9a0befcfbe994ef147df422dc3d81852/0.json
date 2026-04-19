@@ -1,0 +1,15 @@
+{
+  "video_id": "9a0befcfbe994ef147df422dc3d81852",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-390.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.812,
+    1.137
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A professional football game is captured from a high-angle perspective on a green field with white yard lines, surrounded by crowds and sidelines. Players in black and white uniforms are scattered across the field, with several players congregating on the right side. On-screen overlays display game statistics, including \"3rd & 8\", \"14\", \"7\", and a game clock showing \"1:58\". In the bottom left corner of the display, a small window shows a blonde man in a dark shirt reacting with a surprised expression. Text overlays on the field read \"ON THE RUN\" and \"PERFECT ACCURACY BULLET PASS\". As the sequence progresses, a player in a black uniform runs toward the right side of the field, gaining ground. The game clock updates from \".14\" to \".30\" as the action unfolds, and the man in the small window continues to react with excitement."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "24ac92103979d74ab0b13ad6966414c5",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-519.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, headphones, and a black hoodie with \"BOSS\" printed in gold letters sits at a desk in a studio setting. He is positioned in front of a microphone mounted on a boom arm and a black laptop. To his left is a white backdrop featuring a repeated logo that includes five stars and the words \"UNCOMMON HUSTLE.\" Above him, a sign reads \"Where BOSSES Talk!\" and a black mug on the desk says \"BOSS TALK 101.\" In the bottom left corner, a small circular logo reads \"BOSS TALK.\" As the sequence progresses, the man speaks and gestures with his hands, which are adorned with a gold watch. His facial expression shifts as he talks, while the background and equipment remain static."
+}

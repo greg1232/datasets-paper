@@ -1,0 +1,15 @@
+{
+  "video_id": "dc4abf1a1ade5def83d808d58d8a8b1d",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.61,
+    4.83,
+    8.05,
+    11.27
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A surfer in a dark wetsuit rides inside the tube of a massive, turquoise ocean wave. The surfer is positioned centrally, gliding across the face of the water as white foam crashes behind them. Throughout the sequence, white text overlays the scene. Initially, the screen displays \"the Tiger Technicians Hour\". In the following moments, the text expands to include \"with Basil Chapman\" underneath the main title. As the surfer continues to navigate the wave, a phone number gradually appears at the bottom of the frame, starting with \"1-877-\" and completing as \"1-877-927-6648\". The camera remains focused on the surfer's movement through the wave, capturing the scale of the water as the text progressively reveals more information."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "03cf362f6c04a14befe5a5698769f22f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-258.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.24,
+    0.72,
+    1.2,
+    1.68
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a presentation about the \"Rural Community Food System\" within a web browser. A man with a beard and a baseball cap is visible in a small webcam feed in the top right corner. The main content features a slide titled \"Introduction,\" which poses the question, \"What constitutes a sustainable localized food system for a rural community source as local as possible from locally owned and operated to benefit the community.\" The slide includes a section for \"Session Videos\" with various dates and a \"References\" section mentioning \"Large Corporate Farm System.\" A complex system map with nodes and connecting lines occupies the right side of the slide, featuring labels like \"Local Sustainable Consumption\" and \"Product Cost/Price.\" As the video progresses, a cursor moves across the screen, eventually highlighting a specific node labeled \"3 source local based on Price\" and \"Availability.\""
+}

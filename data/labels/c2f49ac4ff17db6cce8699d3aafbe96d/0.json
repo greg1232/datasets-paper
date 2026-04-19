@@ -1,0 +1,15 @@
+{
+  "video_id": "c2f49ac4ff17db6cce8699d3aafbe96d",
+  "url": "./data/segments/3_n4Uj9iLyU-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    57.261,
+    171.784,
+    286.307,
+    400.83
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white button-down shirt and dark trousers stands on a stage at an OpenStack Summit event. He is positioned to the left of a black podium and a large screen. The background features a blue wall with a classical building facade and the \"openstack summit\" logo. The screen displays technical specifications across different slides. Initial slides are titled \"High Performance\" and feature a blue graphic of a bird with a red sun, listing \"1.4M IOPS,\" \"8.9GB/s throughput,\" and \"Concurrent access: max to 2.5M.\" Subsequent slides change to the title \"Low Cost,\" detailing \"Buy\" and \"Lease\" options and stating \"Unit price is 1/3 of AWS,\" accompanied by a comparison table between \"AWS\" and \"SurCloud Appliance.\" Throughout the sequence, the man stands and gestures while presenting the information on the screen."
+}

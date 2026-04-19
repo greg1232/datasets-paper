@@ -1,0 +1,15 @@
+{
+  "video_id": "becaf610da3277bd006262f6d1eaabe9",
+  "url": "./data/segments/3Kxl1O310k8-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.19,
+    15.57,
+    25.95,
+    36.33
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with dark hair and glasses is presenting a digital slide. The presentation slide is titled \"Familiarize yourself with local housing needs\" and includes the instruction, \"Use other resources like DataTown.\" The slide contains several data visualizations, including a horizontal bar chart titled \"Housing units by building type\" comparing \"Anchester\" and \"Massachusetts,\" as well as two smaller charts detailing \"Antheral renter households by cost burden\" and \"Antheral owner households by cost burden.\" The renter chart shows percentages of \"19.7%\" and \"42.7%,\" while the owner chart shows \"13.3%\" and \"16.4%.\" The speaker is positioned in the upper right corner of the frame in a small inset window. Throughout the sequence, the speaker remains in a static position, and the visual content of the slide does not change, indicating a pause or slow transition during the presentation. The logo \"MHP\" is visible at the bottom of the screen."
+}

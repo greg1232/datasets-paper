@@ -1,0 +1,15 @@
+{
+  "video_id": "52704b65d12047f6525cb4688f300285",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-379.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.119,
+    0.356,
+    0.594,
+    0.831
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game takes place in a stadium with a green field and red borders, under bright daylight. Players wearing white and black uniforms are engaged in a play. In the initial scenes, a player in a white uniform runs forward while others in black and white attempt to tackle him. As the sequence progresses, a player in a white uniform is tackled to the ground. A small inset window shows a man with blonde hair wearing a dark blue shirt. The top of the screen displays game information, including \"2nd & 9\", a blue \"14\" next to \"NSE\", and a red \"7\" next to \"FAL\". Other text reads \"3rd 3:01 27\" and \":18\". The NFL logo is visible on the field, along with a green circle indicating a specific area of play. The action shifts from the run to the tackle across the sequence."
+}

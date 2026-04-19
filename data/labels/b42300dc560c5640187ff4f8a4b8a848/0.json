@@ -1,0 +1,15 @@
+{
+  "video_id": "b42300dc560c5640187ff4f8a4b8a848",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.23,
+    0.69,
+    1.15,
+    1.61
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast reports on political developments in India, featuring footage of a crowd of men in formal attire, including suits and traditional wear, gathered in what appears to be a government building. The primary focus is on a group of men interacting, with some appearing to be in conversation while others move through the crowd. On-screen graphics include a red and yellow news banner with the text \"BREAKING NEWS,\" which shifts slightly in spelling across frames. A top banner asks, \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\". Portrait photos of political figures appear on the sides, labeled with names and titles such as \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930,\" \"\u092e\u0902\u0924\u094d\u0930\u0940 \u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928,\" and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930.\" The lower banner displays \"MAHA KHOBAR\" and a time stamp of \"10:02 PM.\" As the video progresses, the camera angle shifts slightly, and different political figures' photos appear in the side panels."
+}

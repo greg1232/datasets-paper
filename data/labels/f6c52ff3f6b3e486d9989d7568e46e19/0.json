@@ -1,0 +1,15 @@
+{
+  "video_id": "f6c52ff3f6b3e486d9989d7568e46e19",
+  "url": "./data/segments/3VCwl-aQ_oQ-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.379,
+    1.137,
+    1.896,
+    2.654
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a Google Sheets spreadsheet titled \"10/22/23 - Topps Museum Collection Basketball 6 Box V2 Case #2...\". The spreadsheet contains a list of NBA team abbreviations along the bottom row, including \"LAA, LAD, CHI, PIT, MIL, COL, CLE, WSH, TB\". Overlaid on the right side of the screen is a chat window with a message from \"Nightbot\" stating, \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/N2SdeSkg0\". Above this, a user named \"ragnarr\" comments, \"I think if you are a team signing Ohtani, you are going all in on everyone you can\". A banner at the bottom of the screen reads \"WWW.JASPYSCASEBREAKS.COM\" and features the \"CASEBREAKS.COM\" logo. Throughout the sequence, a mouse cursor moves across the spreadsheet, clicking and highlighting different cells."
+}

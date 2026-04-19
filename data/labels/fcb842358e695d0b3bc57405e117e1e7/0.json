@@ -1,0 +1,15 @@
+{
+  "video_id": "fcb842358e695d0b3bc57405e117e1e7",
+  "url": "./data/segments/3l84m5pRmyk-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.455,
+    1.364,
+    2.273,
+    3.182
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with brown hair, wearing a light-colored collared shirt under a dark blazer, is speaking during a presentation. He is positioned against a white backdrop featuring various blue logos and text, including \"DataSV 2015,\" \"theCUBE,\" and \"#BigDataSV.\" A light blue graphic banner spans the bottom of the scene. In the initial frames, the banner displays the text \"RISHI YADAV | @meditativesoul,\" followed by \"CEO\" and \"infoobjects\" in smaller lettering. As the sequence progresses, the man maintains a consistent expression and posture, slightly gesturing with his hands while speaking. In the final frame, the text on the blue banner changes to \"#theCUBE LIVE at #BigDataSV 2015,\" accompanied by \"Fairmont Hotel - Valley Room\" and \"San Jose, CA.\" A clear plastic water bottle sits on a surface behind the banner."
+}

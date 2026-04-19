@@ -1,0 +1,15 @@
+{
+  "video_id": "d72a5d0e563e8bfb59bf89e5a98a7e90",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.193,
+    0.579,
+    0.965,
+    1.35
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the text \"I CON NEVER DO SHIT\" is speaking into a professional microphone. He is situated in a room that appears to be a studio or clothing store, featuring several framed photographs on the wall and a white mannequin wearing a white garment in the background. To the left and right of the man, logos for \"SODA\" and \"MODERN DAY\" are visible on the screen. Throughout the sequence, the man remains in the same position, speaking and gesturing slightly with his facial expressions. The background elements, including the microphone, the mannequin, and the wall decor, remain static. The video captures a close-up shot of the man as he engages in a conversation, with minimal changes in his posture or the surrounding environment across the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "089824cc6291a30c0a947020089f16a1",
+  "url": "./data/segments/3cfugv0xNbU-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.997,
+    2.99,
+    4.984,
+    6.978
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static graphic featuring a dark navy blue background with subtle, geometric diagonal gradients and shadow effects. Centered in the frame is a white logo consisting of a stylized representation of the Pentagon building to the left of the text \"U.S. DEPT OF DEFENSE\". The text is written in a clean, sans-serif, uppercase font, with \"U.S.\" positioned above \"DEPT OF\", which is positioned above \"DEFENSE\". The image remains completely unchanged across all frames, showing no movement, transitions, or changes in lighting. There are no people or other objects present in the scene."
+}

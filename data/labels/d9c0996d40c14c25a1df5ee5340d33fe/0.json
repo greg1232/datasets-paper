@@ -1,0 +1,15 @@
+{
+  "video_id": "d9c0996d40c14c25a1df5ee5340d33fe",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-177.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    19.486,
+    58.458,
+    97.431,
+    136.403
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with gray hair and glasses stands behind a brown wooden lectern, speaking into a black microphone. He wears a blue patterned short-sleeved button-down shirt featuring light blue and yellow designs and a necklace with a pendant. The lectern features a logo with the word \"LIBRARY\" printed in red text. The man is positioned in front of a background of horizontal brown wooden slats. A white box with the text \"ORCA\" appears on the right side of the scene. The tops of people's heads are visible in the foreground, suggesting an audience. Across the sequence, the man remains in the same position, looking down at papers on the lectern while speaking. His facial expression and posture shift slightly as he reads, and his hands remain resting on the lectern. The background and the \"ORCA\" text remain static throughout the frames."
+}

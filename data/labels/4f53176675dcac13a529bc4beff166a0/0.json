@@ -1,0 +1,15 @@
+{
+  "video_id": "4f53176675dcac13a529bc4beff166a0",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.687,
+    1.146,
+    1.604
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand points toward a stack of \"OBSIDIAN\" boxes atop a red surface featuring a large \"JASPYS\" logo. A screen overlay displays a spreadsheet with names and regions, such as \"BRIAN FRANK\" and \"ATLANTIC,\" alongside a \"JASPYS CASEBREAKS.COM\" logo and a YouTube subscription prompt that reads \"Hit the SUBSCRIBE button down below!\". A small inset video window shows a man with dark hair and a beard wearing a black shirt, sitting in a room with shelving in the background. As the sequence progresses, a hand reaches into the frame to touch the top box of the \"OBSIDIAN\" stack. The spreadsheet overlay disappears, and the view shifts to a closer perspective of the hand interacting with the product, while the man in the inset video remains visible in the corner."
+}

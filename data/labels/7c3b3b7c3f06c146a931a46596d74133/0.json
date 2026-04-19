@@ -1,0 +1,15 @@
+{
+  "video_id": "7c3b3b7c3f06c146a931a46596d74133",
+  "url": "./data/segments/3mmDnftP1M8-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.292,
+    0.875,
+    1.458,
+    2.042
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light blue button-down shirt and a black headset with a microphone stands against a plain, light-colored wall. He is gesturing with both hands raised. In the first frame, his right arm is bent and his hand is moving across his chest while his left hand is held up with fingers splayed. By the second frame, his right hand has moved higher and is blurred, suggesting rapid motion, while his left hand remains raised. In the third frame, he holds both hands up with palms facing forward, fingers spread. In the final frame, he maintains this posture, with both hands raised and palms open. The text \"Ashish Raichur\" appears in the bottom-left corner of each segment. The lighting creates soft shadows on the wall behind him."
+}

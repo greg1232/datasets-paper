@@ -1,0 +1,15 @@
+{
+  "video_id": "b248d74c88af2136dffd1c0ed6bdcf3d",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-201.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.171,
+    0.513,
+    0.855,
+    1.197
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a room with red walls and brown wooden paneling, a group of people are seated in rows of black chairs, facing a speaker at the front. The speaker, a man in a light-colored shirt and dark trousers, stands behind a small table near a screen and a projector. The audience members are dressed in casual attire, including sweaters and jackets in various colors. A white logo with the text \"ORCA\" is visible in the lower right area of the scene. Throughout the sequence, the speaker gestures with his hands while talking to the audience, who remain seated and attentive. The lighting is provided by overhead fixtures, and a few framed pictures hang on the red walls. There is minimal movement across the frames, with the primary activity being the speaker's delivery and the audience's stationary observation."
+}

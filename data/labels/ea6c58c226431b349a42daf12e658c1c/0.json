@@ -1,0 +1,15 @@
+{
+  "video_id": "ea6c58c226431b349a42daf12e658c1c",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-217.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.38,
+    1.139,
+    1.898,
+    2.657
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A promotional graphic for a financial service features a split-screen layout. On the left, a blurred image shows a computer keyboard and a screen displaying \"The Opening Call\" and the name \"Basil Chapman.\" Below this, a dark banner reads \"Basil Chapman\" and \"The Tiger Technicians Hour | June 8th, 2022,\" while a white bar above the banner explicitly states \"THE OPENING CALL.\" The right side of the screen is a white background featuring the logo \"TFNN.COM\" and the tagline \"EDUCATING INVESTORS,\" followed by large red text that reads \"30 DAY MONEY BACK GUARANTEE FOR FIRST TIME SUBSCRIBERS.\" Throughout the sequence, the visual elements remain static, with no movement or changes in the text, logos, or imagery. The overall composition is a fixed advertisement intended to promote a subscription service related to stock market opening calls."
+}

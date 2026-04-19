@@ -1,0 +1,15 @@
+{
+  "video_id": "7b1fdddd79e1c77e11681e92a1f58f0d",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.36,
+    1.08,
+    1.8,
+    2.52
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call displays a grid of participants in their respective home environments. Among the attendees are \"Jerry Mclvale\" wearing a blue button-down shirt, \"Shawn O'Brien\" in a grey t-shirt, a man in a baseball cap, and a woman resting her chin on her hand. Other participants include \"Robert Starkey\" with glasses, \"Charles Massa,\" \"Patrick Hudzyn\" in a grey shirt, \"Gail Lyson,\" \"Etra_collaborator,\" \"Triangdwoelling\" wearing a blue t-shirt, and \"Jim Barte\" wearing a headset. The scene repeats and shifts slightly, showing the same group of people in various expressions and poses. One participant, \"Jerob Cele,\" appears in the final sequence. The backgrounds vary from indoor rooms with curtains and bookshelves to outdoor settings with green foliage. Legible names under the video feeds include \"Jerry Mclvale,\" \"Shawn O'Brien,\" \"Robert Starkey,\" \"Charles Massa,\" \"Patrick Hudzyn,\" \"Gail Lyson,\" \"Etra_collaborator,\" \"Triangdwoelling,\" \"Jim Barte,\" and \"Jerob Cele.\""
+}

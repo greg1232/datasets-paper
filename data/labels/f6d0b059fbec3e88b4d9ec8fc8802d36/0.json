@@ -1,0 +1,15 @@
+{
+  "video_id": "f6d0b059fbec3e88b4d9ec8fc8802d36",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-101.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.642,
+    1.925,
+    3.208,
+    4.492
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown handling sports trading cards in a studio setting. The foreground features a red table with a large \"SPYS\" logo, while the background shows a man wearing a black shirt sitting in front of a computer setup. In the initial scenes, the hands hold several graded cards in plastic slabs, including one featuring \"STEVEN ADAMS.\" A logo for \"JASPYS\" and the website \"CASEBREAKS.COM\" appear as an overlay on the screen. As the sequence progresses, the focus shifts to a green and black \"OBSIDIAN\" trading card pack. The hands manipulate the packaging to reveal a card, which includes the word \"AUTOGRAPH.\" Small inset windows show the man in the black shirt observing the process from his desk. The action moves from displaying individual graded cards to the act of opening a new pack of cards."
+}

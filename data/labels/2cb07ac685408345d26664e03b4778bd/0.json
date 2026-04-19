@@ -1,0 +1,15 @@
+{
+  "video_id": "2cb07ac685408345d26664e03b4778bd",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-123.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.095,
+    0.285,
+    0.475,
+    0.665
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A bright, white graphic logo, resembling a stylized wing or a curved abstract shape, emerges and glows against a dark blue, textured background. The scene begins in near darkness with only a faint, blurry white light visible. As the sequence progresses, the white shape becomes larger and more defined, radiating a brilliant blue glow that illuminates the surrounding space. The background features a digital, grid-like texture and vertical blue light streaks. In the final moments, the white shape reaches its peak brightness, and small, illegible digital characters or data symbols appear momentarily across its surface. The entire sequence is a dynamic animation of a logo appearing through a glow effect on a high-tech, digital backdrop."
+}

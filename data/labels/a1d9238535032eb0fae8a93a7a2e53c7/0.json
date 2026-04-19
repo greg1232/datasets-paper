@@ -1,0 +1,15 @@
+{
+  "video_id": "a1d9238535032eb0fae8a93a7a2e53c7",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.302,
+    0.907,
+    1.512,
+    2.117
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seen from behind, driving a vehicle through a rural, arid landscape characterized by scattered green trees and a dusty road. He is wearing a light-colored, short-sleeved shirt with dark lettering on the back. The driver has both hands on the steering wheel, and the interior of the vehicle features a dashboard with a mounted screen and a rearview mirror. On-screen text at the bottom of the frame reads, \"from the Jordanian border to the hospital in Ramtha\". Across the sequence, the camera remains relatively stable within the car, while the scenery outside the windows shifts as the vehicle moves forward. The lighting is bright and natural, suggesting daytime. No other people are visible inside the car, and the driver maintains a steady focus on the road ahead as he navigates the terrain."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "39cb590761663d5960480cf8c9e9614e",
+  "url": "./data/segments/3dN_F08u-KE-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.56,
+    1.68,
+    2.8,
+    3.92
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Thermal imaging footage shows a large structure or vessel at night. The upper left frame displays a large, rounded dome-like structure with a bright horizontal flare at the bottom. The upper right frame shows a bright, energetic flash or explosion occurring near the center of the structure. In the lower left frame, the flash has evolved into a larger area of intense heat and debris, with bright sparks and fragments flying. The lower right frame shows the fire continuing to burn and expand, with smoke and heat signatures filling the area. Throughout all frames, the logo \"\u0413\u041e\u041b\u041e\u0412\u041d\u0415 \u0423\u041f\u0420\u0410\u0412\u041b\u0406\u041d\u041d\u042f \u0420\u041e\u0417\u0412\u0406\u0414\u041a\u0418\" appears in the upper left corner, and the number \"13\" is displayed in a red box in the upper right. A circular \"GROUP 13\" logo is visible in the lower right corner of each frame. Small yellow numbers, such as \"241\", \"250\", and \"230\", are visible at the top center of the frames."
+}

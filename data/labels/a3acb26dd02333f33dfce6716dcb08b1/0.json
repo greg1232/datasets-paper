@@ -1,0 +1,15 @@
+{
+  "video_id": "a3acb26dd02333f33dfce6716dcb08b1",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.372,
+    4.117,
+    6.861,
+    9.605
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with curly reddish-blonde hair stands before a solid yellow background. She is wearing a black blazer over a yellow and black patterned shirt and a thin gold necklace. The logo \"COINTELEGRAPH\" appears in the upper right corner of the scene. Across the sequence of frames, the woman is speaking, and her facial expressions and mouth movements change as she talks. Her head shifts slightly, and her eyes blink, but she remains centered in the frame throughout the clip. The lighting is consistent, casting a soft glow on her face and the background. No other people, objects, or equipment are visible in the scene."
+}

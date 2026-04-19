@@ -1,0 +1,15 @@
+{
+  "video_id": "cc10068c9165f317ecb2e3c71f884ce0",
+  "url": "./data/segments/3E6ctN22V7k-Scene-122.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.27,
+    0.45,
+    0.63
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young girl is captured in a sequence of close-up shots. She is wearing a pink garment with floral detailing along the edge and thin white straps. In some views, she is also wearing a light green, patterned top. The setting appears to be outdoors, with a brick wall and a yellow rectangular object visible in the background. The girl is looking downward and slightly to the side, her expression shifting subtly as she observes something out of view. As the sequence progresses, her head tilts and she appears to be moving slightly, though she remains focused on the same area. No text, logos, or other people are visible in the frames."
+}

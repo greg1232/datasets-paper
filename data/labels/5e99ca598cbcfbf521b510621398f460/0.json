@@ -1,0 +1,15 @@
+{
+  "video_id": "5e99ca598cbcfbf521b510621398f460",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.266,
+    0.798,
+    1.329,
+    1.861
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark, curly hair tied in a high bun wears a dark green t-shirt and black headphones while speaking into a professional black microphone in a studio setting. She is positioned in front of a black backdrop featuring white text, including \"BOSS TALK 101,\" \"CAST,\" and \"About It!\". To her left, a framed blue-toned image of a person is visible on the wall. Small logos and text overlays appear at the bottom of the scene, including \"BOSS TALK 101\" and \"MZ_JAMAICA\". As the sequence progresses, the woman shifts her expression from a smile to a more serious, contemplative look. She remains in the same position, facing slightly to the left, while her facial movements and subtle head tilts indicate she is engaged in a conversation. The background and equipment remain static throughout the clip."
+}

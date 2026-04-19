@@ -1,0 +1,15 @@
+{
+  "video_id": "9d518061c82d14f24ef88e14a6e49f1a",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-166.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.34,
+    1.019,
+    1.698,
+    2.377
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair and glasses is seated in a room, wearing a dark blue t-shirt and silver over-ear headphones. He is positioned in front of a professional black microphone on a boom arm. Behind him, a screen displays a blue background with the partial text \"20\" visible. To the left of the man, a decorated Christmas tree with colorful green, blue, and red lights is visible. The man is speaking, and his facial expression shifts slightly across the sequence, with his mouth opening wider to emphasize his speech as the clip progresses. The background and his position remain stationary throughout the sequence, while the primary action is the movement of his mouth and subtle shifts in his facial expression as he talks."
+}

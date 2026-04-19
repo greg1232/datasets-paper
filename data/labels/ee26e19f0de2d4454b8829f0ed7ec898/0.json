@@ -1,0 +1,15 @@
+{
+  "video_id": "ee26e19f0de2d4454b8829f0ed7ec898",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.801,
+    2.402,
+    4.004,
+    5.606
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip captures a meeting of the \"House Committee on General, Housing, and Military Affairs\" on \"April 12, 2019,\" as indicated by on-screen text. The scene takes place in an office or hearing room where several people are present. Men in suits and ties are seated at a table, and women in professional attire stand behind them. A green banner at the bottom of the screen reads \"S.23 Increasing the Minimum Wage,\" and an \"ORCA\" logo is visible on the left. In the early frames, the focus is on a man in a suit and glasses viewed from behind and a man in a dark suit standing to the right. As the scene progresses, the camera shifts to show more people, including a woman in a red blazer and another woman in a black blazer. The individuals are engaged in a formal gathering, with some talking and others listening attentively."
+}

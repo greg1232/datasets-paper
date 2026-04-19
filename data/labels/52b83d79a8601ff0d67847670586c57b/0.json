@@ -1,0 +1,15 @@
+{
+  "video_id": "52b83d79a8601ff0d67847670586c57b",
+  "url": "./data/segments/3QD9oO6sRns-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.965,
+    2.894,
+    4.823,
+    6.752
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a split-screen layout featuring a Google Sheets document on the left and a YouTube video on the right. The spreadsheet lists various baseball players, teams, and numbers, with headings such as \"David Chang SAN DIEGO PADRES\" and \"Nicholas Keib Baltimore Orioles.\" A font selection menu is open in the first frame, showing options like \"Comfortaa\" and \"Comic Sans MS.\" The right side of the screen shows a YouTube video featuring a man in a black t-shirt and a baseball cap, with the logos \"JASPYS\" and \"CASEBREAKS.COM\" prominently displayed. A red banner at the bottom of the video instructs viewers to \"Hit the SUBSCRIBE button down below!\" As the sequence progresses, the font menu closes, and the user navigates the spreadsheet, highlighting different cells and adjusting the list of players and teams."
+}

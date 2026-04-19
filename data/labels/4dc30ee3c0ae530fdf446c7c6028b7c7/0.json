@@ -1,0 +1,15 @@
+{
+  "video_id": "4dc30ee3c0ae530fdf446c7c6028b7c7",
+  "url": "./data/segments/3Smz5pevbI4-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man and a woman are seated in an indoor setting that appears to be a formal meeting or hearing. The woman, on the left, has dark hair and glasses and is wearing a black blazer over a dark top with a white identification badge pinned to her lapel. To her right, a man with glasses wears a grey suit jacket, a white shirt, and a brown tie, with a matching identification badge on his jacket. He holds a microphone in his right hand. Throughout the sequence, the man is speaking and gesturing with his left hand. In the first frame, his hand is slightly raised; in the second, he lifts it higher into a fist-like gesture; and by the third, he brings it back down slightly while continuing to speak. In the final frame, he lowers his hand and leans forward. The woman remains still, looking forward with her hands clasped in her lap."
+}

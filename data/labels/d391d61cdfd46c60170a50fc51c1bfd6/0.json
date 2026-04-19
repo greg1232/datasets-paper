@@ -1,0 +1,15 @@
+{
+  "video_id": "d391d61cdfd46c60170a50fc51c1bfd6",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-847.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.422,
+    1.267,
+    2.111,
+    2.956
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, over-ear headphones, and a dark green t-shirt sits in a room filled with framed photographs on the walls and clothing racks in the background. His t-shirt features the text \"ION NEVER DO SHIT AT WORK\" in white lettering. He is positioned in front of a professional microphone on a stand. In the background, a white mannequin wears a white t-shirt. Two logos are visible on the screen: a circular logo on the left and a red text logo on the right that reads \"Hustle Hard\". Across the sequence, the man initially looks downward with a neutral expression, then shifts his gaze to the side, and finally bows his head low toward the microphone. The setting remains static as the man adjusts his posture and head position while remaining seated."
+}

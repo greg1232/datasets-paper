@@ -1,0 +1,15 @@
+{
+  "video_id": "8754882aa2c5e998537199c277d6c965",
+  "url": "./data/segments/3F2rz23IKUk-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.57,
+    22.71,
+    37.85,
+    52.99
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static white screen with a black border, displaying a list of \"Lessons learned\" under a centered heading. The text is organized into four bullet points. The first point states, \"Including licensing information gives the impression that you're acting in good faith.\" The second point reads, \"...being unable to follow through on source code offers gives the impression that you're incompetent.\" The third point notes, \"Resolution is difficult without obvious contacts,\" and the final point concludes, \"Frontline technical support are not a good choice for this!\" No people, locations, or equipment are visible. Across the sequence of frames, there is no movement or change in the visual content; the text and layout remain identical throughout."
+}

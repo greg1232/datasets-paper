@@ -1,0 +1,15 @@
+{
+  "video_id": "157a365efc875bbaf821c400c347fbce",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-645.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.141,
+    0.422,
+    0.704,
+    0.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hoodie with the word \"BOSS\" in gold lettering, and a gold watch sits in a studio setting. He is positioned in front of a professional microphone on a boom arm, wearing large over-ear headphones. Behind him is a white backdrop featuring a logo with five gold stars and the words \"UNION HUSTLE.\" To his right, a blue sign reads \"Where BOSSES Talk!\". On the table in front of him is a black mug with red and white text that says \"THE TALK SHOW\". Throughout the sequence, the man is speaking and gesturing with his right hand, moving his index finger upward. His expression remains engaged and focused as he talks into the microphone, while the surrounding environment and equipment remain stationary."
+}

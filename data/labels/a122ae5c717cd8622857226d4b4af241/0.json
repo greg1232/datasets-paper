@@ -1,0 +1,15 @@
+{
+  "video_id": "a122ae5c717cd8622857226d4b4af241",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-251.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.781,
+    1.094
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played on a green field marked with yard lines, featuring the text \"COMMANDERS\" across the turf. Players in white jerseys and helmets are engaged in a play, with some tackling another player as they move across the field. A small inset window shows a man with blonde hair wearing a dark blue shirt and a headset, watching the game. The top of the screen displays a scoreboard with text including \"2nd & 6\", \"1st\", \"2:36\", and \"20\", alongside logos for the teams. As the sequence progresses, the players in white shift their positions, with one player being brought down to the ground near the yard markers. The man in the inset window remains visible, maintaining a steady gaze as the action on the field unfolds and the play concludes near the red and yellow end zone markings."
+}

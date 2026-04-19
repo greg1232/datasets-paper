@@ -1,0 +1,15 @@
+{
+  "video_id": "92b4573922a2b8211266367bb586e63f",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, dark pants, and a black face mask walks across a paved outdoor area toward the camera. The setting features modern glass architecture, manicured hedges, and palm trees under a bright sky. In the background, other individuals are visible, including a man in a white shirt and dark trousers walking away. A white logo consisting of a crown over letters is visible in the upper right corner of the frames. The scene then shifts to a white team bus adorned with graphics of players and various corporate logos, including \"adidas,\" \"Emirates,\" and \"Audi.\" Several men, some wearing backpacks and athletic gear, are seen boarding the bus. One man in a grey t-shirt and black pants enters the vehicle, while another in a white shirt and dark pants stands nearby. The overall sequence captures people moving through a professional sporting environment."
+}

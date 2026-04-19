@@ -1,0 +1,15 @@
+{
+  "video_id": "f11e4c5f5a69ca567e188028c2ba9dda",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-098.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.13,
+    0.39,
+    0.65,
+    0.91
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a stadium scoreboard at night, displaying the final moments of a soccer match between Granada and Real Madrid. The red scoreboard features the team logos on either side of the score, which remains \"1-2\" throughout the sequence. Text on the left side lists \"49' MACHIS,\" while the right side lists \"9' F. MENDY\" and \"15' BENZEMA.\" Below the score, \"LaLiga Santander\" is written next to a logo. In the background, logos for \"WINAMAX\" and \"CAJA RURAL GRANADA\" are visible on dark panels, and red stadium seating is seen below. The only dynamic element is the match timer, which progresses from \"89:59\" to \"90:00\" as the frames advance. The scene is static except for the ticking clock, capturing the exact moment the game reaches the 90-minute mark."
+}

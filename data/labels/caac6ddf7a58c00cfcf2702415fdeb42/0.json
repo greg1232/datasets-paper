@@ -1,0 +1,15 @@
+{
+  "video_id": "caac6ddf7a58c00cfcf2702415fdeb42",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.625,
+    1.875,
+    3.125,
+    4.375
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A blue and yellow flag, resembling the national flag of Ukraine, waves against a plain white background. The flag is secured on the right side by a vertical black pole. Printed in a gray, sans-serif font across the blue upper band is the text \"Hero Ukraine\". A small, circular red logo containing the number \"13\" is visible in the upper right area of the scene. Across the sequence, the flag ripples and shifts in the wind, creating dynamic folds and shadows in the yellow fabric. The movement causes the \"Hero Ukraine\" text to distort slightly as the fabric bends. The lighting remains consistent, casting soft shadows across the surface of the flag as it flows from left to right."
+}

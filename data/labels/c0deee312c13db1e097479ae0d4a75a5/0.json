@@ -1,0 +1,15 @@
+{
+  "video_id": "c0deee312c13db1e097479ae0d4a75a5",
+  "url": "./data/segments/3P1vSUbet40-Scene-0354.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.537,
+    1.611,
+    2.685,
+    3.759
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a grey, spiked wig, glasses, and headphones sits in a studio setting. He wears a white button-down shirt, a red bow tie, and brown suspenders. He is positioned in front of a black microphone on a boom arm. The background consists of a wall decorated with various framed photographs and apparel on hangers. On-screen text and logos appear in the lower half of the image, including a white \"PODCAST\" label and a red and white logo that reads \"BOSS TALK JOY\". Across the sequence, the man remains in the same position but shifts his facial expression, moving from a neutral look with his mouth slightly open to a squinting expression with a slight smile. The background elements and equipment remain static as the man makes these subtle facial movements."
+}

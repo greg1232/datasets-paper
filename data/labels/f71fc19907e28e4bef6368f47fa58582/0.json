@@ -1,0 +1,15 @@
+{
+  "video_id": "f71fc19907e28e4bef6368f47fa58582",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.692,
+    2.077,
+    3.462,
+    4.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown holding a square, light-blue piece of cardstock with a subtle snowflake pattern against a white wooden surface. To the left, a product package is partially visible with the text \"rm heart\" and an illustration of floral stems. The cardstock features several small, white, raised dots arranged in a pattern. In the initial scenes, the person holds the card steady with both hands on the sides. As the sequence progresses, the person releases their grip with the left hand and begins to move their fingers toward the center of the card. By the final scene, the left hand is repositioning a small white dot on the card's surface while the right hand continues to hold the edge, stabilizing the material. The camera angle remains a static top-down view throughout the process."
+}

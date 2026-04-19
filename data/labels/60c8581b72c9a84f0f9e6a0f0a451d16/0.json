@@ -1,0 +1,15 @@
+{
+  "video_id": "60c8581b72c9a84f0f9e6a0f0a451d16",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-107.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.196,
+    0.588,
+    0.98,
+    1.372
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair wears black over-ear headphones and a dark grey shirt while positioned in front of a professional microphone. He is set against a dark, ribbed acoustic foam background. In the foreground, a smaller rectangular video window is overlaid on the screen. This inner video displays a wide shot of a rocky coastline under a pale sky. In the first three frames, the text \"PERFECT FOR WHEREVER\" is superimposed over the coastal scene. The man in the main frame looks toward the inner video with a slight smile, shifting his gaze and expression slightly across the sequence. In the final frame, the text disappears from the inner video, revealing a group of people sitting together on the rocks, facing away from the camera and looking toward the horizon."
+}

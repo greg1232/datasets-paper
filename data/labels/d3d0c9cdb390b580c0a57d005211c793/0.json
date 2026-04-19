@@ -1,0 +1,15 @@
+{
+  "video_id": "d3d0c9cdb390b580c0a57d005211c793",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-176.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.296,
+    0.888,
+    1.481,
+    2.073
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a Windows desktop environment with a blue background and numerous application shortcuts clustered on the left side. The text \"Tiger-TV\" is visible in the upper right corner. As the sequence progresses, the desktop view remains consistent, though small changes in the positioning or highlighting of icons occur. In the final scene, a large window opens, covering the right half of the screen. This window displays complex financial trading charts with green and red candlesticks and various technical indicators. Legible text within this trading window includes \"Dovbs & Co. Trading firm\" and \"Copyright 2020\". The rest of the screen continues to show the blue desktop background and the grid of icons on the left."
+}

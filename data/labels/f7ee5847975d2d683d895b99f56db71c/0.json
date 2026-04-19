@@ -1,0 +1,15 @@
+{
+  "video_id": "f7ee5847975d2d683d895b99f56db71c",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dimly lit room features a small counter or bar area accented by a horizontal strip of blue neon light along the wall. Two white, modern bar stools with chrome bases are positioned in front of the counter. The scene is very dark, with most of the environment shrouded in shadow. Small, faint points of light, one green and one blue, are visible on the floor in front of the stools. No people are present in the frames. Across the sequence, the camera remains stationary, and there is very little movement or change in the scene. The lighting remains constant, and the position of the stools and the blue neon glow do not shift, creating a still and quiet atmosphere. No text or logos are visible."
+}

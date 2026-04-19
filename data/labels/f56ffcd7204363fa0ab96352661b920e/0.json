@@ -1,0 +1,15 @@
+{
+  "video_id": "f56ffcd7204363fa0ab96352661b920e",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-282.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.087,
+    0.262,
+    0.438,
+    0.612
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A fair-skinned man with blonde hair, glasses, and a mustache sits in a room decorated for the holidays. He wears a dark blue patterned shirt and large white over-ear headphones. In the background, a decorated Christmas tree with colorful lights stands to the left, and a framed screen displays the number \"20\" to the right. A black microphone is positioned in front of him. As the sequence progresses, the man speaks, his mouth opening and closing while his expression shifts. He looks slightly to the side and then forward, with small movements of his head and facial muscles. The background remains static throughout the clip, focusing the action on the man's speech and facial expressions as he engages with someone or something off-screen."
+}

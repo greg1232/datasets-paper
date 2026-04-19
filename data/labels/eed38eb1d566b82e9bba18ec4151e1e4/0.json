@@ -1,0 +1,15 @@
+{
+  "video_id": "eed38eb1d566b82e9bba18ec4151e1e4",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-086.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.125,
+    30.375,
+    50.625,
+    70.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a dark suit, white shirt, and maroon tie, speaks in a television studio. He is positioned against a blue backdrop featuring a map of Africa and a white graphic of a city skyline. To his right, the text \"PLUS POLITICS\" is displayed. A red vertical banner on the left side contains a circular logo and the word \"plustv\". At the bottom of the screen, a white news ticker reads \"PLUS POLITICS\" followed by the headline \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\". Below this, a smaller white bar contains the word \"SUBSCRIBE\" and the URL \"WWW.YOUTUBE.COM/PLUSTVAFRICA\". As the scene progresses, the man continues speaking, shifting his facial expressions and gesturing with his right hand, which becomes visible in the final frame. The background and on-screen text remain constant throughout the clip."
+}

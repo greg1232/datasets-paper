@@ -1,0 +1,15 @@
+{
+  "video_id": "3080158b30fa4286a6c6010b438b6cff",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-087.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.36,
+    1.081,
+    1.802,
+    2.523
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a protective plastic slab, showcasing a collectible sports card. In the beginning, the person's hand obscures the view as they shift the slab, but as the sequence progresses, they tilt it to reveal a signed Ken Griffey Jr. card. The background features a desk with a laptop, a printer, and a smaller inset window showing a man with a beard wearing a navy blue shirt and a baseball cap, who is seated in a room with sports memorabilia. The logos \"JASPYS\" and the website \"CASEBREAKS.COM\" are prominently displayed in the upper portion of the scene. The bottom half of the frame shows a colorful mat with green palm tree designs. By the final scene, the card's gold border and the printed name \"KEN GRIFFEY JR.\" are clearly visible through the plastic casing."
+}

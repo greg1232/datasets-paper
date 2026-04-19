@@ -1,0 +1,15 @@
+{
+  "video_id": "c19d293381d340f432ff3b4935883d0f",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-382.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.608,
+    1.825,
+    3.042,
+    4.258
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played on a green field in a stadium with spectators. In the initial scene, players in white and dark uniforms are positioned for a play. The score is shown as 14 to 7, with the clock at \"2:31\" and the down indicated as \"3rd & 4\". A webcam overlay in the corner shows a man with blond hair watching the game. As the action unfolds, a player in a white jersey is tackled by a defender in a dark jersey. Text appears on the screen identifying the defender as \"Polamalu\" and labeling him a \"Playmaker\". The scene briefly becomes blurred before showing the aftermath of the tackle. The score updates to \"3rd 2:30\" and text reads \"PERFECT TIMING USER PICK\". A menu appears over the field with options for \"Swaggel\", \"Signature\", \"Dance\", and \"Flex\", while the man in the webcam overlay reacts with excitement."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6bd54e84aef5bedbbaa487157bed0be5",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-192.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.135,
+    0.406,
+    0.677,
+    0.948
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is seen in the foreground, moving across a table featuring a colorful patterned surface. On the table sits a white box containing a yellow object. In the background, a man with a beard, wearing a dark blue shirt, is seated in front of a computer monitor and other electronic equipment. The setting appears to be a room with various items and boxes scattered in the background. On-screen text in a red and white font reads \"JASPYS\" and \"CASEBREAKS.COM\". Across the sequence, the person's hand moves slightly from left to right, and the man in the background remains seated, looking toward the camera or the table. The overall scene remains consistent, focusing on the hand's movement and the man's presence in the background amidst the gaming or collecting equipment."
+}

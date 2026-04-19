@@ -1,0 +1,15 @@
+{
+  "video_id": "12a1560a52d40d9c02162b2d57d6523e",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-198.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.317,
+    0.951,
+    1.585,
+    2.219
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with gray hair, wearing a gray and white patterned button-down shirt, is captured in a close-up shot against a plain, light-colored wall. He is speaking, with his facial expressions and mouth position shifting slightly across the sequence. A blue and silver graphic banner at the bottom of the screen contains the name \"Basil Chapman\" in large white text, with smaller text below it stating, \"The Tiger Technicians Hour | June 8th, 2022\". The man appears to be wearing an earpiece in his right ear. Between the frames, his gaze moves from downward toward the left to looking directly forward, and his mouth opens and closes as he talks. The lighting and background remain consistent throughout the sequence, focusing entirely on the man as he delivers his remarks."
+}

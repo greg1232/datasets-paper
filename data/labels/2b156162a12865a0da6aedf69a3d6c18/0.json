@@ -1,0 +1,15 @@
+{
+  "video_id": "2b156162a12865a0da6aedf69a3d6c18",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.342,
+    1.026,
+    1.71,
+    2.394
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman is seated at a desk in an office setting, wearing a black cardigan over a pink top and blue pants, with a white face mask and an identification badge around her neck. She is holding a phone to her ear with her left hand while writing on a document with her right hand. In front of her are a computer monitor and various papers. The back of another person's silver-haired head is visible in the foreground. The scene remains mostly static across the sequence, showing the woman continuing her phone conversation and writing. On-screen text includes a purple circular icon with a silhouette and the words \"Day 2\" and the phrase \"Sim Week\" accompanied by a small bar graph icon in the lower right corner of each frame."
+}

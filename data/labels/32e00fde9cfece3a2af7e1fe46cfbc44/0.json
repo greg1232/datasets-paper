@@ -1,0 +1,15 @@
+{
+  "video_id": "32e00fde9cfece3a2af7e1fe46cfbc44",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.5,
+    0.833,
+    1.167
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is shown holding a deck of trading cards, with a logo featuring \"JASPYS\" and the website \"CASEBREAKS.COM\" appearing on the screen. The person is positioned in a room with a desk, where another man wearing a black jacket is seated in the background, looking downward. As the sequence progresses, the focus shifts between a close-up of the hand manipulating the cards and a wider shot of the man at the desk. Stacks of packaged trading cards are visible on the table surface. The background includes a wall with a door and some shelving. The scene alternates between the detailed view of the cards being handled and the medium shot of the man, while the \"JASPYS\" logo and \"CASEBREAKS.COM\" text remain consistent across the frames where they are visible."
+}

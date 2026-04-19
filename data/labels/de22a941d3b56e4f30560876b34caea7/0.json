@@ -1,0 +1,15 @@
+{
+  "video_id": "de22a941d3b56e4f30560876b34caea7",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.27,
+    0.45,
+    0.63
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of frames from a news broadcast depicts a group of men in a dimly lit indoor setting. In the center, an older man with white hair, wearing a dark suit, is seen interacting with other men dressed in dark suits and ties. One man to his left listens attentively, while another man stands partially visible behind him. As the scene progresses, the men shift their positions slightly; the older man lowers his head and appears to be looking down in the final frame. The screen features several recurring graphical overlays. A red banner at the top reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\" next to the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo and website \"news18india.com\". A larger red banner at the bottom states \"\u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e: \u0928\u0940\u0924\u0940\u0936 \u0915\u093e \u0935\u093e\u092a\u0938 \u0906\u0928\u093e \u0938\u0941\u0916\u0926 \u0938\u092e\u093e\u091a\u093e\u0930 \u0939\u0948\" and includes a timestamp of \"10:01 PM\" next to a small \"\u0928\u0917\u0930 \u0938\u0902\u0935\u093e\u0926\" logo."
+}

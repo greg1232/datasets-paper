@@ -1,0 +1,15 @@
+{
+  "video_id": "957b06f9a77649a2f7bf6aecc96a271e",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows the mechanical components of an engine, featuring a metallic casing with the embossed logo \"POLARIS\". The scene includes various parts such as a rusted exhaust pipe running horizontally across the top, electrical wiring with small connectors, and a black timing belt. A small white label with a barcode and alphanumeric text is attached to a golden-colored component. The environment appears to be a garage or workshop, focusing on the intricate details of the machinery. There are no people present in the images. Across the sequence of frames, the scene remains static, with no visible movement or change in the position of the engine parts or the camera angle, resulting in a consistent view of the mechanical assembly."
+}

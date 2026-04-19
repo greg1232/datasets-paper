@@ -1,0 +1,15 @@
+{
+  "video_id": "c9f75285142dd15020d79b3c12b05b3b",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-098.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.75,
+    2.25,
+    3.75,
+    5.25
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a split-screen layout with political figures and on-screen graphics. On the left, images of men like \"\u0938\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940\" and \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\" appear, while the right side shows \"\u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930,\" \"\u0935\u093f\u091c\u092f \u092f\u093e\u0926\u0935,\" and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930.\" A central graphic displays a social media post from \"Akhilesh Yadav\" with text in Hindi. At the top, a red banner asks, \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\". A large \"BREAKING\" or \"BREAKING NEWS\" banner runs across the bottom, accompanied by a \"MAHAREAD\" logo and the time \"10:05 PM\". As the scene progresses, the figures on the left change to \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930,\" and the layout shifts slightly, with a new headline reading \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\" appearing next to a \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo. The overall visual style is typical of a fast-paced news report with scrolling text and dynamic image overlays."
+}

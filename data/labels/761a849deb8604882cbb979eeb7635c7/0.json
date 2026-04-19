@@ -1,0 +1,15 @@
+{
+  "video_id": "761a849deb8604882cbb979eeb7635c7",
+  "url": "./data/segments/3l84m5pRmyk-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.388,
+    0.646,
+    0.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, multi-story hotel building with a light-colored facade dominates the scene, featuring a distinctive tiered architecture and numerous windows. In front of the hotel, several tall palm trees stand against a pale, overcast sky. A shorter, two-story structure with a grey roof and large windows extends across the foreground, bordering a street. The street level shows a few pedestrians and vehicles, though they remain small and indistinct. The camera remains stationary throughout the sequence, capturing a static wide shot of the urban environment. There are no legible logos or on-screen text visible. The scene is virtually identical across all frames, with only subtle movements of distant figures and vehicles, maintaining a consistent view of the architecture and the palm trees under the muted daylight."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a2688c1130292369d6b1cc213389b363",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.335,
+    1.005,
+    1.675,
+    2.345
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a dark, dimly lit scene showing two figures with their arms raised in the air. As the sequence progresses, the scene shifts to a bright, white background featuring a grey grid pattern. Overlaid on this background is a logo that reads \"peoples dispatch\" in a stylized black font, with a red line striking through the word \"dispatch\" and a small signal icon to the right. Throughout all the frames, a caption at the bottom of the screen reads \"Arise sing. We are going to win. Flags of unity are now advancing .\". In the final frame, additional red text appears below the logo that says \"LIKE I SHARE I SUBSCRIBE\"."
+}

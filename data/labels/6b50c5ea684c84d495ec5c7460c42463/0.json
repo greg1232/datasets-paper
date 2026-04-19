@@ -1,0 +1,15 @@
+{
+  "video_id": "6b50c5ea684c84d495ec5c7460c42463",
+  "url": "./data/segments/3a0FD1177FA-Scene-086.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.658,
+    4.974,
+    8.29,
+    11.605
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static graphic over a soft, shimmering gold and white background filled with out-of-focus bokeh lights and several sparkling star-like glints. Across the center of the screen, decorative cursive text is arranged in two lines. The top line features the words \"Subscribe\" and \"Check out more videos,\" separated by a small swirling flourish. Below this, a second line of text in a simpler font reads, \"Shop & Order at www.StampingJill.com\". The lighting effect in the background subtly shifts across the sequence, with the glowing spots and sparkles drifting and changing intensity, while the text remains perfectly still and centered. No people, physical objects, or equipment are visible, as the scene consists entirely of digital text and a stylized atmospheric background."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1f3a8ec68f04a3742df0db4820e19380",
+  "url": "./data/segments/3Smz5pevbI4-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    14.994,
+    44.982,
+    74.971,
+    104.959
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a slide from a presentation by \"Rolk et al., 2012.\" On the left side of the screen, there is an image of a revolver with smoke emerging from the barrel, positioned above the text \"1-800-QUIT.\" To the right is a grayscale 3D rendering of a human brain with a small section highlighted in bright green. Below these images is a bar graph labeled \"b. Self Report Rankings,\" showing three bars of varying heights. As the sequence progresses, the screen remains static until the final frame, where two additional bar graphs appear to the right of the first one. These new graphs are labeled \"c. Neural Responses to Ads\" and \"d. Population Call Volume.\" The layout is a white background with black text and graphics, presenting a combination of imagery and scientific data."
+}

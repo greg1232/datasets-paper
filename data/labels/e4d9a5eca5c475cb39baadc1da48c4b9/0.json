@@ -1,0 +1,15 @@
+{
+  "video_id": "e4d9a5eca5c475cb39baadc1da48c4b9",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-241.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.283,
+    0.85,
+    1.417,
+    1.983
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a clear plastic protective card case over a white surface, slowly lowering it toward a sports card. In the background, a smaller inset video window shows a man with a beard wearing a dark blue t-shirt with a yellow circular logo on the chest; he is seated in front of a microphone and a computer monitor, observing the action. The scene features prominent branding with the text \"JASPYS\" in orange and white, accompanied by the website \"CASEBREAKS.COM\". Throughout the sequence, the hand continues to move the clear plastic sleeve downward until it eventually aligns with and begins to cover the card resting on the table. The surrounding environment includes a colorful orange and blue patterned surface beneath the white carding area."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e845738287e3e69737430182e34add52",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-141.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.395,
+    1.185,
+    1.975,
+    2.765
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a video call interface featuring a man wearing a grey shirt and a dark baseball cap in the upper right corner. The main window displays a digital mind map or concept map with several nodes connected by lines. In the initial sequence, a few nodes are visible, including one showing a photo of a classroom with students and another labeled \"blackboard hub learning\". A small circular profile picture of a man is also present. As the sequence progresses, the map expands significantly, adding numerous new nodes and interconnecting lines. These new nodes include various icons and labels such as \" blackboarding\", \"blackboarding\", \"blackboarding\", and \"blackboard hub\". The top of the browser window shows multiple open tabs, including titles like \"Truth & Learning by Systemic\", \"Elements by SystemicHub\", \"Future of Society by Systemic\", \"Insights introduction to Alumni\", and \"Rural Community Feed Spreading\"."
+}

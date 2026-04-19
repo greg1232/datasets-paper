@@ -1,0 +1,15 @@
+{
+  "video_id": "dedd2fba3c489b4adcd0949242d3247c",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-323.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.527,
+    1.581,
+    2.635,
+    3.69
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a framed baseball card featuring a photo of player Tim Raines, who is wearing a red jersey and a baseball cap. The card includes the text \"TIM R.A.I.N.E.S\" across the bottom. The frame is positioned in front of a computer screen displaying a website with the logo \"JASPYS\" and the URL \"CASEBREAKS.COM\". In the lower right corner of the screen, a smaller inset video shows a man with a beard wearing a dark blue t-shirt. As the sequence progresses, the person's hand moves across the card, and they use a small tool to carefully lift the protective plastic sleeve from the top edge of the framed card. The background consists of a cluttered desk area with various sports memorabilia and equipment, maintaining a consistent setting throughout the action."
+}

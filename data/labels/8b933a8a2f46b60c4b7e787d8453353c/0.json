@@ -1,0 +1,15 @@
+{
+  "video_id": "8b933a8a2f46b60c4b7e787d8453353c",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.135,
+    6.406,
+    10.677,
+    14.948
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grayscale security camera feed captures a dim, industrial-looking indoor space. In the background, a ladder leans against a structure near a long, horizontal object. A bright light source on the right side of the frame illuminates the area. Throughout the sequence, a small, bright point of light moves across the center of the scene, appearing to glide from left to right. Each frame contains on-screen text in the bottom-left corner that reads \"Cam 04\". Along the top edge of the images, timestamps indicate the progression of time: \"05-13-2022 11:34:16PM\", \"05-13-2022 11:34:21PM\", \"05-13-2022 11:34:26PM\", and \"05-13-2022 11:34:31PM\". No people are visible in the scene, and the only significant change between the frames is the shifting position of the small, luminous object moving across the floor."
+}

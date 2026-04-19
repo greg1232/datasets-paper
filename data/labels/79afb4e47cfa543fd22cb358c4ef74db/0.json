@@ -1,0 +1,15 @@
+{
+  "video_id": "79afb4e47cfa543fd22cb358c4ef74db",
+  "url": "./data/segments/3hcAJKLX-Ps-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.125,
+    1.875,
+    2.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a maroon long-sleeved shirt stands before a brightly colored green and yellow backdrop, speaking into a handheld microphone. He wears a white identification badge around his neck. As he speaks, he gestures with his right hand, lifting it slightly higher and moving his fingers as if emphasizing a point. Behind him, several other men are partially visible, including one in a white shirt. A dark speaker cabinet sits to the man's left. The background is a large screen displaying abstract, light-colored patterns on a vibrant green field. The scene remains consistent across the sequence, with the primary movement being the subtle shifts in the speaker's hand gestures and head posture as he continues his presentation. No legible text or logos are visible on the screen or clothing."
+}

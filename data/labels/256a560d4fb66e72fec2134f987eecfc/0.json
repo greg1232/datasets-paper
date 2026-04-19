@@ -1,0 +1,15 @@
+{
+  "video_id": "256a560d4fb66e72fec2134f987eecfc",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.148,
+    0.444,
+    0.74,
+    1.035
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a black \"OBSIDIAN\" branded trading card box. The individual uses their fingers to carefully remove a card from within the packaging. The box features a green and red design with an athlete's image on the cover. In the background, a smaller picture-in-picture window reveals a man with short hair wearing a black shirt, sitting in a room with shelves behind him. On-screen text displays the logo \"JASPYS\" and the website \"CASEBREAKS.COM\" in white and red letters. As the sequence progresses, the hands move across the box, sliding a card out of its slot. The man in the inset window remains stationary, watching the process. The lighting is bright, focused on the box and the hands performing the action."
+}

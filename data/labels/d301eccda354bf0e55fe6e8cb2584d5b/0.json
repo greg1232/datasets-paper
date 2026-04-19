@@ -1,0 +1,15 @@
+{
+  "video_id": "d301eccda354bf0e55fe6e8cb2584d5b",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-256.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a video call session featuring a presentation about the \"Rural Community Food System.\" A man with a beard wearing a dark shirt appears in a small video window in the top right corner, looking at the camera. The main area of the screen displays a slide titled \"Introduction\" that asks, \"What constitutes a sustainable localized food system for a rural community? Source as local as possible from locally owned and operated to benefit the community.\" Below this, a \"Session Videos\" section lists several timestamps, and text invites viewers to contribute to the model by \"adding community\" or \"mapping a member.\" A complex circular diagram with interconnected nodes sits on the right side of the slide. A legend at the bottom labels \"Large Corporate Farm System\" and \"Community Hubs and Means of Production.\" Across the sequence, the presenter remains relatively still, while the browser interface and slide content remain constant."
+}

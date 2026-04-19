@@ -1,0 +1,15 @@
+{
+  "video_id": "85b3a8fb82f97801b3f9b74a3fb760d0",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-828.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.219,
+    0.657,
+    1.095,
+    1.533
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt with the text \"ION NEVER DO SHIT AT WORK\" sits in a room filled with framed pictures and clothing racks. He is positioned behind a black professional microphone. To his right, a white mannequin wearing a white shirt stands against a wall. In the lower corners of the scene, two logos are visible: a circular one on the left and one on the right that reads \"SKELLY TOY\". The man is speaking and gesturing with his hands. As the scene progresses, he shifts his posture and moves his right arm in an expressive motion while continuing to talk into the microphone. The background remains static, showing a collection of photos and apparel in what appears to be a studio or retail space."
+}

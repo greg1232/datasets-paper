@@ -1,0 +1,15 @@
+{
+  "video_id": "3b0ae5225ce36de4b128e1b5b28e19a2",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-088.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing blue jeans and dark footwear rides a green Polaris all-terrain vehicle (ATV) across a concrete driveway. The scene begins with the front of the ATV entering the frame from the right, while a dark blue car is parked in the background. As the sequence progresses, the rider steers the ATV from right to left. The vehicle's large, knobby black tires move across the light-colored concrete, which is marked by several dark cracks. The rider remains seated on the vehicle throughout the movement. In the final frames, the ATV is positioned more centrally, revealing the \"POLARIS\" logo on the rear side of the green body. To the left, a weathered wooden post frames the edge of the scene, while a grassy area and white building are visible in the distance behind the parked car."
+}

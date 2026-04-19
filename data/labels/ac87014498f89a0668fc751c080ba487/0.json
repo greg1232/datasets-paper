@@ -1,0 +1,15 @@
+{
+  "video_id": "ac87014498f89a0668fc751c080ba487",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-099.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.504,
+    1.512,
+    2.521,
+    3.529
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large banquet hall with a blue carpeted floor, a tiered ceiling with recessed lighting, and ornate chandeliers, several people are practicing martial arts. A crowd of spectators is seated at tables in the background. Three primary figures are center stage: a person in white clothing, a person in light green clothing, and a person in a black sleeveless top and blue trousers. Across the sequence, the individuals engage in dynamic movements. The person in white and the person in blue move closer together, exchanging strikes and blocks. The person in green shifts their position, moving from the background toward the center, eventually engaging in a coordinated sequence with the others. The movements are fluid and rhythmic, showcasing a choreographed martial arts demonstration as the performers shift their stances and distances relative to one another."
+}

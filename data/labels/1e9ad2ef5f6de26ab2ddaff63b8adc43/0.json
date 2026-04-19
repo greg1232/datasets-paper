@@ -1,0 +1,15 @@
+{
+  "video_id": "1e9ad2ef5f6de26ab2ddaff63b8adc43",
+  "url": "./data/segments/3E6ctN22V7k-Scene-107.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.17,
+    0.51,
+    0.85,
+    1.19
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a classroom setting with light blue shelving and a brick wall, a man in a light pink long-sleeved shirt stands before a group of children. He holds an open book, which he reads aloud as several children listen attentively. Among the students, one girl wears a light blue shirt, and others are in darker clothing. The children's expressions are focused as they look toward the man or the book. White on-screen text appears at the bottom of the scene, reading \"These children will help the Congo.\" Throughout the sequence, the man remains in a similar posture, holding the book open for the group, while the children maintain their positions, with slight shifts in their gaze and facial expressions as they listen to him."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "80c5f5f9c56b931fc6b17e6daf03edc6",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-225.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.784,
+    2.352,
+    3.921,
+    5.489
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A small audience sits in a wood-paneled room, facing two men standing at a podium. One man wears a white shirt and a dark vest, holding an acoustic guitar, while the other man stands beside him. The audience consists of several people seen from behind; notable individuals include a woman in a yellow shirt, a man in a maroon hoodie, and a woman in a white sweater. The setting features vertical wood slats on the walls and dark seating. Across the scene, the man with the guitar remains in a similar position, though his arm movements shift slightly. A white logo containing the text \"ORCA\" appears in the lower center-right of the frame in each shot. The camera remains static, capturing the consistent arrangement of the crowd and the presenters as the scene unfolds."
+}

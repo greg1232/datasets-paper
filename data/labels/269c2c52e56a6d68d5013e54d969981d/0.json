@@ -1,0 +1,15 @@
+{
+  "video_id": "269c2c52e56a6d68d5013e54d969981d",
+  "url": "./data/segments/3iUTkJy84EY-Scene-220.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.18,
+    0.54,
+    0.9,
+    1.26
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with shoulder-length black hair and glasses is speaking against a plain dark background. She wears a light green tunic featuring red and white floral embroidery around the neckline and a small black necklace. A small lapel microphone is clipped to her clothing. In the bottom left corner of each frame, a circular logo appears with the text \"NPTEL\" written below it. As the sequence progresses, the woman uses hand gestures to emphasize her speech. Initially, she holds her right hand up with her thumb extended. She then transitions to pointing her index finger forward and slightly downward. By the end of the sequence, she is gesturing with her right hand held slightly lower, with her fingers curled, while continuing to speak. Her facial expressions change slightly as she talks, moving from a neutral expression to one with her mouth open in mid-speech."
+}

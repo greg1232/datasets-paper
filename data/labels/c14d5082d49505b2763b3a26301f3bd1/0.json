@@ -1,0 +1,15 @@
+{
+  "video_id": "c14d5082d49505b2763b3a26301f3bd1",
+  "url": "./data/segments/3Z229_lKLpk-Scene-140.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.42,
+    1.26,
+    2.1,
+    2.94
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large assembly of people, primarily men, is gathered in a formal indoor setting that resembles a legislative chamber, with tiered seating and a teal-colored carpeted aisle. The attendees are dressed in various attire, including traditional Indian clothing like kurtas, some with orange turbans, and western-style shirts and suits. Most individuals are seated and facing forward, with some appearing to be listening or engaged in quiet conversation. A wooden podium with an ornate carving is positioned in the foreground. Throughout the sequence, the scene remains virtually static, with minimal movement among the seated crowd. There are no visible logos, on-screen text, or equipment such as microphones or cameras in the immediate foreground, and the composition of the room and the positioning of the people remain consistent across the frames."
+}

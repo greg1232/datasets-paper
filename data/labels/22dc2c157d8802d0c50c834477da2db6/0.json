@@ -1,0 +1,15 @@
+{
+  "video_id": "22dc2c157d8802d0c50c834477da2db6",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.463,
+    0.772,
+    1.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A bright spotlight illuminates a patch of dark, earthy ground sparsely covered with small green plants and thin blades of grass. The scene is viewed from a high angle, with the light creating a strong focal point in the center of the frame and leaving the surrounding edges in deep shadow. A small, leafy green plant is visible to the right of the light source, while a few larger sprigs of greenery are scattered toward the top of the view. Small pebbles and organic debris are interspersed throughout the soil. Across the sequence of frames, the lighting remains constant and the camera remains stationary, resulting in a static image with no movement from any people or objects. No text or logos are present in the scene."
+}

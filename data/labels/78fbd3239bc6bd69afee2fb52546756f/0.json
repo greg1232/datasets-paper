@@ -1,0 +1,15 @@
+{
+  "video_id": "78fbd3239bc6bd69afee2fb52546756f",
+  "url": "./data/segments/3iUTkJy84EY-Scene-201.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is positioned in front of a solid dark background. She wears a light green garment featuring intricate red and white embroidery along the neckline and a simple dark necklace. A small lapel microphone is clipped to the front of her top. In the bottom left corner of each scene, a logo with a circular emblem is accompanied by the text \"NPTEL\". Throughout the sequence, the woman remains centered in the frame, speaking and gesturing slightly. Her facial expressions shift as she talks, with her mouth opening and closing and her gaze moving slightly, while her overall posture remains steady. The lighting is consistent, focusing on the woman against the featureless black backdrop, with no other people or objects visible in the environment."
+}

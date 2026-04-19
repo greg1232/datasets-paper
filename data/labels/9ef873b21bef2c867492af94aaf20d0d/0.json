@@ -1,0 +1,15 @@
+{
+  "video_id": "9ef873b21bef2c867492af94aaf20d0d",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-091.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.283,
+    0.85,
+    1.417,
+    1.983
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a sports card in a gold-bordered protector over a table covered with a themed cloth featuring palm trees and the logo \"JASPYS\" and \"CASEBREAKS.COM\". In the background, a man wearing a navy blue t-shirt sits behind the table, looking toward the camera. A small stack of white boxes and a yellow box are positioned on the table. As the sequence progresses, the hands move the card across the frame, tilting it to show its reflective surface. In the final scenes, the focus shifts slightly, showing the gold-bordered card being held closer to the center while the man in the navy shirt remains visible in a smaller inset window. The logo \"JASPYS\" and the website \"CASEBREAKS.COM\" are prominently displayed on the tabletop and as an overlay on the screen."
+}

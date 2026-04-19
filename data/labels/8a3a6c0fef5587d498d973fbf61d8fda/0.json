@@ -1,0 +1,15 @@
+{
+  "video_id": "8a3a6c0fef5587d498d973fbf61d8fda",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-084.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.255,
+    0.425,
+    0.595
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a wide shot of a large football stadium at night under bright floodlights. The stadium features extensive red seating areas and a lush green pitch. Various sponsorship signs are visible on the stadium walls, including the text \"IDEAL\" and \"PULEVA.\" The logo of Real Madrid is positioned in the top right corner of the scene. Several people are present in the foreground, including individuals dressed in dark clothing who appear to be observing the field. Some people are standing near the edge of the spectator area. The lighting creates strong glares and reflections against the dark night sky. Across the sequence of frames, the camera remains almost stationary, with very little movement among the people or changes in the environment, maintaining a consistent view of the empty red stands and the illuminated playing field."
+}

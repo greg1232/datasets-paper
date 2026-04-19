@@ -1,0 +1,15 @@
+{
+  "video_id": "0a6a556feeabb8daa4bf7fdeaab4c4ce",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-123.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.323,
+    3.969,
+    6.615,
+    9.26
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and wearing black over-ear headphones is positioned in front of a light-colored wall and cream curtains. She is dressed in a striped, collared shirt. In each scene, she is speaking, with her mouth open and expressions shifting slightly as she talks. In the lower-left corner of each frame, the text \"Nancy Danya\" is visible. The background remains static throughout the sequence, consisting of a plain wall and fabric drapery. As the sequence progresses, the woman continues her speech, with subtle movements in her facial muscles and lips indicating active communication. She maintains a steady gaze toward the camera, and her posture remains consistent across the duration of the clip."
+}

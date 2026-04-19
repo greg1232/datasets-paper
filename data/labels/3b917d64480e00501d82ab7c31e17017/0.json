@@ -1,0 +1,15 @@
+{
+  "video_id": "3b917d64480e00501d82ab7c31e17017",
+  "url": "./data/segments/3Kxl1O310k8-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.13,
+    0.39,
+    0.65,
+    0.91
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call features six participants arranged in a grid. The participants include a man in a plaid shirt and glasses, a man in a dark shirt and glasses, a woman wearing headphones and glasses, a man in a grey shirt and glasses, a man in a light-colored button-down shirt, and a man in a dark jacket with a grey beard. The backgrounds vary, with some showing indoor home settings and others showing an outdoor brick building. As the sequence progresses, the man in the dark shirt and glasses waves his hand toward the camera. Some frames show black voids where participants are missing, and small, illegible white text appears at the bottom of these dark areas, including a timestamp that reads \"2021-11-12 09:17:14\". The positions of the participants remain constant, but their expressions and gestures shift slightly throughout the clip."
+}

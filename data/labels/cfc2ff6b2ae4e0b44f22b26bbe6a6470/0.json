@@ -1,0 +1,15 @@
+{
+  "video_id": "cfc2ff6b2ae4e0b44f22b26bbe6a6470",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-198.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.238,
+    0.396,
+    0.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation takes place in a room with wood-paneled walls and a large screen in the background. A woman in a blue-and-white patterned top stands at a podium on the left, addressing an audience of people seated in chairs. On the right, a man in a dark vest and light-colored shirt stands facing her. The audience consists of several individuals, including people wearing a blue-and-red striped shirt, a black top, and a yellow top. In the foreground, the back of a person's head and shoulders is visible. The text \"ORCA\" appears in the bottom right corner of the scene. Across the frames, the woman at the podium and the man in the vest shift their positions slightly as they interact, while the seated audience remains relatively still, observing the presentation."
+}

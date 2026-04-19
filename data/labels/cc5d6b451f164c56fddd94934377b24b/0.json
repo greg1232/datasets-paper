@@ -1,0 +1,15 @@
+{
+  "video_id": "cc5d6b451f164c56fddd94934377b24b",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-170.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.551,
+    1.652,
+    2.753,
+    3.854
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is recording in a studio with dark, ribbed acoustic foam walls. He wears black over-ear headphones and a white t-shirt that features a logo on the chest containing the words \"Stay Humble\". He is positioned behind a professional silver microphone mounted on a black boom arm. In the sequence, the man is speaking and reacting; he begins by looking toward the microphone, then closes his eyes and smiles slightly, and finally looks back toward the side while continuing to speak. His right arm is visible, showing extensive tattoos. The equipment and the man's position remain constant throughout the clip, while his facial expressions and head movements change as he engages in a conversation."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "09eed6dc10ae397e5e41ff3eb6b06542",
+  "url": "./data/segments/3F2rz23IKUk-Scene-073.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.92,
+    5.76,
+    9.6,
+    13.44
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a classroom or lecture hall, several people are gathered during a presentation. At the front of the room, a man in a black t-shirt and khaki pants stands near a table, while another man in a black t-shirt and a woman in a dark tank top sit behind the table. A large projection screen displays white text, though the specific words are not clearly legible. In the foreground, several men sit in red chairs, including one in a black t-shirt and another in a dark blue shirt with a white \"WALT\" logo on the sleeve. As the scene progresses, the man in the blue shirt turns to speak with those around him, while the man in the khaki pants shifts his position near the table. In the final sequence, the image on the projection screen changes from a white background with text to a solid light purple color."
+}

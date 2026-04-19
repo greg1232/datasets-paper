@@ -1,0 +1,15 @@
+{
+  "video_id": "4f782b52e1036e32329f1042166906e0",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with long dark hair tied back and wearing glasses performs in front of a brown slatted wall. He is dressed in a white long-sleeved shirt, a dark vest with blue floral embroidery, and a decorative red and white necklace. He stands behind a microphone on a stand and plays an acoustic guitar. A small portion of another person's head is visible in the foreground. The on-screen text \"ORCA\" is displayed in a white speech bubble to the right of the performer. Across the sequence, the man remains in a similar position, slightly shifting his head and posture while continuing to play his guitar, with his hands moving across the strings. The lighting and background remain constant throughout the scenes."
+}

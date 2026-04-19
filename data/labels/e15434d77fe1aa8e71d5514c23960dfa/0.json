@@ -1,0 +1,15 @@
+{
+  "video_id": "e15434d77fe1aa8e71d5514c23960dfa",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-110.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.312,
+    0.938,
+    1.562,
+    2.188
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair, wearing a striped button-down shirt and over-ear headphones, is speaking while looking toward the camera. She is situated in a room with a light-colored wall and a pale green curtain partially visible on the left. In the bottom-left corner of each view, the on-screen text \"Nancy Ramya\" is displayed. Throughout the sequence, she remains in the same position, gesturing slightly with her facial expressions as she talks. Her mouth opens and closes as she speaks, and she maintains a pleasant, engaged expression. The lighting is soft and consistent across the scene, and there are no other people or significant objects visible in the background. The scene remains static in terms of setting, with only the woman's facial movements changing as the clip progresses."
+}

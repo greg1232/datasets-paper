@@ -1,0 +1,15 @@
+{
+  "video_id": "63ee7a7e1373a8664a2f3805092c51e0",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-357.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.323,
+    3.969,
+    6.615,
+    9.26
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and a black baseball cap sits in front of a computer monitor, which is visible in the background. He is wearing a black t-shirt and is positioned in the lower center of the screen, with his face appearing in a small inset window. The majority of the screen is occupied by a website displaying lists of names and numbers, some accompanied by the word \"HOLIDAY.\" On-screen text reads \"Don't use this service for giveaways! Use Multi-Round Giveaways instead\" along with links for \"more info\" and buttons labeled \"Agree\" and \"Go Back.\" The footer includes \"\u00a9 1998-2021 RANDOM.ORG\" and social media prompts. A bright red banner at the bottom says \"Hit the SUBSCRIBE button down below!\" next to a YouTube logo. Between the sequences, the lists of names on the website update, and the text \"You have randomized this list X times\" increments from 3 to 5 and then to 7."
+}

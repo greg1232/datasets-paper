@@ -1,0 +1,15 @@
+{
+  "video_id": "e214cc1917223ebc2e5cfcc2c256ce67",
+  "url": "./data/segments/3F2rz23IKUk-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.365,
+    1.095,
+    1.825,
+    2.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation takes place in a classroom or lecture hall where students sit at desks facing a projector screen and a presenter. In the initial scenes, a man in a black t-shirt stands by the screen, which displays a slide with illegible text. Another man in a brown shirt and khaki pants walks across the room toward the presenter. The students, including one wearing a bright yellow shirt and another in a pink shirt, are seated and focused on the front of the room. As the sequence progresses, the camera angle shifts to a wider perspective from the back of the room, showing more of the audience. The presenter remains standing by the projector screen, while students continue to observe. The room contains whiteboards, technical equipment on tables, and several laptops. In the final scene, a logo featuring a stylized figure is visible on the back of a student's black t-shirt."
+}

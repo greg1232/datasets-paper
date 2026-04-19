@@ -1,0 +1,15 @@
+{
+  "video_id": "9eabb9eb026f6ab496251322aede2a08",
+  "url": "./data/segments/3QD9oO6sRns-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.346,
+    1.038,
+    1.729,
+    2.421
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view focuses on the side of a brown cardboard shipping box, which displays a barcode and the text \"1/20 Count\". The box features a label stating, \"certificate of conformity certificate for this product shipment please refer to www.topps.com/cc\". The alphanumeric code \"PKG009402\" is printed vertically near the barcode. In the background, a person wearing a black baseball cap and a black t-shirt is partially visible, sitting behind a desk. The surface beneath the box features a logo that reads \"CASEBREAKS.COM\". A small picture-in-picture window in the corner of the screen shows the same person and setting from a wider angle. Across the sequence, the camera shifts slightly, moving from a tighter shot of the box's corner to a broader view of the side panel, while the person in the background remains stationary."
+}

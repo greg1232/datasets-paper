@@ -1,0 +1,15 @@
+{
+  "video_id": "c825e1534b69479ca17b7f1e517ac475",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-108.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.446,
+    1.339,
+    2.231,
+    3.124
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a dark, digital environment with teal-colored glowing lines, grids, and abstract data visualizations. There are no people present in the scene. The frames show the progression of on-screen text and graphics. Initially, the text \"WHILE THEY\" appears in white against the dark background. As the scene progresses, the phrase expands to read \"WHILE THEY ANALYZE CHARTS\", with \"ANALYZE CHARTS\" appearing in a bright yellow-green color. In the final sequence, a blue arrow points toward the text \"WHILE THEY ANALYZE CHARTS\", and a series of vertical light-blue bars, resembling a financial histogram or data chart, rises from the bottom of the frame. The background remains a consistent dark teal digital space throughout, with subtle shifts in the positioning of the graphical elements as the text and charts are introduced."
+}

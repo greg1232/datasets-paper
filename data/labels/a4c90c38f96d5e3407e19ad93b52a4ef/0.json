@@ -1,0 +1,15 @@
+{
+  "video_id": "a4c90c38f96d5e3407e19ad93b52a4ef",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.371,
+    1.114,
+    1.856,
+    2.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up view of the rear bumper of a white car. The vehicle features a chrome emblem that reads \"CORVETTE\" in all capital letters. Below the emblem is a license plate with a green and white background that reads \"192 WTR\" and includes the text \"SUNSHINE STATE\" at the bottom. A red graphic is positioned between the numbers and letters on the plate. The car has two black oval-shaped vents integrated into the bumper. Throughout the sequence, the camera pans slowly from left to right across the rear of the car, gradually shifting the perspective and revealing more of the vehicle's right side and the vents. No people are visible in the frames."
+}

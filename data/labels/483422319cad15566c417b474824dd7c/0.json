@@ -1,0 +1,15 @@
+{
+  "video_id": "483422319cad15566c417b474824dd7c",
+  "url": "./data/segments/3L_uHTClWfk-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.933
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A statue of the Statue of Liberty stands against a dark blue and orange twilight sky. The statue is shown from the waist up, holding its torch aloft in one hand and a tablet in the other. Overlaid on the left side of the scene is a white rectangular banner containing a red silhouette of a basketball player and the red text \"WNBA\". Across the sequence of frames, the camera remains static, and there is virtually no movement in the subject or the background. The lighting on the statue and the colors of the sky remain consistent, creating a still image effect where the only variation is the slight shimmering of the flame atop the torch."
+}

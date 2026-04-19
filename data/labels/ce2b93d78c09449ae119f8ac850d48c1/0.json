@@ -1,0 +1,15 @@
+{
+  "video_id": "ce2b93d78c09449ae119f8ac850d48c1",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-142.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.266,
+    3.797,
+    6.328,
+    8.859
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands centered within a small, brightly lit rectangular doorway or window, contrasted against a solid black background. He is wearing a black traditional garment with white embroidered patterns on the chest and white sleeves. He maintains a steady, smiling expression while looking directly forward, with his hands clasped in front of him. The scene remains virtually static across the duration of the clip, with no significant changes in his posture or the background. The text \"Seyi Adebola\" appears in small, white, sans-serif font in two locations: once in the lower-left corner and once in the center of the black void. The lighting is focused on the man, casting a warm glow on his face and clothing while leaving the surrounding area in complete darkness."
+}

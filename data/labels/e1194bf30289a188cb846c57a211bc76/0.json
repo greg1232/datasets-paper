@@ -1,0 +1,15 @@
+{
+  "video_id": "e1194bf30289a188cb846c57a211bc76",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-137.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.144,
+    0.431,
+    0.719,
+    1.006
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a graded trading card in a clear plastic slab, showcasing a signature on the card. In the background, a man with a beard and a dark t-shirt featuring a yellow logo sits in front of computer equipment, appearing in a small inset window. The setting is a workspace with a white surface decorated with green palm tree graphics. On-screen text and logos include \"JASPYS\" and \"CASEBREAKS.COM\" in orange and white lettering. As the scene progresses, the person holding the card tilts it, causing light to reflect off the plastic surface and the card's holographic elements. The perspective shifts from a close-up of the card's face to a slightly different angle, emphasizing the texture of the slab and the details of the card inside, while the man in the inset window remains stationary."
+}

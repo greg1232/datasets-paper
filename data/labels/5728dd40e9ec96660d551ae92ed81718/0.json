@@ -1,0 +1,15 @@
+{
+  "video_id": "5728dd40e9ec96660d551ae92ed81718",
+  "url": "./data/segments/3l84m5pRmyk-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.363,
+    1.089,
+    1.814,
+    2.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men in business attire are seated at a table against a dark background featuring light blue and white branding. On the left, a man wears a dark blazer over a light-colored shirt, while the man on the right wears a grey suit jacket, a white shirt, and a blue tie. A silver laptop and a notepad are on the table between them. The background displays logos for \"theCUBE\" and hashtags including \"#BigData\" and \"#BigDataDV\". A small sign on the table reads \"SPONSORED BY INFO-OBJECTS\". Throughout the sequence, the man on the left is gesturing with both hands while speaking, moving his arms from a wide position toward the center. The man on the right listens attentively, maintaining a relatively still posture while looking toward the first man. The scene remains static in terms of camera angle and environment as the conversation progresses."
+}

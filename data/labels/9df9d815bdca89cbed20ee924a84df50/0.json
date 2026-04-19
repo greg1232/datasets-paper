@@ -1,0 +1,15 @@
+{
+  "video_id": "9df9d815bdca89cbed20ee924a84df50",
+  "url": "./data/segments/3KJVtM_W6Xg-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.734,
+    2.202,
+    3.67,
+    5.138
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of images showcases a promotional graphic for Ohio University Libraries. Each frame features a banner at the top containing several small, historical images, including a black-and-white photo of a building, a group of people, a stylized portrait of a man with a mustache, and a document signed \"E. W. SCRIFFS.\" To the left of these images is a logo for \"OHIO UNIVERSITY LIBRARIES\" with the words \"DIGITAL INITIATIVES\" underneath. As the sequence progresses, white text gradually fades in below the banner. First, the line \"Digital Initiatives @ Ohio University Libraries\" appears, followed by the sentence \"The Libraries unique resources online.\" Finally, the URL \"http://media.library.ohiou.edu\" becomes visible at the bottom. By the final frame, all the text is fully displayed against the solid black background, while the top banner remains static throughout."
+}

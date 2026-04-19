@@ -1,0 +1,15 @@
+{
+  "video_id": "087453def452c858a1782ba7fc1daf50",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-425.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.991,
+    2.972,
+    4.953,
+    6.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a green t-shirt with the white text \"I NEVER DO SHIT\" is speaking into a professional microphone. He is positioned in a room that appears to be a retail store or a studio, with framed photographs on the wall behind him and a mannequin wearing a white shirt and grey pants in the background. Clothing racks and other store fixtures are visible. In the lower-left corner, there is a logo that says \"THE SHOP,\" and in the lower-right corner, there is red text that reads \"BOSS FLEX\". Across the sequence, the man shifts his head slightly and changes his facial expression while talking, moving from a more open-mouthed expression to a slight smile and then a more neutral look. The background and equipment remain stationary throughout the clip."
+}

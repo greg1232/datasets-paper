@@ -1,0 +1,15 @@
+{
+  "video_id": "5977ec4c2f7408824c84d6561bc073c1",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.35,
+    1.05,
+    1.75,
+    2.45
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large white airplane with red and blue stripes is parked on a tarmac. In the early frames, a man in a dark suit walks away from the aircraft's stairs, while another man in a dark suit and a pilot in a dark blue uniform with gold stripes on the sleeves stand nearby. Several other men in suits are visible in the background. The \"13\" logo appears in the top right corner of the frames. As the scene progresses, the view shifts to a close-up, head-on perspective of the airplane's nose and cockpit windows. The aircraft's engines are visible on either side, and the plane is positioned inside a large hangar. The \"13\" logo remains visible in the upper right area of the final frames."
+}

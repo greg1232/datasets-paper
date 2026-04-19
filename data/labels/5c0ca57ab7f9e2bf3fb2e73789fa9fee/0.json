@@ -1,0 +1,15 @@
+{
+  "video_id": "5c0ca57ab7f9e2bf3fb2e73789fa9fee",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-151.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.301,
+    3.904,
+    6.506,
+    9.109
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video opens with a wide, aerial view of a cityscape under a cloudy sky, overlaid with the text \"TIGER REAL ESTATE LLC\" in a stylized serif font. As the sequence progresses, the background imagery of the city fades away, replaced by a vibrant blue and purple gradient. The text \"TIGER REAL ESTATE LLC\" remains centered at the top of the screen throughout. In the subsequent frames, a phone number, \"727-329-8322,\" appears below the company name in the same font and color. The scene transitions from a photographic landscape to a static graphic design, maintaining a consistent color palette of deep blues and purples. There are no people or other objects visible in the frames; the focus remains entirely on the corporate branding and contact information."
+}

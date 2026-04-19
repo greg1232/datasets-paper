@@ -1,0 +1,15 @@
+{
+  "video_id": "b3a311de8263241ef9b02ba133e08260",
+  "url": "./data/segments/3Z229_lKLpk-Scene-198.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.47,
+    1.41,
+    2.35,
+    3.29
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large assembly of people is gathered in a tiered seating area, likely a legislative chamber or auditorium. The attendees are predominantly men, many wearing traditional white Indian attire such as kurtas and caps, while a few women are seen wearing colorful sarees. They are seated in rows of green upholstered benches, facing forward. Across the sequence, the scene remains static with almost no movement among the attendees; they remain seated and attentive. Some individuals are seen leaning slightly or shifting their posture, but the overall composition of the crowd stays the same. There are no visible objects, equipment, on-screen text, or logos. The lighting is consistent throughout, and the overall atmosphere is one of a formal, quiet gathering."
+}

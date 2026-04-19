@@ -1,0 +1,15 @@
+{
+  "video_id": "24fd8d987c1d22c335aa387d07e7d674",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.312,
+    0.938,
+    1.562,
+    2.188
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large indoor hall with a high ceiling and recessed lighting, several individuals practice martial arts on a blue mat. Most practitioners wear white traditional martial arts uniforms, while one prominent man in the center wears a blue uniform. Another person is dressed in red, and one person on the far right wears black. In the background, a crowd of spectators is seated. As the sequence progresses, the man in blue moves dynamically across the mat, shifting from a standing position to a wide, low stance with his arm extended. The individuals in white also shift their positions, with some moving into deeper stances and others adjusting their balance. The camera remains stationary, capturing the fluid motions of the practitioners as they execute coordinated movements across the floor."
+}

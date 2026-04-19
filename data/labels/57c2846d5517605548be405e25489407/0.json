@@ -1,0 +1,15 @@
+{
+  "video_id": "57c2846d5517605548be405e25489407",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.7,
+    5.1,
+    8.5,
+    11.9
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call is displayed in a grid layout featuring several participants in different indoor settings. The participants include men and women in casual attire, such as t-shirts and button-down shirts, and some are wearing headsets. Visible on-screen names include \"Jerry McHugh,\" \"Noureddine Mohamed,\" \"Patrick Martyn,\" \"Brian Logan,\" \"Sean O'Bryan,\" \"Charles Mann,\" \"Seyedn Mehr,\" and \"Jean-Jan van de Vyze.\" One participant is in a room with a white curtain, another is in a space with a large window showing greenery, and one is seated in what appears to be a vehicle. Some participants are speaking or looking toward their cameras, while others remain still. The frames show a static arrangement of these participants, with minimal changes in their positions or expressions, maintaining the same grid configuration throughout the sequence."
+}

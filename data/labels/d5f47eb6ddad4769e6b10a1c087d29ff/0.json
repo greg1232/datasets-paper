@@ -1,0 +1,15 @@
+{
+  "video_id": "d5f47eb6ddad4769e6b10a1c087d29ff",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call or presentation is displayed across a computer screen, featuring a presentation slide and small video feeds of participants. The central focus is a black screen with green text that reads \"Trial & Learning\" and \"An Insightful Journey\" beneath it. At the top of the screen, several browser tabs are open, and a small video feed in the upper right corner shows a man with glasses wearing a dark shirt. As the sequence progresses, a second video feed appearing in the bottom right shows a man in a green shirt. The layout of the screen remains mostly static, but the appearance of the participant in the green shirt indicates an active video conference where multiple users are present while a slide is being shared. The overall setting is a digital environment showcasing an educational or professional presentation."
+}

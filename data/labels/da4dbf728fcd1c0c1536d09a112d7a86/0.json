@@ -1,0 +1,15 @@
+{
+  "video_id": "da4dbf728fcd1c0c1536d09a112d7a86",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-256.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.106,
+    0.319,
+    0.531,
+    0.744
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with light-colored hair wearing a dark shirt and a headset is seen in a small video overlay in the lower-left corner, smiling against a background featuring a Christmas tree. The main screen displays a football video game menu titled \"SELECT A PLAY\" over a wide shot of a stadium. The interface includes various options such as \"COACH SUGGESTIONS,\" \"PLAYER,\" \"FORMATION,\" \"CONCEPT,\" and \"PLAY TYPE.\" A central panel highlights plays like \"Z SPOT\" and \"INSIDE ZONE,\" while a \"PREVIOUS PLAY\" section mentions \"MIKE BLITZ 0\" and \"FOUR VERTICALS.\" Game status indicators at the top show \"3rd & 6\" and a clock at \"2:33.\" Between the first and second images, the menu remains static. In the third and fourth images, the \"SELECT A PLAY\" menu and the detailed play diagrams disappear, leaving the stadium background and the status bar, while the person in the overlay continues to smile."
+}

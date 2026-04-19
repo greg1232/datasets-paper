@@ -1,0 +1,15 @@
+{
+  "video_id": "dbc26f484c9c3d51e986872b4020d404",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-234.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.24,
+    0.719,
+    1.198,
+    1.677
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game depicts an American football game played on a green grass field under bright stadium lights. Players in black and white uniforms face each other across a line of scrimmage. On-screen text at the top indicates it is \"4th & 3\", \"1st\" quarter, with \"3:07\" remaining on the clock and \"32\" seconds on the play clock, while a score of \"0\" is shown for both teams. Logos for the Atlanta Falcons and another team are visible. A small inset window in the bottom left shows a fair-skinned man with blond hair wearing a dark blue shirt, watching the game. As the sequence progresses, the play begins; the players clash at the line, and a player in a black jersey carries the ball forward, while a marker circle follows him on the field. The game clock ticks down to \"3:06\" and then \"3:05\"."
+}

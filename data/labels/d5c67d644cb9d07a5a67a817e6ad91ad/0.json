@@ -1,0 +1,15 @@
+{
+  "video_id": "d5c67d644cb9d07a5a67a817e6ad91ad",
+  "url": "./data/segments/3Z229_lKLpk-Scene-158.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.545,
+    1.635,
+    2.725,
+    3.815
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, formal assembly hall is filled with numerous people seated at curved desks facing a central podium. The room features a high, decorative ceiling with large circular light fixtures and a textured wall backdrop behind the podium. Two large screens flank the center stage, displaying a grid of remote participants. The attendees are dressed in a variety of professional and traditional attire, including white shirts and colorful patterned garments. A single individual stands at the podium, addressing the assembly. Throughout the sequence, the scene remains static with very little movement; the people remain seated and focused toward the front, and the visual composition of the room, the lighting, and the digital displays on the screens do not change. No legible text or logos are visible on the screens or within the hall."
+}

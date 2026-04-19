@@ -1,0 +1,15 @@
+{
+  "video_id": "6c65f9807a806770c32142f3b19cbeea",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.425,
+    13.276,
+    22.126,
+    30.977
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands work on a mechanical transmission assembly laid open on a cluttered workbench. In the first frame, the person's hand, wearing a gold ring on the ring finger, reaches toward the internal gears of the silver-colored metal housing. The second frame shows the person lifting a gear assembly, consisting of several interlocking toothed wheels on a shaft, away from the housing. The third frame focuses on the large, dark purple-grey gear remaining inside the housing. In the final frame, the person begins to lower the gear assembly back into the housing, positioning it next to the larger gear. The workbench is filled with various tools, including a yellow-handled screwdriver and a red toolbox. A bright orange piece of equipment is partially visible in the upper left corner of the scene."
+}

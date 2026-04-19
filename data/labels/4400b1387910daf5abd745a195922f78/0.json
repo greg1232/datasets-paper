@@ -1,0 +1,15 @@
+{
+  "video_id": "4400b1387910daf5abd745a195922f78",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.919,
+    5.756,
+    9.593,
+    13.43
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white vehicle with a red light bar on its roof travels along a paved road through a dry, desert-like landscape under a clear, pale sky. The road is flanked by dirt embankments and sparse vegetation, with a few small, light-colored buildings and utility poles visible in the background. As the vehicle moves forward, the surrounding scenery shifts slightly. Overlaid white text appears at the bottom of the screen, changing across the sequence. It begins with \"I was in the armed forces and now I'm retired\", followed by \"During my service I worked with the UN in Ivory Coast\", and finally, the phrase \"providing humanitarian services to Africans\" appears and remains for the final two segments. No people are visible outside the vehicle, and there are no visible logos on the car."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c9e49a761d6439583dea8d6fdd688f3c",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-102.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.475,
+    1.425,
+    2.375,
+    3.325
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a sports stadium with red seating, a man in a white shirt is being interviewed while seated. He holds a microphone and speaks toward another person who is partially visible. Nearby, a man in a blue suit and face mask stands watching, while a person in a green athletic jacket stands with their back to the camera. In the background, another person wearing a blue and yellow vest stands near the seating. A red barrier separates the interview area from the stands, featuring a white logo. On-screen text appears at the bottom, stating \"00:03\" on the left and providing subtitles. The text \"El Real Madrid se ha vuelto a imponer aqu\u00ed, Real Madrid won here again,\" is visible across the first three frames. In the final frame, the text changes to include \"en un campo muy complicado. at a very difficult ground:\". The people remain in similar positions throughout the sequence."
+}

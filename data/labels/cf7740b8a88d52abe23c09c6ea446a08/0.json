@@ -1,0 +1,15 @@
+{
+  "video_id": "cf7740b8a88d52abe23c09c6ea446a08",
+  "url": "./data/segments/3EO0YIxkle8-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.282,
+    0.845,
+    1.408,
+    1.971
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static black screen featuring white text in the center. The text is written in French and asks, \"In\u00e9galit\u00e9s entre les villes ha\u00eftiennes?\", which translates to \"Inequalities between Haitian cities?\". This specific line of text appears twice on the screen, once in the upper half and once in the lower half. Across the sequence of frames, there are no changes to the visual composition; the background remains solid black, and the text remains perfectly still and legible. No people, objects, logos, or other graphic elements are present in any of the frames. The scene is completely unchanging, presenting the same question repeatedly against a dark void."
+}

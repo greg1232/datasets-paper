@@ -1,0 +1,15 @@
+{
+  "video_id": "e60150ffe655d06a6cfd1ac98a0e671f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-226.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a digital interface featuring a complex concept map and a video call. The concept map consists of circular nodes containing images and text labels, such as \"Intuition,\" \"Insight,\" and \"Creativity,\" connected by a network of blue lines against a black background. A small video feed in the top right corner shows a man wearing a dark baseball cap and a blue shirt. The browser tabs at the top of the screen include titles like \"True & Learning by Systemic,\" \"Poetics by Systemenith,\" and \"Future of Society by Systemenith.\" Across the sequence, the man in the video feed appears to be speaking, with slight changes in his facial expression and head position. The concept map remains static throughout the frames, while the browser interface and the video call window remain consistently positioned on the screen."
+}

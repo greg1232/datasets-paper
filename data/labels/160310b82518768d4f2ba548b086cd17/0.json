@@ -1,0 +1,15 @@
+{
+  "video_id": "160310b82518768d4f2ba548b086cd17",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-292.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.515,
+    1.545,
+    2.575,
+    3.605
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a video conference call and a shared digital whiteboard. In the top right corner of the screen, a man with glasses and a dark shirt is visible in a small video window. The main area of the screen displays a complex conceptual map with circular icons connected by curved blue lines. Various text labels appear next to the icons, including \"Short-term,\" \"Long-term,\" \"Health,\" and \"Rural Community Flourishing.\" A browser tab at the top contains the text \"True & Learning by Syr\", \"Movements by Systemic\", \"Pulse of Society by S\", and \"Rural Community Flourishing\". To the right of the map, the name \"Jerry McDhiai\" is displayed. Throughout the sequence, the scene remains static, with no visible changes to the map, the browser tabs, or the man in the video feed, suggesting a pause or a very still moment during the presentation."
+}

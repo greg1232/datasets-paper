@@ -1,0 +1,15 @@
+{
+  "video_id": "0afc353730e23bd64416a9db88f4019c",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.209,
+    0.626,
+    1.043,
+    1.46
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up view of a vehicle's digital instrument cluster. The display is dark with white and red accents, featuring a circular gauge on the right side with numbers ranging from 0 to 50. Centered on the screen, the text \"BRAKE\" appears next to a red warning icon. Below this, the instructional text reads, \"Press Brake and Push Button to Start,\" followed by a mileage reading of \"20434 mi\". To the left, a portion of another gauge is visible with the number 5 and \"5500\" printed on it. The scene remains static across the frames, with no people present and no visible changes in the text or the position of the gauges. The lighting is dim, highlighting the glowing elements of the dashboard against the dark interior of the car."
+}

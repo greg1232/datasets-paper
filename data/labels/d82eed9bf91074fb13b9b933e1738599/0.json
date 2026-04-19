@@ -1,0 +1,15 @@
+{
+  "video_id": "d82eed9bf91074fb13b9b933e1738599",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is shown holding a small identification card in their left hand and a handheld electronic device in their right hand. The device is black and features a small screen and a keypad, with \"INEC\" printed on the top. The person's right arm is clothed in a green fabric with a white floral pattern. A purple banner at the bottom of the frame contains the text \"FOLLOW US\" on the left and \"PLUSTVAFRICA\" on the right, accompanied by social media icons for Instagram, Facebook, and LinkedIn. The logo for \"plustv\" is visible in the upper left corner of each shot. Across the sequence of frames, the hands and the device remain largely stationary, with only subtle shifts in the positioning of the hands and the light reflecting off the screen of the electronic device."
+}

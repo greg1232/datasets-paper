@@ -1,0 +1,15 @@
+{
+  "video_id": "4bd1e19275392212ddda6df30b62eab1",
+  "url": "./data/segments/3Kxl1O310k8-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.245,
+    9.735,
+    16.225,
+    22.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a screen recording of a computer desktop running a presentation software. The central focus is a slide titled \"Amherst Affordable Housing Trust Fund Training\" dated \"January 11, 2024,\" which includes the name \"Shelly Goehring\" and the title \"Senior Program Manager.\" The slide features an image of a hand holding a small, simplified cardboard cutout of a house. A mouse cursor is visible, hovering over the image of the house. In the upper corners of the screen, small video feeds show people participating in a virtual meeting; one person is visible in the top left and another in the top right. The overall interface includes a taskbar at the bottom and various software menus at the top. Throughout the sequence of frames, the screen remains static, with only the slight movement of the mouse cursor across the presentation slide."
+}

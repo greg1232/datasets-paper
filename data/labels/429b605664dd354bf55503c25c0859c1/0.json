@@ -1,0 +1,15 @@
+{
+  "video_id": "429b605664dd354bf55503c25c0859c1",
+  "url": "./data/segments/3P1vSUbet40-Scene-0003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dark, textured background with subtle diagonal lines and gradients serves as the backdrop for an animated sequence. The phrase \"BOSS TALK 101\" appears in stylized white capital letters in the center of the frame. In the initial sequence, the text is heavily distorted and fragmented, appearing as a glitchy, flickering image. As the sequence progresses, the text stabilizes and becomes clearly legible. A bright red light effect emerges and travels horizontally across the words, moving from left to right. By the end of the sequence, the text is sharp and stationary, with the red light flare resting on the word \"TALK\" and partially overlapping the number \"101,\" creating a polished, high-contrast visual effect against the dark environment."
+}

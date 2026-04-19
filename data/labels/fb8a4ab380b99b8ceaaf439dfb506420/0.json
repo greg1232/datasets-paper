@@ -1,0 +1,15 @@
+{
+  "video_id": "fb8a4ab380b99b8ceaaf439dfb506420",
+  "url": "./data/segments/3QD9oO6sRns-Scene-120.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.263,
+    0.788,
+    1.312,
+    1.838
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a setting that appears to be a workspace for trading card breaking, a person's hands are seen manipulating collectibles on a dark surface. In the upper frames, a hand moves a small, clear protective case containing a green card, while a blue and white box rests nearby. The lower frames show the person sliding a white box with the word \"CLEARLY\" printed on the side toward the center of the frame. In the final frame, the white box is held up, partially obscuring the view. A recurring graphic overlay features a logo with the text \"JASPYS CASEBREAKS\" in orange and white. A small inset window shows a man wearing a black baseball cap and a black t-shirt sitting at a desk with equipment. Additional text in the inset window reads \"JASPYS CASEBREAKS.com\". Various other boxes and items are blurred in the background."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "60b3edbed31f8da6b71c1347a19794ab",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.583
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view of a large white airplane is shown, featuring the word \"\u0420\u041e\u0421\u0421\u0418\u042f\" written in red capital letters on the fuselage above a thin red and blue stripe. The aircraft has a large jet engine and a portion of its wing visible against a grey, overcast sky. A small red circular logo containing the number \"13\" is present in the upper right corner of each scene. As the sequence progresses, the plane remains relatively stationary, but the perspective shifts slightly. In the latter half of the clip, a bright, star-shaped white glint of light briefly reflects off the surface of the fuselage near the engine. The lower portion of the frame shows a blurry brown ground surface and the aircraft's landing gear."
+}

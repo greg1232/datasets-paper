@@ -1,0 +1,15 @@
+{
+  "video_id": "a2fe0838d43135757c250f2c328873c3",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.192,
+    0.576,
+    0.959,
+    1.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An aerial shot displays an open-pit mine with terraced walls and a large pool of turquoise water at the bottom. The landscape is composed of brown and gray earthy tones, with some green vegetation visible on the outer edges. In the upper right corner of the scene, there is a gold-colored \"VG\" logo. Centered on the screen, bold text reads \"MT TODD GOLD PROJECT\" highlighted by a yellow background, followed by the phrase \"in the Northern Territory of Australia.\" across the frames, the camera performs a slow, smooth zoom-in toward the center of the mine. No people, vehicles, or machinery are visible in the shot. The overall lighting is dim, suggesting an overcast sky or late afternoon, and the scene remains static aside from the slight camera movement."
+}

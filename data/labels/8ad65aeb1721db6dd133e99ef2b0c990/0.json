@@ -1,0 +1,15 @@
+{
+  "video_id": "8ad65aeb1721db6dd133e99ef2b0c990",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-463.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.177,
+    0.532,
+    0.886,
+    1.241
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the white text \"ION NEVER DO SHIT AT WORK\" sits in a room decorated with framed pictures and clothing racks. A professional microphone on a boom arm is positioned in front of him. In the initial scene, he is speaking and smiling. He then raises a red plastic cup to his lips and begins drinking. He continues to hold the cup to his mouth throughout the remaining sequence. On the screen, a logo featuring a circle and the text \"DREAM\" is visible on the left, and a red logo reading \"PROPERLY FIT\" appears on the right. The background remains static, showing white t-shirts on mannequins and various framed photographs on the wall behind him."
+}

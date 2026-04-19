@@ -1,0 +1,15 @@
+{
+  "video_id": "cf711bef900acac0a5f4c789feefb7e7",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-310.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.238,
+    0.396,
+    0.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing black headphones and a dark jacket sits in a recording studio featuring a dark, sound-dampening wall with a textured, ribbed pattern. He is positioned behind a professional microphone mounted on a black boom arm. Throughout the sequence, the man is speaking and gesturing. Initially, he looks forward with his eyes open and gestures with his right hand, which is partially blurred due to movement. He then momentarily closes his eyes while continuing to speak into the microphone. Subsequently, he looks upward and to his right, maintaining a focused expression. Finally, he continues to look toward the upper right while his right hand moves further out of the frame. The camera remains in a static medium close-up shot, focusing on the man from the chest up as he interacts with the recording equipment."
+}

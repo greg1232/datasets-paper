@@ -1,0 +1,15 @@
+{
+  "video_id": "6ea357181f0f784399902d9cabe6ff48",
+  "url": "./data/segments/3fokLGPK15Q-Scene-087.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.28,
+    0.84,
+    1.4,
+    1.96
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair is featured in a circular inset on a large screen during a presentation at an event. The setting is a dark stage illuminated by vibrant purple and blue laser beams that crisscross the space. In the background, a larger circular screen displays the word \"SLUSH\" in a stylized white font. Below the screen, a small raised platform holds a table with two people seated, though they are seen from a distance and their details are indistinct. To the side of the table stands a white podium. As the sequence progresses, the woman in the circular inset shifts her expression and posture slightly while speaking, though she remains in the same position on the screen. The laser light patterns and the overall lighting of the stage remain consistent across the frames."
+}

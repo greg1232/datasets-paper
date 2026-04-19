@@ -1,0 +1,15 @@
+{
+  "video_id": "7d09b09f44e05106555a06f59ace2de0",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-248.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.5,
+    0.833,
+    1.167
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a clear plastic card protector in the foreground, partially obscuring the view. In the background, a man with a beard, wearing a dark navy blue shirt, sits at a desk with a microphone and computer equipment. The setting appears to be a room dedicated to sports card collecting, featuring a wooden desk and various accessories. On-screen graphics include the \"JASPYS\" logo and the text \"CASEBREAKS.COM\". A small inset window shows the man speaking while sitting in front of his setup. Throughout the sequence, the hand holding the clear protector remains in the foreground, shifting slightly as the person moves the item. The background scene stays relatively static, with the man in the inset window maintaining his position while talking."
+}

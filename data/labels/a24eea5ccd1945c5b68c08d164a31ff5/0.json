@@ -1,0 +1,15 @@
+{
+  "video_id": "a24eea5ccd1945c5b68c08d164a31ff5",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-205.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.088,
+    0.263,
+    0.438,
+    0.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A financial news broadcast features a backdrop of digital stock market displays with various tickers and numbers, including \"NAFTOGAZ\" and \"19.23\". Large, centered white text overlays the screen, stating \"YOU MIGHT THINK IF YOU WANT TO BE SUCCESFULL IN STOCK MARKET\". At the bottom of the frame, a blue graphic banner identifies the speaker as \"Basil Chapman\" and lists the program and date as \"The Tiger Technicians Hour | June 8th, 2022\". The background imagery shifts subtly between frames, with different numbers and stock symbols moving across the screen, reflecting a live market feed. No people are visible in the shots, only the digital environment and the superimposed text and graphics. The overall scene remains static in composition while the underlying data on the stock displays evolves over time."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7dac7593203f45ff5832e72b30be0c31",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.46,
+    4.38,
+    7.3,
+    10.22
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a split-screen layout. On the left, a man wearing a traditional red and black striped robe and a matching cap is seen adjusting his cap with his hand. On the right, a smaller inset window shows a man in a red cap and white shirt, identified by on-screen text as \"OLUSOLA OYEKANMI\" and \"POLITICAL ANALYST\" based in \"LAGOS.\" Above his name, the text reads \"ON THE PHONE.\" A red banner at the bottom displays the category \"PLUS POLITICS\" and the headline \"NIGERIA NEEDS ME \u2013 BOLA TINUBU.\" A white bar below this contains a \"SUBSCRIBE\" prompt and the web address \"WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE\" in the later frames. The \"plustv\" logo appears in the top corners. Across the frames, the scene remains static except for the man on the left, who slightly shifts his position while touching his head."
+}

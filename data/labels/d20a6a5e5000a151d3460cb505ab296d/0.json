@@ -1,0 +1,15 @@
+{
+  "video_id": "d20a6a5e5000a151d3460cb505ab296d",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-106.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.387,
+    0.646,
+    0.904
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video recording shows a computer screen featuring a Google Sheets spreadsheet and a video overlay of a man. The spreadsheet contains columns of names and regional labels, including \"BRIAN FRANK\" associated with \"ATLANTIC,\" \"CENTRAL,\" \"PACIFIC,\" and \"SOUTHWEST,\" as well as \"Kennard Bolt\" with \"NORTHWEST\" and \"Kyle Barber\" with \"SOUTHEAST.\" To the right of the spreadsheet is a vertical banner for \"CASEBREAKS.COM\" with the \"JASPYS\" logo and the text \"JASPYSBREAKS\" repeated. In the lower-right corner of the screen, a man with short dark hair and a beard, wearing a dark shirt, is visible in a small rectangular video frame. Below him, red and white text reads \"Hit the SUBSCRIBE button down below!\" next to a red \"Subscribe\" button. Across all frames, the screen remains static with no changes to the text, layout, or the man's position and expression."
+}

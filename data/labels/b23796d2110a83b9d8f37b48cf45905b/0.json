@@ -1,0 +1,15 @@
+{
+  "video_id": "b23796d2110a83b9d8f37b48cf45905b",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.527,
+    1.58,
+    2.633,
+    3.686
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit side-by-side in a room, watching a video on a screen. Both men wear grey t-shirts; the man on the left has short grey hair, while the man on the right has reddish-brown hair and rests his chin on his hand. Behind them, a television displays the text \"OUR STUPID REACTIONS\" in glowing orange letters, and a shelf filled with CDs is visible. A smaller video window is overlaid on the center of the screen. This inset video changes over time, showing various scenes: first, a group of people in dark clothing gathered in a dim room; then, a wide shot of a blue-domed building; next, a close-up of a woman's face; and finally, a shot of an object exploding. Across the bottom of this inset window, the caption \"Where will you go if you surrender Samarkand to Shahruk Khan?\" remains constant throughout the sequence."
+}

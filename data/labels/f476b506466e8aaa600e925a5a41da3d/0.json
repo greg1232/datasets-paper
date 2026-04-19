@@ -1,0 +1,15 @@
+{
+  "video_id": "f476b506466e8aaa600e925a5a41da3d",
+  "url": "./data/segments/3Z229_lKLpk-Scene-149.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.34,
+    1.02,
+    1.7,
+    2.38
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide shot captures an assembly hall where people are seated in organized rows of wooden benches. The attendees are predominantly men wearing formal attire, including white button-down shirts, jackets, and traditional Indian headwear such as orange turbans and green caps. A few women are present, dressed in traditional saris. The people are seated and facing forward, with some engaging in conversation or looking toward the front of the room. The scene remains static across the sequence, with minimal movement among the individuals. The background consists of green carpeting and the structured layout of the seating area. No on-screen text, logos, or specialized equipment are visible. The lighting is bright and consistent, illuminating the rows of people and the wooden furniture."
+}

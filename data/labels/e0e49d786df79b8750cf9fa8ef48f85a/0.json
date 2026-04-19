@@ -1,0 +1,15 @@
+{
+  "video_id": "e0e49d786df79b8750cf9fa8ef48f85a",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-090.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.213,
+    0.638,
+    1.064,
+    1.489
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green Polaris utility vehicle is seen on a concrete driveway. In the beginning, only the rear tires and part of the cargo bed, featuring the logo \"POLARIS,\" are visible as the vehicle moves. As time progresses, the vehicle exits the frame to the left, leaving a clear view of the concrete surface, which has several cracks and a small wet patch. A blue car is parked in the background near a grassy area and a white building. Suddenly, a large green piece of equipment, resembling a mower deck or a specialized attachment, enters the scene from the right. The equipment slides rapidly across the concrete driveway toward the left, moving with significant speed across the foreground. No people are visible in any of the frames."
+}

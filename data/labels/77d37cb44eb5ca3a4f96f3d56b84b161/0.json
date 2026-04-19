@@ -1,0 +1,15 @@
+{
+  "video_id": "77d37cb44eb5ca3a4f96f3d56b84b161",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-844.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.553,
+    1.658,
+    2.763,
+    3.868
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wears a green baseball cap, headphones, and a green t-shirt that reads \"ION NEVER DO SHIT AT WORK\" in white lettering. He is seated in a room decorated with numerous framed pictures on the wall behind him, alongside a white mannequin wearing a white shirt and a rack of clothing. A black microphone on a stand is positioned in front of him. As he speaks, he gestures with his hands, holding a small object in his right hand. Two logos appear on the screen: a circular one on the left and a red logo on the right that reads \"DELLY TOT\". The scene remains consistent in setting and subject, with only the man's facial expressions and hand movements shifting slightly as the sequence progresses."
+}

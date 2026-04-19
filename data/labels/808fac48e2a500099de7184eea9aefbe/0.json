@@ -1,0 +1,15 @@
+{
+  "video_id": "808fac48e2a500099de7184eea9aefbe",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.583
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair wearing a dark blue shirt is shown in a small circular inset window, while a pair of hands performs a task on a wooden cutting board. The \"UCAR CENTER FOR SCIENCE EDUCATION\" logo is visible in the top left of each scene. On the cutting board, there is a white plate holding several small squares of a grain-based food and a separate pile of similar pieces. A red bowl containing more of the food is positioned in the foreground. A person's hands move the red bowl across the wooden surface. Between frames, the bowl shifts slightly to the right and then back to the left. In the final frames, one hand reaches toward the food inside the red bowl. The woman in the inset remains visible, observing the activity with a neutral expression."
+}

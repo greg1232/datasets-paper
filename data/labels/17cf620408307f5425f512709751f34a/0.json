@@ -1,0 +1,15 @@
+{
+  "video_id": "17cf620408307f5425f512709751f34a",
+  "url": "./data/segments/3a0FD1177FA-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.37,
+    1.11,
+    1.851,
+    2.591
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a white smartwatch on their left wrist is working at a white wooden craft table. The workspace features a grey cutting mat, a metal paper trimmer, a white ink pad labeled \"MEMENTO\", and clear stamp blocks, one of which reads \"Thank You\". In the initial sequence, the person uses both hands to carefully align a piece of brown cardstock against the edge of the paper trimmer. As the action progresses, they maintain their grip on the brown paper, preparing it for a cut. Finally, the brown cardstock is replaced by a square piece of patterned paper featuring a dark green background with small yellow and white flowers. The person holds this patterned sheet in place over the trimmer. A logo in the bottom left corner of each frame reads \"Stamping Jill\" next to a small heart icon."
+}

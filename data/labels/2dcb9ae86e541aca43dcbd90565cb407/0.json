@@ -1,0 +1,15 @@
+{
+  "video_id": "2dcb9ae86e541aca43dcbd90565cb407",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.995,
+    5.985,
+    9.975,
+    13.965
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip features a split-screen news broadcast from \"plustv\" during a segment titled \"PLUS POLITICS.\" A rectangular inset shows a man, Olusola Oyekanmi, a \"POLITICAL ANALYST\" based in \"LAGOS.\" He is wearing glasses and a traditional red cap. The screen is dominated by a purple and blue gradient background with a pattern of dots on the left. A prominent white banner across the bottom contains the text \"NIGERIA NEEDS ME \u2013 BOLA TINUBU.\" In the top frames, a red \"SUBSCRIBE\" button and a URL \"WWW.YOUTUBE.COM/PLUSTVAFRICA\" are visible. In the bottom frames, the banner changes to say \"FOLLOW US\" on the left and \"WATCH ON\" on the right, accompanied by logos for \"StarTimes\" and other services. Across all frames, Olusola Oyekanmi remains in a static pose, staring forward with a neutral expression, while the surrounding graphic overlays shift slightly."
+}

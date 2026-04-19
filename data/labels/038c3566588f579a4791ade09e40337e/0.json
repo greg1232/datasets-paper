@@ -1,0 +1,15 @@
+{
+  "video_id": "038c3566588f579a4791ade09e40337e",
+  "url": "./data/segments/3QD9oO6sRns-Scene-099.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.469,
+    1.406,
+    2.344,
+    3.281
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen in a close-up shot, interacting with a white and black cardboard box sitting on a table. In the background, stacks of similar boxes and white cups are visible against a white backdrop. The scene is overlaid with branding, including the text \"CASEBREAKS\" and logos featuring \"JASPER.\" A small inset window in the corner shows a man wearing a black t-shirt and a white baseball cap. As the sequence progresses, the person uses a tool to slice through the adhesive seal of the box, eventually peeling back the tape to open the package. The text \"CLEARLY AUTHENTIC\" is printed multiple times on the boxes. The action transitions from preparing to cut the seal to successfully opening the top of the box, while the man in the inset window looks on."
+}

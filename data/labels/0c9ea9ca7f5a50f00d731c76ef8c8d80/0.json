@@ -1,0 +1,15 @@
+{
+  "video_id": "0c9ea9ca7f5a50f00d731c76ef8c8d80",
+  "url": "./data/segments/3P1vSUbet40-Scene-0440.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.323,
+    0.97,
+    1.616,
+    2.263
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white short-sleeved button-down shirt, tan suspenders, a red bowtie, and a grey pointed wig sits in a studio setting. He wears glasses and black headphones while speaking into a black microphone positioned in front of him. The background is a wall decorated with framed photographs and clothing items, including bags and a garment labeled \"LEE\". To the left and right of the man, logos and text are superimposed on the screen; on the left, a logo reads \"STALBIO PODCAST\", and on the right, red text reads \"SS TALK JOY\". As the sequence progresses, the man continues to speak, subtly shifting his facial expressions and head position, while the camera angle and the surrounding environment remain static."
+}

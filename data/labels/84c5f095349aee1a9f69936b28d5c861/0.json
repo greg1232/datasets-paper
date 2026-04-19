@@ -1,0 +1,15 @@
+{
+  "video_id": "84c5f095349aee1a9f69936b28d5c861",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-089.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical simulation setting, a group of medical professionals in scrubs and masks respond to an emergency scenario. A person in pink scrubs and blue gloves stands by a medical cart, while others in dark blue or black clothing assist a patient lying on a white gurney. Some personnel wear face masks and gloves, and one individual holds a white clipboard. In the background, a door is visible alongside a logo that reads \"RA SH UNIV\". Across the bottom of the scene, a magenta banner displays the text \"Day 3\", \"Code on Post OP Floor\", and \"Sim Week\", accompanied by a small icon of a medical building. As the sequence progresses, a person in a black jacket moves across the foreground, partially obscuring the view, while the team continues to attend to the patient on the gurney."
+}

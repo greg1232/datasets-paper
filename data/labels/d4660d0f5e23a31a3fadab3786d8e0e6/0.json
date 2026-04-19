@@ -1,0 +1,15 @@
+{
+  "video_id": "d4660d0f5e23a31a3fadab3786d8e0e6",
+  "url": "./data/segments/3l84m5pRmyk-Scene-068.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.751,
+    1.051
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video sequence features a logo consisting of a blue 3D cube graphic above the text \"theCUBE\". In the beginning, the logo appears in the upper left and right corners of a screen. A gray horizontal bar spans the width of the screen, containing the white text \"Hosts & Analysts\", \"Engineering\", and \"Production\". The background below the bar is a solid, light gray. As the sequence progresses, the scene shifts to a white background. The blue cube logo and \"theCUBE\" text move to the center of the frame. Finally, the logo is accompanied by two geometric shapes behind the cube: a red hexagon on the left and a dark blue hexagon on the right. The text \"theCUBE\" remains positioned beneath the central blue cube graphic."
+}

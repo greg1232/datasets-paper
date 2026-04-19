@@ -1,0 +1,15 @@
+{
+  "video_id": "9941164a47b39dbbb777f86b8e0e70ac",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-350.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.088,
+    0.263,
+    0.438,
+    0.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head, a dark beard, and tattoos on his right arm sits in a recording studio. He wears a white t-shirt and over-the-ear headphones. In front of him is a professional microphone mounted on a boom arm; the arm features the text \"Rode PSA1 Plus\". The background consists of dark, vertically-ribbed acoustic foam panels. As the sequence progresses, the man speaks with an open mouth and gesticulates with his right hand, which moves upward and outward in a blurred motion of emphasis. His gaze remains fixed off-camera to his right. The camera remains stationary throughout the clip, capturing his upper body and the audio equipment in a close-up shot as he continues his animated delivery."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7b1a990518523b75a7a80284a1c7cddc",
+  "url": "./data/segments/3P1vSUbet40-Scene-0754.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.089,
+    0.266,
+    0.443,
+    0.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt and a black baseball cap with a logo on the front is seated in a studio setting, speaking into a professional microphone. He wears silver-colored headphones over his ears and a gold chain around his neck. His t-shirt features the text \"CHECK IT OUT\". Behind him is a white banner with stars and the repeated words \"ENFORCE HUSTLE\". To his right, a dark background displays a red and white logo that says \"BOSS TALK 101\" alongside a smaller \"ALL CAPS\" label. A separate circular logo on the left side of the screen reads \"BOSS TALK 101 PODCAST\". Throughout the sequence, the man remains in a similar posture, facing slightly to the left while speaking, with minimal movement in his head and expression across the frames."
+}

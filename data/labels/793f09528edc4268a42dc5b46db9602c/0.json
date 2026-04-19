@@ -1,0 +1,15 @@
+{
+  "video_id": "793f09528edc4268a42dc5b46db9602c",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.991,
+    1.387
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a studio setting, two men engage in a conversation. One man wears a white baseball cap and a black hoodie with the words \"BOSS TALK\" printed on the chest, while the other man wears a green baseball cap and a green t-shirt with the text \"I NEVER DID SHIT\" on it. Both men are positioned in front of professional microphones on boom arms. In the background, a white banner reads \"UNICORN HUSTLE\" multiple times, and a sign on the wall states \"Where BOSSES Talk!\". Framed photos and a mannequin wearing a white shirt and green pants are also visible. As the scene progresses, the focus shifts from the man in the black hoodie to the man in the green shirt, who is smiling and speaking into the microphone. A logo featuring the text \"BOSS TALK\" appears in the lower corners of the frames."
+}

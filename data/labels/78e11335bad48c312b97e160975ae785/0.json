@@ -1,0 +1,15 @@
+{
+  "video_id": "78e11335bad48c312b97e160975ae785",
+  "url": "./data/segments/3INb3jiuu6g-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.47,
+    1.41,
+    2.35,
+    3.29
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news presenter with a bob hairstyle and a black top stands in front of a digital backdrop. The backdrop features a split-screen layout: the left side shows a stylized purple and blue graphic, while the right side shows a wide shot of people seated in a green-chaired assembly hall. Some individuals in the hall wear traditional white and tan attire, while others wear darker clothing. A lower-third graphic across the screen displays the text \"NEWS NOW\" and \"JUSUN STRIKE\" in bold letters, followed by \"REPS URGE FG TO ENSURE SPEEDY RESOLUTION.\" The \"plustv\" logo appears on the right. In the top frames, text asks viewers to \"Follow us\" with social media icons and the handle \"plustvafrica.\" In the bottom frames, this changes to \"Watch online on www.plustvafrica.com/live-tv.\" Across the sequence, the presenter remains in place, speaking with slight variations in facial expression."
+}

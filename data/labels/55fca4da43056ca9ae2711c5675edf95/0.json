@@ -1,0 +1,15 @@
+{
+  "video_id": "55fca4da43056ca9ae2711c5675edf95",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static graphic centered on a green and white background. In the center, a white rectangular card features the logo of the \"INDEPENDENT NATIONAL ELECTORAL COMMISSION,\" which includes a circular emblem with an eagle and a map of Nigeria, above the acronym \"INEC\" and the full name of the organization. In the upper-left corner, the \"plustv\" logo is visible. A white horizontal banner runs across the bottom of the screen, containing the text \"WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE\" in black capital letters, with a magenta \"SUBSCRIBE\" button on the far left. Faded, repeating versions of the commission's logo and text appear in the background behind the main central card. The scene remains completely still across all frames, with no changes in composition, text, or movement."
+}

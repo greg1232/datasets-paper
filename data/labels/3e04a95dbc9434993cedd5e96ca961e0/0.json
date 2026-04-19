@@ -1,0 +1,15 @@
+{
+  "video_id": "3e04a95dbc9434993cedd5e96ca961e0",
+  "url": "./data/segments/3Z229_lKLpk-Scene-216.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.395,
+    1.185,
+    1.975,
+    2.765
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A crowded assembly hall is filled with people seated in tiered rows of wooden desks. Many individuals are wearing traditional white Indian attire, such as kurtas, while others wear Western-style suits or casual shirts. Some people are seated and conversing, while others stand or move through the aisles. A few individuals are seen wearing red vests over their white clothing. In the foreground, people are shifting positions; one person in a red vest stands up and turns, while another person walks past them. Throughout the sequence, the overall composition of the crowd remains constant, but there is subtle movement as individuals adjust their seating, lean toward one another to talk, or transition from sitting to standing. The lighting is bright and overhead, illuminating the vast, densely packed chamber."
+}

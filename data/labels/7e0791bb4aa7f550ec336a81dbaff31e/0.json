@@ -1,0 +1,15 @@
+{
+  "video_id": "7e0791bb4aa7f550ec336a81dbaff31e",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-303.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.942,
+    2.825,
+    4.708,
+    6.592
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold up a plastic-encased sports card in front of a camera. The card is a \"GREG MADDUX\" card from the \"Hall of Fame Collection,\" featuring a text overlay that reads \"CONGRATULATIONS!\" and explains that the recipient has received a \"Hall of Fame Icon Autographed Card from 2021 Topps Baseball - Transcendent.\" In the background, a man with a beard wearing a black shirt is seated at a desk with gaming equipment and a monitor. A logo for \"JASPYS CASEBREAKS.COM\" is visible in the upper right area of the scene, and palm tree graphics appear at the bottom. As the sequence progresses, the hands holding the card shift slightly, and the man in the background remains seated, looking toward the camera. The overall setting appears to be a home studio or hobby room dedicated to sports card collecting."
+}

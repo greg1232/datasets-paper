@@ -1,0 +1,15 @@
+{
+  "video_id": "9d00f4c6178ca9d060c9db7cff16f24f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-311.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    49.625,
+    148.875,
+    248.125,
+    347.375
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call displays a grid of participants in various home settings. The screen is split into two identical side-by-side views, each showing a large group of people in small video tiles. Participants include men and women of various ages, some wearing glasses and casual clothing such as t-shirts and button-down shirts. Some people are sitting in front of bookshelves, while others have plain walls or curtains behind them. Throughout the sequence, the participants remain mostly stationary in their respective tiles, though some slightly shift their posture or change their facial expressions. Legible text labels appear under some tiles, including names like \"Jeffrey Mahullo,\" \"Howard Silverman,\" \"Patrick Martin,\" \"Sean Herlihy,\" and \"Franca Pittson.\" As the sequence progresses, the views remain consistent, showing the same group of people in the same layout without any major changes to the participants or their environments."
+}

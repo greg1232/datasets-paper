@@ -1,0 +1,15 @@
+{
+  "video_id": "a1c2c054393bd949f0b83cfbbd7132b3",
+  "url": "./data/segments/3P1vSUbet40-Scene-0630.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.224,
+    0.673,
+    1.121,
+    1.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a tall, grey, stylized wig, glasses, and a white outfit consisting of a shirt, suspenders, and a bow tie is recording a podcast. He wears black headphones and a gold watch on his left wrist. He sits in front of a professional microphone, with a wall behind him covered in numerous small, framed photographs. On-screen graphics are present in each frame; a logo on the left reads \"BOSS TALK 101 PODCAST\" and a similar graphic on the right says \"BOSS TALK 101\". In the background, a piece of clothing with the brand \"LEE\" is visible. As the sequence progresses, the man shifts his posture and gestures with his left hand, bringing it toward his chest and chin while speaking, his facial expression changing slightly as he talks."
+}

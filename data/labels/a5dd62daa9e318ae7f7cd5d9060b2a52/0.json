@@ -1,0 +1,15 @@
+{
+  "video_id": "a5dd62daa9e318ae7f7cd5d9060b2a52",
+  "url": "./data/segments/3tXiKB90OM0-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.783,
+    2.35,
+    3.917,
+    5.483
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "At a dockside port, several personnel in dark clothing and bright orange life vests are positioned beside a massive gray ship. In the foreground, a large white bollard is anchored to the concrete pier, with thick mooring lines extending from the vessel to the dock. A man wearing a brown cap and an orange vest stands with his back to the viewer, observing the scene. Nearby, other workers in similar attire are stationed along the side of the ship. As the sequence progresses, the man in the foreground remains relatively stationary, while another worker in a red vest and blue helmet moves slightly further back along the pier. The personnel appear to be monitoring the ship's docking process, with the massive scale of the gray hull dominating the background under a clear blue sky."
+}

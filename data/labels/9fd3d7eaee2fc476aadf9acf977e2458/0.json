@@ -1,0 +1,15 @@
+{
+  "video_id": "9fd3d7eaee2fc476aadf9acf977e2458",
+  "url": "./data/segments/3QD9oO6sRns-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.396,
+    1.188,
+    1.979,
+    2.771
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is presenting a cardboard box on a table, featuring a repetitive orange and white \"JASPYS CASEBREAKS\" logo and \"CASEBREAKS.COM\" text on screen. The person, wearing a dark t-shirt and a baseball cap, appears in a small inset window in the lower right, speaking and gesturing toward the items. The main view focuses on a brown shipping box labeled with a barcode and the text \"PKG009402\". In the initial sequence, a digital overlay of a spreadsheet is visible in the top left corner. As the video progresses, the overlay disappears, and the camera angle shifts to provide a closer, more centered view of the box. A small red object, possibly a lock, is partially visible on the table beside the box. The scene remains centered on the product packaging as the presenter continues their commentary from the corner insert."
+}

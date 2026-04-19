@@ -1,0 +1,15 @@
+{
+  "video_id": "db4e6366898a60e9143355b1e85e45fd",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is shown in a picture-in-picture window in the bottom left of a video game screen for Madden NFL. The gameplay screen displays the player profile for \"TROY POLAMALU,\" a \"95\" rated \"SS\" with the tag \"#49 SS.\" The interface includes tabs for \"HOME,\" \"ATTRIBUTES,\" and \"UPGRADES,\" with a section titled \"SUPERSTAR X FACTOR & ABILITIES.\" A character model of the player wearing a black and white football uniform is visible on the right side of the screen. Other legible text includes \"TOTAL REFUND 2,\" \"Team Chemistry And Ability Slot,\" and \"NO ATTRIBUTE BOOSTS.\" The person in the window is a young man with short brown hair wearing a black shirt. He remains in the same position and expression across the sequence, while the game screen remains static, showing the same attributes and menu options."
+}

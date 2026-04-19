@@ -1,0 +1,15 @@
+{
+  "video_id": "e51463a553f08f51724e7f481f1f2b1b",
+  "url": "./data/segments/3UTYZnr_9PQ-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.765,
+    32.295,
+    53.825,
+    75.354
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of overhead shots shows various military aircraft parked on a wide, light-gray concrete airfield surrounded by grassy fields under a cloudy sky. In the background, several long, tan-colored hangars line the perimeter of the facility. As the perspective shifts, different aircraft are brought into view. The scene begins with a mix of grey cargo planes and a smaller white jet on the tarmac. As the camera pans across the airfield, it reveals more specialized aircraft, including a large grey transport plane and a distinctive white AWACS aircraft featuring a large radar dome on its fuselage. A few figures in light-colored clothing are visible standing on the ground near the planes, appearing small against the scale of the aircraft. There is no legible on-screen text or logos visible in the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "cd5a1d4fd4ac39dd785794e86777218f",
+  "url": "./data/segments/3Z229_lKLpk-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.285,
+    0.855,
+    1.425,
+    1.995
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a formal assembly hall with green seating and wooden partitions, several people are seated in rows. In the foreground, a man wearing a blue Nehru vest over a light blue shirt sits attentively. Behind him, a woman in a white and orange patterned outfit and a man in a white shirt are visible. Further back, other individuals are seated, including a man wearing a traditional orange cap and another person in orange attire. Throughout the sequence, the people remain largely stationary in their seats, though there are slight shifts in their facial expressions and head positions. The setting is consistent across all frames, with the same group of people positioned in the same seating arrangement. No on-screen text or logos are visible, and the only movement is subtle shifts in posture and gaze as they observe the proceedings."
+}

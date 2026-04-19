@@ -1,0 +1,15 @@
+{
+  "video_id": "1f3ce19e690bf2ddbc475a748545c118",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.908,
+    2.725,
+    4.542,
+    6.358
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white regional aircraft with red and blue stripes taxis along a paved runway under an overcast sky. The plane features a T-tail design and rear-mounted engines. In the background, the tail fins of other aircraft are visible, some displaying the Russian flag. A red circular logo containing the number \"13\" is present in the top right corner of each scene. As the aircraft moves forward across the airfield, the camera tracks its progress. In the later frames, more of the aircraft's fuselage becomes visible, and the alphanumeric identifier \"RA-95104\" can be seen on the tail of a plane in the background. The foreground consists of a grassy verge with low-lying vegetation. No people are visible in the frames."
+}

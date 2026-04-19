@@ -1,0 +1,15 @@
+{
+  "video_id": "b31cafb711161ec3dbe0f870d6a478f6",
+  "url": "./data/segments/3QD9oO6sRns-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.687,
+    1.146,
+    1.604
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt sits behind a table piled with numerous black and silver boxes featuring the text \"Clearly Authentic.\" These boxes are stacked high in the background and spread across the foreground, creating a wall of product. A large orange and white logo reading \"SPYSO\" is visible on the table surface. Throughout the sequence, the man remains seated and looks toward the camera. A hand enters the frame from the left, pointing toward the boxes on the table. On-screen overlays include the text \"CASEBREAKS.COM\" and a small logo with a baseball. The scene remains static in terms of setting, with the primary motion being the movement of the hand as it gestures toward the merchandise, while the man maintains a steady gaze."
+}

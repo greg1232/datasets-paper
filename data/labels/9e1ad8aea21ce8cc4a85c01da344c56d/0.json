@@ -1,0 +1,15 @@
+{
+  "video_id": "9e1ad8aea21ce8cc4a85c01da344c56d",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.444,
+    1.331,
+    2.219,
+    3.106
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds up a sports trading card featuring baseball player Tom Glavine, showing his portrait and a signature. The card is held by a hand in the foreground, while in the background, a man with a beard wearing a navy blue t-shirt sits behind a desk. The setting includes a desk with a blue and orange patterned surface featuring palm tree motifs. Behind the man, a computer monitor displays a logo that reads \"JASPYS\" and \"CASEBREAKS.COM\". As the sequence progresses, the person in the foreground shifts the angle of the card, tilting it forward and then slightly rotating it to show the reflective surface and the player's name, \"TOM GLAVINE,\" printed at the bottom. The card's design includes gold borders and text that reads \"HALL OF FAME\". The man in the background remains seated and observant throughout the shots."
+}

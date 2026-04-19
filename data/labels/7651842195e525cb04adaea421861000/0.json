@@ -1,0 +1,15 @@
+{
+  "video_id": "7651842195e525cb04adaea421861000",
+  "url": "./data/segments/3F2rz23IKUk-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.305,
+    0.915,
+    1.525,
+    2.135
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white presentation slide features the \"SPDX\" logo in the upper left corner. Large, bold text reads \"NEXT DAY\" above a line that says \"SOFTWARE PACKAGE DATA EXCHANGE\u2122\". The name \"Kate Stewart (stewart@linux.com)\" appears in the lower right corner, preceded by the phrase \"Evolution of the package Pants proposal...\". Centered on the screen is a large, semi-transparent orange watermark that reads \"VIDEO\" over the URL \"www.nextdayvideo.com\". Below the URL, the text \"record today, watch online tomorrow\" is visible in red. As the sequence progresses, the lighting on the slide shifts from a bright white to a darker, grayish tone. By the final frame, the \"SPDX\" logo, the presenter's name, and the proposal text become significantly dimmed, while the orange \"VIDEO\" watermark and the accompanying URL and red text remain clearly visible."
+}

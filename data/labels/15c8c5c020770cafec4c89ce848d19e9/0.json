@@ -1,0 +1,15 @@
+{
+  "video_id": "15c8c5c020770cafec4c89ce848d19e9",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-436.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.162,
+    0.485,
+    0.808,
+    1.131
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, headphones, and a black hoodie with \"BOSS TALK\" printed in gold letters sits at a desk in a studio. He is wearing a gold watch on his left wrist. In front of him is a professional microphone on a boom arm and a black mug with red text that reads \"BOSS TALK OUT LOUD.\" The background features a white wall with a repeating logo that includes five gold stars and the words \"UNLIKE MUSTLE,\" along with a blue sign that says \"Where BOSSES Talk!\" The man is captured in a side profile, looking toward the left. Across the sequence, he remains seated in the same position, slightly shifting his gaze and facial expression as he appears to be listening or preparing to speak. The scene remains static with no other people present."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "bb785c50f55b53d83c78b26253e85bc1",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-737.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with her hair styled in a high bun and wearing a dark green t-shirt with a red circular logo sits in a podcast studio. She is wearing black over-ear headphones and speaks into a black professional microphone mounted on a boom arm. Behind her is a black backdrop with white text that includes \"S TALK IT,\" \"It's a Unique Hustle,\" \"CAST,\" and \"About It!\". To her left is a framed picture of a person's hands. In the foreground, a small table holds a glass and a small sign with a logo. Overlaid on the bottom of the scene are graphics that say \"RESS TALK IT\" and \"OUR\". Across the sequence of frames, the woman remains in the same position, though her facial expressions shift slightly as she continues speaking."
+}

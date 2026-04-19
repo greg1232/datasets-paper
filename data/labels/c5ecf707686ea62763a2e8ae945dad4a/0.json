@@ -1,0 +1,15 @@
+{
+  "video_id": "c5ecf707686ea62763a2e8ae945dad4a",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.238,
+    0.396,
+    0.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A meeting of the \"House Committee on General, Housing, and Military Affairs\" takes place in a room with a large screen displaying a \"Memorandum.\" The screen shows a document with a green checkmark logo at the top. Below the screen, a man with grey hair and glasses is seen from behind, facing the display. To his right, a woman with dark hair is partially visible. On the left wall, a mirrored surface reflects the room's interior. A white banner across the bottom of the frame contains the logo \"ORCA\" and the date \"April 12, 2019,\" followed by the committee's name. A bright green bar at the very bottom reads \"S.23 Increasing the Minimum Wage.\" Throughout the sequence, the camera remains static, and the people and the content on the screen do not change, creating a still image effect across the duration of the clip."
+}

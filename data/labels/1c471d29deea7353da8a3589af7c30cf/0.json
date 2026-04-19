@@ -1,0 +1,15 @@
+{
+  "video_id": "1c471d29deea7353da8a3589af7c30cf",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-330.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.212,
+    0.637,
+    1.062,
+    1.488
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a trading card over a table featuring a large graphic of green palm trees and an orange circle. The setting appears to be a professional streaming or recording studio, with a black textured surface in the background and a smaller picture-in-picture window showing a man with a beard wearing a dark blue shirt. The man is seated behind a table with equipment, looking toward the camera. On-screen text and logos include \"JASPYS\" in orange stylized letters and the website \"CASEBREAKS.COM\" appearing in white text. As the sequence progresses, the hand subtly shifts the angle of the card, tilting it to show different reflections and details of its surface. The background and the man in the small inset window remain largely stationary, while the primary focus stays on the movement of the card being showcased."
+}

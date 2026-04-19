@@ -1,0 +1,15 @@
+{
+  "video_id": "945a4a7d7ac78163bb4d99896f5cced2",
+  "url": "./data/segments/3P1vSUbet40-Scene-0506.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a tall, grey, stylized wig, glasses, and headphones is seated in a studio, appearing to record a podcast. He wears a white long-sleeved shirt with brown suspenders and a small bow tie. In front of him is a black professional microphone. The background features a wall with framed pictures and clothing racks displaying shirts, including some with the \"LEE\" brand. Two logos are visible on the screen: one on the left reads \"STALID PODCAST\" and another on the right says \"GOSS TALK JOY\". Throughout the sequence, the man remains in a stationary position, slightly tilting his head and shifting his gaze downward and to the side while speaking. The background and equipment remain constant, while the only movement is the subtle change in the man's facial expression and head posture as he talks."
+}

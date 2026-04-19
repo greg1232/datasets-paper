@@ -1,0 +1,15 @@
+{
+  "video_id": "b0d73547ac930ffae9f7d3fc4046e9a7",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-274.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.479,
+    1.437,
+    2.396,
+    3.354
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's arm and hand are visible in the foreground, interacting with a large, black, textured rectangular box. The setting appears to be a workspace with stacks of white boxes in the background. An inset video screen shows a man with a beard wearing a navy blue t-shirt with a yellow logo on the chest, sitting in front of a computer monitor. The \"JASPYS\" logo and the text \"CASEBREAKS.COM\" appear prominently in the upper right of the scene, along with a smaller \"JASPYS\" logo on the lower left of the inset screen. As the sequence progresses, the person's hand moves across the top of the black box, shifting its position slightly. The man in the inset screen remains seated, observing the process, while the surrounding environment of stacked boxes and computer equipment remains static."
+}

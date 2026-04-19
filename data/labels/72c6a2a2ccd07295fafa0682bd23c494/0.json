@@ -1,0 +1,15 @@
+{
+  "video_id": "72c6a2a2ccd07295fafa0682bd23c494",
+  "url": "./data/segments/3fokLGPK15Q-Scene-117.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.525,
+    1.575,
+    2.625,
+    3.675
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people are seated on a stage in front of a purple backdrop featuring bright, vertical neon light tubes. A man on the left wears a white button-down shirt and grey trousers, a woman in the center wears a black t-shirt and black pants, and a man on the right wears a grey suit over a light-colored shirt. They are seated in light-colored wooden chairs. In front of the man on the left is a white, blocky, textured object. A banner with the text \"SLASH\" is partially visible along the bottom of the stage. Throughout the sequence, the man on the right gestures with his hands while speaking, and then leans forward and looks down. Simultaneously, the man on the left and the woman begin to clap. The scene maintains the same setting as the three individuals react to the speaker on the right."
+}

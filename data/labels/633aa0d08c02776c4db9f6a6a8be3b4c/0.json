@@ -1,0 +1,15 @@
+{
+  "video_id": "633aa0d08c02776c4db9f6a6a8be3b4c",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-074.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.48,
+    1.439,
+    2.398,
+    3.358
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a close-up perspective from the driver's seat inside a vehicle. The scene focuses on the dashboard and steering wheel. In the initial view, the instrument cluster is visible, showing several gauges and a digital display. Legible text on the dashboard reads \"UNLEADED FUEL ONLY\" and \"AIRBAG.\" As the sequence progresses, the camera pans and shifts, moving away from the instrument cluster to focus on the textured surface of the steering wheel and a lever, likely a turn signal or wiper control, located on the steering column. The lighting varies as the camera moves, creating highlights and shadows across the black plastic and leather-like materials of the interior. No people are visible in the frames, only the interior components of the car as the viewpoint shifts."
+}

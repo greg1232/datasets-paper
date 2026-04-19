@@ -1,0 +1,15 @@
+{
+  "video_id": "7903abfb5f3b76f39f0337ebc9186a5f",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.8,
+    2.4,
+    4.0,
+    5.6
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a dark beard and a grey button-down shirt speaks while seated in front of a dark blue background featuring a faded \"DAILY ROUND UP\" watermark. The \"peoples dispatch\" logo is visible in the top left corner. To his right, a static rectangular insert displays a portrait of a woman wearing a black judicial robe and a white jabot. On-screen text below her portrait reads \"Fatou Bensouda\" followed by \"International Criminal Court's chief prosecutor\". As the sequence progresses, the man continues speaking, his mouth moving and facial expressions shifting slightly, while the inset image of Fatou Bensouda remains unchanged. The lighting is consistent across the scene, focusing on the man's face and the displayed portrait."
+}

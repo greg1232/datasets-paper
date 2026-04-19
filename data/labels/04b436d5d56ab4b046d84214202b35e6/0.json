@@ -1,0 +1,15 @@
+{
+  "video_id": "04b436d5d56ab4b046d84214202b35e6",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-672.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.219,
+    0.657,
+    1.095,
+    1.533
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a green t-shirt is seated in a room filled with framed photographs on the wall and clothing racks in the background. His t-shirt features the text \"I CON NEVER DO SHIT AT WORK\" in white lettering. He is positioned in front of a professional black microphone. Throughout the sequence, the man remains seated, speaking while looking slightly to his left. His facial expressions shift subtly as he talks, with his mouth open in the first few frames and closing as he finishes a thought. On-screen graphics include two logos: one on the left that reads \"THE\" and another on the right that reads \"REALLY HOT\". A white mannequin wearing a white shirt is visible behind him. The camera remains stationary, capturing his upper body and the detailed background of the studio."
+}

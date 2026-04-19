@@ -1,0 +1,15 @@
+{
+  "video_id": "fbce2299fd17e605eebc4ec7f05ba199",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-135.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A medical simulation takes place in a sterile setting, focusing on a synthetic anatomical model of a human torso. A person wearing blue medical gloves uses their hands to manipulate the model, while another person's hands are visible on the right side of the frame. Surgical tools, including metal clamps, are positioned around the site, and a white textured cloth lies across the lower portion of the model. On-screen graphics include a pink female silhouette, a purple circle containing the text \"Day 5\", and the text \"Sim Week\" accompanied by a small graphic of a medical tool. As the sequence progresses, the gloved hands continue to examine and touch the simulated tissue, with slight shifts in position and pressure applied to the model, while the background and on-screen text remain static throughout the frames."
+}

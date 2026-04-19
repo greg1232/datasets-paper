@@ -1,0 +1,15 @@
+{
+  "video_id": "bba3fa746780310ee918bf18669b6699",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-432.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.273,
+    0.819,
+    1.365,
+    1.91
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip shows a gaming screen featuring a blue, snowy environment. In the upper left of each frame, the text \"90+ ZERO CHILL PLAYER\" is visible. In the bottom left corner, a small webcam overlay displays a man with blond hair and a beard, wearing a dark shirt, who reacts with excitement and an open-mouthed expression. Beside him, the text \"ALL\" and \"BACK\" appear next to button prompts. Throughout the sequence, a large, crystalline structure in the center of the screen rapidly disintegrates. In the first frame, a stylized logo is visible on the structure's surface. By the second and third frames, the structure fragments into shards of ice and white particles. In the final frame, the central area is completely engulfed in a bright, white burst of light, obscuring the background as the man in the overlay continues to react with excitement."
+}

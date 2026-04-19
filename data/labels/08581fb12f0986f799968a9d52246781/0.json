@@ -1,0 +1,15 @@
+{
+  "video_id": "08581fb12f0986f799968a9d52246781",
+  "url": "./data/segments/3MlPpqgmbYA-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.796,
+    5.388,
+    8.979,
+    12.571
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and glasses, wearing a dark blue button-down shirt, is speaking to the camera. He is positioned in front of a neutral-colored wall adorned with a piece of art featuring a large, brown, patterned vessel against a wooden background. Throughout the sequence, the man remains centered in the frame, speaking with an expressive face. Initially, his hands are positioned low and slightly open. As time progresses, he raises his hands and uses them to gesture emphatically, with his fingers spread and palms facing inward. His facial expression shifts slightly as he speaks, moving from a neutral smile to a more active speaking posture. The background and his clothing remain constant across the duration of the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c3e2919f9644b0eab923ff8829dddad9",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-275.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.204,
+    0.613,
+    1.022,
+    1.431
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey baseball cap with a logo, and black over-ear headphones is seated in a recording studio. He is positioned in front of a large professional microphone attached to a shock mount and boom arm; a \"Blue\" logo is visible on the arm. The background consists of dark grey acoustic foam panels. Throughout the sequence, the man is speaking into the microphone. He begins by gesturing with his right hand raised near his face and his left hand raised and open to his side. As the sequence progresses, he lowers his right arm and shifts his posture, moving his left arm down toward his lap. He remains focused forward, continuing to speak as his physical gestures subside."
+}

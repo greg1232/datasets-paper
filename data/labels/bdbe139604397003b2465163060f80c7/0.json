@@ -1,0 +1,15 @@
+{
+  "video_id": "bdbe139604397003b2465163060f80c7",
+  "url": "./data/segments/3TQScsCOS2k-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.445,
+    1.335,
+    2.225,
+    3.115
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long brown hair, wearing a black and white patterned short-sleeved shirt, speaks while gesturing with her hands in front of a lush green jungle backdrop featuring a waterfall. The backdrop displays the movie logo \"JUMANJI WELCOME TO THE JUNGLE\" in large, stylized letters. A yellow text box with the name \"JACQUI\" appears over her right shoulder, and in later frames, a social media handle \"@JAIFAI\" with a Twitter icon is added below her name. As she speaks, she moves her hands expressively; in the second frame, she holds a small black rectangular object near her chest. By the final frames, she lowers this object toward her lap. The woman remains centrally positioned throughout the sequence, with the background and on-screen graphics remaining constant as her gestures and the displayed text evolve."
+}

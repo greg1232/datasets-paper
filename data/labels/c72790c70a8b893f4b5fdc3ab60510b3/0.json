@@ -1,0 +1,15 @@
+{
+  "video_id": "c72790c70a8b893f4b5fdc3ab60510b3",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.732,
+    8.196,
+    13.659,
+    19.123
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A security camera captures a dimly lit indoor space, likely a garage or workshop, containing a ladder and a boat on a trailer. The footage is marked with \"Cam 04\" in the lower-left corner and timestamps in the upper corners ranging from \"05-13-2022 11:33:34PM\" to \"05-13-2022 11:33:53PM\". A person wearing a light-colored short-sleeved shirt and dark pants is visible in the background. In the initial moments, the individual is standing near the back wall, but they quickly move out of the frame toward the left. As the sequence progresses, the person is no longer visible, leaving the room empty. A bright light source on the right side of the frame creates a strong glare and casts shadows across the floor. The scene remains otherwise static, with the equipment and environment unchanged."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f44d4141472992633ce31944511da868",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.27,
+    0.81,
+    1.35,
+    1.89
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide outdoor shot depicts a cityscape under a clear blue sky, featuring a cluster of residential buildings with reddish-brown tiled roofs in the foreground. In the background, a large stadium structure is visible, characterized by tall floodlight towers and a modern architectural roofline. A white logo consisting of a crown atop a stylized circular emblem is centered at the top of the frame. The scene remains static throughout the sequence, with no people visible and no movement of objects or changes in the environment. The lighting is bright and consistent across all frames, casting soft shadows across the rooftops and the distant urban landscape. No legible on-screen text appears beyond the central logo."
+}

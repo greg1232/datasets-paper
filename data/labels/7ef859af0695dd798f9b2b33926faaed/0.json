@@ -1,0 +1,15 @@
+{
+  "video_id": "7ef859af0695dd798f9b2b33926faaed",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-105.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a beard wears black over-ear headphones and sits in front of a microphone with a pop filter, positioned against a dark, ribbed acoustic wall. In the foreground, a small screen displays a scene of several people gathered outdoors in a park-like setting with green trees. A man in a blue shirt sits on a bench, while another man and a woman are nearby. The text \"PERFECT FOR BBQs\" is superimposed in white capital letters over this smaller scene. Across the sequence of frames, the man in the headphones remains largely stationary, maintaining a neutral expression and looking slightly upward and to the side. The content on the inset screen remains constant, showing the same group of people and the identical text overlay without any visible movement or changes in the composition."
+}

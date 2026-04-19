@@ -1,0 +1,15 @@
+{
+  "video_id": "57e8128dbd4e11297930773a628ad885",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.534,
+    1.602,
+    2.669,
+    3.737
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video showcases a split-screen promotional graphic for a financial service. The left side of the screen features a green-tinted background with a technical chart and the text \"Fibonacci 24/7\" and \"Larry Pesavento,\" with a yellow bar stating \"FIBONACCI 24/7\" and a blue \"SUBSCRIBE\" button below. The right side of the screen is white and displays the logo \"TFNN.COM\" with the tagline \"EDUCATING INVESTORS.\" Large red text reads \"30 DAY,\" followed by smaller red text that reads \"MONEY BACK GUARANTEE FOR FIRST TIME SUBSCRIBERS.\" Across the sequence of frames, the right side of the screen animates, with the red text appearing to slide in or shift position. Specifically, the words \"MONEY BACK GUARANTEE\" and \"FOR FIRST TIME SUBSCRIBERS\" move from a fragmented layout in the first frame to a centered, aligned layout in the subsequent frames. The left side of the screen remains static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "74294e46b7010347ce1e962aacac190e",
+  "url": "./data/segments/3INb3jiuu6g-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.48,
+    1.44,
+    2.4,
+    3.36
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a formal assembly hall with green seating and desks, where several men are seated. The men are dressed in traditional attire, including white robes and various styles of caps, and some are wearing face masks. One man in a white garment and purple cap sits in the foreground, while others are positioned behind him in rows. The scene remains static across the frames, with minimal movement among the attendees. A news graphic overlay appears at the bottom of the screen, featuring a purple \"NEWS NOW\" tag and a headline that reads \"JUSUN STRIKE\" followed by \"REPS URGE FG TO ENSURE SPEEDY RESOLUTION.\" The \"plustv\" logo is visible on the right, and social media handles \"Follow us @plustvafrica\" appear alongside small icons. The environment suggests a legislative or official government meeting."
+}

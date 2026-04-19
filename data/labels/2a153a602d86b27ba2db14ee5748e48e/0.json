@@ -1,0 +1,15 @@
+{
+  "video_id": "2a153a602d86b27ba2db14ee5748e48e",
+  "url": "./data/segments/3P1vSUbet40-Scene-0188.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.271,
+    0.813,
+    1.356,
+    1.898
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a large, silver, upright wig, glasses, and black over-ear headphones sits in a recording studio. He is dressed in a white button-down shirt with thin white suspenders and a small red bowtie. He sits before a black professional microphone, appearing to speak throughout the sequence. In the background, a wall is covered in framed photographs, and various clothing items and bags are visible on shelves. Two logos appear on the screen: one on the left reads \"ESTALIO PODCAST\" and another on the right reads \"BOSS TALK JOY PODCAST\". Across the frames, the man remains in the same position, with subtle changes in his facial expressions and mouth movements as he talks, while the camera and background remain static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e421674066747ca3abd38f4cb930ab37",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.708,
+    5.125,
+    8.542,
+    11.958
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman wearing a white lab coat over a light-colored shirt stands behind a light gray table in a room with white shelving units filled with various plastic bins in the background. On the table, there is a white piece of paper with technical drawings and a small blue and red mechanical device. In the initial sequence, the woman stands with her hands resting on the table, looking toward the camera. As the scene progresses, she begins to speak and move her hands, gesturing toward the device on the table. She maintains a neutral to pleasant facial expression while explaining the equipment. A small blue logo is visible on the left chest area of her lab coat, though the text on it is not legible. The lighting is bright and consistent across the scene, and the background remains static as she interacts with the objects in front of her."
+}

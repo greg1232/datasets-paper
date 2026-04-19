@@ -1,0 +1,15 @@
+{
+  "video_id": "d6a068574a1a9f0c7b55ee90d0544289",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-392.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.485,
+    1.456,
+    2.427,
+    3.398
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game simulation is displayed on a screen, featuring a line of scrimmage with players in white uniforms facing off against players in black uniforms. On the left side of the screen, a small inset window shows a man with blonde hair wearing a dark shirt. The game interface at the top displays \"1st & 10,\" \"14,\" \"EXO 7,\" and a clock showing \"3rd 1:45 27 :12\" in the first frame, which ticks down to \"3rd 1:43 27 :10\" by the final frame. A notification box on the right reads \"HOLD THE LINE\" and \"Away Team has improved blocking.\" As the sequence progresses, the players shift into their stances, and labels appear over the athletes in the final frame, including names like \"Swift,\" \"Meinertz,\" and \"Hill.\" The setting is a bright, sunlit football stadium with green grass and yard markers."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "14eb9ac9b2ae5984b73a1285262fa734",
+  "url": "./data/segments/3fokLGPK15Q-Scene-088.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.24,
+    0.72,
+    1.2,
+    1.68
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A stage is illuminated by intense purple and blue laser lights that radiate across the scene in sharp, intersecting lines. In the center of the background, a large circular screen displays the word \"SLUSH\" in stylized white capital letters. To the left of the central screen, a smaller circular inset shows a close-up of a person with blonde hair. In the mid-ground, several people stand behind a long, curved counter, though their specific clothing and individual actions are obscured by the distance and lighting. The overall environment appears to be a darkened event venue or studio. Across the sequence of frames, the laser patterns shift slightly in position and intensity, and the figure in the smaller circular inset remains visible, though the angle and lighting on their face vary slightly as the scene progresses."
+}

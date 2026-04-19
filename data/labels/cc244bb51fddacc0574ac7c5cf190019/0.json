@@ -1,0 +1,15 @@
+{
+  "video_id": "cc244bb51fddacc0574ac7c5cf190019",
+  "url": "./data/segments/3F2rz23IKUk-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.105,
+    0.315,
+    0.525,
+    0.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person in a black t-shirt and dark pants stands behind a podium in a lecture hall, while a projection screen behind them displays a slide titled \"Further information\". A second person, wearing a dark shirt and khaki pants, walks from the center of the room toward the right side. In the foreground, several students are seated at long tables with laptops; one student wears a pink shirt, and another wears a yellow shirt. The room features white walls, overhead fluorescent lighting, and a closed door with an \"EXIT\" sign above it. As the scene progresses, the person in the black t-shirt remains relatively stationary at the podium, while the person in khaki pants continues their movement across the room toward the right, eventually exiting the frame or reaching the far wall. The seated students remain in their positions, focused on their laptops or the front of the room."
+}

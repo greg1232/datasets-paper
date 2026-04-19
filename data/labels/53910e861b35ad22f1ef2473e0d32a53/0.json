@@ -1,0 +1,15 @@
+{
+  "video_id": "53910e861b35ad22f1ef2473e0d32a53",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.84,
+    5.52,
+    9.2,
+    12.88
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording of a web browser displays a video call and a presentation. In the top right corner, a man wearing a black shirt and black headphones is visible in a small video window. The main area of the screen shows a dark background with a complex network of interconnected circular nodes and lines. Some nodes contain small images or icons, while others are plain. A white rectangular overlay is positioned in the center, containing a flowchart with blue boxes and arrows. Across the top of the browser, several tabs are open with titles including \"Trial & Learning by Systemini,\" \"Future of Society by Systemini,\" \"Insights Introduction Ruins,\" and \"Rural Community Food System.\" The scene remains static throughout the sequence, with no movement from the man in the video call and no changes to the on-screen diagrams or the browser interface."
+}

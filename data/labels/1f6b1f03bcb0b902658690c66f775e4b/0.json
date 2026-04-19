@@ -1,0 +1,15 @@
+{
+  "video_id": "1f6b1f03bcb0b902658690c66f775e4b",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-431.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.61,
+    1.831,
+    3.052,
+    4.273
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark blue t-shirt and large over-ear headphones appears in a small video overlay in the corner of a screen. In the initial scene, the main screen displays a \"CONFIRM PURCHASE\" prompt asking, \"Are you sure you want to buy this Pack? It will cost you 20,000 Training.\" The \"Yes\" option is highlighted in yellow. As the sequence progresses, the prompt disappears, and the view shifts to a large, stylized green and black pack featuring a \"U1\" logo. The man in the overlay reacts with a wide smile and open arms. Finally, the \"U1\" pack bursts open in a bright explosion of yellow and green light and particles, filling the center of the screen while the man continues to express excitement in the corner."
+}

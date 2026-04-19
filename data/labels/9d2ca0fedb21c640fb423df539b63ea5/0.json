@@ -1,0 +1,15 @@
+{
+  "video_id": "9d2ca0fedb21c640fb423df539b63ea5",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    17.2,
+    51.6,
+    86.0,
+    120.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This educational presentation on \"CRYOGENIC ENGINEERING\" focuses on \"Heat Exchanger Effectiveness.\" Each frame displays a schematic of a heat exchanger with fluid inputs and outputs, labeled \"Fluid$_A$, in, hot\", \"Fluid$_A$, out, cold\", \"Fluid$_B$, out, hot\", and \"Fluid$_B$, in, cold\". To the right, the text states, \"The actual heat exchange is\" followed by equations for $\\dot{Q}_{act}$. Below the schematic, a graph plots temperature (\"Temp.\") against \"Length, x\", showing temperature curves for fluids A and B and a symbol $\\varepsilon$. The bottom of each frame credits \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" and includes an \"NPTEL\" logo. Between frames, the colored visualization of the heat exchanger changes, shifting from a blue-red gradient to a multi-colored spectrum and then to vertical stripes. In the second row, additional text appears on the right: \"The maximum possible heat exchange is\" followed by an equation for $\\dot{Q}_{max}$."
+}

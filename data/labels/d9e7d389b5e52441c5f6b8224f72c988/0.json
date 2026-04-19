@@ -1,0 +1,15 @@
+{
+  "video_id": "d9e7d389b5e52441c5f6b8224f72c988",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-079.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.136,
+    0.407,
+    0.678,
+    0.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A stylized animation depicts two men sitting in front of a large screen in an indoor setting. The man on the left wears a blue t-shirt and gestures with his hand, while the man on the right wears a black t-shirt and has a red beard. Behind them, the screen displays the text \"Our Stunid Reac ns\". A red \"Subscribe\" button is positioned in the foreground. Between the first and second frames, the \"Subscribe\" button is partially cut off, reading \"Subscr\" and \"Subscri\". In the third frame, the full \"Subscribe\" text is visible. In the final frame, the man on the right raises his right hand and points his index finger upward. Various geometric shapes and symbols, including triangles, circles, and plus signs, float across the scene. A stack of purple and pink fabrics is visible behind the men."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "17347f943a63a31306cea64a9a3cb9c5",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.751,
+    1.051
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows an automotive fuse box located under a black plastic dashboard panel. Several colored fuses are slotted into the box, accompanied by white labels on a black background. Legible text includes \"L.C.D.\", \"10\", \"BRAKE 20\", \"RADIO 20\", \"01\", and \"STOP\". A thin red wire is visible, extending from the top right area of the fuse box. The scene remains static across the sequence, with the camera maintaining a fixed angle on the electrical components. Small white particles of dust and debris are scattered across the black plastic surfaces. There are no people present in the scene, and the lighting remains consistent, highlighting the textures of the plastic and the transparency of the fuse casings."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "92a631abbd8b38fbace17d25990904a3",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-110.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.078,
+    0.235,
+    0.391,
+    0.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, headphones, and a black hoodie with the gold text \"BOSS TALK\" sits in a studio setting for a podcast recording. He is positioned behind a desk with a professional microphone on a boom arm in front of him and a black mug to his right. The background features a white wall with a repeating logo that includes five stars and the words \"UNIQUE HUSTLE,\" alongside a sign that reads \"Where BOSSES Talk!\". In the bottom left corner, a small logo reads \"BOSS TALK\". As the sequence progresses, the man is seen talking and smiling, shifting his posture slightly while remaining seated. His facial expressions change from an open-mouthed speaking pose to a smile as he looks toward someone off-camera to his right."
+}

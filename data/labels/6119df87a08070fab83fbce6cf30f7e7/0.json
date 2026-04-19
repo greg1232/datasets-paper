@@ -1,0 +1,15 @@
+{
+  "video_id": "6119df87a08070fab83fbce6cf30f7e7",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-479.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.24,
+    0.719,
+    1.199,
+    1.679
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt with the white text \"ION NEVER DO SHIT AT WORK\" sits in a studio setting. He is positioned behind a professional microphone. In the background, a white t-shirt is displayed on a mannequin, and the walls are adorned with numerous framed photographs. To his right, clothing racks are visible. The man holds a red cup, which he brings to his lips to drink between frames. Small logos are visible in the lower corners of the scene, including one that reads \"BODILY\". Across the sequence, the man shifts his gaze and posture slightly while interacting with the cup and the microphone."
+}

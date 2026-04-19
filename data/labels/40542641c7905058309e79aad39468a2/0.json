@@ -1,0 +1,15 @@
+{
+  "video_id": "40542641c7905058309e79aad39468a2",
+  "url": "./data/segments/3iUTkJy84EY-Scene-120.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.14,
+    0.42,
+    0.7,
+    0.98
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is positioned against a plain, dark gray background, appearing to be delivering a presentation or lecture. She is wearing a light green, short-sleeved tunic with intricate embroidery around the neckline and a simple dark necklace. A small lapel microphone is clipped to the front of her garment. In the bottom left corner of each scene, a circular logo is visible alongside the text \"NPTEL\". Throughout the sequence, the woman is speaking, her mouth opening and closing as she articulates her words. Her expression remains focused and professional. She uses her hands to gesture for emphasis, with her left hand moving slightly and her fingers curving as she speaks. The lighting remains consistent, and there are no changes to the background or her attire as the sequence progresses."
+}

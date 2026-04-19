@@ -1,0 +1,15 @@
+{
+  "video_id": "eb979a388472a0c4a507b0c7ceea81d3",
+  "url": "./data/segments/3l84m5pRmyk-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.164,
+    3.491,
+    5.818,
+    8.146
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A professional broadcast studio environment is shown, featuring a recurring blue cube logo with the text \"theCUBE\". The video alternates between wide shots of a control room and close-ups of the production staff. A man in a dark blazer and light-colored shirt is seated at a desk with a laptop, appearing as a host or analyst. Various monitors and technical equipment, including professional cameras and control panels, are visible in the background. The scene includes detailed credit overlays listing crew members under categories like \"Hosts & Analysts\", \"Engineering\", \"Production\", \"Editorial\", and \"Social\". Legible names include \"JOHN FURRIER\", \"JEFF FRICK\", \"JEFF KELLY\", \"DAVID FLOYER\", \"KRISTEN NICOLE\", and \"ALINA POPESCU\". The credits shift across the screen, transitioning from one set of names to another as the camera cuts between the host and the technical equipment used to produce the segment."
+}

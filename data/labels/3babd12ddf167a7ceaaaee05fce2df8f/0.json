@@ -1,0 +1,15 @@
+{
+  "video_id": "3babd12ddf167a7ceaaaee05fce2df8f",
+  "url": "./data/segments/3hcAJKLX-Ps-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.42,
+    1.26,
+    2.1,
+    2.94
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a brightly lit indoor setting with pale yellow walls and white curtains in the background, two men are standing side by side. One man, positioned on the left, wears a pink long-sleeved shirt under a black sleeveless vest and a blue lanyard with a white ID badge around his neck. To his right, another man wears a white short-sleeved button-down shirt and holds a silver handheld microphone close to his mouth, appearing to be speaking. Across the frames, the man in the white shirt remains in a speaking posture, holding the microphone and gesturing slightly with his other hand. The man in the black vest stands still, looking forward with a neutral expression. In the final frame, the top of another person's head, wearing a mask, is briefly visible in the lower right corner of the scene. The setting and the positions of the two main figures remain largely consistent throughout the sequence."
+}

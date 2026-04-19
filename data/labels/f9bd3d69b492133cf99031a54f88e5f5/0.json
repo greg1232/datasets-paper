@@ -1,0 +1,15 @@
+{
+  "video_id": "f9bd3d69b492133cf99031a54f88e5f5",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-165.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.295,
+    0.885,
+    1.475,
+    2.065
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a series of frames with a red and yellow graphic theme. The primary focus is on Nitish Kumar, a man wearing a white Nehru jacket, speaking while gesturing with his hands. He is surrounded by other men, including one in a light-colored shirt and another in a dark shirt. The screen displays various text overlays in Hindi, including \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\" and \"\u092e\u0902\u0924\u094d\u0930\u0940.\" The top banner consistently reads \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091b\u091f\u092a\u091f\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948.\" A \"BREAKING NEWS\" ticker runs across the bottom, alongside a digital clock showing \"10:09 PM\" and a channel logo. In the initial scene, the footage is partially obscured by a white transition effect over an image of a man in a white shirt near a vehicle and an Indian flag. As the sequence progresses, the image clears to show a close-up of Nitish Kumar speaking to the camera."
+}

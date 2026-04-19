@@ -1,0 +1,15 @@
+{
+  "video_id": "0a30c64b2cad416847d3877327b41a52",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands at a wooden lectern in a room with wood-paneled walls, speaking into a microphone. He wears a white shirt under a black vest and glasses. To his left, another man is partially visible, also seated at the lectern. An audience of several people is seated in the foreground, viewed from behind; they are wearing casual attire, including sweaters and colorful scarves. On the right side of the frame, the text \"ORCA\" is displayed in white letters over a dark rectangle. Throughout the sequence, the man at the lectern remains in position, gesturing slightly with his hands and speaking to the audience. The camera remains stationary, capturing the consistent composition of the speaker and the listeners without any significant changes in position or movement."
+}

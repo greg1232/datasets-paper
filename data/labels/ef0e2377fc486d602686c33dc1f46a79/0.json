@@ -1,0 +1,15 @@
+{
+  "video_id": "ef0e2377fc486d602686c33dc1f46a79",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-172.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.342,
+    13.026,
+    21.709,
+    30.393
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A trading interface displays financial market data through multiple technical charts and indicators. A primary chart shows a price action line for \"S&P 500\" moving generally upward, accompanied by a green moving average line. Below this, sub-charts for \"MACD (12,26,9,1,1,Green,Green,Red)\" and \"Stochastic Slow (High,Close,14,3,3,1,25,80)\" display oscillating lines and histograms. On the left side, a vertical price scale and a candlestick chart are visible, with specific price points such as \"4164.56\" and \"4134.86\" highlighted. The top banner contains text including \"L=4,163.20 -8.20 -0.20% D=4,150.75\", \"H=4,150.00\", and \"V=677,769\". The bottom section features a chart titled \"TLT - Monthly\". As the sequence progresses, the price line for the S&P 500 fluctuates slightly, and the values within the MACD and Stochastic indicators shift, reflecting real-time market movements."
+}

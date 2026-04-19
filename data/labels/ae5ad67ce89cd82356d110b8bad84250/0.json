@@ -1,0 +1,15 @@
+{
+  "video_id": "ae5ad67ce89cd82356d110b8bad84250",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.465,
+    10.394,
+    17.323,
+    24.252
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a pink tank top and grey shorts is in a basketball gymnasium with blue walls and a polished wooden court. A basketball hoop is mounted on the wall, and a digital scoreboard above it displays labels for \"HOME\", \"PERIOD\", \"GUEST\", \"FOULS\", \"PLAYER FOUL\", and \"SCORE\". Below the scoreboard, two yellow signs read \"BASKETBALL\" and \"SHOOTOUT\". The man begins the scene standing still with his back to the camera, facing the hoop. He then turns around and begins to walk toward the viewer. In the final sequence, he is captured in motion, moving quickly across the court toward the right side of the frame. The background remains static throughout the sequence, while the man is the only moving element in the scene."
+}

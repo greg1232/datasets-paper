@@ -1,0 +1,15 @@
+{
+  "video_id": "cb8c4b3ec65813a749b30c668cc1fa28",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-230.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.263,
+    0.788,
+    1.312,
+    1.838
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football broadcast depicts a game played in a large stadium with a night sky and a crowd of spectators. Players in white and black uniforms are positioned on a green field, with a strategic overlay showing zones such as \"DEEP ZONE,\" \"HARD FLAT,\" and \"SHORT HOOK.\" On-screen text indicates a game situation of \"3rd & 3\" and a play clock counting down from \"**:10**\" to \"**:07**.\" A ticker at the top includes the phrase \"OFFENSE AT WORK.\" In the lower-left corner, a picture-in-picture window shows a man with blond hair wearing a navy blue shirt speaking. A logo for \"FACTOR\" is visible on the field. Across the sequence, the players remain in their pre-snap positions, the clock ticks down, and the man in the inset continues to speak while gesturing slightly."
+}

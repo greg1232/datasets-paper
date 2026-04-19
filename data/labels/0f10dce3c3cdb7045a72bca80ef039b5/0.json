@@ -1,0 +1,15 @@
+{
+  "video_id": "0f10dce3c3cdb7045a72bca80ef039b5",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-801.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.782,
+    1.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated at a table in a studio, wearing a white baseball cap, a black hoodie with \"BOSS TALK\" printed in gold letters, and a gold watch on his left wrist. He sits before a professional broadcast microphone mounted on a boom arm, looking toward someone off-camera to his left. In the background, a white banner features several gold stars and the text \"UNION HUSTLE.\" Above him, a blue sign reads \"'Where BOSSES Talk!'\". A black object and a dark container are on the table to his right. On-screen graphics include a logo that says \"BOSS TALK ONE\" in red and white. Across the sequence of frames, the man remains in a nearly identical position, speaking and gesturing slightly with his hands, while the overall setting and equipment stay stationary."
+}

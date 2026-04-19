@@ -1,0 +1,15 @@
+{
+  "video_id": "c16671812f03994166620f724b8fb363",
+  "url": "./data/segments/3l84m5pRmyk-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.214,
+    3.641,
+    6.069,
+    8.496
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with brown hair, wearing a light-colored button-down shirt and a dark blazer, is seated and speaking in an indoor interview setting. He is positioned in front of a white backdrop featuring repeated blue cube logos and the text \"BigDataSV 2015\" and \"theCUBE\". A blue banner at the bottom of the screen displays the text \"#theCUBE LIVE at #BigDataSV 2015\" along with \"Fairmont Runet - Valley Room San Jose, CA\". To his right, a clear plastic water bottle sits on a surface. As the sequence progresses, the man shifts his facial expression and head position slightly while speaking, moving from a more open-mouthed expression to a slight smile with closed lips. The background elements, including the logos and the information banner, remain static throughout the clip."
+}

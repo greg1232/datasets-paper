@@ -1,0 +1,15 @@
+{
+  "video_id": "607998ac51e9d0c0cd29378d0365288b",
+  "url": "./data/segments/3P1vSUbet40-Scene-0798.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a tall, peaked grey headpiece, glasses, headphones, and a white dress shirt with a red bowtie is speaking into a professional microphone in a studio setting. He is seated in front of a wall decorated with numerous framed photographs and a yellow \"LEE\" banner. To his left, a logo reads \"BOSS TALK 101 PODCAST\". The scene remains largely static across the sequence, with the man maintaining his position and attire. His expression and mouth movements change slightly as he speaks, and he subtly shifts his posture while glancing toward someone off-camera. The lighting is bright and consistent, focusing on the subject and the detailed backdrop of the podcast studio."
+}

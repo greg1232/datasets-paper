@@ -1,0 +1,15 @@
+{
+  "video_id": "3eed7cdf9342edd816af17862b1f7d1f",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.27,
+    0.45,
+    0.63
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of men are gathered in an indoor setting, with a central figure wearing a white scarf over a grey jacket. He is smiling and looking toward several men standing beside him, including one in a dark suit and another in a brown jacket. The background is a plain white wall. Red news banners span the top and bottom of the screen. The top banner reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\" and includes the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo and website \"news18india.com\". The bottom red banner features the text \"\u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e: \u0928\u0940\u0924\u0940\u0936 \u0915\u093e \u0935\u093e\u092a\u0938 \u0906\u0928\u093e \u0938\u0941\u0916\u0926 \u0938\u092e\u093e\u091a\u093e\u0930 \u0939\u0948\", along with a timestamp of \"10:01 PM\" and a smaller logo for \"MAHARODH\". As the scene progresses, a new text overlay appears in the upper left area of the lower frames, stating \"2024 \u092e\u0947\u0902 JDU\". The people remain in the same positions, maintaining their interactions."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "969dc1279bd5397900f59a4d30a4141d",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.53,
+    1.589,
+    2.648,
+    3.708
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a flashlight, illuminating a patch of dark, earthy ground covered in sparse grass, small green plants, and dry twigs. The beam of light creates a bright, circular spot in the center of the scene, while the surrounding areas remain in deep shadow. The silhouette of the person's hand and arm is visible on the right side of the frame, partially blocking the view as they hold the light source. As the sequence progresses, the flashlight beam shifts slightly, scanning across the ground and revealing more of the natural texture of the soil and vegetation. The movement is subtle, focusing on the small details of the terrain under the concentrated light. No other people, equipment, or text are present in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e3d6569abaa9297bd189167f125a3c88",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.304,
+    0.912,
+    1.521,
+    2.129
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording transitions from a Google Sheets spreadsheet to a web browser page. The initial view shows a spreadsheet with columns of names and regions, including \"BRIAN FRANK\" paired with \"ATLANTIC,\" \"CENTRAL,\" \"PACIFIC,\" and \"SOUTHWEST,\" and \"Kennard Bolt\" with \"NORTHWEST.\" The screen then switches to a Google search page, where a video is playing in a window. The video features a man with a beard wearing a black shirt, positioned in front of shelves containing various items. Text overlays on the video include \"JASPYS CASEBREAKS.COM,\" \"JASPYSBREAKS,\" and a call to action stating, \"Hit the SUBSCRIBE button down below!\" alongside a red \"Subscribe\" button. The browser interface displays shortcuts for \"RANDOM CNS\" and \"Google Sheets,\" and the top of the window shows the URL \"WWW.JASPYSCASEBREAKS.COM.\" The sequence captures the shift from data entry to viewing the video content."
+}

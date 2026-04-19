@@ -1,0 +1,15 @@
+{
+  "video_id": "37cd2dc5c0eaaeec3ff9855b0d7e150f",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.119,
+    0.356,
+    0.594,
+    0.831
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's head and shoulders are visible from a high-angle, top-down perspective as they stand on a polished wooden gymnasium floor. The floor features light-brown planks with distinct grain patterns and white painted boundary lines. A bright light source creates a strong white glare on the floor surface. The person, who appears to have dark skin and dark hair, is positioned centrally in the frame, facing upward toward the camera. Throughout the sequence, the person remains relatively stationary, though there is a slight shift in their positioning and a subtle change in the camera's angle. The lighting remains consistent, casting a warm glow across the wooden surface and contrasting with a dark area along the edge of the frame. There are no visible objects, equipment, or text present in the scene."
+}

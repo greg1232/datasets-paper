@@ -1,0 +1,15 @@
+{
+  "video_id": "49e82d6c2b6dace0701d16fd980caa72",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-368.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.179,
+    12.538,
+    20.896,
+    29.254
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black long-sleeved shirt and black over-ear headphones is positioned in front of a professional microphone with a pop filter in a studio setting. The background consists of dark, horizontally ribbed acoustic soundproofing panels. The man remains centered in the frame, speaking into the microphone. Across the sequence, his facial expressions and gaze shift slightly. Initially, he looks forward with a neutral expression, then glances upward and to his right. He then shifts his eyes further upward and back toward the center, ending with a focused look forward. He is the only person visible, and no text or logos appear on screen. The camera remains stationary, capturing the subtle movements of his head and eyes as he continues to engage with the microphone."
+}

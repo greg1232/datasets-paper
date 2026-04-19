@@ -1,0 +1,15 @@
+{
+  "video_id": "474c907d2a1660b5aee2075de27c3289",
+  "url": "./data/segments/3QD9oO6sRns-Scene-129.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.29,
+    0.869,
+    1.448,
+    2.027
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a cardboard box of trading cards on a desk. In the first frame, the hands are peeling back a seal on the box. By the second frame, the lid is pushed back, revealing a box with the words \"CLEARLY AUTHENTIC\" printed on it. The third frame shows a close-up of the hands removing a clear plastic wrap from the cards inside. In the final frame, the person holds the blue and white card box over a black mat. The mat features a large orange and white logo that reads \"JASPYS CASEBREAKS.\" A small inset video in the corner shows a man wearing a black t-shirt and a baseball cap watching the process. The background includes other closed card boxes and a computer monitor."
+}

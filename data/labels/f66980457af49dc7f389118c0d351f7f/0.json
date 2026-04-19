@@ -1,0 +1,15 @@
+{
+  "video_id": "f66980457af49dc7f389118c0d351f7f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.27,
+    0.45,
+    0.63
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video call and a digital mind-mapping tool against a dark background. In the top right corner of the interface, a man wearing a headset and a blue shirt is visible in a small video window. The main area of the screen displays a complex network of interconnected circular nodes containing icons and labels, such as \"Food System\" and \"Holistic Learning.\" In the initial scene, a white rectangular pop-up box appears over the map, containing a small image of a person and the text \"30 Views\" and \"Community\". An arrow points from a node toward this box. As the sequence progresses, the pop-up box disappears, revealing the underlying map. By the end, several nodes change color, with some turning red and others becoming highlighted with white outlines, as the user interacts with the network. Browser tabs at the top include titles like \"Trial & Learning by Systemeni\" and \"Future of Society by Systemeni.\""
+}

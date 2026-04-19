@@ -1,0 +1,15 @@
+{
+  "video_id": "ddee17862046c120634ab4b0fb73f761",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.292,
+    0.875,
+    1.458,
+    2.042
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a group of individuals in military uniforms traversing a rural, grassy landscape under an overcast sky. In the initial scenes, a person in tan camouflage pants and boots walks across a log lying on the ground, while others are visible in the distant background. The person in the foreground carries equipment, including what appears to be a handheld device. As the scene progresses, the focus shifts to other soldiers in camouflage gear moving through a wooded area near a dirt path. One individual is seen from behind, wearing a helmet and carrying a rifle. The text \"Hero Ukraine\" is visible in the upper-left corner of several frames, and a red and white logo containing the number \"13\" appears in the upper-right corner throughout the clip."
+}

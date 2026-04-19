@@ -1,0 +1,15 @@
+{
+  "video_id": "5a9b7f49dc62616d03bf7679b916dca8",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.425,
+    13.275,
+    22.125,
+    30.975
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a presentation slide titled \"Project Status\" with the subtitle \"Adoption as of October 2020.\" The \"fluentbit\" logo is visible in the top right corner. The main content focuses on \"Deployments,\" listing growth over three years: \"2020\" with \"170 Million,\" \"2019\" with \"62 Million,\" and \"2018\" with \"18 Million.\" To the left of these figures is a graphic featuring a red arrow curving upwards across several red data points on a black baseline, illustrating rapid growth. In the top right corner of the screen, a small inset video shows a woman with shoulder-length hair wearing a light-colored top, looking toward the camera. Across the sequence of frames, the presentation slide remains static, and the woman in the inset video maintains a consistent posture and expression, with very little movement occurring between the scenes."
+}

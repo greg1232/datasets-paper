@@ -1,0 +1,15 @@
+{
+  "video_id": "0b2c7d2cea8c31efbddc9ed36d24da07",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.188,
+    0.562,
+    0.938,
+    1.312
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown mixing ingredients in a large silver bowl on a light-colored wooden surface. To the right of the bowl sit a white plate and a small red bowl, both containing a light-brown, granular mixture. The person uses their hands to stir and combine the contents of the silver bowl, with their movements creating a blur across the sequence. In the top-left frame, the hands are positioned at the top of the bowl; by the final frame, they are deeper in the mixture, actively churning the ingredients. Each frame features a blue and white cloudy banner in the upper-left corner containing the text \"UCAR CENTER FOR SCIENCE EDUCATION\" next to a small white logo. The background remains static, focusing on the tactile process of mixing the food materials."
+}

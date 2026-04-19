@@ -1,0 +1,15 @@
+{
+  "video_id": "d4b8c18efbfccbc9eb45551e62135895",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.571,
+    1.713,
+    2.854,
+    3.996
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a terminal window filled with lines of server logs, showing IP addresses and HTTP request methods such as \"GET\". The text includes timestamps like \"[20/Oct/2020: 8:21:11 +0000]\" and various URLs, including \"/wp-admin/\" and \"/wp-login.php\". In the top right corner of the screen, a small inset video window shows a man with short dark hair wearing a dark blue t-shirt, looking toward the camera. The terminal window remains static across the sequence, though the man in the inset video shifts his gaze and slightly changes his facial expression, blinking and moving his head minimally. The overall setting is a digital interface, likely a screen recording of a cybersecurity or system administration demonstration, with the man providing a narrated walkthrough of the log entries."
+}

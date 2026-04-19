@@ -1,0 +1,15 @@
+{
+  "video_id": "4b8e2c9d74d0718b7625542245f1b5ca",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.66,
+    4.98,
+    8.3,
+    11.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast from \"plustv\" features a split-screen layout. On the left, a man with glasses, wearing a white garment and a maroon cap, is shown from the chest up. To his right, a graphic box labeled \"ON THE PHONE\" contains a smaller portrait of another man in a maroon cap and the text \"OLUSOLA OYEKANMI POLITICAL ANALYST LAGOS.\" A banner at the bottom reads \"PLUS POLITICS\" and \"NIGERIA NEEDS ME \u2013 BOLA TINUBU.\" The background consists of deep red and black curved architectural elements. Below the main banner, a white strip displays \"FOLLOW US\" and \"PLUSTVAFRICA,\" alongside social media icons. Across the sequence of frames, the visual composition remains static, though the bottom strip updates to include \"WATCH ON DSTv CH 408,\" \"StarTimes CH 308,\" \"WATCH ONLINE,\" and the URL \"WWW.PLUSTVAFRICA.COM/LIVE-TV.\""
+}

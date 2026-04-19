@@ -1,0 +1,15 @@
+{
+  "video_id": "2005b048f021f893405dfc090fc5c17d",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-698.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.078,
+    0.235,
+    0.391,
+    0.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt and a green baseball cap with black headphones is seated at a desk in a studio setting. He is positioned in front of a black banner that reads \"UNIQUE FASHIONS\" and \"WHERE BOSSES TALK,\" alongside the phrase \"LET'S TALK ABOUT IT\" and \"CONNECT WITH US.\" A black microphone is positioned in front of him. In the background, another person wearing a blue long-sleeved shirt and blue pants stands facing away from the camera, with clothing racks visible behind them. Throughout the sequence, the man in the green shirt remains seated, slightly shifting his posture and looking downward. The camera remains static, and the environment remains unchanged, with the man in the blue shirt staying in a similar position in the background. Small logos, including \"VBM VISUAL REALITY,\" are visible on the walls."
+}

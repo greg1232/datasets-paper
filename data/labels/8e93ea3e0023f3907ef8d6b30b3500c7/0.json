@@ -1,0 +1,15 @@
+{
+  "video_id": "8e93ea3e0023f3907ef8d6b30b3500c7",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-324.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.144,
+    0.431,
+    0.719,
+    1.006
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video shows a football game played in a stadium with a large crowd in the background and a bright green field. Players in black uniforms are lined up on the field, facing an opposing team in white uniforms. A man wearing a dark blue shirt is visible in a small picture-in-picture window in the bottom left corner of the scene; he is speaking and gesturing with his hands. On-screen graphics at the top display \"PAT\", a logo for the Atlanta Falcons, \"6\", \"2nd\", \"2:25\", \"15\", and \":25\". Logos for \"ULTIMATE TEAM\" and \"EA SPORTS\" are also visible. Across the frames, the players maintain their positions on the field while the man in the inset window shifts his posture and hand movements as he talks. The background remains static, with \"COMMANDERS\" written in large gold letters across the stadium wall."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "3caba13cff2ce4df79e3612d457a7d6f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-083.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser displaying a digital mind map or conceptual diagram against a dark background. The diagram contains several circular nodes connected by blue lines; some nodes feature small icons, and one prominent white rectangular area contains an illustration of a red, curved shape next to a white figure. At the top of the browser window, several tabs are visible, including one titled \"Trial & Learning by Systemdyni\" and another \"Future of Society by Systemdynil.\" A small video call overlay in the upper right corner features a man wearing a grey baseball cap and a dark shirt. The interface includes a sidebar on the right with the name \"Saed Beddinger.\" Throughout the sequence, the screen remains static, with no changes to the diagram, the browser tabs, or the man's appearance in the video call window."
+}

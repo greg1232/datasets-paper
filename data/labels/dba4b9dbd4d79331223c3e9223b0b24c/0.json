@@ -1,0 +1,15 @@
+{
+  "video_id": "dba4b9dbd4d79331223c3e9223b0b24c",
+  "url": "./data/segments/3Kxl1O310k8-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    14.315,
+    42.945,
+    71.575,
+    100.205
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a presentation slide titled \"Two tips.\" The slide features two main points, each accompanied by a small black icon. The first point includes the text, \"Be clear with parameters for fund distributions\" and \"Execute a grant agreement for all fund allocations,\" paired with a document icon. The second point, paired with a tag icon, states, \"CPA area median income (AMI) numbers may differ from HUD numbers\" followed by the subtext, \"Be explicit about AMI expectations.\" A yellow horizontal band runs across the middle of the screen, featuring a small \"MHP\" logo and a person's silhouette on the left side, and a small video feed of a person speaking on the right side. The visual content remains static across the sequence, with only the person in the small video feed showing slight movements in their facial expression and head position."
+}

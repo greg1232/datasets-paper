@@ -1,0 +1,15 @@
+{
+  "video_id": "2989e127e36af8e619dffbce8254816a",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.152,
+    0.456,
+    0.76,
+    1.065
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold up a Paul George Los Angeles Clippers trading card in front of a backdrop featuring the \"JASPYS\" and \"CASEBREAKS.COM\" logos. The card displays an image of George in a Clippers jersey and includes a text description of his career achievements. In the background, a man wearing a black shirt is seated at a desk with various equipment and multiple sealed packs of cards. The scene remains consistent across the sequence, with the card held prominently in the foreground, although the person's thumb slightly shifts position on the right edge of the card. The background is filled with orange and white graphic elements, and the man in the distance remains stationary, observing the activity. On the card, the text \"CLIPPERS\" and \"PAUL GEORGE\" are clearly visible at the top."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "be6907a78b8f2ce3bc8e70fb7e2e9075",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is shown in a side profile, wearing a white shirt and a maroon traditional cap adorned with white symbols. He is captured in a moment of laughter or shouting, with his mouth wide open. The setting appears to be an indoor space with a light-colored, neutral background. Across the bottom of the scene, a white and maroon banner contains the text \"SUBSCRIBE\" on the left and \"WWW.YOUTUBE.COM/PLUSTVAFRICA\" in the center. A \"plustv\" logo is visible in the top left corner of the scene. The video remains static across the frames, showing the man in the same pose and expression with no significant changes in action or position."
+}

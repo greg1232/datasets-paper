@@ -1,0 +1,15 @@
+{
+  "video_id": "4d837bb83050fe6ca9c77dc2a8212568",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-168.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.715,
+    2.145,
+    3.575,
+    5.005
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser with multiple open tabs, including one titled \"Kumu.\" The main window displays a complex systems map on a dark background, featuring various circular icons connected by lines. These icons contain images and labels such as \"Insights $\\rightarrow$ Introduction to Kumu,\" \"Inner Worlds,\" and \"Human Learning.\" In the upper right corner, a small video call window shows a man wearing a grey baseball cap. As the sequence progresses, a second video window appears over the systems map, showing a group of people in a room, including one person wearing a red shirt. By the end of the clip, the systems map fades into a dark, translucent state, leaving the two video windows and a few remaining bright icons, such as \"Inner Worlds\" and \"Human Learning,\" visible on the screen."
+}

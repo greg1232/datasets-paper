@@ -1,0 +1,15 @@
+{
+  "video_id": "282a0f7ed4711e3cf44b2501c1ba73d4",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-138.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.217,
+    0.651,
+    1.084,
+    1.518
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands at a podium in front of a wood-paneled wall, addressing an audience. He wears glasses, a white shirt, and a black vest with a red patterned tie. He speaks into a microphone attached to the podium. In the foreground, the backs of several audience members are visible; one person wears a blue patterned shirt, another a yellow shirt, and another a purple garment. To the right of the center in each scene, a white box contains the text \"ORCA\". The camera remains stationary throughout the sequence, and the man's posture and gestures remain consistent as he speaks, with only slight movements in his facial expression and the positioning of his hands. The lighting is consistent across the setting, and no one in the audience changes position."
+}

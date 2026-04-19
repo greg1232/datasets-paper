@@ -1,0 +1,15 @@
+{
+  "video_id": "d8b579d7849b60c6f664fdf86e9e1ab1",
+  "url": "./data/segments/3l84m5pRmyk-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.238,
+    0.396,
+    0.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A view from space shows planet Earth centered against a black starfield with a faint, glowing nebula of cosmic dust. The globe is oriented to feature North America and the northern portion of South America, surrounded by the deep blue of the Atlantic and Pacific Oceans. The landmasses are detailed with green forests, brown mountains, and white ice caps at the North Pole. As the sequence progresses, the Earth rotates slowly toward the right, bringing more of the African continent and the Atlantic Ocean into view. The lighting remains constant, illuminating the Western Hemisphere while the edges of the planet transition into a soft atmospheric glow. No people, text, or logos are present in the scene."
+}

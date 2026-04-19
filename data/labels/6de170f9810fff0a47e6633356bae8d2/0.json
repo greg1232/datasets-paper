@@ -1,0 +1,15 @@
+{
+  "video_id": "6de170f9810fff0a47e6633356bae8d2",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-154.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a grey beard is featured in a video call or screen-sharing session. He appears in a small inset window in the bottom right of a dark interface, wearing a grey shirt. The main screen displays a complex conceptual map with several circular nodes and connecting lines. Some nodes contain small icons, such as a silhouette of a person and a red figure. Legible text within the interface includes \"Explore\" and \"Explore\" inside blue-outlined shapes. The top of the screen shows several browser tabs with titles like \"That & Learning by Systemin...\", \"Florence, by Systemin...\", and \"Future of Society by Systemin...\". A smaller window in the top right shows a man wearing a dark cap. Throughout the sequence, the man in the inset window remains relatively still, and the layout of the conceptual map and browser tabs remains constant."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e64e579cde51fa4f7412a287a5bd1527",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-338.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head, a dark beard, and tattoos on his right arm is speaking into a professional microphone in a studio setting. He is wearing a white t-shirt and black over-ear headphones. The background consists of grey acoustic foam panels with a vertical ribbed texture. A silver microphone is mounted on a boom arm, featuring a wind screen and a label that reads \"Rhode NT1\". As the sequence progresses, the man speaks while gesturing with his left hand, moving it upward and across his face. His expression remains focused and engaged. The camera remains in a steady medium close-up shot, capturing his upper body and the recording equipment throughout the action."
+}

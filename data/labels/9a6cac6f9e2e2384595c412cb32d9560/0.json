@@ -1,0 +1,15 @@
+{
+  "video_id": "9a6cac6f9e2e2384595c412cb32d9560",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.398,
+    1.194,
+    1.99,
+    2.785
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a pink sleeveless shirt and dark shorts is playing basketball in an indoor gymnasium. The gym features light-colored walls, blue bleachers, and a court with a mix of wooden and blue and green surfaces. In the initial scene, the man is in mid-air, leaping toward the right with a basketball in his hand. He continues his jump, reaching the peak of his leap and releasing the ball toward a basketball hoop. As the sequence progresses, the man descends back toward the floor while the basketball arches through the air. In the final moment, the man lands on his feet, watching the basketball as it falls back down toward the court surface. The setting remains constant throughout, with no other people or on-screen text present."
+}

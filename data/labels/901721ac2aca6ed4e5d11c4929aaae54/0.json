@@ -1,0 +1,15 @@
+{
+  "video_id": "901721ac2aca6ed4e5d11c4929aaae54",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.312,
+    0.938,
+    1.562,
+    2.188
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a light-colored shirt is visible in the upper right corner of a computer screen. The screen displays a web browser running Google Chrome, with the tab \"Activities\" active. The main content of the page shows a dark-themed interface containing lines of log data. Legible text includes \"Scalabel 30003099/google-forgetting-folder/Log-view\" and repeated entries of log timestamps such as \"2020-10-08 09:08:14\". As the sequence progresses, the user interacts with the interface, causing a sidebar to appear on the right side of the screen. This sidebar contains a \"Common entries\" section and a \"Log details\" section, with the latter displaying parsed data including \"Parsed fields:\" and \"client: '107.0.1.7'\". The man remains in the corner of the screen while the contents of the log viewer are navigated and detailed views are opened."
+}

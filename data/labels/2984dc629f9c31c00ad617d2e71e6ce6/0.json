@@ -1,0 +1,15 @@
+{
+  "video_id": "2984dc629f9c31c00ad617d2e71e6ce6",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.487,
+    1.462,
+    2.438,
+    3.413
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a screen recording of a terminal window displaying system logs and configuration files. The interface features a dark background with multicolored text, including white, green, yellow, and blue. The screen is divided into multiple panes showing various configuration sections and log entries. Legible text includes labels like \"output-loki.conf:\", \"parsers.conf:\", and various log timestamps such as \"t=2020-10-28T06:21:35.27428220Z\". The logs detail system activities, mentioning paths like \"/log/faillog\" and \"/log/kern.log\". A status bar at the bottom of the window displays a timer \"0:20\" and the text \"0 [tmux]\". Throughout the clip, the screen remains static, with no change in the text, layout, or cursor position across the sequence, indicating a still image of a terminal interface being viewed."
+}

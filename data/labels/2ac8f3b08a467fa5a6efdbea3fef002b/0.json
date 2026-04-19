@@ -1,0 +1,15 @@
+{
+  "video_id": "2ac8f3b08a467fa5a6efdbea3fef002b",
+  "url": "./data/segments/3iUTkJy84EY-Scene-216.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with shoulder-length dark hair and black-rimmed glasses stands against a plain dark grey background. She wears a light green blouse featuring a small pattern and a decorative red and white embroidered neckline, paired with a simple black beaded necklace. In the early moments, she speaks with her hands slightly raised, palms facing inward. As the sequence progresses, she continues to talk, gesturing more actively. She briefly raises her right thumb in a gesture of emphasis before returning her hands to a central position, palms open. A small, circular logo with the text \"NPTEL\" appears in the bottom left corner of the scene. The lighting is consistent and focused on her, with no other people, equipment, or objects visible in the environment."
+}

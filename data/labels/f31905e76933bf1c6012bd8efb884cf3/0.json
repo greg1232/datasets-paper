@@ -1,0 +1,15 @@
+{
+  "video_id": "f31905e76933bf1c6012bd8efb884cf3",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.825,
+    2.475,
+    4.125,
+    5.775
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news segment features a split-screen layout showing a man in a white traditional outfit and a matching cap sitting in a room with red furniture and curtains. Next to him is a smaller inset window showing a man in a red traditional cap and white attire. Text overlays identify the man in the inset as \"OLUSOLA OYEKANMI POLITICAL ANALYST\" located in \"LAGOS,\" under the header \"ON THE PHONE.\" A banner at the bottom of the screen reads \"PLUS POLITICS\" and \"NIGERIA NEEDS ME \u2013 BOLA TINUBU,\" with a \"SUBSCRIBE\" call to action and the URL \"WWW.YOUTUBE.COM/PLUSTVAFRICA\" or \"WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE.\" A colorful logo appears in the top left corner of the main scene. Throughout the sequence, the individuals remain in their respective positions, and the on-screen graphics stay largely consistent, though the YouTube URL varies slightly in the final frame."
+}

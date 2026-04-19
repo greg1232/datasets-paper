@@ -1,0 +1,15 @@
+{
+  "video_id": "30b46c187802f967bab9b3c5f015de8e",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.459,
+    1.376,
+    2.294,
+    3.212
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A small, rectangular electronic device enclosed in a transparent plastic case sits on a plain white surface. The device features a green circuit board populated with various components, including integrated circuits, resistors, and a small blue component labeled \"E 3.5\". A few thin red and white wires are connected to the board. In the beginning, the device is angled slightly to the left, with a white piece of paper and a black object visible nearby. As the scene progresses, the camera moves closer to the device, providing a more detailed top-down view of the internal circuitry. The lighting is bright and consistent, casting soft shadows on the white background. No people are visible in the frames, and the focus remains entirely on the electronic assembly within its clear protective shell."
+}

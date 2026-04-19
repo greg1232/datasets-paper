@@ -1,0 +1,15 @@
+{
+  "video_id": "54f963494063df10b1f602fe5db9dfe7",
+  "url": "./data/segments/3QD9oO6sRns-Scene-151.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.173,
+    0.519,
+    0.865,
+    1.21
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands open a dark blue and white box labeled \"CLEARLY AUTHENTIC\" and \"2020.\" The action takes place on a desk covered with a black and red mat featuring the logo \"JASPYS CASEBREAKS.\" In the top two frames, the person lifts the lid of the box, revealing interior compartments. In the bottom two frames, the box is tilted and then held up, showing a sports card featuring a baseball player inside a protective plastic case. Throughout the sequence, a small inset video in the bottom right corner shows a man wearing a black t-shirt and a baseball cap. The scene transitions from the initial opening of the packaging to the reveal of the card. The text \"CASEBREAKS.com\" is visible in the inset window and on the desk mat."
+}

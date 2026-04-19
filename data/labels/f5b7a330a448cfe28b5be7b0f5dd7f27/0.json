@@ -1,0 +1,15 @@
+{
+  "video_id": "f5b7a330a448cfe28b5be7b0f5dd7f27",
+  "url": "./data/segments/3o6LBa7ZAp0-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    11.858,
+    35.573,
+    59.288,
+    83.004
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men in dark suits and ties sit at a white table against a textured grey wall featuring a \"POLICY\" logo. The man on the left wears glasses and a light-colored tie, while the man on the right wears a dark red tie. In front of them are water bottles, glasses, and microphones. A nameplate on the table reads \"Mansoor AHMED\". Across the sequence, the man on the left shifts from touching his face to resting his hands on the table, eventually looking forward with a neutral expression. Simultaneously, the man on the right is seen speaking and gesturing with his hands, leaning slightly toward the other man before straightening up. The lighting remains consistent, and the camera stays stationary as the two men engage in a conversation."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "317934d5d72d96e638e341660f4fca79",
+  "url": "./data/segments/3cfugv0xNbU-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.584,
+    1.752,
+    2.92,
+    4.087
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a dimly lit, industrial interior characterized by metallic surfaces and complex machinery, several people in camouflage military gear are gathered. One person is positioned in the upper left, while others are crouched or lying on the floor in the foreground, appearing to assist or tend to a person lying flat on their back. The lighting is dark with a blue-green tint, and a small blue logo featuring a stylized shield is visible on the bottom right of the scene. Across the sequence, the people shift their positions slightly as they interact with the person on the ground, with some leaning closer to provide care or stabilization. The surrounding environment remains static, filled with various cables, panels, and mechanical equipment, while the personnel maintain their focus on the individual lying on the floor."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9dc3532bd3f858f05db04c5c51315726",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-400.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.723,
+    5.168,
+    8.613,
+    12.058
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a gray t-shirt and a gray baseball cap with a red and black logo is recording in a studio with black acoustic foam walls. He wears black headphones and speaks into a professional microphone mounted on a boom arm, which features the \"Blue\" logo. Throughout the sequence, the man is gesturing with both hands as he speaks. Initially, his hands are raised and open to his sides. As the sequence progresses, his left arm moves downward and out of view, and he begins to gesture more emphatically with his right hand, extending it forward and across his body. The camera remains in a static medium shot, capturing his upper body and the recording equipment. No other people are present in the scene, and the background remains consistent across the sequence."
+}

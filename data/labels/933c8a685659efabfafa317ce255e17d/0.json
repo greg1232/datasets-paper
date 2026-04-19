@@ -1,0 +1,15 @@
+{
+  "video_id": "933c8a685659efabfafa317ce255e17d",
+  "url": "./data/segments/3jaAcpqJEbg-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    25.596,
+    76.788,
+    127.979,
+    179.171
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presenter stands before a screen during a presentation, with his image visible in a small inset on the left side of the slides. He wears a blue button-down shirt. The slides feature a blue header and a white body, with the \"exotel\" logo at the bottom left and a \"has geek\" logo on the right. The first two frames display a slide titled \"How? (do we use it)\" which outlines a technical process involving a \"Library (currently only in Go) to emit logs, events or metrics,\" a \"Global hekad\" that reads from \"Kafka,\" and a transition to \"Push to Nagios (Eliminate nsca).\" It concludes with the statement, \"Basically, the single data pipeline in Exotel.\" The subsequent frames transition to a slide titled \"Our Experience.\" This slide lists \"Dev win,\" \"DevOps win,\" and notes that it was \"A bit tough to configure at first,\" highlighting \"Lua plugins FTW\" and \"Single data pipeline for all data.\""
+}

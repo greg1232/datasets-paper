@@ -1,0 +1,15 @@
+{
+  "video_id": "7daad6916934c106b0629142243b51a7",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.078,
+    0.234,
+    0.391,
+    0.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair is seen from the chest up, wearing a striped button-down shirt and a large black headset with a microphone. She is positioned in front of a light-colored curtain and a plain wall, with a small portion of a bed or couch visible behind her. The text \"Nancy Ramya\" appears in the bottom-left corner of each scene. Across the sequence, the woman looks directly toward the camera with a neutral expression, slightly moving her lips as if speaking. Her posture and the background remain consistent throughout the frames, with only minor shifts in her facial muscles and head position. There are no other people or objects in the frame, and the lighting remains steady, creating a static indoor environment typical of a video call."
+}

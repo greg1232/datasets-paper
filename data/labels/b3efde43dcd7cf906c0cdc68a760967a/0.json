@@ -1,0 +1,15 @@
+{
+  "video_id": "b3efde43dcd7cf906c0cdc68a760967a",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-071.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.517,
+    1.552,
+    2.586,
+    3.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static scene featuring large, red, three-dimensional text against a solid blue background. The text consists of two lines: the top line reads \"1-877\" and the bottom line reads \"927-6648\". These red numbers are reflected on a glossy surface beneath them, creating a mirrored image of the text. There are no people, clothing, or other equipment present in the scene. The imagery remains completely stationary throughout the sequence, with no movement, changes in lighting, or alterations to the on-screen text. The composition focuses entirely on the phone number, maintaining a consistent center-aligned presentation across the entire duration of the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0872d7eb4a1753997f5c1c9e3d5ab4da",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-111.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.758
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows a hand holding a clear plastic card protector, while a smaller inset window reveals a man sitting at a desk. The man is wearing a dark blue t-shirt and glasses, positioned in front of a computer setup with a microphone. The background of the inset window features a branded banner with the text \"JASPYS\" and \"CASEBREAKS.COM\". Below this, another logo reads \"JASPYS Sports Cards & Memorabilia\". As the sequence progresses, the hand holding the protector remains relatively stationary in the foreground, though there are slight shifts in angle and movement. In the inset, the man appears to be speaking and gesturing slightly while looking toward the camera. The overall setting suggests a professional streaming or recording environment dedicated to sports card collectibles."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "13abb031782aa3d42f2be43c100c5fa8",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.463,
+    0.772,
+    1.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short dark hair, wearing a black blazer over a white t-shirt, stands in a room giving a presentation. She holds a tablet in her hands and looks down at it while speaking. Behind her, a projector displays a slide on a plain wall containing various images and the text \"experience\" and \"data\". A person wearing a green beanie and a light-colored shirt is seen from behind, facing the woman and the presentation. In the background, a dark chair is partially visible. Across the sequence, the woman remains in a similar position, shifting her gaze slightly between the tablet and the audience. The lighting remains consistent, and the projected content on the wall does not change, while the person in the green beanie remains still, observing the presentation."
+}

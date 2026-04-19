@@ -1,0 +1,15 @@
+{
+  "video_id": "66ac000965adcb296c029f37af5facf1",
+  "url": "./data/segments/3bE53YCHjAE-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    26.804,
+    80.412,
+    134.021,
+    187.629
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a black handheld gimbal stabilizer supporting a smartphone over a light-colored wooden table in an indoor setting with chairs and carpeting. The phone's screen displays a camera application with a red recording button. On the table next to the gimbal are two open white rectangular boxes and a small black fabric pouch. Across the sequence, the gimbal rotates the smartphone from a vertical portrait orientation to a horizontal landscape orientation. As the device shifts, the camera view on the phone's screen changes to reflect the new angle, showing the surrounding room. The person's hand remains gripping the gimbal handle throughout the movement, and the surrounding environment and objects on the table remain stationary."
+}

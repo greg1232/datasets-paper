@@ -1,0 +1,15 @@
+{
+  "video_id": "48591ecf61da70042f0665cb5dda2f43",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-253.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.177,
+    0.531,
+    0.885,
+    1.24
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a clear protective case containing a trading card over a white box. The background features a desk area with equipment and a smaller inset window showing a man with a beard wearing a black t-shirt with a yellow circular logo. The text \"JASPYS\" and \"CASEBREAKS.COM\" appears in orange and white on the screen. As the sequence progresses, the person moves the encased card across the frame from right to left, shifting their grip and perspective. In the inset window, the man remains seated in front of a computer setup, looking toward the camera. The overall setting is an indoor space dedicated to card collecting and streaming, characterized by the presence of branding and a designated workspace for handling collectibles."
+}

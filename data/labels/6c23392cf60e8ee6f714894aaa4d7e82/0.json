@@ -1,0 +1,15 @@
+{
+  "video_id": "6c23392cf60e8ee6f714894aaa4d7e82",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.317,
+    0.95,
+    1.583,
+    2.217
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a dark gray screen featuring a centered, dark red play button icon. The scene then transitions to a light gray background where a circular logo appears, consisting of a red ring encircling the white number \"13\" and the word \"kanal\" written vertically in a red, stylized font. As the sequence progresses, additional text appears below the logo: the identifier \"Kanal13AZ\" in black text, followed by a small red YouTube icon and the phrase \"abuna ol.\" in white text inside a red rounded rectangle. The background shifts slightly in shade from a bright off-white to a more neutral medium gray, but the logo and accompanying subscription text remain centered and stationary on the screen."
+}

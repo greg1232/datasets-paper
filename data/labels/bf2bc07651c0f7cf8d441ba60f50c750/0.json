@@ -1,0 +1,15 @@
+{
+  "video_id": "bf2bc07651c0f7cf8d441ba60f50c750",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-824.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.141,
+    0.422,
+    0.704,
+    0.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a white baseball cap, a gold chain, and a black hoodie with \"BOSS TALK\" printed in large gold letters, sits at a dark table. He is positioned in front of a white wall featuring a recurring logo that reads \"UNICA HUSTLE\" next to gold stars. Above him, a blue banner reads \"Where BOSSES Talk!\". A professional microphone on a black boom arm is positioned in front of him, and a black mug with the text \"BOSS TALK 101\" sits on the table to his right. In the lower-left corner, a small logo says \"BOSS TALK 101\". Throughout the sequence, the man maintains a similar posture, holding papers in his hands while looking slightly to his left and speaking. His facial expressions shift slightly as he talks, moving from a more open mouth to a closed-mouth expression."
+}

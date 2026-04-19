@@ -1,0 +1,15 @@
+{
+  "video_id": "34ec55559be0fc966997d3b39496293f",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-106.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.158,
+    0.475,
+    0.792,
+    1.109
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A medical simulation takes place in a room filled with shelves of supplies and clinical equipment. A team of healthcare professionals, including several individuals wearing blue scrubs and face masks, works together to move a patient on a gurney. One person wears a dark grey shirt, and another wears a black jacket with a yellow logo on the sleeve. The team coordinates their movements to push the gurney across the room. Throughout the sequence, the text \"Sim Week\" appears in the bottom right corner, and a purple logo is visible in the bottom left. The frames transition from a dark, obscured view to a clear shot of the team in action. A text overlay in the bottom left changes from \"Day 3\" to \"Day 4\" as the scene shifts to show the team carefully maneuvering the patient."
+}

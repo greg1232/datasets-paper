@@ -1,0 +1,15 @@
+{
+  "video_id": "d6c8802aec7301b0b0b6a5a02decbe19",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.565,
+    1.694,
+    2.823,
+    3.952
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video captures a split-screen layout featuring a spreadsheet on the left and a presenter's video feed on the right. In the presenter's window, a man with short brown hair and a beard wears a black shirt and sits in a dimly lit room. Above him, a red and white logo reads \"JASPYS CASEBREAKS.COM\", and below him, a red call-to-action says, \"Hit the SUBSCRIBE button down below!\" next to a \"Subscribe\" button. The spreadsheet on the left is initially mostly blank with a few names. Over time, a vertical list of names and regions is populated. By the end of the sequence, the list includes \"BRIAN FRANK PACIFIC\", \"BRIAN FRANK ATLANTIC\", \"BRIAN FRANK* CENTRAL\", \"BRIAN FRANK SOUTHWEST\", \"Kennard Bolt NORTHWEST\", and \"Kyle Barber SOUTHEAST\". The spreadsheet's title bar identifies the document as \"Tue, 3/5/22 - 2020-21 Panini Obsidian Basketball FOTL 1of 1 off the Line L\"."
+}

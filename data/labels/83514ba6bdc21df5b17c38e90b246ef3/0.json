@@ -1,0 +1,15 @@
+{
+  "video_id": "83514ba6bdc21df5b17c38e90b246ef3",
+  "url": "./data/segments/3phuyH7Y05U-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.562,
+    0.787
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a suburban nighttime setting, a man stands in front of a purple house and a yellow building. He wears a light-colored bucket hat, a white tank top, a gold chain, a gold watch on his left wrist, and a gold earring. He holds a black microphone with a silver grille in his right hand. Initially, he looks toward the left with a focused expression, holding the microphone close to his chest while gesturing with his left hand. As the sequence progresses, he opens his mouth as if speaking or reacting, and his left hand moves further away from his body. By the final frame, he is gesturing outward with his left hand while holding the microphone slightly lower, maintaining his gaze toward the left of the scene. The background remains static, featuring dark blue skies, green trees, and a utility pole."
+}

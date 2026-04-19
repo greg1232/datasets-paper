@@ -1,0 +1,15 @@
+{
+  "video_id": "8acc514d7b35fa006c763a1462cdf753",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-083.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.755,
+    5.266,
+    8.776,
+    12.286
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair is seated indoors, wearing a striped button-down shirt and black over-ear headphones. She is positioned in front of a plain white wall, with a light-colored curtain hanging to her left and a beige piece of furniture partially visible behind her to the right. The text \"Nancy Ramya\" appears in small white font in the bottom left corner of the scene. Throughout the sequence, she looks forward, her expression shifting slightly as she speaks. In the initial frame, her mouth is closed; it then opens as she begins to articulate words, closes briefly, and then opens again in the final frame. The background and her posture remain constant, with the only movement being the subtle animation of her facial muscles and lips as she speaks."
+}

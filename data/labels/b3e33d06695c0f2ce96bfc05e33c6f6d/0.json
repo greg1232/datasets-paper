@@ -1,0 +1,15 @@
+{
+  "video_id": "b3e33d06695c0f2ce96bfc05e33c6f6d",
+  "url": "./data/segments/3cfugv0xNbU-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.346,
+    1.039,
+    1.731,
+    2.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person dressed in military camouflage clothing and wearing a black face mask stands in an indoor setting. They are holding a black firearm equipped with an antenna. In the background, another individual is partially visible behind them. The surroundings consist of neutral-toned walls and doorways, with a red rectangular light visible in the upper left. A small, blue hexagonal logo is positioned on the right side of the image. Across the sequence, the person remains relatively stationary, maintaining a focused gaze toward the left of the frame. There is minimal movement, with only slight shifts in the person's posture and the position of the firearm as they stand guard. No on-screen text is legible in the scene."
+}

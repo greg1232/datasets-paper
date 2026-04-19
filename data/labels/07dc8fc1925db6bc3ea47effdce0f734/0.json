@@ -1,0 +1,15 @@
+{
+  "video_id": "07dc8fc1925db6bc3ea47effdce0f734",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-168.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.235,
+    3.704,
+    6.173,
+    8.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static logo centered on a plain white background. The logo consists of a gold-colored square frame containing the stylized gold letters \"VG,\" with the \"V\" integrated into the left side of the frame. Below this graphic, the words \"VISTA GOLD\" are written in a black, serif, uppercase font. The scene remains entirely stationary and unchanged throughout the clip, with no people, movement, or other objects present. The gold coloring of the emblem and the sharp black text against the white backdrop are consistent across all frames, maintaining a clean and professional visual identity."
+}

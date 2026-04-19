@@ -1,0 +1,15 @@
+{
+  "video_id": "89affb5c525fd2df0cb7857abaa4814b",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-898.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.782,
+    1.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt that reads \"ION NEVER DO SHIT AT WORK\" sits in a studio setting. He is positioned behind a professional black microphone. Behind him, the wall is decorated with numerous framed photographs, and a white mannequin wearing a white garment stands nearby, alongside racks of clothing. In the bottom corners of the scene, there are logos, including one that reads \"BODILY\" in red text. Throughout the sequence, the man is speaking and smiling, with his facial expression shifting slightly as he laughs and looks toward someone off-screen. His posture remains relatively stable, while his mouth and eyes animate as he reacts during the conversation. The background remains static across all frames, focusing the action on the man's expressions."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e6fef0c04b28d74168e7d3c6d4c7b20b",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.409,
+    1.226,
+    2.044,
+    2.861
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A surfer rides inside the tube of a massive, curling blue ocean wave under a cloudy, overcast sky. The surfer, dressed in a dark wetsuit, is positioned deep within the wave's barrel, gliding across the water's surface. Throughout the sequence, the surfer maintains their position relative to the crashing crest of the wave as it foams and breaks behind them. In the final frame, large, stylized white 3D text emerges from the water and curves along the interior of the wave's tube, partially spelling out the word \"tech\". The camera remains stationary, capturing the dynamic movement of the water and the surfer as the text overlays the scene."
+}

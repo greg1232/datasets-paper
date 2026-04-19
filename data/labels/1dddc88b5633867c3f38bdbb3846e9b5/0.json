@@ -1,0 +1,15 @@
+{
+  "video_id": "1dddc88b5633867c3f38bdbb3846e9b5",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.338,
+    1.014,
+    1.689,
+    2.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a blurry, dimly lit outdoor scene at night, likely in a backyard or driveway near a white building. A concrete ledge or step is visible in the background, with a dark object, possibly a plant or piece of equipment, situated to the left. The foreground consists of a dark, textured ground surface, perhaps grass or dirt. Across the sequence, the camera undergoes a slight shift in focus and position. In the initial frames, the focus is softer and centered more on the dark foreground. As the sequence progresses, the view shifts slightly, and the concrete ledge and the white wall of the building in the background become marginally more defined, though the overall image remains significantly out of focus and grainy. No people, text, or logos are visible throughout the clip."
+}

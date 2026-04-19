@@ -1,0 +1,15 @@
+{
+  "video_id": "893041179ab626121ab217e2682db09a",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.334,
+    1.001,
+    1.668,
+    2.336
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a light-colored, long-sleeved button-down shirt is seated at a dark desk. On the desk are various items, including a closed notebook, a laptop, a small grey rectangular device, and a large sheet of white paper. An overlaid graphic on the left side of the screen shows a pair of glasses and the text \"Market Insights\" and \"Tom O'Brien\". To the right of this graphic, larger blue text reads \"TOM'S DAILY MARKET NEWSLETTER\". As the scene progresses, the person's hand moves across the desk toward the white paper. In the final sequence, the text changes, and \"TOM'S DAILY\" disappears, leaving the phrase \"MARKET INSIGHTS\" centered on the page. The background remains a neutral, minimalist office setting, and the camera angle stays consistent as the focus shifts to the text modification on the screen."
+}

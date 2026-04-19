@@ -1,0 +1,15 @@
+{
+  "video_id": "37d478f2cc69958c03e9e4c7dc5cbf9d",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-134.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A medical professional wearing blue gloves is performing a procedure on a person's body in a sterile setting. The professional uses a small metal tool to manipulate a piece of pinkish-red tissue. The area is flanked by blue surgical drapes and white gauze, with a metal retractor holding back skin to expose the surgical site. On-screen graphics include a purple silhouette of a woman's body and circular badges labeled \"Day 5,\" alongside a logo that reads \"Sim Week\" next to a graphic of a small surgical instrument. Across the sequence, the gloved hand moves the tool to gently push and adjust the tissue, shifting the position of the flesh as the procedure progresses. The lighting is focused on the surgical area, highlighting the blood and tissue against the skin."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "adbc47c6d59e28643918f4264ce9495a",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.395,
+    22.185,
+    36.975,
+    51.765
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This educational presentation focuses on the \"Linde \u2013 Hampson System\" as part of a \"CRYOGENIC ENGINEERING\" course. The slides feature a technical schematic of a cooling system with components labeled \"Makeup gas\" and various flow markers, alongside mathematical formulas. The top-left frame introduces the liquid yield formula: $\\frac{\\dot{m}_l}{\\dot{m}} = y = \\frac{h_1 - h_2}{h_1 - h_r}$. As the sequence progresses, a colorful gradient graphic appears within the system's heat exchanger area in the top-right frame. By the bottom-left frame, a new section is added stating, \"As seen earlier, the effectiveness is $\\varepsilon = \\frac{h_1 - h_2}{h_1 - h_g}$\". The final frame concludes the derivation with the text, \"Rearranging the terms, we have $h_1 = \\varepsilon(h_1 - h_g) + h_2$\". A footer consistently attributes the content to \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" and displays an \"NPTEL\" logo."
+}

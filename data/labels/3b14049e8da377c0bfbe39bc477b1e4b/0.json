@@ -1,0 +1,15 @@
+{
+  "video_id": "3b14049e8da377c0bfbe39bc477b1e4b",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.14,
+    0.419,
+    0.698,
+    0.977
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is positioned in the foreground of a scene, moving from an open-palm gesture toward a closed fist. In the background, a man wearing a black shirt is seated at a table featuring a black and orange mat with the \"JASPYS\" logo and \"CASEBREAK\" branding. To the man's left, a red baseball sits on the mat. A vertical screen overlay on the right side of the frames displays a live chat feed with messages from users \"givedog07\" and \"NightOwl.\" One message from \"NightOwl\" reads, \"CSA the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/3zezeXf9\". As the sequence progresses, the hand in the foreground closes, and the man in the background remains relatively still, looking toward the camera."
+}

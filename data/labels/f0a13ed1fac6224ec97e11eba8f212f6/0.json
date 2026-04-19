@@ -1,0 +1,15 @@
+{
+  "video_id": "f0a13ed1fac6224ec97e11eba8f212f6",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-099.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.747,
+    2.24,
+    3.733,
+    5.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head, wearing black headphones and a white t-shirt, is seated in a recording studio against a dark, ribbed sound-dampening wall. He is positioned behind a silver professional microphone mounted on a black boom arm. In the first frame, he looks slightly upward while holding up two fingers, and a teal graphic appears to his right with the text \"PRESS FIT LID\". In the second frame, a white Miir-branded tumbler emerges from the bottom of the teal graphic. In the third frame, the man looks down toward the tumbler, and the text above it changes to \"FOR EASIER SIPPING\". By the final frame, the man looks back toward the camera, and the on-screen text is updated to read \"FOR EASIER SIPPING & SPILL PREVENTION\", while the Miir tumbler remains visible within the teal box."
+}

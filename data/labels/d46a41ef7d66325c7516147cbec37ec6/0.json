@@ -1,0 +1,15 @@
+{
+  "video_id": "d46a41ef7d66325c7516147cbec37ec6",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-132.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.256,
+    0.427,
+    0.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static purple background featuring three sets of sports-related statistics presented in a row. Each statistic consists of a three-letter abbreviation, a numerical value, and a progress bar beneath it. From left to right, the categories are \"PRC\" with a value of \"88\", \"BSH\" with a value of \"90\", and \"PMV\" with a value of \"72\". The progress bars for \"PRC\" and \"BSH\" are predominantly green, while the bar for \"PMV\" is white. As the video progresses, the visual elements remain largely identical across the frames, though the bar for \"PMV\" undergoes a slight change, with a small yellow section appearing at the far left of the white bar. There are no people, clothing, or physical equipment visible, only the on-screen text and graphical bars against the dark purple backdrop."
+}

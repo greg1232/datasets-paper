@@ -1,0 +1,15 @@
+{
+  "video_id": "814cc11ac6d22556f0abdde29f3cabc1",
+  "url": "./data/segments/3L_uHTClWfk-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.738,
+    2.213,
+    3.688,
+    5.163
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and a beard, wearing a light blue button-down shirt, appears in a picture-in-picture overlay against a backdrop of the White House and a clear sky. Beside him, Joe Biden is shown wearing a dark suit, white shirt, and a blue and white striped tie. Biden is speaking, and a small lapel microphone is clipped to his tie. In the background, the white pillars of the White House are visible under a blue sky with scattered white clouds, and an American flag flies atop the building. The man in the light blue shirt looks toward the camera, gesturing with his hand near his chest. Throughout the sequence, the visual composition remains static, with the two men appearing in their respective positions as Biden continues to speak and the man in the blue shirt maintains his expression."
+}

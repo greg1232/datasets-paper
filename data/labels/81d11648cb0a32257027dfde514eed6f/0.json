@@ -1,0 +1,15 @@
+{
+  "video_id": "81d11648cb0a32257027dfde514eed6f",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-872.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.485,
+    1.455,
+    2.424,
+    3.394
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt sits in a room filled with framed photographs and clothing racks. His shirt features the text \"ION NEVER DO SHIT AT WORK\" in a stylized, distressed white font. He is positioned in front of a professional black microphone. In the background, a white mannequin stands beside several racks of colorful clothing. The scene contains two logos: a circular emblem on the left containing the text \"R\" and a red logo on the right that reads \"RODLY TOT\". Across the sequence, the man is speaking, his mouth opening and closing as he talks. He shifts his gaze, looking forward in the initial moments and then glancing slightly to his right. The background and equipment remain stationary as the man's facial expressions change while he speaks into the microphone."
+}

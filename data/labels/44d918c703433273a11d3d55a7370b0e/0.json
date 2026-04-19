@@ -1,0 +1,15 @@
+{
+  "video_id": "44d918c703433273a11d3d55a7370b0e",
+  "url": "./data/segments/3iUTkJy84EY-Scene-165.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.45,
+    1.35,
+    2.25,
+    3.15
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is speaking in front of a plain black background. She is wearing a light green tunic with red and white embroidery around the neckline and a dark beaded necklace. A small clip-on microphone is attached to the center of her neckline. As she speaks, she gestures with her hands, moving them up and outward from her chest. In the bottom left corner of each frame, there is a small logo consisting of a circular symbol and the text \"NPTEL\". The woman's facial expressions and hand positions shift slightly as she continues her explanation, but the setting and her clothing remain constant throughout the sequence."
+}

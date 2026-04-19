@@ -1,0 +1,15 @@
+{
+  "video_id": "9f8107ad154d56b1b938142d370e1469",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-113.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.425,
+    7.275,
+    12.125,
+    16.975
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a static visual composition against a dark blue background featuring faded silhouettes of people in a crowd. Centered in the foreground are two identical layouts appearing twice. Each layout contains the official logo of Real Madrid, which consists of a blue circular emblem with a gold crown on top and stylized letters in the center. Below each logo is a small white rectangular button featuring a red and white play icon and the text \"Subscribe\". To the right of each logo, the phrase \"WATCH MORE\" is written in white, uppercase sans-serif lettering. Across all frames, there is no movement, change in lighting, or shift in position; the logos, text, and background remain completely frozen, maintaining a consistent graphic overlay throughout the sequence."
+}

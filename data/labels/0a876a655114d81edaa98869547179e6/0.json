@@ -1,0 +1,15 @@
+{
+  "video_id": "0a876a655114d81edaa98869547179e6",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-094.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.255,
+    3.766,
+    6.277,
+    8.788
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A high-security metal vault door, featuring a complex locking mechanism with spokes and bolts, is set into a grey paneled wall. The scene begins with the door closed and stationary. As the sequence progresses, the heavy door begins to swing open, pivoting from left to right to reveal the interior of the vault. Inside, the room is illuminated by bright, rectangular ceiling lights and contains numerous shelves and low platforms stacked with gold bars. In the background, a large banner is visible against the wall, displaying the text \"THE GOLD REPORT\" alongside an image of gold coins. There are no people present in the scenes."
+}

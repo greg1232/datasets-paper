@@ -1,0 +1,15 @@
+{
+  "video_id": "26849c5b498b6e76f236ca6aec7a5270",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-909.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dark, atmospheric scene unfolds against a black background featuring subtle, diagonal geometric patterns and a red horizontal light flare at the bottom. Centered in the upper half of the screen, the text \"BOSS TALK 101\" appears in a bold, white, sans-serif font, with the word \"PODCAST\" positioned smaller underneath in red. As the sequence progresses, the text undergoes a glitch effect, shifting from a clear, stable appearance to a distorted state where the letters are fragmented by horizontal lines and offset displacements. The red light flare at the bottom remains present, though its intensity and position shift slightly. By the end of the sequence, the text is heavily blurred and distorted, blending into the dark background as the glitch effect intensifies."
+}

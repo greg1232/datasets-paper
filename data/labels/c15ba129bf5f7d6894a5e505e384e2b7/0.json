@@ -1,0 +1,15 @@
+{
+  "video_id": "c15ba129bf5f7d6894a5e505e384e2b7",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.192,
+    0.575,
+    0.958,
+    1.342
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "On an airport tarmac, a large white airplane with red and blue stripes along its fuselage is parked beside a set of mobile stairs draped in a red carpet. A man in a dark suit and tie walks across the carpet toward the aircraft, while several other men in suits are positioned nearby, some walking and others standing. A man in a dark pilot's uniform with gold stripes on his sleeves stands at the base of the stairs, facing the approaching group. In the upper right corner of each frame, a red and white logo featuring the number \"13\" is visible. As the sequence progresses, the man in the suit moves closer to the stairs, eventually reaching the pilot and beginning to ascend the carpeted steps, while the surrounding personnel shift their positions on the tarmac."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "77a82d7d8d5d2e6b27dccf5f26f16ff2",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-088.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.73,
+    2.19,
+    3.649,
+    5.109
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a close-up shot of the interior of a tan-colored vehicle, showing a wooden panel and a recessed plastic compartment. The scene then shifts to an outdoor grassy area where the shadow of a person is cast onto the ground. The camera then moves to a lower angle, showing a patch of grass and a concrete driveway where the front tire and side panel of a light-colored car are visible. Finally, the view transitions to the open engine bay of a dark-colored vehicle, showing a headlight and various engine components. Throughout the sequence, the camera moves between different perspectives of a vehicle and its surroundings, transitioning from the interior to the exterior environment and then into the mechanical details of the car's engine."
+}

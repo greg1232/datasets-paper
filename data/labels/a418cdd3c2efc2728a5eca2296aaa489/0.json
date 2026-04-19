@@ -1,0 +1,15 @@
+{
+  "video_id": "a418cdd3c2efc2728a5eca2296aaa489",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.181,
+    0.544,
+    0.906,
+    1.269
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair, wearing a dark navy blue t-shirt, is visible in a small picture-in-picture window in the lower-left corner of a video game screen. He is speaking and gesturing with his right hand, set against a background that includes a Christmas tree and a gaming headset. The main screen displays a \"LINEUP\" menu from a sports video game, featuring a grid of player cards for a defensive squad. The top navigation bar contains tabs for \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS.\" Numerical values are visible in the upper right, including \"173,037,\" \"14,669,\" and \"2,343,543.\" At the bottom of the screen, options like \"BEST LINEUP,\" \"HELP,\" and \"BACK\" are listed. Across the sequence of frames, the man continues to talk and gesture while the game menu remains static."
+}

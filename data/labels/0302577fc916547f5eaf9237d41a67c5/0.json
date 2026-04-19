@@ -1,0 +1,15 @@
+{
+  "video_id": "0302577fc916547f5eaf9237d41a67c5",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.346,
+    1.038,
+    1.729,
+    2.421
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair wearing a dark navy blue t-shirt and white over-ear headphones is positioned in the lower-left corner of a digital interface. He is speaking and gesturing with his hands, appearing in a small video window. The main background consists of a video game menu for a sports team management simulation, featuring various player cards with statistics and names. Legible text at the top of the screen includes \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS.\" Player cards display names such as \"PARSONS,\" \"POLAMALU,\" and \"HAMILTON,\" alongside positions like \"ROLB 1,\" \"MLB 1,\" and \"SS 1.\" As the sequence progresses, the man continues to talk and move his hands while the interface remains largely static, though some highlighting on the player cards shifts slightly. A decorated Christmas tree is partially visible in the background of the man's video feed."
+}

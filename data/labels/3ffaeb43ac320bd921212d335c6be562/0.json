@@ -1,0 +1,15 @@
+{
+  "video_id": "3ffaeb43ac320bd921212d335c6be562",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-155.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.781,
+    2.344,
+    3.906,
+    5.469
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a stack of cards and yellow sticky notes on a surface decorated with a tropical palm tree pattern. In the top-left frame, a hand holds a yellow sticky note near a white card box. By the top-right frame, the hand places the sticky note on top of the box. In the bottom-left frame, the person holds the yellow note while gripping a card. Finally, in the bottom-right frame, the person reveals a sports card from behind the sticky note. Throughout the sequence, an inset video window in the bottom right shows a man with a beard wearing a black t-shirt sitting in a room with shelves of collectibles. On-screen graphics include the logo \"JASPYS\" and the website \"CASEBREAKS.COM\" appearing in the upper center and right areas of the frames."
+}

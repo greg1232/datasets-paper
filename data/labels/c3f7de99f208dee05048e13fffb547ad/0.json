@@ -1,0 +1,15 @@
+{
+  "video_id": "c3f7de99f208dee05048e13fffb547ad",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-402.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.235,
+    3.704,
+    6.173,
+    8.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a gray t-shirt, a gray baseball cap with a logo, and large black headphones is positioned in front of a professional microphone in a recording studio with dark, ribbed acoustic foam walls. The microphone is mounted on a boom arm and features a silver pop filter; the arm is labeled with the brand \"Blue\". In the first frame, the man is stationary, looking slightly downward toward the microphone. As the sequence progresses, he becomes more animated, raising his right arm and gesturing with his hand. By the final frame, he is actively speaking and gesturing with both hands, extending his arms outward to emphasize his points. He has a tattoo visible on his right upper arm. The setting remains constant throughout the clip, with the focus entirely on the man's upper body and his expressive hand movements while recording."
+}

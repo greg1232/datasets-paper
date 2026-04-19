@@ -1,0 +1,15 @@
+{
+  "video_id": "f9ed87a82f7420a960305f29fba877f4",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-088.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person handles a sports trading card encased in a clear plastic protector. The setting is a room with a desk covered by a red and black playmat featuring the word \"JASPYS\" in large orange letters. On-screen text includes the logo \"JASPYS\" and the website \"CASEBREAKS.COM\". In a small picture-in-picture window, a man wearing a black shirt is visible sitting at a computer desk. As the sequence progresses, the person's hands move the protected card, transitioning from a close-up of the plastic case to a clear view of the card inside, which features a blue and gold design with a signature. The background remains consistent, showing stacks of additional protected cards on the mat. The action focuses on the physical movement and presentation of the individual card to the camera."
+}

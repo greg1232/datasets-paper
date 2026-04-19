@@ -1,0 +1,15 @@
+{
+  "video_id": "bcc54c4a416fa9bc62eca0b3af0dee23",
+  "url": "./data/segments/3i5-ZukC--g-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.834,
+    14.502,
+    24.17,
+    33.838
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a live stream with a layout featuring a central browser window, a chat feed on the left, and a webcam feed in the lower right. The browser displays a Statista bar chart titled \"Percentage of COVID-19 cases in the United States from February 12 to March 16, 2020 resulting in death, by age group\". The webcam shows a man with glasses and a headset sitting in a room with a blue-lit background. At the bottom of the screen, a persistent red banner reads \"Youtube.com/c/NormalAmericawithRobNoerr\". As the video progresses, the chat feed on the left scrolls upward, showing various messages from users. The browser window remains static, showing the same data visualization across all frames. The man in the webcam feed remains in a similar seated position, though his facial expression and posture shift slightly as he interacts with the stream."
+}

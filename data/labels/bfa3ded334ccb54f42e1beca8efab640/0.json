@@ -1,0 +1,15 @@
+{
+  "video_id": "bfa3ded334ccb54f42e1beca8efab640",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-153.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.693,
+    2.078,
+    3.464,
+    4.849
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is centered within a small, rounded rectangular frame against a black background. He is wearing a dark, patterned garment with light-colored accents on the shoulders and sleeves. He stands in an indoor setting with neutral-toned walls, looking directly toward the camera with a slight smile. His arms are crossed in front of him, and he remains stationary throughout the sequence. In the lower-left and center areas of the overall image, the text \"Seyi Adebola\" appears in a white, sans-serif font. Across the progression of the frames, there is virtually no movement from the man or the camera, and the lighting and composition remain consistent, creating a static visual effect."
+}

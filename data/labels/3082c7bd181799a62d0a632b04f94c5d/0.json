@@ -1,0 +1,15 @@
+{
+  "video_id": "3082c7bd181799a62d0a632b04f94c5d",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.375,
+    4.125,
+    6.875,
+    9.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people perform a choreographed martial arts routine on a raised blue stage inside a large, brightly lit ballroom. The room features recessed ceiling lighting, large chandeliers, and an audience seated at tables in the background. In the initial sequence, several practitioners are spread across the stage; one man wears a blue uniform, others wear white, and one is dressed in black. They move through various stances and striking motions. As the sequence progresses, the practitioners transition their movements in unison. The man in the blue uniform and the person in black execute dynamic jumps and kicks, while those in white follow with coordinated strikes. By the final moments, the performers are captured mid-air or in deep lunges, demonstrating a synchronized display of athleticism and form against the backdrop of the formal event space."
+}

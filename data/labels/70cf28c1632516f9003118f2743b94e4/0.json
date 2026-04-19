@@ -1,0 +1,15 @@
+{
+  "video_id": "70cf28c1632516f9003118f2743b94e4",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.914,
+    5.743,
+    9.572,
+    13.401
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short brown hair, wearing a black blazer over a white top and blue jeans, stands before a projection screen in a dimly lit room. She is giving a presentation, gesturing with her hands and holding a small notebook or tablet. A man wearing a green beanie is seen from the back, listening to the presentation. The projection screen displays a slide with the headline \"Data is the new oil.\" and a paragraph of smaller text below it. The slide also features several icons, including a wireless tower and a building. To the right of the presenter is a black mesh office chair. As the scene progresses, the woman continues to speak and gesture, shifting her posture slightly while the man remains still in the foreground. The on-screen content remains static across the sequence."
+}

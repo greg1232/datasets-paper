@@ -1,0 +1,15 @@
+{
+  "video_id": "4c18b220f9579a7ac75ceab54f710dec",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.6,
+    1.0,
+    1.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a black t-shirt, appears in a small picture-in-picture window at the bottom of a digital layout. He is positioned in front of a gray wall and remains relatively still, looking toward the camera. The rest of the screen is dominated by a spreadsheet and promotional graphics. A large logo for \"JASPYS CASEBREAKS.COM\" is visible at the top of several sections. A list of names and regions is displayed, including \"BRIAN FRANK PACIFIC,\" \"BRIAN FRANK ATLANTIC,\" \"BRIAN FRANK* CENTRAL,\" \"BRIAN FRANK SOUTHWEST,\" \"Kennard Bolt NORTHWEST,\" and \"Kyle Barber SOUTHEAST.\" At the bottom of the layout, a red bar contains the text \"Hit the SUBSCRIBE button down below!\" next to a \"Subscribe\" button. The background shows a Google Sheets interface with the title \"Tue, 35/22 - 2020-21 Panini Obsidian Basketball FOTL 1st off the Line L...\". The scene remains virtually static across the sequence."
+}

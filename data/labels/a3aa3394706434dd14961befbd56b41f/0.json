@@ -1,0 +1,15 @@
+{
+  "video_id": "a3aa3394706434dd14961befbd56b41f",
+  "url": "./data/segments/3a0FD1177FA-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.131,
+    3.394,
+    5.657,
+    7.919
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is crafting a birthday card on a white gridded work surface. They wear a white watch on their left wrist and use their hands to manipulate a small, circular white cutout with text that reads, \"Wishing you a BIRTHDAY filled with ALL THE best things\". In the initial sequence, the person holds the cutout above a card featuring a green and yellow floral pattern and a brown strip. They carefully position the circular piece onto the card. As the sequence progresses, the person uses their fingers to press the cutout firmly into place on the brown section of the card. Surrounding the project are various crafting tools, including a black ink pad, red stamps in clear blocks, and white cardstock pieces. A watermark reading \"Amazing Jill\" is visible in the bottom left corner of each scene."
+}

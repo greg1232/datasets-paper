@@ -1,0 +1,15 @@
+{
+  "video_id": "01523830e534c5d29d58297a1d98235d",
+  "url": "./data/segments/3fokLGPK15Q-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.72,
+    5.16,
+    8.6,
+    12.04
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a dimly lit studio setting with purple accent lights, a man and a woman are seated in wooden chairs facing each other. The man, on the left, has dark curly hair and a beard, wearing a white long-sleeved button-down shirt. The woman, on the right, has blonde hair tied back and is wearing a black t-shirt with white text that reads \"S IN YOUR\". Between them and slightly in front of the man sits a white, rectangular electronic device. Throughout the sequence, the man remains relatively still, looking toward the woman. The woman is actively speaking and gesturing with her hands; she starts with her hand near her chest, then brings both hands together in front of her. Her facial expressions shift from a smile to a more serious, focused look as the conversation progresses."
+}

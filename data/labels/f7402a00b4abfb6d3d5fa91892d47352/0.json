@@ -1,0 +1,15 @@
+{
+  "video_id": "f7402a00b4abfb6d3d5fa91892d47352",
+  "url": "./data/segments/3l84m5pRmyk-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.513,
+    1.539,
+    2.565,
+    3.591
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a panoramic cityscape transitioning to a low-angle view of palm trees. Initially, the scene overlooks a dense urban area with a mix of modern white high-rises, mid-rise residential complexes, and parking lots filled with cars, all set against a backdrop of distant rolling hills under a clear blue sky. The perspective then shifts abruptly to a ground-level view looking upward at several tall palm trees with slender trunks and green fronds. These trees are set against a pale blue sky with scattered white clouds. A tan building with architectural detailing and a yellow-walled structure are visible at the bottom of the frame. There are no people, text, or logos visible in any of the shots. The scene changes from a wide, high-altitude urban landscape to a focused, low-angle shot of tropical vegetation and city architecture."
+}

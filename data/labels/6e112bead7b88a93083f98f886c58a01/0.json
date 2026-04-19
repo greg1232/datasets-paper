@@ -1,0 +1,15 @@
+{
+  "video_id": "6e112bead7b88a93083f98f886c58a01",
+  "url": "./data/segments/3QD9oO6sRns-Scene-152.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.56,
+    1.681,
+    2.802,
+    3.923
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt and a white baseball cap is streaming a video from a desk setting. The desk is covered with a black mat featuring a large orange and white logo that reads \"JASPYS CASEBREAKS\". In the background, a white backdrop displays the same logo and the text \"CASEBREAKS.COM\", along with \"Sports Cards & Collectibles\" and \"HERMOSA BEACH\". A small red object and a white piece of paper are also on the table. Throughout the clip, the man appears in a small picture-in-picture overlay in the lower right, while the main view focuses on the tabletop. He reaches into the frame to interact with a rectangular box of sports cards. Initially, the box sits stationary on the mat, but as the sequence progresses, his hand enters the frame, grips the box, and begins to slide it across the surface toward the right side of the screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "08dca9405188e0fd6d1fe1b88ae227ea",
+  "url": "./data/segments/3Ma0wGTm5QQ-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.625,
+    1.875,
+    3.125,
+    4.375
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands against a plain light blue background, positioned to the right of a large digital display screen. He wears a red t-shirt featuring the logo \"Learning in Hand with TONY VINCENT.\" To his left, the screen displays a web-based interface titled \"Interactive Story,\" showing \"Section 1 of 11\" and text stating, \"This template follows the format found in Tony Vincent's story planner. http://tony.me/storyplan\" and \"Read a completed story: http://tony.me/hairstory.\" The interface includes an \"Introduction\" section with \"Introduction text\" and a \"Question\" section with options for \"Choice 1A\" and \"Choice 2A.\" As the sequence progresses, the man\u2019s facial expression shifts and he gestures with his hands while speaking. In the final scene, he is seen mid-speech with his mouth open and hands raised in an explanatory gesture, while the digital screen remains static."
+}

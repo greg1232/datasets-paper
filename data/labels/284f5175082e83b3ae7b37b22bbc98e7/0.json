@@ -1,0 +1,15 @@
+{
+  "video_id": "284f5175082e83b3ae7b37b22bbc98e7",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-215.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.708,
+    0.992
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video gamer is shown in a small picture-in-picture window in the bottom left, wearing a black shirt and sitting in front of a decorated Christmas tree and a computer monitor. The main screen displays a menu for a player named \"SOM HILL\" in a sports video game, featuring a purple background and a digital image of an American football player. Initially, the screen shows an empty \"ABILITY SLOT\" with a large plus sign and the instruction \"Select to add a new Ability to this player.\" As the clip progresses, the menu transitions to show a specific ability called \"TE APPRENTICE,\" which costs \"200\" units. This ability is accompanied by an icon of an open book and the description \"Four additional hot routes when lined up at TE.\" The top of the screen displays numerical values including \"173,029,\" \"0,\" \"14,600,\" and \"1,769,344.\""
+}

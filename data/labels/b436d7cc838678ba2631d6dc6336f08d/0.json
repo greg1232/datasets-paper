@@ -1,0 +1,15 @@
+{
+  "video_id": "b436d7cc838678ba2631d6dc6336f08d",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.85,
+    8.55,
+    14.25,
+    19.95
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair tied up in a bun stands behind a podium in front of a plain white wall. She is wearing a dark blazer over a reddish-pink top. A water bottle sits on the podium to her left. In the top left corner of each frame, the logo \"mediasite by concordia\" is visible. Throughout the sequence, the woman is speaking, and her facial expressions and hand gestures shift. Initially, she looks down and gestures with her right hand. As the sequence progresses, she looks forward toward the camera, gesturing with both hands before bringing them together in front of her. The background and her attire remain constant throughout the clip, with only her movements and expressions changing as she speaks."
+}

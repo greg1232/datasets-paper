@@ -1,0 +1,15 @@
+{
+  "video_id": "6ad7230d032d427dbe4afe2d34c7cd56",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-191.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a graded sports card in a protective plastic case, displaying it toward the camera. The setting features a themed background with teal palm trees and an orange sun. In the upper corners, the logo \"JASPYS CASEBREAKS.COM\" is visible. An inset window reveals a man with a beard wearing a navy blue shirt with a small yellow logo on the chest, sitting at a desk with computer equipment in a room. As the sequence progresses, the person moves the card, rotating it to show different angles and the authentication label. The card is then placed down onto a white rectangular stand. The man in the inset remains seated and observes the process. The \"JASPYS\" branding appears both in the main frame and within the inset window as \"JASPYS Sports Card Breaks.\""
+}

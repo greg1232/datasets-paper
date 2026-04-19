@@ -1,0 +1,15 @@
+{
+  "video_id": "2011650de3214820a93079ac4a3e67ea",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.17,
+    0.51,
+    0.85,
+    1.19
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a video call interface featuring a man in a black baseball cap and dark clothing in a small window at the top right. The main area displays a conceptual map with various colorful icons connected by blue lines. Several text boxes are visible, including one containing the phrase \"Simple\" and another listing \"More Complex\" and \"Complex.\" Various nodes are labeled with text such as \"Individual,\" \"Community,\" \"Ecosystem,\" and \"Global.\" In the browser tabs at the top, text such as \"True & Learning by Systems,\" \"Future of Society by Systems,\" and \"Insights Introduction | Kumu\" is visible. Between the frames, the conceptual map is modified; a new red icon is added to the left side, and an additional blue connection line is drawn between existing nodes. The man in the video window remains relatively stationary, while the digital map evolves."
+}

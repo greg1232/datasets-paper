@@ -1,0 +1,15 @@
+{
+  "video_id": "4a1551129e58a9f5a123cc87294c1c33",
+  "url": "./data/segments/3Sq594WkayE-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.078,
+    0.234,
+    0.391,
+    0.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of monochromatic frames shows a blurred view of tree branches and foliage against a light sky. The imagery is distorted by numerous water droplets clinging to a surface, likely a windowpane, which create circular refractive distortions across the scene. The dark, skeletal silhouettes of branches extend upward and outward, interspersed with clusters of leaves. As the sequence progresses, there is very little movement in the scene, though the subtle shifting of light and the slight movement of the foliage suggest a gentle breeze. The focus remains soft throughout, emphasizing the texture of the raindrops and the organic patterns of the trees in the background. No people, text, or man-made objects are visible."
+}

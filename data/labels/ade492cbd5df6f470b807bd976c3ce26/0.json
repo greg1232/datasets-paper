@@ -1,0 +1,15 @@
+{
+  "video_id": "ade492cbd5df6f470b807bd976c3ce26",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    53.111,
+    159.334,
+    265.557,
+    371.78
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A meeting takes place in an office or courtroom setting featuring wooden shelving filled with books and desk supplies. A man in a dark suit and glasses is seated in the foreground, facing right. Behind him, a woman in a white cardigan and a man in a dark suit and tie stand and observe. On-screen text includes the \"ORCA\" logo and the text \"April 12, 2019 House Committee on General, Housing, and Military Affairs S.23 Increasing the Minimum Wage\" appearing on a white and green banner. Across the sequence, the man in the foreground shifts his position, occasionally touching his face or leaning forward. The man in the background remains relatively still, while the woman maintains a neutral expression. Objects on the shelves include a small orange fruit and a green mug. The lighting remains consistent, and the camera angle remains static as the people subtly shift their posture."
+}

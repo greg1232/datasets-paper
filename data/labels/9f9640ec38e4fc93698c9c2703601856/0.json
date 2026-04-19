@@ -1,0 +1,15 @@
+{
+  "video_id": "9f9640ec38e4fc93698c9c2703601856",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.45,
+    4.35,
+    7.25,
+    10.15
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen interacting with stacked boxes on a table decorated with palm tree graphics. The table is positioned in front of a desk where a man wearing a dark t-shirt with a yellow logo sits. On-screen text and logos include \"JASPYS\" and \"CASEBREAKS.COM\". In the beginning, the hands hover near a stack of boxes consisting of a small yellow box on top of two larger grey boxes. As the sequence progresses, the hands grasp the yellow box and lift it away from the grey base. By the end, the person is holding the yellow box open, revealing its interior. In the background, a computer monitor and other equipment are visible on the desk behind the man."
+}

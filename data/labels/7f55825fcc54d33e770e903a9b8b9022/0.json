@@ -1,0 +1,15 @@
+{
+  "video_id": "7f55825fcc54d33e770e903a9b8b9022",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men are seated side-by-side in a room, positioned in front of a television screen. The man on the left wears a dark green t-shirt, while the man on the right wears a grey t-shirt and a necklace with a pendant. Behind them is a shelving unit filled with media cases and a television displaying the text \"OUR STUPID REACTIONS\" in bright orange letters. A smaller video window is overlaid on the screen, showing three people in a dimly lit setting with the caption \"My life doesn't hold more value than my people.\" The men remain relatively still throughout the sequence, both looking toward the screen with neutral or slightly thoughtful expressions. The man on the right has his hand near his mouth. The scene remains static across the frames, with only minor shifts in the men's facial expressions and postures."
+}

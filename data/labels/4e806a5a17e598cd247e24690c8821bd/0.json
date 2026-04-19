@@ -1,0 +1,15 @@
+{
+  "video_id": "4e806a5a17e598cd247e24690c8821bd",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-216.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.708,
+    0.992
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A gamer is playing a sports video game, featuring a player named \"TAYSOM HILL.\" In a small picture-in-picture window, a man with short blonde hair wearing a black shirt is visible in a room with a decorated Christmas tree behind him. The game interface displays a screen for \"TE APPRENTICE,\" showing a cost of \"200\" and describing \"Four additional hot routes when lined up at TE.\" A pop-up box asks, \"You don't own this Ability. Do you want to craft it for 200 Training?\" with a \"Craft Ability\" button. After the user interacts with the menu, the interface shifts to \"EQUIP ABILITY,\" and a new prompt asks, \"You own this Ability. Do you want to equip it?\" with an \"Equip Ability\" option. The man's facial expression changes from a neutral look to an excited, open-mouthed expression as the ability is acquired and equipped."
+}

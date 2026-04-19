@@ -1,0 +1,15 @@
+{
+  "video_id": "df7a5a8154e1321c7f9a7d527433c29b",
+  "url": "./data/segments/3Z229_lKLpk-Scene-211.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.335,
+    13.005,
+    21.675,
+    30.345
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard and glasses, wearing a light-colored Nehru jacket over a beige shirt, stands behind a podium delivering a speech. He is positioned in front of a textured, dark green marbled wall with geometric patterns. Two microphones are mounted on the podium in front of him. In the initial sequence, he gestures with his right hand, raising his index finger to make a point and then opening his hand slightly. As the sequence progresses, he lowers his arm and shifts his gaze slightly, eventually looking toward his left while maintaining a steady posture behind the lectern. The background remains constant, featuring vertical golden pillars accented with small red floral arrangements. No on-screen text or logos are visible."
+}

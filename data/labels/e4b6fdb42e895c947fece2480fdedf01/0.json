@@ -1,0 +1,15 @@
+{
+  "video_id": "e4b6fdb42e895c947fece2480fdedf01",
+  "url": "./data/segments/3Z229_lKLpk-Scene-128.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.825,
+    1.375,
+    1.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A high-angle, wide-shot video captures a large, formal indoor assembly within a grand hall featuring tall ceilings and illuminated rectangular windows. A vast number of people are seated in organized, tiered rows that curve around the space. Many of the attendees are wearing white clothing, while others are dressed in dark suits. The crowd remains largely stationary across the frames, seated and facing forward toward a central area not fully visible. The architecture is characterized by vertical columns and a series of overhead lights that create a bright, symmetrical atmosphere. There is no visible on-screen text or logos. Between the frames, there is very little movement; the scene remains static as the camera maintains a consistent wide perspective over the gathered assembly, capturing a moment of quiet observation or listening."
+}

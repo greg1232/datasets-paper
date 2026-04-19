@@ -1,0 +1,15 @@
+{
+  "video_id": "4ea88114c5130294b1604588c4f9ac4a",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-110.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.901,
+    1.502,
+    2.102
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair is seen from behind, her hands clasped, facing another woman in a professional setting. The second woman, facing the camera, has blonde-highlighted hair and wears a blue medical scrub top and a light blue surgical mask. They are seated at a light-colored wooden table in a room with neutral-toned walls, with a framed certificate visible in the background. To the right, the arm of another person is partially visible. A purple logo of a stylized person accompanies the on-screen text \"Day 4\" in the bottom left and \"Sim Week\" next to a small building icon in the bottom right. Throughout the sequence, the woman in scrubs remains seated and attentive, while the woman in the foreground stays relatively still, maintaining their face-to-face interaction across the scene."
+}

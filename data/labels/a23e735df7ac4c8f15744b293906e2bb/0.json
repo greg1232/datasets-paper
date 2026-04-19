@@ -1,0 +1,15 @@
+{
+  "video_id": "a23e735df7ac4c8f15744b293906e2bb",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-091.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.08,
+    0.24,
+    0.4,
+    0.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a dark blue vest over a light-colored shirt, speaks into a cluster of microphones in a crowded indoor setting. He is surrounded by other people, including several women, and several microphones with logos such as \"ANI\" are positioned in front of him. The scene is framed by a news broadcast overlay from \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" with a red and yellow \"BREAKING NEWS\" banner at the bottom. On-screen text includes labels like \"\u0921\u093f\u092a\u094d\u091f\u0940 CM,\" \"\u092e\u0902\u0924\u094d\u0930\u0940,\" and names such as \"\u0938\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940,\" \"\u0935\u093f\u091c\u092f \u0938\u093f\u0902\u0926\u093e,\" \"\u0935\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935,\" and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930.\" As the sequence progresses, a news ticker appears at the top, displaying the text \"2024 \u092e\u0947\u0902\" in the first few moments, which evolves into \"2024 \u092e\u0947\u0902 JDU \u0915\u0947\" and finally \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 \u0930\u0939\u0947.\" A timestamp in the bottom right corner consistently reads \"10:05 PM\" next to the \"MAHARASHTRA\" label."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "49a64f527a9a35e84b92f5bc50beb820",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.442,
+    1.326,
+    2.211,
+    3.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A handheld flashlight illuminates a patch of dark, earthy ground covered in dry leaves, small twigs, and sparse green foliage. The light is focused on a bright, central point on the soil, creating a high-contrast circle of visibility against the surrounding darkness. As the perspective shifts, the light source moves across the terrain, revealing different areas of the forest floor. A dark, silhouetted shape, likely a hand or part of the person holding the light, is visible on the right edge of the scene. The ground consists of light-colored soil mixed with organic debris, and the movement of the beam highlights the uneven texture of the earth and the scattered greenery. There are no people visible other than the silhouette, and no text or logos appear in the scene."
+}

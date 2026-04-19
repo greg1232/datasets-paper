@@ -1,0 +1,15 @@
+{
+  "video_id": "6ceb189908350ab50868e4159e6602f1",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.169,
+    6.507,
+    10.844,
+    15.182
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a sequence of four nearly identical frames showing a dark, monochromatic gradient background. The scene consists of a deep charcoal grey space with subtle, soft-edged lighting effects that create lighter, blurred patches in the corners and a darker vertical band running down the center. There are no people, objects, equipment, or text visible in any of the frames. The lighting remains static and unchanging across the sequence, with no discernible movement or shifts in color, value, or composition. The overall effect is a still, minimalist void of muted grey tones."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "33d4a3fc75ba53962019d0b076639e57",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-469.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.077,
+    0.231,
+    0.385,
+    0.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair, wearing a dark t-shirt and white over-ear headphones, appears in a small picture-in-picture window in the lower-left corner of the scene. He is expressive, with his mouth open and arms raised in an excited gesture. The main background is a stylized, dark digital environment featuring glowing neon green and blue horizontal lines. A large, 3D rectangular object resembling a computer component or a stylized battery stands prominently in the center. This object is dark gray with neon green accents and features a large, white, stylized logo that reads \"U1\". As the sequence progresses, the man continues his animated expression and arm movements within his window, while the central \"U1\" object and the glowing digital background remain stationary."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0c6ea319d0e591f05039ff657bbee8ab",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.196,
+    0.588,
+    0.98,
+    1.372
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Against a plain dark gray background, a person's hands, wearing a grey long-sleeved garment and a black wristwatch with a gold clasp, manipulate several twenty-dollar bills. In the beginning, the left hand holds a small stack of bills while the right hand holds another, with the two sets of currency separated. As the sequence progresses, the hands bring the two stacks of money together, overlapping them in the center. Finally, the hands begin to pull the stacks apart again, moving them away from each other toward the edges of the frame. The person has dark-colored nail polish. In the top right corner of each frame, there is a gold-outlined square logo containing the white letters \"VG\"."
+}

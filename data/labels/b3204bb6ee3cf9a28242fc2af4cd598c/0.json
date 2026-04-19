@@ -1,0 +1,15 @@
+{
+  "video_id": "b3204bb6ee3cf9a28242fc2af4cd598c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-180.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.087,
+    0.262,
+    0.438,
+    0.612
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair wearing a dark navy blue t-shirt and white headphones is positioned in a small picture-in-picture window on the left side of a larger screen. He is sitting in a room with a decorated Christmas tree and a computer monitor visible in the background. He appears to be reacting with an open-mouthed expression. The main background is a dark red and black gradient design. Across the screen, the phrase \"ULTIMATE TEAM\" is repeated in faint, stylized text. There are four distinct white rectangular input fields, each topped with the label \"ITEM NAME\" in white uppercase letters. Two fields are located in the upper half of the screen and two in the lower half. Across all frames, the man's expression and the layout of the interface remain constant, showing no visible changes in action or on-screen content."
+}

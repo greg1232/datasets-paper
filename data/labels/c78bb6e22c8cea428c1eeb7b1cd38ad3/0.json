@@ -1,0 +1,15 @@
+{
+  "video_id": "c78bb6e22c8cea428c1eeb7b1cd38ad3",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-113.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.371,
+    7.113,
+    11.854,
+    16.596
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a small yellow box atop a white base, set against a colorful tabletop featuring palm tree graphics. In the background, a man wearing a dark blue t-shirt is visible within a small picture-in-picture window, sitting in a room with various items on shelves. On-screen text reads \"JASPYS LIVE\" and \"CASEBREAKS.COM\". Across the sequence, the person's right hand first reaches toward the yellow box, then grasps and lifts it. By the end of the sequence, the hand has pulled the yellow box away from the white base, revealing a dark interior. The man in the small window remains in his seat throughout the action."
+}

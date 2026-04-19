@@ -1,0 +1,15 @@
+{
+  "video_id": "118363e67e2bbd257e454f446c9ac054",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-264.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.202,
+    0.606,
+    1.01,
+    1.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is playing a football video game, with the screen displaying a tactical \"SELECT A PLAY\" menu overlaid on a stadium background. The top of the screen features the text \"MMG\" and a notification stating \"HOLD THE LINE ENABLED! AWAY TEAMS HAVE IMPROVED BLOCKING.\" A gold banner reads \"SUPER BOWL CHAMPIONS XVII XXI,\" while the \"PREVIOUS PLAY\" section shows a diagram with the text \"MIKE BLITZ 2\" and \"READ OPTION.\" The play-selection menu lists options such as \"HOLD THE LINE,\" \"SAVE ANNOS,\" and \"FAKE PAT KICKER FLIP,\" alongside a \"PAT ATTEMPT\" option. In a small inset window, a man with light brown hair wearing a dark blue shirt is visible, reacting with facial expressions that shift from a neutral look to a wide, open-mouthed smile. As the scene progresses, the man's excitement increases, while the game interface remains static, showing various formation and concept tabs."
+}

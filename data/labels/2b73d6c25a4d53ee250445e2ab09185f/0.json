@@ -1,0 +1,15 @@
+{
+  "video_id": "2b73d6c25a4d53ee250445e2ab09185f",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-088.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.49,
+    1.47,
+    2.45,
+    3.43
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sports stadium scoreboard is displayed against a dark background, showing the start of a football match between two teams. The scoreboard is red and white, featuring the logos of the competing teams and the text \"LaLiga Santander.\" A score of \"0-0\" is prominently displayed in the center, with \"CAJA RURAL GRANADA\" and \"WINAMAX\" logos appearing on the sides. Below the score, a match timer counts the elapsed time. In the first three frames, the timer reads \"00:00.\" In the final frame, the timer advances to \"00:01,\" marking the official start of the game. The bottom left of each frame displays a timestamp of \"22:00.\" Small team crests are also visible at the top of the overall image composition. No people are visible in the frames, which focus exclusively on the electronic scoreboard."
+}

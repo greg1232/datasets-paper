@@ -1,0 +1,15 @@
+{
+  "video_id": "c182c598574ca1d098dee59a1d383cd2",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.508,
+    1.525,
+    2.542,
+    3.558
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a dark-themed terminal interface with multiple windows. The top portion of the screen shows a terminal window running commands, featuring a mix of white, green, and red text on a black background. Legible text includes \"msg'* tail routiner starter_ path/var/log/app\" and \"k8s kubectl create -f fluent-bit-configmap.yaml\". As the sequence progresses, a new window opens in the foreground, displaying a directory structure and file content. This window contains technical configuration details under the header \"fluent-bit-configmap.yaml\", including sections like \"INPUT\", \"FILTER\", and \"OUTPUT\", with specific parameters such as \"Name fluentbit_logs\" and \"Match *\". The cursor moves across the screen, and the layout of the windows shifts as the user interacts with the system, transitioning from a view of running logs to the inspection of a configuration file."
+}

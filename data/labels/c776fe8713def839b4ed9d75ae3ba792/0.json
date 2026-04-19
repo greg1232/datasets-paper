@@ -1,0 +1,15 @@
+{
+  "video_id": "c776fe8713def839b4ed9d75ae3ba792",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.238,
+    0.396,
+    0.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a classroom setting with beige walls and a large screen at the front, several people, mostly dressed in blue scrubs, are seated at long white tables. The room is arranged with tables on both sides, with individuals facing inward. Many of the attendees have laptops open in front of them, and some have water bottles and notebooks on the tables. A few people are wearing pink scrubs in the background. In the foreground, a woman with long dark hair is seen from behind, and next to her, another woman in blue scrubs is seated. As the sequence progresses, the woman in the foreground turns her head slightly, and those around her shift their positions subtly. The text \"Sim Week\" is displayed in the bottom right corner of the scene throughout the sequence. The overall atmosphere is that of a professional training or educational session."
+}

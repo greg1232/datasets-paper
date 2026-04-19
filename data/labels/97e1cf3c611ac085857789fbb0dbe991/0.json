@@ -1,0 +1,15 @@
+{
+  "video_id": "97e1cf3c611ac085857789fbb0dbe991",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.655,
+    1.965,
+    3.275,
+    4.585
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"CRYOGENIC ENGINEERING\" and \"Tutorial \u2013 3\" is shown, focusing on a section titled \"Liquid yield.\" The slide contains a technical diagram of a thermodynamic cycle with labeled axes, processes such as \"T=const\", \"p=const\", and \"s=const\", and a data table with parameters for pressure (p), temperature (T), enthalpy (h), and entropy (s) at points 1 and 2. The formula $y = \\frac{h_i - h_s}{h_i - h_f}$ is displayed on the left. Across the sequence, a handwritten calculation is added in orange ink beneath the table. In the first frame, only the formula $y = \\frac{h_i - h_s}{h_i - h_f}$ is written. By the second frame, the calculation $\\frac{349-315}{349-60} = \\frac{34}{289}$ is added. In the final frames, the calculation is completed with the result $= 0.1176$. The bottom of the slide credits \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\"."
+}

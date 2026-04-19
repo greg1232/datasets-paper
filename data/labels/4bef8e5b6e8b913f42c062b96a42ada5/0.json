@@ -1,0 +1,15 @@
+{
+  "video_id": "4bef8e5b6e8b913f42c062b96a42ada5",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.022,
+    3.066,
+    5.109,
+    7.153
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hoodie with gold text that reads \"BOSS TALK,\" and headphones sits at a desk in a studio setting. He is positioned in front of a white backdrop featuring a logo with five gold stars and the words \"URBAN HUSTLE.\" Behind him, a blue sign says \"'Where BOSSES Talk!'\". A professional microphone on a black boom arm is positioned in front of his face, and a black object with a logo and a white container are visible on the table. Across the sequence, the man is speaking and shifting his gaze; he begins by looking slightly to his left, then turns his head further to the right, and eventually looks back toward the center as he continues talking. His expression remains focused and engaged throughout the brief interaction."
+}

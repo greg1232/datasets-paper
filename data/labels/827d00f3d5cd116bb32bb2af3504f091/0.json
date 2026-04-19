@@ -1,0 +1,15 @@
+{
+  "video_id": "827d00f3d5cd116bb32bb2af3504f091",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-273.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.19,
+    0.57,
+    0.95,
+    1.33
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser displaying a presentation titled \"Large Corporate Farm Systems.\" In the upper right corner of the browser window, a small video feed shows a man with a beard wearing a dark hat and a dark shirt. In the initial frames, the presentation's title screen is visible, accompanied by the text \"@BrianDRPM 502 under construction and subject to revisions\" and a button that reads \"START PRESENTATION.\" As the video progresses, the screen transitions to an \"Introduction\" slide. This slide contains a URL and several paragraphs of text, including phrases such as \"Causal Loop Diagram map,\" \"Evolution of Systems Thinking,\" and \"Rural Community Food Systems Economic and Market Pathways presentation.\" The text discusses the intent of the presentation to provide a contrast to opposing poles of food systems. The man in the video feed remains present throughout the sequence."
+}

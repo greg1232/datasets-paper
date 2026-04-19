@@ -1,0 +1,15 @@
+{
+  "video_id": "de993547a4a5032a56075ee30f20194a",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.273,
+    3.819,
+    6.365,
+    8.91
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is opening a clear plastic case filled with packs of trading cards on a surface decorated with palm tree graphics. In the first frame, the person uses a red cutting tool to slice through the plastic packaging. As the sequence progresses, they lift the top section of the plastic casing to reveal the rows of yellow-backed card packs inside. A small inset window in the lower right of the frames shows a man with a beard wearing a blue shirt sitting at a desk with computer equipment. The background features several logos and text elements, including \"JASPYS\" and \"CASEBREAKS.COM\". The action shifts from the initial cutting of the case to the removal of the lid, exposing the contents for the viewer."
+}

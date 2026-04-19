@@ -1,0 +1,15 @@
+{
+  "video_id": "7d5c80a869204d27fb95797f62cc8424",
+  "url": "./data/segments/3Z229_lKLpk-Scene-143.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.62,
+    1.86,
+    3.1,
+    4.34
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide-angle shot captures a large, crowded assembly hall featuring a distinctive curved ceiling with intricate geometric patterns. The room is filled with people seated in curved rows facing a central podium area. Many attendees wear light-colored or white clothing, while others wear darker attire. Behind the podium is a large, light-blue textured wall adorned with a central circular emblem. Three large digital screens are positioned around the room; the center screen is integrated into the wall, while two flank it on the sides, displaying a bright, light-colored image of the assembly. Throughout the sequence, the crowd remains seated, with slight movements as individuals shift or talk to neighbors. The camera remains stationary, and there is no legible on-screen text or logos. The lighting is bright and consistent across the scene, emphasizing the scale and architectural design of the venue."
+}

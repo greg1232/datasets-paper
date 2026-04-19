@@ -1,0 +1,15 @@
+{
+  "video_id": "bca7a9e39d11da991116880a9b0936bd",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.433,
+    1.298,
+    2.164,
+    3.029
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair, wearing a light-colored collared shirt, is seen inside a vehicle. He is positioned in the driver's seat, looking ahead and speaking. Through the vehicle's windows, a flat, arid landscape with sparse vegetation is visible under a clear sky. In the initial frames, the camera is close to the man, showing his profile. On-screen text appears, stating \"I'm Hamdi Shadah Saleem El Dajah\" and then \"and I work for IOM\". As the sequence progresses, the camera angle widens to show the interior of the vehicle, including the steering wheel, the dashboard with a small electronic device, and the rearview mirror. The final frame features the text \"I work in Tal al-Shihab transporting refugees\" as the man continues to drive through the rural environment."
+}

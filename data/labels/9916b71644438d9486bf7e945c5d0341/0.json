@@ -1,0 +1,15 @@
+{
+  "video_id": "9916b71644438d9486bf7e945c5d0341",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a blue short-sleeved shirt is seen from the side, holding and interacting with a smartphone. The scene takes place indoors next to a light-colored wooden table, upon which a green rectangular mat and a small tool are placed. In the background, a shelving unit holds various items. As the sequence progresses, the person's thumbs move across the screen of the phone, and the device is tilted slightly forward. Overlaid on the bottom of the image is a purple graphic featuring a silhouette of a person and the text \"Day 1\" inside a circle, alongside the text \"Sim Week\" next to a small icon of vertical bars. The lighting is consistent, and the focus remains on the person's hands and the smartphone throughout the clip."
+}

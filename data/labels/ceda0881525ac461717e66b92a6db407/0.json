@@ -1,0 +1,15 @@
+{
+  "video_id": "ceda0881525ac461717e66b92a6db407",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-086.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.089,
+    3.266,
+    5.443,
+    7.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical simulation setting, a woman wearing a grey long-sleeved shirt, a black apron, a face mask, and blue gloves tends to a medical mannequin lying in a hospital bed. The mannequin has red hair and is covered by a patterned blanket. The background contains medical equipment, including wall-mounted monitors and various tubes. In the initial frames, the woman is positioned to the left of the mannequin, leaning in slightly. As the sequence progresses, she shifts her position and reaches toward the mannequin, while a second person's arm, also wearing blue gloves, is briefly visible in the first frame. Purple circular overlays containing the text \"Day 2\" and a logo with the text \"Sim Week\" are present in the bottom corners of the scene throughout the sequence."
+}

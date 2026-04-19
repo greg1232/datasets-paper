@@ -1,0 +1,15 @@
+{
+  "video_id": "3049c1ccda45a08eb081896e38ccff43",
+  "url": "./data/segments/3E6ctN22V7k-Scene-084.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.33,
+    0.55,
+    0.77
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a white long-sleeved shirt and khaki trousers is positioned beside a large, bright lime-green equipment case. The scene is set indoors against a rustic red brick wall. The case is reinforced with silver metal edges, corners, and latches, and it is mounted on four small caster wheels. On the left side of the case, the letter \"N\" is printed twice, vertically stacked. The person's dark-skinned arm is extended downward, with their hand interacting with a small metal component or lock near the bottom left corner of the case. Across the sequence of frames, the person remains in a nearly static position, with only minimal movement in their hand and arm as they adjust or secure the hardware on the side of the green case."
+}

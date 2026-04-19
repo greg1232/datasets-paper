@@ -1,0 +1,15 @@
+{
+  "video_id": "aaed9e8f4a97bc175610547f2bdd760f",
+  "url": "./data/segments/3dN_F08u-KE-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.42,
+    1.26,
+    2.1,
+    2.94
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, grey military naval vessel sails forward through a deep blue sea, creating white foam and spray at its bow. The ship features a tall superstructure equipped with various radar domes and communication equipment. In the distance, another smaller grey naval ship follows the same course. The setting is an open ocean under a clear, pale blue sky. A red and white circular logo containing the number \"13\" is visible in the upper right corner of each scene. Across the sequence, the primary ship continues its steady forward movement, slightly shifting its position as it cuts through the choppy water, while the distant ship maintains its trailing position. No people are visible on the decks of the vessels."
+}

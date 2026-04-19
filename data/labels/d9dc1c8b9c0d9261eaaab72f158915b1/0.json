@@ -1,0 +1,15 @@
+{
+  "video_id": "d9dc1c8b9c0d9261eaaab72f158915b1",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.62,
+    1.86,
+    3.1,
+    4.34
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen capture of a web browser displays a video conference call in the top right corner, featuring a man wearing a dark shirt and headphones. The main area of the browser is occupied by a digital brainstorming or mind-mapping tool with a black background. This workspace contains several circular nodes and connecting lines. One prominent section features a white rectangular box containing the text \"All Vivious Bufferingway\" and a small image of a turtle. To the left of this box is a smaller node with the text \"Cash page,\" connected by a red curved arrow. Other nodes include a blue circular icon with a yellow symbol and a white circular icon with a sketch. The browser tabs at the top list titles such as \"That & Learning by Systemdyn,\" \"Future of Society by Systemdyn,\" and \"Rural Community Food System.\" The scene remains static across the frames, with no perceptible movement or changes in the layout."
+}

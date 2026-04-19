@@ -1,0 +1,15 @@
+{
+  "video_id": "67ff792dff5bbada10e7ac524a7af18a",
+  "url": "./data/segments/3phuyH7Y05U-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.825,
+    1.375,
+    1.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A 3D digital animation depicts a conceptual representation of economic growth against a white, gridded background. The word \"inflation\" is rendered in large, silver, reflective 3D lettering that rests on the grid. A jagged red line, resembling a stock market growth chart, trends upward across the scene. As the sequence progresses, the red line continues to rise and climb higher. Simultaneously, the silver letters of the word \"inflation\" begin to shift and move independently; specifically, the letters \"t\" and \"i\" are pushed upward and displaced from their original positions, creating a sense of instability or disruption as the red line ascends. The lighting creates soft shadows beneath the letters and the line on the white surface, emphasizing the three-dimensional effect of the scene."
+}

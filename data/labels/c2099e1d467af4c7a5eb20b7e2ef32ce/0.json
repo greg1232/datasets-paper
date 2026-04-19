@@ -1,0 +1,15 @@
+{
+  "video_id": "c2099e1d467af4c7a5eb20b7e2ef32ce",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-184.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.362,
+    10.085,
+    16.808,
+    23.532
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An elderly man with glasses, wearing a blue patterned button-down shirt with colorful accents and a beaded necklace, stands behind a light-colored wooden podium. He is positioned in front of a wall of horizontal brown blinds. A black microphone on a stand is positioned in front of him, and he is looking down at papers on the podium. The word \"ORCA\" appears in white capital letters inside a white box on the right side of the scene. Across the sequence, the man remains in a similar position, shifting his head slightly and adjusting the papers on the podium as he appears to be speaking or reading. The background and the \"ORCA\" text remain constant throughout the clip."
+}

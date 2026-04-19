@@ -1,0 +1,15 @@
+{
+  "video_id": "64a76b35354b95fe6c1c3954348adc1e",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.921,
+    2.763,
+    4.604,
+    6.446
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen in a small inset window at the top of a screen showing a Google Chrome browser window. The person, wearing a light-colored shirt, is speaking while a technical interface is displayed. The main screen shows a log exploration tool with a dark theme. The interface includes a search bar at the top with a complex query string starting with \"resource.type=\\\"k8s_container\\\"\". Below the search bar, a \"Log labels\" section contains a \"Query\" field and a \"Cheat Sheet\" providing guidance on using logs. The cheat sheet lists sections such as \"logs,\" \"Combine stream selectors,\" \"Filtering for search terms,\" \"Count over time,\" and \"Rate.\" As the video progresses, a cursor moves across the screen, highlighting different parts of the text, specifically moving from the \"logs\" section down toward the \"Combine stream selectors\" and \"Filtering for search terms\" areas."
+}

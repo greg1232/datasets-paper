@@ -1,0 +1,15 @@
+{
+  "video_id": "3fec9520379bfca7dfa6cd8dfbd44534",
+  "url": "./data/segments/3JGRt3BFYrM-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.254,
+    0.762,
+    1.271,
+    1.779
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a static graphic set against a dark blue background with diagonal, translucent light streaks. Centered in the frame are several overlapping, translucent rectangles that create a layered glass effect. Within these layers, a stylized illustration depicts a white world map with blue and red circular nodes connected by thin lines, resembling a network. Below this imagery, white text is displayed on the screen. The first line reads \"ST stands for\" in a simple sans-serif font. Directly underneath, the phrase \"life.augmented\" appears in a larger, stylized lowercase typeface, where the word \"life\" is separated from \"augmented\" by a small blue dot. There are no people or movements present; the visual composition remains identical and frozen across the entire sequence, showing no changes in the positioning of the text, logos, or background elements."
+}

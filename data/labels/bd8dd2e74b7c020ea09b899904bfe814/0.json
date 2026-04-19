@@ -1,0 +1,15 @@
+{
+  "video_id": "bd8dd2e74b7c020ea09b899904bfe814",
+  "url": "./data/segments/3Sq594WkayE-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.151,
+    0.453,
+    0.755,
+    1.057
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A night scene overlooks a residential area with numerous dark buildings and sparse interior lights. A winding road cuts through the landscape, illuminated by the glowing white and red light trails of moving vehicles, creating a blurred, flowing effect of traffic. The surrounding environment is mostly dark, with only a few scattered streetlights and house windows providing points of illumination against the blackness of the night. Across the sequence of frames, the patterns of the light trails shift slightly as the vehicles progress along the curved path of the road, while the static elements of the cityscape and the overall dark atmosphere remain constant. No people, text, or logos are visible in the scene."
+}

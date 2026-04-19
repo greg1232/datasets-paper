@@ -1,0 +1,15 @@
+{
+  "video_id": "a3978cbd51e0a1ee8165ef150d7be6d3",
+  "url": "./data/segments/3F2rz23IKUk-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.61,
+    4.83,
+    8.05,
+    11.27
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static presentation slide with a white background and black text. The slide is titled \"Open Source is not Public Domain\" and features several bullet points. The first point states, \"Most Open Source licenses are conditional,\" followed by a second point detailing \"Two broad categories,\" which include \"Copyleft\" with \"have source redistribution requirements\" and \"Permissive\" with \"no source redistribution required.\" A third point notes that \"Most code is under a small number of licenses,\" listing \"GPL, LGPL, BSD, Apache, CDDL, MPL.\" The final point emphasizes that \"Awareness of these restrictions is a must!\" throughout the duration of the clip, the visual content remains completely unchanged, showing the same text and layout across all frames without any people, movement, or additional objects appearing on screen."
+}

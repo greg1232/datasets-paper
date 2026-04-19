@@ -1,0 +1,15 @@
+{
+  "video_id": "4e494f70d946a59b38904ddfcbbfec8b",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-366.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.604,
+    0.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and a beard, wearing a black t-shirt, is positioned in front of a computer monitor displaying a list of baseball players and cards. The screen contains text such as \"Paul Jon McNealy,\" \"KEN GRIFFEY JR R 2/20,\" and \"Hit the SUBSCRIBE button down below!\" with a red \"Subscribe\" button visible. The man is speaking and gesturing toward the screen. Across the sequence, he remains in the same position, but his facial expressions and hand gestures shift slightly as he continues to talk. The background is a dimly lit indoor setting. A logo for \"YAEY CARD BREAKS\" appears as a banner across the bottom of the monitor's display. The lighting remains consistent, focusing on the man and the bright glow of the computer screen."
+}

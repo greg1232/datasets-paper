@@ -1,0 +1,15 @@
+{
+  "video_id": "47d811040f3d1d7990cc33cee1865cd9",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-846.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with her hair tied in a high bun and wearing black headphones sits in a podcast studio, dressed in a dark green t-shirt with a red graphic. She is positioned in front of a professional black microphone, looking slightly to her left with a thoughtful expression. Behind her is a black backdrop featuring white and red text that reads \"BESS TALK 101\", \"It's a V-tique Hustle\", \"ODCAST\", and \"Talk About It!\". To her right, additional text reads \"th U\" and a smaller \"BESS TALK 101\" logo. To her left, a framed picture hangs on the wall, and some small items sit on the table in front of her. Across the sequence, the woman remains in the same position and attire, with very slight shifts in her facial expression and head tilt as she listens or prepares to speak, while the background and equipment remain static."
+}

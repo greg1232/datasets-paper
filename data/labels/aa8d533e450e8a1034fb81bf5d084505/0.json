@@ -1,0 +1,15 @@
+{
+  "video_id": "aa8d533e450e8a1034fb81bf5d084505",
+  "url": "./data/segments/3RFWI9-s-B0-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    19.155,
+    57.464,
+    95.773,
+    134.082
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a beard, wearing a white collared shirt and a grey plaid blazer, appears in a professional video clip. He is centered on the right side of the frame against a plain light grey background, maintaining a consistent smile and gaze toward the camera throughout the sequence. To his left, a graphic overlay features the Hackensack Meridian Health logo and the slogan \"KEEP GETTING BETTER\". Below the logo, text identifies him as \"Greg Corcoran, M.D., FACEP\" and lists his title as \"Medical Director, Emergency Medicine\" at \"Hackensack Meridian Bayshore Medical Center\". At the bottom of the screen, a blue audio waveform visualization fluctuates in real-time, changing its shape across the frames to reflect the sound levels. The man remains stationary, and the on-screen text and logos stay fixed as the video progresses."
+}

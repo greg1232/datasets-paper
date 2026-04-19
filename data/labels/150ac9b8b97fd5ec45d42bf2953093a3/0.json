@@ -1,0 +1,15 @@
+{
+  "video_id": "150ac9b8b97fd5ec45d42bf2953093a3",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-579.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.6,
+    1.799,
+    2.998,
+    4.197
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, black headphones, and a black hoodie with the word \"BOSS\" in gold lettering sits at a desk. He is gesturing with his hands while speaking into a professional microphone mounted on a boom arm. He wears a gold watch on his left wrist. Behind him is a white backdrop featuring a logo with five gold stars and the words \"UNIQUE HUSTLE\" repeated vertically. To the right of the man, a blue sign reads \"Where BOSSES Talk!\". On the desk, a small black object and a white mug with red and blue text that includes \"TALK OUT\" are visible. A small logo in the bottom-left corner says \"T-SQUARE\". Across the sequence, the man remains in the same position, shifting his facial expression and hand gestures as he continues to speak, while the camera angle and background remain static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "8cc1f0fcc4ad064a8a85cc25881bd3db",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-101.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.463,
+    0.772,
+    1.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot captures a tiger's face as it looks toward the left side of the frame against a soft-focus outdoor background. Superimposed over the image is large yellow text that reads \"$1 /YEAR\" followed by white text stating \"AVAILABLE TO ALL TIGERS AND TIGRESSES\". Throughout the sequence, the tiger remains in the same position, slightly shifting its head and mouth, which reveals its teeth and tongue in a subtle expression. The background consists of muted green and brown tones, suggesting a natural environment. The on-screen text remains static and centered over the animal throughout the entire clip, while the tiger's slight movements provide a sense of animation to the scene."
+}

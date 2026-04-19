@@ -1,0 +1,15 @@
+{
+  "video_id": "8f1dd9339586c567428ddc2a7bc73c59",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.488,
+    1.464,
+    2.44,
+    3.416
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A vast night sky filled with countless stars and the glowing band of the Milky Way serves as the backdrop, with a dark, silhouetted mountain ridge visible along the bottom right. Large, white, sans-serif text appears centrally on the screen, progressing sequentially across the scene. Initially, the phrase \"EVERYTHING IN\" is displayed. This expands in the next sequence to read \"EVERYTHING IN THE UNIVERSE IS GOVERNED\". The text then shifts, first showing only \"THE\", and finally completing the statement to read \"THE FIBONACCI SEQUENCE\". No people, animals, or man-made objects are present in the scenery; the only change between the frames is the evolving on-screen text against the static celestial background."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "71a4cbb2af4a3bd63cc0fdc3a652fb1d",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-125.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.742,
+    2.227,
+    3.712,
+    5.197
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, dark hair and a beard is recorded in a studio setting against a background of dark grey acoustic foam panels. He is wearing black headphones and a black garment over a grey shirt. A professional microphone on a boom arm is positioned directly in front of his face. In the initial moment, the man has his eyes closed and is leaning slightly toward the microphone. As the sequence progresses, he opens his eyes and looks toward his left, shifting his gaze and head position slightly while continuing to speak into the microphone. His expression remains relatively neutral as he looks away from the center. No text or logos are visible on the screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2d0995cf8dc82584a15073dbedf4e67d",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.863,
+    2.59,
+    4.317,
+    6.044
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white long-sleeved shirt is seated at a white desk in a brightly lit office, holding a black smartphone to his ear. He is positioned in front of two laptops; the laptop closer to him is open and displays a financial stock chart with green and red indicators. He uses his finger to point at the screen. In the background, a gray chair with wooden legs is visible. Over the course of the sequence, the man continues his phone call and remains focused on the financial data. Blue text appears across the bottom of the screen, transitioning through several phrases. It begins with \"GET TOM O'BRIEN'S NEWSLETTER\", then changes to \"MARKET INSIGHTS, TODAY\", and finally switches to \"TRY ALL OF OUR PRODUCTS AND NEWSLETTERS 30-DAYS RISK FREE\", which remains on screen for the final two frames."
+}

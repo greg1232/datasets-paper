@@ -1,0 +1,15 @@
+{
+  "video_id": "5b25b0eb03c0de557c64afd56aa68ca6",
+  "url": "./data/segments/3E6ctN22V7k-Scene-105.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.14,
+    0.42,
+    0.7,
+    0.98
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark skin, wearing a light pink button-down shirt with a small blue and red detail on the breast pocket, is seated and looking down at a colorful map spread across a table. He is positioned in a sparsely furnished indoor space with a plain, light-colored floor. His right hand rests near the map as he appears to be reading or studying it. Across all frames, the white on-screen text reads, \"Tomorrow, or after tomorrow, our country will be at peace.\" As the sequence progresses, the man's head slightly shifts, and he looks more intently toward the map. The lighting remains consistent throughout the scene, and the background remains static, focusing the viewer's attention on the man and the map he is reviewing."
+}

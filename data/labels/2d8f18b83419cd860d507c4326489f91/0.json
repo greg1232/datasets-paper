@@ -1,0 +1,15 @@
+{
+  "video_id": "2d8f18b83419cd860d507c4326489f91",
+  "url": "./data/segments/3OnnmWsJTLM-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.184,
+    0.551,
+    0.918,
+    1.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person stands waist-deep in a vast ocean during a sunset. The sun is low on the horizon, casting a bright, golden glow across the sky and creating a shimmering reflection on the surface of the dark blue water. Wispy clouds drift across the upper portion of the frame, illuminated by the setting sun. The individual is seen in silhouette, facing toward the viewer, with their arms slightly bent at their sides. As the sequence progresses, the person remains relatively stationary, bobbing slightly with the gentle movement of the waves. The lighting and the positions of the clouds shift minimally, maintaining the tranquil atmosphere of the maritime setting. No other people, objects, or on-screen text are visible in the scene."
+}

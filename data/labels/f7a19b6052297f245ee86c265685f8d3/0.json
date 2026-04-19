@@ -1,0 +1,15 @@
+{
+  "video_id": "f7a19b6052297f245ee86c265685f8d3",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-328.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    15.48,
+    46.44,
+    77.4,
+    108.36
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This sequence shows a video conference call with a large grid of participants in a virtual meeting. The gallery view contains approximately thirty-six individual video feeds, featuring a diverse group of people in various indoor settings, such as home offices and living rooms. Many participants are wearing casual attire, including t-shirts and sweaters. Some are wearing glasses and headsets. The participants remain largely stationary, facing their cameras, with some occasionally shifting their posture or looking slightly away. Legible on-screen labels identify some of the individuals, such as \"Jerry Michalski,\" \"Bernard Silverman,\" \"Jen Burko,\" \"Nagu Celik,\" and \"Graeme Avelling.\" Throughout the sequence, the layout of the grid remains consistent, and the participants stay in their respective frames, creating a stable image of a synchronized remote meeting."
+}

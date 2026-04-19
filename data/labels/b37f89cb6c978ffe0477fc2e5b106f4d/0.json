@@ -1,0 +1,15 @@
+{
+  "video_id": "b37f89cb6c978ffe0477fc2e5b106f4d",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.221,
+    0.663,
+    1.105,
+    1.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A handheld camera pans across the interior and exterior of a damaged vehicle. The sequence begins with a close-up of the vehicle's exterior, showing a dark-colored hood and windshield area covered in debris and dirt. The view then shifts inside the car, moving toward the passenger side where the dashboard and glovebox area are visible. The camera continues to move, revealing a cluttered interior with various items, including a blue plastic bin containing miscellaneous objects and a white cup. The final view focuses on the dashboard's textured plastic surfaces and air vents. No people are visible in the frames, and there is no legible on-screen text or logos. The movement transitions from an outside view of the wreckage to a detailed survey of the car's interior."
+}

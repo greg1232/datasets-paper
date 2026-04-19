@@ -1,0 +1,15 @@
+{
+  "video_id": "c0383785bbefaf28825c6e5b4d6e17c9",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-106.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short hair and dark skin is shown in a close-up shot, wearing a white collared shirt. He is positioned in front of a blurred background that appears to be a sports stadium with red seating and bright lights. The logo of Real Madrid is visible in the upper right corner of the scene. Across the bottom of the image, yellow subtitles read, \"haber marcado mi primer gol con el Real Madrid y I scored my first goal with Real Madrid and\". As the sequence progresses, the man remains centered in the frame, speaking directly toward the camera. His facial expressions change slightly as he talks, with his mouth opening and closing to form words. The lighting remains consistent, highlighting his features against the dark, out-of-focus backdrop of the stadium."
+}

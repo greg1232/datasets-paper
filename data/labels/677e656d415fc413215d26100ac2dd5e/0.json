@@ -1,0 +1,15 @@
+{
+  "video_id": "677e656d415fc413215d26100ac2dd5e",
+  "url": "./data/segments/3Kxl1O310k8-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.94,
+    26.82,
+    44.7,
+    62.58
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide is displayed, featuring a table titled \"HOUSING STRATEGIES\" alongside a list of questions titled \"Decide critical elements upfront.\" The list includes numbered items: \"1. Clarify roles across boards,\" \"2. How will boards work together?\", \"3. Identify places for collaboration,\" and \"4. Who funds what?\". The table is divided into categories for \"CAPACITY BUILDING,\" \"ZONING,\" and \"DEVELOPMENT,\" with columns for \"Priority for Implementation\" across \"Years 1-2\" and \"Years 3-5,\" as well as \"# AH units\" and \"Lead.\" Various cells contain \"X\" marks, numbers like \"5,\" \"16,\" and \"48,\" and lead entities such as \"BOS/CPC\" and \"PB/MAHT.\" In the bottom left corner of each frame, a small thumbnail shows a person's face. Across the sequence of frames, the content of the slide and the visible thumbnail remain static, with no changes in the text or the imagery."
+}

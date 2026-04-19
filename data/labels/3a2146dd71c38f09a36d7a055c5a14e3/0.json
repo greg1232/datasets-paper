@@ -1,0 +1,15 @@
+{
+  "video_id": "3a2146dd71c38f09a36d7a055c5a14e3",
+  "url": "./data/segments/3r9Dh8YKpLU-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.236,
+    6.707,
+    11.178,
+    15.649
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An instructional video presents a lesson on \"Factorial with Recursion,\" featuring a presentation slide and a woman in a small inset window. The woman, wearing a pink top, appears in the bottom right of each frame, looking toward the camera. The main screen displays C programming code for calculating a factorial, including a `main` function and a recursive `fact` function. Key lines of code include `double fact(double);`, `if (n <= 1)`, and `return n * fact(n-1);`. The footer of the slide reads \"Walchand Institute of Technology, Solapur\". Across the sequence, the scene remains largely static, with the woman maintaining a consistent position and expression while the on-screen code and layout remain unchanged. The only slight variation is a minor shift in the woman's posture and facial expression as the video progresses."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "3b4c561bc9565a68f32baffc0a4166b1",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-236.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.781,
+    1.094
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game takes place on a green grass field marked with white yard lines, including numbers like \"30\" and \"40.\" Players in white jerseys and white pants are scattered across the field, with some in white helmets and others without. A few players wear black jerseys, including one with the number \"73.\" A football rests on the turf near the 40-yard line. In the background, spectators and sideline personnel gather. A broadcast overlay at the bottom displays \"OFFENSE AT WORK,\" \"4th & 3,\" and \"SHHH...\", along with game clock markers like \"3:03\" and \":17\". A small inset window in the bottom left shows a blonde man with headphones speaking into a microphone. As the scene progresses, players move across the field, and the camera angle shifts from a tight view of the scrimmage line to a wider shot showing more of the stadium and sideline."
+}

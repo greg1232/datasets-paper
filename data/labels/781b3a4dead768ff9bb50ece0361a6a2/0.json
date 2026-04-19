@@ -1,0 +1,15 @@
+{
+  "video_id": "781b3a4dead768ff9bb50ece0361a6a2",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.421,
+    1.264,
+    2.106,
+    2.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a grey short-sleeved button-down shirt with a blue vertical stripe and khaki pants, stands against a solid blue background. He holds a gold trophy topped with a golf ball and a red ribbon in his right hand. As the sequence progresses, he smiles and gestures with his left hand. White on-screen text appears and expands over the frames, starting with \"STAY\", then changing to \"STAY ON TOP OF STOCK\", and finally becoming \"STAY ON TOP OF STOCK PATTERNS\". While the text remains constant in the final two frames, the man changes his posture, moving from a relaxed stance to giving a thumbs-up gesture with his left hand. He maintains a cheerful expression throughout the clip, holding the trophy aloft while the text evolves to convey a complete message."
+}

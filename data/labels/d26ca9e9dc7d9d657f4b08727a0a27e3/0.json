@@ -1,0 +1,15 @@
+{
+  "video_id": "d26ca9e9dc7d9d657f4b08727a0a27e3",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.254,
+    0.763,
+    1.272,
+    1.781
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing blue surgical scrubs and tan gloves performs a medical procedure on a simulated patient torso, which is partially covered by a light blue drape. The person uses their hands to manipulate a white medical instrument, likely a syringe or catheter, inserting it into the torso. A red handle of a surgical tool rests on the blue drape to the left. Superimposed on every frame is the large white text \"Sim Week\" above the smaller white text \"A Week in the Life of a Surgical Intern Student Transition to Residency.\" In the bottom right corner, a logo features the text \"Sim Week\" and \"STUDENT TRANSITION TO RESIDENCY.\" As the sequence progresses, the person's hands move slightly, adjusting the instrument and applying pressure to the simulated skin. The camera angle and the position of the text remain constant across the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b504c419c04f3acb5f22af118efca762",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-113.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.213,
+    0.638,
+    1.064,
+    1.489
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing glasses, a blue surgical mask, a pink scrub top, and a red and green patterned surgical cap is seated in a black office chair. The person is gesturing with their hands while speaking. In the first frame, they hold both hands up in front of them, palms facing each other. In the second frame, their hands move closer together, and in the third frame, they are relatively still with hands lowered. By the final frame, they raise their right hand, pointing a finger upward. On-screen graphics appear in each frame: a purple silhouette of a person with a cane next to the text \"Day 4\" on the left, and a graphic of a test tube next to the text \"Sim Week\" on the right. The background is a plain, light-colored wall with a dark frame visible at the top."
+}

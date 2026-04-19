@@ -1,0 +1,15 @@
+{
+  "video_id": "be459edb997234ccdc029c5065566681",
+  "url": "./data/segments/3Smz5pevbI4-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.637,
+    22.91,
+    38.184,
+    53.458
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a grey blazer and dark trousers stands on a stage in front of a light-colored backdrop featuring a repeated circular logo and the text \"INSTITUTE OF PEACE\". To his left is a wooden podium, and behind him to the right, another man in a dark suit sits in a black chair next to a small glass table. A blue flag with a white emblem stands to the far left. In the foreground, an audience is visible from the back. As the scene progresses, the standing man moves from a still position, gesturing with his hands while speaking, and then begins to walk toward the podium. The seated man remains stationary, listening and occasionally adjusting his posture. The background elements and the seated audience remain constant throughout the sequence."
+}

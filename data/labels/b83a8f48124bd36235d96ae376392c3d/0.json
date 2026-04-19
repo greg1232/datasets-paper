@@ -1,0 +1,15 @@
+{
+  "video_id": "b83a8f48124bd36235d96ae376392c3d",
+  "url": "./data/segments/3TQScsCOS2k-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.845,
+    5.535,
+    9.225,
+    12.915
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with brown hair and a beard, wearing a red and blue plaid button-down shirt, is positioned in front of a backdrop depicting a lush green jungle landscape with a waterfall. The logo \"JUMANJI\" is displayed in large gold letters on the left side of the scene, with the text \"WELCOME TO THE JUNGLE\" written in smaller gold lettering underneath it. Across the sequence, the man is speaking and gesturing with his hands. He begins with his hands held close to his chest in loose fists, then extends his right arm outward and slightly forward. By the end of the sequence, he pulls his right arm back toward his body while maintaining an intense facial expression. The background remains static throughout the action, while the man's upper body and arms move dynamically as he communicates."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1b575db21ad5868a683019343f193665",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.745,
+    26.235,
+    43.725,
+    61.215
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of presentation slides for a \"CRYOGENIC ENGINEERING\" course, taught by \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay,\" is displayed. The slides focus on \"Tutorial \u2013 3,\" detailing a problem regarding a \"Linde \u2013 Hampton system with Argon as working fluid.\" The problem specifies operation between \"1.013 bar (1 atm) and 202.6 bar (200 atm) at 300 K,\" with a heat exchanger (HX) effectiveness of \"100%.\" As the sequence progresses, specific goals are listed: \"Ideal Work requirement\" and \"Liquid yield.\" The presentation then transitions to the \"Ideal Work Requirement\" section, introducing the formula \"W/m = T1(s1 - s_f) - (h1 - h_f)\" alongside a T-s diagram showing a constant pressure line. A table provides data for states 1, 2, and f, listing pressure (p), temperature (T), and enthalpy (h), concluding with a calculation beginning with \"300(3.9 - 1.35) - (349 - 60).\" The NPTEL logo appears in the bottom left corner."
+}

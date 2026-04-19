@@ -1,0 +1,15 @@
+{
+  "video_id": "c22ce8858d5cd7c87ccec4c69383dba2",
+  "url": "./data/segments/3Kxl1O310k8-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.455,
+    19.365,
+    32.275,
+    45.185
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A montage of video conference tiles displays multiple individuals in various indoor and outdoor settings. In some tiles, a man with glasses and a dark jacket is seen, while another man in a white shirt stands before a large red brick building. A woman with blonde hair is seen in a blue and white patterned top, and another woman is shown with her head resting on her hand. One man wears a headset and looks directly at the camera. As the sequence progresses, the participants' expressions and positions shift slightly; for example, the man in the white shirt remains in place, while others blink or adjust their posture. Some tiles show people speaking, while others remain relatively still. The backgrounds vary from plain interior walls to a sunny outdoor scene with a brick structure and greenery. No on-screen text or logos are visible."
+}

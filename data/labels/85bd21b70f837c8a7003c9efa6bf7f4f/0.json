@@ -1,0 +1,15 @@
+{
+  "video_id": "85bd21b70f837c8a7003c9efa6bf7f4f",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-209.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.087,
+    0.262,
+    0.438,
+    0.612
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a gold-bordered trading card over a table featuring a decorative mat with orange circles and green palm trees. The hand moves the card across the frame, rotating it slightly. In the background, a man with a beard wearing a dark blue t-shirt sits behind a desk with a microphone and electronic equipment. A white box sits on the table between the person holding the card and the man. Red and white text overlays appear in the upper right of the scene, reading \"JASPYS\" and \"CASEBREAKS.COM\". The sequence begins with the card held vertically on the left, shifts to the right, then moves back toward the left, and finally transitions to the right again as the hand adjusts its grip on the card."
+}

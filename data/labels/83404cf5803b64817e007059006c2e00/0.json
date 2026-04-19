@@ -1,0 +1,15 @@
+{
+  "video_id": "83404cf5803b64817e007059006c2e00",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.44,
+    4.32,
+    7.2,
+    10.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair, glasses, and a mustache is seen speaking against a vibrant blue and purple digital backdrop featuring abstract shapes and a glowing center. He is dressed in a light blue button-down shirt layered under a dark charcoal suit jacket. In the lower-left corner of each frame, a circular gold logo is visible above the white text \"NPTEL\". The man remains centered in the frame throughout the sequence, though his facial expressions shift slightly as he speaks, with his mouth opening and closing and his gaze remaining steady toward the camera. The background remains static, and there are no other people or significant objects present in the scene. The visual progression shows the subtle movements of his jaw and lips, indicating active speech while he maintains a formal posture."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f438de91997782ba559c9d7b7e7f7607",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-280.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.846,
+    2.538,
+    4.229,
+    5.921
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card encased in a clear plastic protector. In the first frame, the person holds the card upright, showing a baseball player in a white uniform against a green background. The second and third frames show the card being shifted and tilted. In the final frame, the card is turned over to reveal the back, which features text and a signature. A smaller inset window at the bottom of each frame shows a man with a beard wearing a black shirt sitting at a desk with a computer monitor and audio equipment. The background of the main scene includes a surface with a palm tree pattern and orange accents. Overlaid text in each frame includes the logos \"JASPYS\" and \"CASEBREAKS.COM\". The card's back explicitly mentions the name \"JOHNSON\" in large letters."
+}

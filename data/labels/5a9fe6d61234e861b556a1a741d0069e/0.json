@@ -1,0 +1,15 @@
+{
+  "video_id": "5a9fe6d61234e861b556a1a741d0069e",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.245,
+    6.735,
+    11.225,
+    15.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An educational presentation on \"CRYOGENIC ENGINEERING\" is displayed, featuring a slide titled \"Tutorial \u2013 2\". The content focuses on the \"Work/unit mass of gas compressed,\" presenting a formula $W/m = T_1(s_1 - s_2) - (h_1 - h_2)$. A thermodynamic diagram is shown with a plotted cycle on axes of temperature (T) and entropy (s), featuring labels such as \"T=const\", \"D=const\", and \"p=const\". The NPTEL logo is visible in the bottom-left corner, and a footer attributes the material to \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\". As the sequence progresses, a cursor highlights a portion of the formula. In the latter half of the sequence, a data table is introduced below the text, listing values for pressure (p in bar), temperature (T in K), enthalpy (h in J/g), and entropy (s in J/gK) for states 1, 2, and f."
+}

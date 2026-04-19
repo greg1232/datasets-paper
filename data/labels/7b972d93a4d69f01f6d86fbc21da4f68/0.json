@@ -1,0 +1,15 @@
+{
+  "video_id": "7b972d93a4d69f01f6d86fbc21da4f68",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.751,
+    1.051
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A professional presentation takes place in a brightly lit conference room with beige walls and a drop ceiling. A woman in a black blazer and blue jeans stands at the front of the room near a projection screen displaying an abstract image. Several people are seated around white tables; some wear professional attire, such as blazers and sweaters, while others are in casual clothing. Laptops are open on the tables, and red folders or notebooks are visible. As the scene progresses, the woman in the blazer moves toward the side of the room, and the camera pans slightly, revealing more of the audience. Some attendees are seen listening, while others look toward the presenter or their laptops. The people remain seated and engaged throughout the sequence, and the projection on the screen remains constant as the presenter shifts her position."
+}

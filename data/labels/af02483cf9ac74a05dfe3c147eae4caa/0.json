@@ -1,0 +1,15 @@
+{
+  "video_id": "af02483cf9ac74a05dfe3c147eae4caa",
+  "url": "./data/segments/3Smz5pevbI4-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.688,
+    2.065,
+    3.441,
+    4.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static presentation slide is displayed, featuring a white background with black text and three accompanying images. The text consists of a numbered list: \"1. Characterize (unconscious) bias\", \"2. Neural Focus Groups\", and \"3. Neuro-diagnostics\". To the right of the first item is a small image of a man's head and shoulders. Beside the second item is an image of a black handgun with a gold-colored trigger and a wisp of smoke emanating from the barrel. To the right of the third item is a small image depicting a distorted, creature-like figure. The scene remains completely stationary across all frames, with no movement, changes in text, or shifts in the placement of the images."
+}

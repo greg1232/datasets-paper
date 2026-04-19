@@ -1,0 +1,15 @@
+{
+  "video_id": "640c5c6d14cb3dc8a3165894fc29d6d5",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A small, rectangular electronic component rests on a plain, off-white surface. The component is dark brown or black with a gold-colored metallic perimeter and contains a grid of small circular holes on its top surface. In the beginning, the object is out of focus and appears blurry against the pale background. As time progresses, the camera focus shifts, and the component becomes increasingly sharp. By the final frame, the intricate details of the gold casing and the pattern of the circular openings are clearly visible. No people, text, or other objects are present in the scene. The only change throughout the sequence is the transition from a blurred image to a clear, focused shot of the electronic part."
+}

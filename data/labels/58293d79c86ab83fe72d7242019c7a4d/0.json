@@ -1,0 +1,15 @@
+{
+  "video_id": "58293d79c86ab83fe72d7242019c7a4d",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-336.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.895,
+    32.685,
+    54.475,
+    76.265
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call features a grid of participants in various home and office settings. The participants include several men and women, some wearing glasses and headsets. One man is seen in a blue shirt, another in a green shirt, and several others in neutral-colored clothing. Some participants are speaking or gesturing, while others listen attentively. On-screen text identifies several individuals, including \"Jerry Nicholai,\" \"Nikolai S. Borisov,\" \"Brian Brangovlov,\" \"Jen Burke,\" \"Sajal Bhowmick,\" \"Mara Javan,\" \"Jyoti Lajoie,\" \"Sridhar Santhanam,\" and \"Madhu Sandeval.\" The background settings vary from rooms with bookshelves and cabinets to offices with monitors and white walls. The scene remains largely static as the participants engage in their conversation, with minimal changes in their positions or expressions across the sequence."
+}

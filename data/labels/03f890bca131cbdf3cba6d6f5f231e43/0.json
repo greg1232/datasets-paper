@@ -1,0 +1,15 @@
+{
+  "video_id": "03f890bca131cbdf3cba6d6f5f231e43",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    24.442,
+    73.325,
+    122.208,
+    171.092
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation screen displays a series of slides about logging challenges, with a small webcam feed of a woman in a white top visible in the upper right corner. The first frame shows a slide titled \"Logging Challenges\" with the word \"Backpressure\" below it, featuring a diagram of a sink with water filling the basins. In the next frame, the diagram changes to show water overflowing from the sink and spilling onto the floor. The subsequent frames transition to a new slide titled \"Fluent Bit\" with the \"fluentbit\" logo and the word \"Backpressure\" again. The sink diagram is modified; a rectangular box with the text \"is more ok?\" is placed over the left basin, and a dashed red line with an arrow curves from the box down toward the drain pipe, illustrating a conceptual process or solution."
+}

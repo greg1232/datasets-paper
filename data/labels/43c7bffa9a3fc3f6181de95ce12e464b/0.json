@@ -1,0 +1,15 @@
+{
+  "video_id": "43c7bffa9a3fc3f6181de95ce12e464b",
+  "url": "./data/segments/3Z229_lKLpk-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.745,
+    5.235,
+    8.725,
+    12.215
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard, wearing glasses and a cream-colored sleeveless jacket over a long-sleeved shirt, delivers a speech from behind a podium. He stands against a textured green wall featuring a geometric, recessed pattern. To his right, a tall, narrow glass cylinder contains decorative plants and pink flowers. Two microphones are positioned on the podium in front of him. Throughout the sequence, the man is speaking, using his hands to gesture for emphasis. He begins with both arms extended outward, then transitions to gesturing with his left hand while his right remains lower. In the final moments, he shifts his posture slightly, moving his right hand as he continues to address the audience. The background and equipment remain static while his facial expressions and hand movements evolve as he speaks."
+}

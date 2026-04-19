@@ -1,0 +1,15 @@
+{
+  "video_id": "909bb37c17273d808cfd37dab27ea567",
+  "url": "./data/segments/3E6ctN22V7k-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.705,
+    1.175,
+    1.645
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white UNHCR truck travels from left to right across a dirt road. The truck features a large white tarp covering its cargo area with the blue text \"UNHCR\" printed on the side. The vehicle is a heavy-duty truck with a white cabin and a visible grill. The setting is an outdoor environment with green foliage and trees in the background under an overcast sky. As the truck moves forward, its position shifts toward the right side of the frame. The ground is a reddish-brown earth with patches of grass. No people are clearly visible within the cabin or around the vehicle. The lighting remains consistent throughout the sequence, capturing the steady motion of the truck across the rural landscape."
+}

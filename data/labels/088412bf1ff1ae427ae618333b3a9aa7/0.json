@@ -1,0 +1,15 @@
+{
+  "video_id": "088412bf1ff1ae427ae618333b3a9aa7",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-074.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An animated man with short dark hair, wearing a blue shirt, enters through a doorway. A bright green circle highlights the man's head as he appears, and a white rounded rectangular text box overlays the bottom of the scene. As the man steps further into the room, the text \"Rick Segall\" appears within the white box, followed by a green button containing the word \"Old.\" The background is a light gray wall with a doorway and various floating geometric shapes like stars, circles, and polygons in soft colors. By the end of the sequence, the man is more centrally positioned in the frame, and the full text \"Rick Segall\" and the \"Old\" button remain visible on the screen."
+}

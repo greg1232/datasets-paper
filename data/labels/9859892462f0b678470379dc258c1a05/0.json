@@ -1,0 +1,15 @@
+{
+  "video_id": "9859892462f0b678470379dc258c1a05",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.481,
+    4.442,
+    7.403,
+    10.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green all-terrain vehicle (ATV) is parked inside a garage or workshop with a concrete floor. The ATV features a black brush guard on the front, a front storage box, and knobby tires. The vehicle's headlight is visible on the front fairing. In the sequence, the camera is initially stationary, focusing on the front of the vehicle. Then, there is a rapid, blurry movement as the camera pans or shakes across the scene, momentarily obscuring the ATV. Finally, the camera stabilizes, returning to a view very similar to the initial shot, showing the same green ATV from the same front-facing angle. No people are visible in the frames, and there is no legible on-screen text or logos. The environment includes other equipment and parts blurred in the background, typical of a mechanical workspace."
+}

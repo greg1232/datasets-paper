@@ -1,0 +1,15 @@
+{
+  "video_id": "27e6b7e50a246475f22ca686dd402c1b",
+  "url": "./data/segments/3a0FD1177FA-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.313,
+    0.938,
+    1.564,
+    2.19
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown working on a crafting project on a white gridded surface. The individual wears a black watch on their left wrist and rings on their fingers. They are assembling a card using a brown cardstock base and decorative paper with a green, gold, and white floral pattern. In the initial frames, the person presses a rectangular piece of the patterned paper onto the brown cardstock. In subsequent frames, they adjust the placement of the patterned paper and a thin strip of the same decorative paper. Various crafting supplies are scattered around the workspace, including a white ink pad labeled \"MEMEN\" and a stamp set with the text \"BIRTHDAY\" and \"is filled with all the best things!\". A watermark reading \"Stamping Jill\" is visible in the bottom left corner of the scene."
+}

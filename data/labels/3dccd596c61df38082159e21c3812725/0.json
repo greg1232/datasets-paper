@@ -1,0 +1,15 @@
+{
+  "video_id": "3dccd596c61df38082159e21c3812725",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-298.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.102,
+    0.306,
+    0.51,
+    0.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played in a large stadium under bright lights with a crowd in the background. The field is green with white yard markers and red end zones featuring the text \"COMMANDERS\". Players in white uniforms and others in dark uniforms are positioned on the field. An overlay at the top of the screen shows game statistics, including \"2nd & 10\", \"1st\", and a countdown timer. Logos for \"FedEx\" and \"ULTIMATE TEA\" are visible. In a small inset window in the lower corner, a blonde man wearing headphones and a dark shirt reacts to the game, his mouth open in surprise or excitement. As the action progresses, the players move across the field, and the timer changes from \"0:10\" to \"0:09\". The camera maintains a wide shot of the field while the inset window remains constant, capturing the man's evolving facial expression."
+}

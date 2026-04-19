@@ -1,0 +1,15 @@
+{
+  "video_id": "b2cfc9eb2db944983bcabcd92d979cc3",
+  "url": "./data/segments/3tUAO4YGuKY-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.825,
+    1.375,
+    1.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a blue background adorned with several large, yellow five-pointed stars. The scene is characterized by a soft-focus effect, where bright, oval-shaped glows of light overlap the composition, creating a hazy and ethereal atmosphere. As the sequence progresses, these luminous blurs shift across the screen, momentarily obscuring and then revealing parts of the yellow stars. The blue backdrop remains constant, and the stars appear stationary, while the movement is driven entirely by the drifting light effects. There are no people, equipment, or legible text present in the scene. The visual progression focuses on the interplay between the static graphic elements and the dynamic, glowing light overlays that move smoothly across the frame."
+}

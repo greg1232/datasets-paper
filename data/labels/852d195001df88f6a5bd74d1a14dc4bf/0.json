@@ -1,0 +1,15 @@
+{
+  "video_id": "852d195001df88f6a5bd74d1a14dc4bf",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-380.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.425,
+    1.276,
+    2.127,
+    2.978
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey and white baseball cap with a red and black logo, and black over-ear headphones sits in front of a professional microphone. He is positioned in a studio setting against a dark, textured acoustic foam wall. The microphone, branded with the \"Blue\" logo, is mounted on a black boom arm with a shock mount and a pop filter. Throughout the sequence, the man remains in a stationary position, facing forward and speaking into the microphone. His expression and posture remain consistent across the frames, with only slight movements in his facial muscles as he talks. There is no on-screen text visible, and the composition of the shot remains static, focusing on the man from the chest up."
+}

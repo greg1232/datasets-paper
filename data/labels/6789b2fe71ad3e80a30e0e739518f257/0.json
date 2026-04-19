@@ -1,0 +1,15 @@
+{
+  "video_id": "6789b2fe71ad3e80a30e0e739518f257",
+  "url": "./data/segments/3E6ctN22V7k-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.205,
+    0.615,
+    1.025,
+    1.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, curly black hair, wearing a white patterned button-down shirt and a thin necklace, sits at a light-colored wooden table. He is focused on writing on a piece of white paper with a pen held in his right hand. The paper is placed atop a folder that features the logo \"ARCenCentre\" printed vertically along the side. The setting appears to be an indoor space with a dark background. Across all frames, the man remains in the same position, continuing to write as his hand moves slightly. White subtitles are overlaid at the bottom of the scene, reading: \"I like reading, I like writing, I am a slam artist, and I am also a journalist.\" The lighting is dim, casting soft shadows across the wooden surface of the table."
+}

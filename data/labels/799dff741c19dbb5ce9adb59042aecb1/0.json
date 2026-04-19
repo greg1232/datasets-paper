@@ -1,0 +1,15 @@
+{
+  "video_id": "799dff741c19dbb5ce9adb59042aecb1",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-470.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.758
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair, wearing a dark t-shirt and headphones, appears in a small picture-in-picture window in the bottom left of the screen. He is positioned in a room with a Christmas tree visible behind him and is gesturing with his hands and speaking with an animated facial expression. The main focus of the video is a large, 3D metallic block featuring a stylized \"U1\" logo in white with a yellow outline. This block is set against a dark background with vibrant green and blue neon light streaks and horizontal lines. As the video progresses, the 3D \"U1\" block subtly rotates and shifts its perspective, while the man in the inset window continues to gesture and speak, maintaining his energetic demeanor throughout the clip."
+}

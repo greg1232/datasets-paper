@@ -1,0 +1,15 @@
+{
+  "video_id": "9bf3f1366c0ea15eca49e99c5eb8fd16",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-218.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.63,
+    1.889,
+    3.149,
+    4.409
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a promotional graphic for \"The Opening Call\" featuring Basil Chapman. The layout is split, with the left side showing a high-angle shot of a workspace containing a laptop, a white keyboard, and a green mug on a light-colored desk. The right side has a white background with the logo \"TFNN.COM\" and the tagline \"EDUCATING INVESTORS.\" Across the center, a dark banner displays \"THE OPENING CALL,\" while a bottom blue banner reads \"Basil Chapman\" and \"The Tiger Technicians Hour | June 8th, 2022.\" As the sequence progresses, red and blue text appears on the right side. Initially, it asks \"NOT SATISFIED?\" and \"GET A,\" but it quickly transitions to a full message stating, \"NOT SATISFIED? GET A FULL REFUND WITHIN 30 DAYS.\" The scene remains static except for the appearing and disappearing text on the right."
+}

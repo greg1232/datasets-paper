@@ -1,0 +1,15 @@
+{
+  "video_id": "bc74f904b34a011d2bd903493eac069c",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.258,
+    0.775,
+    1.292,
+    1.808
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video shows a split-screen interface featuring a spreadsheet on the left and a video feed on the right. The spreadsheet lists various names and NBA teams, such as \"Simon Meyer\" for \"BROOKLYN NETS\" and \"Carl Hagdorn\" for \"CHARLOTTE HORNETS.\" To the right, a chat window displays messages from \"gloveg27\" and \"Nightbot,\" including a link for \"the BREAK SCHEDULE, SHIPPING INFO and MORE >>> https://bit.ly/2SdeK9y.\" Below this is a video feed of a man with a beard and dark hair wearing a black t-shirt, sitting in a room with white walls and a window behind him. A red and white \"CASEBREAKS.COM\" logo is superimposed at the bottom of his video feed. The scene remains static across the frames, with no changes in the man's position, the on-screen text, or the spreadsheet data."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "15a6e46ad81e1d22b2f73c01a7404486",
+  "url": "./data/segments/3Sq594WkayE-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.729,
+    2.187,
+    3.646,
+    5.104
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A rugged coastline features high, dark cliffs meeting a turbulent ocean under an overcast sky. White foam from crashing waves spreads across the dark water and onto a sandy beach in the foreground. As the scene progresses, the exposure adjusts, brightening the image and revealing more detail in the white surf and the texture of the cliff face. The waves continue to roll toward the shore, shifting slightly in position as they break. No people, animals, equipment, or on-screen text are visible. The overall atmosphere is moody and atmospheric, focusing on the natural movement of the sea against the static, imposing presence of the cliffs."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "865794f0e2966e8e063d127adf76e77a",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-480.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital interface for a sports video game displays the player profile of \"DAVID MAYO,\" who is rated \"92\" and listed as \"#51 LOLB.\" The screen features a dark purple background with gold accents and a portrait of Mayo in a red and gold football uniform. Various stats for \"DEFENSE\" and \"SPECIAL TEAMS\" are listed, including numerical values such as \"92,\" \"77,\" \"76,\" \"89,\" \"66,\" and \"90.\" Navigation tabs at the top read \"HOME,\" \"ATTRIBUTES,\" \"UPGRADES,\" \"STATS,\" and \"\u2318R.\" In the lower-left corner, a small rectangular video inset shows a man with light-colored hair wearing a gray shirt and headphones, sitting in a room with green lights in the background. Across the chronological sequence, the layout and data remain static, with only subtle shifts in the man's facial expression and head position within the inset video."
+}

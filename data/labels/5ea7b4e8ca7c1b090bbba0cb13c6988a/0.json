@@ -1,0 +1,15 @@
+{
+  "video_id": "5ea7b4e8ca7c1b090bbba0cb13c6988a",
+  "url": "./data/segments/3F2rz23IKUk-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.715,
+    11.145,
+    18.575,
+    26.005
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with glasses and brown hair stands in a room against a plain wall, wearing a black t-shirt with a yellow graphic and a lanyard with an ID badge. The t-shirt features the legible text \"Kny h\". He is positioned behind a black computer monitor. In the beginning, he has his right hand raised to his head while resting his left hand on his hip. As time progresses, he lowers his right hand and begins to gesture with it in front of his chest while speaking. His left hand remains resting on his hip throughout the sequence. He is the only person visible in the scene. The background is a neutral, light-colored wall with a vertical architectural seam and a white screen or board partially visible at the top."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "34585a97b3ef0410b8958e9e70e57287",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.371,
+    1.114,
+    1.856,
+    2.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene takes place in an office or committee room setting. In the initial frames, several people are seated around a table, including women in dark professional attire and a man wearing glasses and a dark suit. A bookshelf with green binders and a blue bin is visible in the background. As the video progresses, the focus shifts to a man in a grey suit and tie who is looking down at papers. Beside him, a red tote bag with a white graphic is resting on a surface. Each frame features a consistent overlay at the bottom containing the \"ORCA\" logo, the date \"April 12, 2019\", the text \"House Committee on General, Housing, and Military Affairs\", and a green bar stating \"S.23 Increasing the Minimum Wage\". The camera transitions from a wide shot of the group to a closer side profile of the man in the suit."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d64af9a65f2fc87d54a84c767a72c765",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-204.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.171,
+    0.513,
+    0.855,
+    1.197
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dark, urban setting featuring a digital stock ticker board serves as the background. The display shows various stock symbols and numbers, such as \"AXP,\" \"BAC,\" and \"BAX,\" along with the phrase \"NO RESULT: NAFTOC.\" Centered on the screen is large, white, all-caps text that evolves across the frames. It begins with \"YOU MIGHT THINK IF YOU WANT TO BE SUCCESFULL IN\" and then adds \"STOCK MARKET\" in subsequent frames. At the bottom of the screen, a blue banner contains the name \"Basil Chapman\" in a larger font, followed by a smaller line of text that reads \"The Tiger Technicians Hour | June 8th, 2022.\" Small, colorful spheres in red, green, and blue float in the upper right area of the frames. No people are visible. The scene remains static except for the appearing text and shifting numbers on the digital ticker."
+}

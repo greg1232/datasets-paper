@@ -1,0 +1,15 @@
+{
+  "video_id": "6b89f41bacdad5cdd5683aa6f0b13694",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-090.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.676,
+    2.027,
+    3.378,
+    4.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person examines the interior of a vehicle's hood. The scene begins with a close-up view of a small, rectangular white LED light mounted to the dark metal underside of the hood. As the camera pans and zooms out, it reveals more of the hood's structure and eventually looks down into the engine bay. The engine bay contains various mechanical components, including a white plastic fluid reservoir and black hoses. The vehicle is parked outdoors, with green foliage, trees, and a glimpse of a building and some debris visible in the background. No people are visible in the frames, and there is no on-screen text or logos. The perspective shifts from a tight focus on the auxiliary lighting to a wider shot showing the relationship between the hood and the engine compartment."
+}

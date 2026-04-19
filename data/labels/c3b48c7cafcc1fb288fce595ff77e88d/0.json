@@ -1,0 +1,15 @@
+{
+  "video_id": "c3b48c7cafcc1fb288fce595ff77e88d",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.54,
+    4.619,
+    7.698,
+    10.777
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a package on a table featuring a blue and orange mat with green palm tree designs. The person is wearing a dark blue shirt and is partially visible in a small inset video window in the lower corner of each frame. In the initial sequence, the hands lift a yellow cardboard sleeve off a white rectangular box. The background includes a logo that reads \"JASPYS\" in red and white, with the website \"CASEBREAKS.COM\" printed below it. As the sequence progresses, the yellow sleeve is removed completely, and the person reaches into the white box to pull out a sports trading card. The card features a player in a red and white jersey with a signature across the top. The overall setting appears to be a dedicated space for opening collectible card boxes, equipped with a specialized mat and recording gear."
+}

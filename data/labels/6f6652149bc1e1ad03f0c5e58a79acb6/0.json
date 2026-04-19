@@ -1,0 +1,15 @@
+{
+  "video_id": "6f6652149bc1e1ad03f0c5e58a79acb6",
+  "url": "./data/segments/3OnnmWsJTLM-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.35,
+    1.051,
+    1.752,
+    2.452
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long blonde hair stands in a vast, green field of wheat under a bright, sunny sky. She is viewed from behind, wearing a light-colored top and patterned blue and grey leggings. She holds a colorful kite aloft with her right arm extended. The kite features a multi-colored body with long, vibrant ribbons in shades of blue, yellow, and red trailing beneath it. As time progresses, the woman remains centered in the landscape, but the kite and its ribbons flutter and shift in the wind. By the final sequence, the kite tilts and the colorful streamers flow more dynamically in the air, while the woman maintains her position, gazing out toward the horizon of the sun-drenched field. No text or logos are visible in the scene."
+}

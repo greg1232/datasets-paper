@@ -1,0 +1,15 @@
+{
+  "video_id": "956d6336e23a6c881838b6f3b2899415",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.225,
+    0.675,
+    1.125,
+    1.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a terminal window running a server log, showing a series of HTTP requests with timestamps and status codes such as \"200\" and \"400.\" Legible text includes \"GET /rapagece http/1.0\" and \"GET /nicolas http/1.0,\" along with a command prompt showing \"docker-compose up.\" In the top right corner, a small circular profile picture of a man wearing a dark suit and tie is visible. As the sequence progresses, a cursor appears in the terminal, and the text \"docker-compose up\" is typed out. A white vertical cursor blinks at the end of the line, and a new line begins with the text \"Creating network...\", \"Creating volume...\", and \"Starting kubernetes_v_01_proxy_frontend_1...\". The overall scene is a screen recording of a developer interacting with a command-line interface to start a containerized environment."
+}

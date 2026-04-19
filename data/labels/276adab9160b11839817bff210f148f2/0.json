@@ -1,0 +1,15 @@
+{
+  "video_id": "276adab9160b11839817bff210f148f2",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-517.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.089,
+    0.266,
+    0.443,
+    0.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt and a matching green baseball cap sits at a desk in a studio setting. He is positioned in front of two black microphones, gesturing with his hands as he speaks. Behind him, banners feature the text \"UNIQUE FASHIONS\" and a logo with \"VRM\" and \"VISUAL REALITY.\" To his left, a clothing rack holds various garments, and another person wearing a blue garment stands partially visible in the background. On the desk, a small round sign reads \"TALK,\" and a logo in the bottom left corner says \"SMILE.\" Across the sequence, the man maintains his position and continues speaking, with slight shifts in his facial expression and hand movements, while the background and equipment remain static. He appears to be participating in a recorded interview or podcast session."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "aa68c54320e2934d148bd8806355ab89",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-387.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.471,
+    1.414,
+    2.357,
+    3.299
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short greyish hair wears black over-the-ear headphones and a black zip-up jacket over a grey shirt. He is positioned in front of a professional condenser microphone equipped with a pop filter, set against a background of dark grey acoustic foam panels with vertical ridges. As the scene progresses, the man shifts his gaze from looking straight ahead and slightly upward to glancing toward his right. His facial expression remains relatively neutral, with a slight movement of his mouth as he looks to the side. The camera remains static, keeping the man and the recording equipment centered in the frame throughout the sequence. No text or logos are visible in the scene."
+}

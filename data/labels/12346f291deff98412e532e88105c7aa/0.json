@@ -1,0 +1,15 @@
+{
+  "video_id": "12346f291deff98412e532e88105c7aa",
+  "url": "./data/segments/3i5-ZukC--g-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital, abstract space features a dark purple background filled with a network of thin, intersecting lines and glowing red particles. Bright red light flares and points of light emanate from various centers, creating a sense of depth and motion. Small, faint white squares and numerical data, such as \"19.6919\" and \"72.5139\", are scattered across the interface, suggesting a technological or data-driven environment. As the sequence progresses, the red light sources shift and expand, with bright streaks of particles moving across the screen. The clusters of red light merge and reorganize, creating new focal points of brilliance while the background grid of lines and subtle text remains constant. The overall effect is a dynamic visualization of digital connectivity or data transmission within a dark, holographic void."
+}

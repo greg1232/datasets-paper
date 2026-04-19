@@ -1,0 +1,15 @@
+{
+  "video_id": "f37a78d03cb39842da350c4fea17472d",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-290.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.723,
+    5.168,
+    8.613,
+    12.058
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a gray t-shirt, a gray and black baseball cap with a logo, and black headphones sits in front of a professional microphone. The setting is a recording studio with a dark, textured acoustic foam wall in the background. A \"Blue\" branded microphone is positioned directly in front of him, held by a boom arm. Throughout the sequence, the man remains in the same position, looking downward with a neutral or concentrated expression. In the initial moments, his arms are mostly still, but as the sequence progresses, he begins to gesture with his right hand, lifting it slightly to emphasize a point. His right arm features a visible tattoo. The lighting remains consistent, and the composition focuses on his upper body and the recording equipment."
+}

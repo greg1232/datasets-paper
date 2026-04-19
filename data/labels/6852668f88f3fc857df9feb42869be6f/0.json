@@ -1,0 +1,15 @@
+{
+  "video_id": "6852668f88f3fc857df9feb42869be6f",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-068.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.127,
+    0.381,
+    0.635,
+    0.89
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card featuring Mike Conley of the Utah Jazz, displayed against a background with a red logo and the text \"JASPYS\" and \"CASEBREAKS.COM\". The card, labeled \"OBSIDIAN\", shows Conley in a white uniform with the number 10. As the sequence progresses, the person's hand remains positioned to the right, holding the card. Inset video windows appear in the margins, showing a man wearing a black shirt sitting in a room with white walls and equipment. The scene remains largely static across the frames, with the focus staying on the high-detail sports card and the consistent branding of the \"JASPYS\" case break environment. The \"MIKE CONLEY\" nameplate is clearly visible at the bottom of the card."
+}

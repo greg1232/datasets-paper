@@ -1,0 +1,15 @@
+{
+  "video_id": "198e5c47f2ffd1b3b30fddfe2b2c730d",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-159.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a video call interface featuring a presentation of a conceptual diagram against a black background. The diagram consists of several circular nodes connected by thin blue lines, with a few nodes containing images, including one of a figure in white robes. A small video feed in the upper right corner shows a man wearing a dark cap and a dark shirt. The browser tabs at the top include titles such as \"Trust & Learning by Systemenich,\" \"Moments by Systemenich,\" and \"Future of Society by Systemenich.\" Along the top of the application window, text reads \"blackboard.ru! fruit learning.\" A list of names, including \"Saved Bedding,\" appears on the right side of the interface. Throughout the sequence, the layout remains static, with the man in the video feed occasionally shifting his head and the overall screen content staying consistent."
+}

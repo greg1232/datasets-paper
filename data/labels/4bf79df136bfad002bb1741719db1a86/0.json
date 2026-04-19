@@ -1,0 +1,15 @@
+{
+  "video_id": "4bf79df136bfad002bb1741719db1a86",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-153.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.256,
+    0.427,
+    0.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold up a graded sports card featuring a portrait of Paul Molitor, with the text \"PAUL MOLITOR\" and a signature visible on the card. The card is encased in a clear protective slab. In the background, a man wearing a dark blue hoodie and a headset is visible in a smaller inset video window, seated at a desk with equipment. The larger scene is set against a background featuring a logo with palm trees and the text \"JASPYS\" and \"CASEBREAKS.COM\". Across all frames, the hands holding the card remain relatively steady, though there are slight shifts in position as the card is showcased. The on-screen text \"JASPYS\" and \"CASEBREAKS.COM\" appears consistently in the upper right and lower center areas of the background. The man in the inset window maintains a similar posture throughout the sequence."
+}

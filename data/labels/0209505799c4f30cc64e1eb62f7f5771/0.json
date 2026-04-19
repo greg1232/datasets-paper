@@ -1,0 +1,15 @@
+{
+  "video_id": "0209505799c4f30cc64e1eb62f7f5771",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-076.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.029,
+    3.087,
+    5.146,
+    7.204
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short blonde hair wearing a black top appears in a small circular inset window over a larger scene. The main background shows a kitchen setting with a beige countertop. On the counter sits a large, worn metal baking sheet containing some green vegetable pieces and a large metal mixing bowl positioned above it. A red and white patterned cloth and a silver utensil are also visible near the bowl. In the top left corner of each scene, the logo for \"UCAR CENTER FOR SCIENCE EDUCATION\" is displayed against a blue sky background. Across the sequence, the woman in the inset remains relatively still, looking toward the camera, while the camera angle of the main scene remains fixed, showing no significant movement or change in the arrangement of the kitchen objects."
+}

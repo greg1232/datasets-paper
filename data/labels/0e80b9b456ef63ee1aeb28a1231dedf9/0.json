@@ -1,0 +1,15 @@
+{
+  "video_id": "0e80b9b456ef63ee1aeb28a1231dedf9",
+  "url": "./data/segments/3L_uHTClWfk-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.387,
+    0.646,
+    0.904
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a recording of a computer screen displaying a webpage from the IRS website. The top of the page features the IRS logo and links for \"SEARCH\", \"HELP\", and \"MENU\". The main content focuses on \"RMD Calculations and 50% tax on missed distributions\", explaining that an IRA trustee or plan administrator must report or calculate the required minimum distribution. It states, \"Not taking a required distribution, or not withdrawing enough, could mean a 50% excise tax on the amount not distributed,\" and mentions that the IRS has \"worksheets\" to help with calculations. A section titled \"Inherited IRAs\" is also visible. As the video progresses, the user scrolls down the page, causing the text to move upward and revealing more information about inherited IRAs. A mouse cursor is visible on the screen, moving slightly as the user navigates the content."
+}

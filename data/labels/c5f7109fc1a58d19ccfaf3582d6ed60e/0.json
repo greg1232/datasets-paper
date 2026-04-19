@@ -1,0 +1,15 @@
+{
+  "video_id": "c5f7109fc1a58d19ccfaf3582d6ed60e",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-396.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.143,
+    3.428,
+    5.714,
+    8.0
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey baseball cap with a red and white logo, and black over-ear headphones is seated in a studio. Behind him is a wall of black acoustic foam panels. He is positioned in front of a professional microphone mounted on a black boom arm, which features the brand name \"Blue\" on the arm and \" condenser microphone\" on the shock mount. The man has a tattoo on his right upper arm. As the sequence progresses, he speaks into the microphone while gesturing with his right hand, moving it from his side towards the center of the frame and then back down. His facial expression remains relatively neutral throughout the action. The setting and equipment remain static as he interacts with an unseen interlocutor."
+}

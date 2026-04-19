@@ -1,0 +1,15 @@
+{
+  "video_id": "12eccfc8cc06b79a7b18c404768a4dff",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.942,
+    2.825,
+    4.708,
+    6.592
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is visible in a small webcam overlay in the bottom left corner of a screen recording, appearing to explain a financial trading platform. He is wearing a dark shirt and speaking toward the camera. The main screen displays the Tickmill trading platform, featuring the logo \"TICKMILL\" and German text that reads, \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN.\" A trading chart for GBPUSD is open, showing a candlestick price action graph with various horizontal support and resistance zones highlighted in red, yellow, and green. Over the course of the sequence, the man continues to talk as the cursor moves across the screen. In the final frame, the view shifts to a different timeframe or asset, and the analyst draws a diagonal blue trendline descending across the chart, cutting through a red highlighted zone."
+}

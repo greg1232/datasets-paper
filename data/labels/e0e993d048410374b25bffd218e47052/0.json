@@ -1,0 +1,15 @@
+{
+  "video_id": "e0e993d048410374b25bffd218e47052",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.287,
+    0.862,
+    1.438,
+    2.012
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser open to the \"RANDOM.ORG\" website, showing a list of NBA teams. A live stream overlay in the bottom right corner shows a man with a beard and dark hair wearing a black t-shirt, sitting in front of a computer setup. A red and white banner at the bottom of the screen reads \"JASYP CASEBREAKS.COM\". To the right of the main window, a chat sidebar shows messages from users like \"glowbug27\" and \"Nightbot\", with a recurring message: \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE >>> https://bit.ly/2ZqSeka9\". The content of the browser window changes from a numbered list starting with \"11. NEW ORLEANS PELICANS\" to a new randomized list starting with \"1. MINNESOTA TIMBERWOLVES\". Eventually, the browser displays a longer list including \"1. DENVER NUGGETS\" and \"2. MILLENNIA MAGIC\", along with an IP address and a timestamp of \"2023-05-20 03:13:27 UTC\"."
+}

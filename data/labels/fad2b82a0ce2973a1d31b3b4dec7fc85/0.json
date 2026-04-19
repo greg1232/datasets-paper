@@ -1,0 +1,15 @@
+{
+  "video_id": "fad2b82a0ce2973a1d31b3b4dec7fc85",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.088,
+    0.263,
+    0.438,
+    0.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand, wearing a gold ring on the ring finger, is positioned near the mechanical components of a vehicle's belt drive system. The system features two large, silver metal pulleys connected by a black rubber belt. The larger pulley is located at the top right, while a smaller pulley is positioned at the bottom left. To the right of the pulleys is a textured metal guard. Across the sequence, the hand moves slightly, gesturing toward the belt and pulleys. The movement is subtle, with the hand shifting its position and angle as it points toward the mechanical assembly. The background consists of dark mechanical parts and metallic surfaces. There is no visible clothing other than the hand, no legible on-screen text, and no logos present in the scene."
+}

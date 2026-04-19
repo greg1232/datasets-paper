@@ -1,0 +1,15 @@
+{
+  "video_id": "fea3eb4c5866b81a2465fdbee40afe45",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-127.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.5,
+    2.5,
+    3.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast depicts several men standing behind a table equipped with numerous microphones in what appears to be a press conference. The men are dressed in semi-formal attire, including sweaters, jackets, and a white scarf. One man in a blue sweater is speaking into the microphones. The background features a banner for \"\u0930\u093e\u091c\u092d\u0935\u0928 \u092d\u0935\u0928, \u092a\u091f\u0928\u093e\" and various news graphics. Red banners across the bottom of the screen contain the text \"\u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930 \u0928\u0947 PM \u092e\u094b\u0926\u0940 \u0915\u094b \u0927\u0928\u094d\u092f\u0935\u093e\u0926 \u0915\u0939\u093e\", while a top banner reads \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\". Names like \"\u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\", \"\u0935\u093f\u091c\u0947\u0902\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\", \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930\", and \"\u0938\u0941\u092c\u0930\u093e\u0924 \u091a\u094c\u0927\u0930\u0940\" appear as labels next to the individuals. The scene remains consistent across the frames, with the men remaining in position as the on-screen text slightly shifts, including the addition of the phrase \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u093c\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\" in the lower frames. A \"MAHARASHTRA\" logo and a timestamp of \"10:07 PM\" are visible in the corners."
+}

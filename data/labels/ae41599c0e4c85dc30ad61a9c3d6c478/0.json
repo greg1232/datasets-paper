@@ -1,0 +1,15 @@
+{
+  "video_id": "ae41599c0e4c85dc30ad61a9c3d6c478",
+  "url": "./data/segments/3Smz5pevbI4-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.048,
+    18.143,
+    30.239,
+    42.334
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a world map with several call-out boxes highlighting specific geographic regions in brown. A large map of the world serves as the background, with call-out boxes zooming in on Ireland, Taiwan, Sri Lanka, and Madagascar. Each highlighted region is filled with a dark reddish-brown color. As the sequence progresses, the highlighted areas shift slightly. The call-out box for Madagascar moves and changes size, while the other boxes remain relatively stable in their positions. The map is stylized with soft colors, featuring light tan continents and a blue ocean. There are no people, equipment, or legible text present in the frames. The scene remains consistent in its overall composition, with only the specific highlight for Madagascar adjusting its boundaries and position across the frames."
+}

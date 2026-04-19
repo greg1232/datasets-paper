@@ -1,0 +1,15 @@
+{
+  "video_id": "4361807f4cc19190a9bb822cd73318b6",
+  "url": "./data/segments/3r714PCt5mU-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.379,
+    1.137,
+    1.896,
+    2.654
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a graphic presentation against a teal and white background. In the upper left, a collection of colorful educational pamphlets and infographics is partially visible, obscured by a white overlay. Beside it, the orange text \"\u00bfC\u00f3mo pueden contribuir las\" appears. As the sequence progresses, the white overlay disappears, fully revealing a collage of various educational documents and digital resources. To the left of this collage, the text expands to read \"\u00bfC\u00f3mo pueden contribuir las plataformas REA a la mejora del sist\". By the final frame, the text is completed, stating \"\u00bfC\u00f3mo pueden contribuir las plataformas REA a la mejora del sistema educativo y el desarrollo profesion\". The collage of infographics remains static on the right side of the screen, featuring a mix of blue, red, and yellow designs with small images and text blocks, while the accompanying orange question grows in length across the white space on the left."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4b326d2daf63cc2183c9eeec930ca0fd",
+  "url": "./data/segments/3QD9oO6sRns-Scene-148.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.583,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a graded baseball card in a clear protective plastic case, showcasing a player in a batting stance. The background features a desk with white boxes and a blue and white banner. In the first frame, the card is tilted, while in the subsequent frames, it is held upright and centered. A small inset video in the lower right corner shows a man wearing a black t-shirt and a black baseball cap, watching the card. On-screen graphics include the text \"CASEBREAKS.COM\" and a larger \"BREAK\" logo at the bottom of the screen. The cards are identified by a label that reads \"TBD-MLB.\" As the sequence progresses, the person shifts their grip on the case to better display the card's front face to the camera."
+}

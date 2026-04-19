@@ -1,0 +1,15 @@
+{
+  "video_id": "d5f9b707477faa2b05440241f8641e80",
+  "url": "./data/segments/3VCwl-aQ_oQ-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.171,
+    0.513,
+    0.854,
+    1.196
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a screen recording of a website from RANDOM.ORG featuring a \"List Randomizer\" tool. The page contains a numbered list from 1 to 10 in random order, beginning with \"1. 7\" and ending with \"10. 4.\" Text at the top warns, \"Advisory: We only operate services from the RANDOM.ORG domain.\" A chat overlay on the right shows messages from users \"nightbot\" and \"nogent,\" with one message stating, \"I think if you are a team signing Ohtani, you are going all in on everyone you can.\" In the lower-right corner, a small webcam feed shows a man with a beard wearing a black baseball cap and a black shirt, appearing in front of a background with \"CASEBREAKS.COM\" logos. The scene remains static across the frames, with no visible changes in the text, the list order, or the man's posture."
+}

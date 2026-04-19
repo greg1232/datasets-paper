@@ -1,0 +1,15 @@
+{
+  "video_id": "7193e68287321a5647f3b56290b81d5c",
+  "url": "./data/segments/3L_uHTClWfk-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.392,
+    1.175,
+    1.958,
+    2.742
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a close-up shot of the Statue of Liberty against a twilight sky. The statue is shown from the waist up, holding a torch aloft in its right hand and a tablet in its left. The lighting suggests a sunset or sunrise, with warm orange and yellow hues streaking across the horizon beneath a darkening blue sky. As the sequence progresses, the camera subtly pans or zooms, causing the statue to shift its position slightly within the frame. There are no people, on-screen text, or logos visible. The statue's greenish patina is prominent, and the crown's spikes are clearly defined against the gradient of the sky. The scene is static and serene, focusing entirely on the iconic monument as it stands against the changing light of the evening sky."
+}

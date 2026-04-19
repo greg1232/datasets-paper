@@ -1,0 +1,15 @@
+{
+  "video_id": "c008399e662bd22cacfa5bb6f4dc5570",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-220.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.267,
+    0.801,
+    1.335,
+    1.869
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene takes place in a room with wooden paneled walls, where a small group of people is gathered for a presentation. At the front of the room, two men stand behind a podium; one man on the left wears a blue shirt, and the man on the right wears a dark vest over a white shirt. An audience sits in the foreground with their backs to the camera, including individuals wearing a maroon jacket, a navy blue sweater, and a yellow shirt. A logo with the text \"ORCA\" is visible in the lower right of the frame. Throughout the sequence, the people remain in their positions with minimal movement, suggesting a steady shot of a lecture or meeting. The lighting is consistent across the scene, and no significant changes in action or environment occur between the frames."
+}

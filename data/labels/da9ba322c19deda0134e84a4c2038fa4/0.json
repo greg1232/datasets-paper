@@ -1,0 +1,15 @@
+{
+  "video_id": "da9ba322c19deda0134e84a4c2038fa4",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.062,
+    9.188,
+    15.312,
+    21.438
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"Logging in Kubernetes Workflow\" is displayed, featuring a diagram that explains how \"Container Streaming Logs over stdout / stderr\" are handled. The slide shows a \"Node 1\" container containing a \"Pod / Apache\" section. An arrow points from this section to a list of file paths, including \"/var/log/containers/apache-logs_default_apache-792bba.log\", \"/var/log/containers/...\", and \"/var/log/containers/...\". The text \"stdout / stderr\" is written above the arrow. In the top right corner of the screen, a small inset video shows a person with short dark hair wearing a grey shirt, appearing to be the presenter. A small blue gear icon is visible in the bottom right corner of the slide area. Across all frames, the visual content remains static, with no changes to the slide, the text, or the person in the inset video."
+}

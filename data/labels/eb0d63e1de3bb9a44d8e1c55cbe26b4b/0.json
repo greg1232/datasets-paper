@@ -1,0 +1,15 @@
+{
+  "video_id": "eb0d63e1de3bb9a44d8e1c55cbe26b4b",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.538,
+    0.897,
+    1.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up sequence captures the textured surface of a bright red car seat. The material features a combination of smooth fabric and a perforated pattern on the center panel. A dark, irregular stain or area of wear is visible across the middle of the seat. As the sequence progresses, the camera angle shifts slightly, moving from a higher perspective to a lower, more frontal view. This movement changes the lighting on the red fabric, causing different highlights and shadows to appear across the folds and creases of the upholstery. No people, text, or logos are visible in the frames, which focus entirely on the detail and condition of the red automotive interior."
+}

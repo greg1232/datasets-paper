@@ -1,0 +1,15 @@
+{
+  "video_id": "d23df0e114aa91ba3b400de0d12b7efd",
+  "url": "./data/segments/3tUAO4YGuKY-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.23,
+    0.69,
+    1.15,
+    1.61
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The provided image does not contain a video sequence or recognizable scenes with people, settings, or objects. Instead, it displays a recurring abstract pattern consisting of stylized, rounded shapes in contrasting tones of black, white, and grey. The design features alternating light and dark curved forms that create a rhythmic, geometric sequence. There are no people, clothing, interactions, equipment, or legible on-screen text present in any part of the image. The visual remains static and consistent across the entire composition, showing a seamless repeat of the same abstract motif without any chronological progression or change in scenery."
+}

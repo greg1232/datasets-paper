@@ -1,0 +1,15 @@
+{
+  "video_id": "ee9799457bb9d2b386cef9099d614a16",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-191.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.271,
+    0.813,
+    1.356,
+    1.898
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with gray hair, wearing glasses and a light blue button-down shirt, stands behind a wooden podium in what appears to be a lecture hall or auditorium. He is addressing a seated audience, some of whom are visible from the back, including a woman in a blue and red shawl and a man in a maroon shirt. The room features wood-paneled walls and blinds covering the windows. A black speaker stands to the left of the man. On the front of the podium, a small logo is visible, and the text \"ORCA\" appears as an overlay on the right side of the scene. As the sequence progresses, the man looks down at papers on the podium and gestures with his hands while speaking. The audience remains seated and attentive, with minimal movement between the frames."
+}

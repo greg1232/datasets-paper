@@ -1,0 +1,15 @@
+{
+  "video_id": "c3a44f94a84447f5f1806df0036acdba",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-146.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.744,
+    32.232,
+    53.72,
+    75.208
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with gray hair and glasses stands behind a wooden podium, speaking into a black microphone. He wears a blue patterned shirt adorned with a beaded necklace and a colorful sash around his waist. He is positioned in front of a wall with brown horizontal blinds. In the top left scene, on-screen text identifies him as \"Roland Bluto\" and \"Abenaki Poet,\" and the logo \"ORCA\" appears on the right. As the sequence progresses, the man continues to speak, shifting his gaze and using subtle hand gestures, with his right hand moving to touch the podium. The \"ORCA\" logo remains visible throughout. The background and his attire remain constant, while the camera captures slight variations in his posture and facial expressions as he delivers his presentation."
+}

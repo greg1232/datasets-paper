@@ -1,0 +1,15 @@
+{
+  "video_id": "8c66f3feb6cd66d28bf28571346dfcd3",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-167.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An elderly man with glasses, wearing a blue short-sleeved button-down shirt, stands behind a wooden podium in a room with wood-paneled walls and brown blinds. He is speaking and looking toward an audience. In the foreground, several people are seen from behind, including a woman in a blue and red patterned shirt and a man in a maroon shirt. A black speaker stands to the left of the podium, and a microphone extends toward the man. A logo featuring a red crest is visible on the front of the podium, and the white text \"ORCA\" appears on the right side of the screen. Across the sequence of frames, the scene remains largely static, with only minor movements in the man's posture and facial expressions as he continues to address the room."
+}

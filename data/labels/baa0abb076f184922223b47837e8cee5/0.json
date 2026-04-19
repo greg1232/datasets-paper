@@ -1,0 +1,15 @@
+{
+  "video_id": "baa0abb076f184922223b47837e8cee5",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot captures a person's hand pointing toward the underside of a vehicle. The scene focuses on various mechanical components, including a dark metal frame, a light-colored metal pipe with a joint, and a circular part. The person's hand, with a fair skin tone, enters from the left, with the index finger extended to point toward a dark metal bar. As the sequence progresses, the finger moves slightly, maintaining its focus on the area between the dark bar and the surrounding mechanical structures. The background consists of a neutral-toned, textured surface, likely a garage floor or a protective mat. The lighting is dim, highlighting the textures of the metal and the skin. There is no on-screen text or logos visible in the frames."
+}

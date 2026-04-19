@@ -1,0 +1,15 @@
+{
+  "video_id": "a396350e74786141d98573c02b971720",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.508,
+    1.525,
+    2.542,
+    3.558
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people are performing on a blue carpeted stage inside a large hall with high ceilings and ornate chandeliers. The performers include several individuals wearing white traditional attire, one person in a blue traditional ensemble, and another in a black outfit. In the beginning, the performers stand relatively still, facing different directions. As the sequence progresses, they begin a synchronized movement; the person in blue and those in white raise their arms in a rhythmic motion, while the person in black also lifts their arms. An audience is visible in the background, seated at tables with red cloths. The scene remains consistent in location, with the only change being the physical actions of the performers as they transition from a stationary pose into a coordinated dance or ceremony."
+}

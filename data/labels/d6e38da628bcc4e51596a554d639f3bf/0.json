@@ -1,0 +1,15 @@
+{
+  "video_id": "d6e38da628bcc4e51596a554d639f3bf",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.84,
+    11.52,
+    19.2,
+    26.88
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser window displaying a conceptual map with various connected nodes and a small video inset of a man. The map features colorful circles containing icons, linked by blue lines to a central white table. The table contains three columns titled \"Systems,\" \"Patterns,\" and \"Causes,\" with text such as \"Circular Thinking\" and \"Just-in-time Production\" listed under them. The browser tabs at the top include titles like \"Trust & Learning by Systemenith\" and \"Rural Community Food System.\" In the top right corner, a man with light-colored hair and a dark shirt is visible in a video call window. As the sequence progresses, the man remains in his video frame, and the main content of the browser window stays static, showing no movement or changes to the diagram or the interface."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5372b4b54892651cd3e15d7fea06542c",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.993,
+    2.978,
+    4.963,
+    6.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A yellow hydraulic excavator and a large yellow haul truck operate within a sandy, open-pit mining area surrounded by a distant line of green trees. The excavator is positioned on a dirt slope, scooping earth and depositing it into the bed of the haul truck. As the sequence progresses, the excavator's bucket moves through its loading cycle, lifting a load of soil and tipping it into the truck. A \"VG\" logo is visible in the upper right corner of every frame. In the final two frames, yellow and white text appears at the bottom of the screen, stating, \"We are talking a world class gold project in a Tier 1 mining district.\" No people are visible in the scene."
+}

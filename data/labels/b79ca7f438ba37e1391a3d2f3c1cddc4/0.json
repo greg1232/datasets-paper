@@ -1,0 +1,15 @@
+{
+  "video_id": "b79ca7f438ba37e1391a3d2f3c1cddc4",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-685.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.719,
+    2.158,
+    3.597,
+    5.036
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt that reads \"ION NEVER DO SHIT AT WORK\" is speaking into a professional black microphone. He is positioned in a room with a wall of framed photographs and a white mannequin wearing a white t-shirt in the background. A clothing rack with several garments is also visible. On-screen, a logo featuring the word \"TALE\" inside a circle and the red text \"TALE OF THE TAPE\" appear in the lower corners. Throughout the sequence, the man's facial expression shifts as he speaks, moving from a slight smile with closed lips to an open-mouthed expression while talking. His head tilts and moves slightly, but he remains in the same position relative to the microphone and the background elements."
+}

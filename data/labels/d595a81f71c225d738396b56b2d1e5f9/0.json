@@ -1,0 +1,15 @@
+{
+  "video_id": "d595a81f71c225d738396b56b2d1e5f9",
+  "url": "./data/segments/3fokLGPK15Q-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.29,
+    0.87,
+    1.45,
+    2.03
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people are seated on a stage during a panel discussion, set against a dark background with vibrant purple lighting and geometric shapes. A man on the left wears a white button-down shirt and dark trousers, a woman in the center wears a black t-shirt and black pants, and a man on the right wears a grey suit over a light blue shirt. They are seated in light-colored wooden chairs. In front of the man on the left and the man on the right are white, industrial-looking rectangular boxes with various components visible. To the right of the stage, the letters \"SL\" are visible in a bright pink glow. Throughout the sequence, the man on the left gestures with his hands while speaking, shifting from a folded-hand position to active hand movements. The woman and the man in the suit remain relatively still, listening and looking toward the speaker."
+}

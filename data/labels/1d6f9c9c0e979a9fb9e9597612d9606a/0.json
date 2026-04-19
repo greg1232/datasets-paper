@@ -1,0 +1,15 @@
+{
+  "video_id": "1d6f9c9c0e979a9fb9e9597612d9606a",
+  "url": "./data/segments/3HgCF6yVXko-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.55,
+    1.65,
+    2.75,
+    3.85
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A bright, minimalist bedroom features two single beds with white linens and pink accents, a white dresser, and a large red floral area rug on a tiled floor. The room is lit by natural light coming through windows covered by sheer white curtains. A white dresser stands between the two beds, with several small blue and white bottles arranged on its top surface. The walls are a neutral off-white color, and the room is devoid of people. Across the sequence, the camera remains largely stationary, capturing a wide shot of the space. There is very little movement between the frames, with only slight shifts in perspective and light, maintaining a consistent view of the static interior layout. No text or logos are visible in the scene."
+}

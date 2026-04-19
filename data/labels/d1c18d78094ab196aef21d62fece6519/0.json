@@ -1,0 +1,15 @@
+{
+  "video_id": "d1c18d78094ab196aef21d62fece6519",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    33.004,
+    99.011,
+    165.019,
+    231.027
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, greyish hair and facial stubble is situated in a recording studio, positioned in front of a grey, sound-absorbing acoustic wall. He wears over-ear black headphones and a black long-sleeved shirt over a grey undershirt. A professional condenser microphone on a shock mount is positioned directly in front of him. As the sequence progresses, the man shifts his gaze and facial expression; he initially looks upward and slightly to the side with wide eyes, then closes his eyes and tilts his head slightly downward. In the subsequent moments, he returns to looking upward and to the side before shifting his gaze forward with a neutral expression. His mouth remains mostly closed throughout the sequence, though there is slight movement in his jaw. He remains stationary in his seat, with the microphone and background remaining constant."
+}

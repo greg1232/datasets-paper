@@ -1,0 +1,15 @@
+{
+  "video_id": "58191777f7fd55f0e8bd2f919bedd2b5",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-478.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.125,
+    1.875,
+    2.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video screen displays a player profile for \"DAVID MAYO\" in a sports simulation game, featuring his overall rating of \"92\" and position \"LOLB\". The interface is dominated by purple hues with various statistical categories like \"KEY\" and \"GENERAL\" and lists of numerical attributes. A character card shows Mayo in a red and gold football uniform with \"MU LIONS\" on the jersey. In the lower left corner, a small video inset shows a fair-skinned man with blonde hair wearing a dark shirt and a headset, sitting in a room with a decorated Christmas tree visible behind him. As the sequence progresses, the menu navigation changes, shifting from the \"KEY\" attributes to the \"GENERAL\" and \"OFFENSE\" sections. The numerical values on the screen update to reflect these different categories, while the man in the inset remains in place, observing the screen."
+}

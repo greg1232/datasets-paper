@@ -1,0 +1,15 @@
+{
+  "video_id": "4e43233756c7fe7c1d9c8981db3e47ca",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.583
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown mixing a light brown, crumbly mixture inside a large metal bowl resting on a wooden surface. In the upper right, a small white plate holds a portion of the same mixture, and a small red bowl contains white, puffed grains. The logo \"UCAR CENTER FOR SCIENCE EDUCATION\" appears in the top left of every frame. As the sequence progresses, the person uses both hands to stir and fold the contents of the metal bowl, moving the mixture from the sides toward the center. The person's hands move rapidly, creating a slight blur in the motion. The surrounding objects, including the red bowl and white plate, remain stationary while the mixture in the metal bowl is shifted and agitated through the continuous mixing action."
+}

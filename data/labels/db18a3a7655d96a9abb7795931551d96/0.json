@@ -1,0 +1,15 @@
+{
+  "video_id": "db18a3a7655d96a9abb7795931551d96",
+  "url": "./data/segments/3Kxl1O310k8-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.145,
+    0.435,
+    0.725,
+    1.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of video call participants are shown in a multi-person gallery view. The participants include a man in a black jacket and glasses who gestures with his hand, a man in a dark shirt and glasses, a woman with blonde hair wearing headphones, a woman with blonde hair in a light-colored top, a person wearing a blue and white patterned garment, a man in a grey zip-up jacket, a man in a white button-down shirt in front of a brick building, and a man with a beard in a dark shirt. The scene remains static across the sequence, showing the same set of individuals in their respective environments, including indoor rooms and one outdoor location. No on-screen text or logos are visible. The participants remain in their designated frames, maintaining their positions as the video progresses."
+}

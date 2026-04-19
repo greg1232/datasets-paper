@@ -1,0 +1,15 @@
+{
+  "video_id": "a41534c1c3b7866a340434c42c1a5737",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-194.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.025,
+    3.075,
+    5.125,
+    7.175
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a digital whiteboard with a causal loop diagram consisting of green text and curved blue arrows on a black background. The diagram includes phrases such as \"Birds of Forest,\" \"Attractiveness of Garden,\" \"Unsightly Gourds,\" and \"Buy Bird Seed.\" In the upper portion of the screen, a web browser is open with a URL starting with \"blackboard.com\" and tabs titled \"Trail & Learning by Systemantics,\" \"Elements, by Systemantics,\" and \"Equity of Destiny by Systemantics.\" A small video feed in the upper right corner shows a man with short hair wearing a dark shirt. As the sequence progresses, a red arrow is drawn into the diagram, connecting \"Birds of Forest\" to \"Present break-ins.\" The man in the video feed remains present, though his position shifts slightly, and the cursor moves across the black workspace as the red arrow is added to the existing system of relationships."
+}

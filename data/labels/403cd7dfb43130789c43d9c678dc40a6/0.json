@@ -1,0 +1,15 @@
+{
+  "video_id": "403cd7dfb43130789c43d9c678dc40a6",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A monochrome, sketched animation depicts two people standing against a background of graph paper and curved lines. On the left, a person in a long-sleeved shirt has their right arm raised with a clenched fist. To the right, another person in a light-colored button-down shirt has both arms extended upward in a celebratory gesture. Both individuals have their mouths open as if shouting or singing. Throughout the sequence, the figures remain in these static poses, but the drawing style flickers slightly, creating a shimmering effect. At the bottom of the scene, white text on a black bar reads, \"Arise sing. We are going to win. Flags of unity are now advancing .\" Small text just above this bar on the right side states, \"Music: \u0160vic mikrofona 036\". The scene remains consistent in composition and content across the frames."
+}

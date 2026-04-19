@@ -1,0 +1,15 @@
+{
+  "video_id": "30b98025e3bf2f708274362f009574e7",
+  "url": "./data/segments/3JGRt3BFYrM-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.454,
+    19.362,
+    32.271,
+    45.179
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a technical software interface for clock configuration. The workspace features a complex schematic diagram with interconnected blocks, lines, and labels such as \"PLL0_CLK\" and \"RTClk Clock Main.\" In the first frame, the diagram is visible with several highlighted sections and text labels. As the sequence progresses, the user interacts with the software. By the third frame, a \"Project Settings\" pop-up window appears in the center of the screen, containing a list of options including \"Project settings,\" \"Application Structure,\" \"Translation Unit,\" and \"Toolchain / CXX.\" This window includes a \"Browse\" button and a \"Cancel\" button at the bottom. The final frame shows the software interface with the \"Project Settings\" window still active, while the background schematic remains unchanged. The top menu bar of the application displays options such as \"File,\" \"Project,\" \"Clock Configuration,\" and \"Help.\""
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9cfc1861e3aa28ad11d03d0ad5ce8abb",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short blonde hair wearing a black long-sleeved shirt is shown in a small picture-in-picture inset in the lower-left corner of each frame. She is positioned in a kitchen with light-colored cabinets and a blue curtain in the background. The main screen begins with a heavy glitch effect, obscuring the view with fragmented gray and blue blocks and the white text \"Popcorn Hailstones.\" As the sequence progresses, the glitching persists but reveals a top-down view of a kitchen stove. A silver pot containing a yellowish liquid sits on one of the electric burner coils. The image transitions from the initial text overlay into a fragmented view of the cooking process, with distorted slivers of the stovetop and pot appearing amidst the digital artifacts. The woman remains visible and stationary in her inset window throughout the transition."
+}

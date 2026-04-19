@@ -1,0 +1,15 @@
+{
+  "video_id": "8f2da6cd58758aa216eb8364322b7fe7",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-278.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.185,
+    0.555,
+    0.925,
+    1.295
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person appears in a small video feed in the top right corner of a screen share, wearing a dark-colored shirt. The main display shows a presentation slide titled \"03r Mass Market Consumption,\" which discusses the \"Subservement of consumption of food, going to the grocery buying food, cooking dinner\" and mentions \"Local Sustainable Farming.\" The slides contain various diagrams with labels such as \"Local Sustainable Food Ecosystem Loop Cluster,\" \"Safe, Healthy but Expensive Food,\" \"level of supply,\" and \"People's Health & Welfare.\" As the video progresses, the presenter navigates through the presentation, transitioning from a complex circular diagram in the first half to a simplified flow chart in the second half. This later chart connects \"to consumers\" with \"People's Health & Welfare\" and \"Retail Stores\" with \"03r Mass Market Consumption,\" noting that stores \"buy from food retailers.\""
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ef6242a146caae691dba57d2285d0cb8",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-313.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.302,
+    0.906,
+    1.51,
+    2.115
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a sports trading card encased in a clear plastic protector, showcasing a gold-bordered card of baseball player Rod Carew. The card features a photo of Carew in a blue California Angels uniform and includes a signature. Text on the card reads \"ROD CAREW\" and \"First baseman CALIFORNIA ANGELS\". In the background, another man wearing a dark blue shirt sits at a desk with a computer setup. A logo for \"JASPYS\" and the website \"CASEBREAKS.COM\" are visible in the upper right corner of the frames, along with a smaller \"JASPYS\" logo further down. The scene is set in an indoor room with a palm tree graphic visible on a surface below the card. As the sequence progresses, the person subtly tilts and shifts the card, causing light to reflect off the gold border and the plastic case."
+}

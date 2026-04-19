@@ -1,0 +1,15 @@
+{
+  "video_id": "ced23ad6fd0702aa4f654c539e3b3d44",
+  "url": "./data/segments/3QD9oO6sRns-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.273,
+    0.819,
+    1.365,
+    1.91
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a box of sports trading cards on a black surface. The box is blue and white, featuring the Topps logo and the text \"CLEARLY AUTHENTIC\" and \"2020\". The person is wearing a dark short-sleeved shirt. As the video progresses, they lift a white cardboard flap from the top of the box, revealing the contents inside. A small white picture-in-picture window in the lower right and center shows a man wearing a black t-shirt and a baseball cap. Overlaid on the bottom of the screen is a large red, white, and blue logo that reads \"JASPYS CASEBREAKS\". In the background, other similar boxes are partially visible. The sequence captures the process of unboxing the product, moving from the initial closed box to the opening of the inner packaging."
+}

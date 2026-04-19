@@ -1,0 +1,15 @@
+{
+  "video_id": "73206464c473f32688f107ad05d23e5b",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-095.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.27,
+    0.45,
+    0.63
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sports stadium scoreboard is displayed against a dark background, featuring a football match between two teams. The screen shows a score of \"0-2\" with a clock reading \"45:00\" and a note stating \"TIEMPO EXTRA +2\". Goal scorers are listed as \"9' F. MENDY\" and \"15' BENZEMA\". Logos for the two competing teams, including one for Real Madrid, are visible on either side of the score. Below the score, the text \"LaLiga Santander\" appears alongside a \"CAJA RURAL GRANADA\" advertisement. To the left of the scoreboard, a \"WINAMAX\" logo is present. The background reveals empty red stadium seating and a sign that reads \"NUEVO LOS KARMENES\". Throughout the sequence, the image remains static, with no changes in the score, time, or visual elements, showing the same still shot of the scoreboard and the surrounding empty stadium environment."
+}

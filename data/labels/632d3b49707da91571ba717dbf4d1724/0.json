@@ -1,0 +1,15 @@
+{
+  "video_id": "632d3b49707da91571ba717dbf4d1724",
+  "url": "./data/segments/3E6ctN22V7k-Scene-104.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.145,
+    0.435,
+    0.725,
+    1.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark skin and short hair, wearing a light pink collared shirt, is captured in a medium shot indoors beneath a reddish-brown metal roof structure. He is speaking and smiling, looking toward another person whose shoulder and back of the head are visible in the left foreground. Throughout the sequence, the man maintains a positive expression and gestures with his right hand, raising his index finger to emphasize his point. Across the bottom of the scene, white subtitles read, \"Tomorrow, or after tomorrow, our country will be at peace.\" The lighting is soft, and the background consists of the structural beams of the ceiling. The scene remains static in terms of location and composition, with only the man's facial expressions and slight hand movements changing as he continues to speak."
+}

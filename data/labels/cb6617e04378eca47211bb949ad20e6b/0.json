@@ -1,0 +1,15 @@
+{
+  "video_id": "cb6617e04378eca47211bb949ad20e6b",
+  "url": "./data/segments/3fokLGPK15Q-Scene-092.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.295,
+    0.885,
+    1.475,
+    2.065
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people sit on a stage during a panel discussion. A man on the left wears a white long-sleeved button-down shirt and dark trousers; he sits with his hands clasped and looks toward the other panel members. In the center, a woman wears a black t-shirt and black trousers, sitting with her hands in her lap and looking toward the man on the left. A man on the right wears a grey suit jacket over a light-colored shirt and dark trousers, sitting with his legs crossed and looking toward the center. They are seated in light-colored wooden chairs; the man on the left rests his feet on a white, textured block. The background is a dark purple hue with pink neon lighting accents and large, partially visible magenta lettering. Across the sequence of frames, the individuals remain in their seats, shifting slightly in posture and gaze as they engage in a conversation."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0dc248526d020a7d870a30a8aaf71444",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-079.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.755,
+    5.265,
+    8.775,
+    12.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A soccer player in a dark blue jersey and green shorts takes a shot on goal in a stadium with red seats. In the initial sequence, the player strikes the ball toward a goalkeeper dressed in a light-colored kit, who is diving toward the ground to make a save. The ball enters the net, passing the goalkeeper. The background features various advertisements, including signs that read \"CERVEZAS ALHAMBRA\" and \"IDEAL,\" as well as banners with \"RANADA\" and \"NUNCA.\" The Real Madrid club logo is visible in the upper corners of the scene. As the sequence progresses, the focus shifts from the goal to a group of teammates wearing matching blue jerseys and green shorts who gather to celebrate the goal, hugging and patting each other on the back. A coach or staff member in a dark athletic outfit stands with the celebrating players."
+}

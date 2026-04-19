@@ -1,0 +1,15 @@
+{
+  "video_id": "ce31f6bcf76cad96569cf1d408568971",
+  "url": "./data/segments/3U065Ox-1uA-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.267,
+    0.801,
+    1.335,
+    1.869
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A night scene features a festive outdoor display where a large, glowing tiger statue is illuminated with white and orange lights. The background is filled with numerous small, warm yellow lights draped over foliage and trees, creating a shimmering effect. Several people are scattered around the installation; some stand near the tiger statue, and others walk through the illuminated garden. One person wears a dark jacket and trousers, while another nearby is seen in a lighter-colored coat. The top-left and top-right frames show a wide view of the scene, with the tiger sculpture as a central focal point. As the sequence progresses to the bottom frames, the camera angle shifts slightly, showing more of the surrounding light displays and the people interacting with the space. The \"VOA 60 LEARNING ENGLISH\" logo is visible in the top-left corner of each frame, and the text \"2022 marks the Year of the Tiger.\" appears at the bottom."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "29c37f05c3d23a62daea8bac51ee8e94",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.136,
+    0.407,
+    0.678,
+    0.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a simplified, illustrated setting, two men stand before a large monitor that displays the text \"Our Stunid Reactions\". The man on the left wears a blue t-shirt, while the man on the right wears a black t-shirt and has a red beard. In the background, stacks of purple folders or notebooks sit on a surface below the screen, and several small, colorful geometric shapes float in the air around them. A red \"Subscribe\" button with a white cursor hovering over it appears on the screen. As the sequence progresses, the man on the left remains relatively still, while the man on the right begins to move. By the final moments, the man with the beard raises his right hand and points his index finger upward toward the text on the monitor."
+}

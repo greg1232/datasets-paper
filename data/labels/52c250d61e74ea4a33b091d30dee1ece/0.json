@@ -1,0 +1,15 @@
+{
+  "video_id": "52c250d61e74ea4a33b091d30dee1ece",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows a person's left hand pointing a finger at a small, silver-colored bolt or pin located on a black metal bracket of a vehicle's mechanical assembly. The machinery is greasy and metallic, featuring a larger cast metal housing and a splined drive shaft extending to the right. The person's hand remains in a consistent pointing position throughout the sequence, with only slight shifts in the angle and pressure of the finger against the component. The surrounding environment is dark and industrial, filled with various mechanical parts and fasteners. There is no on-screen text or logos visible. The scene remains largely static across the frames, focusing on the specific point of contact between the finger and the small silver fastener."
+}

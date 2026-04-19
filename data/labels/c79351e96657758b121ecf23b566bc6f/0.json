@@ -1,0 +1,15 @@
+{
+  "video_id": "c79351e96657758b121ecf23b566bc6f",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.018,
+    3.053,
+    5.088,
+    7.124
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A gray Dodge Challenger is parked on a paved surface against a backdrop of green grass and a light-colored sky. The car is viewed from a front-three-quarter angle, showcasing its hood scoop, dark rims, and headlights. Static on-screen text appears in every frame: \"FOLLOW MODERN DAY MUSCLE\" and \"@modernday_muscle\" accompanied by an Instagram logo are positioned in the upper left corner. On the right side of each frame, the text \"DONT FORGET TO\" sits above a red YouTube \"Subscribe\" button. Across all four frames, the car and the background remain completely stationary, and there are no people present. The scene does not change between frames, presenting a still image of the vehicle with promotional social media overlays."
+}

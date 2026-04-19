@@ -1,0 +1,15 @@
+{
+  "video_id": "c6f92abfc3f03e6d0887ab1f1493f469",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.14,
+    0.42,
+    0.7,
+    0.98
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair tied in a high bun is speaking at a podium against a plain white background. She is wearing a dark navy blue blazer over a red top. A small microphone is clipped to the lapel of her blazer. To her left, a clear plastic water bottle sits on the surface of the podium. The logo \"mediasite by cornerstone\" is visible in the top left corner of the scene. As the sequence progresses, the woman continues to speak, shifting her gaze slightly and moving her head from side to side. Her hands are positioned in front of her on the podium, where she makes slight gestures while talking. The camera remains static, capturing her from the waist up throughout the clip."
+}

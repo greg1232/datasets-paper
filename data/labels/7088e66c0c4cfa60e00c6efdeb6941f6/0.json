@@ -1,0 +1,15 @@
+{
+  "video_id": "7088e66c0c4cfa60e00c6efdeb6941f6",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.077,
+    0.231,
+    0.386,
+    0.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a grey-and-white patterned long-sleeved button-down shirt is interacting with a black tablet. In the initial scene, the person's finger is positioned at the top edge of the screen, which displays a white interface with several yellow circular markers arranged vertically and a \"STOP\" button. Legible text at the top of the application reads \"Alpha Grammar phone v1.6.14\". As the sequence progresses, the person slides their finger downward across the top bezel of the device. The screen content remains largely static, though the lighting and the position of the finger shift slightly as the movement continues. The background is a neutral, indoor setting with a blurred white wall containing some small, colorful images or diagrams and a light-colored tabletop surface. The person's hand remains the focal point of the action throughout the clip."
+}

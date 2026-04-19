@@ -1,0 +1,15 @@
+{
+  "video_id": "577c4417f2c1f222dba7137d6fb7d070",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.69,
+    2.07,
+    3.45,
+    4.83
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large gathering of military personnel in camouflage uniforms stands in an outdoor setting, facing a small group of figures and military vehicles under a large American flag. The personnel are seen from behind, filling the foreground and middle ground of the scene. In the background, two light-colored tactical vehicles are parked on a dirt surface. Overlaid on the scene is a graphic logo that reads \"DAILY ROUND-UP\" within a stylized teal and red banner. Across the sequence, a red news ticker appears at the bottom of the frame. This ticker displays the text \"US sanctions ICC over investigations on war crimes committed in Afghanistan\". The scene remains static, with the crowd and environment unchanged, while the text in the lower banner scrolls across the screen from right to left."
+}

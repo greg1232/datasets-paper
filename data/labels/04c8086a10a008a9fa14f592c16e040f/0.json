@@ -1,0 +1,15 @@
+{
+  "video_id": "04c8086a10a008a9fa14f592c16e040f",
+  "url": "./data/segments/3P1vSUbet40-Scene-1025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.219,
+    0.657,
+    1.095,
+    1.533
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard wearing a black t-shirt, a black baseball cap, and over-ear headphones sits in a studio setting. His t-shirt features the text \"CHECK IT\" on the chest. He is positioned in front of a professional microphone and is speaking, gesturing with his right hand in the beginning before resting his arm. The background consists of a white wall with several yellow stars and the words \"BOSS TALK 101\" appearing in large red and black lettering. Additionally, two identical logos are visible on the screen: one on the left that says \"STUDIO PODCAST\" and another on the right that reads \"BOSS TALK 101\". As the sequence progresses, the man continues to talk, shifting his gaze and facial expression slightly while maintaining his seated position behind the microphone."
+}

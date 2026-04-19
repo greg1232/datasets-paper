@@ -1,0 +1,15 @@
+{
+  "video_id": "25bd2fc73ddf4cbe55d29abc6285a39d",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.21,
+    0.631,
+    1.052,
+    1.473
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A hand holds a black box featuring the word \"OBSIDIAN\" in large, stylized letters, moving it across a black surface adorned with red logos. The surface displays the text \"JASPYS\" in large red letters and the website \"CASEBREAKS.COM\" below it. In the background, a small inset window shows a man with a beard wearing a dark shirt, sitting at a table with various cards and equipment. Across the sequence, the hand tilts and shifts the black box, revealing a white barcode and fine print on the side. The scene transitions as the box is moved from the left side of the frame toward the center, while the man in the background remains stationary, observing the process. The lighting is bright, highlighting the glossy texture of the box and the vibrant red graphics of the background mat."
+}

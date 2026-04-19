@@ -1,0 +1,15 @@
+{
+  "video_id": "6cf20371962105276eff68a10e421dbd",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-229.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.621,
+    1.864,
+    3.107,
+    4.35
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with light brown hair, wearing a white blazer over a light-colored top, stands in a brightly lit indoor setting with a blurred architectural background. She is looking down and interacting with a device held in her hands, which is partially visible at the bottom of the scene. A blue banner across the lower portion of the screen displays the name \"Basil Chapman\" in bold white letters, with the text \"The Tiger Technicians Hour | June 8th, 2022\" written in a smaller font directly below it. Overlaid text appears in the center of the frame, which changes as the clip progresses. It begins as \"EXPECT NOTIFICATIONS ON\" and then transitions to \"EXPECT NOTIFICATIONS ON MARKET MOVEMENT\" in the subsequent frames. The woman remains in a consistent position and posture throughout the sequence as the text on the screen updates."
+}

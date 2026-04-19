@@ -1,0 +1,15 @@
+{
+  "video_id": "6401f6ba9be433d88a60aa194a42622d",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-161.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.151,
+    0.454,
+    0.756,
+    1.058
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black sweatshirt with \"BOSS\" written in gold letters, and large headphones sits in a studio setting. He is positioned in front of a white backdrop featuring repeated logos that read \"HUSTLE\" beneath five gold stars. Above him, a sign reads \"'Where BOSSES Talk!'\". The man is speaking into a professional microphone attached to a black boom arm. On the desk in front of him is a black mug with red and white text that includes \"TALK OUT\". In the bottom left corner of each scene, a small logo includes the word \"TALK\". Across the sequence, the man remains in the same position, shifting his head slightly as he speaks, while the background and equipment remain static."
+}

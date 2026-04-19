@@ -1,0 +1,15 @@
+{
+  "video_id": "557db45fe87c6d6b9266bf1360b8940a",
+  "url": "./data/segments/3Smz5pevbI4-Scene-068.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.669,
+    8.008,
+    13.347,
+    18.685
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man and a woman sit side-by-side in an indoor auditorium setting. The man, wearing glasses, a light-colored suit jacket, a white shirt, and a brown tie, holds a microphone in his right hand and speaks, gesturing with his left hand. He moves his left arm dynamically, shifting from a closed position near his chest to a wide, open gesture extending outward. The woman sitting to his left wears glasses and a dark blazer over a dark top, with a white identification badge pinned to her lapel. She remains mostly still, looking forward with a neutral expression, her hands clasped in her lap over some white papers. Behind them, other attendees are partially visible, including one person wearing a striped garment. A silver railing runs horizontally across the foreground, partially obscuring the lower portion of the subjects."
+}

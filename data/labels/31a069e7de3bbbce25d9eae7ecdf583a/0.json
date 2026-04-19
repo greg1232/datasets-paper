@@ -1,0 +1,15 @@
+{
+  "video_id": "31a069e7de3bbbce25d9eae7ecdf583a",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-071.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.22,
+    0.66,
+    1.1,
+    1.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "On a green soccer field in a stadium with red seating and \"Coca-Cola\" and \"LaLiga\" branding, several athletes wear navy blue shirts with \"Fly Emirates\" on the chest and bright green shorts. In the initial sequence, the players are in various stages of a stretching exercise; some are kneeling on one knee while others lean forward with their arms extended. As the sequence progresses, the players shift their positions, continuing their warm-up routine. Some move from a leaning position to a kneeling stance, while others adjust their balance. The background remains static, showing the stadium's architecture and promotional signage, including the text \"S\u00f8rtivos\". The players maintain their focus on the exercise, moving in synchronization across the grass. Each person is outfitted in matching athletic gear, and the Real Madrid club crest is visible in the upper center of the scene."
+}

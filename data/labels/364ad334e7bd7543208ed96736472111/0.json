@@ -1,0 +1,15 @@
+{
+  "video_id": "364ad334e7bd7543208ed96736472111",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-174.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.106,
+    0.319,
+    0.531,
+    0.744
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark blue t-shirt sits at a desk in a room, appearing in a small inset window throughout the sequence. The main focus of the scene is a pair of hands handling a sports card encased in a clear plastic protector. The card features a signature and is held up to a camera for viewing. On the surface below the hands is a white mat with a colorful logo featuring two green palm trees. On-screen text and logos consistently display \"JASPYS\" and \"CASEBREAKS.COM\" in orange and white. In the background of the inset window, a computer monitor and other equipment are visible on a black desk. As the sequence progresses, the hands move the protected card closer to the lens and then shift it slightly to show different angles of the signature before partially moving it out of the frame."
+}

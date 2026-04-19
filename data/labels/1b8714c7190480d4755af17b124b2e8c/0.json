@@ -1,0 +1,15 @@
+{
+  "video_id": "1b8714c7190480d4755af17b124b2e8c",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.389,
+    4.167,
+    6.944,
+    9.722
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses, wearing a grey cardigan over a floral top, sits at a white crafting table in a well-equipped studio. Behind her, shelving units hold colorful ink pads and tools, with a sign reading \"MERRI\" and \"CHRI STOSS\" visible. To her right is a black desk lamp and a set of shears hanging on a wall. She is focused on a small white object in her hands, manipulating it over a light blue piece of paper on the table. Across the sequence, she maintains a focused expression, speaking while she works. As time progresses, she shifts her gaze slightly and continues to handle the small white object, eventually bringing it closer to the paper. A black smartwatch is visible on her left wrist as she works with her hands in front of her."
+}

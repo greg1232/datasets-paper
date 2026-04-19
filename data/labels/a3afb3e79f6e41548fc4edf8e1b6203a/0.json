@@ -1,0 +1,15 @@
+{
+  "video_id": "a3afb3e79f6e41548fc4edf8e1b6203a",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.446,
+    1.339,
+    2.231,
+    3.124
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands work on a crafting project atop a white wooden surface. A blue patterned square of paper rests on a white gridded cutting mat. To the left of the mat are a white card and some craft supplies. The card contains the printed text \"d you littl' letide Cheer You warm my heart\" alongside a drawing of flowers. A watermark reading \"Stamping Jill\" appears in the bottom left corner of the scene. In the initial sequence, the person's hands hover over and then press down on the blue paper to secure it against the gridded mat. As the actions progress, the hands move from the sides of the paper, with one hand flattening the right edge while the other stabilizes the left. By the end of the sequence, the hands lift away from the blue square, leaving it positioned centrally on the mat."
+}

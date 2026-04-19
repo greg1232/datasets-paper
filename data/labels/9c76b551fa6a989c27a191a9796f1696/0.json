@@ -1,0 +1,15 @@
+{
+  "video_id": "9c76b551fa6a989c27a191a9796f1696",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-383.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.772,
+    2.315,
+    3.858,
+    5.401
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap and a matching green t-shirt is seated in a studio environment, speaking into a black microphone on a boom arm. His shirt features the text \"ION NEVER DO SHIT AT WORK\" in a stylized, white, distressed font. He wears over-ear headphones and is positioned in front of a wall decorated with numerous framed photographs. In the background, a white mannequin wears a white t-shirt, and clothing racks are visible. Two logos appear on screen: one is a black circular emblem with \"DRIP\" and \"TORT\" written inside, and the other is a red \"DRIP TORT\" logo. As the sequence progresses, the man shifts his expression from a neutral speaking face to closing his eyes and tilting his head back, eventually leaning forward and bringing his hands together in front of him while continuing to speak."
+}

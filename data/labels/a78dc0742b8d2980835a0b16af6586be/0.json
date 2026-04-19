@@ -1,0 +1,15 @@
+{
+  "video_id": "a78dc0742b8d2980835a0b16af6586be",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-159.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.151,
+    0.454,
+    0.756,
+    1.058
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair tied in a high bun and wearing a dark green t-shirt with a red circular graphic sits in a podcast studio. She wears a headset with a microphone and is positioned in front of a professional condenser microphone mounted on a boom arm. Behind her is a white backdrop featuring a logo that reads \"BOSS TALK 101\" and \"It's a V torque Hustle,\" with the word \"CAST\" and the phrase \"About It!\" also visible. To her left, a framed piece of art showing hands is mounted on the wall. On the table in front of her, a small logo overlay displays \"BOSS TALK 101\" alongside other graphics. Throughout the sequence, the woman maintains a similar seated position, speaking into the microphone with slight changes in her facial expression and head tilt as she talks."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0c82ad25074e6de928da21d61dac7a87",
+  "url": "./data/segments/3U065Ox-1uA-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.329,
+    0.988,
+    1.647,
+    2.306
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a news report featuring a document from North Korean state media. A white page contains Korean text and several images of missile launches. Overlaid on this document is the \"VOA 60\" logo and the text \"LEARNING ENGLISH\". Across all frames, a large, bold English headline reads \"North Korean state media confirm the launch\". The scene transitions as the camera pans across the document, initially focusing on the upper portion of the page before shifting downward. At the bottom of the screen, a static white banner repeats the phrase \"North Korean state media confirm the launch\". The frames capture different segments of the report, moving from the top section of the document to a section that includes the \"LEARNING ENGLISH\" header, while the consistent headline remains visible throughout the clip."
+}

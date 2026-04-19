@@ -1,0 +1,15 @@
+{
+  "video_id": "911b96abfbd1873dc280880f50b29e9c",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-107.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A scene takes place in a room with wood-paneled walls and a raised platform. A man in a white shirt and dark vest stands at a podium on the right, while another man in a light-colored shirt stands at a separate podium on the left. Facing them is an audience seen from behind. The audience includes a man in a grey patterned jacket and several women, one wearing a blue patterned shawl and another in a yellow top. To the right of the audience, the text \"ORCA\" is displayed in a white box. Across the frames, the scene remains static; the people maintain their positions and postures, with very little visible movement between the shots. The lighting and composition are consistent, capturing a formal gathering or presentation."
+}

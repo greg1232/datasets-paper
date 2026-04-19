@@ -1,0 +1,15 @@
+{
+  "video_id": "6cb2bed8f7ee95e63458cac339e053de",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-204.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.918,
+    2.753,
+    4.588,
+    6.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is recorded in a studio setting against a dark, ribbed acoustic foam wall. He wears black over-ear headphones and a plain white t-shirt. A silver professional microphone, held by a black boom arm, is positioned directly in front of him. The boom arm features the legible text \"Rode PSA1\". Throughout the sequence, the man is smiling and laughing, looking slightly off-camera to his right. As the sequence progresses, his expression becomes more animated, shifting from a closed-mouth smile to an open-mouthed laugh. His body shifts slightly, and by the final frame, his right arm moves upward and out of the frame. The background and equipment remain static while the man's facial expressions and posture evolve during the recording."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "552c4152ef7b894cbede1a68e73ecbea",
+  "url": "./data/segments/3fokLGPK15Q-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.66,
+    1.98,
+    3.3,
+    4.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair is captured in a medium shot against a dark purple background featuring diagonal light streaks. He is wearing a gray blazer over a light blue collared shirt and has a thin beige headset microphone positioned along his cheek. Throughout the sequence, the man remains in a seated position, facing slightly toward the left. He begins with his eyes closed and his lips pressed together in a neutral expression. As the sequence progresses, he opens his eyes and shifts his gaze, moving his mouth slightly as if in the middle of speaking or reacting to something. His facial expression remains composed, with minimal movement in his shoulders and upper body, while the lighting and background remain constant across the entire scene."
+}

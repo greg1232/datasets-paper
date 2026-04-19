@@ -1,0 +1,15 @@
+{
+  "video_id": "ab485c365d6732e59e73b5a490fa354b",
+  "url": "./data/segments/3QD9oO6sRns-Scene-106.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.173,
+    0.519,
+    0.865,
+    1.21
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a sports trading card encased in a clear plastic protector, showcasing a player identified as \"WILLSON CONTRERAS\" of the \"CHICAGO CUBS.\" The card features a photograph of the player in a white jersey and blue cap, along with an autograph and a numbered edition. As the sequence progresses, the holder tilts the card to show different angles and reflections on the plastic casing. In the background, a smaller picture-in-picture window shows a man wearing a baseball cap and a black t-shirt, seated in front of a computer setup. Overlaid text and logos include \"SPORTS BREAKS\" and the website \"USEBREAKS.com.\" The overall setting appears to be an indoor environment with various boxes visible in the blurred background, while the foreground focuses on the detailed presentation of the collectible card."
+}

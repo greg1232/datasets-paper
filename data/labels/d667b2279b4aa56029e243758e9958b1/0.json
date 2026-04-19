@@ -1,0 +1,15 @@
+{
+  "video_id": "d667b2279b4aa56029e243758e9958b1",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.972,
+    2.915,
+    4.859,
+    6.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands use a white plastic pipe to move objects inside a dirty, cluttered vehicle interior. In the initial scene, the pipe is held horizontally over a metallic, rusted surface and a red object. As the sequence progresses, the pipe is maneuvered across the frame, shifting from the right side toward the center. The area is filled with automotive components, including a metal frame, various wires, and scattered debris on a tan floor. In the final frames, the person's hand is visible gripping the pipe, pushing it toward a red rectangular case and a metallic rim. A white canister with the partial text \"NS\" is visible on the right side of the lower scene. The lighting is dim, and the camera angle provides a close-up view of the manual manipulation of the pipe within the confined space."
+}

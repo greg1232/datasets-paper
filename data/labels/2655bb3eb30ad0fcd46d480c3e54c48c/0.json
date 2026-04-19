@@ -1,0 +1,15 @@
+{
+  "video_id": "2655bb3eb30ad0fcd46d480c3e54c48c",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.408,
+    1.225,
+    2.042,
+    2.858
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The image depicts a computer screen displaying a terminal interface with multiple panes showing log files and configuration code. The text is predominantly white, green, and blue against a black background. Legible on-screen text includes configuration directives such as \"Merge_Log On\", \"log_processed\", \"KBS_Logging: Exclude On\", and \"output-loki: conf\". The logs contain timestamps and technical entries, including strings like \"level=info t=2020-10-28T06:21:35.27428220Z\" and \"component=tailsmgr\". In the lower-left corner, a command prompt is visible, transitioning from a blank state to showing the command \"[tmux] 22:08:27\". The scene remains static in terms of layout, but the cursor moves, and new text appears in the bottom-left terminal pane, indicating active command-line interaction. The overall setting is a developer's workspace focusing on system monitoring and log analysis."
+}

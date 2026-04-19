@@ -1,0 +1,15 @@
+{
+  "video_id": "03c73ea85906b007afa2c3bd13a9226a",
+  "url": "./data/segments/3QD9oO6sRns-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.983,
+    2.95,
+    4.917,
+    6.883
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person sits at a table covered with a black mat featuring the orange and white logo \"JASPYS CASEBREAKS.\" Large stacks of black and blue boxes labeled \"Clearly\" and \"AUTHENTIC\" fill the background. In a small picture-in-picture window, a man wearing a white baseball cap and a black t-shirt watches the action. As the sequence progresses, a hand enters the frame and rolls red dice across the mat. The dice bounce and settle near the bottom of the scene. The man in the inset window remains attentive, while the hand that threw the dice moves across the table. The text \"CASEBREAKS.COM\" is visible in the small window alongside the \"JASPYS\" logo. The scene transitions from the initial setup of the dice being held to them landing on the branded surface."
+}

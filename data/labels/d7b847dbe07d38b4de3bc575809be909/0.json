@@ -1,0 +1,15 @@
+{
+  "video_id": "d7b847dbe07d38b4de3bc575809be909",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-601.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.991,
+    1.387
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hoodie, and black headphones sits in a studio setting. He is positioned behind a desk with a professional microphone on a boom arm in front of him. His hoodie features the words \"BOSS TALK\" in gold and white lettering. To his right sits a blue and white container that reads \"BOSS TALK 101\". Behind him, a white banner displays a repeating logo with the words \"UNION HUSTLE\" and five gold stars. A blue sign on the wall reads \"Where BOSSES Talk!\". A small circular logo with a microphone icon and the text \"BOSS TALK\" is visible in the lower-left corner of the scene. Across the frames, the man remains stationary and maintains a neutral expression, looking slightly to his left. There is no discernible movement or change in the setting between the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6fda3e26697c196ef2eb1a9b91c794bd",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.835,
+    2.505,
+    4.175,
+    5.845
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair tied back, wearing a navy blue blazer over a red top, sits at a table against a plain, light-colored wall. She is gesturing with her hands held together in front of her while speaking, her gaze directed slightly to her right. On the table in front of her is a clear plastic bottle of water and a glass. The logo \"mediasite\" appears in the upper left corner of the scene. Across the sequence of images, the woman remains in the same seated position, though her head shifts slightly and her hand gestures evolve as she continues talking. The background, lighting, and objects on the table remain stationary and unchanged throughout the duration of the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0202c1466253e4c78898a58285bcfa10",
+  "url": "./data/segments/3L_uHTClWfk-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.562,
+    0.787
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a mustache, wearing a red t-shirt, is positioned in the center of the scene, standing in what appears to be an indoor setting with large windows and light-colored walls. Behind him stand several other men, some of whom are wearing tan military-style uniforms with epaulets. The man in the red shirt maintains a steady expression and posture throughout the sequence. A continuous layer of digital fire effects overlays the bottom half of the image, with flickering orange and yellow flames obscuring the lower torsos of the individuals. As the sequence progresses, the flames shift and dance across the foreground, while the people in the background remain relatively still. No legible on-screen text, logos, or specific equipment are visible in the frames."
+}

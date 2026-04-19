@@ -1,0 +1,15 @@
+{
+  "video_id": "a9d377df8f76bb00444dc41ab88e65cb",
+  "url": "./data/segments/3iUTkJy84EY-Scene-301.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.4,
+    1.2,
+    2.0,
+    2.8
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses stands against a plain, dark gray background. She is wearing a light green, long-sleeved blouse with red and white floral embroidery around the neckline and a dark beaded necklace. A small black lapel microphone is clipped to the front of her shirt. In the bottom left corner of each scene, a small circular logo accompanies the text \"NPTEL\". Across the sequence, the woman is speaking, and her facial expressions and mouth movements change as she delivers her words. In the first frame, she has a slight smile with her mouth partially open. By the second frame, her mouth is wider open in speech. In the third frame, she continues speaking with a softer expression, and by the final frame, her mouth is open again, capturing a different moment of articulation. Her posture remains centered and steady throughout the clip."
+}

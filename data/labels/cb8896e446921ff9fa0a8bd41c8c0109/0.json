@@ -1,0 +1,15 @@
+{
+  "video_id": "cb8896e446921ff9fa0a8bd41c8c0109",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.501,
+    2.502,
+    3.503
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a grey long-sleeved shirt and light-colored trousers stands behind a white chair at a dark table. On the table sits an open laptop displaying a blue-themed financial chart with several peaks and valleys. A set of white wired earphones lies coiled on the table next to the computer. The person's right hand rests on the back of the chair, slightly shifting its position as the sequence progresses. Blue text appears at the bottom of the screen; it initially reads \"WITH OUR MONEY BACK GUARANTEE\" and then changes to \"AT TFNN.COM\". The scene remains mostly static, with only subtle movements of the hand and the updating on-screen text, while the laptop and background stay consistent across the frames."
+}

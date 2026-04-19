@@ -1,0 +1,15 @@
+{
+  "video_id": "4c944bbb408d3d4c963dc2ffdb11831a",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-100.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.488,
+    1.464,
+    2.44,
+    3.416
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, a beard, and a headset microphone wears a white button-down shirt and a black tie while speaking in front of a screen displaying a colorful waveform. Beside him is a close-up image of a tiger's face. On-screen text progressively appears and changes; it begins as \"EXPANDING THEIR REACH\" and then evolves to read \"EXPANDING THEIR REACH WITH THE TIGER'S DEN,\" with the latter part highlighted in yellow. In a subsequent scene, the text changes to \"EXPANDING THEIR REACH WITH THE TIGER'S AVAILABLE.\" The final sequence shifts focus entirely to the tiger, positioned against a blurred natural background, as the text updates to \"$1 AVAILABLE TO ALL TIGERS.\" The transitions show a progression of text overlays while shifting the visual emphasis from the man and the tiger side-by-side to a full shot of the animal."
+}

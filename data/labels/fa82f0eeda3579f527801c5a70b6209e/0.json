@@ -1,0 +1,15 @@
+{
+  "video_id": "fa82f0eeda3579f527801c5a70b6209e",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-143.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.259,
+    0.776,
+    1.293,
+    1.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white face mask, a grey hoodie, and a white baseball cap stands behind a patient who is wrapped in a white floral-patterned sheet. The patient is seated and facing left, while the man stands behind them, seemingly assisting or observing. They are in a clinical setting with a white counter holding various bottles and medical supplies in the background. A QR code is superimposed on the right side of the scene. On the left side of the scene, white text lists \"Course content creators, course directors:\" followed by names and dates, including \"Laura Buchanan, MD 2019- current\", \"David Gens, MD 2019- current\", \"Ali Tabatabai, MD 2019-2022\", \"Mira Ghneim, MD, MS 2019-2021\", \"Nicole Shockor, MD 2019\", \"Amanda Chipman, MD 2019-2020\", \"Olivia Martin, MD, MS 2020-2021\", \"Ace St John, MD, MS 2021-2022\", \"Margaret Sundel, MD, MS 2022-2023\", and \"Matthew D. Cahn, MD 2023\". The scene remains static across the frames, with only slight movements in the subjects' positions."
+}

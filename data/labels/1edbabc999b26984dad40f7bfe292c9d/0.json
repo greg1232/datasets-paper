@@ -1,0 +1,15 @@
+{
+  "video_id": "1edbabc999b26984dad40f7bfe292c9d",
+  "url": "./data/segments/3dN_F08u-KE-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.7,
+    2.1,
+    3.5,
+    4.9
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grainy, black-and-white video depicts an object moving through a cloudy or hazy environment. The scene focuses on a dark, triangular-shaped object with a bright, glowing center and small protrusions on its sides, resembling a stylized head or a craft. This object moves closer to the viewer, growing larger and more defined as it advances. The background consists of blurred, swirling patterns of light and dark grey. In the upper right corner of every scene, a red circular logo containing the white text \"13\" is visible. The object's position shifts slightly, and its luminosity intensifies, creating a stark contrast against the surrounding haze. There are no people, clothing, or identifiable terrestrial locations visible in the footage."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7c41ce1c4ea54320ec0af876277edc55",
+  "url": "./data/segments/3rrLMM3eyQc-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.221,
+    0.663,
+    1.104,
+    1.546
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a plain white background with dark purple text appearing in sequences. Initially, only the words \"HOPE YOU\" are visible on the left. As time progresses, more text appears to complete the phrase \"HOPE YOU ENJOY THE NEWS,\" which is centered and displayed in three lines of bold, sans-serif lettering. In the final stages, a translucent, light-grey geometric shape slides in from the right, partially overlaying the text. Additionally, very faint, large, light-grey letters that seem to spell \"ENJOY\" are visible in the background behind the main purple text. The transition across the frames shows the completion of the sentence \"HOPE YOU ENJOY THE NEWS\" and the introduction of the grey overlay."
+}

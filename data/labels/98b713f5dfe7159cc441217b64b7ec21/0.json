@@ -1,0 +1,15 @@
+{
+  "video_id": "98b713f5dfe7159cc441217b64b7ec21",
+  "url": "./data/segments/3diuEKaigCA-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.39,
+    1.17,
+    1.95,
+    2.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a static white background with the \"manipalhospitals\" logo and tagline appearing in different positions and states of visibility. The logo is composed of the word \"manipalhospitals\" in a sans-serif lowercase font, with a smaller tagline beneath it that reads \"LIFE'S ON\" followed by a small red and white cross symbol. Initially, the logo appears in the top-left and top-right quadrants. As the sequence progresses, the logo in the top-left fades away while another appears in the bottom-left. Finally, the logo in the top-right fades out, and a mirrored version appears in the bottom-right quadrant. The transition creates a flickering or shifting effect where the corporate branding alternates positions across the white space. No people, objects, or other settings are present in the clip."
+}

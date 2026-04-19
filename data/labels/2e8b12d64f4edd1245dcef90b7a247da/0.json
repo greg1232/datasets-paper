@@ -1,0 +1,15 @@
+{
+  "video_id": "2e8b12d64f4edd1245dcef90b7a247da",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.238,
+    0.396,
+    0.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's left hand is shown interacting with a mechanical assembly, likely part of an engine, characterized by metallic components, bolts, and a black chain. The hand, with pale skin, enters from the left and uses a finger to push or nudge a small, cylindrical metal pin or bolt located near a black structural piece. As the sequence progresses, the hand maintains its position, applying slight pressure to the component to test its movement or position. The surrounding machinery is weathered and grease-stained, featuring a combination of cast metal parts in muted gold and grey tones. There are no other people, clothing, text, or logos visible. The only movement throughout the clip is the subtle shifting of the hand as it manipulates the metal pin against the stationary background of the mechanical assembly."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ae55dc5bc8aa25a4c7503dd4cb059b00",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.463,
+    0.772,
+    1.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a white long-sleeved shirt and a wristwatch with a blue face and dark strap is typing on a silver laptop. The laptop is positioned outdoors, with soft-focus greenery and a dark curved structure visible in the background. As the scene progresses, a blue and white graphic overlay slides across the screen, gradually covering the footage. In the first frame, the partial word \"ESSFULLY\" is visible in white capital letters on the blue section of the overlay. By the final frame, the graphic has almost entirely obscured the person and the laptop, leaving only a small sliver of a dark, multicolored background with fragmented shapes and a small white arrow visible at the bottom."
+}

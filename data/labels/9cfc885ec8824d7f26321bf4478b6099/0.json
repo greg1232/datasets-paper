@@ -1,0 +1,15 @@
+{
+  "video_id": "9cfc885ec8824d7f26321bf4478b6099",
+  "url": "./data/segments/3phuyH7Y05U-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.475,
+    1.425,
+    2.375,
+    3.325
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A small, white model house with a brown roof sits centered on a circular metal platform against a solid black background. A heavy industrial hydraulic press, featuring a silver cylindrical body with yellow and black diagonal hazard stripes, is positioned directly above the house. As time progresses, the press descends, making contact with the roof of the model. The house begins to collapse under the immense pressure, with the roof and upper walls buckling and splintering. In the final stages, the press continues its downward movement, completely flattening the structure into a pile of grey and white debris spread across the metal platform. No people are present in the scene, and there is no visible on-screen text or logos."
+}

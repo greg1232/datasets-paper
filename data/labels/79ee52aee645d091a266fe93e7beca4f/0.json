@@ -1,0 +1,15 @@
+{
+  "video_id": "79ee52aee645d091a266fe93e7beca4f",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-197.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.327,
+    0.981,
+    1.635,
+    2.29
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with blonde hair, wearing glasses and a dark blue patterned t-shirt, sits in front of a computer monitor and a professional microphone. He is wearing white over-ear headphones and is laughing and smiling throughout the sequence. On the left side of the screen, a circular graphic overlay is visible, featuring a blue center and a radial menu of height options. The text \"Height Wheel!\" appears at the top of this graphic, with \"6\"2\" displayed prominently below it and a \"DEACTIVATE\" button further down. In the background, a computer screen shows a window with the number \"20\" visible. As the sequence progresses, the man's expression shifts from a wide, open-mouthed laugh to a more subdued smile and then a neutral expression, while his head tilts slightly. The graphic overlay and the background equipment remain static across all frames."
+}

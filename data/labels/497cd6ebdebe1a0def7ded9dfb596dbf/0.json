@@ -1,0 +1,15 @@
+{
+  "video_id": "497cd6ebdebe1a0def7ded9dfb596dbf",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-275.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.688,
+    14.062,
+    23.438,
+    32.812
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark blue short-sleeved shirt is filming a sequence involving a gold-colored box. The setting appears to be an office or studio with stacks of papers or boxes in the background. A recurring logo on the screen reads \"JASPYS CASEBREAKS.COM\" in orange and white text. In the beginning, the camera is positioned close to a textured, dark gray surface, obscuring most of the view. As the sequence progresses, the person is seen interacting with a gold box placed on a desk. The person reaches toward the box, and later frames show them sitting behind the desk, looking toward the camera while the box remains open. The environment includes a computer monitor and various papers, and a smaller version of the \"JASPYS\" logo is visible on a banner in the background."
+}

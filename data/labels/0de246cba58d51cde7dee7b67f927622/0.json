@@ -1,0 +1,15 @@
+{
+  "video_id": "0de246cba58d51cde7dee7b67f927622",
+  "url": "./data/segments/3QD9oO6sRns-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.99,
+    1.385
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand reaches into the frame to interact with a box of \"Topps CLEARLY AUTHENTIC 2020\" sports cards. The setting is a professional recording area featuring a backdrop of similar card boxes and a table. Throughout the sequence, the person slides the box across the surface, shifting it from the left to the right. In the lower right corner of the frames, a small inset video shows a man wearing a baseball cap and a dark shirt speaking. Various logos are visible, including \"CASEBREAKS.com\" and a larger \"CASEBREAKS\" banner along the bottom. The box features an image of a baseball player and the text \"MAJOR LEAGUE BASEBALL.\" As the hand moves the box, the camera captures the transition of the box's position against the backdrop of other \"CLEARLY AUTHENTIC\" boxes stacked in the background."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "171e225c9e21fbe49bc8e23fb5b55cf4",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-090.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.826,
+    1.376,
+    1.927
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static webpage for \"TFNN.COM EDUCATION INVESTORS.\" The top navigation bar includes links for \"HOME,\" \"TIGER TV,\" \"NEWSLETTERS,\" \"SERVICES,\" \"ABOUT,\" and \"ADVERTISING,\" along with an \"Account\" link. A prominent section features \"GOLD REPORT NEWSLETTER BY TOM O'BRIEN\" in bold, uppercase text, followed by a \"SUBSCRIBE\" button. Below this, text describes Tom O'Brien as the founder and CEO of TFNN, stating he is \"at the forefront of education when it comes to understanding the complexities and constantly evolving aspects of the gold market.\" The page also mentions that \"gold is still king\" as a \"safe haven and hedging\" asset across global hubs like the \"London OTC market, the US futures market, and the Shanghai Gold Exchange.\" To the left, a gold-toned graphic shows \"The Gold Report\" and \"Tom O'Brien\" over imagery of gold bars and numeric values like \"1.00oz.\" The scene remains identical across all frames."
+}

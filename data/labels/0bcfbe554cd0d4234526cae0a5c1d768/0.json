@@ -1,0 +1,15 @@
+{
+  "video_id": "0bcfbe554cd0d4234526cae0a5c1d768",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.255,
+    3.765,
+    6.275,
+    8.785
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands behind a podium against a plain, light-colored wall, delivering a presentation. He is dressed in a dark navy blue blazer over a dark shirt. To his left sits a clear plastic water bottle with a blue cap, and a slender gooseneck microphone extends toward him from the podium. The logo \"mediasite by koretechnologies\" is visible in the top-left corner of the scene. As the sequence progresses, the man shifts his posture and gaze. Initially facing forward and speaking, he then turns his head to look toward his left. He later gestures with both hands, bringing them up and together in front of his chest to emphasize a point, before returning to a more neutral stance while continuing to look toward his left. The background and the positions of the water bottle and microphone remain constant throughout the clip."
+}

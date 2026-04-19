@@ -1,0 +1,15 @@
+{
+  "video_id": "eafc78f21121f1d9111750b013d49f90",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.248,
+    0.744,
+    1.24,
+    1.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair and a blue shirt wearing white headphones appears in a video overlay against a purple background. He is positioned in the lower-left portion of the screen, with a decorated Christmas tree visible behind him. The main screen displays the word \"ACROBAT\" at the top and a black square containing a white wheel-like icon. Text below the icon reads \"ng swats & interceptions\" and \"1 AP\" is visible in the bottom right. A smaller version of the wheel icon with a plus sign is seen to the left of the man. Across the sequence, the man's expression shifts from surprise with an open mouth to a smile while raising his index finger. The background elements and text remain static, while the man's facial expressions and hand gestures evolve as he reacts to the on-screen content."
+}

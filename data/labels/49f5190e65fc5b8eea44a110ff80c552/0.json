@@ -1,0 +1,15 @@
+{
+  "video_id": "49f5190e65fc5b8eea44a110ff80c552",
+  "url": "./data/segments/3U065Ox-1uA-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.339,
+    4.017,
+    6.694,
+    9.372
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A short video clip displays a sequence of screens showcasing a Twitter post from the \"African Union Political Affairs Peace and Security\" account, marked with the African Union logo. The top of each screen features a \"VOA 60 LEARNING ENGLISH\" banner. The tweet reads, \"Council decides in line w/ the relevant AU instruments(AUConstitutiveAct;AUPSC Protocol;African Charter on Democracy, Elections & Governance), to suspend the participation of #BurkinaFaso in all AU activities until the effective restoration of constitutional order in the country,\" and is dated \"Jan 31, 2022, 8:51 AM UTC.\" On-screen subtitles provide a narrative overlay that evolves across the sequence: beginning with \"The African Union announces on Twitter,\" then transitioning to \"the suspension of Burkina Faso,\" and concluding with \"one week after military members seized the government.\" The background remains a static, blurred gradient of green and white."
+}

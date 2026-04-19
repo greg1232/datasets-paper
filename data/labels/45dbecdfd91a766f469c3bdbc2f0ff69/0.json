@@ -1,0 +1,15 @@
+{
+  "video_id": "45dbecdfd91a766f469c3bdbc2f0ff69",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.458,
+    1.375,
+    2.292,
+    3.208
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with a beard and short dark hair, wearing a black shirt, is seen in a small video inset at the bottom of a screen. The rest of the screen displays a website interface with a list of NBA teams, including \"11. NEW YORK KNICKS\" and \"12. BROOKLYN NETS,\" as well as a chat log with messages from \"glowbug27\" and \"Nightbot.\" One message reads, \"Click the link for the BREAK, SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/2sGEsK9Y\". The page includes a timestamp of \"2023-05-20 03:13:29 UTC\" and text stating, \"You have randomized this list 8 times\" or \"9 times.\" A banner at the bottom features the \"JASYBS\" logo and the URL \"CASEBREAKS.COM\". Across the frames, the person in the video remains relatively still, and the text on the website changes slightly, specifically the number of times the list has been randomized."
+}

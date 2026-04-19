@@ -1,0 +1,15 @@
+{
+  "video_id": "3ef5a3a58b33205aaeb0b9cec9b4c2c4",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.387,
+    0.646,
+    0.904
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person uses a red utensil to stir a mixture of grains and chopped vegetables in a large metal bowl. The bowl is set on a light-colored wooden surface. Next to the bowl are two smaller containers: a white plate and a red bowl, both holding additional portions of the grain mixture. In the top-left frame, the red utensil is positioned on the left side of the bowl, moving through the food. As the sequence progresses through the top-right and bottom-left frames, the utensil moves across the center, mixing the ingredients. By the final frame, the utensil is positioned on the right side of the bowl. The logo and text \"UCAR CENTER FOR SCIENCE EDUCATION\" appear in the top-left corner of every frame. The person's hand is visible gripping the utensil, but no other part of their body or clothing is shown."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "cb65743b991d34f603563f7a17e68dda",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-097.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.329,
+    0.988,
+    1.647,
+    2.306
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a modern financial trading environment, several professionals are seated at desks facing large digital displays that show stock charts and market data. One man in the foreground is seen from behind, wearing a white shirt and dark trousers, while another man in a dark suit is visible further back. A third person is partially visible on the left. The scene is dominated by a large white logo that reads \"TFNN.com\" with the tagline \"EDUCATING INVESTORS\" underneath. As the sequence progresses, additional text overlays appear in a bold, yellow font. First, the word \"NEW\" appears on the left side of the screen. In subsequent frames, this evolves into the phrase \"NEW TRADING,\" and finally, the full phrase \"NEW TRADING ROOM\" is displayed across the center of the image. The people remain in their positions, focused on the monitors as the text transitions across the screen."
+}

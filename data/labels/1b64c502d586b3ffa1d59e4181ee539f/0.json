@@ -1,0 +1,15 @@
+{
+  "video_id": "1b64c502d586b3ffa1d59e4181ee539f",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-210.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.265,
+    0.794,
+    1.323,
+    1.852
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video shows a digital interface for a sports video game, specifically a player profile for \"SOM HILL.\" The screen displays a \"HISTORY\" section stating the player's team is \"Saints,\" college is \"BYU,\" and they were acquired on \"12/29/2022\" via \"Pack opening.\" A \"DESCRIPTION\" section identifies the player as a \"MUT 23 Zero Chill Champion\" with specific \"Ability Buckets.\" Under \"ARCHETYPE,\" the text \"Vertical Threat\" and \"Vertical Threat - TE\" is visible. To the right of the text is a stylized illustration of an athlete in a helmet. A small inset video window features a man with light brown hair wearing a dark shirt, reacting with an expressive facial expression and a hand gesture. Across the sequence, the overall layout remains static, while the man in the inset window shifts his posture and facial expression slightly, appearing to react to the information displayed on the screen."
+}

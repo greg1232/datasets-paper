@@ -1,0 +1,14 @@
+{
+  "video_id": "9cc46399edc2a9ee69f75b5a096e66c2",
+  "url": "./data/segments/3HgCF6yVXko-Scene-023.mp4",
+  "n_frames": 3,
+  "frame_timestamps": [
+    0.021,
+    0.063,
+    0.104
+  ],
+  "grid_layout": "1x3",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A stationary wide shot depicts the rear exterior of a tan, two-story residential home featuring a balcony with black wrought-iron railings and a covered patio area below. In the foreground, a black metal safety fence separates the patio from a blue swimming pool. To the right of the house, a manicured green lawn extends toward a boundary wall, with several palm trees and other houses visible in the distance under a clear, bright sky. No people are present in the scene. Across the three frames, the camera remains completely still, and there is no perceptible movement or change in lighting, clothing, or the position of objects, resulting in a static view of the property. There are no visible logos or on-screen text."
+}

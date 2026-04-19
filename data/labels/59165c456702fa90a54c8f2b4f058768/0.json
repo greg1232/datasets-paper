@@ -1,0 +1,15 @@
+{
+  "video_id": "59165c456702fa90a54c8f2b4f058768",
+  "url": "./data/segments/3QD9oO6sRns-Scene-124.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.35,
+    4.05,
+    6.75,
+    9.45
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black baseball cap and a black t-shirt with a \"JASH\" logo sits in a sports-related setting, appearing in a picture-in-picture window in the bottom right. He is speaking and gesturing with his right hand. To his left, a large digital list of names and Major League Baseball teams is displayed on a screen. Legible text in the list includes \"David Chang ARIZONA DIAMONDBACKS,\" \"Kyle Harper ATLANTA BRAVES,\" and \"Nicholas Kasberg BALTIMORE ORIOLES.\" A graphic overlay featuring the text \"CASEHEADS\" and a logo with a baseball and a head is visible next to the man. As the scene progresses, the man continues to talk and move his hand while the list of names on the screen scrolls upward, bringing different players and teams into view."
+}

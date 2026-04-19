@@ -1,0 +1,15 @@
+{
+  "video_id": "2999ca1d9f1a132f0235b3ec535350f1",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-122.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and short brown hair, wearing a dark blue t-shirt, sits behind a desk in a room with a colorful, patterned surface. He is visible in a small inset window on the right side of the screen, where he appears to be talking. The main view shows a close-up of a person's hand holding a clear plastic sleeve. In the background of both views, there is technical equipment, including what appears to be a printing or cutting machine. The text \"JASPYS\" and \"CASEBREAKS.COM\" is prominently displayed in red and white on the screen. As the sequence progresses, the hand moves the clear sleeve, subtly shifting its position and angle, while the man in the inset remains in his seat, continuing his actions. The overall scene depicts a professional setup for handling and showcasing collectible items."
+}

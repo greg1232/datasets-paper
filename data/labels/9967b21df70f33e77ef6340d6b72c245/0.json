@@ -1,0 +1,15 @@
+{
+  "video_id": "9967b21df70f33e77ef6340d6b72c245",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-514.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.219,
+    0.657,
+    1.095,
+    1.533
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, black headphones, and a black hoodie with the word \"BOSS\" in gold glittery letters sits in a recording studio. He is positioned behind a desk with a professional microphone on a boom arm in front of him. To his right is a black container with red and white text that reads \"TALK OUT\". Behind him is a white backdrop featuring a yellow star logo and the text \"UNIQUE MUSTLE\". In the background, a sign reads \"'Where BOSSES Talk!'\". Throughout the sequence, the man remains seated and looks toward someone off-screen to his right, his facial expression remaining relatively consistent. There is very little movement between the frames, with only slight shifts in his posture and gaze, while the equipment and background remain static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "63f336a4eff54376f9e064b061390fba",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a purple traditional cap, glasses, and a white garment is positioned against a dark background. A logo for \"plustv\" is visible in the upper left of each scene. Below the man, a banner reads \"PLUS POLITICS\" followed by the text \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\". At the bottom of the display, a white bar contains text. In the initial scene, the text on the left says \"WATCH ONLINE\" and the right side displays \"WWW.PLUSTVAFRICA/LIVE-TV\". In the subsequent scenes, the left text changes to \"SUBSCRIBE\" while the right side updates to \"WWW.YOUTUBE.COM/PLUSTVAFRICA\". Throughout the sequence, the man remains in a static pose with a neutral expression, and the overall visual composition remains consistent except for the changing text in the bottom bar."
+}

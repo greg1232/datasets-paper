@@ -1,0 +1,15 @@
+{
+  "video_id": "6366e38d4236700f3fd17b804737cce0",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-102.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.102,
+    0.306,
+    0.51,
+    0.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is positioned over a dark surface featuring red and orange graphic designs and the text \"JASPYS CASEBREAKS.COM\". In the background, a small inset video shows a man wearing a black hoodie sitting in a room with shelves of collectibles. Throughout the sequence, the hand remains in a similar open-palm gesture, though it shifts slightly in position. On the table, there are stacks of dark, packaged items. The scene maintains a consistent setting, with the foreground focus on the hand and the branded mat, while the inset video shows the man remaining stationary. The on-screen text \"JASPYS CASEBREAKS.COM\" is clearly visible in the center of the frame. The video capture is a repeating loop, as the frames show the hand and background returning to nearly identical positions."
+}

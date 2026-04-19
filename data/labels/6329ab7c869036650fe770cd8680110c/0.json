@@ -1,0 +1,15 @@
+{
+  "video_id": "6329ab7c869036650fe770cd8680110c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-468.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.196,
+    0.588,
+    0.979,
+    1.371
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair wearing a black t-shirt appears in a small webcam overlay in the corner of a video game interface for a \"90+ ZERO CHILL PLAYER\" pack. In the initial scenes, the screen displays a \"BUY WITH\" option for \"20,000 Training\" and various menu prompts such as \"BUY,\" \"VIEW INFO,\" \"HELP,\" and \"CANCEL.\" The man is visibly excited, gesturing with his hands and smiling. As the sequence progresses, the game screen transitions from the menu to an animation of a green and black digital pack opening. The webcam overlay continues to show the man reacting with enthusiasm, raising his arms and opening his mouth in surprise as the pack animation plays. On-screen telemetry at the top shows various currency values and \"LVL 21,\" while the \"ULTIMATE TEAM\" logo is faintly visible in the background."
+}

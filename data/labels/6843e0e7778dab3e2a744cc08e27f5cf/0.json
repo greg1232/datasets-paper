@@ -1,0 +1,15 @@
+{
+  "video_id": "6843e0e7778dab3e2a744cc08e27f5cf",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-159.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.227,
+    0.681,
+    1.135,
+    1.59
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a clear plastic card protector, moving it across the frame to reveal a scene in the background. Behind the hand, a man with a beard, wearing a dark blue shirt, sits at a desk equipped with a computer monitor and a small white machine. On-screen graphics include the text \"JASPYS\" and \"CASEBREAKS.COM\" at the top, and a smaller overlay in the bottom center showing the man at his desk with the text \"JASPYS Sports Cards and More.\" The setting appears to be an indoor room with a colorful green and blue patterned surface visible beneath the hand. As the hand moves from left to right across the views, it partially obscures and then reveals different parts of the background, including the man and his equipment. The man remains relatively stationary, focused on the task at his desk."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1f8700db1267fe9e01d91dff72872008",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit in a room in front of a television displaying the text \"OUR STUPID REACTIONS\". The man on the left wears a dark green t-shirt and maintains a skeptical facial expression, while the man on the right wears a grey t-shirt and rests his chin on his hand. Behind them is a shelf filled with CDs. In the center of the screen, a smaller video window plays a clip. In the first frame, the inset video shows a sword on the ground with the caption \"have been cheating death since i was 14.\" As the scene progresses, the inset video shifts to a dark silhouette of figures in a dramatic environment, then to a silhouette of a person against a bright light, and finally to a figure in a dark, golden-toned setting. The two men remain in their positions, watching the footage with similar expressions throughout the clip."
+}

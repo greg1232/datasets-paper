@@ -1,0 +1,15 @@
+{
+  "video_id": "50e599c81fc58c4090ad9b2ac7a38482",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.833,
+    11.499,
+    19.165,
+    26.831
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting, a woman with short brown hair, wearing a white t-shirt and a black blazer, gives a presentation. She stands in front of a projection screen, holding a tablet and gesturing with her hand as she speaks. Facing her is a person wearing a yellow jacket and a green beanie, seen from the back. Two black chairs are positioned against the wall to the right. In the initial sequence, the projection screen displays a classical painting of a reclining nude figure with the text \"data as a reflection\" in the upper right corner. As the scene progresses, the projected image shifts to a colorful, abstract, and distorted composition. The text on the screen changes to \"a as a self p\", though some letters are obscured by the speaker's body and the tablet. The speaker's position and gestures remain relatively consistent throughout the sequence."
+}

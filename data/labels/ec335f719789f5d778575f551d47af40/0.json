@@ -1,0 +1,15 @@
+{
+  "video_id": "ec335f719789f5d778575f551d47af40",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.433,
+    1.3,
+    2.167,
+    3.033
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two soldiers in camouflage uniforms and gear walk away from the viewer along a dirt path bordered by green trees and foliage. The soldier on the right wears a helmet and carries a rifle slung over their back, while the soldier on the left carries a large backpack. Both individuals are moving forward into the distance. The text \"Hero Ukraine\" and a red logo containing the number \"13\" are visible in the upper corners of the scene. As the sequence progresses, the soldiers continue their forward movement along the path, gradually increasing the distance between themselves and the camera. The environment remains consistent, with the overcast lighting and surrounding greenery staying the same as they walk deeper into the landscape."
+}

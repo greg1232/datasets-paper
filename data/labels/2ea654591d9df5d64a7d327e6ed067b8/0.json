@@ -1,0 +1,15 @@
+{
+  "video_id": "2ea654591d9df5d64a7d327e6ed067b8",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.975,
+    1.625,
+    2.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a brightly lit studio or presentation space, three people are gathered around two white, high-top pedestal tables. A man on the left wears a dark suit and stands by a table, while a woman in the center wears a dark blazer over a pink shirt and tan trousers, standing behind another table. A second man on the right, wearing a yellow and black patterned shirt and dark trousers, stands beside a third small table. A large banner in the background features an image of two hands and the text \"PRAKTIJK EN ZORGVRAAG\". The logo \"mediasite\" appears at the top of the scene. Throughout the sequence, the people remain in their positions, though they shift slightly in their stances. The man on the right is seen gesturing and speaking toward the other two, who listen attentively. Small microphones and water glasses are placed on the tables."
+}

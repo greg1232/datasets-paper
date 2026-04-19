@@ -1,0 +1,15 @@
+{
+  "video_id": "1f2d89946d22831975e862ce992ef98e",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.756,
+    5.268,
+    8.78,
+    12.291
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a white t-shirt with the text \"Stay Hydrated\" and headphones, is positioned in front of a microphone in a studio with sound-absorbing wall panels. He has tattoos on his right arm. Across the sequence, the man is speaking into the microphone, which is mounted on a boom arm. He begins with his right hand resting on his head, his expression focused as he speaks. As the sequence progresses, his facial expression shifts into a slight grimace or look of skepticism, with his brow furrowed and mouth partially open. His head tilts slightly as he continues to talk, and his hand remains placed on the top of his head throughout the interaction. The setting and equipment remain static while the man's facial expressions and slight head movements evolve."
+}

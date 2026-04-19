@@ -1,0 +1,15 @@
+{
+  "video_id": "61f9934c7b6f4bec0b2aeadd843592c9",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.359,
+    1.076,
+    1.793,
+    2.511
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up sequence shows a person's hand interacting with a vehicle's fuse box located in the interior. In the initial views, a fair-skinned hand is positioned over a panel containing various colored automotive fuses. The hand moves away from the fuse box, revealing a red wire that has been added to the circuitry, which is secured with a blue connector. The scene transitions to a wider shot of the fuse panel, which is integrated into a dark grey plastic housing. The red wire loops out from the fuse array and curves back toward the interior of the car. The surroundings include tan-colored carpeting and a light-colored interior pillar. No text or logos are legible in the frames. The sequence captures the process of accessing the fuse box and the result of a wiring modification."
+}

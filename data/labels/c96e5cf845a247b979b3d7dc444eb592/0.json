@@ -1,0 +1,15 @@
+{
+  "video_id": "c96e5cf845a247b979b3d7dc444eb592",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-225.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.237,
+    0.396,
+    0.554
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand interacts with a white plastic tray on a colorful patterned surface in a room where a man wearing a navy blue polo shirt is seated at a desk. The man is visible in a small inset picture-in-picture window, where he sits in front of a computer monitor and keyboard. On-screen graphics feature the text \"JASPYS\" in orange and white, followed by \"CASEBREAKS.COM\" in white. The main view focuses on a white tray containing a yellow rectangular object. As the sequence progresses, the person's hand moves a clear plastic sleeve over the yellow object. The background is slightly blurred, showing parts of a room and other equipment. Throughout the clip, the man in the inset window remains seated, facing forward toward his equipment."
+}

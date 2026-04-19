@@ -1,0 +1,15 @@
+{
+  "video_id": "5a33ff545cf46318a7ae8d7a16eca2a8",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-311.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.423,
+    1.269,
+    2.115,
+    2.96
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a protective plastic case containing a dark, sparkly card. In the initial frames, the card is flipped over, showing a black, glittery surface. A small inset video shows a man with a beard wearing a navy blue t-shirt sitting at a desk with computer equipment. The background of the main scene and the inset features branding for \"JASPYS\" and the website \"CASEBREAKS.COM\". As the sequence progresses, the person flips the card over to reveal a gold-bordered sports card featuring a baseball player in a red cap and jersey. The player's name, \"Pujols\", is visible in a stylized script. The card is held firmly within the clear plastic slab. Throughout the sequence, the man in the inset remains seated at his workstation, watching the process."
+}

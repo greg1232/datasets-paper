@@ -1,0 +1,15 @@
+{
+  "video_id": "95c027a8ff2676b54152e4b7738e99ae",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-333.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.106,
+    0.319,
+    0.531,
+    0.744
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is captured in a split-screen view, showing a match between the Atlanta Falcons and another team. The field is green with white yard lines and a red end zone featuring the word \"COMMANDERS\". On-screen text at the top displays \"1st & 10\", \"EXD\", \"7\", \"2nd\", \"0:46\", \"49\", and \":13\". Players in white and black uniforms are positioned for a play. In the first frame, the teams are lined up across the line of scrimmage. As the sequence progresses, the play begins; players clash at the line, and those in white uniforms push forward while those in black attempt to block them. A small inset window in the bottom corner shows a man with blonde hair wearing a dark shirt, watching the game. The scene transitions from a static pre-snap alignment to the active, physical movement of a football play in progress."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0b1f04c79b3091688602e6aa465936e7",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-091.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.813,
+    1.139
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white, bell-shaped object stands centered against a solid teal background. The object features a wide base that tapers upward to a narrower neck, topped with a white cap separated by a thin black band. Across the sequence, the object remains stationary. White uppercase text appears on the screen. In the beginning, the text \"HOLDS FULL BOTTLE OF WINE\" is blurred and partially obscured at the top of the frame. As the sequence progresses, this text becomes sharp and clear, centered at the top. Simultaneously, the phrase \"HOLDS FULL BOTTLE OF WINE\" appears in clear, white uppercase letters across the center of the image. This text remains constant in the final stages of the clip, positioned above a second identical white object that is partially visible at the bottom of the frame. No people are present in the scene."
+}

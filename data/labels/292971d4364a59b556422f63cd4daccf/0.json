@@ -1,0 +1,15 @@
+{
+  "video_id": "292971d4364a59b556422f63cd4daccf",
+  "url": "./data/segments/3TQScsCOS2k-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.21,
+    0.63,
+    1.05,
+    1.47
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A surreal sequence shows a white cat's head wearing a small, conical silver party hat, appearing as if it were a popsicle on a stick. The cat is positioned in front of a white bucket and lush green foliage, including palm trees. A bright cyan banner with the white text \"CLICK HERE TO SUBSCRIBE\" is visible in the upper left, accompanied by a white cursor icon. The background features vibrant, overlapping colors of yellow, green, and orange. As the scene progresses, the color grading shifts dramatically; the white cat and the surrounding scenery transition from warm, bright tones to a cool, blue-tinted hue. The cat's eyes also change color, shifting from golden-yellow to a deep purple. Despite these color transformations, the cat's static expression and the overall arrangement of the elements remain unchanged."
+}

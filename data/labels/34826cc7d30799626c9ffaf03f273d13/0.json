@@ -1,0 +1,15 @@
+{
+  "video_id": "34826cc7d30799626c9ffaf03f273d13",
+  "url": "./data/segments/3Smz5pevbI4-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.19,
+    6.569,
+    10.948,
+    15.328
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video presentation titled \"The elephant in the mind\" features a central image of an elephant walking toward the viewer with a person sitting atop its head. Surrounding the elephant are several smaller diagrams of the human brain with specific regions highlighted and labeled. To the left is a brain image titled \"Open-mindedness?\" with a highlighted section labeled \"PC\". To the right is one titled \"Subj. Value\" with a section labeled \"VMPFC\". Below these, a small image titled \"Fear\" points to the \"Amygdalae\", while a final image titled \"Control\" points to the \"DLPFC\". Across the sequence of frames, the visual composition remains entirely static; the placement of the elephant, the brain diagrams, and the accompanying text labels does not change, indicating a still slide used during a presentation."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b0a88f764c377e1d036d4bb47b8f070f",
+  "url": "./data/segments/3jaAcpqJEbg-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.729,
+    14.187,
+    23.646,
+    33.104
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head, wearing a blue t-shirt and a lanyard with an ID badge, stands on a stage in front of a blue backdrop. The backdrop features white logos and text, including the words \"has geek\" and \"rootc\". In the background, several people are seated in red chairs, with some appearing to be watching the presentation. As the sequence progresses, the man moves his hands to gesture while speaking; he starts with his hand near his chin and then opens his arms wide to emphasize his points. The lighting is dim in the audience area, while the speaker is brightly lit. A dark rectangular monitor or screen is visible to the right of the speaker. The overall scene captures a moment during a presentation or talk at a technology-related event."
+}

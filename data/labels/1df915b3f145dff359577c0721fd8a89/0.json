@@ -1,0 +1,15 @@
+{
+  "video_id": "1df915b3f145dff359577c0721fd8a89",
+  "url": "./data/segments/3l84m5pRmyk-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.194,
+    18.581,
+    30.968,
+    43.356
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a blue button-down shirt wearing a headset microphone stands against a dark background. Behind him is a white wall featuring the logos \"theCUBE\" and \"siliconANGLE\". The man speaks, shifting his gaze and facial expressions as he talks. Across the bottom of the scene, a blue graphic overlay appears and changes. Initially, it displays \"SPONSORED BY\" next to an \"INFO-OBJECTS\" logo, and text that reads \"#theCUBE LIVE at #BigDataSV 2015 Fairmont Hotel - Valley Room San Jose, CA\". This later transitions to identify the speaker as \"RISHI YADAV | @meditativesoul\" with the titles \"CEO\" and \"infoobjects\" listed below. In the final sequence, the graphic shifts again, showing \"#BigDataSV 2015\" and a glimpse of a laptop on a table in front of the speaker."
+}

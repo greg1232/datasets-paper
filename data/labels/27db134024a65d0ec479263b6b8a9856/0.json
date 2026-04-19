@@ -1,0 +1,15 @@
+{
+  "video_id": "27db134024a65d0ec479263b6b8a9856",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-449.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.221,
+    0.663,
+    1.104,
+    1.546
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a black shirt speaks while appearing in a small video overlay in the lower-left corner of a gaming interface. He is positioned in a room with a decorated Christmas tree and a wall featuring a logo. The main screen displays a purple-hued background with a top navigation bar containing numeric values, including \"159,529,\" \"14,600,\" and \"1,787,969,\" alongside a level indicator showing \"Lv 21\" and a circular icon with \"91.\" In the upper section, menu options such as \"ATTRIBUTES\" and \"UPGRADES\" are visible. As the scene progresses, the interface shifts to a different menu, introducing a \"LINEUP\" header and a horizontal sub-menu with options including \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS.\" The man continues to speak throughout the transition, remaining in the same position and attire as the game's menu screens change."
+}

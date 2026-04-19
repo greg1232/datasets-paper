@@ -1,0 +1,15 @@
+{
+  "video_id": "120fbe1657078a5679008d3365b22e6b",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-079.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.221,
+    0.663,
+    1.105,
+    1.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with long dark hair tied back and glasses stands before a microphone in an indoor setting with a horizontally slatted wooden wall behind him. He wears a white long-sleeved shirt with a decorative red and white garment underneath and a black vest embellished with blue floral embroidery. He holds a guitar, although only the top edge of the instrument is visible at the bottom of the scene. The man remains in a stationary position, singing into the microphone throughout the sequence. In each frame, the word \"ORCA\" is displayed in white capital letters on the right side of the image. The scene remains consistent across the progression, with only minor shifts in the man's facial expression and the positioning of his mouth as he performs."
+}

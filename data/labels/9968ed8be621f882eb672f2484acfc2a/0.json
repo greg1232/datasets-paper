@@ -1,0 +1,15 @@
+{
+  "video_id": "9968ed8be621f882eb672f2484acfc2a",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a terminal window running a network scanning tool. The screen is split, showing identical mirrored views of a command-line interface. The text consists of long lists of IP addresses, timestamps, and HTTP requests, such as \"GET /compatmode HTTP/1.0\" and \"GET /cronjobs HTTP/1.0,\" indicating a security audit or vulnerability scan. In the upper right corner of each window, a small profile picture of a man wearing a dark suit and white shirt is visible. The top bar of the application indicates the date \"Oct 28 0021\" and the username \"Terrodud.\" Throughout the sequence, the screen remains static, showing the same logs of network activity across all frames without any visible movement or changes to the displayed text or interface."
+}

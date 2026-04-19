@@ -1,0 +1,15 @@
+{
+  "video_id": "4ef6aab52810746e1397d56b47af0ca4",
+  "url": "./data/segments/3E6ctN22V7k-Scene-076.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a white t-shirt with the text \"ACADEMIE\" and other partially visible words on the back is working inside a narrow, tunnel-like structure with a curved ceiling. The individual is leaning forward, reaching into a gap beside a large object covered in black plastic sheeting. To the left, two black tires are visible on the ground, and a wooden platform or bench runs along the wall. The lighting is dim and warm. Across the sequence, the person shifts their body position slightly as they continue to manipulate something behind the black plastic covering, moving deeper into the structure. The surrounding environment remains static, with the tires, wooden elements, and plastic-wrapped equipment staying in place as the person focuses on their task."
+}

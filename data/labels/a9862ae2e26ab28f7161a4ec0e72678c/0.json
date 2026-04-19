@@ -1,0 +1,15 @@
+{
+  "video_id": "a9862ae2e26ab28f7161a4ec0e72678c",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.584,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on the mechanical components of a vehicle's drivetrain, featuring a metal axle and a gear assembly. The scene is characterized by weathered, greasy metal parts, including a black mounting bracket with a hexagonal bolt and a silver-toned axle shaft that extends toward the right. The components are coated in grime and oil, suggesting an industrial or automotive repair setting. Across the sequence of frames, the camera remains stationary, and there is no visible movement of the machinery or the presence of people. The lighting is consistent, highlighting the metallic textures and the contrast between the dark bracket and the lighter-colored gear housing. No text, logos, or other identifying markers are visible in the frames."
+}

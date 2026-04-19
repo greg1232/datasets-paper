@@ -1,0 +1,15 @@
+{
+  "video_id": "12b935c0dd0e4a012209539bce2c1f6b",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.604,
+    0.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser displaying a random list generator and a live stream. The left side of the screen features a numbered list of names, with \"Michael Loguericio\" appearing multiple times. Text on this page includes \"IP: 47.144.180.205\" and \"Timestamps: 2023-05-20 03:14:55 UTC.\" A banner warns, \"Don't use this service for giveaways! Use Multi-Round Giveaways instead.\" To the right, a chat window shows messages from \"glowbug27\" and \"Nightbot,\" with the latter posting a link: \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/2ZdE8K9.\" Below the chat is a video feed of a man with a beard wearing a black shirt. In the center of the screen, a white window from \"RANDOM.ORG\" appears, listing names such as \"Scott Effort\" and \"Michael Loguericio*.\" A red and white logo for \"JAYS CASEBREAKS.COM\" is visible at the bottom."
+}

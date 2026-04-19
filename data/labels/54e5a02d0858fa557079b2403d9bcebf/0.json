@@ -1,0 +1,15 @@
+{
+  "video_id": "54e5a02d0858fa557079b2403d9bcebf",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-082.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a grey jacket and dark pants sits atop a green all-terrain vehicle (ATV) inside a concrete garage or shed. To the right, a stack of four large, black tires rests against a wall, with a fifth tire standing upright beside them. A red bucket is visible on the floor near the tires. As the scene progresses, the driver steers the ATV forward and slightly to the right, moving it further out of the garage towards an open doorway that reveals a bright, outdoor area with green grass. The ATV's front wheels turn as it maneuvers across the grey concrete floor, which has white markings on it. The person remains seated and focused on driving the vehicle out of the enclosure. There is no legible text or logos visible in the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "fdaaaa8587b9d738ad910b721b342c88",
+  "url": "./data/segments/3E6ctN22V7k-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.555,
+    1.665,
+    2.775,
+    3.885
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot features a dark-skinned man looking directly into the camera with a neutral expression. He has short hair and a light beard. The background is blurred and indistinct, suggesting an indoor setting with soft lighting. As the scene progresses, white text appears at the bottom of the frame, stating, \"My name is Patience, and I fled my country due to the lack of security.\" The man remains stationary, facing forward with minimal movement in his facial muscles across the sequence. The lighting creates a slight sheen on his forehead and cheeks. The on-screen text remains constant once it appears, providing a personal statement while the man maintains a steady, solemn gaze toward the viewer."
+}

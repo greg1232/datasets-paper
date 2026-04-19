@@ -1,0 +1,15 @@
+{
+  "video_id": "76c5da4224aef66405492246ad6a2240",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-106.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing black over-ear headphones and a grey shirt is positioned in front of a professional microphone in a studio with dark, ribbed acoustic wall panels. He is looking toward someone off-screen to his right, his expression shifting from an attentive look to a slight smile. Overlaid on the right side of the scene is a smaller video window showing a man and woman sitting closely together on a couch; the woman is holding a white mug. White text is superimposed over this inset video, stating \"PERFECT FOR DATE NIGHT\". Throughout the sequence, the man in the headphones remains in the same position, subtly adjusting his gaze and facial expression, while the inset footage of the couple remains static."
+}

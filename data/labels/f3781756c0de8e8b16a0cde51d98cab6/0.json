@@ -1,0 +1,15 @@
+{
+  "video_id": "f3781756c0de8e8b16a0cde51d98cab6",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.442,
+    1.326,
+    2.211,
+    3.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's finger points to a fuse box located within a dark gray plastic housing. The box contains several colored fuses, including red and purple ones, labeled with white text. Legible labels include \"L.C.D.\", \"RADIO 25\", \"BRAKE 20\", \"01\", and \"STOP\". A thin red wire extends from the top right of the housing. The person's finger, which shows signs of wear or dirt on the skin, is positioned near the \"STOP\" label. As the sequence progresses, the finger moves slightly, shifting from resting near the \"STOP\" label to pressing more firmly against the plastic casing. The camera remains stationary, maintaining a close-up view of the fuse box and the finger's movement throughout the short clip."
+}

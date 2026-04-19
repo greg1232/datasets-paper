@@ -1,0 +1,15 @@
+{
+  "video_id": "06021f8387b3aeadeaf15489810ca21c",
+  "url": "./data/segments/3i5-ZukC--g-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A stylized graphic animation features a central circular emblem with a red background, depicting a silhouette of a person wearing a mask and a textured garment, holding an object that resembles a weapon. This emblem is surrounded by a swarm of white, hexagonal cells that shift and expand across a dark purple background. Initially, the hexagons are concentrated in a loose cluster around the red circle, with some appearing fragmented or dissolved at the edges. As time progresses, the white hexagonal pattern grows and spreads outward, eventually filling a significant portion of the screen and creating a denser, more structured network of cells that partially envelops the central figure. The red circular logo remains stationary and consistent throughout the sequence while the surrounding geometric patterns evolve and multiply."
+}

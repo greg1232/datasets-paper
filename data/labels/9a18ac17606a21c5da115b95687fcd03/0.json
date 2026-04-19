@@ -1,0 +1,15 @@
+{
+  "video_id": "9a18ac17606a21c5da115b95687fcd03",
+  "url": "./data/segments/3QD9oO6sRns-Scene-102.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.306,
+    0.919,
+    1.531,
+    2.144
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person\u2019s hand moves a blue and white Topps trading card box across a black surface. The box features the text \"CLEARLY AUTHENTIC\" and \"2020,\" and it displays an image of a baseball player. In the background, several other similar boxes are stacked. The scene is overlaid with a large orange and white logo that reads \"JASPYS CASEBREAKS.\" A small inset video window in the lower right corner shows a man wearing a black t-shirt and a baseball cap, sitting at a desk with a microphone. As the sequence progresses, the hand slides the box toward the right side of the frame, and later, the hand returns to reposition the box. The man in the inset window remains seated, observing the action on the table."
+}

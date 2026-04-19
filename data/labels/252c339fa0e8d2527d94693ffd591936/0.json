@@ -1,0 +1,15 @@
+{
+  "video_id": "252c339fa0e8d2527d94693ffd591936",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-102.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands before a microphone, performing in a setting with a background of horizontal wooden slats. He wears a white long-sleeved shirt, a black vest with intricate white embroidery, and a red and white accessory around his neck. He is holding a light-colored guitar. In the foreground, the backs of several people's heads are visible, indicating an audience. The text \"ORCA\" is displayed in white letters on the right side of the scene. Across the sequence, the man continues to sing or speak into the microphone, with slight movements of his head and mouth. His posture remains relatively consistent as he performs for the gathered crowd."
+}

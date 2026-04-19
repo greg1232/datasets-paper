@@ -1,0 +1,15 @@
+{
+  "video_id": "e235014656950a4b4a89f3ae38906796",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-463.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.758
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip features a split-screen presentation. The main area displays a large, three-dimensional grey block with a stylized \"U1\" logo in white and lime green, set against a digital background of horizontal blue and green neon lines. A small inset window in the lower-left corner shows a fair-skinned man with blonde hair wearing a black t-shirt. He is speaking and gesturing with his hands, appearing in a room with a Christmas tree and a computer monitor visible in the background. The \"U1\" block remains central and stationary throughout the sequence, while the man's facial expressions and hand movements shift as he continues to talk. The background lighting and the digital patterns behind the block stay consistent across the frames, maintaining a high-tech, gaming-style aesthetic."
+}

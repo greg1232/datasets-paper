@@ -1,0 +1,15 @@
+{
+  "video_id": "9cf29c019846ac683c7c1e41ac485fef",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-295.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.75,
+    2.25,
+    3.75,
+    5.25
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video call and a digital presentation. In the upper right corner, a man with glasses and a dark shirt is visible in a small webcam window. The main portion of the screen displays a complex conceptual map with various circular icons and labels connected by blue lines on a black background. Text labels within the map include \"the economy,\" \"the state,\" \"social capital,\" and \"the community.\" In the top browser bar, multiple tabs are open, with one reading \"True & Learning by Syr\" and another reading \"blackboard.edu fruit learning.\" The name \"Jerry McDhiau\" appears next to the speaker's video feed. Throughout the sequence, the image remains largely static, with the man in the webcam window blinking and making slight facial movements while the conceptual map stays fixed on the screen."
+}

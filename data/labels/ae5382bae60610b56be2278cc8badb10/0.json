@@ -1,0 +1,15 @@
+{
+  "video_id": "ae5382bae60610b56be2278cc8badb10",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-195.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.608,
+    1.825,
+    3.042,
+    4.258
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a baseball card featuring a player named Robinson, which is signed and numbered 2/5. The person is holding the card up to a camera in a room where a logo for \"JASPYS\" and the website \"CASEBREAKS.COM\" are visible in the upper right. A small inset window in the lower right shows a man with a beard and a dark shirt wearing a headset, sitting at a desk. The table surface features a graphic of palm trees. As the sequence progresses, the person lowers the card, moving it toward a white storage box containing other cards. The background shows a black electronic scale and various card-related equipment. Throughout the scene, the \"JASPYS\" and \"CASEBREAKS.COM\" text remains constant in the upper right and center of the frame."
+}

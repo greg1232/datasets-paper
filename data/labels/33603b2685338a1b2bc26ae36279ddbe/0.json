@@ -1,0 +1,15 @@
+{
+  "video_id": "33603b2685338a1b2bc26ae36279ddbe",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-229.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.67,
+    2.01,
+    3.35,
+    4.69
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser window showing a complex concept map on a black background. The map consists of various circular icons connected by blue lines, with text labels such as \"Health\", \"Equity\", \"Local Food\", and \"Environmental Impact\" appearing beside the nodes. In the top right corner, a small video feed shows a person wearing a black baseball cap and a dark shirt. The browser's address bar indicates the site is \"deck.elearning.fiu.edu\". Above the concept map, browser tabs are visible with titles including \"Trust & Learning by Systemantics\", \"Promote by Systemantics\", \"Future of Society by Systemantics\", and \"Insights > Introduction to Rums\". Across the sequence, the screen remains almost static, with the concept map and the person in the video feed staying in the same positions, indicating a moment of minimal activity during a presentation or online lesson."
+}

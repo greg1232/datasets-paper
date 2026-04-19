@@ -1,0 +1,15 @@
+{
+  "video_id": "d9acc363d0ca38e07e7eb18729bc5778",
+  "url": "./data/segments/3iUTkJy84EY-Scene-116.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.33,
+    0.55,
+    0.77
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is centered against a plain black background, speaking and gesturing with her hands. She is wearing a light green, long-sleeved top with decorative floral embroidery around the neckline and a dark beaded necklace. A small lapel microphone is clipped to the front of her garment. In the lower-left corner of each frame, a logo consisting of a circular gold emblem and the word \"NPTEL\" is visible. As the sequence progresses, the woman maintains her position, but her facial expression shifts slightly as she continues to talk, and her hands move in subtle gestures to emphasize her speech. The lighting remains consistent, focusing on the woman and leaving the surrounding background entirely dark."
+}

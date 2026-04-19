@@ -1,0 +1,15 @@
+{
+  "video_id": "cd6b446482d923753a522a8a73cf60a8",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-339.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.317,
+    0.95,
+    1.583,
+    2.217
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played on a green field with \"COMMANDERS\" written in red across the center. Players in white uniforms face off against players in dark uniforms. A small inset video shows a fair-skinned man with blonde hair wearing a black shirt, resting his chin on his hand. On-screen overlays display \"MOMENTUM LEGEND,\" \"X FACTOR,\" and a scoreboard showing \"1st & 10\" and \"2nd 0:39.\" Text such as \"ULTIMAT\" and \"TIMATE TEAM\" appears along the top banner. As the action progresses, the players clash at the line of scrimmage. In the final sequence, the man in the inset video looks toward the field as a player in a white jersey runs toward the right side of the screen, while other players scramble around him. The scoreboard timer counts down from \"0:39\" to \"0:39\" and then to \"0:22\" in the lower frames."
+}

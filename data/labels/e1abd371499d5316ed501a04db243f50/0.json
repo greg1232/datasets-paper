@@ -1,0 +1,15 @@
+{
+  "video_id": "e1abd371499d5316ed501a04db243f50",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.246,
+    0.738,
+    1.23,
+    1.723
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a decorative greeting card on a light-colored wooden surface. The card features a navy blue border and a floral illustration of a purple flower, with the phrase \"You warm my heart\" written in a script font. A thin, light-colored ribbon is attached vertically to the left side of the floral image. In the beginning, the person's right hand rests on the top edge of the card while their left hand holds the left side. As the sequence progresses, the right hand moves away from the top of the card and shifts downward. By the end, the person uses their right index finger to point toward the bottom of the card, specifically near the text, while the left hand continues to hold the card steady. A portion of another card or envelope is visible on the far left side of the scene."
+}

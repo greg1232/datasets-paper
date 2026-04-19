@@ -1,0 +1,15 @@
+{
+  "video_id": "d2caf35344e78161816f051b0120cee4",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.094,
+    0.281,
+    0.469,
+    0.656
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser displaying a randomizer list from RANDOM.ORG. The page lists names from 11 to 30, including \"Michael Loguencio\" and \"Scott Eckert,\" and mentions a \"BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/3ZeS8K9.\" At the bottom, a small video inset shows a man with a beard and a black shirt gesturing with his hands. He is positioned in front of a dark background. The page includes a footer for \"CASEBREAKS.COM\" with the logo \"JAY'S CASE BREAKS.\" As the sequence progresses, the user interacts with the browser, navigating away from the list to a home page that reads \"RANDOM.ORG\" in large blue letters and \"True Random Number Se\" in smaller text. A \"List Randomizer\" section appears, showing a new ordered list of names from 1 to 19, starting with \"Michael Loguencio.\" The man in the video inset remains present throughout."
+}

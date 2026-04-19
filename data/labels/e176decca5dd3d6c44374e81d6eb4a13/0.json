@@ -1,0 +1,15 @@
+{
+  "video_id": "e176decca5dd3d6c44374e81d6eb4a13",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-083.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.015,
+    3.045,
+    5.075,
+    7.105
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short gray hair and glasses is centered in a head-and-shoulders portrait against a blurred gray background. He wears a dark blue suit jacket and a white shirt. Throughout the sequence, he remains stationary with a slight, neutral smile. The image is presented as a news broadcast graphic from \"plustv,\" with the channel's logo appearing in the upper left corner. A purple banner reads \"PLUS POLITICS,\" and a large white banner below it contains the text \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\" in bold black capital letters. The bottom of the screen features various call-to-action banners; early frames show \"FOLLOW US\" alongside social media icons and \"PLUS TV AFRICA,\" while later frames display \"WATCH ON\" with logos for \"DStv CH 408\" and \"StarTimes CH 308,\" eventually shifting to \"WATCH ONLINE\" and the website \"WWW.PLUSTVAFRICA.COM/LIVE-TV\"."
+}

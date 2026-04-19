@@ -1,0 +1,15 @@
+{
+  "video_id": "d6910a0c4f08e84e0dc9829caec05126",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.125,
+    1.875,
+    2.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white jet airplane with a red stripe along its side and Russian flag markings on its tail and wings taxis along a runway under an overcast sky. The aircraft is equipped with two rear-mounted engines and a T-tail. In the background, a grassy field and several airport light poles are visible. A red circular logo containing the number \"13\" appears in the upper right corner of the scene. As the aircraft moves forward, the background shifts, and in the later sequence, a helicopter can be seen hovering or landing in the distance behind the plane. The aircraft remains in motion, gliding across the pavement while its landing lights are illuminated. No people are visible in the frames."
+}

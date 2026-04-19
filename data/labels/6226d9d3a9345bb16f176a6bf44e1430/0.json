@@ -1,0 +1,15 @@
+{
+  "video_id": "6226d9d3a9345bb16f176a6bf44e1430",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.997,
+    2.99,
+    4.984,
+    6.978
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A nighttime security camera view from a Ring doorbell, indicated by the \"ring.com\" logo in the upper corners, shows a residential driveway. Two cars are parked on the left: a white sedan and a dark sedan. A ladder and some equipment lean against a structure in the background. A shirtless man wearing dark shorts enters the scene from the right. He is initially distant, then walks toward the center of the driveway, and finally moves closer to the camera. The timestamps in the bottom right corner advance from \"05/15/2022 23:32:20 EDT\" to \"05/15/2022 23:32:26 EDT.\" The lighting is dim, characteristic of infrared night vision, and the image has a wide-angle, fish-eye distortion."
+}

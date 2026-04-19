@@ -1,0 +1,15 @@
+{
+  "video_id": "b59072f956c707a98033c42f83218980",
+  "url": "./data/segments/3P1vSUbet40-Scene-0625.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.203,
+    0.61,
+    1.017,
+    1.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark skin and glasses is seated in a room decorated with numerous framed photographs on the wall behind him. He wears a white collared shirt with a small bow tie, tan suspenders, headphones, and a tall, peaked grey wig. He is positioned in front of a professional microphone on a boom arm. On-screen text overlays include a logo with a microphone icon that reads \"BOSS TALK 101 PODCAST\" on the left and \"BOSS TALK 101\" with a smaller microphone icon on the right. Across the sequence, the man remains in a fixed position, speaking and shifting his facial expression slightly. He starts with his mouth open as if in mid-sentence, closes it slightly, and then opens it again, while his gaze shifts slightly toward the left. The background and equipment remain static throughout the clip."
+}

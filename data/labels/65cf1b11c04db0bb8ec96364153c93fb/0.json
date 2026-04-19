@@ -1,0 +1,15 @@
+{
+  "video_id": "65cf1b11c04db0bb8ec96364153c93fb",
+  "url": "./data/segments/3Smz5pevbI4-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.781,
+    5.343,
+    8.905,
+    12.467
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide is displayed against a plain white background. The slide contains a numbered list of three main topics. The first item is \"1. Characterize (unconscious) bias,\" followed by bullet points regarding \"cognitive empathy (Arabs and Israelis: Democrats and Republicans),\" \"affective empathy (Arabs and Israelis),\" and \"dehumanization (Americans re: Muslims, 'Gypsies', homeless).\" The second item is \"2. Neural Focus Groups,\" with a sub-point stating \"future: predicting effectiveness of anti-biasing program with 'neural focus group'.\" The third item is \"3. Neuro-diagnostics.\" As the sequence progresses, a final bullet point appears under the third item, which reads \"future: Individualized interventions: placement into conflict resolution program.\" A small cursor arrow is visible, moving across the screen to highlight the text as it is revealed. The layout and text remain consistent throughout the clip, with only the final line of text appearing in the later frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "34a537b85f6c0994770eddb866a00b4a",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-455.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.758
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark blue shirt stands in a room with a blurred background that includes a television and a decorated tree with colorful blue, yellow, and green lights. The person holds a smartphone, moving it toward the camera to show the screen. The phone displays an app titled \"Rage Quit Wheel\" featuring a colorful spinning wheel with red and white segments. Large white text on the screen reads \"Two of ANY Pack,\" with a smaller button below it that says \"DEACTIVATE.\" Across the sequence, the phone is first held at an angle, then brought directly into focus to clearly display the text and the wheel, and finally tilted away as the person moves their hand. The background remains consistent, while the primary action centers on the movement of the smartphone and the display of the app's interface."
+}

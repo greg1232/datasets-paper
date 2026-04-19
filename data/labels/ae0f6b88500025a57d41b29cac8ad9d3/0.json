@@ -1,0 +1,15 @@
+{
+  "video_id": "ae0f6b88500025a57d41b29cac8ad9d3",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-258.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.991,
+    1.387
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt with the text \"ION NEVER DO SHIT\" printed in white sits in a room filled with merchandise and photos. He is positioned behind a professional black microphone and appears to be speaking, with his facial expressions shifting slightly across the sequence. Behind him, several framed photos hang on the wall, and a white mannequin wearing a white t-shirt and green pants stands nearby. To the right, clothing racks filled with garments are visible. Two logos appear on the screen: a circular logo on the left containing the word \"DONE\" and a red text logo on the right that reads \"DONE BY TOT\". The scene remains static in terms of camera angle and setting, focusing solely on the man's subtle movements and speech as he interacts with someone off-camera."
+}

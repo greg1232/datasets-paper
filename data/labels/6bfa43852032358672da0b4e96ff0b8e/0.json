@@ -1,0 +1,15 @@
+{
+  "video_id": "6bfa43852032358672da0b4e96ff0b8e",
+  "url": "./data/segments/3szCdVKgMug-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.319,
+    0.957,
+    1.595,
+    2.233
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static scene features a dark, ornate stone pedestal topped with a spherical sculpture, situated in a lush garden setting. Green foliage, including weeping willow-like branches hanging from above and smaller shrubs and plants at the base, surrounds the sculpture. A thin, white pole or lamp post is visible in the background. Overlaid on the scene in large, white, all-caps text is the question, \"WHAT ACCOUNTS FOR CHANGE ACCORDING TO THE ATOMISTS?\". The imagery remains completely still across the sequence, with no people present and no movement in the environment or the text. The lighting is bright and natural, highlighting the textures of the stone and the greenery."
+}

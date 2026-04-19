@@ -1,0 +1,15 @@
+{
+  "video_id": "bc082496eacecde23453ee19b9e8390a",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-653.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.476,
+    7.429,
+    12.382,
+    17.335
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt sits in a room filled with framed photographs and clothing racks. His shirt features the white printed text \"I CON NEVER DO SHIT\" with smaller text below it. He is positioned behind a professional black microphone on a boom arm. In the background, a white mannequin wears a white shirt, and various racks of clothing are visible. Two logos appear on the screen: a circular black logo on the left and a red logo on the right that reads \"REALLY REAL\". Across the sequence, the man is speaking, shifting his facial expression from an open mouth in the first frame to a more neutral, closed-mouth expression, and then back to speaking. His head moves slightly as he talks, but his general posture and the surrounding environment remain static."
+}

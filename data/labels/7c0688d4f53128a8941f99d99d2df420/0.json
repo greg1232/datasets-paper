@@ -1,0 +1,15 @@
+{
+  "video_id": "7c0688d4f53128a8941f99d99d2df420",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-084.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.37,
+    1.11,
+    1.85,
+    2.59
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation takes place on a stage in a large lecture hall with rows of light blue and white seating in the foreground. Five people are positioned on the stage: a man on the far left in a dark suit, a woman in a dark blazer, a man in a patterned olive green shirt, a woman in a teal blouse, and a man on the far right in a dark suit. The man in the olive green shirt stands behind a small white table and gestures with his hands while speaking. Each person has a small white table in front of them, and the stage also contains electronic equipment and a blue banner with the word \"mediasite\" and a logo. The text \"mediasite\" appears again in a gray bar at the top of the scene. Throughout the sequence, the individuals remain in their positions, with the man in the green shirt continuing his animated hand gestures as he addresses the room."
+}

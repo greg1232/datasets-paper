@@ -1,0 +1,15 @@
+{
+  "video_id": "f331812607e7c266bfaf1b760fb297e4",
+  "url": "./data/segments/3iUTkJy84EY-Scene-211.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.16,
+    0.48,
+    0.8,
+    1.12
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is speaking against a plain black background. She wears a light green blouse featuring small floral embroidery and a dark necklace. Throughout the sequence, she is centered in the frame, gesturing with her hands to emphasize her speech. In the beginning, her hands are low and mostly still, but as the clip progresses, she raises her hands and uses her fingers to gesture. Her facial expressions change as she speaks, moving from a wide-open mouth to a more focused expression and then back to an open mouth. A small logo with a yellow sun-like symbol and the text \"NPTEL\" is visible in the bottom-left corner of each frame. The setting remains static, with only the woman's movements and expressions evolving over time."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "3d6d94b7351ac09178ec000d23ce853e",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.459,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot depicts a person's hand interacting with the mechanical components of a vehicle's engine or drivetrain. The person, wearing a dark sleeve, uses their fingers to probe or adjust a metal chain and gear assembly. The machinery is covered in grime and oil, featuring various bolts, metal casings, and a gear shaft. A small white label with a barcode and alphanumeric text is visible on a metallic part in the upper right, although the specific characters are not legible. Across the sequence, the hand remains in a similar position, with slight movements of the fingers as they touch the chain and surrounding metal. The perspective and lighting remain constant, focusing tightly on the tactile interaction between the hand and the greasy mechanical parts."
+}

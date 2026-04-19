@@ -1,0 +1,15 @@
+{
+  "video_id": "9b8ca1e21f6309366ee8de18386be76c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-246.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.583
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game recording shows an American football game played on a green grass field in a stadium filled with spectators. Players in white uniforms and players in black uniforms are scattered across the field; one player in a white jersey with the number \"24\" runs toward the right side of the screen. A small picture-in-picture window in the bottom left shows a blonde man wearing a blue shirt and a headset. The top of the screen displays a game HUD with text including \"1st & 10\", \"1st\", \"3:00\", \"32\", and \":19\". Logos for \"EA SPORTS\" and \"Positive Play\" are visible on the field and HUD. As the scene progresses, the players move forward, with the player wearing \"24\" advancing further right and the player in black pursuing him, while the man in the inset window continues to watch the game."
+}

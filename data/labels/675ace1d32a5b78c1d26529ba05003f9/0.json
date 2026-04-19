@@ -1,0 +1,15 @@
+{
+  "video_id": "675ace1d32a5b78c1d26529ba05003f9",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-129.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.34,
+    1.02,
+    1.7,
+    2.38
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast shows a group of men seated at a table during a press conference. A man in a blue shirt and glasses speaks centrally, flanked by men in traditional attire, including one wearing a white scarf and another in a light-blue shirt. Microphones from various news outlets are positioned on the table before them. The scene is framed by news graphics, including a red banner at the top that reads \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\" and side labels identifying \"\u0921\u093f\u092a\u094d\u091f\u0940 CM\" and \"\u092e\u0902\u0924\u094d\u0930\u0940\". Other names visible on screen include \"\u0938\u092c\u0930\u093e\u0924 \u091a\u094c\u0927\u0930\u0940\", \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\", \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\", and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930\". A ticking clock in the bottom right consistently shows \"10:07 PM\". As the clip progresses, a yellow \"BREAKING NEWS\" ticker scrolls across the bottom of the screen, transitioning from a partial view to a fully legible phrase. The background features a white wall with a partial logo and text."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b91d9385183205cce59809f9244f535b",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-472.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.48,
+    1.439,
+    2.398,
+    3.358
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits at a table in a studio setting, wearing a white baseball cap, a black hoodie with \"BOSS TALK\" printed in gold, and a gold watch. He wears large black headphones and speaks into a professional microphone on a boom arm. In the background, a white banner repeats the words \"UNIQUE HUSTLE\" alongside yellow stars. Above him, a sign reads \"Where BOSSES Talk!\". On the table, there is a black case, a blue container with \"TALK OUT\" text, and several papers that the man holds in his hands. Throughout the sequence, the man remains seated and continues speaking, shifting his gaze and facial expression slightly as he talks. He holds a small piece of paper and a larger document, glancing down at them while maintaining his position in front of the microphone."
+}

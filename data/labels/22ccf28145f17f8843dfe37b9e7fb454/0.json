@@ -1,0 +1,15 @@
+{
+  "video_id": "22ccf28145f17f8843dfe37b9e7fb454",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-260.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.158,
+    0.475,
+    0.792,
+    1.108
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game gameplay recording depicts an American football game featuring the Washington Commanders. The scene is set on a green football field with a large \"COMMANDERS\" logo across the turf. Players in white and dark uniforms are positioned for a play. A picture-in-picture window shows a fair-skinned man with blond hair wearing a dark blue shirt. The game interface displays various ability options such as \"PICK ARTIST,\" \"TIP DRILL,\" \"STONEWALL,\" \"MEDIUM ROUTE KD,\" and \"ENFORCER,\" alongside player names like \"CHIMNE AWUSIE,\" \"HAROLD CARMICHAEL,\" and \"ANTHONY BARR.\" The \"X FACTOR\" logo is prominent near the man's video feed. Across the sequence, the man in the inset window maintains a consistent expression, and the football players remain mostly stationary in their pre-snap positions, with minimal movement as the game prepares for the next action."
+}

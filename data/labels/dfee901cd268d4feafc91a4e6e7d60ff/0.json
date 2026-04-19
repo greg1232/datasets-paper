@@ -1,0 +1,15 @@
+{
+  "video_id": "dfee901cd268d4feafc91a4e6e7d60ff",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-426.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.227,
+    0.681,
+    1.135,
+    1.59
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a white headset is visible in a small inset window at the bottom left of a screen showing a \"STORE\" interface from a video game. The menu displays various \"FANTASY PACK\" options, including a \"HOME UNIFORM FANTASY PACK\", \"STADIUM FANTASY PACK\", \"OFFENSE PLAYBOOK FANTASY PACK\", \"AWAY UNIFORM FANTASY PACK\", and \"COACH FANTASY PACK\", each costing 250. Player cards with \"OVR\" ratings of \"90\", \"85\", and \"84\" are displayed, including one labeled \"84+ OVR ALL MADDEN PLAYER\" for 2,800. The top bar shows currency values like \"172,729\" and \"1,787,369\" and a level indicator \"LV 20\". The navigation menu includes tabs for \"FEATURED\", \"ZERO CHILL\", \"SELECT OFFERS\", \"TRAINING\", \"SPECIAL OFFERS\", and \"GEAR - NEW\". As the scene progresses, the store menu scrolls horizontally to reveal different packs and players, while the person in the inset remains present, talking."
+}

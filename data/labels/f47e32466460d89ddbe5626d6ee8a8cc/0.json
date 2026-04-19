@@ -1,0 +1,15 @@
+{
+  "video_id": "f47e32466460d89ddbe5626d6ee8a8cc",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.031,
+    9.094,
+    15.156,
+    21.219
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair wearing black over-ear headphones and a blue and white striped button-down shirt is seen in a medium close-up. She is positioned in front of a light-colored wall, with a window covered by yellow and blue curtains visible to her right. A light-colored piece of furniture is partially visible behind her. Across all frames, the woman is speaking, with her mouth opening and closing as she talks. The text \"Nancy Ramya\" appears in the bottom left corner of each shot. Between the frames, her facial expressions shift slightly as she continues to speak, though her position and the background remain constant."
+}

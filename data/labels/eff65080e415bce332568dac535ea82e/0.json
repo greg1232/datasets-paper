@@ -1,0 +1,15 @@
+{
+  "video_id": "eff65080e415bce332568dac535ea82e",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-210.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.305,
+    3.916,
+    6.527,
+    9.138
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard, wearing a white t-shirt and black over-ear headphones, speaks into a silver microphone mounted on a boom arm. He is positioned in front of a grey, sound-absorbing foam wall with a ridged texture. The microphone's arm features the legible text \"Rode PSA1\". In the initial sequence, the man looks slightly downward and to the side while speaking. As the sequence progresses, he raises his left hand, gesturing in the air beside his head. He then lowers his hand and continues to speak, shifting his gaze slightly. Throughout the clip, his expression remains focused, and he maintains a close position to the microphone. His right arm, which is visible, features several tattoos."
+}

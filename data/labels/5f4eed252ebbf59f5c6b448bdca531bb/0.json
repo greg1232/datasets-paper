@@ -1,0 +1,15 @@
+{
+  "video_id": "5f4eed252ebbf59f5c6b448bdca531bb",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.36,
+    1.08,
+    1.8,
+    2.52
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A black-and-white video depicts a sequence of sketched figures on a grid-like background. Initially, the scene is a blank grid with the text \"Arise sing. We\" appearing at the bottom. As the sequence progresses, two stylized human figures are drawn; both have their arms raised in celebratory or triumphant gestures and are filled with diagonal hatching lines. The text at the bottom expands to \"Arise sing. We are going to win. Flags of unity are now advancing .\", and a small credit \"Music: \u0160vic mikrofona 036\" appears in the lower right. The figures become more detailed over time, with the addition of outlines suggesting clothing and facial features. The background remains a consistent technical grid throughout the clip, serving as a canvas for the emerging sketches."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "3843a71da596b9d98b0bf8e068fd29db",
+  "url": "./data/segments/3JGRt3BFYrM-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    85.492,
+    256.475,
+    427.458,
+    598.442
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a screen recording of an Integrated Development Environment (IDE) used for software programming. The interface displays multiple open windows containing C++ source code and header files, such as \"usb_custom_hid_fw.c\" and \"usb_custom_hid_fw.h\". On the left side of the screen, a \"Project Explorer\" panel lists various project folders and files, including \"USB_Custom_HID\" and \"USB_HID_Device_Library\". The bottom of the screen features a \"Console\" tab showing build outputs, with legible text including \"Waiting for debugger connection...\" and \"Shutting down.\" As the video progresses, the focus shifts between different code files and windows, with the cursor moving to highlight specific lines of code and navigation through the project hierarchy. The overall layout remains consistent as a complex software development workspace with a light-colored theme."
+}

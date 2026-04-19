@@ -1,0 +1,15 @@
+{
+  "video_id": "342668703f9fb1c3350be87a258a79d1",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.854,
+    2.562,
+    4.271,
+    5.979
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a brightly lit, clinical indoor setting, a person's arms and hands are visible as they interact with a red plastic basket filled with several pieces of light-colored, processed meat. The scene takes place on a white countertop next to a computer monitor and a small metal dispenser. The person, wearing a light-colored garment, uses both hands to rearrange the meat within the basket. Starting from the top left, they reach into the basket with their right hand and shift a piece of meat. As the sequence progresses, the person uses their left hand to grip and slide a specific piece of meat toward the edge of the red basket. The camera remains stationary, focusing on the movement of the hands and the contents of the basket against the white background of the workstation."
+}

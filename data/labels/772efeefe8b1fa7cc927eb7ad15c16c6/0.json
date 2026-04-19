@@ -1,0 +1,15 @@
+{
+  "video_id": "772efeefe8b1fa7cc927eb7ad15c16c6",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-085.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a title card featuring a headshot of a man with glasses and curly brown hair, wearing a dark suit jacket. Text beside him reads \"Tiger Technicians Hour with host: Basil Chapman Author of: CD book 'The Chapman Wave' and the Opening Call newsletter,\" accompanied by the logo \"TFNN.COM EDUCATING INVESTORS.\" The scene then transitions to a digital background filled with financial data visualizations in shades of yellow and green against a dark backdrop. This background contains various elements including bar charts, mountain-style line graphs, pie charts, and numerical figures such as \"1664,\" \"15.41,\" and \"20815.\" As the video progresses, the camera pans across this data-rich environment, causing the numbers and graphs to shift. For example, the number \"1664\" changes to \"1698\" and then to \"1740,\" while other percentages and financial figures fluctuate across the screen."
+}

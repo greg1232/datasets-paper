@@ -1,0 +1,15 @@
+{
+  "video_id": "e778d4639f96c0b708486b7594a8b9de",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-356.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.621,
+    1.863,
+    3.104,
+    4.346
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a website titled \"RANDOM.ORG\" and \"True Random Number Service,\" featuring a \"List Randomizer\" tool. A text box under \"Part 1: Enter List Items\" contains a list of names and phrases, including \"Paul Jon McNealby,\" \"Chris Maxwell,\" and \"(you're viewing this form in secretly).\" Below the list, \"Part 2: Go!\" is displayed with a \"Randomize\" button, a \"Reset Form\" button, and a \"Switch to Advanced Mode\" link. A red YouTube subscription banner is visible on the right, stating \"Hit the SUBSCRIBE button down below!\" with a \"Subscribe\" button. In the bottom right corner, a small inset video shows a man with a beard and glasses wearing a black t-shirt. As the video progresses, the man speaks and gestures, while the screen remains on the website. The footer contains copyright information and links to social media."
+}

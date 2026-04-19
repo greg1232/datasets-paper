@@ -1,0 +1,15 @@
+{
+  "video_id": "65e3a3b8ec48dd15249b81ba53daf52a",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-073.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.69,
+    2.07,
+    3.45,
+    4.83
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This video clip presents educational slides for a course titled \"CRYOGENIC ENGINEERING.\" Each frame features a blue header with this title and a subheading that reads \"Tutorial \u2013 4.\" At the bottom of the slides, a footer identifies the lecturer as \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay,\" accompanied by an NPTEL logo on the left. The initial frame shows a mostly blank white slide. In the subsequent frames, a bullet point appears stating \"Work/unit mass of gas compressed,\" followed by a mathematical equation: \"$\\frac{W}{m} = T_1 (s_1 - s_2) - (h_1 - h_2)$\". The scene remains static after the text and equation appear, with no people or physical equipment visible, focusing entirely on the presentation of a thermodynamic formula for cryogenic engineering."
+}

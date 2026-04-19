@@ -1,0 +1,15 @@
+{
+  "video_id": "eb320eb634b4d512fa25eede1b98b268",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-691.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.704,
+    2.111,
+    3.519,
+    4.927
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a green t-shirt that reads \"ION NEVER DO SHIT\" and \"NETWORK\" speaks into a professional black microphone. He is in a room with a white wall decorated with various framed photographs and clothing racks in the background, including a white mannequin wearing a white garment. A logo with a red-and-white circle and text reading \"RED VELVET\" appears in the lower corners of the scenes. As the video progresses, the man shifts his head position, tilting it slightly to the side and changing his facial expression while continuing to speak. He remains seated in the same position throughout, with the background and equipment remaining static as he engages in a conversation or recording session."
+}

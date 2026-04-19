@@ -1,0 +1,15 @@
+{
+  "video_id": "ff317fb30c60e2a398ecfed8eaf6abd2",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-210.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser displaying a complex system map. In the initial frames, the screen displays a network of interconnected concepts with green text and blue arrows. Legible labels include \"Bird outside,\" \"Attractiveness of Garden,\" \"Bird poop,\" \"Unsightly Goutls,\" and \"Boy Brit Bird.\" A person is visible in a small video call window in the upper right corner, wearing a blue shirt and glasses. As the video progresses, the screen transitions to a different visualization of a system map. This new diagram uses circular icons with images and labels like \"Bird poop,\" \"Gardening,\" and \"Bird feeders\" connected by blue lines. The person in the video call window remains visible in the upper right, maintaining a neutral expression while observing the screen content. The browser tabs at the top indicate several open pages, including one titled \"True & Learning by Systemantics.\""
+}

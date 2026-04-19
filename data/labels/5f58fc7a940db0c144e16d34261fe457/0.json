@@ -1,0 +1,15 @@
+{
+  "video_id": "5f58fc7a940db0c144e16d34261fe457",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-133.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.365,
+    1.094,
+    1.823,
+    2.552
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair wears over-the-ear headphones and a light-colored button-down shirt while speaking. She is positioned in an indoor setting with a light-colored wall behind her and a translucent yellowish curtain to her left. In each frame, a small amount of text reading \"Hanny Denye\" is visible in the bottom left corner. Throughout the sequence, the woman remains in a centered medium shot, looking toward the camera. Her expression shifts slightly as she talks, with her mouth opening and closing across the frames to indicate speech. Her head movements are minimal, and her position relative to the background remains constant. The lighting is soft and consistent, and no other people or significant objects are visible in the scene."
+}

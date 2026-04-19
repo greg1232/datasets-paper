@@ -1,0 +1,15 @@
+{
+  "video_id": "bc839c984ece67f1887813839d34aa6d",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.331,
+    0.552,
+    0.773
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with blond hair, wearing glasses, a gold chain, and silver headphones, is recorded in a home setting. He wears a dark blue t-shirt and is positioned in front of a framed blue picture featuring the text \"20\" and \"20 SAND\". To his left, a Christmas tree is decorated with colorful lights. He begins with a shocked expression, mouth wide open and hands raised in a gesturing motion. As the sequence progresses, he continues to express intense surprise or excitement, with his mouth remaining open. In the final segment, he shifts his posture, raising his right arm high in the air while maintaining his wide-eyed, shouting expression. The background remains consistent throughout, while the man's dynamic physical movements convey a strong emotional reaction."
+}

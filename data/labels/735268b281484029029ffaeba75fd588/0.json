@@ -1,0 +1,15 @@
+{
+  "video_id": "735268b281484029029ffaeba75fd588",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.217,
+    0.651,
+    1.084,
+    1.518
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green utility vehicle is parked indoors in a garage or workshop area. The vehicle features a green body with black accents, a black front brush guard, and knobby tires. On the side of the hood, the text \"Svastika\" is visible, and the number \"550\" is printed on the front panel. The vehicle is positioned in front of other similar green equipment and various workshop items, including a red tool or piece of equipment partially visible on the left. There are no people present in the scene. Throughout the sequence, the camera remains stationary, and there is no discernible movement or change in the position of the vehicle or the surrounding objects, resulting in a static scene across all frames."
+}

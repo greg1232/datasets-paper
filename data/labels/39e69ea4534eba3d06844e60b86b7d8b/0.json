@@ -1,0 +1,15 @@
+{
+  "video_id": "39e69ea4534eba3d06844e60b86b7d8b",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a group of men standing together in what appears to be a press conference or public gathering. In the center, a man in a white shirt and glasses is speaking into a cluster of microphones, including one with a \"\u092d\u093e\u0930\u0924\" logo. To his right stands a man in a dark jacket and glasses, and to his left is a man wearing a beige scarf. The scene remains largely static across the sequence, with the men maintaining their positions as they face the press. The screen is heavily overlaid with graphics from \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\". A red news ticker at the bottom reads \"PM \u092e\u094b\u0926\u0940 \u0928\u0947 \u0939\u0940\u091f \u0915\u0930 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930 \u0915\u094b \u092c\u0927\u093e\u0908 \u0926\u0940\" and displays a time of \"10:03 PM\". The top of the screen features various headlines, including \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\", and small inset portraits of political figures such as \"\u0935\u093f\u091c\u092f \u091a\u094c\u0927\u0930\u0940\" and \"\u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930\"."
+}

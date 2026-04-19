@@ -1,0 +1,15 @@
+{
+  "video_id": "7530eb432804cc0773768f4268ec2053",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.125,
+    1.875,
+    2.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white aircraft with a red stripe and the word \"\u0420\u041e\u0421\u0421\u0418\u042f\" written on its side taxies across a paved runway. The plane features a T-tail design with a small Russian flag visible on the vertical stabilizer. The setting is an open airfield with green grass lining the runway and white navigational poles standing in the background. In the upper right of the frames, a red circular logo containing the white text \"13\" is visible. As the plane moves from left to right, its position shifts across the frame, and a small helicopter briefly appears in the distance behind the aircraft. The lighting is overcast, and the plane's landing lights are illuminated as it rolls along the tarmac."
+}

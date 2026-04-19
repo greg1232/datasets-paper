@@ -1,0 +1,15 @@
+{
+  "video_id": "ae7f999eacbc258d25c8c0a84ffa70de",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-138.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.802
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair is seen from the chest up, positioned in an indoor setting. She is wearing a striped purple and white shirt and large black over-ear headphones. She is centered in the frame, looking directly forward and speaking. Behind her, a pale yellow curtain hangs on the left side of the frame, and a plain light-colored wall is visible in the background. Small, illegible white text is located in the bottom left corner of each shot. Across the sequence, the woman's facial expressions and mouth movements shift as she continues to talk, while her posture and the surrounding environment remain stationary. The lighting is consistent throughout, casting soft shadows on the wall behind her."
+}

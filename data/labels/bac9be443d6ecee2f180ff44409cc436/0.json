@@ -1,0 +1,15 @@
+{
+  "video_id": "bac9be443d6ecee2f180ff44409cc436",
+  "url": "./data/segments/3a0FD1177FA-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.011,
+    3.034,
+    5.057,
+    7.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown working on a craft project atop a white gridded cutting mat. The workspace contains several pieces of olive green and floral patterned paper, a white rectangular slip, and an ink pad labeled \"MEMEN\". In the upper right of each frame, a stamped message reads, \"Happy Birthday is filled with all the Best things!\". As the sequence progresses, the person uses a clear adhesive roller to apply glue to the back of small strips of floral paper. They carefully position and press these strips onto the larger green and floral card base. A watermark reading \"Stamping Jill\" is visible in the bottom left corner of the scene. By the end of the sequence, the person has adhered multiple decorative strips to the card, building up a layered composition."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "35a655ffdb2478079a8748dc6ad33cac",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-103.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.279,
+    0.838,
+    1.397,
+    1.956
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and headphones is speaking into a professional microphone in a studio with a dark, ribbed acoustic wall. He is wearing a white shirt and has tattoos on his arm. Beside him, an inset advertisement appears, featuring a person in a dark jacket holding a white cup. The ad includes a image of a vacuum-insulated bottle and a tumbler against a black background. The text in the ad reads \"30 THERMO 3D Vacuum Insulation\" at the top and \"KEEPS YOUR FAVORITE WINE AT THE PERFECT TEMPERATURE\" at the bottom. As the sequence progresses, the man continues speaking while the colors of the bottle and tumbler in the advertisement change. In the first two frames, the bottle and tumbler are black, but in the final two frames, the bottle becomes a bright teal and the tumbler becomes red."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "88ac4d5b238b0b78e3461e304a3843ba",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair wearing a dark green t-shirt and another man with red hair and a beard wearing a grey t-shirt and a necklace sit side-by-side in a room. Behind them is a television displaying the text \"OUR STUPID REACTIONS\" in orange letters and a soundbar. Below the TV is a shelf filled with CDs. A smaller video screen is superimposed in the foreground, showing a dark, geometric ceiling pattern with a central dark object and the text \"The severity of Shadbani\" and \"Alain's enmity.\" The man in the green shirt maintains a neutral, slightly skeptical expression, while the man in the grey shirt holds his hand to his chin in a thoughtful or concerned gesture. Across the sequence, the men remain nearly motionless, and the content on both the main television screen and the superimposed video screen remains consistent."
+}

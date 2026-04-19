@@ -1,0 +1,15 @@
+{
+  "video_id": "acd34759e720ecc4e8d671e77fdeb52e",
+  "url": "./data/segments/3L_uHTClWfk-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.383,
+    4.15,
+    6.917,
+    9.683
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a screen recording of a webpage from the Internal Revenue Service (IRS) website. The IRS logo is prominently displayed in the top left corner, and the top navigation bar includes links for \"SEARCH,\" \"HELP,\" and \"MENU.\" The main body of the text explains rules regarding Required Minimum Distributions (RMDs). The text begins with \"IRAs: The RMD rules require traditional IRA, and SEP, SARSEP, and SIMPLE IRA account holders to begin taking distributions at age 72, even if they're still working.\" It continues with a section on \"Retirement Plans:\" and discusses distribution deadlines for various plans, including \"401(k), 403(b) and 457(b) plans.\" The final paragraph mentions that \"RMDs may not be rolled over to another IRA or retirement plan.\" Across the sequence of frames, a mouse cursor moves across the screen, highlighting different phrases in blue, such as \"traditional IRA,\" \"RMD Comparison Chart,\" and \"Roth IRAs.\""
+}

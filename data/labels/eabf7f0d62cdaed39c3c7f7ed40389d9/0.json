@@ -1,0 +1,15 @@
+{
+  "video_id": "eabf7f0d62cdaed39c3c7f7ed40389d9",
+  "url": "./data/segments/3tXiKB90OM0-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A line of naval personnel in grey uniforms and matching caps stands in formation along the upper deck of a large, grey military ship. The personnel are positioned in a row, facing outward towards the side of the vessel. A large, gold-colored anchor is visible on the side of the hull, positioned just above the number \"44\" painted in white. The ship's structure extends upward behind the crew, featuring various railings and equipment. As the scene progresses, the personnel maintain their stationary positions in a disciplined line, while the camera remains steady, capturing the side of the vessel and the crew against a clear, bright sky. No on-screen text or logos are present in the scene."
+}

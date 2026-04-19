@@ -1,0 +1,15 @@
+{
+  "video_id": "9de8d144fa724888780cb8db596131f5",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.188,
+    0.563,
+    0.938,
+    1.314
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with a rose-gold watch and a dark grey ribbed sweater is working on a craft project atop a white wooden surface. A small, square piece of light blue fabric rests on the table. The person holds a white tube of adhesive or paint, which bears the legible text \"SHIMMER CRYSTAL EFFECT\". In the initial scene, the person uses their left hand to hold the tube while their right hand appears to be adjusting the cap or preparing the applicator. As the sequence progresses, the person grips the tube firmly with their left hand and uses their right hand to steady the base of the container. Throughout the progression, the person's hands remain focused on manipulating the tube of \"SHIMMER CRYSTAL EFFECT\" over the blue fabric, while a white paper with the words \"rm heart\" is partially visible on the left side of the workspace."
+}

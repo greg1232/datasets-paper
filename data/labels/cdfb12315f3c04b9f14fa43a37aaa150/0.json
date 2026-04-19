@@ -1,0 +1,15 @@
+{
+  "video_id": "cdfb12315f3c04b9f14fa43a37aaa150",
+  "url": "./data/segments/3fokLGPK15Q-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.69,
+    2.07,
+    3.45,
+    4.83
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a light-colored suit jacket and white shirt stands on a dark stage under dynamic purple and blue laser beams that crisscross the space. In the background, a large circular screen displays the text \"SLUSH\". Below the screen, a small curved table is set up with several white chairs and water bottles. As the sequence progresses, the man remains in his position, speaking while gesturing slightly with his hands. The lighting continues to shift, with the laser beams changing angles and intensity across the dark venue. The composition remains stable, capturing the wide shot of the presentation stage and the speaker centered against the vibrant, high-contrast light show."
+}

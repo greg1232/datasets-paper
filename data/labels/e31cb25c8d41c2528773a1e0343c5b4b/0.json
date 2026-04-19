@@ -1,0 +1,15 @@
+{
+  "video_id": "e31cb25c8d41c2528773a1e0343c5b4b",
+  "url": "./data/segments/3fokLGPK15Q-Scene-099.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.29,
+    6.87,
+    11.45,
+    16.03
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people are seated on a stage for a panel discussion. On the left, a man wears a white button-down shirt and dark trousers. In the center, a woman is dressed in a black t-shirt and black trousers. On the right, a man wears a grey suit jacket over a light blue shirt and grey trousers. They are seated in gold-colored chairs. In front of the man on the left is a large, white, complex structural model resembling a building. The background is a dark purple stage with bright pink neon accent lights. Behind the participants, stylized pink text is partially visible, including the characters \"BL\". As the sequence progresses, the woman in the center gestures with her hands while speaking to the man on the right. The man on the right listens attentively, while the man on the left remains mostly still, looking toward the other two."
+}

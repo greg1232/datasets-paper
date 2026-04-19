@@ -1,0 +1,15 @@
+{
+  "video_id": "e88602e28dba8caebdb8aca23fbc97ca",
+  "url": "./data/segments/3E6ctN22V7k-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.345,
+    0.575,
+    0.805
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a close-up view inside a gray storage bin or suitcase. Inside the container are several items, including a red and white patterned book or folder leaning against the side, small beige rectangular boxes, and a small red object. The camera remains static throughout the sequence, capturing a slight shift in lighting and the subtle movement of the objects within the bin. Across all frames, a white subtitle is centered at the bottom of the screen, reading \"And inside each suitcase there is wonder.\" No people are visible in the scene. The environment is minimally lit, focusing the viewer's attention on the miscellaneous contents of the storage unit, which are arranged in a haphazard manner."
+}

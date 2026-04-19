@@ -1,0 +1,15 @@
+{
+  "video_id": "64c87118e9eaaa42e08189159268e0aa",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-120.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.267,
+    0.8,
+    1.333,
+    1.867
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a gold-bordered sports card featuring a baseball player named Barry Larkin. The card is held up close to the camera, showcasing a signature and the name \"BARRY LARKIN\" printed at the bottom. In the background, a man wearing a dark blue t-shirt and a black headset sits at a desk with a laptop. The setting is a room decorated with a large logo featuring palm trees and a sun. The logo \"JASPYS\" and the website \"CASEBREAKS.COM\" appear as on-screen text overlays in the upper right section of each scene. As the sequence progresses, the hand holding the card shifts slightly, moving the card across the frame, while the man in the background remains seated, watching the process. A small black box and other collectible items are visible on the desk behind the hand."
+}

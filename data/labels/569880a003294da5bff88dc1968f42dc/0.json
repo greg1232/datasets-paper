@@ -1,0 +1,15 @@
+{
+  "video_id": "569880a003294da5bff88dc1968f42dc",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-096.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a dimly lit setting, a person's hands are shown pouring liquid from a white, matte-finished bottle into a white Miir-branded cup. One hand grips the bottle, tilting it downward, while the other hand holds the cup steady. The bottle has a distinctive wide opening, facilitating a smooth pour. Throughout the sequence, on-screen text appears in white capital letters against a dark background. Initially, the text \"OPENING\" is displayed in a white box. As the action continues, the text changes to read \"EASY POUR OPENING\". The camera remains focused on the interaction between the bottle and the cup, highlighting the ease of pouring. The lighting is soft, creating a contrast between the white containers and the dark surrounding environment."
+}

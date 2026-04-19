@@ -1,0 +1,15 @@
+{
+  "video_id": "a83e6d47b93134028b54fc0f7fa53b17",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-418.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.094,
+    0.281,
+    0.469,
+    0.656
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair wearing a dark t-shirt and headphones is visible in a small inset video window. He is smiling and laughing, situated in a room with a Christmas tree decorated with colorful lights to his left. A large, semi-transparent pink and purple overlay covers the screen, displaying a warning message. The word \"ATTENTION\" appears in bold white letters at the top, and below it, the text reads, \"The connection to your peer has been lost.\" A bright yellow horizontal bar is also present on the screen. Throughout the sequence, the man continues to laugh and move slightly, while the \"ATTENTION\" text and the warning message remain constant. The background of the larger overlay stays a vibrant pinkish-purple, with some red petal-like shapes floating across the screen in the initial moments before stabilizing."
+}

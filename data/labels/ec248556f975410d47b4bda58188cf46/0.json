@@ -1,0 +1,15 @@
+{
+  "video_id": "ec248556f975410d47b4bda58188cf46",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.225,
+    12.675,
+    21.125,
+    29.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static educational presentation slide titled \"CRYOGENIC ENGINEERING\" at the top and \"Linde \u2013 Hampson System\" as the main header. The slide contains mathematical derivations involving variables for enthalpy, including the equation \"y = (h_1 - h_2) / (h_1 - h_f)\" and \"h_{1'} = \\epsilon(h_1 - h_g) + h_g\". Below these, a final derivation for \"y\" is shown as a complex fraction: \"y = ((h_1 - h_2) - (1 - \\epsilon)(h_1 - h_g)) / ((h_1 - h_f) - (1 - \\epsilon)(h_1 - h_g))\". A red rectangular highlight is placed over \"h_1\" in the first equation and \"h_{1'}\" in the second equation to emphasize the substitution process. The bottom of the slide features the \"NPTEL\" logo and text attributing the content to \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\". Throughout the frames, the image remains identical, with no movement or changes in the text or highlights."
+}

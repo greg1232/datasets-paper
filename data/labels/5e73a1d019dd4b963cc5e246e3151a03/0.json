@@ -1,0 +1,15 @@
+{
+  "video_id": "5e73a1d019dd4b963cc5e246e3151a03",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-108.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.84
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head, wearing a light-colored collared shirt, is speaking directly to the camera in a dark setting. A Real Madrid crest is visible in the upper right corner of the scene. As he speaks, his facial expressions shift slightly, with his mouth opening and closing to form words. In several frames, white subtitles appear at the bottom of the screen, reading \"por conseguir los tres puntos, we got the three points.\" The background is dimly lit, showing blurred structures and lights that suggest a stadium environment. The camera remains in a steady close-up shot of the man's face throughout the sequence, capturing subtle movements of his lips and jaw as he delivers his message."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "35cb8c82fd50856ed88d71a40859aab3",
+  "url": "./data/segments/3U065Ox-1uA-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.526,
+    0.876,
+    1.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news segment featuring VOA Learning English begins with a white screen and the text \"the seventh in January.\" The \"VOA 60 LEARNING ENGLISH\" logo appears in the top left corner. As the scene transitions, a close-up image of a circular emblem appears, showing a green border with a red line and a stylized leaf pattern. The \"AFP\" credit is added above the VOA logo. The caption at the bottom changes from \"the seventh in January.\" to \"The African Union announces on Twitter\". The camera remains focused on the edge of the emblem against a textured, brown background, with slight adjustments in lighting and focus between the final frames."
+}

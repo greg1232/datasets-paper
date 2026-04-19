@@ -1,0 +1,15 @@
+{
+  "video_id": "0f6b55683aab8fcdceeb85dc375b0220",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-365.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.058,
+    3.175,
+    5.292,
+    7.408
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and glasses, wearing a black t-shirt with a yellow logo, is positioned in front of a computer screen displaying a Google Sheets spreadsheet. The spreadsheet is titled \"TH 5/13 - 2021 TOPPS TRANSCENDENT COLLECTION HALL OF FAME EDITION Baseba...\" and contains lists of names and card details, including \"Paul Jon MCKEN GRIFFEY JR 5/20\" and \"Jason Franky JOHNNY BENCH 10/20.\" The man is centered in a video overlay that sits on top of the spreadsheet. Below the video, a red \"Subscribe\" button and the text \"Hit the SUBSCRIBE button down below!\" are visible. Across the frames, the man remains in a similar pose, though his facial expression shifts slightly. The spreadsheet content remains static, though a blue highlight moves down the list of names from the top entries toward the middle of the page."
+}

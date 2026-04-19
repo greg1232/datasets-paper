@@ -1,0 +1,15 @@
+{
+  "video_id": "d2c27f541d459b0ef690ee87249863ed",
+  "url": "./data/segments/3TQScsCOS2k-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.785,
+    2.355,
+    3.925,
+    5.495
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men are seated side-by-side against a jungle-themed backdrop featuring lush greenery and a distant waterfall. The man on the left is bald, wearing a dark long-sleeved shirt and a gold chain necklace. The man on the right wears glasses and a black long-sleeved shirt. To their right, the text \"JUMANJI WELCOME TO THE JUNGLE\" is displayed. In the initial frames, the bald man is smiling and looking toward the other man, while the man with glasses is gesturing with his hands and speaking. As the sequence progresses, the man with glasses continues to talk and look toward the first man. By the final frame, the bald man has looked down and away, smiling to himself, while the man with glasses continues to gesture with his clasped hands, looking toward him."
+}

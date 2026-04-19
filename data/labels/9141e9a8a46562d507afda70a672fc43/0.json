@@ -1,0 +1,15 @@
+{
+  "video_id": "9141e9a8a46562d507afda70a672fc43",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.43,
+    1.289,
+    2.148,
+    3.007
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown holding a handmade greeting card against a light-colored wooden surface. The card is encased in a clear plastic sleeve and features a winter scene with pine branches and a snowflake, topped with the printed text \"SENDING YOU A LITTLE Yuletide Cheer\". The person's left hand holds the left side of the card steady while the right hand enters the frame to interact with the card. As the sequence progresses, the right hand moves toward the center of the card, eventually pressing down on a small, decorative element near the words \"Yuletide Cheer\". The person is wearing a watch on their left wrist. The background remains constant, showing a white wooden texture and a small portion of a blue surface in the upper corners."
+}

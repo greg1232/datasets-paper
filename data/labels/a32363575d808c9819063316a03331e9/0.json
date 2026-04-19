@@ -1,0 +1,15 @@
+{
+  "video_id": "a32363575d808c9819063316a03331e9",
+  "url": "./data/segments/3QD9oO6sRns-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.217,
+    0.65,
+    1.083,
+    1.517
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with sports card packaging in a room decorated with branding for \"JASPYS CASEBREAKS\". In the beginning, a hand holds a small, dark box, while a larger white box sits on a surface. As the sequence progresses, the person focuses on the larger box, which features a white top and black sides. On-screen text and logos include \"JASPYS CASEBREAKS\", \"CASEBREAKS\", and \"CLEARLY AUTHENTIC\" appearing on various boxes and banners in the background. A person wearing a black t-shirt and a black baseball cap is partially visible in the background behind a desk. The scene shifts from a close-up of the hands moving the small box to the hands manipulating the larger box, specifically adjusting or opening the top lid. Various other small boxes labeled \"CLEARLY AUTHENTIC\" are stacked in the background."
+}

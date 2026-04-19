@@ -1,0 +1,15 @@
+{
+  "video_id": "25c2d727e14b1bc0280aeca51d14abfb",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-086.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.392,
+    1.176,
+    1.96,
+    2.744
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital visualization of financial data is displayed against a dark, moody background with green lighting. The scene features various golden-yellow charts, including bar graphs, line graphs, and a 3D pie chart. Numerous numeric values and percentages float across the screen, such as \"41.11%\", \"20102\", \"61,54%\", and \"-7090,45\". As the sequence progresses, the camera slowly pans and tilts through this three-dimensional data landscape, causing the figures and graphs to shift in perspective. New numbers appear and old ones fade, such as \"19639\", \"19196\", \"18733\", and \"66,21%\". The golden elements maintain a consistent glow, while the background remains a dark, void-like space with faint grid lines and architectural shapes, suggesting a high-tech command center or a conceptual representation of a global market. No people are present in the visualization."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6d96bd0ff891f9e1bd790f982d2474fb",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.329,
+    0.988,
+    1.647,
+    2.306
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown working on a mechanical engine, likely from a red motorcycle. The person wears no visible clothing on their arms and is using both hands to carefully position a grey metal cylinder head onto the engine block. The red bodywork of the vehicle features a partial blue and white logo containing the letter \"S\". In the background, blue structural components of a vehicle frame are visible. Throughout the sequence, the person's right hand stabilizes the top of the cylinder head while their left hand, positioned lower, guides the component. As the action progresses, the cylinder head is lowered vertically toward the engine block, moving closer to the mounting holes and existing bolts on the surface. The lighting is bright and consistent, highlighting the metallic surfaces of the engine and the red paint of the chassis."
+}

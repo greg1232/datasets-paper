@@ -1,0 +1,15 @@
+{
+  "video_id": "0af67f216d7e4884c2e4f4775e49b0c7",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-213.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.335,
+    1.005,
+    1.675,
+    2.345
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen capture shows a video call interface featuring a complex digital mind map and a participant in a small overlay window. The participant is a man wearing a grey baseball cap and a dark shirt, appearing in the top right of the screen. The main area displays a dark background with a network of circular icons connected by blue and green lines. Legible text labels within the map include \"insights $\\rightarrow$ introduction $\\rightarrow$ Rumis,\" \"Rural Community Food System,\" \"Health Equity,\" \"Sustainable Food,\" \"Healthy Food,\" \"Food Systems,\" and \"Productive Land.\" Browser tabs at the top of the window include titles such as \"Trust & Learning by Systemini,\" \"Future of Society by Systemini,\" and \"insights $\\rightarrow$ introduction $\\rightarrow$ Rumis.\" Throughout the sequence, the visual elements remain static, with no visible movement from the man or changes to the diagram."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "67fe4ccdb27492327956f258b5c1e7a6",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-280.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played on a green turf field with white yard markers and red end zone markings. Players in white and dark uniforms are dispersed across the field. On-screen graphics at the top display game information, including \"3rd & 4\", team logos for the Bills and Falcons, and a game clock showing \"0:54\" and \"33 :30\" in the first half, transitioning to \"33 :29\" later. The text \"HOLD THE LINE ENABLED!\" is visible in the interface. A small inset video window in the lower-left corner shows a man with blond hair wearing a dark blue shirt, sitting in front of a decorated Christmas tree. As the sequence progresses, the man remains in the inset while the action on the field shifts; players in white uniforms move forward, with one player wearing jersey number 88 prominently visible running toward the right side of the field."
+}

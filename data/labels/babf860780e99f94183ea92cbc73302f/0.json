@@ -1,0 +1,15 @@
+{
+  "video_id": "babf860780e99f94183ea92cbc73302f",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-134.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.221,
+    0.663,
+    1.105,
+    1.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting resembling a small auditorium or meeting room, a man stands at the front before a seated audience. He is wearing a white shirt, a dark vest, and dark trousers, and is seen gesturing with his hand near his head as he speaks. The audience consists of several individuals seated in rows, viewed from behind; their attire includes a plaid shirt, a blue patterned top, and a yellow sweater. The room features a wall of brown horizontal blinds in the background and a red wall to the left. A small table and some electronic equipment are visible to the left of the speaker. In the bottom right of each frame, a white rectangular box contains the text \"ORCA\". Throughout the sequence, the speaker's posture and hand gestures shift slightly as he continues to address the group, while the audience remains seated and attentive."
+}

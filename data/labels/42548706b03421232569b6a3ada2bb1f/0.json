@@ -1,0 +1,15 @@
+{
+  "video_id": "42548706b03421232569b6a3ada2bb1f",
+  "url": "./data/segments/3_3xsVMtx3c-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clothing store, a person wearing a grey baseball cap and a mauve short-sleeved t-shirt is browsing a rack of apparel. They are positioned in front of a display featuring \"O'NEILL\" branded signage and various garments, including blue shirts, red packaged items, and folded denim. The person is interacting with a black jacket hanging on a rack; they start by reaching out to touch the fabric of the jacket and then move their hand further down to grasp and pull it slightly. Throughout the sequence, the individual remains focused on the jacket while standing in the aisle of the shop. The background consists of shelving units filled with a variety of colorful clothing and accessories, with the \"O'NEILL\" logo prominently displayed on a black sign above the rack."
+}

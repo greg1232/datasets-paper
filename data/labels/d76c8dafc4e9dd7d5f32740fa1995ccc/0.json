@@ -1,0 +1,15 @@
+{
+  "video_id": "d76c8dafc4e9dd7d5f32740fa1995ccc",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-118.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.991,
+    1.387
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hoodie with \"BOSS TALK\" printed in gold, and over-ear headphones sits in a studio setting. He is positioned in front of a professional microphone mounted on a black swivel arm. Behind him is a white backdrop featuring a logo with five yellow stars and the phrase \"UNCL HUSTLE\" repeated vertically. To his right, a blue banner displays the text \"BOSS TALK 101\" and the phrase \"Where BOSSES Talk!\". A black box and a black mug with \"BOSS TALK 101\" are visible on the table in front of him. Throughout the sequence, the man remains seated, looking slightly downward and to his left with a serious expression. The scene is static, with the man making very subtle shifts in his posture and facial expression as he listens or prepares to speak."
+}

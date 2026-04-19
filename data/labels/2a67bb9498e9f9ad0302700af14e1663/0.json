@@ -1,0 +1,15 @@
+{
+  "video_id": "2a67bb9498e9f9ad0302700af14e1663",
+  "url": "./data/segments/3E6ctN22V7k-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.53,
+    1.59,
+    2.65,
+    3.71
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young child wearing a purple long-sleeved shirt and a white skirt stands in front of large, weathered green shipping containers. The containers are positioned outdoors on a dirt surface, with a thin tree trunk visible on the right side of the scene. On the left container, white identification numbers and codes, including \"500211 6\" and \"CH 2210,\" are printed. The child stands relatively still, though their posture shifts slightly across the sequence. White text is overlaid across the center of the frames, stating, \"that when we look for something we can find it.\" As the sequence progresses, the child maintains their position in front of the container doors, facing the camera, while the background and surrounding environment remain stationary."
+}

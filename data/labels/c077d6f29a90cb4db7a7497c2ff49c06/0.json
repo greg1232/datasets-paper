@@ -1,0 +1,15 @@
+{
+  "video_id": "c077d6f29a90cb4db7a7497c2ff49c06",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-112.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.758
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, wearing a dark blue t-shirt, appears in a small inset window on the left side of the screen. He is seated in a room featuring a decorated Christmas tree and a computer monitor in the background. He is speaking and smiling, his facial expression shifting slightly across the sequence. The main background consists of a stylized digital environment with dark blue horizontal lines and a glowing green, flame-like energy pillar rising vertically. A bright yellow horizontal line cuts across the center of the scene. As the sequence progresses, the green energy pillar fluctuates in shape and intensity, becoming more turbulent and expansive, while the man in the inset window continues to react with an open-mouthed, excited expression. No legible text or logos are visible on the screen."
+}

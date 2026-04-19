@@ -1,0 +1,15 @@
+{
+  "video_id": "d6d19d0f627f527d822c99a219aae41b",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-125.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.284,
+    0.851,
+    1.418,
+    1.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a checkout pop-up window for a course titled \"Tom O'Brien Timing the Trade All-Day Seminar.\" The background is dark with blurred text and charts, while the foreground features a white modal window. At the top of the window, the text \"Tom O'Brien Timing the Trade All-Day Seminar\" appears above a price of \"$295.00.\" Below the price is a quantity selector set to \"1,\" flanked by minus and plus signs. A blue \"Checkout\" button is positioned at the bottom of the modal. Throughout the sequence, a black mouse cursor moves across the screen. It starts near the bottom left of the modal, glides rightward across the quantity selector, and finally hovers directly over the blue \"Checkout\" button. In the top background, the text \"TOM O'BRIEN TIMING THE TRADE ALL DAY SEMINAR\" is visible in bold white letters."
+}

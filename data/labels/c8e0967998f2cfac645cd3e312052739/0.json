@@ -1,0 +1,15 @@
+{
+  "video_id": "c8e0967998f2cfac645cd3e312052739",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.26,
+    0.781,
+    1.302,
+    1.823
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen capture shows a split-screen view featuring a giveaway list from RANDOM.ORG on the left and a live stream chat and video feed on the right. The left side lists numbered names, including \"11. Michael Loguericio\" and \"12. Carl Hagedorn,\" and displays the IP address \"IP: 47.144.180.205\" and a timestamp of \"2023-05-20 03:13:04 UTC.\" The chat window on the right contains messages from \"glowbug27\" saying \"turning\" and \"Nightbot\" stating, \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://zb.nz/Zge8S4Y\". Below the chat, a man with a beard wearing a black t-shirt is visible in a video feed, with a \"JASPYS CASEBREAKS.COM\" logo overlaying the bottom of his image. The scene remains static across the frames, with no visible movement or changes in the text or the man's expression."
+}

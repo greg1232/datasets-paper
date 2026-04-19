@@ -1,0 +1,15 @@
+{
+  "video_id": "398e546b03cec280ecd5f2bc26d33cfe",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.642,
+    19.926,
+    33.21,
+    46.494
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit side-by-side in an indoor setting in front of a television displaying a neon-style sign that reads \"STUPID REACTIONS\". Behind them is a shelf filled with a collection of DVD or Blu-ray cases. The man on the left wears a dark green t-shirt and a thin necklace, while the man on the right wears a grey t-shirt and a similar thin necklace. On-screen text labels the men as \"@RICKSEGALL\" and \"@KORBINMILES\" respectively, with a small pink Instagram logo positioned between them. Throughout the sequence, the man in green shifts his expression from a neutral look to a slight smirk and eventually touches his nose with his finger while looking toward the other man. The man in grey remains relatively still, maintaining a serious or skeptical expression. The lighting is bright and consistent across the scene."
+}

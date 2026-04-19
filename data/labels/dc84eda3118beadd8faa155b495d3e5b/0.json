@@ -1,0 +1,15 @@
+{
+  "video_id": "dc84eda3118beadd8faa155b495d3e5b",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-121.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.08,
+    0.24,
+    0.4,
+    0.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser window displaying a complex concept map or network diagram on a dark background. In the top right corner, a small video inset features a man with short hair and glasses wearing a blue shirt. The central diagram consists of various connected grey circles, with some highlighted nodes containing images of people. One prominent white rectangular card displays an illustration of figures in a landscape along with text that includes \"MPE YOU DESIRE JUST\" and \"OCCUPY DRY SPACE\". Other legible labels on the screen include \"SLIB EFPM-NG\" and \"Block-thinking\" in green text. As the sequence progresses, the scene remains largely static, with the browser tabs and the video inset of the man remaining consistent, though he shifts slightly in his seat, indicating a live presentation or a recorded tutorial of the digital interface."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "55d1c35e2b63719b63da26b66edc288a",
+  "url": "./data/segments/3Z229_lKLpk-Scene-085.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.825,
+    1.375,
+    1.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large assembly hall is filled with rows of people seated at long desks, facing forward. The attendees are predominantly men wearing white shirts, with some wearing orange or blue vests over their clothing. They are seated in a structured, tiered arrangement with wooden desks separating the rows. Many of the individuals are looking forward or slightly downward, with some appearing to converse with neighbors. The scene remains static across the frames, showing no significant movement or change in position for the people or the environment. The wooden furniture features carved decorative patterns on the sides. The lighting is bright and overhead, illuminating the vast crowd and the neutral-toned architecture of the hall. There is no legible on-screen text or logos visible in the scene."
+}

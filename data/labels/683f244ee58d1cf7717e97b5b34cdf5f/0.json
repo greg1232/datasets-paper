@@ -1,0 +1,15 @@
+{
+  "video_id": "683f244ee58d1cf7717e97b5b34cdf5f",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-228.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, headphones, and a black hoodie with gold text reading \"BOSSES TALK\" is seated in a studio setting. He is positioned behind a desk with a professional microphone on a boom arm in front of him. Behind him is a white banner featuring yellow stars and the words \"URBAN HUSTLE\" repeated vertically. On the wall above him, blue text reads \"Where BOSSES Talk!\". A black cup with red and white text stating \"TIME TO TALK OUT\" sits on the desk to his right. Across the sequence, the man is speaking and gesturing with his right hand; he begins with his hand open and extended, then brings his hand closer to his chest, ending with a clenched fist as he emphasizes a point. A small logo containing the word \"TALK\" is visible in the bottom left corner."
+}

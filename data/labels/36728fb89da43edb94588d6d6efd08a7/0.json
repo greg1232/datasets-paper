@@ -1,0 +1,15 @@
+{
+  "video_id": "36728fb89da43edb94588d6d6efd08a7",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-108.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.158,
+    0.475,
+    0.792,
+    1.109
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair, wearing black headphones and a dark jacket over a grey shirt, sits in a studio with a dark, ribbed acoustic wall background. He is positioned behind a professional microphone on a boom arm, smiling and looking off-camera. An inset window on the right side of the screen displays a white object against a teal background. In the initial sequence, the object remains stationary, and the word \"MIR\" is printed vertically on it. As the scene progresses, the man maintains his smiling expression and posture. In the final segment, the inset view changes to show a close-up of the object, revealing a circular metallic component at the top."
+}

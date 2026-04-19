@@ -1,0 +1,15 @@
+{
+  "video_id": "aac6905a5e6a8d36185c20c82d5c802c",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-117.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blonde hair, wearing dark clothing, is seen in a room that appears to be a workspace or lab, with shelves and containers visible in the background. In the initial scene, they are positioned near a white surface and a dark screen. The video features on-screen graphics, including a pink silhouette and white text boxes. One text box reads \"Day 4\" and another reads \"Sim Week\". As the sequence progresses, the screen transitions through periods of near-total darkness. Eventually, the person reappears in a dimly lit setting, facing away from the camera. Throughout these transitions, the text boxes update, with \"Day 4\" changing to \"Day 5,\" while the \"Sim Week\" label remains constant in the lower right."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b30718ba2a3f8635113603f1c9e0f9cd",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.944,
+    5.831,
+    9.719,
+    13.606
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a screen recording of a digital interface featuring a spreadsheet and several menu options. A list of names and NBA teams is displayed on the left, including \"Michael Leguizimo\" for the \"ATLANTA HAWKS\" and \"Carl Hagstrom\" for the \"CHARLOTTE HORNETS.\" To the right, a chat window shows messages from \"\ud83c\udf10bowgu27\" and \"Nightbot.\" The message from \"Nightbot\" contains a blue hyperlink that reads, \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE >>> https://bit.ly/NzSdeK9O\". A red and yellow logo for \"JASPY'S CASEBREAKS.COM\" is visible at the bottom of the screen, alongside a website URL, \"WWW.JASYPCASEBREAKS.COM\". Throughout the sequence, the display remains static, with no changes in the text, layout, or visual elements."
+}

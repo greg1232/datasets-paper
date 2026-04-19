@@ -1,0 +1,15 @@
+{
+  "video_id": "ee14bb84b1521c3c97dc167487e94c67",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.805,
+    2.415,
+    4.025,
+    5.635
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video provides an aerial view of a large open-pit mine characterized by terraced rocky walls and a turquoise-colored body of water at the bottom. The surrounding landscape is a mix of reddish-brown earth, sparse green vegetation, and a distant white lake under a clear sky. A yellow logo featuring the letters \"VG\" is positioned in the top right corner of each frame. No people are visible in the scene. Across the sequence, the camera slowly pans or zooms, slightly shifting the perspective of the mining pit and the winding dirt roads that lead into it. The layout of the mine, including the tiered excavation sites and the central pool of water, remains constant, while the framing subtly adjusts to capture more of the surrounding terrain."
+}

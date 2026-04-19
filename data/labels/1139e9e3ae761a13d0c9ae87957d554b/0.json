@@ -1,0 +1,15 @@
+{
+  "video_id": "1139e9e3ae761a13d0c9ae87957d554b",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.85,
+    23.55,
+    39.25,
+    54.95
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static presentation slide for a course titled \"CRYOGENIC ENGINEERING\" specifically for \"Tutorial \u2013 1\". The slide features a graph plotting yield $y$ against effectiveness $\\varepsilon$, showing a positive upward curve. A red circle highlights a point on the x-axis. To the left of the graph, text lists the parameters: \"Working Fluid : Air\", \"Pressure : 1 bar $\\rightarrow$ 200 bar\", \"Temperature : 300 K\", and \"Linde \u2013 Hampson System\". To the right, bullet points state, \"Joining the points, we have the trend as shown in the figure.\", \"It is clear that as the effectiveness decreases, the yield $y$ decreases drastically.\", and \"Furthermore, the effectiveness should be more than 85% in order to have a liquid yield.\" The \"NPTEL\" logo is in the bottom left, and the bottom footer reads, \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\". The scene remains identical across all frames."
+}

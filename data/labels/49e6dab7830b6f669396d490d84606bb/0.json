@@ -1,0 +1,15 @@
+{
+  "video_id": "49e6dab7830b6f669396d490d84606bb",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-088.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.77,
+    8.31,
+    13.85,
+    19.39
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a split-screen presentation. On the left, a male news anchor wearing a dark suit, a white shirt, and a reddish-brown tie speaks from a studio. Beside him is a graphic displaying a blue globe and the text \"PLUS POLITICS\". On the right, a man wearing a red patterned cap and a pink patterned garment is seen in a separate location, speaking and gesturing with his hands. Across the bottom of the screen, a white ticker bar displays the headline \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\" and \"PLUS POLITICS\". Additional text and logos are visible, including \"WATCH ONLINE WWW.PLUSTVAFRICA.COM/LIVE-TV\", \"SUBSCRIBE WWW.YOUTUBE.COM/PLUSTVAFRICA\", and a footer with social media icons, \"PLUSTVAFRICA\", \"WATCH ON\", \"DStv CH 408\", and \"StarTimes CH 308\". As the sequence progresses, the man on the right continues talking, his facial expressions shifting and his hand movements becoming more pronounced."
+}

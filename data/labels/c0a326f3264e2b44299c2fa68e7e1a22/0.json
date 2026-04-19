@@ -1,0 +1,15 @@
+{
+  "video_id": "c0a326f3264e2b44299c2fa68e7e1a22",
+  "url": "./data/segments/3E6ctN22V7k-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.19,
+    0.57,
+    0.95,
+    1.33
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot shows a person's left hand interacting with a metal handle attached to a yellow surface with a silver metal trim. The person wears a dark leather jacket. In the first two frames, the person's fingers are positioned near the handle, and the on-screen text reads, \"That is why the approach of Libraries Without Borders moved me so much.\" As the sequence progresses to the final two frames, the person's hand shifts slightly, with their index finger extending further across the silver trim toward the handle. The accompanying text changes to, \"It is really the good approach.\" The background consists of a dark red wall and a sliver of light blue. The yellow object remains stationary throughout the clip while the hand performs a subtle adjusting motion."
+}

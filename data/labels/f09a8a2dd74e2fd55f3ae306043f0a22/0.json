@@ -1,0 +1,15 @@
+{
+  "video_id": "f09a8a2dd74e2fd55f3ae306043f0a22",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-150.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.427,
+    1.281,
+    2.135,
+    2.99
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with blonde hair, wearing round-rimmed glasses, silver over-ear headphones, and a dark navy blue t-shirt, is positioned in front of a computer monitor. He is speaking, with his mouth open and facial expressions shifting slightly across the sequence. In the background, a monitor displays a blue interface with the number \"20\" clearly visible in white text. To the left, blurred colorful lights are visible, suggesting an indoor gaming or streaming environment. The man remains in a steady close-up shot, though his mouth moves as he talks, transitioning from a wide open expression to a slightly more closed position. A black microphone is partially visible at the bottom edge of the scene. The background and his attire remain constant as he continues to speak toward the camera."
+}

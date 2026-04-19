@@ -1,0 +1,15 @@
+{
+  "video_id": "24a29794c98ad8e5c7d18264d1499b2f",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.308,
+    0.923,
+    1.538,
+    2.153
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, headphones, and a black hoodie with the words \"BOSS TALK 101\" in gold lettering is speaking into a professional microphone on a boom arm. He is seated in a studio environment with a white backdrop featuring the words \"URBAN HUSTLE\" and five gold stars. To his right, a sign reads \"Where BOSSES Talk!\". Other visible items include a black equipment case and a black mug with \"BOSS TALK 101\" printed on it. As the sequence progresses, the man remains in the same position, gesturing and speaking, while his facial expressions shift slightly as he continues his conversation. The camera angle remains static throughout the clip, focusing on his upper body and the surrounding recording equipment."
+}

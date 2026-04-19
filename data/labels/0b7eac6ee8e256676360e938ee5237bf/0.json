@@ -1,0 +1,15 @@
+{
+  "video_id": "0b7eac6ee8e256676360e938ee5237bf",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.69,
+    2.07,
+    3.45,
+    4.83
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, a mustache, and wearing a blue button-down shirt under a dark blazer, is speaking while seated in front of a blue and purple abstract background. The NPTEL logo is visible in the bottom left corner of each frame. In the initial frames, the man is the central focus, speaking with an open mouth. As the sequence progresses, a semi-transparent overlay appears on the right side of the screen containing text. The heading of this overlay reads \"CRYOGENIC ENGINEERING\" followed by \"Tutorial - 4\". The body text states, \"For the conditions specified in Tutorial 2 for the Linde - Hampson system with Nitrogen as working fluid, calculate the following when the effectiveness $\\epsilon$ is 90%\". At the very bottom of the screen, smaller text identifies \"Prof. M. D. Atrey, Dept. of Mechanical Engineering, IIT Bombay\". The man continues to speak as the text remains on the screen."
+}

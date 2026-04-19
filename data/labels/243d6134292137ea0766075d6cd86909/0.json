@@ -1,0 +1,15 @@
+{
+  "video_id": "243d6134292137ea0766075d6cd86909",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-594.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.418,
+    4.254,
+    7.09,
+    9.927
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the white text \"I NEVER DO SHIT\" speaks into a professional black microphone. He is seated in a room featuring a wall decorated with numerous framed photographs and a clothing rack with various garments in the background. A white male mannequin wearing a white t-shirt stands behind him. On-screen graphics include a circular logo on the left and red text on the right that reads \"REDLY FLY TOT\". Throughout the sequence, the man remains in a stationary position, talking and slightly adjusting his facial expressions while maintaining a forward-facing gaze. The background remains constant, and the only movement is the subtle shifting of his mouth and eyes as he speaks into the microphone."
+}

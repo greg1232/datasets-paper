@@ -1,0 +1,15 @@
+{
+  "video_id": "02d19c87e5708eac24d44e3036d23a26",
+  "url": "./data/segments/3hcAJKLX-Ps-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.6,
+    1.0,
+    1.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a light-colored, long-sleeved button-down shirt, stands in front of a bright yellow backdrop. He holds a black microphone in his right hand, speaking while gesturing with his left hand. In the background, another man in a dark suit and face mask is partially visible. The yellow backdrop features text in a non-Latin script, including the words \"\u0ba4\u0bbe\u0bb4\u0bbf\u0bb2\u0bcd\u0b9a\" and \"\u0bb0\u0baf\u0bbe\u0b9f\u0bb2\u0bcd\". Across the sequence, the man continues to speak, shifting his facial expression and hand positions. He initially holds the microphone closer to his chest with both hands, then raises his left hand to gesture as he speaks, and finally returns to holding the microphone with both hands. The background and other people remain relatively stationary as the man delivers his address."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d69f9b72bc4589f968eee7de85725a48",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-209.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.406,
+    1.219,
+    2.031,
+    2.844
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A gamer presents a digital player card for \"TAYSOM HILL\" in a football video game, with his face visible in a small webcam overlay in the bottom left of the screen. He is a fair-skinned man with blonde hair, wearing a dark t-shirt and headphones, positioned in a room with a white wall and a Christmas tree decorated with lights. The screen displays various stats, including \"TE\" and \"95,\" alongside a player image of a football player in a white uniform. Text such as \"AUCTION,\" \"ATTRIBUTES,\" and \"EQUIPPABLES\" appears in a navigation menu. Throughout the sequence, the screen layout shifts, moving from a \"GENERAL\" attributes view to a \"KEY\" attributes view, while the man maintains a surprised facial expression with his mouth open. The background remains a vibrant purple gradient, and the player's name and overall rating are consistently visible at the top."
+}

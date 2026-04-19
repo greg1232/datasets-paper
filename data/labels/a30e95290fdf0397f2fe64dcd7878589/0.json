@@ -1,0 +1,15 @@
+{
+  "video_id": "a30e95290fdf0397f2fe64dcd7878589",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.787,
+    2.362,
+    3.938,
+    5.513
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is preparing a light-colored liquid mixture in a metal pot on an electric stove. In the main view, the pot contains a creamy, off-white liquid. A small glass measuring cup is used to pour a thin stream of clear liquid into the pot, which is then stirred. In the final sequence, a small amount of a grainy, beige substance is added to the center of the mixture. A picture-in-picture inset shows a blonde woman wearing a black shirt, positioned in a kitchen with blue curtains and white cabinetry, who appears to be the one performing the cooking actions. The scene transitions from the initial state of the mixture to the addition of a liquid ingredient and finally the addition of a dry ingredient, while the woman in the inset remains visible throughout the process."
+}

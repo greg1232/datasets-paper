@@ -1,0 +1,15 @@
+{
+  "video_id": "bfbc782b75e5f80aa554d573bd2f1dd8",
+  "url": "./data/segments/3F2rz23IKUk-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.92,
+    5.76,
+    9.6,
+    13.44
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a static slide detailing different software licensing compliance requirements. The background is white with black text. At the top of the screen, a header reads \"Compliance requirements vary\". Below this, three bullet points outline specific requirements for different licenses. The first point states, \"BSD code typically requires a copyright notice and disclaimer\". The second point specifies, \"LGPL code requires that the source code for the LGPLed components be distributed\". The third point notes, \"GPL code requires that the source code for the GPLed components and all derived works be distributed\". There are no people, objects, or logos visible in the scene. The visual content remains completely identical across all frames, showing no movement, changes in text, or transitions."
+}

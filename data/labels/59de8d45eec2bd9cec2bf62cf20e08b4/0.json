@@ -1,0 +1,15 @@
+{
+  "video_id": "59de8d45eec2bd9cec2bf62cf20e08b4",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-353.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.454,
+    1.362,
+    2.271,
+    3.179
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser open to a page on \"RANDOM.ORG\" titled \"List Randomizer.\" The page features a text input area under \"Part 1: Enter List Items\" containing a list of names and phrases, including \"Robert Flores,\" \"Paul Dee Manelly,\" and \"la\u00e7on tractor/MOL/1D9YS.\" The interface includes a search bar and a \"True Random Number Service\" link. In the bottom right corner, a small video overlay shows two people: one person wearing a red shirt and another in a dark shirt, both appearing to react with excitement. Beside them, text reads \"Hit the SUBSCRIBE button down below!\" next to a red YouTube \"Subscribe\" button. Across the frames, the cursor moves from the \"Randomize\" button toward the \"Switch to Advanced Mode\" button, while a website banner at the bottom reads \"WWW.JAYSPYSCALEBREAKS.COM\"."
+}

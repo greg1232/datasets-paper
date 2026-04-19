@@ -1,0 +1,15 @@
+{
+  "video_id": "a30b2c449a44a83ad9fafafe555690e3",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-339.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    25.94,
+    77.82,
+    129.7,
+    181.58
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The image shows a video conference call with multiple participants displayed in a grid. The people are in various home or office settings, with backgrounds including bookshelves, curtains, and neutral-colored walls. Most participants are wearing casual clothing, such as t-shirts and button-down shirts. Some are wearing headsets or glasses. Legible on-screen text includes names such as \"Jerry McHugh,\" \"Sara _collaborating,\" \"Bijlee-Hukky,\" \"Arne Jan van de Vyver,\" and \"Suri Neelakantan.\" Across the sequence, the participants remain in their respective windows, though some shift their posture or facial expressions slightly. The layout of the gallery view remains consistent, with a repeating pattern of faces appearing in the same relative positions. The overall scene depicts a professional or group online meeting where individuals are listening and observing each other through their webcams."
+}

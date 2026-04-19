@@ -1,0 +1,15 @@
+{
+  "video_id": "ec4e631b0df7c9f8155d78d2f3bdb7ec",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.313,
+    0.938,
+    1.564,
+    2.19
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a gray t-shirt, a gray and white baseball cap with a red and black logo, and black over-ear headphones sits in a studio with dark, ribbed acoustic foam walls. He is positioned in front of a professional microphone mounted on a boom arm, with the text \"Sennheiser Studio MD 441\" visible on the side of the equipment. In the beginning, the man is speaking into the microphone while extending his right arm forward, creating a motion blur. As the sequence progresses, he retracts his arm and settles back into his seat. His right upper arm features a large tattoo. The scene remains static in terms of location and equipment, with the only change being the man's physical movement as he shifts his posture and arm position while continuing to face the microphone."
+}

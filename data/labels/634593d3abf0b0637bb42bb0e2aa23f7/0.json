@@ -1,0 +1,15 @@
+{
+  "video_id": "634593d3abf0b0637bb42bb0e2aa23f7",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-542.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.751,
+    1.251,
+    1.752
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hoodie with \"BOSS TALK\" printed in gold and white, and a silver watch sits in a studio setting. He is positioned behind a professional microphone on a boom arm, wearing large black headphones. To his left is a white backdrop featuring repeating logos that say \"UNICORN MUSTLE\" accompanied by gold stars. Above him, blue text reads \"Where BOSSES Talk!\". On the table in front of him is a black box and a blue and white container labeled \"BOSS TALK OUT\". Throughout the sequence, the man is speaking and gesturing with his right hand. He begins by looking slightly to his left, then shifts his gaze and hand position as he continues talking, while his general posture and the surrounding equipment remain static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "aa5bffcd3e2b9a547272a1d8af932fbe",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-120.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.513,
+    1.539,
+    2.565,
+    3.591
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a white button-down shirt and a dark vest with ornate embroidery, performs while playing a guitar. He stands behind a black keyboard or music stand and speaks or sings into a black microphone mounted on a boom arm. In the foreground, the backs of several audience members are visible, including women with blonde and grey hair; one person wears a purple garment. The setting is an indoor space with vertical wooden slat walls in the background. The text \"ORCA\" appears in white capital letters on the right side of the scene. Across the sequence, the man's facial expression and mouth position shift as he speaks, and the heads of the audience members move slightly, indicating a live performance. The lighting and camera angle remain static throughout the clip."
+}

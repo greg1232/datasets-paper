@@ -1,0 +1,15 @@
+{
+  "video_id": "42e66c7dcf04f5b85bb04196c07121f1",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-086.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.588,
+    1.764,
+    2.94,
+    4.117
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting, a person wearing a white garment is partially visible, positioned behind a microphone stand with a black arm and a dark blue fabric cover. The background consists of light-colored horizontal window blinds framed by dark vertical beams. Several people are seated in the foreground, with only the tops of their heads and hair visible. In the lower right of each scene, a white rectangular box displays the text \"ORCA\" in black uppercase letters. As the sequence progresses, the person in white moves slightly, and the heads of the people in the foreground shift, indicating small movements within the crowd. The camera remains stationary, maintaining a consistent medium shot of the scene as the individuals adjust their positions."
+}

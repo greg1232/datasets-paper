@@ -1,0 +1,15 @@
+{
+  "video_id": "4818728448cb44aea2097644e57029e7",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-158.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.46,
+    1.38,
+    2.3,
+    3.22
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features footage of political figures in India. In the first frame, a group of men, some in formal wear and others in casual attire like black t-shirts, walk through an outdoor area. Subsequent frames shift to a press conference setting where men stand behind podiums; one man wears a white shirt and another wears a white kurta with a black vest and a red cap. Small inset portraits of men appear on the sides of the screen. A red banner at the bottom displays the text \"\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f MLA \u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930 \u0938\u093f\u0902\u0939 \u092e\u0902\u0924\u094d\u0930\u0940 \u092c\u0928\u0947\" alongside a timestamp of \"10:08 PM\" or \"10:09 PM\". The top banner contains the text \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". The \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo is visible in the corner of the later frames. The sequence transitions from an outdoor walk to a static indoor press event."
+}

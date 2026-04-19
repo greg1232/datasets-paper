@@ -1,0 +1,15 @@
+{
+  "video_id": "5ecdf0748935b22fb4369110f3f2ab7b",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-265.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.256,
+    0.427,
+    0.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card in a protective plastic case, showcasing it to the camera. The card features a player's image and a blue autograph. In the background, a man wearing a dark t-shirt is visible behind a desk, sitting in front of a computer monitor and a microphone. A colorful mat with palm tree designs lies on the surface in front of him. The background includes logos and text, specifically \"JASPYS\" and \"CASEBREAKS.COM\". As the sequence progresses, the person holding the card shifts their grip and tilts the case, moving it from a slightly angled position to a more upright one, allowing the light to catch the holographic surfaces and the autograph. The man in the background remains seated, watching the card as it is presented."
+}

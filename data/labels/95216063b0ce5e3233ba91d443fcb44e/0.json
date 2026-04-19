@@ -1,0 +1,15 @@
+{
+  "video_id": "95216063b0ce5e3233ba91d443fcb44e",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.184,
+    0.551,
+    0.918,
+    1.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black jacket and blue jeans stands beside a green Polaris all-terrain vehicle (ATV) in what appears to be a garage or workshop setting. The ATV features a front cargo box and a black protective brush guard with the word \"POLARIS\" embossed across the center. In the beginning, the person's arm and shoulder are visible as they move toward the vehicle. As the sequence progresses, the person shifts their position, moving their body further into view while interacting with the area around the ATV's front end. The camera angle widens, revealing more of the vehicle's chassis, including the headlights and rugged tires. Throughout the frames, the person remains focused on the ATV, and the environment stays consistent, showing a cluttered indoor space with various equipment and lighting reflecting off the vehicle's surfaces."
+}

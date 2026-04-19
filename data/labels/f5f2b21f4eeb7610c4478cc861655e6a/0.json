@@ -1,0 +1,15 @@
+{
+  "video_id": "f5f2b21f4eeb7610c4478cc861655e6a",
+  "url": "./data/segments/3QD9oO6sRns-Scene-160.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.354,
+    1.062,
+    1.771,
+    2.479
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold up a graded sports card encased in a clear plastic slab for the camera. The card depicts a baseball player in a grey \"BOSTON\" uniform. In the background, another person wearing a black t-shirt is visible, appearing to be in a room with various equipment and a white surface. On-screen graphics include the text \"CABENBEARDS.COM\" and the word \"BREAKS\" in large, bold letters across the bottom. A logo with the text \"CABENBEARDS\" is also present on the right side. As the sequence progresses, the person holding the card slightly shifts their grip and angle, tilting the slab to show different reflections on the plastic surface while the person in the background remains relatively stationary."
+}

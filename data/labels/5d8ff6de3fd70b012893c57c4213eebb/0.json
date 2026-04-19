@@ -1,0 +1,15 @@
+{
+  "video_id": "5d8ff6de3fd70b012893c57c4213eebb",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An animated man with short dark hair wearing a blue shirt stands in a doorway against a plain white background. A green circular highlight surrounds his head and shoulders, and a white speech bubble below him displays the text \"Rick Segall\". A small green rectangular badge appears within the speech bubble, initially reading \"Old\". As the sequence progresses, the text \"Old\" disappears, leaving only a small green rectangle. The final frame shows the speech bubble becoming entirely white, removing both the name \"Rick Segall\" and the green badge. The background is decorated with floating, translucent geometric shapes, including triangles, hexagons, and crosses in yellow and blue. The man remains stationary throughout the frames while the overlaying text and graphics change."
+}

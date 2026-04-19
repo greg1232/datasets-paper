@@ -1,0 +1,15 @@
+{
+  "video_id": "8700cb03ace105a5643396ad7e2101f0",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-323.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.735,
+    11.205,
+    18.675,
+    26.145
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call interface displays a grid of participants, with names appearing in small white text at the bottom of each window, such as \"Jerry McHale,\" \"Howard Silverman,\" and \"Sara Goldberg.\" The group consists of several individuals in indoor settings, including home offices and rooms with bookshelves. The participants are diverse in age and attire, with some wearing glasses and casual shirts. Throughout the sequence, the layout remains a repeating pattern of the same faces, suggesting a screen recording or a looped playback of a meeting. Some individuals remain still while others shift their gaze or adjust their positions. For instance, a man in a blue shirt occasionally raises his hand toward his face. The backgrounds stay consistent, featuring neutral walls, indoor plants, and domestic furniture, while the digital overlay of the video conferencing software remains static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "89fa13e1081fc4675e225b521925b121",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up view of a vehicle's instrument cluster and steering column. The dashboard features an analog speedometer with markings up to 280 and a digital display on the left showing a \"0\". Legible text on the panel includes \"UNLEADED FUEL ONLY\" and \"INST/AVE\". A warning light is illuminated with the text \"DOOR AJAR\". A hand, partially obscured by a white sleeve, is visible on the left side of the frame. The hand is interacting with the ignition switch, where a key is inserted. Across the sequence, the hand grips the key and rotates it clockwise to start the vehicle. The visual perspective remains steady, focusing on the mechanical movement of the key and the static readings of the gauges and warning lights on the dark grey dashboard."
+}

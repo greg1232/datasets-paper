@@ -1,0 +1,15 @@
+{
+  "video_id": "2993eda7fd6e9f71e56e4d208be44ee3",
+  "url": "./data/segments/3EO0YIxkle8-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.097,
+    9.291,
+    15.484,
+    21.678
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static map of Haiti and the surrounding Caribbean region, with various city names like Cap-Ha\u00eftien, Saint-Marc, and Santo Domingo visible. White text overlays the map, appearing sequentially across the frames. The first frame displays the text \"Entre 2000 et 2014, la pauvret\u00e9 extr\u00eame a diminu\u00e9 de 31 \u00e0 24 pour cent en Ha\u00efti.\" The second frame transitions to a new sentence: \"Aujourd'hui, environ 2,5 millions de personnes, environ un quart de la population,\". This sentence continues into the third frame with the words \"sont incapables de satisfaire leurs besoins alimentaires de base.\" Finally, the fourth frame presents the concluding statement: \"Le seul PMA de l'h\u00e9misph\u00e8re occidental, Ha\u00efti reste l'un des pays les plus in\u00e9galitaires du monde.\" No people, objects, or logos are visible throughout the sequence, only the consistent background map and the changing text."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "bd1fc016371ae46196e83d4787f735a8",
+  "url": "./data/segments/3F2rz23IKUk-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.195,
+    18.585,
+    30.975,
+    43.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with light brown hair and glasses stands in a room that appears to be a presentation space, characterized by neutral-colored walls and a projection screen in the background. He is wearing a black t-shirt with a yellow graphic and text that reads \"Knuth\" and a name badge hanging from a blue lanyard. In the initial moments, he is looking down and fidgeting with his hands near his chest. He then looks up and begins to speak, shifting his gaze toward an audience off-screen. As he continues, he gestures with his hands, eventually opening both arms wide in an expressive motion. In the foreground, the tops of black office chairs and computer monitors are visible, along with a clear plastic water bottle and white accessories resting on a table. The man remains the central focus as he transitions from a reserved posture to an active presentation style."
+}

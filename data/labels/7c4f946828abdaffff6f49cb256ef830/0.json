@@ -1,0 +1,15 @@
+{
+  "video_id": "7c4f946828abdaffff6f49cb256ef830",
+  "url": "./data/segments/3l84m5pRmyk-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A low-angle shot captures the exterior entrance of \"THE FAIRMONT HOTEL,\" with the name displayed in gold letters on a dark architectural band. The building features a white facade with a large arched window above the entrance, divided into several panes. A glass awning extends over the walkway, reflecting the surrounding light. Several flags are positioned to the left and right of the entrance, including one with red, white, and green stripes. The camera remains static, and there are no people visible in the scene. Across the sequence of frames, the image remains almost entirely still, with only subtle changes in light and slight shifts in the positioning of the flags as they catch the air."
+}

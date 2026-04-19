@@ -1,0 +1,15 @@
+{
+  "video_id": "aa738cc0ddae9614d4004d9829b18c92",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-131.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.692,
+    2.077,
+    3.462,
+    4.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair, wearing a black crew-neck shirt, is positioned in front of a plain, light-colored wall. In the initial scene, he is looking slightly to his right. As the video progresses, he turns his head to face forward and begins to speak, with his mouth opening and closing. In the latter portions of the clip, a blue horizontal graphic appears across the bottom of the screen containing the white text \"Basil Chapman\" and the phone number \"1-877-927-6648\". The logo \"Tiger-TV\" is visible in the top right corner of the first scene and then shifts to the top right of the subsequent scenes. A small portion of a blue and white object is partially visible on a surface behind the man to his left."
+}

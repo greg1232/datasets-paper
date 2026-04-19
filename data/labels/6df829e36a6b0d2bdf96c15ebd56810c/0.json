@@ -1,0 +1,15 @@
+{
+  "video_id": "6df829e36a6b0d2bdf96c15ebd56810c",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.225,
+    0.675,
+    1.125,
+    1.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast graphic features a red-tinted background with the large, repeating words \"PLUS POLITICS\" and \"POLITICAL NEWS PLUS POLITICS.\" A mosaic of various news clips is displayed across the center of the screen, showing different scenes of crowds and people in outdoor settings. One visible clip in the upper left contains a sign that reads \"INEC POLLING ZONE.\" As the sequence progresses, the scene transitions into a dynamic motion graphic. A bright, circular blue energy effect appears in the center of the screen, expanding and overlapping the news clips and text. This glowing blue orb pulses and glows, partially obscuring the background elements before the clip ends."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "77ee22f86eebce6c878951f218910e85",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.317,
+    0.951,
+    1.585,
+    2.219
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's right hand, holding a thin wooden paintbrush, is seen painting a watercolor landscape on a piece of white paper. The painting depicts green trees and a pale body of water against a light background. The person uses the brush to add detail to the green foliage in the center of the composition. On-screen text appears over the image, initially reading \"FROM\" and later changing to \"FROM ARTWORK\". Throughout the sequence, the hand continues its painting motion, moving slightly as it applies paint to the canvas. To the left of the paper, the edge of a white-framed object is visible. The overall setting is a close-up shot focused on the artistic process, with the lighting remaining consistent as the text updates and the artist works on the landscape."
+}

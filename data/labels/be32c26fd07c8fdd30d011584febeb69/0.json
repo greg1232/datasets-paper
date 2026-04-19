@@ -1,0 +1,15 @@
+{
+  "video_id": "be32c26fd07c8fdd30d011584febeb69",
+  "url": "./data/segments/3E6ctN22V7k-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.125,
+    1.875,
+    2.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with short dark hair, wearing a bright green long-sleeved tunic with a white decorative trim around the neckline and cuffs, stands in a rural village setting. The environment consists of red dirt ground and several simple, brown-walled structures with corrugated metal roofs. The person is viewed from the side and back, facing away from the camera towards the village. As the scene progresses, the person shifts their posture and begins to walk slowly forward. In the later frames, white on-screen text appears at the bottom, stating, \"When I first found out that Nelson Mandela was dead,\". The background remains consistent, showing a dirt path and several small buildings under an overcast sky, with greenery visible in the distance."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "cbbde9590a104db5c83c85305efe09e8",
+  "url": "./data/segments/3sJ5OX75erw-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    11.845,
+    35.535,
+    59.225,
+    82.915
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"DARPA OPS-5G Program Overview\" is displayed across all frames. The slide outlines the \"OPS-5G Vision:\" to \"Augment Open Source Software to obtain a secure 5G system.\" A diagram illustrates a transition process, starting with a block stating \"Today: 5G stack is an opaque, integrated SW/HW system.\" An arrow labeled \"Open Source decouples HW, SW\" leads to two parallel paths: \"Open source software (SW)\" and \"Non-US hardware (HW) systems.\" These lead to goals of \"Secure open source SW Fast SW development\" and a transition toward \"Non-US HW,\" \"US HW,\" and \"Open Source HW.\" Logos for THE LINUX FOUNDATION, LF NETWORKING, and LF EDGE appear at the bottom, alongside the hashtag \"#openenedge\" and a distribution statement. In the top right corner, a small inset video shows a man with short dark hair wearing a blue shirt. The scene remains static across the frames, with no changes to the text or the man's appearance."
+}

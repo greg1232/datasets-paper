@@ -1,0 +1,15 @@
+{
+  "video_id": "ae9266e7b84483974189972f0c10ddda",
+  "url": "./data/segments/3Z229_lKLpk-Scene-131.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.39,
+    4.17,
+    6.95,
+    9.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard and glasses, wearing a light-colored traditional Indian outfit consisting of a long-sleeved shirt and a white vest, stands behind a brown wooden lectern. He is speaking in front of a textured green stone wall. To his right is a gold pillar topped with flowers. In the initial scene, a large gold Ashoka Chakra symbol is centered on the green wall. As the sequence progresses, the man comes into view, positioned to the right of the symbol. He begins gesturing with both hands raised and open as he speaks into two thin black microphones attached to the lectern. In the final sequence, he brings his hands together in front of him, continuing to speak. The background remains static throughout, featuring the green stone tiling and the gold ornamental elements."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9fdf918df5cfe8586940fe71a898c2ea",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-087.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.513,
+    1.539,
+    2.565,
+    3.591
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a close-up, low-angle perspective of numerous gold bars stacked in a vault. The gold bars are rectangular with beveled edges and a reflective, metallic surface that glows with a bright yellow-gold hue under strong lighting. In the initial frames, some of the bars feature small, legible text that reads \"GOLD\". The camera moves smoothly across the rows of bars, causing a shifting blur and changing the play of light and shadows across the metallic surfaces. As the sequence progresses, the lighting becomes increasingly intense and overexposed, eventually washing out the scene into a bright, golden haze that obscures the sharp edges of the bars and the text on them. No people are present in the scene."
+}

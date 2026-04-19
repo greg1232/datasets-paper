@@ -1,0 +1,15 @@
+{
+  "video_id": "3a1b6b8a3ffaadb55bbda38e67c31754",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.151,
+    0.454,
+    0.756,
+    1.058
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit side-by-side in a room, reacting to a video playing on a screen. The man on the left wears a grey t-shirt and maintains a skeptical, tight-lipped expression. The man on the right, also in a grey t-shirt and wearing a necklace, rests his chin on his hand with a thoughtful look. Behind them is a television and a shelf filled with media cases. Overlaid on the top of the scene is the text \"OUR STUPID REACTIONS\". A smaller inset video screen shows a scene from a fantasy setting, featuring a woman in a light-colored gown standing in a blue-walled room. As the sequence progresses, the man on the right slightly shifts his head, and subtitles appear in the inset video stating, \"My life doesn't hold more value than my people.\" The background and the men's positions remain largely static throughout."
+}

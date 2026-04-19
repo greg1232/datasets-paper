@@ -1,0 +1,15 @@
+{
+  "video_id": "93e1016225dbc4ad24c258af64d71083",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-871.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.13,
+    0.391,
+    0.652,
+    0.912
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hooded sweatshirt with the text \"BOSS\" in gold lettering, and a gold watch and necklace is seated in a studio setting. He is wearing professional headphones and is positioned in front of a black broadcast microphone mounted on a boom arm. The background features a white wall with gold stars and the word \"HUSTLE\" repeated several times. A blue banner above him reads \"Where BOSSES Talk!\". To his right, a black container sits on a table, and a logo reading \"TALK OUT\" is visible in the lower corners. The man remains relatively still across the sequence, maintaining a consistent posture and facial expression while looking off-camera to his right. There are no significant changes in his movements, the lighting, or the placement of objects between the frames."
+}

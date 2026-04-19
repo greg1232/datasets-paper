@@ -1,0 +1,15 @@
+{
+  "video_id": "caeb3a827ae6e62e462d01930776bf6d",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-796.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.141,
+    0.422,
+    0.704,
+    0.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a dark green t-shirt with the text \"ION NEVER DO SHIT AT WORK\" sits in a studio setting. He is positioned behind a black professional microphone on a boom arm. In the background, a white mannequin wearing a white shirt stands near a clothing rack, and a wall is decorated with several framed photographs. The man looks upward and slightly to his right with a thoughtful expression, shifting his gaze slightly across the sequence. Small logos are visible in the bottom corners of the scene, including one that reads \"TOTE\". The environment remains static throughout the clip, with the only movement being the man's subtle facial expressions and head movements as he looks toward something off-camera."
+}

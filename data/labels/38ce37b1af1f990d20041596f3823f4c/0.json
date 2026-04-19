@@ -1,0 +1,15 @@
+{
+  "video_id": "38ce37b1af1f990d20041596f3823f4c",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.254,
+    0.762,
+    1.271,
+    1.779
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair is positioned in the lower-left corner of a screen displaying a financial trading interface. He is looking directly at the camera while appearing in a small rectangular inset. The background of the screen is dominated by a white trading platform featuring the \"TICKMILL\" logo in red and black. Large gray text reads \"EURGBP (M\" and \"(EURGBP)\" over a price chart with black and white candlesticks showing an upward trend. To the left, a column of German text states, \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN,\" followed by a list of features including \"Keine Requotes\" and the website \"www.tickmill.com/de\". As the sequence progresses, the man remains in the inset, maintaining a steady gaze and neutral expression, while the trading chart and the surrounding interface elements remain static across the frames."
+}

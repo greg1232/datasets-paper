@@ -1,0 +1,15 @@
+{
+  "video_id": "4406494764ade6952bdbea472f850777",
+  "url": "./data/segments/3l84m5pRmyk-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.564,
+    4.692,
+    7.82,
+    10.948
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair, wearing a light-colored collared shirt and a dark blazer, is seated in front of a light blue and white backdrop. The backdrop features recurring logos of a blue cube and text that includes \"theCUBE\", \"BigDataSV\", and \"2015\". In the first frame, a blue text box appears on the left identifying the man as \"RISHI YADAV | @meditativesoul\", noting he is the \"CEO\" of \"infoObjects\". He is gesturing with his hands while speaking. As the sequence progresses, the man continues to talk and smile, shifting his posture slightly. A white laptop with a blue cube sticker on the lid is visible on the table in front of him, along with a clear water bottle. By the final frame, he is gesturing again with his right hand while speaking, maintaining an engaged and expressive facial expression throughout the short clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1315afcf7ad44fd78524b924a503bd48",
+  "url": "./data/segments/3fokLGPK15Q-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.455,
+    1.365,
+    2.275,
+    3.185
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dark, futuristic interior space is depicted, featuring a dim room with high ceilings and industrial architectural elements. In the background, a glowing orange circular light is mounted on a wall, casting a warm reflection onto the polished floor. To the left, a staircase leads to an upper level where some greenery is visible. The room contains dark furniture, including what appears to be a low sofa or seating area on the right. No people are visible in the scene. Across the sequence, the camera remains stationary, but the lighting and visibility shift slightly. The scene transitions from a darker, moodier atmosphere to one where more detail becomes apparent, particularly the structures of the stairs and the outlines of the furniture, as a subtle light source seems to shift or brighten the environment."
+}

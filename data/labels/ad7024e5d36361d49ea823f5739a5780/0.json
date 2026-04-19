@@ -1,0 +1,15 @@
+{
+  "video_id": "ad7024e5d36361d49ea823f5739a5780",
+  "url": "./data/segments/3Z229_lKLpk-Scene-089.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.545,
+    4.635,
+    7.725,
+    10.815
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide shot depicts a large, formal assembly hall filled with people seated in tiered galleries and a main floor area. In the foreground, two identical views of a man, likely an image composite, stand behind wooden podiums equipped with microphones. He has a white beard and wears glasses, a white long-sleeved shirt, and a light-colored sleeveless jacket. The background consists of a green marble wall and rows of seated attendees, many of whom are wearing white clothing. The hall is architectural, with beige pillars and gold-trimmed balconies overlooking the crowd. As the sequence progresses, the man speaks, with subtle changes in his facial expressions and head position. The overall composition remains static, focusing on the speaker against the backdrop of the crowded legislative or ceremonial chamber."
+}

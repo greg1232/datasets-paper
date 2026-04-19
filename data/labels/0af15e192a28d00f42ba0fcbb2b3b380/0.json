@@ -1,0 +1,15 @@
+{
+  "video_id": "0af15e192a28d00f42ba0fcbb2b3b380",
+  "url": "./data/segments/3szCdVKgMug-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.634,
+    1.902,
+    3.17,
+    4.438
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, glasses, and a tan straw hat stands outdoors in a lush, green setting with trees and ferns. He is wearing a light-colored, button-down striped shirt with a small black clip-on microphone attached to the placket. Behind him is a paved walking path and a rocky ledge. As the scene progresses, the man speaks and begins to gesture with his hands to emphasize his points. He starts with his arms at his sides, then brings his right hand up to gesture in front of his chest, and eventually raises both hands to gesticulate. In the final sequence, he raises his left hand toward his head while continuing to speak. The lighting is dappled, with shadows from the surrounding foliage falling across his shirt and the path behind him."
+}

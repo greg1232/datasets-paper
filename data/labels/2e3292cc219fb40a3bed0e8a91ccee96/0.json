@@ -1,0 +1,15 @@
+{
+  "video_id": "2e3292cc219fb40a3bed0e8a91ccee96",
+  "url": "./data/segments/3Z229_lKLpk-Scene-174.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.535,
+    1.605,
+    2.675,
+    3.745
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large assembly of people is seated in tiered rows within a formal auditorium or legislative chamber. The attendees are predominantly men, dressed in a mix of Western-style business suits and traditional Middle Eastern attire, including white thobes and ghutras. The seating is arranged in a steep incline, with gold-colored railings separating the sections. Some individuals are seen talking to one another, while others look forward. In the background, blue screens are partially visible on the walls. Across the sequence, the scene remains static, with the camera holding a wide shot of the crowd. There are no significant changes in the people's positions or actions, and no on-screen text or logos are visible. The overall atmosphere is one of a formal, official gathering."
+}

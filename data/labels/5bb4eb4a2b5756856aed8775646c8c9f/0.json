@@ -1,0 +1,15 @@
+{
+  "video_id": "5bb4eb4a2b5756856aed8775646c8c9f",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical training setting, three women wearing blue scrubs, surgical caps, and face masks are gathered around a white table. One woman on the left holds papers and looks down, while another in the center sits behind the table. A third woman in the foreground, seen partially from the side, uses her hand to point at or interact with documents on the table. The room contains a tan wall and a digital display screen in the background. Overlaid across the scene is white text that reads \"UNIVERSITY OF MARYLAND Department of Surgery and R Adams Cowley Shock Trauma Center,\" and a \"Sim Week\" logo appears in the bottom right corner. As the sequence progresses, the woman in the foreground shifts her hand movements across the table, and the other women remain relatively still in their positions."
+}

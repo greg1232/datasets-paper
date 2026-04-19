@@ -1,0 +1,15 @@
+{
+  "video_id": "2ace7d23c079a872f267c34bbc7cee98",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.081,
+    0.244,
+    0.406,
+    0.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a collectible basketball card featuring Chris Mullin in a Golden State Warriors jersey. The card is silver and holographic, displaying the text \"AWARD-WINNING\" at the top and \"CHRIS MULLIN\" near the bottom, along with a handwritten signature. The person's thumbs hold the card on the left and right sides. In the background, a red and black surface features the logo \"JASPYS CASEBREAKS.COM\". Small inset windows show a man with a beard wearing a black hooded sweatshirt sitting in a room with equipment and more boxes of cards. As the sequence progresses, the card is held steady, while the background and inset views remain consistent, focusing on the presentation of the sports collectible."
+}

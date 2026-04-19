@@ -1,0 +1,15 @@
+{
+  "video_id": "7fc3c192958a3e54659e8664d8093565",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.49,
+    1.47,
+    2.45,
+    3.431
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, black headphones, and a black hoodie with \"BOSS TALK\" written in gold letters is seated in a studio setting. He is positioned behind a professional microphone mounted on a black boom arm. In the background, a white wall features the phrase \"BRICK HUSTLE\" accompanied by five gold stars. A screen behind him displays the text \"Where BOSSES Talk!\". To his right, a small black cylindrical object with red and white text that includes \"TALK OUT\" is visible. Across the sequence, the man speaks and shifts his facial expressions, looking slightly to his right and then back toward the center. He remains in the same position throughout, with his movements limited to his head and mouth as he talks into the microphone."
+}

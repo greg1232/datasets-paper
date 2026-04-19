@@ -1,0 +1,15 @@
+{
+  "video_id": "0380c916512ebf2e66ed7a9737dff785",
+  "url": "./data/segments/3QD9oO6sRns-Scene-116.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.244,
+    3.731,
+    6.219,
+    8.706
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a graded sports card encased in a clear plastic slab, displaying it to the camera. The card features a baseball player in a purple and green themed design. In the background, a man wearing a black t-shirt and a black baseball cap is visible within a smaller inset video window, appearing to be hosting a stream. The foreground setting includes a table with a banner that reads \"BREAKS\" and a logo for \"CASEBREAKS.com\" appearing as on-screen text in the inset window. As the sequence progresses, the person holding the card tilts and rotates the slab to show different angles of the card and its protective casing. The background remains consistent, showing various boxes and sports-related items on a white surface, while the host in the inset window watches the presentation."
+}

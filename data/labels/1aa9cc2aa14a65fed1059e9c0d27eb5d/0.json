@@ -1,0 +1,15 @@
+{
+  "video_id": "1aa9cc2aa14a65fed1059e9c0d27eb5d",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.708,
+    5.125,
+    8.542,
+    11.958
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large, brightly lit ballroom with a recessed ceiling and crystal chandeliers, several individuals perform martial arts demonstrations on a blue mat. A group of performers wears traditional attire, including yellow, blue, and grey garments. In the initial sequence, a person in yellow and another in blue are seen wielding long poles, moving across the blue floor while others stand nearby. As the scene progresses, the performers shift positions; the person in yellow moves toward the center, and the person in blue moves toward the right edge of the frame. A crowd of spectators sits at tables in the background, watching the performance. The lighting remains consistent across the scenes, highlighting the open space of the hall and the coordinated movements of the practitioners with their equipment."
+}

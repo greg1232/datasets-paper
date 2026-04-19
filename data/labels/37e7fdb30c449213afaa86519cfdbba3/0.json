@@ -1,0 +1,15 @@
+{
+  "video_id": "37e7fdb30c449213afaa86519cfdbba3",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.148,
+    0.444,
+    0.74,
+    1.035
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a website page featuring a list of NBA teams, such as \"11. GOLDEN STATE WARRIORS\" and \"12. DENVER NUGGETS,\" alongside a chat window. The chat displays messages from users \"glowbug27\" saying \"turning\" and \"Nightbot\" stating, \"Click the link for the BREAKS SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/2ySdeK8y.\" Below this, a banner for \"JASYPS\" and \"CASEBREAKS.COM\" is visible, featuring a photo of three men wearing casual shirts. The page also includes a timestamp of \"2023-05-20 03:13:25 UTC\" and a message stating, \"You have randomized this list 5 times.\" Throughout the sequence, the screen remains completely static; the list of teams, the chat messages, the logos, and the images of the people do not change, and no motion or interaction occurs across the frames."
+}

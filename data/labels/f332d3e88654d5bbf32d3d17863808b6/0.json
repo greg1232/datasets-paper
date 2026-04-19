@@ -1,0 +1,15 @@
+{
+  "video_id": "f332d3e88654d5bbf32d3d17863808b6",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An open car door reveals the brown leather interior of a white vehicle parked on a paved surface. A cardboard box sits on the back seat, visible through the open door. As the sequence progresses, a person's hand reaches into the vehicle to grasp the box. The hand pulls the cardboard box out of the car and toward the open doorway. The lighting suggests an outdoor setting with dappled sunlight falling across the ground and the car's body. The vehicle's interior features brown upholstery and a dark dashboard. The movement is focused on the retrieval of the box from the rear passenger area, with the white exterior of the car framing the left side of the view and the open brown door occupying the right."
+}

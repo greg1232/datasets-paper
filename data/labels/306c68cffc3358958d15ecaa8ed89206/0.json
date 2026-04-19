@@ -1,0 +1,15 @@
+{
+  "video_id": "306c68cffc3358958d15ecaa8ed89206",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    20.687,
+    62.062,
+    103.437,
+    144.811
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A legislative meeting takes place in a room featuring wood-paneled walls and a white table. Several people are seated around the table, including a man in a dark suit and glasses on the left, a man in a blue blazer and tie, and a man in a grey vest. A woman with dark hair is seated on the right. On the table are white cups, water bottles, and papers. On-screen text includes the \"ORCA\" logo and the text \"April 12, 2019 House Committee on General, Housing, and Military Affairs\" above a green banner that reads \"S.23 Increasing the Minimum Wage\". Throughout the sequence, the man in the blue blazer is the primary focus, shifting from listening to speaking with hand gestures. The camera angle changes slightly, moving from a wider shot showing the man in the dark suit to a closer view focusing on the man in the blue blazer."
+}

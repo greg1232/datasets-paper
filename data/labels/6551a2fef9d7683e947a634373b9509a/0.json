@@ -1,0 +1,15 @@
+{
+  "video_id": "6551a2fef9d7683e947a634373b9509a",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white airplane with red accents on its tail and fuselage is positioned on a paved runway adjacent to a green grassy field under an overcast sky. The aircraft features a T-tail design and engines mounted on the rear of the fuselage. A small white and red piece of ground equipment stands on the runway near the plane's wing. In the upper right corner of each scene, a red circular logo containing the white text \"13\" is visible. As the sequence progresses, the airplane remains stationary, but a visible plume of white exhaust or vapor emerges from the rear engines and drifts across the runway toward the left. The aircraft's landing lights are illuminated, casting a bright glow on the pavement beneath the nose."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0355e935fbc775f8dadc21c7e7981c74",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-509.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.516,
+    1.548,
+    2.581,
+    3.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt sits in a room filled with framed photographs and clothing racks. His t-shirt features the text \"I CN NEVER DO SHIT\" in white lettering. He is positioned in front of a professional black microphone, appearing to be in a podcast or interview setting. In the background, a white mannequin is visible, along with racks of colorful apparel and various framed pictures on the wall. Two logos are present on the screen: one on the bottom left with a stylized circular icon and the text \"DON'T TELL\" and another on the bottom right with red text that reads \"DON'T TELL NO ONE\". Across the sequence, the man shifts his facial expression and slightly moves his head, talking while looking off-camera to his left."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "05e6ace663c05ab83be1884be4b9efb2",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with long dark hair and glasses sings into a microphone, positioned in front of a wall with horizontal wooden slats. He wears a white long-sleeved shirt with a dark blue embroidered vest and a red and white patterned scarf draped around his neck. He is playing an acoustic guitar, of which only the upper body is visible. A microphone on a boom arm is positioned directly in front of his mouth. To his right, the white text \"ORCA\" is visible on screen. Across the sequence, the man remains in a similar position, with slight movements in his facial expression and mouth as he continues to sing. The lighting and setting remain consistent throughout the clip, focusing on the performer from the waist up."
+}

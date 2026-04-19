@@ -1,0 +1,15 @@
+{
+  "video_id": "a15dc6d1cfb2927ee42c130a37dd374f",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.231,
+    0.694,
+    1.156,
+    1.619
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a sequence of static screens with a deep purple and magenta gradient background. Centered in the upper half of the view, the word \"PLAYOFFS\" appears in a bold, white, sans-serif uppercase font. Directly beneath this heading, the phrase \"Survive the playoffs!\" is written in a smaller, white, sans-serif font. There are no people, objects, or equipment visible in the scene. Across all frames, the layout and text remain identical, though the lighting and color saturation of the purple background shift slightly, creating a subtle shimmering or pulsing effect. The on-screen text \"PLAYOFFS\" and \"Survive the playoffs!\" remains constant and stationary throughout the sequence."
+}

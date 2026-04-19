@@ -1,0 +1,15 @@
+{
+  "video_id": "7d6ac87e0f7f82a1cbf215d26e73898f",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.371,
+    1.114,
+    1.856,
+    2.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a grey ribbed long-sleeve shirt and a light pink smartwatch is seen from an overhead perspective, interacting with a small, square piece of light blue fabric. The fabric, which features a subtle white snowflake pattern, rests on a white wooden-plank surface. To the left, a small portion of a white object with the printed text \"rm nea\" is visible. In the initial frames, the person's hands are positioned above the fabric, holding it in place. As the sequence progresses, the person's left hand moves slightly to the side, and their right hand shifts position while continuing to press down on the fabric. The action is steady and focused, with the blue square remaining centered on the table throughout the brief sequence."
+}

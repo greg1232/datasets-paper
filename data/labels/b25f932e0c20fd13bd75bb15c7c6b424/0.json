@@ -1,0 +1,15 @@
+{
+  "video_id": "b25f932e0c20fd13bd75bb15c7c6b424",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-318.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.645,
+    7.935,
+    13.225,
+    18.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call features a grid of participants in their respective home or office settings. The screen shows multiple participants, including \"Jerry McHale,\" \"Howard Silverman,\" \"Sara Bellisle,\" \"Jim Burke,\" and \"Franco Pittoni,\" among others. Some participants are wearing glasses and casual attire, such as t-shirts and button-down shirts. They are seen speaking, listening, and looking at their cameras. Backgrounds vary, showing bookshelves, home interiors, and a blue-patterned digital backdrop. On-screen text identifies several participants by name. Throughout the sequence, the video repeats the same arrangement of faces in a recurring pattern, with participants remaining in their assigned tiles. Some individuals shift their posture slightly or change their facial expressions while interacting during the call. The layout remains a consistent grid of video feeds, capturing the synchronous nature of the virtual meeting."
+}

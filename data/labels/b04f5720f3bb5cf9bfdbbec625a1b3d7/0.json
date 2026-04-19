@@ -1,0 +1,15 @@
+{
+  "video_id": "b04f5720f3bb5cf9bfdbbec625a1b3d7",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.363,
+    1.089,
+    1.814,
+    2.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A disassembled mechanical gear assembly, likely from a motorcycle engine, sits on a cluttered workbench. The assembly features a large, dark gear at the bottom and a smaller gear above it, both housed within a light-colored metal casing. Surrounding the assembly are various tools, including pliers and a blue socket set organized in a red tray. An orange plastic part is visible to the left. Throughout the sequence, the camera remains stationary, and no people are visible in the frame. The scene is largely static, with only slight changes in lighting and minimal shifts in the position of the gears and surrounding tools, indicating a steady, close-up shot of the mechanical components during a repair or inspection process. No text or logos are legible in the frames."
+}

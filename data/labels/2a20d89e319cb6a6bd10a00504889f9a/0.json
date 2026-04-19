@@ -1,0 +1,15 @@
+{
+  "video_id": "2a20d89e319cb6a6bd10a00504889f9a",
+  "url": "./data/segments/3QD9oO6sRns-Scene-087.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.077,
+    0.231,
+    0.385,
+    0.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a white and blue box on a table. The background is a white wall, and the table is covered with a black cloth featuring orange text and logos, including \"SPYS CASEBREAKS\". A small white object and a red object are also on the table. In the top-left frame, the person opens the top of the box. In the top-right frame, they pull the inner contents of the box upward. In the bottom-left frame, the person tips the box, revealing a white insert with the word \"CLEARLY\" printed in large letters and the word \"AUTHENTIC\" written smaller above it. In the bottom-right frame, the box is tilted further. A small inset video in the corner of each frame shows a man wearing a black t-shirt, with a logo that reads \"SPYS CASEBREAKS.com\"."
+}

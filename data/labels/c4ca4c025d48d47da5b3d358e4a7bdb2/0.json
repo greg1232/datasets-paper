@@ -1,0 +1,15 @@
+{
+  "video_id": "c4ca4c025d48d47da5b3d358e4a7bdb2",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.526
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A short video clip features an animated logo unfolding against a shimmering, gold-toned background filled with soft, out-of-focus white bokeh lights and occasional sparkling starbursts. A red glittery line curves across the center of the screen, gradually forming the shape of a heart. Simultaneously, a stylized, cursive script logo emerges from the right side of the frame. The text transitions from the partial word \"Sta\" to \"Stampin\" and finally completes as \"Stamping,\" accompanied by a small circular emblem at the end. The movement is fluid, with the red glitter heart and the elegant black lettering appearing and settling into a centered composition. No people or physical locations are present, as the scene consists entirely of digital graphic elements and atmospheric light effects."
+}

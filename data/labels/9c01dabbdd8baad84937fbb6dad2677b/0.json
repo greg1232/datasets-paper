@@ -1,0 +1,15 @@
+{
+  "video_id": "9c01dabbdd8baad84937fbb6dad2677b",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.296,
+    0.888,
+    1.479,
+    2.071
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blond hair wearing a dark blue shirt appears in a small video inset in the lower-left corner of a video game interface. The gameplay screen displays a player card for \"TROY POLAMALU\" with an overall rating that changes from \"95\" to \"96\" as the clip progresses. The interface features a purple and black theme with various menu options like \"HOME,\" \"ATTRIBUTES,\" and \"UPGRADES.\" At the top, a status bar shows numerical values including \"173,037,\" \"14,800,\" and \"2,343,543.\" The center of the screen highlights \"ACROBAT\" and a section for \"SUPERSTAR X-FACTOR & ABILITIES.\" As the video continues, the view shifts to the \"ATTRIBUTES\" menu, revealing a series of numerical ratings such as \"94,\" \"97,\" \"90,\" and \"95\" under the \"KEY\" category, and physical stats including \"5'10\"\" and \"207\" under \"GENERAL.\" A digital image of a football player in a white and purple jersey is visible on the right side of the screen."
+}

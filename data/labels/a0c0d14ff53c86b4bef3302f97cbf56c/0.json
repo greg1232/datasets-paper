@@ -1,0 +1,15 @@
+{
+  "video_id": "a0c0d14ff53c86b4bef3302f97cbf56c",
+  "url": "./data/segments/3Z229_lKLpk-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair and a beard, wearing a light-colored vest over a tan long-sleeved shirt, stands behind a dark wooden podium. He is positioned in front of a textured, grey-green wall featuring geometric, block-like patterns. Two microphones are attached to the podium, angled toward him. To his right, a tall, cylindrical glass case contains a floral arrangement with red flowers and thin, vertical branches. The man remains stationary throughout the sequence, facing slightly to the right as if addressing an audience. His expression is serious, and his lips are slightly parted as if he is speaking. There are no changes in the setting, no other people present, and no visible on-screen text or logos across the frames."
+}

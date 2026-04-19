@@ -1,0 +1,15 @@
+{
+  "video_id": "d37a886464257b809c5712ac5b2638af",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-354.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.129,
+    15.387,
+    25.646,
+    35.904
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black t-shirt and a yellow lanyard is seated in a room with various objects in the background, including a shelf with collectibles and a red-lit device. The video displays a screen recording of a website titled \"True Random Number Service\" from \"RANDOM.ORG.\" The page features a \"List Randomizer\" tool with a text box containing a list of items, including \"(1) GREG McGill Hall of Fame Icons Autograph #d 1-of-1\" and \"(11) RANDY JOHNSON 2001 1/1 AUTO.\" A red \"Subscribe\" button for a YouTube channel is overlaid on the bottom right. As the scene progresses, the person remains seated, and the text within the list randomizer box updates to show a different order of items, such as \"(11) RANDY JOHNSON 2001 1/1 AUTO\" appearing at the top. The overall layout of the webpage and the person's position remain constant."
+}

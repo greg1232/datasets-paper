@@ -1,0 +1,15 @@
+{
+  "video_id": "41e241ac233f939b199496dbff6395f4",
+  "url": "./data/segments/3dN_F08u-KE-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.535,
+    4.605,
+    7.675,
+    10.745
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grainy, black-and-white aerial sequence shows a desolate, flat landscape under a hazy sky. In the upper portion of the scene, two bright white plumes of smoke or fire erupt and expand. The first plume appears as a concentrated burst of light that expands outward, while a second, larger plume rises vertically from the ground. As the sequence progresses, the plumes grow in size and drift slightly, with the larger vertical column becoming more diffuse. Small, thin dark lines are visible near the centers of the explosions. In the top right corner of each frame, a red logo containing the number \"13\" is visible. No people, clothing, or specific equipment are discernible in the low-resolution footage."
+}

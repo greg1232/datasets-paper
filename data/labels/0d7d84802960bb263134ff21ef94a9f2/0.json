@@ -1,0 +1,15 @@
+{
+  "video_id": "0d7d84802960bb263134ff21ef94a9f2",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.526,
+    0.876,
+    1.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with long dark hair and glasses stands before a microphone, singing or speaking. He is dressed in a white button-down shirt layered under a black vest featuring blue floral embroidery and a decorative red and white strap across his chest. He is positioned in front of a wall with horizontal light-brown wooden slats. To his left, a microphone on a stand extends toward his face. The text \"ORCA\" appears in white capital letters on the right side of the scene. Throughout the sequence, the man remains in a stationary position, with subtle movements of his mouth and facial expressions as he performs. The background and equipment remain constant, and there is very little change in the overall composition of the scene between the frames."
+}

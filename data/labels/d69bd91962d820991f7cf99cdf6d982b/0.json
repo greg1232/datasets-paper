@@ -1,0 +1,15 @@
+{
+  "video_id": "d69bd91962d820991f7cf99cdf6d982b",
+  "url": "./data/segments/3a0FD1177FA-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.491,
+    4.473,
+    7.455,
+    10.438
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with a white watch and a ring on their finger works on a craft project on a white gridded cutting mat. The workspace contains floral patterned paper, stamps, and a black ink pad. In the beginning, the person's hands are positioned over a small white card. As the sequence progresses, they hold up the card, which features the printed text \"hoping your BIRTHDAY is filled with ALL the best things\". The person then places this card onto a stamping tool or press. Various pieces of green and yellow floral paper are scattered around the mat, along with clear stamping blocks and a red stamp. A faint logo that reads \"Stamping Jill\" is visible in the bottom left corner of the frames. The scene focuses entirely on the manual process of assembling a handmade card."
+}

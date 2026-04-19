@@ -1,0 +1,15 @@
+{
+  "video_id": "a448235671a989786fadaffc6079f256",
+  "url": "./data/segments/3P1vSUbet40-Scene-0656.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.078,
+    0.235,
+    0.391,
+    0.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt, a black baseball cap with a winged logo, and over-ear headphones sits in a studio setting. He is positioned behind a professional microphone and is laughing and gesturing with his hands. In the background, white walls are decorated with stars and the words \"HUSTLE\" and \"BOSS TALK 101.\" On-screen graphics appear on both the left and right sides of the frame, featuring the text \"BOSS TALK 101 PODCAST\" and \"BOSS TALK 101.\" As the sequence progresses, the man continues to laugh and move his hands, eventually clapping his hands together. In the final frames, the white text \"CHECK IT\" and \"MAN\" briefly appears over his chest. The lighting is bright and consistent, focusing on the man as he interacts within the podcast environment."
+}

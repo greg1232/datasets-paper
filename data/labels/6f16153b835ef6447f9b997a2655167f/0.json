@@ -1,0 +1,15 @@
+{
+  "video_id": "6f16153b835ef6447f9b997a2655167f",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.479,
+    0.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large, brightly lit banquet hall featuring a blue carpet and ornate ceiling chandeliers, five men are performing a synchronized dance routine. In the center, a man dressed in a vibrant blue traditional garment leads the movements, while two men to his left wear white traditional attire and a man to his right wears white. To the far right, another man is dressed in black. They are all captured mid-motion, performing fluid, rhythmic steps and arm movements. In the background, a seated audience watches from tables. As the sequence progresses, the dancers shift their weight and adjust their arm positions in unison, moving with a coordinated flow across the floor. The lighting remains consistent across the scenes, highlighting the contrasting colors of the traditional costumes against the deep blue of the carpeted stage area."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "adf5700392484d001187309cc140870c",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.526
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A night scene is captured outdoors on a grassy area. In the background, a small white boat with a blue stripe along the hull is parked on a trailer. To the right, a metal ladder or framework leans against an unseen structure. A bright, glowing yellow-green orb of light is centered in the mid-ground, hovering just above the grass. The light is intense, creating a flare effect that illuminates the immediate surrounding blades of grass. Across the sequence of images, the scene remains virtually static; the boat, the ladder, and the orb of light do not change position, and no people are visible. The lighting is dim, consistent with a nighttime environment, with the primary illumination coming from the mysterious glowing orb. No legible text or logos are visible in the frames."
+}

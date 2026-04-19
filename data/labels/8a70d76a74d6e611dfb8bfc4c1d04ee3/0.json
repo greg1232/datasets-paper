@@ -1,0 +1,15 @@
+{
+  "video_id": "8a70d76a74d6e611dfb8bfc4c1d04ee3",
+  "url": "./data/segments/3pLMflJEGQ4-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.5,
+    4.5,
+    7.5,
+    10.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, fair hair and glasses stands outdoors in front of a dense green hedge. He is dressed in a dark grey or black jacket with a fleece-lined collar over a dark grey turtleneck sweater. He wears small, white wireless earbuds in his ears. Throughout the sequence, the man remains centered in the shot, speaking directly toward the camera. His facial expression shifts slightly as he talks, with his mouth opening and closing and his gaze remaining steady. The background remains a consistent wall of green foliage, and there are no other people, objects, or on-screen text visible. The scene is a tight medium shot, focusing on his head and shoulders as he delivers a message."
+}

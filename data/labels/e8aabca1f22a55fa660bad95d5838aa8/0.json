@@ -1,0 +1,15 @@
+{
+  "video_id": "e8aabca1f22a55fa660bad95d5838aa8",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-092.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.655,
+    4.965,
+    8.275,
+    11.585
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing glasses and a traditional patterned green and white cap is depicted in a medium close-up shot. He is positioned with his hand resting against his chin in a contemplative pose. The background is a plain, light-colored wall. Each frame features the \"plustv\" logo in the upper left corner and a purple banner across the bottom containing the text \"PLUS POLITICS\" and the headline \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\". A white bar at the bottom provides a call to action; the first three frames say \"SUBSCRIBE\" followed by \"WWW.YOUTUBE.COM/PLUSTVAFRICA\", while the final frame updates this to \"SUBSCRIBE WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE\" and adds \"FOLLOW US\" alongside social media icons and the handle \"PLUSTVAFRICA\". Across the sequence, the man remains stationary and his expression unchanged, while only the informational text at the very bottom of the screen shifts."
+}

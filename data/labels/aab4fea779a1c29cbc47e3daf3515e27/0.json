@@ -1,0 +1,15 @@
+{
+  "video_id": "aab4fea779a1c29cbc47e3daf3515e27",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-190.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.47,
+    1.41,
+    2.35,
+    3.29
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark baseball cap and a dark shirt is visible in a small video call window in the upper corner of a computer screen. The main area of the screen displays a dark background with a complex causal loop diagram consisting of green text and blue arrows. Legible text within the diagram includes phrases such as \"Frustration,\" \"Present Breakfast,\" \"Attractiveness of Garden,\" \"Birds at Feeder,\" and \"Buy Bird Seed.\" The arrows indicate relationships between these concepts, with some labeled \"increases\" and others labeled \"encourages me to\u00bb. Across the sequence, the man remains in his video window, speaking and gesturing slightly, while the diagram on the screen stays static, showing no changes in its structure or content. The interface of a web browser is visible at the top, featuring various tabs and a search bar."
+}

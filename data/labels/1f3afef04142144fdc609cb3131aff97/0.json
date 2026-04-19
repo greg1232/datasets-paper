@@ -1,0 +1,15 @@
+{
+  "video_id": "1f3afef04142144fdc609cb3131aff97",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.493,
+    4.479,
+    7.466,
+    10.452
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up sequence captures a hand interacting with the steering wheel of a vehicle. The steering wheel is black leather with red stitching and features an embossed logo that reads \"CORVETTE\" and a circular emblem. In the initial view, the embossed text is visible on the center hub. As the sequence progresses, a person's hand enters the frame and presses a grey plastic button located on the steering wheel spoke. The camera shifts focus to provide different angles of the button being pressed, showing the finger applying pressure to the grey component. The background remains the interior of the car, with glimpses of the dashboard and other interior controls visible in the periphery. The sequence concludes with the finger still maintaining pressure on the button while the camera angle shifts slightly to the right."
+}

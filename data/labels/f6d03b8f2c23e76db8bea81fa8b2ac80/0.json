@@ -1,0 +1,15 @@
+{
+  "video_id": "f6d03b8f2c23e76db8bea81fa8b2ac80",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-141.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The provided image is completely black, containing no visual information. There are no visible settings, locations, people, objects, or text. As the image is uniform in color and devoid of any imagery or content, there are no changes or actions to describe."
+}

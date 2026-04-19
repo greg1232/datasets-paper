@@ -1,0 +1,15 @@
+{
+  "video_id": "084b7be23b9f7c448f1a85ecd4f9b58b",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-294.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.006,
+    6.019,
+    10.031,
+    14.044
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a graded baseball card in a clear plastic case, rotating it to show different sides. The card features a black-and-white sketch of a man in a baseball cap, identified as \"HONUS WAGNER\". As the hands flip the card, the reverse side becomes visible, containing a descriptive biography and a signature that reads \"James Florentino\". In the background, a man wearing a purple t-shirt is visible in a small picture-in-picture window, seated at a desk with various equipment. The screen displays a prominent orange logo and text that reads \"JASPYS CASEBREAKS.COM\". The scene is set indoors on a surface featuring a colorful palm tree pattern. The sequence shows the card being held up to the camera, first showing the portrait side and then flipping to reveal the detailed text and signature on the back."
+}

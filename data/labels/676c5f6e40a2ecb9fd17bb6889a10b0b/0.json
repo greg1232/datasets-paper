@@ -1,0 +1,15 @@
+{
+  "video_id": "676c5f6e40a2ecb9fd17bb6889a10b0b",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-334.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.35,
+    1.05,
+    1.75,
+    2.45
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A composite view of a video conference displays a grid of participants in their respective home or office settings. Several individuals appear in multiple tiles, including a man in a blue button-down shirt, a man in a green t-shirt, and a woman wearing a headset. Other participants include a man in a dark shirt and glasses, and a man in a light blue shirt. The backgrounds vary from home offices with bookshelves and cabinets to rooms with plain walls and windows. Legible on-screen text includes names such as \"Jerry Nicholas\", \"Brian advogado\", \"Jen Burko\", \"Saugata Das\", \"Jyoti Mehting\", and \"Rajat Lajos\". As the scene progresses, the participants remain in their positions, with subtle movements such as shifts in posture or facial expressions. The layout of the video call remains constant, maintaining the same group of people across the sequence of frames."
+}

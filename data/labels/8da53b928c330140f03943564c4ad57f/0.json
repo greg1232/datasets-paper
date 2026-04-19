@@ -1,0 +1,15 @@
+{
+  "video_id": "8da53b928c330140f03943564c4ad57f",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-250.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.238,
+    0.396,
+    0.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing glasses, a white shirt, and a dark vest stands before a group of seated people in a room with wood-paneled walls. He is speaking and gesturing slightly with his hands. The audience, seen from behind, includes people wearing a variety of clothing, such as a maroon jacket and a yellow shirt. Some individuals are seated closer to the speaker, while others are further back. To the right of the speaker, a small white sign with the text \"ORCA\" is visible. The frames show the man speaking and the audience listening, with minimal movement between the frames, suggesting a steady, focused presentation. The lighting is consistent throughout, and the scene remains stationary as the speaker continues his address to the assembled group."
+}

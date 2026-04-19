@@ -1,0 +1,15 @@
+{
+  "video_id": "2d112d1bea9cac4408c64840e6ff3733",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-321.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.223,
+    0.669,
+    1.115,
+    1.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair and glasses wears a navy blue t-shirt and white over-ear headphones while sitting in a room. Behind him is a decorated Christmas tree with colorful lights and a large screen displaying a blue graphic with the number \"20\" and a logo. In the first frame, he holds a white game controller in his right hand and gestures with his left. As the sequence progresses, he lowers the controller and his expression shifts from a smile to an open-mouthed, laughing expression. A black microphone is positioned in front of him. The background remains constant across the frames, while the man's facial expressions and the positioning of his hands change as he speaks and reacts."
+}

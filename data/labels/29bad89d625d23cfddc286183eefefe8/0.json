@@ -1,0 +1,15 @@
+{
+  "video_id": "29bad89d625d23cfddc286183eefefe8",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-561.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.136,
+    0.407,
+    0.678,
+    0.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits at a dark table in a studio setting, wearing a white baseball cap, a black hoodie with the gold text \"BOSS\" across the chest, and a gold watch. He is positioned behind a professional microphone on a boom arm, wearing black headphones. The background is a white wall featuring a recurring logo with five gold stars and the words \"HUSTLE\" and \"WORK\" around them. A blue banner above him reads \"Where BOSSES Talk!\". On the table to his right is a black container labeled \"THE TALK BOX\". In the lower-left corner, a small logo reads \"THE TALK BOX\". Throughout the sequence, the man remains seated, glancing toward someone off-camera to his right. He begins with a slight smile and closed lips, transitioning to a wider, open-mouthed smile as he speaks, while his hands remain clasped on the table."
+}

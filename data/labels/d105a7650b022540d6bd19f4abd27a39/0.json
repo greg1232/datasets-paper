@@ -1,0 +1,15 @@
+{
+  "video_id": "d105a7650b022540d6bd19f4abd27a39",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.759
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dimly lit interior space, possibly a vehicle or a small room, features a white padded seat or cushion. A dark strap or cable is draped across the white surface. In the early part of the sequence, the scene is illuminated by a cool blue light, making the white seat clearly visible against the surrounding darkness. A small, red point of light is visible near the top center. As the sequence progresses, the lighting shifts significantly; the blue light fades, and the scene becomes almost entirely dark. By the final frames, the white seat is barely discernible, and the red light vanishes, leaving the environment in deep shadow with only a faint blue glint remaining. No people, text, or logos are visible throughout the clip."
+}

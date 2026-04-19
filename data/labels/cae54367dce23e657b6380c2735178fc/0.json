@@ -1,0 +1,15 @@
+{
+  "video_id": "cae54367dce23e657b6380c2735178fc",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-085.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.433,
+    1.3,
+    2.167,
+    3.033
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds up a gold-bordered sports card featuring Ken Griffey Jr., showcasing his image and signature. The card is held in a protective clear case. In the background, a man wearing a black t-shirt and glasses is visible in a small inset window, sitting at a desk with a microphone. He appears to be streaming or recording a video from a location featuring a logo that reads \"JASPYS\" and \"CASEBREAKS.COM\". The setting includes a surface with a tropical-themed pattern featuring palm trees. As the sequence progresses, the hand tilts and shifts the card to catch the light, highlighting the reflective gold edges and the signature. The inset video of the man remains constant in the background, though his expression and posture shift slightly as he watches the card being presented."
+}

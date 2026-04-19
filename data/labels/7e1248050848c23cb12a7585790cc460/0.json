@@ -1,0 +1,15 @@
+{
+  "video_id": "7e1248050848c23cb12a7585790cc460",
+  "url": "./data/segments/3QD9oO6sRns-Scene-167.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.098,
+    0.294,
+    0.49,
+    0.685
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand interacts with a blue and white box on a black surface, which is placed in front of a larger white box. The background contains a small inset window showing a man wearing a black t-shirt. Prominent orange and white text on the surface reads \"JASPYS CASEBREAKS\" in a stylized font. In the early frames, a hand grips the blue box, shifting it slightly. As the sequence progresses, the box is tilted and moved across the black surface. The inset window shows the man watching the process. The white box in the background features a circular logo and red text, though most of it remains partially obscured. The scene maintains a consistent indoor setting focused on the handling of the boxed items, with the \"JASPYS CASEBREAKS\" branding remaining constant throughout the action."
+}

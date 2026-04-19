@@ -1,0 +1,15 @@
+{
+  "video_id": "a5f41d44dce8b7a266f864471e505c78",
+  "url": "./data/segments/3a0FD1177FA-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown working on a crafting project atop a white cutting mat. The person, wearing a gold ring and a white smartwatch, uses a tan-colored \"LABEL ME LOVELY Punch\" to cut shapes from cream-colored paper. In the first frame, the person holds the punch upright while pieces of floral patterned paper and a stamp are visible on the mat. As the sequence progresses, the person adjusts the punch, pressing down on the lever to cut a piece of paper. Various craft supplies, including a red stamp in a clear case and a small piece of paper with the text \"Wishing you a Happy BIRTHDAY filled with all the best things,\" are scattered around the workspace. The \"LABEL ME LOVELY Punch\" text is prominently displayed on the tool itself. The person's hands move precisely, sliding the paper into the punch and operating the mechanism across the frames."
+}

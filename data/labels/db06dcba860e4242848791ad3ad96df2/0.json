@@ -1,0 +1,15 @@
+{
+  "video_id": "db06dcba860e4242848791ad3ad96df2",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.584,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dark, textured background displays a red and white text disclaimer. The top half of the screen features the word \"DISCLAIMER\" in large, bold red letters. Below this, a block of white text states, \"This video is NOT intended to entice, lure, or be appetizing to children in any way, shape, or form. It is solely left up to the parent or legal guardian to govern what is being viewed on this channel. The owner of this channel shall not accept any responsibility for actions taken by the child or parent/guardian such as viewing any content in the aforementioned channel. By viewing ANY video content on this channel means you agree to the terms and conditions mentinoned above.\" At the bottom, the phrase \"VIEWER DISCRETION IS ADVISED\" is written in red. As the sequence progresses, the text remains static, but the image becomes increasingly distorted and faded, eventually obscured by a white, blurred overlay."
+}

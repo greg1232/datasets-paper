@@ -1,0 +1,15 @@
+{
+  "video_id": "219abd119308b32004fc8115d7476369",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.225,
+    3.675,
+    6.125,
+    8.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands before a plain, light-colored background, delivering a presentation. He is dressed in a dark navy blue blazer over a dark shirt. A podium in front of him holds a clear plastic water bottle and a thin black microphone that extends toward him. In the upper left and right corners of the scene, a logo reads \"mediasite by concordia\". As the sequence progresses, the man speaks and uses hand gestures to emphasize his points; he starts with his hands lowered, raises his right hand and opens his left palm in a wide gesture, and then returns his hands toward the podium. His facial expressions change slightly as he speaks, maintaining a focused and serious demeanor throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d3f8e61246ae06f8e78408a8a15979ec",
+  "url": "./data/segments/3OnnmWsJTLM-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.472,
+    4.417,
+    7.362,
+    10.306
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman wearing a red and blue patterned sleeveless dress runs through a scenic outdoor landscape. The scene begins with a close-up shot of her running through tall, golden grass with her arms outstretched, holding a wide-brimmed hat in her left hand. The view then shifts to a wide shot, revealing she is in a vast green meadow surrounded by rugged, snow-capped mountains under a bright, cloudy sky. As she continues to run across the open field, she is seen from a distance, becoming a smaller figure against the expansive backdrop. In the final sequence, a semi-transparent overlay appears on the screen, showing a close-up of the woman's face and upper body superimposed over the wide shot of the meadow, creating a layered visual effect as she continues her movement."
+}

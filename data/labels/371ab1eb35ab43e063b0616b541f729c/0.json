@@ -1,0 +1,15 @@
+{
+  "video_id": "371ab1eb35ab43e063b0616b541f729c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.14,
+    0.419,
+    0.698,
+    0.977
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, glasses, and a mustache wears a dark blue t-shirt and large silver over-ear headphones while positioned in front of a blue screen. The background features a graphic with a stylized fish logo and the number \"20\" visible in several areas. In the initial moments, the man has his mouth open and appears to be speaking or reacting with an animated expression. As the sequence progresses, he purses his lips into a small \"o\" shape and then tilts his head back slightly, opening his mouth in a wide smile or laugh. Throughout these movements, he remains centered in the shot, with the static background elements and his attire staying consistent."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0cd78aa1404bb8adda7d0a2c531c3a82",
+  "url": "./data/segments/3Ew5zEF_uOQ-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.646,
+    1.938,
+    3.229,
+    4.521
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static title card against a plain white background. Centered in the upper half of the screen is a circular seal for the \"OFFICE OF THE PRIME MINISTER\" of \"SAINT LUCIA.\" The seal features a detailed coat of arms with green foliage and a blue and gold shield, surrounded by a golden border with blue text. Below the seal, centered text reads, \"Address at the Opening of Interpretation Centre Pigeon Island National Landmark.\" The image remains completely unchanged across the sequence, with the logo and text staying in a fixed position throughout. There are no people, movement, or changes in the scene."
+}

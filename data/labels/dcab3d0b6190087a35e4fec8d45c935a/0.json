@@ -1,0 +1,15 @@
+{
+  "video_id": "dcab3d0b6190087a35e4fec8d45c935a",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.368,
+    4.104,
+    6.84,
+    9.576
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard sits in a studio before a wall of grey acoustic foam panels. He wears black over-ear headphones and a white t-shirt, with tattoos visible on his right arm. A silver professional microphone is positioned in front of him, held by a black boom arm. Text on the arm reads \"Blue Microphones\". Across the sequence, the man is speaking into the microphone, his expression shifting from a slight smile with his eyes narrowed to a more neutral, focused look as he continues to talk. His head moves slightly, and his lips move as he speaks, while the background and equipment remain stationary."
+}

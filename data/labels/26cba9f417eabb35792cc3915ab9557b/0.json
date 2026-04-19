@@ -1,0 +1,15 @@
+{
+  "video_id": "26cba9f417eabb35792cc3915ab9557b",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-107.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.53,
+    1.59,
+    2.65,
+    3.71
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing glasses, a dark suit, a white shirt, and a red tie speaks into a microphone, with his right arm extended in a gesturing motion. He is positioned in front of a blurred background. In the upper-left corner of the screen, a purple logo reads \"clustv\". A purple banner across the middle of the screen displays the text \"PLUS POLITICS\", while a white banner below it reads \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\". At the bottom of the screen, a white bar contains the text \"WATCH ON\", followed by logos for \"DStv CH 408\" and \"StarTimes CH 308\". Throughout the sequence, the man remains in a similar position and pose, though there are slight shifts in his facial expression and the positioning of his hand as he speaks. The on-screen graphics and logos remain static."
+}

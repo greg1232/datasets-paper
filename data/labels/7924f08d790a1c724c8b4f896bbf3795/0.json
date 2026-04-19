@@ -1,0 +1,15 @@
+{
+  "video_id": "7924f08d790a1c724c8b4f896bbf3795",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-146.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.089,
+    3.266,
+    5.443,
+    7.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a beard is seated in a studio with dark, vertically ribbed acoustic foam panels on the wall behind him. He wears black over-ear headphones and a dark jacket over a grey shirt. A professional silver microphone on a black boom arm is positioned directly in front of his face. Throughout the sequence, the man maintains a similar position but shifts his gaze. He begins by looking slightly upward and to his right, then shifts his eyes further to the right. He then looks upward and back toward the center, before finally looking straight ahead with a neutral expression. The equipment and background remain stationary as only the man's subtle facial movements and eye direction change."
+}

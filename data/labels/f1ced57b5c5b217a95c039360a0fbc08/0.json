@@ -1,0 +1,15 @@
+{
+  "video_id": "f1ced57b5c5b217a95c039360a0fbc08",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.259,
+    0.776,
+    1.293,
+    1.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black long-sleeved shirt uses their hands to demonstrate a craft product set against a catalog page. The page features the heading \"FEELS LIKE FROST SUITE\" and displays various winter-themed images. The person holds a clear plastic package labeled \"FROSTED FRAMES 5 DIES,\" which contains several white die-cut shapes. In the first frame, the person points toward a small, ornate white cutout shape. As the sequence progresses, they move their hand to pick up a larger, branch-like white cutout piece from the black background of the product packaging. By the final frame, the person is pointing to the branch-like shape, which is now positioned to the right of the smaller ornate cutout. A \"Stampin' Up!\" logo is partially visible in the lower-left corner of the frames, and the catalog text lists product details and prices."
+}

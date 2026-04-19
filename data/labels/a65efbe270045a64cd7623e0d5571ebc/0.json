@@ -1,0 +1,15 @@
+{
+  "video_id": "a65efbe270045a64cd7623e0d5571ebc",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-902.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.151,
+    0.454,
+    0.756,
+    1.058
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, black headphones, and a black hoodie with the word \"BOSS\" in gold lettering sits in a studio setting. He is positioned behind a desk equipped with a professional microphone on a boom arm and a black textured speaker. Behind him is a white backdrop featuring five gold stars and the repeated text \"UNIGOR HUSTLE,\" while a blue banner above reads \"Where BOSSES Talk!\". In the initial frames, the man looks toward someone off-screen with a contemplative expression, his hand resting near the microphone. As the scene progresses, he closes his eyes momentarily and then transitions into a wide smile and a laugh. To his right, a container is visible with the text \"TALK OUT\" and \"BOSSY\" legible on its label. The scene remains static except for the man's facial expressions and slight shifts in his posture."
+}

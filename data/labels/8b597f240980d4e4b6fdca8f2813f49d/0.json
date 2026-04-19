@@ -1,0 +1,15 @@
+{
+  "video_id": "8b597f240980d4e4b6fdca8f2813f49d",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.135,
+    0.406,
+    0.677,
+    0.948
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair, wearing a black t-shirt and a headset, is positioned in the bottom right corner of a digital screen. He is seen from the chest up, speaking and gesturing with his hands. The background behind him consists of a dark room with soft red lighting. The majority of the screen displays a white list of NBA teams, including \"11. SAN ANTONIO SPURS\" and \"12. MEMPHIS GRIZZLIES,\" alongside various system messages and timestamps. Legible text on the screen includes \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/3zE6S4Ky,\" as well as \"You have randomized this list 9 times.\" A red and white logo for \"JASYP CASEBREAKS.COM\" is visible at the bottom center. Across the frames, the man continues to speak, with slight changes in his facial expression and hand positions, while the text and layout of the screen remain static."
+}

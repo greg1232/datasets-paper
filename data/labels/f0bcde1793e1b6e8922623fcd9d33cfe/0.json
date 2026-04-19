@@ -1,0 +1,15 @@
+{
+  "video_id": "f0bcde1793e1b6e8922623fcd9d33cfe",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.62,
+    1.86,
+    3.1,
+    4.34
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This video displays a static presentation slide from a \"CRYOGENIC ENGINEERING\" course. The slide is titled \"Tutorial \u2013 4\" and presents a physics or engineering problem stating, \"For the conditions specified in Tutorial 2 for the Linde \u2013 Hampson system with Nitrogen as working fluid, calculate the following when the effectiveness of HX is 90%.\" The top and bottom margins of the slide are dark blue banners; the top banner contains the course title, while the bottom banner identifies the instructor as \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" An NPTEL logo, featuring a stylized circular emblem and the letters \"NPTEL,\" is positioned in the lower-left corner. Across all frames, the content remains identical and unchanging, indicating that the video is paused or showing a still image of the instructional material."
+}

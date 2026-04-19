@@ -1,0 +1,15 @@
+{
+  "video_id": "ba65b69d544ad8337727bf31bdad879e",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-260.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.669,
+    8.008,
+    13.347,
+    18.685
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a white shirt and a dark embroidered vest, performs music in a room with wood-paneled walls. He stands behind a microphone and plays a guitar. In the foreground, several people are seen from behind, watching the performance. These audience members include individuals with blonde and brown hair, some wearing dark clothing. A logo featuring the text \"ORCA\" is visible on the right side of the scene. Across the sequence of frames, the man remains in position, singing and strumming his guitar, while the audience members stay relatively still. The lighting is consistent throughout the scene, and the camera angle remains fixed, capturing the performer from the waist up and the backs of the listeners in the lower portion of the frame."
+}

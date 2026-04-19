@@ -1,0 +1,15 @@
+{
+  "video_id": "ed7efe0802fdf41fe8a38dd1ad255318",
+  "url": "./data/segments/3hCk0j8genE-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.525,
+    19.575,
+    32.625,
+    45.675
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a screen recording of a financial trading interface titled \"Optfx Pro Trader 11/27/2013 (WTI_ 1 Minute)\". Each frame shows a candlestick chart tracking price movements, with a green and red bar graph at the bottom and several curved trend lines intersecting the price action. A white cursor arrow moves across the screen, interacting with the chart. In the top-left frame, the time is \"13:15:52\", and the cursor is positioned in the center of the screen. As the sequence progresses, the cursor moves toward the upper right, clicking a point on the chart in the top-right frame where the time is \"13:16:05\". In the bottom-left frame at \"13:16:18\", the cursor is near the center again, and by the final frame at \"13:16:31\", it has moved slightly. Text in the upper left of each chart includes \"WTI 24.09, Lo 24.04\" and the date \"11/27/2013\"."
+}

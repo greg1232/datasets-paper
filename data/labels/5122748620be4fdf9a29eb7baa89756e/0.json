@@ -1,0 +1,15 @@
+{
+  "video_id": "5122748620be4fdf9a29eb7baa89756e",
+  "url": "./data/segments/3P1vSUbet40-Scene-0298.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.089,
+    0.266,
+    0.443,
+    0.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black baseball cap, black t-shirt, and silver headphones sits in front of a microphone in a studio setting. He is wearing a gold chain necklace and a black t-shirt with the text \"CHECK IT!\" printed in white across the chest. Behind him is a white wall featuring several logos that include a gold star and the words \"GRIND HUSTLE,\" as well as a larger \"BOSS TALK 101\" logo. To his right, a screen is partially visible. On-screen overlays include a circular logo that reads \"BOSS TALK PODCAST\" and a rectangular logo that says \"BOSS TALK 101.\" Throughout the sequence, the man remains in a seated position, looking slightly to his left with a focused expression, while his head and posture remain largely static."
+}

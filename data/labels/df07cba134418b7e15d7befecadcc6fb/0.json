@@ -1,0 +1,15 @@
+{
+  "video_id": "df07cba134418b7e15d7befecadcc6fb",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-100.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.505,
+    7.516,
+    12.526,
+    17.536
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair, wearing a striped button-down shirt and over-ear headphones, is speaking in an indoor setting. She is positioned in front of a light-colored wall and a window with light-colored curtains. In the bottom-left corner of each frame, the text \"Penny Bernal\" is partially visible. As the sequence progresses, she continues to speak, her mouth moving and her expression shifting slightly. Her head moves slightly from side to side, and she maintains a focused gaze toward the camera. The background remains static, with the lighting and composition consistent throughout the frames. The video captures her from the chest up, emphasizing her facial expressions and the act of speaking into the headphones' microphone."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5711f5ebbdc55e6ac435932a20792111",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.548,
+    1.644,
+    2.74,
+    3.835
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A hand holds a small, rectangular box with a metallic silver and black design, featuring the word \"OBSIDIAN\" in bright green lettering. The box is positioned over a black surface decorated with large orange and red graphics and the text \"SPYS\". In the background, a person wearing a black garment is visible in a small inset window, appearing to be in a room with white shelving and various items. A logo reading \"JASPYS CASEBREAKS.COM\" is overlaid on the scene. As the sequence progresses, the hand tilts and rotates the \"OBSIDIAN\" box to show different angles of its packaging. The person in the inset window remains present, though their pose shifts slightly as they look toward the camera. The overall setting suggests a product showcase or an unboxing environment."
+}

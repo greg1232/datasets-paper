@@ -1,0 +1,15 @@
+{
+  "video_id": "2aa3246ca5bc2d54b0a773a981645ef7",
+  "url": "./data/segments/3P1vSUbet40-Scene-0016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a distinctive tall, light-colored hairstyle, glasses, and headphones sits in a studio setting, speaking into a professional black microphone. He is wearing a white button-down shirt with suspenders and a bow tie. In the background, a sign reads \"UNIQUE FASHIONS,\" and a framed picture of a shield logo hangs on the wall. On-screen graphics include a logo that says \"#BOSS TALK PODCAST\" and the text \"BOSS TALK 101.\" In the first two frames, the text \"WHOLE LOTTA WOOD SH*T\" appears across the center of the screen. As the sequence progresses, the camera angle shifts slightly, and a person with red hair becomes visible in the background. By the final frame, the overlay text changes, with \"WHOLE LOTTA\" remaining visible while other portions of the caption disappear or shift."
+}

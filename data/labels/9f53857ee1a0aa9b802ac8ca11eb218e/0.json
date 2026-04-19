@@ -1,0 +1,15 @@
+{
+  "video_id": "9f53857ee1a0aa9b802ac8ca11eb218e",
+  "url": "./data/segments/3E6ctN22V7k-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.255,
+    0.425,
+    0.595
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands work on a light-colored wooden surface, manipulating a piece of white dough. In the initial sequence, the hands are positioned at the edge of the wooden board, pushing or shaping the dough. As the action progresses, the person's hands move closer to the dough, firmly pressing and smoothing it against the wood. The person is wearing light-colored clothing on their sleeves, though only the arms and hands are visible. Throughout the entire clip, a consistent piece of white text is centered at the bottom of the screen, which reads, \"The dream is all the more important when we have lost everything.\" The lighting is soft and natural, focusing on the tactile interaction between the hands, the dough, and the wooden workspace."
+}

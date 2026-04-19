@@ -1,0 +1,15 @@
+{
+  "video_id": "7c64e63271b67442193de30d88545a4b",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.237,
+    0.712,
+    1.188,
+    1.662
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white aircraft with a purple stripe along its fuselage and the word \"\u0420\u041e\u0421\u0421\u0418\u042f\" printed on its side taxis across a grassy airfield under an overcast sky. The plane features a T-tail and engines mounted on the rear of the fuselage. In the background, several helicopters are parked on the tarmac near communications towers and a red-and-white striped chimney. A red circular logo containing the white number \"13\" is visible in the upper right corner of each frame. As the scene progresses, the aircraft moves slowly from left to right across the field. The perspective shifts slightly, showing the plane's nose and landing gear as it continues its path. Small red markers are positioned on the grass in the foreground, and a few distant figures are visible near the helicopters in the background."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "eec1e011ed43ab8353ec06c0de311363",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.256,
+    0.427,
+    0.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a sports trading card featuring Paul George of the Clippers. The card has a silver and black design with a photo of the player and detailed text on the back. The person holds the card up to the camera, slightly shifting its position across the sequence. In the background, a person with a beard and dark clothing is visible sitting at a desk with equipment, including what appears to be a computer monitor and boxes of trading cards. The scene is set against a red and black branded backdrop with the logo \"JASPYS\" and the website \"CASEBREAKS.COM\" clearly visible. The text on the back of the card mentions \"GEORGE\" and lists statistics. Throughout the sequence, the hands remain the primary focus, presenting the card for a close-up view while the background activity remains relatively static."
+}

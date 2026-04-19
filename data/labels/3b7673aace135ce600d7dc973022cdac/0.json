@@ -1,0 +1,15 @@
+{
+  "video_id": "3b7673aace135ce600d7dc973022cdac",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.802,
+    5.405,
+    9.009,
+    12.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a black baseball cap and a red hooded sweatshirt, speaks directly to the camera in an outdoor parking lot. Behind him are several cars, including a white Dodge Challenger and a black Dodge Challenger. In the background, there are trees, a fence, and a red truck. As the sequence progresses, the man continues to talk, his facial expressions shifting slightly. The camera then shifts perspective, moving from a close-up of the man to a low-angle shot positioned near the wheel of a black car. This change in view reveals a row of various parked vehicles extending into the distance under a clear blue sky with a few distant palm trees. No on-screen text or logos are visible throughout the scenes."
+}

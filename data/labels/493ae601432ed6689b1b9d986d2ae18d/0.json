@@ -1,0 +1,15 @@
+{
+  "video_id": "493ae601432ed6689b1b9d986d2ae18d",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with light-colored hair wearing a black shirt is featured in a small picture-in-picture overlay in the lower-left quadrant of a screen displaying the \"LINEUP\" menu of a sports video game. The background of the game menu is dark purple with various player cards organized in a grid, accompanied by categories such as \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS.\" Numerical data is visible at the top right, including \"173,037,\" \"14,609,\" \"2,343,543,\" and \"19.\" The person in the overlay is positioned in front of a room with a decorated Christmas tree. Across the sequence, the person's facial expression shifts from a neutral gaze to a slightly open-mouthed expression of surprise or excitement. The game menu remains static throughout, featuring options like \"BEST LINEUP,\" \"HELP,\" and \"BACK\" at the bottom of the screen."
+}

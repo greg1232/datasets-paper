@@ -1,0 +1,15 @@
+{
+  "video_id": "90e07664e8006f6efabf667d2a82dc15",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-739.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.663,
+    4.989,
+    8.316,
+    11.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a green t-shirt is speaking into a professional microphone in a room that appears to be a clothing studio or shop. His t-shirt features the text \"ION NEVER DO SHIT AT WORK\" in a bold, distressed white font. In the background, several framed pictures hang on the wall, and a white mannequin wearing a white t-shirt stands near a clothing rack filled with garments. A logo that reads \"PODCAST\" is visible in the bottom left corner, while another logo with red text is in the bottom right. As the scene progresses, the man's facial expression shifts from a serious look with his eyes partially closed to an open-mouthed speaking expression, and finally to a slight smile while gesturing with his hand. The camera remains static throughout the sequence, focusing on the man from the chest up."
+}

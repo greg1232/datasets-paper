@@ -1,0 +1,15 @@
+{
+  "video_id": "1dc651ef430b114ee9caf540e786f37f",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.583
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and skin, identified by the on-screen text \"Nancy Ramya,\" is captured in a video call setting. She wears a brown and white vertically striped button-down shirt and a black headset with a microphone positioned near her mouth. She is situated indoors against a plain wall, with light-colored curtains visible to her left. As the sequence progresses, she maintains a steady gaze toward the camera, speaking with a slight smile. Her facial expressions shift subtly as she talks, and by the final frame, her right hand moves upward into the frame, gesturing near her chin. The background and her clothing remain constant throughout the clip, while the only movement is her speaking and the slight motion of her hand."
+}

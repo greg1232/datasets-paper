@@ -1,0 +1,15 @@
+{
+  "video_id": "45a232aa6961ba436b954bd674d78fb3",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-140.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.215,
+    0.644,
+    1.073,
+    1.502
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A hand holds up a gold-bordered baseball trading card featuring a player, while a man wearing a black t-shirt sits in the background. The setting is an indoor space with stacks of trading card boxes and a desk. On-screen text in the background reads \"JASPYS\" and \"CASEBREAKS.COM\". A green palm tree graphic is visible on a surface in the foreground. In the initial scenes, the hand holds the card steady, showcasing a blue signature and the name \"MARTINEZ\" at the bottom. As the sequence progresses, the hand tilts the card to show the reflective gold surface before moving it further to the right, partially obscuring the card with the thumb. The man in the background remains seated, looking toward the camera. The background environment remains consistent, with the \"JASPYS\" logo and the \"CASEBREAKS.COM\" URL appearing throughout the clip."
+}

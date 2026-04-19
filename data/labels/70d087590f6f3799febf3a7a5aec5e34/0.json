@@ -1,0 +1,15 @@
+{
+  "video_id": "70d087590f6f3799febf3a7a5aec5e34",
+  "url": "./data/segments/3a0FD1177FA-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands work on a craft project atop a white gridded cutting mat. A blue rectangular cardstock piece and several pieces of leaf-patterned paper are scattered across the surface. In the first frame, the person's left hand, wearing a ring and a white Apple Watch, holds a piece of leaf-patterned paper against the blue cardstock. In the second frame, the person uses a clear spray bottle to apply a liquid to the patterned paper. The third frame shows the person's hands repositioning a piece of patterned paper. Finally, the person uses their right hand to place a translucent blue piece of material over the blue cardstock. A logo that says \"Champagne\" is visible in the bottom left corner of the frames. The background remains constant throughout the sequence as the hands manipulate the various paper components of the project."
+}

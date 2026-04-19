@@ -1,0 +1,15 @@
+{
+  "video_id": "ea4a63fe86b6a8933abf69eccfa6281e",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-348.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game recording shows a football game featuring the Washington Commanders, with a \"COMMANDERS\" logo prominently displayed on the field. The game is in the 2nd quarter with \"0:10\" remaining on the clock. A scoreboard at the top shows a score of \"12\" and \"7\" and labels \"2-PT\" and \"EXO\". On-screen graphics include the text \"MOMENTUM LEGEND\", \"FACTOR\", and \"HOLD THE LINE\". In the lower-left corner, a webcam overlay shows a fair-skinned man with blonde hair wearing a dark blue shirt and headphones. He remains relatively still, looking toward the screen. Across the sequence, the game clock ticks down from \":23\" to \":22\" in the top banner. The football players on the field are positioned for a play, and small movement is visible among the players and the man in the webcam as the action progresses."
+}

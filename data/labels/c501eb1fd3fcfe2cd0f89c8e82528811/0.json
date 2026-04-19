@@ -1,0 +1,15 @@
+{
+  "video_id": "c501eb1fd3fcfe2cd0f89c8e82528811",
+  "url": "./data/segments/3EOkyr653jg-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.955,
+    2.865,
+    4.776,
+    6.686
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a grey suit jacket, a red button-down shirt, and a patterned grey tie stands before a blue studio background. He is speaking, and his facial expressions and lip movements shift slightly across the sequence of frames. To his right, a small inset image displays two people, a woman and a man, sitting at a table looking at documents. Below this inset image, the white text \"OFF-GRID Solar Training\" is visible. The man remains stationary in a medium shot, with his hands held low and out of view, as the camera maintains a fixed position. The lighting is consistent throughout the scene, and no other objects or movements are present in the background."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "df1a2ad4837749c6411a566193f27bd9",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-125.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.08,
+    0.24,
+    0.4,
+    0.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A fast-paced sequence of abstract, blurred visuals flashes across the screen, featuring a dark background with red and white light accents. Overlaid on the imagery is fragmented on-screen text, including the word \"POLITICS\" in large, capital letters. Various numbers such as \"14\", \"100 8\", and \"17\" appear and disappear rapidly. The imagery shifts between dark, obscured scenes and bright, overexposed flashes that vaguely resemble urban environments or crowds of people, though no individual figures or clothing details are clearly discernable. The camera movement is highly erratic, characterized by rapid zooms, motion blur, and flickering transitions that create a sense of urgency or chaos. The word \"POLITICS\" repeatedly enters and exits the frame, accompanied by shifting patterns of light and dark shadows."
+}

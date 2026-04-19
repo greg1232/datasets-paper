@@ -1,0 +1,15 @@
+{
+  "video_id": "2a325eb3aa877302ab8a6b546535aec0",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-228.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.347,
+    4.042,
+    6.736,
+    9.43
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a beard is seated in a recording studio against a background of grey, ribbed acoustic foam panels. He is wearing black over-ear headphones and a black jacket over a grey shirt. A professional studio microphone on a boom arm is positioned directly in front of him. As the sequence progresses, the man transitions from a state of contemplation with his eyes closed to an expressive gesture, raising his left hand and smiling while looking toward someone off-screen. He then shifts his gaze and expression, looking upward and then to the side with a more neutral, attentive look. The camera remains static throughout, focusing on the man's upper body and facial expressions as he interacts with an unseen presence in the studio."
+}

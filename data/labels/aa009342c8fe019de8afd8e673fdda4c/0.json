@@ -1,0 +1,15 @@
+{
+  "video_id": "aa009342c8fe019de8afd8e673fdda4c",
+  "url": "./data/segments/3P1vSUbet40-Scene-0326.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.109,
+    0.328,
+    0.547,
+    0.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a black baseball cap with a gold logo, a black t-shirt that reads \"CHECK IT!\", and headphones, is speaking into a professional studio microphone. He wears a gold chain and a gold bracelet on his right wrist. He is seated in a studio with a white background featuring the repeated words \"GRIND\" and \"HUSTLE,\" as well as several gold stars. The background also includes a logo that says \"BOSS TALK 101.\" Overlaid on the scene are logos for \"BOSS TALK 101 PODCAST\" on both the left and right sides. Throughout the sequence, the man is actively gesturing with his hands to emphasize his points, moving his right arm from an open, outward position to a more relaxed one and back again, while his facial expression remains focused as he speaks."
+}

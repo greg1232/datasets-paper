@@ -1,0 +1,15 @@
+{
+  "video_id": "6d785576a1173eee60f4cf8d026ce0f8",
+  "url": "./data/segments/3rrLMM3eyQc-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.729,
+    1.021
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light-colored short-sleeved shirt stands outdoors against a soft pink and purple twilight sky, facing right. He is positioned beside a dark object, possibly a piece of equipment or a vehicle, and appears to be interacting with someone partially visible in the shadows. The scene is overlaid with graphical elements on the left side, including the website address \"www.plustvafrica.com\" at the top. Below this, three versions of a subscription button appear: a faded \"SUBSCRIBE\" at the top, a highlighted \"SUBSCRIBED\" in the center accompanied by a bell icon and a red vertical divider, and another faded \"SUBSCRIBE\" at the bottom. As the sequence progresses, the man remains in a similar posture, though there are slight shifts in his movement and the positioning of the figure beside him. The lighting and the on-screen text remain consistent throughout the clip."
+}

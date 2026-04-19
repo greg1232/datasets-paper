@@ -1,0 +1,15 @@
+{
+  "video_id": "75fb7cd09bff4e34e00fb31148c20169",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.795,
+    2.385,
+    3.975,
+    5.565
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with a beard and a dark baseball cap is visible in a small video call window in the top right corner of a screen recording. The main part of the screen shows a dark interface with a network diagram featuring various circular nodes connected by lines. Some nodes contain images, including a red and white graphic and a white figure on a white background. Legible text within the browser tabs at the top includes \"Trust & Learning by Systemenvi,\" \"Future of Society by Systemenvi,\" \"Insights | Introduction Aumo,\" and \"Rural Community Food System.\" Other on-screen text includes \"blackboard.uul.ac.uk/truelearning\" in the address bar and \"Search\" in the left sidebar. Between the frames, the scene remains largely static, with the only movement being slight shifts in the person's expression and head position within the video call window."
+}

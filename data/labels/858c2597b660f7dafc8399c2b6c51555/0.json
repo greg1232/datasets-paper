@@ -1,0 +1,15 @@
+{
+  "video_id": "858c2597b660f7dafc8399c2b6c51555",
+  "url": "./data/segments/3i5-ZukC--g-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.538,
+    0.897,
+    1.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An advertisement for VirtualShield features a woman with red hair wearing dark-rimmed glasses and a black top. She is positioned on the right side of the screen, looking toward the left. The left side of the image contains a dark gray background with white and red text. The top displays the \"VirtualShield\" logo and the bold phrases \"Stay Home, Stay Protected.\" and \"Extra 50% OFF\". Below this, a paragraph of smaller white text discusses the current economic trends and the importance of staying safe online. A large white price tag reads \"$2.50 /month\". At the bottom, a red button says \"Start Now for FREE\", followed by the instruction, \"Click the button above to claim your 10% discount!\". Across the sequence of frames, the visual elements, including the woman's pose, the text, and the layout, remain completely static."
+}

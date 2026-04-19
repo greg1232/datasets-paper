@@ -1,0 +1,15 @@
+{
+  "video_id": "af427ed1e3c585f367af310c596ae72a",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.625,
+    1.875,
+    3.125,
+    4.375
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man and woman in dark suits walk along a paved path through a grassy field near a body of water. In the early part of the sequence, the man leads the way, followed by the woman. As they move, the man turns back toward the woman and extends his hand to her. She takes his hand, and they share a brief moment of interaction before continuing their walk. The man is wearing a dark suit jacket and trousers with a white shirt, while the woman is dressed in a dark suit jacket and trousers with a white blouse. Each frame features the text \"Hero Ukraine\" centered over the grassy field and a red and white \"13\" logo in the upper right corner. The background shows a flat horizon with a distant structure on the water under an overcast sky."
+}

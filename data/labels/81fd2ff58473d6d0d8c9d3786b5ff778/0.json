@@ -1,0 +1,15 @@
+{
+  "video_id": "81fd2ff58473d6d0d8c9d3786b5ff778",
+  "url": "./data/segments/3P1vSUbet40-Scene-0225.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt with the text \"CHECK IT!\" and a black baseball cap sits in a recording studio. He has headphones over his ears and a professional microphone positioned in front of him. To his right, a logo reads \"BOSS TALK 101\". The background features a white wall with the words \"GRIND\" and \"HUSTLE\" separated by a row of stars. In the bottom left corner, a graphic identifies the show as \"STUDIO PODCAST\". Throughout the sequence, the man remains in a seated position, looking slightly to his left. He makes subtle movements with his head and facial expressions while maintaining his posture. The lighting is bright and consistent, and the composition of the scene remains static as the man engages in a conversation."
+}

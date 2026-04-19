@@ -1,0 +1,15 @@
+{
+  "video_id": "4e8a849dc7b7294921b7c29e465568e6",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-088.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.446,
+    1.339,
+    2.231,
+    3.124
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A promotional scene features a collection of insulated drinkware from the brand MiiR set against a solid teal background. A black and a white bottle stand tall on a black platform, accompanied by two small tumblers\u2014one black and one white\u2014resting on the same surface. To the right of the products, white text displays the brand name \"MiiR\" above the words \"WINE LINE\" in large, bold capital letters. Below a horizontal line, smaller text specifies the product sizes: \"750 ml Bottle\" and \"10 oz Tumbler\". The scene remains static across all frames, with no people present and no movement or change in the positioning of the objects or the on-screen text."
+}

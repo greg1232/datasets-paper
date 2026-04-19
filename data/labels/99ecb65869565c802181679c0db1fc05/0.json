@@ -1,0 +1,15 @@
+{
+  "video_id": "99ecb65869565c802181679c0db1fc05",
+  "url": "./data/segments/3cfugv0xNbU-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.346,
+    1.039,
+    1.731,
+    2.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Captured through night-vision optics, the video shows military personnel on a dark airfield. In the initial scenes, a group of soldiers in full gear is seen in the distance, surrounding a piece of equipment near a brightly lit area beneath the wing of an aircraft. The scene then shifts to a closer perspective, focusing on two soldiers in camouflage uniforms, helmets, and tactical vests. One soldier stands prominently in the foreground, facing away from the camera, while another stands beside them. Both are equipped with tactical gear, and the soldier in the foreground has a small light attached to their helmet. A small, blue polygonal logo is visible in the lower right corner of each frame. As the sequence progresses, the perspective moves from a wide shot of the group to a closer, more detailed view of the individual soldiers on the tarmac."
+}

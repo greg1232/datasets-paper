@@ -1,0 +1,15 @@
+{
+  "video_id": "c6a825f884a3425ef81e011b58ed0346",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.479,
+    0.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large, formal ballroom featuring recessed ceiling lighting and a large crystal chandelier, several men walk across a blue carpeted area. In the background, numerous guests are seated at tables with red cloths, observing the activity. One man wears a white traditional tunic and trousers, while another wears a blue garment and a third wears dark clothing. As the sequence progresses, the men move from left to right across the foreground. The man in white maintains a steady pace, while the man in blue follows closely behind him. The background remains static, with the seated audience watching the men pass by. There is no visible on-screen text or logos. The lighting is bright and warm, reflecting off the polished surfaces of the room."
+}

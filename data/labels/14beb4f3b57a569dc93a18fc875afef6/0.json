@@ -1,0 +1,15 @@
+{
+  "video_id": "14beb4f3b57a569dc93a18fc875afef6",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-099.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.521,
+    4.563,
+    7.604,
+    10.646
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen from a first-person perspective interacting with a stack of white boxes on a table decorated with a tropical palm tree pattern. In the early frames, the person's hands are seen lifting a yellow rectangular object from the top of the stack. A small inset window shows a man wearing a blue t-shirt and headphones sitting in a room. The on-screen branding \"JASPYS LIVE\" and the website \"CASEBREAKS.COM\" are prominently displayed in red and white text. As the sequence progresses, the person lifts the yellow object to reveal a sports trading card featuring a player in a white and red uniform with a signature on the surface. The background includes various collectibles and equipment, such as a black electronic device on the table. The scene shifts from the act of uncovering the item to displaying the individual card toward the camera."
+}

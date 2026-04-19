@@ -1,0 +1,15 @@
+{
+  "video_id": "0b136ad7816df6000004ab7a656ed3bf",
+  "url": "./data/segments/3P1vSUbet40-Scene-0414.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.141,
+    0.422,
+    0.704,
+    0.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with distinctive silver-colored dreadlocks, glasses, and over-ear headphones is speaking into a professional black microphone in an indoor studio setting. He is wearing a white button-down shirt paired with tan suspenders and a reddish-brown bow tie. In the background, a wall features a framed logo depicting a shield and a sign that reads \"UNIQUE FASHIONS\". Two logos appear on screen: a circular emblem on the left containing the text \"PODCAST\" and a red text logo on the right that reads \"BE TALK 101\". The scene remains largely static across the sequence, with only subtle changes in the man's facial expressions and mouth movements as he continues to speak into the microphone."
+}

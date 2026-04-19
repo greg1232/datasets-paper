@@ -1,0 +1,15 @@
+{
+  "video_id": "a1e76cb78025b5b0abeaffc68e58d9e8",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.687,
+    1.146,
+    1.604
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blonde hair wearing a dark blue shirt is shown in a small inset window in the bottom-left corner of each frame, while the main view focuses on a large metal bowl filled with popped popcorn. Some of the popcorn is white, and some is tinted blue or green. A hand enters the frame from the top and stirs the popcorn, moving it around the bowl. The logo \"UCAR CENTER FOR SCIENCE EDUCATION\" appears in the top-left corner of each scene against a backdrop of blue sky and white clouds. As the sequence progresses, the hand continues to mix the colored popcorn, shifting the distribution of the white and blue-green kernels throughout the bowl. The woman in the inset window remains visible and stationary, observing the process as the mixing occurs."
+}

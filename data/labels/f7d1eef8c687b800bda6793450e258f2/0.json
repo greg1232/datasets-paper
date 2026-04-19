@@ -1,0 +1,15 @@
+{
+  "video_id": "f7d1eef8c687b800bda6793450e258f2",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-220.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.751,
+    1.051
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and tattoos on his arms, wearing a white t-shirt and over-ear headphones, is seated in a studio with dark, vertically ribbed acoustic foam walls. He is positioned in front of a professional microphone mounted on a boom arm, which bears the text \"Rode Procaster\". Across the sequence, the man gestures with his right hand, moving it in a sweeping motion across the upper part of the frame. He starts with his hand high and blurred from motion, then brings it across his forehead, and finally moves it further to the right side of his head, squinting his eyes slightly as he does so. The background and equipment remain static throughout the action, focusing the scene on the man's facial expressions and hand movements."
+}

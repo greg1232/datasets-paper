@@ -1,0 +1,15 @@
+{
+  "video_id": "2d34242d9d33cd5d8b3dd2412284117b",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-153.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.171,
+    0.513,
+    0.855,
+    1.197
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with grey hair and glasses speaks into a black microphone in a room with wooden blinds in the background. He wears a light-blue patterned button-down shirt and a long string of brown prayer beads around his neck. As the sequence progresses, the man remains in a stationary close-up shot, though his facial expressions shift slightly as he speaks, with his mouth opening and closing. The microphone stays positioned in front of him throughout the scene. The text \"ORCA\" is visible in white capital letters on the right side of the image. The overall scene is consistent, with no changes in location, clothing, or equipment, capturing only the subtle movements of the man's face as he talks."
+}

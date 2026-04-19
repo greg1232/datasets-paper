@@ -1,0 +1,15 @@
+{
+  "video_id": "7a8ac178ef0c15565659aa2ff5c6ccb5",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-124.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.238,
+    0.713,
+    1.189,
+    1.664
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a plain indoor setting, a woman and a man wearing light blue surgical masks are seated across from each other. The woman, with blonde hair tied back and wearing a black top, faces the man, who is dressed in blue scrubs. A white document rests on the surface between them. The man is seated in a chair with his legs crossed. On-screen graphics include a purple circular logo with a silhouette of a person and the text \"Day 5\" on the left, and the text \"Sim Week\" next to a small logo on the right. As the sequence progresses, the woman shifts her posture, leaning slightly further forward while maintaining her position. The man remains relatively still in his seat, though there are subtle shifts in his gaze and facial expression behind the mask. The lighting remains consistent across the scene."
+}

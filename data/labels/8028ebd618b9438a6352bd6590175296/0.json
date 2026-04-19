@@ -1,0 +1,15 @@
+{
+  "video_id": "8028ebd618b9438a6352bd6590175296",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.463,
+    0.772,
+    1.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with long dark hair and glasses performs music in an indoor setting with light-brown slatted walls. He wears a white long-sleeved shirt under a black embroidered vest with red and white decorative patterns on the chest. He stands behind a microphone on a stand, playing a light-colored acoustic guitar. Several people are visible in the foreground, seen from behind, with their heads partially obscuring the bottom of the frame. The white text \"ORCA\" appears on the right side of the scene. Across the sequence, the man remains in a similar position, slightly bowing his head as he plays his instrument, with very subtle movements in his posture and facial expression. The composition of the scene, including the placement of the people and the equipment, remains constant."
+}

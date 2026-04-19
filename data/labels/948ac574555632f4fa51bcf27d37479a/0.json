@@ -1,0 +1,15 @@
+{
+  "video_id": "948ac574555632f4fa51bcf27d37479a",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-393.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.781,
+    1.094
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played on a bright green field inside a large stadium with spectators in the stands. Players wearing white jerseys and white pants face off against players in black jerseys and black pants. A large red and yellow logo is painted on the grass. A player in white, identified by the on-screen text \"Chubb\" and a green \"X\" marker, carries the ball as the play unfolds. In the beginning, the offensive line in white pushes against the black defensive line, creating a gap. As the scene progresses, the player marked \"Chubb\" breaks through the line of scrimmage and runs toward the left side of the field, dodging several defenders in black. The camera follows the action, showing the player in white gaining yardage while other players scramble to tackle him. The marker \"Chubb\" remains visible on the screen throughout the sequence."
+}

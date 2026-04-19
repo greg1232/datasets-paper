@@ -1,0 +1,15 @@
+{
+  "video_id": "727c631d9902ba8bab4a99726fa2d6b4",
+  "url": "./data/segments/3jaAcpqJEbg-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    33.521,
+    100.563,
+    167.604,
+    234.646
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a dark suit and blue shirt stands at a podium, delivering a presentation in a dimly lit room. Behind him, a large screen displays a slide titled \"Context\" against a blue header. The slide contains the text \"Distributed systems produce different types of data,\" followed by three colored circles labeled \"LOGS\" in orange, \"METRICS\" in blue, and \"EVENTS\" in teal. Below these circles, the slide states, \"Each type of data has unique (aggregation / processing / freshness) characteristics.\" The \"exotel\" logo is visible in the bottom left corner of the screen, and the \"hasgeek\" logo appears on the side banners. As the sequence progresses, the man remains at the podium, adjusting his posture slightly while speaking. The visual content of the presentation slide remains static throughout the duration of the clip."
+}

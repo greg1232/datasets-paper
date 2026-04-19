@@ -1,0 +1,15 @@
+{
+  "video_id": "d8dde9330f6bbab1e01195ec6de154b3",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of frames displays the evolution of a logo animation against a neutral gray and white background. A red circular emblem containing a stylized white number \"13\" and the vertical word \"kanal\" appears in the center. Initially, the logo is set against a solid gray background. As the sequence progresses, the background transitions to white, and the red fill of the circle disappears, leaving only a red outline. Below the emblem, the text \"Kanal13AZ\" fades into view. In the final stages, a small red YouTube-style button appears beneath the text, featuring a white play icon and the phrase \"abuna ol\". The final frame returns to a gray background while retaining the outlined logo, the text \"Kanal13AZ\", and the \"abuna ol\" subscription button."
+}

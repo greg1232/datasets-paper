@@ -1,0 +1,15 @@
+{
+  "video_id": "0323beccf956cf64681c068407322065",
+  "url": "./data/segments/3iUTkJy84EY-Scene-256.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short dark hair and glasses is speaking against a plain, dark grey background. She is wearing a light green, long-sleeved top with floral embroidery along the neckline and a dark necklace. A small clip-on microphone is attached to the front of her garment. Throughout the sequence, her facial expressions and mouth movements change as she speaks, transitioning from a closed-mouth expression to a smile and then back to speaking. In the bottom left corner of each shot, there is a small logo featuring a golden emblem and the text \"NPTEL\". The camera remains in a static medium shot, focusing on her from the waist up, with no other people or objects visible in the scene."
+}

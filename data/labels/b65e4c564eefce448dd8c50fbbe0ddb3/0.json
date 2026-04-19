@@ -1,0 +1,15 @@
+{
+  "video_id": "b65e4c564eefce448dd8c50fbbe0ddb3",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.254,
+    0.763,
+    1.272,
+    1.781
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing blue medical scrubs, a patterned surgical cap, and a light-colored face mask stands in a room, leaning over a wooden table. The room has neutral-colored walls with a white board and a doorway leading to another area where a blue drape covers a bed or table. On the wooden table, there is a green rectangular mat and a small electronic device. The person rests their left hand on the green mat while leaning forward. Pink silhouettes of a person and on-screen text overlays are visible in each frame; the text reads \"Day 1\" on the left and \"Sim Week\" on the right. Throughout the sequence, the person remains in a mostly static leaning position, with only slight movements in their posture and hand placement as they maintain contact with the table."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e218f255354c5e1a93f5e0f44a48b1f9",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-144.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows an aerial perspective of a cityscape featuring a mix of high-rise buildings and lower-density commercial structures interspersed with green trees. In the foreground, a large white multi-story building stands near a road where several cars are parked along the curb. The skyline in the distance contains various architectural styles, with some taller skyscrapers punctuating the horizon under a cloudy sky. The text \"TIGER REAL ESTATE\" is visible as a watermark in the lower right portion of the scene. Across the sequence, the camera slowly pans or shifts slightly to the left, causing the buildings and landscape to glide subtly across the frame. No people are clearly visible due to the high altitude of the shot, and the general lighting remains consistent throughout the clip."
+}

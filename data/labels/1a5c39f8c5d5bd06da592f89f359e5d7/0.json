@@ -1,0 +1,15 @@
+{
+  "video_id": "1a5c39f8c5d5bd06da592f89f359e5d7",
+  "url": "./data/segments/3l84m5pRmyk-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.184,
+    0.551,
+    0.918,
+    1.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static shot depicts four identical gold-colored plaques mounted on a textured, reddish-brown stone wall. Each rectangular plaque features the text \"THE Fairmont SAN JOSE,\" with \"Fairmont\" written in a large, elegant cursive script and \"THE\" and \"SAN JOSE\" appearing in a simpler, sans-serif capital font. The plaques are arranged in two rows and two columns, reflecting the surrounding environment on their polished surfaces. Throughout the sequence, there is no visible movement, no people present, and no change in the scene's composition. The lighting remains consistent across all frames, highlighting the metallic sheen of the signs and the grainy texture of the granite-like wall behind them."
+}

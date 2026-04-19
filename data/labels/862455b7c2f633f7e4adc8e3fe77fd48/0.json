@@ -1,0 +1,15 @@
+{
+  "video_id": "862455b7c2f633f7e4adc8e3fe77fd48",
+  "url": "./data/segments/3E6ctN22V7k-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.615,
+    1.845,
+    3.075,
+    4.305
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a classroom setting, a boy wearing a blue hooded jacket and dark trousers interacts with a desk-mounted globe. He stands beside the globe, leaning over to spin it with his hand. Behind him is a dark chalkboard featuring handwritten French text that reads \"LES RIVI\u00c8RES\" and \"les grands fleuves.\" To his left and right are wooden school desks. Across all frames, white on-screen text appears at the bottom, stating, \"We do not have access to educational resources.\" As the sequence progresses, the boy continues to rotate the globe, shifting his hand position slightly to keep it spinning while maintaining his leaning posture. The lighting is soft and natural, and the overall environment suggests a modest educational facility."
+}

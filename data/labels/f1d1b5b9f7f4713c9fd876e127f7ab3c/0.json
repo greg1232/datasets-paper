@@ -1,0 +1,15 @@
+{
+  "video_id": "f1d1b5b9f7f4713c9fd876e127f7ab3c",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-184.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.367,
+    1.101,
+    1.835,
+    2.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and a beard is seated in a recording studio, positioned in front of a professional microphone and wearing large black over-ear headphones. He is dressed in a dark black garment over a grey shirt. Behind him is a wall covered in dark grey, rectangular acoustic foam panels with a ribbed texture. A microphone boom arm is visible, extending from the left side of the frame to hold the microphone directly in front of the man's mouth. Throughout the sequence, the man remains in a static position, looking slightly upward and to his left with a focused expression. There are no visible logos or on-screen text. There is virtually no movement between the frames, as the man maintains the same pose and facial expression across the entire clip."
+}

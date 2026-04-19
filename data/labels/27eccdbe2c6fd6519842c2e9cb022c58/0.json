@@ -1,0 +1,15 @@
+{
+  "video_id": "27eccdbe2c6fd6519842c2e9cb022c58",
+  "url": "./data/segments/3i5-ZukC--g-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.601,
+    1.001,
+    1.401
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A futuristic, dark digital space is filled with glowing red light, floating data fragments, and intersecting laser-like beams. Initially, a bright white light bursts at the center of the screen, sending red energy streaks outward across a field of faint, rectangular data blocks. As the scene progresses, the light converges into a small, dark silhouette. This silhouette rapidly expands and transforms into a detailed image of a person wearing a white headband and a white patterned garment. The figure is surrounded by a swirling ring of glowing white hexagonal tiles and red digital particles. Small, illegible strings of code and data characters float in the background throughout the sequence. The visual transitions from a wide, abstract explosion of red light to a focused, stylized portrait of a person framed by geometric digital elements."
+}

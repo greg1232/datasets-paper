@@ -1,0 +1,15 @@
+{
+  "video_id": "cd203fa87b9a50100a2217a4abc876af",
+  "url": "./data/segments/3HgCF6yVXko-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.271,
+    0.813,
+    1.354,
+    1.896
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A camera moves through a home's interior, transitioning from a hallway into a room. The walls are painted a pale yellow, and the floor is composed of light-colored tiles. To the right, a wooden door opens, revealing a glimpse of a staircase with a decorative black wrought-iron railing. Ahead, an open doorway leads into a bedroom where a light-colored armchair and a bed with red-and-white patterned bedding are visible. A window with light-colored curtains allows bright light to enter the room. As the camera advances, the perspective shifts, moving closer to the bedroom entrance and providing a clearer view of the railing and the room beyond. No people are present in the scene, and there is no visible on-screen text or logos."
+}

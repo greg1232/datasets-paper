@@ -1,0 +1,15 @@
+{
+  "video_id": "b72536b0abcc62c0f5422cb8bf750949",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-271.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    15.086,
+    45.258,
+    75.43,
+    105.601
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands at a podium in a room with light-brown slatted wooden walls, speaking into a microphone. He wears glasses, a white shirt, and a dark vest with ornate white embroidery and red accents. In the foreground, several people are seated with their backs to the camera, including women with blonde and brown hair and a person wearing a purple garment. The text \"ORCA\" is visible on the right side of the screen. As the sequence progresses, the man remains at the podium, though his head and gaze shift slightly as he speaks. The seated audience remains relatively still, and the overall setting and composition of the scene remain consistent across the frames."
+}

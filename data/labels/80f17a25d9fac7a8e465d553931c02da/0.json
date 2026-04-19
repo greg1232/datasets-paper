@@ -1,0 +1,15 @@
+{
+  "video_id": "80f17a25d9fac7a8e465d553931c02da",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.702,
+    5.105,
+    8.508,
+    11.912
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short brown hair, wearing a black blazer over a white t-shirt, stands before a projected presentation in a room with neutral-toned walls. She holds a folder or tablet and gestures with her hands as she speaks to a person sitting in front of her, who is seen from behind wearing a tan jacket and a green beanie. A black chair sits empty to the right. The projection displays a slide titled \"Me & My Shadow\" featuring an illustration of a person and a large, brown, creature-like shadow. Legible text on the slide includes \"TRACE MY SHADOW\", \"SHADOW TRACKERS\", \"LOST IN SMALL PRINT\", and \"EXPLORE\". As the sequence progresses, the woman shifts her posture and hand gestures, moving her arm to emphasize her points while the seated observer remains still."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "46c4bf5daad07bdb8b48bc5f734c6633",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.717,
+    38.151,
+    63.584,
+    89.018
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white shirt, dark vest, and glasses stands at a podium, speaking to a seated audience in a room with brown blinds and dark wood paneling. Several people are seated in blue chairs facing him, including a woman in a blue and white striped shirt, another in a yellow top, and a man in a plaid shirt. A woman in a red garment is seated near the speaker. The scene remains largely static across the sequence, with the speaker and audience members maintaining their positions. A white rectangular overlay in the lower right of the frame contains the text \"ORCA\". A small white sign is visible on the left wall, and a red sign is on the right wall. The lighting is consistent, and the camera angle remains fixed throughout the clip."
+}

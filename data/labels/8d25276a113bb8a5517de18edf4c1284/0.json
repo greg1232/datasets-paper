@@ -1,0 +1,15 @@
+{
+  "video_id": "8d25276a113bb8a5517de18edf4c1284",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.526,
+    0.876,
+    1.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey baseball cap with a logo, and large black headphones sits in a recording studio with grey acoustic foam panels in the background. He is positioned behind a professional microphone mounted on a shock mount. In the first frame, the man gives a thumbs-up gesture with his right hand. In the second frame, he transitions to pointing forward with his index finger toward the camera. By the third frame, he maintains the pointing gesture, shifting his posture slightly. In the final frame, his arm moves downward and out of focus as he begins to speak into the microphone. A small black cable attached to the microphone equipment features the white text \"Mwave Electro-Voice\". The scene remains static in its setting, focusing entirely on the man's gestures and facial expressions as he interacts with an unseen audience."
+}

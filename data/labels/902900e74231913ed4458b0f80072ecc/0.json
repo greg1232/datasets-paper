@@ -1,0 +1,15 @@
+{
+  "video_id": "902900e74231913ed4458b0f80072ecc",
+  "url": "./data/segments/3Kxl1O310k8-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.845,
+    38.535,
+    64.225,
+    89.915
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of video conference screens displays various participants in different locations. One man wears a plaid shirt and glasses, appearing in multiple panels throughout the sequence. Another man in a light blue button-down shirt is positioned in front of a red brick building with a steeple. A woman with blonde hair is seen in several panels, and another woman wears a black headset and glasses. Some participants wear dark shirts or jackets, and several wear eyeglasses. In the lower sections of the display, small timestamps are visible, including \"2021-11-22 08:30:15\" and \"2021-11-22 08:30:20\". The layout of the participants remains consistent, but their expressions and slight movements change across the frames. Some participants remain still, while others shift their gaze or adjust their posture as the video progresses."
+}

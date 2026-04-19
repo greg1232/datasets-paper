@@ -1,0 +1,15 @@
+{
+  "video_id": "4781aea2aa08cc6c786d02dfffb30fc9",
+  "url": "./data/segments/3cfugv0xNbU-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.409,
+    1.226,
+    2.044,
+    2.861
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Viewed through a green-tinted night vision lens, the scene shows a white ambulance parked on a dark road in front of a large industrial building with visible stairs. The ambulance has bright lights flashing on its roof, casting a glow around the vehicle. The word \"AMBULANCE\" is written in reverse across the front of the vehicle. A person is visible inside the ambulance, though their specific features and clothing are obscured. As the sequence progresses, the ambulance remains stationary, while the night vision perspective shifts slightly. The lighting from the ambulance flashes creates rhythmic pulses of brightness across the asphalt and the nearby building wall. Small, blue polygonal icons are visible at the bottom of the circular night vision viewports."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1708e3f9affe3f563dcf8cbd9dfc954f",
+  "url": "./data/segments/3cfugv0xNbU-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.459,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two military personnel in camouflage uniforms and black face masks stand in an indoor setting with neutral-colored walls. A person on the left stands still with their hands clasped in front of them. To their right, another person stands holding a black rifle equipped with various attachments and a radio antenna. This individual is wearing black tactical gloves and has a small white object tucked into a pocket or pouch on their side. A blue hexagonal logo is visible in the foreground on the right side of the scene. As the sequence progresses, the person on the right shifts their gaze slightly, looking towards the left of the frame. The overall lighting is dim, and the background contains a vertical metallic fixture. The personnel remain in their positions throughout the clip with minimal movement."
+}

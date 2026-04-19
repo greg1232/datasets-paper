@@ -1,0 +1,15 @@
+{
+  "video_id": "988b9cc87617cf7bc75a69d4bafb305a",
+  "url": "./data/segments/3E6ctN22V7k-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.205,
+    0.615,
+    1.025,
+    1.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large group of people, consisting of adults and many children, are gathered outdoors in a rural setting with sparse trees and simple structures in the background. The people are dressed in colorful attire, including bright red, pink, and green shirts, with several women wearing headwraps. A woman in a green dress stands prominently in the foreground, smiling. The children are interspersed throughout the crowd, some laughing and others looking toward the camera. Across the sequence, the group remains stationary and the scene stays consistent, with minimal movement among the individuals. The people maintain their positions, continuing to smile and interact slightly with one another while facing forward. There are no visible objects, equipment, on-screen text, or logos present in the frames."
+}

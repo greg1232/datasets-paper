@@ -1,0 +1,15 @@
+{
+  "video_id": "23b8f0fc3ee18602ed814a4dead8eb22",
+  "url": "./data/segments/3fokLGPK15Q-Scene-084.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.47,
+    4.41,
+    7.35,
+    10.29
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair is speaking on a stage against a dark background illuminated by purple stage lighting. He is wearing a light blue button-down shirt under a grey blazer and has a thin beige headset microphone positioned near his mouth. Throughout the sequence, he is actively gesturing and speaking. Initially, he has his hands raised and fingers spread as he speaks with an open expression. As the scene progresses, he lowers his hands and shifts his gaze slightly, continuing to speak with a more composed facial expression. His posture remains relatively consistent, seated or standing in a centered position, while his facial expressions and hand movements evolve to emphasize his speech. There is no visible on-screen text, logos, or other people present in the frames."
+}

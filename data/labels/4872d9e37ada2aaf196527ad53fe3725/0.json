@@ -1,0 +1,15 @@
+{
+  "video_id": "4872d9e37ada2aaf196527ad53fe3725",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.758
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown unboxing graphics cards on a desk with a red and black surface featuring the \"JASPYS\" logo and the URL \"CASEBREAKS.COM\". In the background, a small inset video window shows a man with a beard wearing a black shirt sitting in a room with computer equipment. The main action focuses on a stack of black boxes labeled \"OBSIDIAN\" and \"NVIDIA\". In the initial sequence, a hand moves a graphics card box across the frame. As the sequence progresses, the hand lifts a box, revealing more boxes beneath it. The boxes feature green accents and the text \"OBSIDIAN\" prominently. The setting remains consistent throughout the clip, with the focus shifting from the movement of the boxes to a closer view of the \"NVIDIA\" and \"OBSIDIAN\" branding as the boxes are manipulated by the person's hands."
+}

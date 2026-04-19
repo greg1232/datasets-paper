@@ -1,0 +1,15 @@
+{
+  "video_id": "57da132c213253074122cc8dd61962c8",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-149.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.463,
+    0.772,
+    1.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide aerial shot captures a coastal city skyline under a cloudy sky. In the distance, a body of water meets the horizon beneath large, white clouds. The city below consists of various low-to-mid-rise buildings, with a few taller structures and a prominent clock tower visible. Centered in the upper half of the view, the text \"TIGER REAL ESTATE LLC\" is displayed in a serif font. A thin gold horizontal line underlines the text. No people are visible in the scene. Throughout the sequence, the camera remains stationary, and there is no movement among the buildings or clouds, making the visual content consistent across the frames."
+}

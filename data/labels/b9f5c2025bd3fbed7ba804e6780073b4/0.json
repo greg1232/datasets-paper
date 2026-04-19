@@ -1,0 +1,15 @@
+{
+  "video_id": "b9f5c2025bd3fbed7ba804e6780073b4",
+  "url": "./data/segments/3mmDnftP1M8-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.12,
+    15.359,
+    25.599,
+    35.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grayscale video features a woman with long, dark hair smiling while looking toward the camera. She is positioned within a circular frame set against a solid black background. She wears a dark-colored top. The text \"Jeffina Augustin\" appears in a small, white font on the black background to the left and center of the circular portrait. Across the sequence, the woman remains in a consistent pose, maintaining her smile and head tilt, resulting in very little visible movement. The lighting remains steady, highlighting her facial features against the dark backdrop. The overall scene is a static, minimalist presentation of a portrait and a name."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f5ac3b3be3e09b811ed211ce5232531d",
+  "url": "./data/segments/3Z229_lKLpk-Scene-150.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.82,
+    2.46,
+    4.1,
+    5.74
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with white hair and a white beard, wearing glasses, a tan long-sleeved shirt, and a white sleeveless vest, stands behind a dark brown podium. He is speaking and gesturing with his hands. Two microphones are attached to the podium, pointing toward him. He is positioned in front of a textured green wall with a geometric, block-like pattern. To his right, a tall, gold-colored cylindrical column contains floral decorations. Over the sequence of frames, the man's facial expressions shift as he speaks, and he moves his arms from his sides to an open, gesturing position with both hands raised. The background and his attire remain constant throughout the clip."
+}

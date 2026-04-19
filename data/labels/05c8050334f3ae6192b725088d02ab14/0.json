@@ -1,0 +1,15 @@
+{
+  "video_id": "05c8050334f3ae6192b725088d02ab14",
+  "url": "./data/segments/3P1vSUbet40-Scene-0545.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard wearing a navy blue baseball cap, a black t-shirt with \"CHECK IT\" written on the chest, and a gold chain speaks into a professional studio microphone. He is wearing over-ear headphones and is positioned in a recording studio setting. Behind him is a light-colored wall featuring a vertical column of gold stars and the repeated phrase \"GRIND HUSTLE.\" To his right, a dark background displays the text \"BOSS TALK 101\" and a \"BOSS\" logo. Several on-screen graphics are present, including a logo for \"THE STUDIO PODCAST\" on the left and \"BOSS TALK 101\" on the right. Throughout the sequence, the man remains in a fixed position, speaking toward the microphone with slight changes in his facial expression and head posture as he talks."
+}

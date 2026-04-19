@@ -1,0 +1,15 @@
+{
+  "video_id": "06dc9237d35f8e5dc63a455d99c80043",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-165.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.106,
+    0.319,
+    0.531,
+    0.744
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a collectible card encased in a gold-bordered protector over a table featuring a colorful palm tree design. In the background, a man with a beard wearing a dark blue t-shirt is visible in a small inset video window, sitting in front of a computer monitor and equipment. The background setting includes a white tiered stand and a black electronic device. The text \"JASPYS\" and \"CASEBREAKS.COM\" appears as a logo overlay in the upper portion of the scene, while \"JASPYS Sports Cards & Collectibles\" is written near the inset video. Throughout the sequence, the hands manipulate the card, tilting it and sliding it partially out of its protective sleeve. The man in the inset window remains seated, observing the process as the card is showcased for the viewers."
+}

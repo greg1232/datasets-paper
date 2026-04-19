@@ -1,0 +1,15 @@
+{
+  "video_id": "f373128822d01f434dffb15dab8199f6",
+  "url": "./data/segments/3dN_F08u-KE-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.165,
+    0.495,
+    0.825,
+    1.155
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grayscale thermal imaging video captures a distant, hazy landscape where a bright, towering structure or plume of smoke rises into the sky. In the top-left corner of the frames, a trident symbol appears next to the Ukrainian text \"\u0413\u041e\u041b\u041e\u0412\u041d\u0415 \u0423\u041f\u0420\u0410\u0412\u041b\u0406\u041d\u041d\u042f \u0420\u041e\u0417\u0412\u0406\u0414\u041a\u0418\". Red and white logos featuring the number \"13\" are visible in the top centers and right corners, while a circular \"GROUP 13\" emblem is positioned in the bottom right. A small crosshair is centered in the upper frames. As the video progresses, the image quality degrades significantly; the sharp contours of the bright structure blur, and heavy digital pixelation and blocky artifacts sweep across the screen from left to right, eventually obscuring much of the horizon and the distant target. No people or clothing are visible in the footage."
+}

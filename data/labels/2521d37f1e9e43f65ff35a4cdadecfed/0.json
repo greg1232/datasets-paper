@@ -1,0 +1,15 @@
+{
+  "video_id": "2521d37f1e9e43f65ff35a4cdadecfed",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.294,
+    0.881,
+    1.469,
+    2.056
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light brown hair is visible in a small picture-in-picture window in the bottom left of a screen displaying a sports video game interface. The game screen features several colorful player cards with labels such as \"LG 1\", \"C1\", \"RG 1\", \"RT 1\", and \"TE 1\". Legible names on these cards include \"SAFFORD III\", \"KELCE\", \"ALLEN\", \"BECTON\", and \"HGBEE\". Menu options across the top include \"SPECIALISTS\", \"STRATEGY\", and \"VISUALS\". In the first frame, the man looks forward. In the second, he continues to look forward as the game interface remains static. By the third and fourth frames, the man's facial expression changes slightly, and a new player card depicting a football player in a black jersey appears in the \"LG 2\" position. The top of the screen displays numeric values, including \"17,307\" and \"14,600\"."
+}

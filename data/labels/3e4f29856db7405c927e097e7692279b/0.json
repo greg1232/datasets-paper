@@ -1,0 +1,15 @@
+{
+  "video_id": "3e4f29856db7405c927e097e7692279b",
+  "url": "./data/segments/3P1vSUbet40-Scene-0611.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.782,
+    1.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a navy blue baseball cap, over-ear headphones, and a black t-shirt with the words \"CHECK IT\" visible on the chest is seated in a studio setting. He is positioned in front of a professional microphone and appears to be laughing or speaking with an animated expression. The background features a white wall with a vertical row of gold stars and the words \"HUSTLE\" repeated. To the right, a screen displays the text \"BOSS TALK 101.\" Overlaid on the scene are logos that read \"BOSS TALK 101 PODCAST.\" Across the sequence of frames, the man remains in the same position, with subtle shifts in his facial expression and head posture as he continues to smile and talk into the microphone. The lighting remains consistent throughout the scene."
+}

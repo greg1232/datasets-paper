@@ -1,0 +1,15 @@
+{
+  "video_id": "d079dc9ae0699f81a5c115c63610bffd",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-144.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.267,
+    0.801,
+    1.335,
+    1.869
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A surgical setting features a medical professional wearing blue scrubs, a surgical cap, and a face mask. The individual is positioned on the right side of the scene, focusing on a medical procedure involving a patient's head, while another person in scrubs is partially visible on the left. A list of \"Course content creators, course directors\" is displayed as on-screen text, including names such as \"Laura Buchanan, MD\" and \"David Gens, MD,\" along with their corresponding years of involvement. The text also identifies \"Cheralyn Hendrix, MD\" as the \"Course Instructor\" and \"Wendy Hackshaw\" as \"Administrative support.\" A QR code is visible in the lower center of the frame. As the video progresses, the camera angle remains steady, and the medical professional continues their task. In the final frame, additional text appears at the bottom, stating, \"Special thanks to University of Maryland School of Medicine Surgical Bootcamp.\""
+}

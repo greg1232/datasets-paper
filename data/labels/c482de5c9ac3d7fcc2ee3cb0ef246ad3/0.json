@@ -1,0 +1,15 @@
+{
+  "video_id": "c482de5c9ac3d7fcc2ee3cb0ef246ad3",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.721,
+    2.163,
+    3.604,
+    5.046
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a trading platform interface for EURGBP, featuring a candlestick price chart and various technical indicators. The \"TICKMILL\" logo appears in the top left corner of each frame, accompanied by German text: \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN.\" The interface lists features such as \"Tight Spreads ab 0.1 Pips\" and provides a website address, \"www.tickmill.com/de/\". In the bottom left corner, a small video inset shows a man with short hair looking toward the screen. As the sequence progresses, a large green rectangular highlight appears over a specific section of the price chart, moving from the center toward the right. The chart displays the ticker \"EURGBP (M5)\" and \"EURGBP\" across the background, while various numerical price levels are visible along the right axis. The man in the inset remains visible throughout the clip."
+}

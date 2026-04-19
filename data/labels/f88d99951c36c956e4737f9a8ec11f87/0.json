@@ -1,0 +1,15 @@
+{
+  "video_id": "f88d99951c36c956e4737f9a8ec11f87",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-307.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.665,
+    4.994,
+    8.323,
+    11.652
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a plastic-encased sports trading card featuring two baseball players, Mariano Rivera and Derek Jeter, with their signatures. The card is held centrally in the foreground, showing the players in white uniforms against a dark background. The plastic case protecting the card reflects overhead lighting. In the background, a small window shows a man with a beard wearing a dark blue t-shirt sitting in front of a computer setup. The background also features a banner with the text \"JASPYS\" in red and \"CASEBREAKS.COM\" in white and red letters. A desk surface with a dark mat and some scattered items is visible behind the hands. Across the sequence of frames, the person's grip on the card shifts slightly, and the man in the background remains seated, looking toward the camera."
+}

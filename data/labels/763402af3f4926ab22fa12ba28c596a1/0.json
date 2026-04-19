@@ -1,0 +1,15 @@
+{
+  "video_id": "763402af3f4926ab22fa12ba28c596a1",
+  "url": "./data/segments/3phuyH7Y05U-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.354,
+    1.062,
+    1.771,
+    2.479
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a dark suit, white shirt, and light-blue tie stands behind a dark green podium featuring the circular seal of the \"PRESIDENT OF THE UNITED STATES.\" He is positioned in front of two American flags and a blue background. To his left and right, floating digital overlays of the same flags and a golden eagle emblem are visible, each marked with small white plus signs. The scene is viewed through a screen that is placed on a white table, with a blue textured wall behind it. A small white shelf to the left holds a white bowl and a clock. Throughout the sequence, the man remains stationary behind the podium with a neutral expression, and there is no discernible movement or change in the environment, objects, or overlays across the frames."
+}

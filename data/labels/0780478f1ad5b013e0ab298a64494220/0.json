@@ -1,0 +1,15 @@
+{
+  "video_id": "0780478f1ad5b013e0ab298a64494220",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a digital environment featuring a livestream chat and a randomizer website. The left side of the screen displays a chat window with usernames such as \"glowbowg27\" and \"Nightbot,\" containing messages like \"turning\" and a link for \"the BREAK SCHEDULE, SHIPPING INFO and MORE!!!\". The right side of the screen transitions from a user interface containing a video of a man in a black shirt and a \"RANDOM.ORG\" header to the site's main landing page. The man's video is positioned above a red and white logo for \"JASYP CASEBREAKS.COM\". As the sequence progresses, the webpage shifts to show a \"List Randomizer\" output featuring a numbered list of names, including \"Michael Loguercio,\" \"Carl Hagedorn,\" and \"Nancy Ripoll.\" The layout maintains a consistent footer with the \"JASYP CASEBREAKS.COM\" branding throughout the recording."
+}

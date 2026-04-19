@@ -1,0 +1,15 @@
+{
+  "video_id": "622a96b076595d278be1674923efbffb",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.225,
+    0.676,
+    1.126,
+    1.577
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor meeting room with wood-paneled walls and blinds, a man in a white shirt and dark vest stands at a podium, addressing an audience seated in rows. He is wearing glasses and speaking into a microphone. The audience consists of several people seen from behind, including individuals in colorful attire such as a blue, red, and white striped garment and various neutral-toned jackets. To the left of the speaker, another man in a white shirt and dark vest is also present. The white text \"ORCA\" is visible in the bottom right corner of each frame. As the sequence progresses, the initial ghostly overlay disappears, revealing a clear view of the speaker and the listeners. A red and white \"Exit\" sign is visible on the wall to the right. The camera remains stationary, capturing the speaker's gestures and the attentive posture of the audience."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5f9e6f577b70098d8fe56dce73ee9d44",
+  "url": "./data/segments/3E6ctN22V7k-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.825,
+    1.375,
+    1.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young boy stands outdoors in front of a leafy green bush and a light-colored building with a dark roof. He wears a long-sleeved shirt with horizontal stripes of blue, red, yellow, and green. As the sequence progresses, the boy is captured in a medium shot, speaking with slight movements of his head and mouth. On-screen subtitles appear across the bottom of the scene, reading, \"We are isolated from the world, what we miss the most is culture.\" The background remains static, showing a dirt ground and the side of the structure, while the boy's expression and posture shift slightly as he delivers the spoken words. No other people, equipment, or logos are visible in the frames."
+}

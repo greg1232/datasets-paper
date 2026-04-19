@@ -1,0 +1,15 @@
+{
+  "video_id": "4f05e8d403b22d0f977e81bac30a40d5",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-084.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a simulated hospital room, three healthcare professionals attend to a medical mannequin lying in a bed. One person, with their back to the camera, wears a black jacket, while another wears blue scrubs, a black face mask, and blue gloves. A third person wears a blue shirt, a black jacket, a black face mask, and blue gloves while holding a white piece of paper. The room is equipped with medical monitors and wall-mounted equipment. Across the frames, the individuals remain in their positions, focused on the mannequin, with slight movements in their postures and hand positions. On-screen text includes a purple circle containing a silhouette and the words \"Day 2\" on the left, and the phrase \"Sim Week\" accompanied by a small icon on the right. In the background, a monitor displays the numbers \"110\" and \"13\"."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f82893f564506644f5e1cd12410ee0cf",
+  "url": "./data/segments/3VCwl-aQ_oQ-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.504,
+    1.512,
+    2.521,
+    3.529
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a screen recording of a web browser open to the \"RANDOM.ORG\" website, specifically the \"List Randomizer\" tool. The page shows a randomized list of ten items, numbered 1 through 10, with names like \"Water,\" \" Ron Water,\" and \"Ron Water\" repeating. On-screen text includes \"True Random Number Service,\" a timestamp of \"2023-11-23 03:23:04:08 UTC,\" and a warning stating, \"Advisory: We only operate services from the RANDOM.ORG domain.\" A chat overlay on the right features messages from users \"megged\" and \"Nightbot,\" with the latter providing a link to \"https://bit.ly/NzxS8K9Q.\" A promotional banner for \"CASEBREAKS.COM\" is visible at the bottom, featuring a logo and an image of a person in a black baseball cap and jersey. The scene remains static across the frames, with no changes in the list, the chat, or the overall interface."
+}

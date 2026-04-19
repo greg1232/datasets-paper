@@ -1,0 +1,15 @@
+{
+  "video_id": "b8fe1958fab4ed6ffceb7848f35e80bf",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-695.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.147,
+    3.441,
+    5.735,
+    8.029
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt is speaking into a professional black microphone in a room filled with framed photos and clothing racks. His t-shirt features the white text \"ION NEVER DO SHIT AT WORK\". He is positioned in front of a background that includes a white mannequin wearing a white t-shirt and various photographs displayed on the wall. In the bottom corners of the scene, logos are visible, including one that reads \"BODY BY FLY TOT\". As the sequence progresses, the man speaks and shifts his gaze, moving his hand toward his chest and then lowering it. His facial expressions change from an open-mouthed speaking position to a slight smile and then a more neutral, thoughtful look as he glances to his right."
+}

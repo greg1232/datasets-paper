@@ -1,0 +1,15 @@
+{
+  "video_id": "7e3b27096d6fe749b9ea5f2e70cf45cd",
+  "url": "./data/segments/3iUTkJy84EY-Scene-194.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.31,
+    0.93,
+    1.55,
+    2.17
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses, wearing a light green embroidered tunic and a dark necklace, speaks against a solid black background. In the first frame, she has her eyes closed and her hands raised in front of her chest as she speaks. By the second frame, she opens her eyes and looks slightly upward while gesturing with her hands. In the third frame, she is looking forward with a smile, her hands lower. In the final frame, she maintains a similar expression and posture, continuing to speak and gesture. A small logo containing the text \"NPTEL\" and a stylized graphic is visible in the bottom left corner of each frame. The scene remains static in terms of lighting and location, with only the woman's facial expressions and hand movements changing as she delivers her presentation."
+}

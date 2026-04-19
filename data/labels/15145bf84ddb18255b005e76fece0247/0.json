@@ -1,0 +1,15 @@
+{
+  "video_id": "15145bf84ddb18255b005e76fece0247",
+  "url": "./data/segments/3_3xsVMtx3c-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.062,
+    3.188,
+    5.312,
+    7.438
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Inside a retail clothing store, a person wearing a pink t-shirt and a light-colored baseball cap is seen interacting with black garments on a clothing rack. The store is filled with apparel, including shirts and hats, with \"ONEILL\" logos visible on signage. In the initial sequence, the person holds up a black piece of clothing while large white text overlays the scene, reading \"THE SURF STATION 12 DAYS OF CHRISTMAS SALE!\". Sparkle effects are visible around the person. As the scene progresses, the text changes to \"DAY 9 12/21\", and the person continues to adjust and handle the black clothing on the rack. A green circular graphic with the \"SURF STATION\" logo appears on the left side of the frame toward the end. The background remains consistent, showing various clothing items and store displays throughout the sequence."
+}

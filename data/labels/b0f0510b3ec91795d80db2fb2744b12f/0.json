@@ -1,0 +1,15 @@
+{
+  "video_id": "b0f0510b3ec91795d80db2fb2744b12f",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and dark hair tied back speaks into a microphone in an indoor setting. He is wearing a white long-sleeved shirt, a black vest with decorative embroidery, and a red and white patterned garment underneath. He stands behind a dark podium in front of a wall with horizontal wooden slats. In the foreground, the tops of several people's heads are visible, facing toward the speaker. A black microphone on a stand is positioned in front of him. The text \"ORCA\" appears in a white box in the bottom right corner of each frame. Across the sequence, the man continues to speak, shifting his facial expressions and slightly moving his hands and shoulders as he delivers his presentation."
+}

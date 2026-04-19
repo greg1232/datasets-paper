@@ -1,0 +1,15 @@
+{
+  "video_id": "4c4741143c0132aa20772b0568b19d9a",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.705,
+    2.115,
+    3.525,
+    4.935
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man and a woman stand on a stage against a plain light gray background, facing each other. The man, on the left, wears a dark navy blazer over a dark shirt and trousers. The woman, on the right, wears a dark blazer over a red top and light-colored pants. Between them is a small white circular table holding a clear water bottle and a microphone on a stand. The word \"mediasite\" and a small logo appear in the top center of the scene. Throughout the sequence, both individuals remain in their positions, engaged in a conversation. The man gestures slightly with his hands as he speaks, while the woman listens attentively with her hands clasped in front of her. There is very little movement between the frames, as the camera remains static and the subjects maintain their standing posture and proximity."
+}

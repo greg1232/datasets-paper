@@ -1,0 +1,15 @@
+{
+  "video_id": "a19a2dcbf896f974576a158a04ebca08",
+  "url": "./data/segments/3l84m5pRmyk-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.288,
+    0.863,
+    1.439,
+    2.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men are seated at a black table in a professional interview setting. The man on the left wears a dark blazer over a light-colored shirt, while the man on the right wears a grey suit with a white shirt and blue tie. Between them sits an open silver laptop with an Apple logo. The background consists of white banners featuring the blue cube logo of \"theCUBE\" and the hashtags \"#BigData\" and \"#BigDataSV\". A blue and white \"BigDataSV\" logo is also visible. Across the frames, the man on the left remains relatively still, resting his hands on the table. The man on the right is actively speaking, beginning with a neutral expression, then gesturing with his right hand, and finally opening both hands in an explanatory manner. A white notepad and pen lie on the table in front of the man on the left."
+}

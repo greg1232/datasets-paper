@@ -1,0 +1,15 @@
+{
+  "video_id": "34c772294c157fda97a1e005caa669fe",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-317.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.087,
+    0.262,
+    0.438,
+    0.612
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game recording of a football match is displayed, featuring a player in a small picture-in-picture window in the bottom left corner wearing a navy shirt. The game takes place on a bright green field under sunny conditions with white yard lines and sideline markings. Players in white uniforms and others in black uniforms are positioned across the field. A scoreboard at the top indicates \"2nd & 2\" and \"2:29\" remaining with \"12\" and \":10\" also visible. Various logos, including a red falcon and \"MUT,\" appear on the screen. As the sequence progresses, the white-clad offense advances the ball while the black-clad defense pursues. Yellow text overlays appear on the field, stating \"UNDER PRESSURE\" and later \"POOR ACCURACY BULLET PASS.\" The player in the window maintains a focused expression while watching the gameplay unfold."
+}

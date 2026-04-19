@@ -1,0 +1,15 @@
+{
+  "video_id": "1426d714d4d76bee6c99bd087d76e915",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-120.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.219,
+    6.657,
+    11.094,
+    15.532
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard sits in a recording studio, wearing black over-ear headphones and a white t-shirt featuring a small logo on the left chest that reads \"Sloan Collective\" and \"Bespoke Studio.\" He is positioned in front of a silver condenser microphone mounted on a black boom arm. The background consists of dark grey acoustic foam panels with a ribbed texture. As the scene progresses, the man looks toward someone off-camera to his right, his facial expression shifting from a neutral, attentive gaze to a slight smile, and finally to a wide, open-mouthed laugh. Throughout the sequence, he remains seated and stationary, with the movement centered on his facial expressions as he interacts with an unseen person."
+}

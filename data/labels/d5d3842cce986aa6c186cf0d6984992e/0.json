@@ -1,0 +1,15 @@
+{
+  "video_id": "d5d3842cce986aa6c186cf0d6984992e",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.35,
+    1.051,
+    1.752,
+    2.452
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A first-person perspective from inside a car shows a vehicle driving down a multi-lane asphalt road under a blue sky with scattered white clouds. The hood of the black car is prominently visible in the foreground, featuring a raised cowl induction scoop with the text \"HEAL\" visible on it. The car travels forward along a straight road lined with grassy medians, utility poles, and low-rise commercial or residential buildings. To the right, a fence separates the road from a lot. As the vehicle moves forward, the perspective shifts slightly, showing more of the distant road and the surrounding landscape. The environment is bright and sunny, with reflections of the sky and clouds visible on the polished surface of the car's hood. No people are visible in the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "474debf5a4ca6c9f4cd064d68990d9da",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-289.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.015,
+    6.044,
+    10.073,
+    14.102
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of frames against a solid black background displays white text for a company called ORCA Media. Initially, the words \"ORCA Media\" appear alone in the upper center. As the sequence progresses, a new block of text appears in the upper right, stating \"For More Information Contact ORCA Media @...\". Simultaneously, contact information fades in at the bottom of the screen. This bottom section includes the website \"www.orcamedia.net\", the phone number \"802-224-9901\", and the social media handle \"#orcamediavt\". The text remains stationary and centered, with the different elements appearing sequentially to complete a contact information slide. No people, objects, or locations are visible, as the entire visual consists of text on a black field."
+}

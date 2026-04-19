@@ -1,0 +1,15 @@
+{
+  "video_id": "f1a4a61db1a1f7150e4ad2d6f812f44b",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-383.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.555,
+    1.664,
+    2.774,
+    3.883
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head, a dark beard, and black headphones is speaking into a professional microphone mounted on a boom arm. He wears a white t-shirt and has visible tattoos on his right arm. He is positioned in front of a dark grey, ribbed acoustic foam wall. To his right, a smaller picture-in-picture video window shows a gym setting with a white wall. In this window, a muscular man in a grey t-shirt and black pants is performing exercises with weights. Across the sequence, the man in the foreground continues speaking, his expression shifting from neutral to more animated with his mouth open. Meanwhile, the man in the gym window transitions from a bent-over position to standing upright. The microphone equipment features legible text that reads \"Rode\"."
+}

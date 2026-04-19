@@ -1,0 +1,15 @@
+{
+  "video_id": "f762593ca264f49c4483a33bb54305b1",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-481.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.781,
+    1.094
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light brown hair wearing a dark shirt and a headset is seen in a small picture-in-picture window overlaid on a video game menu. He is positioned in front of a decorated Christmas tree. The background menu is for \"ULTIMATE TEAM\" and displays an \"ADJUST LINEUP\" screen with three circles showing a rating of \"91\" for \"OVR,\" \"OFF,\" and \"DEF.\" On-screen text includes navigation tabs like \"PLAY,\" \"MISSIONS,\" \"MARKETPLACE,\" and \"MY TEAM.\" Other visible options include \"ITEM MANAGER,\" \"RENAME TEAM,\" and \"GAME OPTIONS.\" The man is laughing and smiling with an open mouth, reacting to the screen. Across the frames, his expression remains exuberant as he looks toward the screen, while the game menu remains static, showing a team with \"Players 251,\" \"Coaches 3,\" \"Playbooks 11,\" and \"Collectibles 14.\""
+}

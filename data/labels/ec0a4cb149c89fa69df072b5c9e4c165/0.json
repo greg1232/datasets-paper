@@ -1,0 +1,15 @@
+{
+  "video_id": "ec0a4cb149c89fa69df072b5c9e4c165",
+  "url": "./data/segments/3L_uHTClWfk-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.425,
+    4.275,
+    7.125,
+    9.975
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a mustache wearing a red t-shirt is the central figure in a scene that begins with him standing behind bars next to a person in a dark uniform and a military-style helmet. A layer of animated orange and yellow flames overlays the bottom half of the view. As the scene progresses, the man in red remains behind the bars, staring forward. Eventually, the scene shifts to show the man in red being escorted away from the bars by two men in tan uniforms. One of these men grips the man's arm to lead him forward. The animated fire effect continues to flicker across the bottom of the entire sequence. Fragments of white text are partially visible at the very bottom edge of the frames, though the words are cut off and not fully legible."
+}

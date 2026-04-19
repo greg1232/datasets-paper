@@ -1,0 +1,15 @@
+{
+  "video_id": "09c55d6f8d89b3ef5aa6d597fa14f974",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-087.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.501,
+    2.502,
+    3.503
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a static view from inside a dark garage or shed looking out toward a bright outdoor area. A large, dark piece of machinery, likely a tractor or utility vehicle, is parked in the foreground, partially obscuring the view. To the left of the vehicle, a small red bucket hangs from a post. In the background, a concrete driveway leads toward a light-colored building under bright daylight. In the initial moments, a small, dark vehicle is visible outside, moving across the driveway from left to right. As the sequence progresses, this vehicle exits the frame, leaving the outdoor scene empty. The lighting remains consistent, creating a strong contrast between the shadowed interior of the structure and the brightly lit exterior. No people are visible in any of the frames."
+}

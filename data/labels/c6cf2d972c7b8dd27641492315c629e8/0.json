@@ -1,0 +1,15 @@
+{
+  "video_id": "c6cf2d972c7b8dd27641492315c629e8",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video focuses on the feet of a person wearing black athletic sneakers with red accents and black laces, standing on a blue and yellow surface. The blue surface features a thin yellow line running across it, while a wider yellow strip borders the area. The person's legs are visible from the ankle down. Throughout the sequence, the person remains in a stationary stance, with their feet positioned apart. The movement is minimal, with only slight shifts in the angle of the feet and subtle changes in the lighting and focus across the frames. There are no other people, objects, or visible text present in the scene. The red details on the sneakers are prominent against the dark material of the shoes and the blue flooring."
+}

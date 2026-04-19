@@ -1,0 +1,15 @@
+{
+  "video_id": "7bde8079bc30b12f21e88179fd3960d8",
+  "url": "./data/segments/3KJVtM_W6Xg-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.742,
+    26.226,
+    43.71,
+    61.194
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a historical overview of Maggie Boyd, featuring archival documents and imagery. It begins with an image of a weathered blue leather diary next to a handwritten entry from \"TUESDAY, FEBRUARY 4, 1873,\" which reads, \"Study and write, study and write, what monotony! Sometimes I get tired.\" The scene then transitions to an \"Official Trustees Record, June 25, 1873,\" showing a formal handwritten ledger. The sequence continues with a photograph of a brick building, identified by text as \"Boyd Hall, Ladies Dormitory, Ohio University, Athens,\" accompanied by a description stating it was named in her honor and later torn down for Alden Library. Finally, the video shows a 1917 newspaper clipping from \"THE OHIO ALUMINUS\" titled \"Diary Indicates First Co-Ed Was Noticed on OU Campus,\" featuring a portrait of \"Margaret Boyd, The Trustee.\""
+}

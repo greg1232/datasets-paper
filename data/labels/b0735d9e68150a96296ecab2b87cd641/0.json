@@ -1,0 +1,15 @@
+{
+  "video_id": "b0735d9e68150a96296ecab2b87cd641",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-139.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.349,
+    1.047,
+    1.745,
+    2.443
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands indoors, positioned within a small, circular frame centered against a solid black background. He is dressed in a dark, patterned button-down shirt featuring light-colored designs. The man remains stationary throughout the sequence, facing forward with a neutral expression. Behind him, a brightly lit doorway or interior room is visible. To the left and center of the image, the white text \"Seyi Adebola\" appears twice, positioned midway between the top and bottom rows. The scene remains consistent across the sequence, with no change in the man's position, clothing, or the surrounding environment."
+}

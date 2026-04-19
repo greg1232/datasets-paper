@@ -1,0 +1,15 @@
+{
+  "video_id": "8d2cf943e3b3596b11b051c9f919b8e2",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.426,
+    4.279,
+    7.132,
+    9.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with brown hair and glasses, wearing a floral print blouse under a grey cardigan and a black smartwatch, sits at a white desk in a craft room. Behind her are shelves filled with colorful ink pads, a heat tool, and various crafting supplies. On the desk in front of her lies a piece of light blue paper and a white sheet with the logo \"Canny Jill\". A watermark in the top left corner reads \"Aubrey CREATIVE ASSISTANT\". As the sequence progresses, the woman speaks and gestures with her hands resting on the desk. Her facial expression shifts from a closed-mouth smile to an open-mouthed speaking position and then back to a slight smile. In the background, a label reading \"CHRISTMAS\" is visible on one of the storage bins. The camera remains stationary throughout the clip, capturing her upper body and the workspace."
+}

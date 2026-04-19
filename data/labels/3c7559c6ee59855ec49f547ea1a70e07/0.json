@@ -1,0 +1,15 @@
+{
+  "video_id": "3c7559c6ee59855ec49f547ea1a70e07",
+  "url": "./data/segments/3rrLMM3eyQc-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.458,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip features a split-screen composition. On the left side, a white background displays a series of \"SUBSCRIBE\" and \"SUBSCRIBED\" buttons. A white mouse cursor moves across these elements, clicking the \"SUBSCRIBED\" button and then moving toward a notification bell icon. The text \"www.plustvafrica.com\" appears at the top of this section. On the right side, a scene shows a large fire with bright orange flames and grey smoke rising in an outdoor setting. A portion of a red vehicle or object is visible in the foreground, and a small \"000\" timestamp is located near the bottom right of the image. As the video progresses, the cursor moves from the subscription button to the notification bell and then shifts downward toward a final \"SUBSCRIBE\" button, while the fire continues to burn in the background."
+}

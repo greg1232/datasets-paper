@@ -1,0 +1,15 @@
+{
+  "video_id": "febf0aaaba1396a2dd0edc30eb3b4844",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-104.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.24,
+    0.719,
+    1.198,
+    1.677
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds up a gold-bordered baseball card featuring a player and the name \"DEREK JETER\" with an autograph. The card is displayed prominently in the foreground, while in the background, a man wearing a dark blue t-shirt is visible behind a desk. He is positioned near computer equipment and a monitor. The desk surface is covered with a colorful mat featuring green palm tree patterns. The logo \"JASPYS\" appears on the screen, accompanied by the text \"CASEBREAKS.COM\" and \"Sports Card Breaks\". Throughout the sequence, the person in the foreground slightly shifts the card, tilting it to show its reflective gold surface and the image of the player. The man in the background remains seated, looking toward the camera as the card is presented."
+}

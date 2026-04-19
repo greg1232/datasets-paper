@@ -1,0 +1,15 @@
+{
+  "video_id": "d89c0e8fcba4a54f29912a9e8af0f948",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.4,
+    1.201,
+    2.002,
+    2.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a dimly lit outdoor setting at night, a person wearing a light-colored garment is partially visible on the right side of the scene. As the sequence progresses, the person moves quickly out of the frame to the right, leaving behind an open grassy area. In the background, a metal ladder leans against a dark structure or vehicle, and a small white bottle sits on the ground nearby. A cluster of green plants is positioned on the right edge of the frame. In the final segments, a large, dark shadow stretches across the foreground from the right, obscuring a significant portion of the ground as the person has completely exited the view. The scene remains dark throughout, with minimal lighting illuminating the grassy terrain and the surrounding objects."
+}

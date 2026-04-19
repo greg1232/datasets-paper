@@ -1,0 +1,15 @@
+{
+  "video_id": "b142e3b9fefd6b11112d79ec8f55ef96",
+  "url": "./data/segments/3hGuLEduWLM-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.271,
+    0.813,
+    1.354,
+    1.896
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A short educational clip is set against a deep blue, starry galactic backdrop. The text \"Early age learning\" appears in red and blue lettering at the top and center of the scene. A small, yellow, smiling circular character floats across the space. Blue capital letters appear and move across the screen throughout the sequence. In the beginning, a single letter \"E\" is visible. As time progresses, more letters emerge and shift positions, including \"I\", \"C\", \"U\", \"L\", and \"S\". By the end of the clip, multiple instances of \"E\" are scattered across the right side of the screen, while the yellow character moves toward the bottom left corner. A small, stylized human figure also appears intermittently near the top and center of the frame."
+}

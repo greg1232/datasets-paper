@@ -1,0 +1,15 @@
+{
+  "video_id": "e8ddc8e772e42649cd52e2cb7b1e4d84",
+  "url": "./data/segments/3r714PCt5mU-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.871,
+    5.613,
+    9.354,
+    13.096
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide on a teal background introduces Pilar Garc\u00eda Freire, identified as the \"Jefa de Unidad de Recursos Educativos Digitales.\" A small, square portrait photo of a woman with blonde hair is positioned in the center of the screen. The slide's text addresses teachers, stating, \"Si eres docente y est\u00e1s interesado en los Recursos Educativos Abiertos, qu\u00e9 son, c\u00f3mo crearlos, d\u00f3nde encontrarlos y c\u00f3mo usarlos...\" and concludes with the invitation, \"No te pierdas esta EDUcharla.\" Across the sequence of frames, the image remains static, though the framing shifts slightly. In the final frame, additional smaller text appears at the bottom right, instructing viewers to \"Suscr\u00edbete al canal de youTube del INTEF, donde encontrar\u00e1s el resto de EDUcharlas realizadas.\" The overall layout is clean and professional, using a white rectangular overlay for the top section and teal for the rest."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "52a788bb8ece15b9b052bdeefea13637",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.459,
+    1.376,
+    2.294,
+    3.212
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A user interface for a trading bot's settings is displayed on a dark-themed screen. The interface includes sections for \"Bot settings,\" \"Strategy,\" and \"Pair.\" The bot is named \"ETH DASH LONG,\" and the strategy is set to \"Long.\" In the initial sequence, the \"Select a pair\" dropdown menu is opened, revealing a list of cryptocurrency pairs such as \"USDT-BTC,\" \"USDT-BCH,\" and \"USDT-ETH.\" As the interaction progresses, the user types \"das\" into the search field, which filters the list to show \"ETH-DASH\" and \"BTC-DASH.\" The user then selects \"ETH-DASH,\" and the dropdown menu closes. A notification appears at the bottom of the pair selection box stating, \"Make sure you have enough (ETH) on your deposit to run the bot.\" The screen also shows parameters for \"Take profit\" set to \"50%\" and a field for \"First order volume as\" with a value of \"0.50.\""
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "8ef92696da18448d25b8e19487910c83",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.215,
+    0.644,
+    1.073,
+    1.502
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black shirt and headphones is positioned in the bottom right of the scene, seated in front of a computer setup. The video utilizes a screen recording overlay that transitions across the frames. Initially, the overlay displays a website \"RANDOM.ORG\" with the text \"True Random Number Service\" and \"What's this fuss about /true randomness?,\" along with a \"Generate\" button and a red \"SUBSCRIBE\" button. The logo \"JASPYS CASEBREAKS.COM\" is repeated in a watermark pattern across the screen. As the video progresses, the screen recording shifts to reveal a physical setting where several black \"OBSIDIAN\" boxes are stacked on a red surface. The \"JASPYS CASEBREAKS.COM\" logo remains visible throughout. The sequence shows the transition from a website's interface to a real-world view of product packaging while the man remains in the frame."
+}

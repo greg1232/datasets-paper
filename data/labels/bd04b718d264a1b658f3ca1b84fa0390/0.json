@@ -1,0 +1,15 @@
+{
+  "video_id": "bd04b718d264a1b658f3ca1b84fa0390",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-271.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.362,
+    1.087,
+    1.812,
+    2.538
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game captures a football game between the Atlanta Falcons and another team on a green grass field within a large stadium. The Falcons players wear black uniforms with red accents. As the play begins, the offensive line engages the defensive line. An on-screen overlay in the bottom left features a man with blonde hair wearing a dark blue shirt and headphones. Text in the bottom right of the game screen reads \"HOLD THE LINE\" and \"Away Team has improved blocking.\" The top scoreboard displays \"1st & 10,\" showing the Falcons leading 6 to 0. The game clock counts down from \"1:32\" to \"1:29,\" while the play clock decreases from \":14\" to \":11.\" Between the frames, the players collide at the line of scrimmage, and the man in the overlay watches the action with a neutral expression."
+}

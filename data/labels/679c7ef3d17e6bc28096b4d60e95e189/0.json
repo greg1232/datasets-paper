@@ -1,0 +1,15 @@
+{
+  "video_id": "679c7ef3d17e6bc28096b4d60e95e189",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.312,
+    0.521,
+    0.729
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser window showing the website \"RANDOM.ORG\" and a side panel from a live stream chat. On the website, a \"Dice Roller\" tool shows two dice, each displaying a two. The text \"Timestamp: 2023-05-20 03:12:58 UTC\" is visible above buttons labeled \"Roll Again\" and \"Go Back.\" An advisory notice states, \"We only operate services from the RANDOM.ORG domain. Other sites that claim to be operated by us are impostors.\" In the chat panel, messages from \"glowdg27\" and \"Nightbot\" are visible, with Nightbot providing a link: \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> http://bit.ly/NzsSbkK9\". A small video overlay in the bottom right corner shows a man with a beard wearing a black t-shirt, positioned in front of a \"JASPY'S CASEBREAKS.COM\" logo. The scene remains completely static across all frames."
+}

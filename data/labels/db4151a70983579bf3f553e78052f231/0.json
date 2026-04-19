@@ -1,0 +1,15 @@
+{
+  "video_id": "db4151a70983579bf3f553e78052f231",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.171,
+    0.513,
+    0.855,
+    1.197
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene shows a close-up view of a vehicle's digital instrument cluster. On the left, a tachometer displays \"RPM x1000\" with numbers marking revolutions up to 6,000. To the right, a digital display screen features a red brake warning light and the text \"BRAKE,\" followed by the instructional message \"Press Brake and Push Button to Start.\" Below this text, the odometer reads \"20434 mi.\" A bright, red light reflection sweeps across the left side of the frame, shifting in position and intensity across the sequence. While the text and the gauge remain static, the light reflection moves from the far left toward the center, partially obscuring the tachometer and the edge of the digital screen before receding. No people are visible in the frames."
+}

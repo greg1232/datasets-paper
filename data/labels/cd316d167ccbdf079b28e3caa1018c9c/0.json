@@ -1,0 +1,15 @@
+{
+  "video_id": "cd316d167ccbdf079b28e3caa1018c9c",
+  "url": "./data/segments/3_n4Uj9iLyU-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.38,
+    1.139,
+    1.898,
+    2.657
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene depicts a stylized, graphic illustration for the \"OPENSTACK BARCELONA SUMMIT.\" The backdrop features a blue cityscape silhouette with mountains under a clear blue sky. A white cable car with a red stripe hangs from a black cable line. In the foreground, a blue-and-white patterned bird wearing a red cap stands beside a yellow spray-painted circle containing a red-and-white logo. On-screen text includes a red ribbon at the top that says \"WELCOME TO THE,\" followed by \"OPENSTACK\" in large red letters on a white banner, and another red ribbon below that reads \"BARCELONA SUMMIT.\" Across the sequence, the image remains completely static; there is no movement, change in position, or shift in perspective between the frames, maintaining a consistent visual composition of the graphic elements throughout."
+}

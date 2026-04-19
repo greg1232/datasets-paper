@@ -1,0 +1,15 @@
+{
+  "video_id": "f4f1c5c2ddc33780954d5d1c73dcef79",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-103.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.209,
+    0.626,
+    1.043,
+    1.46
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing patterned white hospital pajamas sits in a chair, holding a baby wrapped in a white blanket and pink hat. In the first frame, the person holds a white paper and a blue pen while another person's hand reaches toward them. By the second frame, the paper is being pulled away from the person in pajamas. In the third frame, the person in pajamas holds the blue pen out toward the other individual's hand. In the final frame, the other person takes the pen and a white paper is partially visible at the bottom of the screen. On-screen text includes \"Day 3\" inside a purple circle and \"Sim Week\" next to a small logo of a stylized figure. The background consists of a plain, light-colored wall and the edge of a white chair."
+}

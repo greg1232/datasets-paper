@@ -1,0 +1,15 @@
+{
+  "video_id": "1017949e688dffbb1f85866972048083",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-346.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.077,
+    0.231,
+    0.385,
+    0.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a navy blue shirt is seen in a small picture-in-picture window over a gameplay screen from \"MADDEN 23\". The gameplay interface displays a football field with a playbook menu titled \"SELECT A PLAY,\" showing options like \"FOUR VERTICALS\" and \"PA DEEP CROSS\" with corresponding route diagrams. The score is tied 12-12 between two teams, with \"0:10\" remaining in the \"2nd\" quarter. On-screen text indicates \"PREVIOUS PLAY\" as \"MIKE BLITZ 0\" and \"FOUR VERTICALS,\" and a \"SAVE ARROW\" tip is visible. The background of the stadium shows \"WORLD CHAMPIONS 1937 1942\" on the wall. As the sequence progresses, the man in the inset window changes his facial expression from a neutral look to a smile and finally a wide laugh, while the gameplay screen remains static."
+}

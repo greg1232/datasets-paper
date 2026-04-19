@@ -1,0 +1,15 @@
+{
+  "video_id": "333b0c7af022c6b0d9db67818187ded7",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.377,
+    1.131,
+    1.885,
+    2.64
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a webpage for the \"MADDEN PLAYER STORE,\" which is part of a site branded as \"INSTANT MADDEN COINS.\" The page features a header with navigation links for \"BUY COINS,\" \"PLAYER STORE,\" \"SELL COINS,\" \"SPONSORS,\" \"REVIEWS,\" \"HOW IT WORKS,\" \"FAQ,\" and \"CONTACT US.\" The main content area announces \"NEW! MUT 23 PLAYER CARDS\" and provides instructions under the heading \"HOW DO I BUY PLAYERS?\". These steps include typing a player's name in a search box, providing a telephone number, and completing a payment via PayPal. Below the text, there are input fields labeled \"Search For A Player From Any Promotion:\" with a box for \"Type Player Name\" and another box for \"Telephone Number (Optional).\" A yellow button labeled \"24/7 Live Support: Customer Support\" is visible in the bottom right. Across the frames, the visual content remains static, with no movement or changes in the layout."
+}

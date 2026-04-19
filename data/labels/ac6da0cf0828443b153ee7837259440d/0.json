@@ -1,0 +1,15 @@
+{
+  "video_id": "ac6da0cf0828443b153ee7837259440d",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, two healthcare professionals wearing blue scrubs, black jackets, and black face masks attend to a patient mannequin lying in a hospital bed. The woman on the right holds a white piece of paper, while the woman on the left stands beside her, observing. A red medical cart labeled \"Medications\" and various monitoring equipment are visible in the background, along with a screen displaying numbers. Each frame contains a purple female silhouette icon and the text \"Day 1\" on the left, and a logo that reads \"Sim Week\" on the right. As the sequence progresses, the healthcare professional on the right maintains her position, while the professional on the left slightly shifts her stance. The mannequin remains still on the bed, covered by a white patterned sheet, as the two providers interact within the simulated clinical environment."
+}

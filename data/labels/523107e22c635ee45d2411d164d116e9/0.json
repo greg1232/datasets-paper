@@ -1,0 +1,15 @@
+{
+  "video_id": "523107e22c635ee45d2411d164d116e9",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.706,
+    1.177,
+    1.648
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video captures a screen showing a sports video game profile for a player named \"TROY POLAMALU,\" who has an overall rating of \"96\" and is listed as a \"SS.\" The screen displays various numeric attributes, including \"94,\" \"97,\" \"90,\" \"94,\" \"95,\" \"88,\" \"99,\" and \"95,\" as well as general statistics like \"5'10\"\" and \"207.\" Menu options such as \"HOME,\" \"ATTRIBUTES,\" and \"UPGRADES\" are visible at the top. In the lower-left corner, a small video window shows a fair-skinned man wearing a dark blue shirt and large over-ear headphones. Across the sequence, the man\u2019s expression changes from a neutral look to a wide-mouthed, surprised reaction, then back to a more neutral state. A decorated Christmas tree is partially visible in the background of his video feed. The game interface remains static throughout the clip, while the man's facial expressions evolve."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "17a9ad5fd64316e78b613717f10e8e3b",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.839,
+    2.518,
+    4.197,
+    5.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men are seated in a room in front of a television and a shelf filled with media cases. One man, on the left, wears a grey t-shirt and maintains a skeptical expression throughout the sequence. The second man, on the right, also wears a grey t-shirt and a necklace; he begins by resting his chin on his hand and later smiles while gesturing with his index finger. A screen overlay partially obscures the center of the scene, displaying the text \"hotstar specials\" above the word \"EMPIRE\" in gold lettering. The final frames include additional text on the overlay that reads \"THE EMPIRE\" and \"All Episodes | Aug 27\". Above the men, a banner on the television reads \"OUR STUPID REACTIONS\". The background features a white wall with a hanging plant and a soundbar beneath the television screen."
+}

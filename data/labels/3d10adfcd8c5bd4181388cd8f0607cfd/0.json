@@ -1,0 +1,15 @@
+{
+  "video_id": "3d10adfcd8c5bd4181388cd8f0607cfd",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-148.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.751,
+    1.051
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person\u2019s hand, wearing a light blue surgical glove, holds a bright yellow bell pepper. The pepper has a large, irregular hole carved into its center, revealing the interior. The scene is superimposed over a text-based list. The text at the top reads, \"Special thanks to University of Maryland School of Medicine Surgical Bootcamp Class of 2023 who agreed to have their learning filmed.\" Below this, a list titled \"MD Candidates:\" includes names such as \"Rachel Belcher,\" \"Rachel Cermak,\" \"Katherine Coburn,\" \"Francia Fang,\" \"Margo Huffman,\" \"Juhye Kang,\" \"Samantha Kegel,\" \"Nahye Kim,\" \"Irina Kolesnik,\" \"Sasha Lenus,\" \"Alexandria Riedel,\" \"Nicholas Rolle,\" \"Amrita Sarkar,\" \"Nahom Seyoum,\" \"Shreya Singreddy,\" and \"Yamini Vyas.\" A QR code appears on the right side of the frame. As the sequence progresses, the hand rotates the bell pepper slightly to show different angles of the interior cutout. At the bottom, the text \"CSTARS Simulation Lab\" is visible."
+}

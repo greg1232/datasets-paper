@@ -1,0 +1,15 @@
+{
+  "video_id": "67cd04e94f9add57c92c179f28d632a4",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-085.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.605,
+    1.815,
+    3.025,
+    4.235
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a man in a dark suit and red tie speaking into a microphone, gesturing with his left hand while looking towards an unseen audience. He is positioned against a grey background, with other partially visible people behind him. To the left, an inset box displays a photo of another man wearing a red traditional cap and a dark suit, identified as \"OLUSOLA OYEKANMI\" and \"POLITICAL ANALYSET.\" The screen is framed by purple and red graphics with the \"plustv\" logo and the text \"ON THE PHONE\" and \"LAGOS.\" A white banner at the bottom reads \"PLUS POLITICS\" and \"NIGERIA NEEDS ME \u2013 BOLA TINUBU,\" accompanied by social media icons and \"PLUSTVAFRICA.\" As the sequence progresses, the layout remains consistent, though the bottom banner in the final frames adds \"WATCH ON\" followed by \"DStv CH 408\" and \"StarTimes CH 308.\""
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f0e16ada13181063e6c482fa41caa5ea",
+  "url": "./data/segments/3hLeTO8SC3U-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.973,
+    17.918,
+    29.863,
+    41.808
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short grey hair and glasses, wearing a dark suit, white shirt, and purple tie, is speaking in a modern indoor setting with glass walls. He wears a small headset microphone. On-screen graphics at the bottom display the text \"MONGODB WORLD 2022\" alongside hashtags \"#MDW22 | #theCUBE\" and the label \"theCUBE From the Javits Center, New York, NY\". A \"Sponsored By MongoDB\" logo appears in the bottom right. In one sequence, the text changes to identify the speaker as \"DAVE VELLANTE Co-Founder & Co-CEO, SiliconANGLE Media, Inc. | @dvellante\". Throughout the clip, the man is captured from the chest up, gesturing with his hands and changing his facial expressions as he speaks. The background remains a consistent, neutral-toned office or conference environment."
+}

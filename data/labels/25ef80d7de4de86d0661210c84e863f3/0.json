@@ -1,0 +1,15 @@
+{
+  "video_id": "25ef80d7de4de86d0661210c84e863f3",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-312.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.36,
+    1.079,
+    1.799,
+    2.518
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a green t-shirt with the text \"ION NEVER SLIDE AT WORK\" sits in a room filled with clothing and framed photos. He is positioned behind a professional microphone. In the background, a white mannequin wears a white garment, and racks of colorful clothing are visible alongside a wall of framed pictures. The scene is overlaid with logos, including one that reads \"I GOT\" in red. Throughout the clip, the man is seen gesturing with his right hand near his forehead and face. In the first frame, his hand is resting on his forehead; as the sequence progresses, he moves his hand down his face and eventually pulls it away, shifting his gaze and facial expression while continuing to speak into the microphone."
+}

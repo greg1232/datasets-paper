@@ -1,0 +1,15 @@
+{
+  "video_id": "ae387dae1e9da180874cc3627147438f",
+  "url": "./data/segments/3F2rz23IKUk-Scene-076.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.875,
+    26.625,
+    44.375,
+    62.125
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a lecture hall or meeting room, a presenter in a dark shirt stands at a table near a projection screen, interacting with a woman in a dark top. The projection screen displays a white interface with various text fields and a red header. In the foreground, several people sit in red chairs, facing the front. One man wears a grey t-shirt featuring a white logo of a bird and the text \"THE SCROLLING... THERE WAS WAR\". Throughout the sequence, the presenter moves closer to the center of the table and interacts with the woman. The audience remains largely stationary, though one man is seen looking at a handheld device. Equipment on the table includes laptops and water bottles. The room features neutral-colored walls and a professional setting, with the lighting remaining consistent as the people shift positions slightly."
+}

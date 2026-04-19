@@ -1,0 +1,15 @@
+{
+  "video_id": "03f60d626fcccee11f51d9cde188bb37",
+  "url": "./data/segments/3JYDT8lap5U-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.57,
+    1.71,
+    2.85,
+    3.99
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A panoramic view of Edinburgh, featuring the Dugald Stewart Monument in the foreground and the city skyline under a blue sky, serves as the backdrop for a presentation slide. The \"europython\" logo, composed of a stylized white graphic and lowercase text, is prominently displayed alongside the text \"Edinburgh 23-29 July 2018\". In the initial stage, an overlay appears on the left side of the screen. This overlay includes a portrait of a man and the heading \"INDUSTRIAL MACHINE LEARNING\", followed by credits listing \"Chairman\" of \"The Institute for Ethical AI & ML\", \"Fellow (AI, Data & ML)\" of \"The RSA\", and the name \"Alejandro Saucedo\". It also contains contact information: \"CONTACT ME AT: A1C-X10\". As the sequence progresses, this informational overlay fades away completely, leaving only the wide shot of the city and the event branding."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "cdbe3606a8336fd3dbf4189c8a3f5cca",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.08,
+    0.24,
+    0.4,
+    0.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a fast-paced montage of blurry, overlapping imagery with a dark color palette and red highlights. Abstract numbers and fragments of text flicker across the screen, including a sequence that appears to be \"13 8008 14 100.8 19\". A series of grainy, monochromatic clips are briefly visible, showing indistinct figures in a crowd. The word \"POLITICS\" appears in bold, white, uppercase letters, though it is partially obscured by overlays and motion blur. Between frames, the visual focus shifts rapidly, alternating between the numerical data, the crowd imagery, and the text \"POLITICS\". The overall effect is a fragmented, high-energy sequence of journalistic or political-themed graphics with significant motion blur and layered visual elements."
+}

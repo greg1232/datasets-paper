@@ -1,0 +1,15 @@
+{
+  "video_id": "0ffe069c034604f29955ff6598215cef",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.681,
+    5.044,
+    8.406,
+    11.769
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a dark blue shirt sits behind a desk featuring a tropical-themed mat with palm trees and a logo that reads \"JASPYS\". On the desk, a stack of white boxes supports several yellow packages. In the background, a computer monitor displays a live feed of the man and the desk, overlaid with the text \"JASPYS\" and \"CASEBREAKS.COM\". The man's hands enter the frame from the left and right, interacting with the yellow packages. Initially, the packages sit undisturbed on the white boxes. Then, his hands reach in to grip the top yellow package. He lifts the package upward and away from the stack, holding it firmly between both hands. Throughout the sequence, the man remains seated and focused on the packages, while the camera remains stationary, capturing the action on the desk."
+}

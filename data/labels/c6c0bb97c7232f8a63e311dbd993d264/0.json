@@ -1,0 +1,15 @@
+{
+  "video_id": "c6c0bb97c7232f8a63e311dbd993d264",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.433,
+    1.3,
+    2.167,
+    3.033
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two soldiers in camouflage uniforms walk away from the camera along a muddy, unpaved path lined with green trees and foliage. Both individuals carry gear, including backpacks and rifles slung over their shoulders. The soldier on the right wears yellow identification bands on their arms. The text \"Hero Ukraine\" and a red logo containing the number \"13\" are visible in the upper corners of the scene. As the sequence progresses, the soldiers continue walking further down the path, moving deeper into the wooded area. Their movements are steady and consistent across the frames, with the soldier on the left slightly trailing the soldier on the right. The lighting is overcast, and the muddy ground shows signs of previous vehicle or foot traffic."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f8278ffb4712776848b609af3eca46e5",
+  "url": "./data/segments/3QD9oO6sRns-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.319,
+    0.956,
+    1.594,
+    2.231
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen in a setting featuring a black tabletop covered with multiple boxes of \"CLEARLY AUTHENTIC\" trading cards from \"2020.\" The scene is branded with the \"JASPYS CASEBREAKS\" logo and the website \"CASEBREAKS.COM.\" In the initial frames, a hand points toward the stacks of boxes, while a man wearing a black baseball cap and black shirt is visible in a small picture-in-picture window, observing the action. As the sequence progresses, a hand reaches toward the boxes and interacts with a green tray containing several red and blue dice. The focus shifts from the large arrangement of card boxes to the act of managing the dice, while the man in the small window remains present, watching the process. The overall environment is set up for a professional case-breaking session, with branded equipment and a systematic layout of product."
+}

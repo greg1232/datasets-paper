@@ -1,0 +1,15 @@
+{
+  "video_id": "e1db0022b6176343bf0cd13b85dcc293",
+  "url": "./data/segments/3P1vSUbet40-Scene-0814.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.094,
+    0.282,
+    0.469,
+    0.657
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde dreadlocks tied in a bun is seated in a studio setting, wearing a black t-shirt and large black over-ear headphones. She is positioned in front of a professional microphone on a boom arm, facing slightly to her left with a subtle smile. Behind her is a dark wall and a yellow vertical strip. To her left, a monitor displays the red text \"Johnson\" above a stylized graphic. To her right, the wall features the logo \"BOSS TALK 101\" in red and white text, accompanied by a small graphic of a microphone. Below this logo, smaller text reads \"By: 11 Logo Studio\". Another smaller logo on the monitor reads \"BOSS TALK 101 PODCAST\". Throughout the sequence, the woman remains mostly stationary, maintaining her expression and position, while her head shifts slightly, indicating she is listening or engaging in a conversation."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0bf568d35b45ec031d057a379e1187ce",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-164.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.539,
+    4.617,
+    7.695,
+    10.773
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a beard is recorded in a studio setting against a backdrop of dark grey acoustic foam panels. He wears black over-ear headphones and a dark garment over a grey shirt. A professional condenser microphone on a shock mount is positioned directly in front of his face. Throughout the sequence, the man shifts his gaze; he begins with his eyes closed, then looks toward his left, returns to a forward-facing position, and finally looks further to his left. A black boom arm is visible to the left of the frame, with a small gold-colored connector. There is no on-screen text or logos present. The background and equipment remain static as the man's facial expression and head orientation change slightly across the frames."
+}

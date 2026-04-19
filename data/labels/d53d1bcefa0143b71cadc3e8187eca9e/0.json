@@ -1,0 +1,15 @@
+{
+  "video_id": "d53d1bcefa0143b71cadc3e8187eca9e",
+  "url": "./data/segments/3Z229_lKLpk-Scene-103.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.08,
+    0.24,
+    0.4,
+    0.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a large, tiered assembly hall filled with people seated in rows. The setting features a high ceiling with several rectangular, bright windows and a structured architectural design with vertical pillars. The attendees are densely packed, many wearing light-colored or white clothing, and they appear to be seated and attentive, facing towards the front of the hall. Gold-colored fabric banners or drapery are visible along the lower sections of the upper galleries. The scene remains static across the sequence, with the people remaining in their seats and no significant movement or changes in the environment. There is no visible on-screen text, logos, or specialized equipment, and the overall composition emphasizes the scale and formality of the gathering within the expansive interior space."
+}

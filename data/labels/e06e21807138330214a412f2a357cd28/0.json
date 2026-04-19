@@ -1,0 +1,15 @@
+{
+  "video_id": "e06e21807138330214a412f2a357cd28",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.526,
+    0.876,
+    1.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green all-terrain vehicle (ATV) is parked indoors on a concrete floor, positioned diagonally facing toward the right. The vehicle features a prominent front cargo rack, a protective black metal brush guard, and a headlight mounted atop the green bodywork. Large, knobby off-road tires are visible, and a partial view of another similar green vehicle is seen behind it. In the background, various tools and equipment are stored against the wall, including what appears to be a red tool cart. No people are present in the scene. Across the sequence of images, the camera remains stationary and the ATV does not move, resulting in a static view of the vehicle. There is no legible on-screen text or logos visible on the equipment or the walls."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "472ca119778bf51e1e9b2a6686dbb5bb",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.333,
+    1.0,
+    1.667,
+    2.333
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen capture from a video game shows a player menu for a football player named \"TROY POLALAMU\" with an overall rating of \"95\". The interface displays various categories, including \"HOME\", \"ATTRIBUTES\", \"UPGRADES\", \"SUPERSTAR X-FACTOR & ABILITIES\", and \"CHEMISTRIES & POSITIONS\". An \"ACROBAT\" ability is highlighted, featuring a green icon with a football helmet. A player card image of Troy Polamalu in a white and purple uniform is visible on the right side of the menu. In the bottom-left corner, a small video inset features a man wearing a dark shirt and a headset. As the sequence progresses, the man's facial expression changes from a neutral look to a slight open-mouthed expression, and finally to a wide smile. The game menu remains static throughout the frames, while only the man's reactions in the inset change."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1e12005e5a4f1f7f972b51be275984e9",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.46,
+    4.379,
+    7.299,
+    10.219
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a dimly lit room, a woman with short dark hair, wearing a dark blazer over a light-colored top, gives a presentation. She stands to the left of a projection screen that displays the text \"data as exhaust\" above an image of a white cloud-like plume of smoke. In her left hand, she holds a small white notebook or tablet. Facing her is a person wearing a green beanie and a light-colored jacket, seen from behind. To the right of the screen is a black chair. As the sequence progresses, the woman adjusts her position, initially raising her right hand toward her face before lowering it and gesturing toward the screen while speaking. The audience member remains still, watching the presentation. The lighting is focused on the screen, casting a soft glow across the presenters and the room."
+}

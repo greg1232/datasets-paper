@@ -1,0 +1,15 @@
+{
+  "video_id": "6b7cecb4da37e8a3103b5a06a64c6a34",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-133.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.28,
+    3.84,
+    6.4,
+    8.96
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser displaying a complex mind map on a dark background, featuring interconnected nodes and a small inset video of a room with people. A video call overlay in the upper right corner shows a man wearing a grey baseball cap and a dark shirt. The browser tabs include titles such as \"Trail Learning by Synergetic\", \"Elements by Synergetic\", \"Future of Society by Synergetic\", and \"Insights Introduction | Rums\". On the mind map, a node labeled \"Sarah Bedding\" is visible, alongside a profile picture of a person. The inset video displays a classroom or office setting with several people seated at tables, surrounded by laptops and papers. As the recording progresses, the view shifts slightly, and the man in the video call remains present, though his posture and expression change minimally across the sequence."
+}

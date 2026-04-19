@@ -1,0 +1,15 @@
+{
+  "video_id": "431928069bd651d3eed6f68696630f59",
+  "url": "./data/segments/3hLeTO8SC3U-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.19,
+    18.569,
+    30.948,
+    43.327
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a bald head, wearing a white collared shirt and a black blazer, speaks while gesturing with his hands. He is positioned in an indoor setting with other people visible in the blurred background. Across all frames, a banner at the bottom provides information; the top frames display \"SANJEEV MOHAN Principal, SanjMo | @SanjMo\" and \"theCUBE | From the Javits Center, New York, NY,\" while the bottom frames display \"MONGODB WORLD 2022 #MDW22 | #theCUBE\" and \"theCUBE | From the Javits Center, New York, NY.\" A \"Sponsored By MongoDB\" logo appears in the lower right of every frame. As the sequence progresses, the man's hand movements shift from a slight gesture to raising his right hand, and finally to holding both hands up in front of him. His facial expression remains focused and engaged as he continues speaking throughout the clip."
+}

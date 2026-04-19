@@ -1,0 +1,15 @@
+{
+  "video_id": "a303570ae2c27f900d0599bbbb6ebce5",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-091.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.548,
+    1.644,
+    2.74,
+    3.835
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair, wearing a dark blue shirt and a headset, appears in a small picture-in-picture window in the bottom left of each frame, gesturing with his hands. The main screen displays a gaming interface with the text \"SMALL PRESENT\" in the top left. In the first frame, the background is a magenta gradient. In the second frame, a grey stylized logo appears against a background of red and pink diagonal stripes, with on-screen options for \"ARK/UNMARK\" and \"DISMISS ALL.\" The third frame shows the grey logo on a red background with black streaks and white lightning effects, while the top right displays numbers such as \"173,037,\" \"14,600,\" and \"2,343,543\" alongside \"LVL 19\" and \"(90).\" The final frame shows the logo engulfed in a bright yellow and orange flame effect, while the options \"ARK/UNMARK\" and \"DISMISS ALL\" remain visible at the bottom."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "56cc2d5bf6fdad2b9acc803f1424704a",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-101.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.346,
+    1.039,
+    1.731,
+    2.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, three individuals are present. A person on the left, wearing a black top and glasses, faces toward the center. In the middle, a person wearing a white patterned gown and a black face mask sits while holding an infant. To the right, a man wearing a black shirt, a white and red baseball cap, and a blue face mask looks toward the other two individuals. A bright pink banner stretches across the middle of the scene, featuring a silhouette of a pregnant person and the text \"Day 3\", \"Obtain Consent\", and \"Sim Week\". As the sequence progresses, the banner disappears, and the person in the white gown continues to cradle the baby. The people remain in their positions, maintaining a focused interaction within the room, which has tan-colored walls and a door visible in the background."
+}

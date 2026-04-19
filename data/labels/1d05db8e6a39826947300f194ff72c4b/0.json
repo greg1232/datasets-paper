@@ -1,0 +1,15 @@
+{
+  "video_id": "1d05db8e6a39826947300f194ff72c4b",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video provides a static close-up view of the internal engine and mechanical components of a vehicle. A rusty metal bar runs horizontally across the top of the frame, while a drive chain and various gears are visible underneath. On the right side of the engine, a metallic casing features the embossed logo \"POLARIS\". Wiring, connectors, and small mechanical parts are distributed throughout the engine bay, which shows signs of wear and dirt. The scene remains completely still across all frames, with no people present and no visible movement or changes in the equipment. The lighting is consistent, highlighting the metallic textures and the rust on the overhead bar. No other text is legible beyond the brand name on the casing."
+}

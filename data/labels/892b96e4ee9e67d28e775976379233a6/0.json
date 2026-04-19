@@ -1,0 +1,15 @@
+{
+  "video_id": "892b96e4ee9e67d28e775976379233a6",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.204,
+    0.613,
+    1.022,
+    1.431
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown holding a small, decorative greeting card against a light-colored wooden surface. The card features a white central panel with the text \"SENDING YOU A LITTLE Yuletide Cheer\" printed in a mix of serif and script fonts, framed by an ornate grey and white patterned border and a grey ribbon accent. In the initial frames, the person holds the card steady with their left hand while pointing toward the right side of the card with their right index finger. As the sequence progresses, the person shifts their right hand to point toward the lower-left section of the card's center panel. The person is wearing a dark sleeve on their right arm and a simple bracelet on their left wrist. To the left of the card, a small portion of another packaged item is visible on the table."
+}

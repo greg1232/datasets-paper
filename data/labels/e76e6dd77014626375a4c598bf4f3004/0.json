@@ -1,0 +1,15 @@
+{
+  "video_id": "e76e6dd77014626375a4c598bf4f3004",
+  "url": "./data/segments/3Z229_lKLpk-Scene-214.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.22,
+    0.66,
+    1.1,
+    1.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of men are seated in rows of tiered wooden benches within a formal assembly setting. The men are dressed in a variety of attire, including white button-down shirts, traditional Indian kurtas in colors like yellow and orange, and some wearing headgear such as colorful turbans. Many of the men are looking forward or slightly toward each other, while a few are resting their chins on their hands or looking downward. The scene remains static across the frames, with the people maintaining their positions and expressions, suggesting a moment of listening or waiting during a proceeding. No on-screen text, logos, or specialized equipment are visible, only the uniform wooden structure of the seating and the diverse clothing of the attendees."
+}

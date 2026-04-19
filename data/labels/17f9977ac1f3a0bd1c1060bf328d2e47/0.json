@@ -1,0 +1,15 @@
+{
+  "video_id": "17f9977ac1f3a0bd1c1060bf328d2e47",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-139.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.14,
+    9.42,
+    15.7,
+    21.98
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser with multiple open tabs, including titles such as \"Truth & Learning by Systemeni,\" \"Future of Society by Systemeni,\" and \"Rural Community Food System.\" The main window shows a dark-themed digital mapping or networking tool featuring a series of grey circular nodes connected by lines. A smaller window inset on the right side shows a group of people sitting at tables in what appears to be a classroom or community center setting, with a white board and various materials visible. A small video call window in the upper right corner shows a man wearing a grey shirt and a baseball cap. On-screen text labels within the map include \"Truth & Learning\" and \"Blockheading.\" The scene remains static across the sequence, with no visible movement or change in the arrangement of windows, the content of the map, or the people displayed in the video feeds."
+}

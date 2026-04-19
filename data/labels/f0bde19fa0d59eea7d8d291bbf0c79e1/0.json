@@ -1,0 +1,14 @@
+{
+  "video_id": "f0bde19fa0d59eea7d8d291bbf0c79e1",
+  "url": "./data/segments/3iDf0wcP2u0-Scene-002.mp4",
+  "n_frames": 3,
+  "frame_timestamps": [
+    0.021,
+    0.063,
+    0.104
+  ],
+  "grid_layout": "1x3",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a man in a dimly lit indoor setting. He wears a light-colored cap and a dark-colored shirt. He is holding a microphone close to his face, suggesting he is speaking or performing. The lighting is very low, making the background appear dark and indistinct. Across the sequence, the man remains in a similar position, although there is a slight shift in his posture and the angle of the microphone as he continues his action. The final segment of the video transitions into a complete black screen, obscuring the man and the surroundings entirely. No text, logos, or other people are visible in the scene."
+}

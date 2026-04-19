@@ -1,0 +1,15 @@
+{
+  "video_id": "c94641a5dedf7db7d4f2efd0815a57b9",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.542,
+    1.627,
+    2.711,
+    3.795
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green all-terrain vehicle (ATV) is parked in a garage or workshop area with a concrete floor. The ATV features a prominent black front brush guard, a green storage box mounted on the front rack, and a single headlight. A small, white, oval-shaped logo is visible on the front of the vehicle. To the left and right of the primary ATV, parts of other vehicles are partially visible. The scene remains static across the sequence, with no people present and no movement of the equipment. There is no legible on-screen text. The lighting is consistent, casting soft shadows on the floor beneath the vehicle, and the composition of the shot does not change throughout the frames."
+}

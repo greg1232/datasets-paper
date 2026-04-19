@@ -1,0 +1,15 @@
+{
+  "video_id": "59b0d8ab996afee9ac107241d7b6626e",
+  "url": "./data/segments/3r714PCt5mU-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.542,
+    4.625,
+    7.708,
+    10.792
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of informational slides are presented against a teal background. The first scene features a group of five students, four of whom are gathered around two laptops on a table in a classroom setting, while a fifth student stands nearby. To the left of this image, text reads, \"\u00bfC\u00f3mo pueden contribuir las plataformas REA a la disposi\". The next scene shifts focus to the right side of the screen with a logo for \"procom\u00fan\" and the question, \"\u00bfC\u00f3mo veis el futuro de los recursos educati\". The following scene introduces a graphic titled \"Recursos Educativos Digitales\" containing various logos and links, accompanied by the text, \"\u00bfQu\u00e9 portales de REA tenemos a nuestra disposici\u00f3n? \u00bfQu\u00e9 mejorar\u00edais de ellos?\". The final scene concludes with a simple centered statement in all capital letters: \"DE TODO ESTO HABLAREM\"."
+}

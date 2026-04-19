@@ -1,0 +1,15 @@
+{
+  "video_id": "f30239aac837cb5a6a6868709f90ec70",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-098.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the white text \"I NEVER SHIT\" is seated in a studio environment. He is holding a red plastic cup to his lips, appearing to take a sip. In front of him is a professional black microphone on a stand. The background features a white mannequin wearing a white t-shirt and grey pants, clothing racks with various garments, and framed pictures on the wall. In the bottom left corner, a logo contains the text \"THE\", and in the bottom right, a logo reads \"RED VELVET POT\". Across the sequence, the man remains in a similar position, slightly tilting his head and adjusting the cup as he drinks, while the rest of the setting remains static."
+}

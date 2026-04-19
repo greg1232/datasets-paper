@@ -1,0 +1,15 @@
+{
+  "video_id": "3185f920e0a38f3f1df2281c8bf427e7",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-316.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.583,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An American football game is broadcast on a screen, featuring a match between teams represented by logos including the Atlanta Falcons. The game takes place in a large stadium with a green turf field and red seating areas. Players in white and dark uniforms are positioned on the field, preparing for a play. A scoreboard at the top displays \"2nd & 2\", the score as \"0\" for both teams, \"EXO\", a game clock at \"2:30\" then \"2:29\", and a shot clock at \":10\". Below the game footage, a separate window shows a man with blonde hair wearing a dark shirt and headphones, reacting with a focused expression. Large yellow text reading \"ANDERS\" is visible on a red background behind him. As the scene progresses, the players shift their positions on the field, and the game clock ticks down from \"2:30\" to \"2:29\"."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "37d972db84ce12e909c8bb3667984476",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-199.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.151,
+    0.454,
+    0.756,
+    1.058
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, headphones, and a black hoodie with the words \"BOSS HUSTLE\" printed on the chest sits in a studio setting. He is positioned in front of a professional microphone mounted on a black boom arm, speaking while looking slightly to his left. Behind him is a white backdrop featuring a logo with stars and the text \"UNCOR HUSTLE.\" To his right, a blue sign reads \"Where BOSSES Talk!\" and a black mug sits on the desk with red and white text that says \"BOSS TALK ONE ON ONE.\" A small red and white logo that says \"BOSS TALK\" is overlaid in the bottom left corner of the scene. Throughout the sequence, the man remains in a seated position, continuing to speak with slight movements of his head and mouth, while the camera angle and environment remain static."
+}

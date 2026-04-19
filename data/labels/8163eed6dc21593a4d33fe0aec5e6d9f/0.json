@@ -1,0 +1,15 @@
+{
+  "video_id": "8163eed6dc21593a4d33fe0aec5e6d9f",
+  "url": "./data/segments/3a0FD1177FA-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.371,
+    4.113,
+    6.856,
+    9.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is crafting a birthday card on a white cutting mat with grid lines. They are wearing a white smartwatch on their left wrist and a ring on their left ring finger. In the scene, the person uses both hands to position a small, square sentiment piece onto a brown card base. The sentiment piece features floral imagery and the text \"Hoping your BIRTHDAY is filled with all the best things\". Various pieces of patterned paper, including floral and blue-and-white designs, are scattered around the workspace. A logo featuring a heart and the text \"Stamping Jill\" is visible in the bottom left area of the scene. Across the sequence, the person's hands shift slightly as they press the sentiment piece firmly into place on the card, ensuring it is centered and secure."
+}

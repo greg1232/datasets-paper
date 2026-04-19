@@ -1,0 +1,15 @@
+{
+  "video_id": "21a4542b65fccc117d6863ad410e51ad",
+  "url": "./data/segments/3JYDT8lap5U-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.805,
+    2.415,
+    4.025,
+    5.635
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark suit jacket over a white shirt and a dark tie stands on a stage in front of a large digital screen. The screen displays the title \"INDUSTRIAL MACHINE LEARNING\" in large capital letters. Below the title, a smaller image of the man is shown alongside his name, \"Alejandro Saucedo,\" and several professional titles: \"CTO Exponential Technologies,\" \"Chairmen The Institute for Ethical AI & ML,\" \"Fellow (AI, Data & ML) The RSA,\" and \"Co-Founder TeenstrAI.com Initiative.\" At the bottom of the screen, the text \"CONTACT ME AT: A@E-X.IO\" is visible. A white banner at the bottom of the scene features the \"europython\" logo and the text \"Edinburgh 23 29 July 2018.\" As the sequence progresses, the man remains in a similar position on stage, gesturing slightly with his hands while speaking to an unseen audience."
+}

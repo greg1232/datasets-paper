@@ -1,0 +1,15 @@
+{
+  "video_id": "a6fec12ab4746b3e27e168d4a129aa41",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.205,
+    0.615,
+    1.025,
+    1.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people, including several men wearing grey polo shirts, black pants, and black face masks, walk through a modern airport terminal corridor with glass walls. Some men carry backpacks, and a Real Madrid club logo is visible in the upper center of the scene. The text \"BARAJAS AIRPORT 11:15\" is overlaid on the bottom left of the footage. As the sequence progresses, the group moves forward toward the camera. One man in a grey polo and black mask is prominently featured in the foreground, walking steadily. Other men follow behind him, some maintaining distance and others walking in pairs. The bright daylight filters through the glass panels of the airport structure, casting shadows on the floor as the group advances through the walkway."
+}

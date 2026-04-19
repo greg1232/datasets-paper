@@ -1,0 +1,15 @@
+{
+  "video_id": "ea84fb9e137b6db624b1d4831fa0ff24",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-140.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.31,
+    0.93,
+    1.55,
+    2.17
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser with several open tabs, including \"True Learning by Syternick\", \"Elements by Syternick\", and \"Future of Society by Syternick\". The main browser window shows a dark-themed interface featuring a circular conceptual map with various nodes connected by lines. A small embedded video feed in the upper right corner shows a man with a grey cap and a grey shirt. In the center of the screen, a smaller video window shows a classroom scene with students sitting at desks with colorful supplies and a teacher standing nearby. Text labels like \"True Learning by Syternick\" and \"Blackboard\" are visible in the browser's address bar and interface. Throughout the sequence, the screen remains static, with no visible changes in the layout, the people in the video feeds, or the on-screen content across the duration of the clip."
+}

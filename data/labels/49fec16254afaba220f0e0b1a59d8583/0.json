@@ -1,0 +1,15 @@
+{
+  "video_id": "49fec16254afaba220f0e0b1a59d8583",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.242,
+    0.726,
+    1.21,
+    1.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a simulated hospital room, several healthcare workers in blue scrubs and purple gloves attend to a patient. The room is equipped with a hospital bed with white linens, medical monitors, and an IV pole. A patient, dressed in a white patterned hospital gown, is sitting on the floor. One caregiver in black attire kneels beside her, holding a yellow object, while other staff members crouch or stand nearby, observing and assisting. As the scene progresses, the patient appears to be assisted in moving or adjusting her position on the floor. The staff members remain focused on the patient, maintaining a supportive posture. Each frame contains a logo in the bottom right corner with the text \"Sim Week\" next to a stylized icon of a medical mannequin."
+}

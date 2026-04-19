@@ -1,0 +1,15 @@
+{
+  "video_id": "01c1919b046d5d2f122215f79178f64c",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.192,
+    0.576,
+    0.959,
+    1.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand and forearm are shown working with a fuse box located inside a vehicle. The hand is positioned in the center of the frame, manipulating a blue fuse. In the background, a black fuse panel is visible, containing various colored fuses, some with white text such as \"10\" and \"15\" printed on them. To the right of the fuse box is a light-colored interior panel of the car and a black plastic trim piece. Throughout the sequence, the hand remains in a similar position, gripping the blue fuse. The hand slightly shifts its grip and angle as it appears to be inserting or removing the fuse from the panel. The lighting is consistent, and the focus remains tight on the hand and the immediate surrounding equipment."
+}

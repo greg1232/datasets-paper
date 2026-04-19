@@ -1,0 +1,15 @@
+{
+  "video_id": "b5e2b68e29b091fa012aa7553f77365e",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-217.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.525,
+    0.875,
+    1.225
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser with multiple open tabs, including ones titled \"True & Learning by Systemantics,\" \"Insights | Introduction | Kumu,\" and \"Rural Community Food System.\" A video call window in the upper right corner shows a man wearing a dark baseball cap and a dark shirt, speaking while looking toward the camera. The main focus of the screen is a complex conceptual map on a black background with various circular nodes and connecting blue lines. These nodes contain small images and labels such as \"the people,\" \"the place,\" \"the process,\" \"the purpose,\" \"the practice,\" and \"the product.\" A central orange node labeled \"the purpose\" is connected to several others. Throughout the sequence, the layout of the conceptual map and the man's appearance remain static, showing a continuous, unchanging presentation of the visual data."
+}

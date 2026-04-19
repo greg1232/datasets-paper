@@ -1,0 +1,15 @@
+{
+  "video_id": "2ce1047c4c2d518a798b9f049e6f2227",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-155.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.33,
+    0.99,
+    1.65,
+    2.31
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A crowded outdoor scene shows several men gathered together, many wearing white shirts and formal attire, appearing to be in a political or press gathering. Throughout the sequence, the men are standing close to one another, with some talking and others looking toward the camera. On-screen graphics feature a red and white news banner at the bottom with the text \"HAM \u0915\u0947 \u0938\u0902\u0924\u094b\u0937 \u0915\u0941\u092e\u093e\u0930 \u0938\u0941\u092e\u0928 \u092e\u0902\u0924\u094d\u0930\u0940 \u092c\u0928\u0947\" and a time stamp of \"10:08 PM\" next to a \"MAHARODH\" logo. Across the top, the question \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\" appears. Small inset photos and labels identify individuals such as \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\" and various \"\u092e\u0902\u0924\u094d\u0930\u0940\" (ministers). As the frames progress, the overlay graphics shift slightly; for instance, labels for \"\u092c\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\" and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930\" appear and disappear, and a fleeting phrase \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947 \u0909\u0924\u094d\u0924\u0930\u0939\" is visible in the final segment."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c5bad6cd623070195d8db41a2e198236",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-142.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.109,
+    3.328,
+    5.547,
+    7.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a static digital graphic with a vibrant purple-to-blue gradient background. The screen displays the text \"TIGER REAL ESTATE LLC\" centered at the top and the phone number \"727-329-8322\" centered below it, both rendered in a blue serif font with a subtle glow. As the video progresses, the arrangement of the text shifts. Initially, the words \"REALESTATE\" are merged into one word, but they quickly separate into \"REAL ESTATE.\" The text then begins to resize and reposition; in the final sequence, the entire block of text shrinks and moves toward the bottom right corner of the screen. The phone number \"727-329-8322\" remains constant throughout these transitions, though it shifts position and size along with the company name. No people, objects, or physical settings are visible in the clip."
+}

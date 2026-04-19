@@ -1,0 +1,15 @@
+{
+  "video_id": "d6db5119364553132b4000861bf30f65",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-137.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    11.186,
+    33.559,
+    55.931,
+    78.303
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and glasses performs on a stage in front of a seated audience. He is dressed in a white shirt, a red waistcoat, and a black vest, and he plays an acoustic guitar while singing into a microphone. The backdrop consists of vertical wooden panels. In the foreground, the backs of several audience members are visible; one woman has grey hair and wears a yellow top, while another wears a blue and red garment. The text \"ORCA\" appears in white letters on a dark rectangular background in the lower right of the scene. Across the sequence, the man continues his performance, shifting his facial expressions and body posture slightly as he sings. The audience remains seated and still, and the camera angle and setting remain consistent throughout the clip."
+}

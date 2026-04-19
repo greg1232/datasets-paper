@@ -1,0 +1,15 @@
+{
+  "video_id": "99e6721e8d5dae2a23d0b96360092a19",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.422,
+    1.267,
+    2.111,
+    2.956
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a room with a white wall and a shelf filled with CDs, two men sit in front of a television screen. The man on the left wears a dark green t-shirt, while the man on the right wears a light grey t-shirt and rests his chin on his hand. Behind them, a screen displays the glowing yellow text \"OUR STUPID REACTIONS\". A smaller rectangular inset window on the television screen shows a video of a man with dark hair and a beard. Across the sequence of frames, the two men remain relatively still with neutral or pensive facial expressions. In the final frames, text appears at the bottom of the inset video window that reads, \"I, Zahir ud-Din Muhammad Babur,\". The scene remains static in terms of location and composition, focusing on the men's reactions to the content playing in the inset video."
+}

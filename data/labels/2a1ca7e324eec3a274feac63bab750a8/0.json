@@ -1,0 +1,15 @@
+{
+  "video_id": "2a1ca7e324eec3a274feac63bab750a8",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-166.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.195,
+    0.585,
+    0.975,
+    1.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a white sleeveless jacket over a white shirt is speaking and gesturing with his hands while surrounded by other men in a crowded outdoor setting. The man in the white jacket is positioned centrally and is the primary focus of the footage. To his left and right, several other men are visible, including one wearing a light-colored shirt and glasses and another in a brown shirt. The scene remains static across the frames, though the speaker's hand gestures and facial expressions shift slightly. A news overlay frames the video, featuring several small portrait photos of individuals with names like \"\u0938\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940\", \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\", \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\", and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930\" and titles like \"\u0921\u093f\u092a\u094d\u091f\u0940 CM\" and \"\u092e\u0902\u0924\u094d\u0930\u0940\". The red news ticker at the bottom reads \"PM \u092e\u094b\u0926\u0940 \u0928\u0947 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930 \u0915\u094b \u092c\u0927\u093e\u0908 \u0926\u0940\", and a timestamp of \"10:09 PM\" is visible. The top red banners contain headlines such as \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091b\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\" and \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\"."
+}

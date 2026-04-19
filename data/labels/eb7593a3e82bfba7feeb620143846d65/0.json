@@ -1,0 +1,15 @@
+{
+  "video_id": "eb7593a3e82bfba7feeb620143846d65",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair, wearing thin-framed glasses, silver over-ear headphones, and a dark blue patterned shirt, is speaking into a black microphone. He is positioned in an indoor setting with a light-colored wall behind him. To his right is a framed blue and white poster featuring the number \"20\", and to his left is a Christmas tree decorated with multicolored lights. The man's expression changes slightly as he speaks, with his mouth opening and closing to form words. He maintains a consistent position throughout the sequence, with his head tilting slightly and his gaze directed forward. The background elements, including the festive tree and the framed artwork, remain static as he continues to talk into the microphone."
+}

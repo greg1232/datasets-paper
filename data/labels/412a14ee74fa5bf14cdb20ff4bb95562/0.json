@@ -1,0 +1,15 @@
+{
+  "video_id": "412a14ee74fa5bf14cdb20ff4bb95562",
+  "url": "./data/segments/3E6ctN22V7k-Scene-117.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.6,
+    1.0,
+    1.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young child with dark skin and dreadlocks, wearing a pink long-sleeved shirt over a grey garment, is focused on an open book. The scene takes place indoors against a background of a red brick wall. To the left, an adult wearing a blue long-sleeved shirt is partially visible, standing beside the child. Throughout the sequence, the child looks down at the pages of the book with a concentrated expression. In the transition from the first to the second frame, the child slightly opens their mouth and begins to lift their right hand toward the book. By the final frames, the child shifts their gaze upward and to the side while extending their right hand to touch the surface of the book. The camera remains in a close-up shot, capturing the child's facial expressions and movements."
+}

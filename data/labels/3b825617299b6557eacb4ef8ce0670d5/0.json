@@ -1,0 +1,15 @@
+{
+  "video_id": "3b825617299b6557eacb4ef8ce0670d5",
+  "url": "./data/segments/3tXiKB90OM0-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.558,
+    1.675,
+    2.792,
+    3.908
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, grey naval vessel is docked at a pier under a clear, light blue sky. The ship features a towering superstructure with various radar and communication equipment on top and several anchors attached to its bow. In the background, a concrete pier extends into the water, with a low, flat-roofed building and a red flag visible. A few indistinct figures are seen on the pier near the ship's starboard side. Throughout the sequence, the camera remains static, and there is virtually no movement within the scene. The lighting remains consistent, casting soft shadows on the hull of the ship. No text, logos, or specific identifying markings are legible on the vessel or the surrounding environment. The scene is a still composition of a military ship at port."
+}

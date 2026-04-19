@@ -1,0 +1,15 @@
+{
+  "video_id": "cf67e53d9d2c602e422e4f16d89ba01c",
+  "url": "./data/segments/3Z229_lKLpk-Scene-114.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.125,
+    1.875,
+    2.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a wide shot of a large assembly hall filled with numerous people seated in tiered rows of desks. Most individuals are men dressed in formal or traditional attire, including white button-down shirts and Nehru jackets. A few women are present, wearing traditional sarees. The people are seated and attentive, facing toward the front of the room. Throughout the sequence, the camera remains static, capturing the crowd in a fixed position. There are no significant movements or interactions between the individuals; they remain largely still in their seats. No on-screen text, logos, or specialized equipment are visible in the frames, and the lighting remains consistent. The scene is characterized by a formal, professional atmosphere, with the repetitive arrangement of seating and the uniform style of dress creating a sense of a structured governmental or institutional gathering."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4453b7caff88575b68cfb1807d82e356",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-086.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.248,
+    0.744,
+    1.24,
+    1.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a plastic-sleeved trading card featuring basketball player Steven Adams. The card is part of a \"MATRIX\" set and includes the text \"STEVEN ADAMS\" and the \"PANINI\" logo. The person holds the card against a red and black surface featuring the \"JASPYS CASEBREAKS.COM\" logo. In the background, a small inset window shows a man with a beard and dark clothing sitting at a desk with a computer monitor. As the sequence progresses, the person tilts the card, shifting the light to reveal the holographic or reflective properties of the card's surface. The surrounding environment remains constant, with the focused view of the card in the foreground and the man in the background remaining visible throughout the action."
+}

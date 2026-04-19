@@ -1,0 +1,15 @@
+{
+  "video_id": "36c56628a2ce8e3588cdc270c2b4394a",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.196,
+    0.588,
+    0.979,
+    1.371
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man appears in a small inset window in the bottom left corner of a screen recording, while the main area displays a financial trading platform with a price chart. The man has short brown hair and is wearing a dark shirt. In the background of the trading interface, a vertical banner features the \"TICKMILL\" logo and German text that reads, \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN\". The chart shows a downward price trend bounded by blue diagonal lines and a horizontal red line. As the sequence progresses, the man remains in the inset window, subtly shifting his facial expression and head position as he speaks. The technical chart and the surrounding interface, including a list of trading instruments and various menu bars, remain static throughout the clip."
+}

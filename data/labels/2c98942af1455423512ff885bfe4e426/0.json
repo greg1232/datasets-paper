@@ -1,0 +1,15 @@
+{
+  "video_id": "2c98942af1455423512ff885bfe4e426",
+  "url": "./data/segments/3F2rz23IKUk-Scene-062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    15.2,
+    45.6,
+    76.0,
+    106.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a brightly lit classroom or lecture hall, a presentation is taking place. A projector screen displays a slide titled \"Further information\" with a bullet point that begins \"Links providing more detailed information about the program.\" A man wearing a tan shirt and khaki pants stands near the door, while another person in a black t-shirt stands at a table with a laptop. Several audience members are seated in chairs, including a woman in a pink shirt and a man in a white t-shirt, facing the presenter. Tables are equipped with laptops and what appear to be small white model vehicles. As the scene progresses, the man in the tan shirt moves closer to the door and then exits the room. The man in the black shirt remains at the front, gesturing while speaking to the seated group. The audience members remain largely stationary, listening to the presentation."
+}

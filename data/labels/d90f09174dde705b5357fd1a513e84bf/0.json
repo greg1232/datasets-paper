@@ -1,0 +1,15 @@
+{
+  "video_id": "d90f09174dde705b5357fd1a513e84bf",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.206,
+    0.619,
+    1.031,
+    1.444
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with blonde hair, wearing a dark blue t-shirt and a gaming headset, appears in a small picture-in-picture window in the bottom-left corner of a video game screen. He is positioned in a room with a decorated Christmas tree visible behind him. The main screen displays a sports management game menu titled \"LINEUP,\" showing a tactical layout of player cards under tabs such as \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS.\" Numeric values like \"173,037,\" \"14,660,\" and \"2,343,543\" are visible at the top right. At the bottom, there are prompts including \"BEST LINEUP,\" \"HELP,\" and \"BACK.\" Across the frames, the man's facial expressions shift as he speaks, moving from a wide-eyed look to a more neutral expression, while the game menu remains static in the background."
+}

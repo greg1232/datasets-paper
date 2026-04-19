@@ -1,0 +1,15 @@
+{
+  "video_id": "b0d22a99ff71d13b52d0672016c64ef7",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.534,
+    1.602,
+    2.669,
+    3.737
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A promotional graphic for a financial service transitions through a series of text updates. On the left side of the screen, a green-themed graphic features a chart background and the text \"Fibonacci 24/7\" and \"Larry Pesavento,\" with a blue \"SUBSCRIBE\" button and a yellow \"FIBONACCI 24/7\" label. The right side of the screen is white and displays the logo \"TFNN.COM\" above the phrase \"EDUCATING INVESTORS.\" Across the frames, the white section updates its message in red text. It begins with the phrase \"NOT SATISFIED? GET A\", then adds \"GET A FULL REFUND WITHIN 30 DAYS,\" which remains constant through the final two frames. The overall layout remains static, focusing on the delivery of the refund guarantee message while keeping the subscription information visible."
+}

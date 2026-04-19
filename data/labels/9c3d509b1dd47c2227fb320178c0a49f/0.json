@@ -1,0 +1,15 @@
+{
+  "video_id": "9c3d509b1dd47c2227fb320178c0a49f",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.335,
+    4.004,
+    6.673,
+    9.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, gray hair and glasses, wearing a dark jacket, is seated and speaking. Behind him, another person is partially visible, wearing a black vest over a white shirt and holding a professional camera. The setting appears to be an office or meeting room with wooden shelving, where a red tote bag and a gray water bottle are visible. In the foreground, a blue box of tissues sits on a desk. On-screen text in a white banner reads \"April 12, 2019,\" \"House Committee on General, Housing, and Military Affairs,\" and \"S.23 Increasing the Minimum Wage,\" accompanied by an \"ORCA\" logo. Across the sequence, the man in the foreground is captured in mid-speech, gesturing with his right hand. In the first frame, his hand is raised and open; by the final frame, his hand has lowered and is positioned closer to his chest as he continues talking."
+}

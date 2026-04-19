@@ -1,0 +1,15 @@
+{
+  "video_id": "bf197b019e5439a0f21bfbca98750fb7",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.196,
+    0.588,
+    0.979,
+    1.371
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, blue and white presidential aircraft, identified as Air Force One, is positioned on an airport runway against a backdrop of rolling green mountains and a distant town. The plane features four jet engines and \"UNITED STATES OF AMERICA\" written along its fuselage. In the top right corner of each frame, a circular red and white \"13\" logo is visible. As the sequence progresses, the aircraft begins to move forward and slightly lift its nose, transitioning from a stationary position to the start of a takeoff roll. In the latter half of the sequence, a white text banner appears at the bottom of the screen containing the words \"AIR FORCE ONE\" in bold, black capital letters. No people are visible in the frames."
+}

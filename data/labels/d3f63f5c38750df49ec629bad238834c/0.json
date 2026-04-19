@@ -1,0 +1,15 @@
+{
+  "video_id": "d3f63f5c38750df49ec629bad238834c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-408.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip captures gameplay from a football simulation. In the initial scene, players in black and white uniforms compete on a green turf field under stadium lights, with an interface at the top displaying \"1st & 10\" and \"SUPER BOWL CH.\" A man wearing a headset and a blue shirt is visible in a small inset window in the bottom left. As the scene progresses, the gameplay pauses and transitions to a play-selection menu. The menu includes options such as \"SELECT A PLAY,\" \"COACH SUGGESTIONS,\" and \"HOLD THE LINE,\" while a \"PREVIOUS PLAY\" window shows a replay of a previous action. The man in the inset window remains visible, reacting to the screen. The interface continues to show game stats, including \"3rd\" down, a clock at \"0:32,\" and \"14\" points. By the end, the menu options shift to show a play called \"HB ISO\" and \"Z SPOT.\""
+}

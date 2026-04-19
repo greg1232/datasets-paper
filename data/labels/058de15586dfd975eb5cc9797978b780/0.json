@@ -1,0 +1,15 @@
+{
+  "video_id": "058de15586dfd975eb5cc9797978b780",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-127.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.234,
+    0.701,
+    1.168,
+    1.635
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with long dark hair tied back and wearing glasses performs on a stage. He is dressed in a white long-sleeved shirt under a black vest featuring ornate white embroidery and a red and white accessory at the chest. He stands behind a microphone stand, playing an acoustic guitar and singing. In the foreground, the backs of several people's heads are visible, including individuals with blonde and grey hair. The background consists of vertical wooden panels and horizontal blinds. A white logo with the text \"ORCA\" is visible on the right side of the screen. Across the sequence, the man remains in position, shifting his facial expression and mouth movements as he sings while continuing to play his guitar."
+}

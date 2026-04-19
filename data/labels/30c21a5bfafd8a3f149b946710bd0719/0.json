@@ -1,0 +1,15 @@
+{
+  "video_id": "30c21a5bfafd8a3f149b946710bd0719",
+  "url": "./data/segments/3PlNaEZzZg0-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.325,
+    9.975,
+    16.625,
+    23.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Narendra Modi stands behind a yellow-clothed podium against a stylized backdrop featuring red buildings and green trees under white lettering. He wears a long-sleeved yellow tunic paired with a red, white, and orange striped scarf draped over his shoulders. In the initial scene, he raises his right hand and looks toward the left side of the frame while speaking. He then lowers his hand and leans slightly forward, resting both hands on the edges of the podium. As the sequence progresses, he shifts his gaze and posture, moving his right arm across the podium to lean his weight on it while continuing to speak. Throughout the clip, he remains the sole person visible, positioned centrally behind the podium as his gestures and facial expressions change."
+}

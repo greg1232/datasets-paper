@@ -1,0 +1,15 @@
+{
+  "video_id": "756f776b95bd4f518411a9b8f471d377",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.581,
+    4.742,
+    7.904,
+    11.065
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A small, black square integrated circuit chip with gold-colored pins rests on a plain, light-colored surface. In the initial scene, the chip sits alone in the center of the frame. A person's finger then enters from the top right, moving toward the chip and eventually pressing down on its top surface. As the finger makes contact, the chip is pushed downward and slides slightly across the surface. The perspective shifts throughout the sequence, moving from a centered view of the chip to a closer, angled shot that captures the interaction between the finger and the electronic component. The background remains a consistent, neutral white, focusing all attention on the small piece of hardware and the action of the finger."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "feed977820b47a79eb97b7adec919375",
+  "url": "./data/segments/3HgCF6yVXko-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.967,
+    5.9,
+    9.833,
+    13.767
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video tour moves through a residence, beginning in a bedroom and progressing into an attached bathroom. The initial view shows a room with pale yellow walls, a white crib, and a large wooden built-in wardrobe with silver handles. The camera pans past the wardrobe, moving through a doorway into a bright bathroom. The bathroom features white tiled walls and floors, a glass-enclosed shower stall, and a built-in bathtub. A white vessel sink sits atop a wooden vanity. A window with horizontal blinds allows natural light to fill the space. As the camera advances, it provides a closer look at the shower's glass partition and the adjacent bathtub area, ending with a focused view of the sink and the window. No people are present in the scene."
+}

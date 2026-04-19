@@ -1,0 +1,15 @@
+{
+  "video_id": "3be8c26ee4d209a2b746dc0da64f8df1",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.554,
+    1.662,
+    2.771,
+    3.879
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a dark-themed terminal window running a command-line interface. The screen is filled with lines of system logs and command outputs, featuring a mix of white, green, and red text on a black background. Legible text includes commands and paths such as \"msg*tail routiner starknet pather/logs/app.log\" and \"logs/vaf/facing\". The top of the window shows a menu bar with the word \"Activities\" and \"Terminal\", and a date stamp reading \"Oct 28 00:21\". As time progresses, the text in the terminal scrolls upward, indicating an active process generating new log entries in real-time. A cursor is visible, and some lines of text are highlighted in green, while others remain white. The overall interface suggests a developer or system administrator monitoring the backend logs of an application called \"starknet\"."
+}

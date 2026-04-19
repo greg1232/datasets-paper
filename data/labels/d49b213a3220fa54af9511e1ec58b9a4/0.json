@@ -1,0 +1,15 @@
+{
+  "video_id": "d49b213a3220fa54af9511e1ec58b9a4",
+  "url": "./data/segments/3P1vSUbet40-Scene-0055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.177,
+    0.532,
+    0.886,
+    1.241
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey, cone-shaped wig, glasses, a white tuxedo jacket with gold lapels, and a red bow tie sits in a studio setting. He wears black over-ear headphones and is positioned behind a professional microphone. In the background, several framed photographs and clothing mannequins are visible, along with a sign that reads \"LEE\". On-screen graphics appear on both the left and right sides of the man; on the left is a logo for \"THE TALK PODCAST\" and on the right is text that reads \"GOSS TALK JOY\". Across the sequence, the man remains relatively still, looking slightly downward and speaking, with subtle movements of his head and facial expressions as he talks into the microphone. The background and on-screen elements remain constant throughout the scene."
+}

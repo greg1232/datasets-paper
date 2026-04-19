@@ -1,0 +1,15 @@
+{
+  "video_id": "b58fa355134aeedac0c5ce0b649355bd",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-242.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.516,
+    1.548,
+    2.581,
+    3.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt with the text \"ION NEVER DO SHIT\" sits in a studio setting. He is positioned in front of a black professional microphone and speaks toward it. Behind him, the room features walls decorated with numerous framed photographs and a white mannequin wearing a white t-shirt. Racks of clothing are visible in the background to the right. Red and white logos, including one that says \"Silly\" and another that says \"Silly TV,\" are overlaid on the screen. Throughout the sequence, the man remains in a similar position, slightly shifting his head and facial expressions as he speaks, while the background and equipment stay static."
+}

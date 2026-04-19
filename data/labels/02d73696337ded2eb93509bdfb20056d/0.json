@@ -1,0 +1,15 @@
+{
+  "video_id": "02d73696337ded2eb93509bdfb20056d",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.872,
+    2.615,
+    4.359,
+    6.102
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with gray hair wearing a black shirt is centered in a room with plain, light-colored walls. He is speaking, and his facial expressions shift slightly as he talks. In the upper right corner of the scene, the text \"Tiger-TV\" is visible. A blue graphic banner appears across the lower third of the screen, displaying the name \"Basil Chapman\" and the phone number \"1-877-927-6648\". While the banner is initially absent or partially obscured, it becomes fully visible and remains constant as the clip progresses. To the right of the man, a blue and white box is partially visible on a surface. The man remains in a static position throughout the sequence, with only his mouth and facial muscles moving as he delivers his message."
+}

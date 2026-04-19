@@ -1,0 +1,15 @@
+{
+  "video_id": "ed757530c658191a54b2420f04a4d1d0",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.861,
+    8.584,
+    14.306,
+    20.028
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey baseball cap, and black over-ear headphones speaks into a professional microphone. He is positioned in front of a dark grey wall consisting of acoustic foam panels. The microphone is mounted on a black boom arm with \"Blue Microphones\" text visible on the arm. The man has a tattoo on his right forearm. Across the sequence, he is actively speaking and gesturing with his right hand. In the initial stage, his hand is raised and open near his shoulder. As the sequence progresses, his hand moves downward and outward away from his body, eventually disappearing from the frame as he continues to speak into the microphone. His facial expressions change slightly as he talks, and his head remains oriented toward the microphone."
+}

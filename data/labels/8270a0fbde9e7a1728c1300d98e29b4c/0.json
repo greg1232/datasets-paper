@@ -1,0 +1,15 @@
+{
+  "video_id": "8270a0fbde9e7a1728c1300d98e29b4c",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.089,
+    0.266,
+    0.443,
+    0.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair is positioned in front of a light-colored wall, wearing a striped shirt and large black over-ear headphones. To her left, a light-colored curtain with a blue edge hangs vertically. In the background, a neutral-toned piece of furniture is partially visible. Throughout the sequence, the woman is speaking, and her facial expressions and mouth movements shift slightly as she talks. On the bottom-left of each shot, the text \"Nancy Ramya\" appears in white. The camera remains static, maintaining a medium close-up shot of the woman as she continues her delivery. There are no other people or significant changes in the environment across the sequence, focusing entirely on her speaking to the camera."
+}

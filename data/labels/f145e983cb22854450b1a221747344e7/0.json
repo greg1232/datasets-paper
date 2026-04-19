@@ -1,0 +1,15 @@
+{
+  "video_id": "f145e983cb22854450b1a221747344e7",
+  "url": "./data/segments/3E6ctN22V7k-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.225,
+    0.675,
+    1.125,
+    1.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an outdoor setting with a reddish-brown dirt ground and green foliage in the background, a group of people are gathered near a red-brown building. A woman in the center, wearing a light-colored headwrap and a brown patterned wrap over a green garment, sits on a small wooden stool and gestures with her hands while speaking. To her right, another woman sits on a wooden bench wearing a green patterned dress, and a man sits behind her in a dark blue shirt. The scene remains largely static across the frames, with only subtle shifts in the central woman's hand gestures and facial expressions as she speaks. White text is overlaid at the bottom of the scene, stating, \"We have no access to information or training.\" No other equipment or logos are visible in the environment."
+}

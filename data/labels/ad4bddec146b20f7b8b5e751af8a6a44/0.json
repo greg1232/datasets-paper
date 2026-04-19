@@ -1,0 +1,15 @@
+{
+  "video_id": "ad4bddec146b20f7b8b5e751af8a6a44",
+  "url": "./data/segments/3JYDT8lap5U-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.53,
+    10.59,
+    17.65,
+    24.71
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard, wearing a grey suit jacket over a white shirt, stands at a blue podium during a presentation. He is positioned to the left of a large white projection screen. The bottom of the scene features a red and green logo for \"europython\" and the text \"Edinburgh 23 29 July 2018\". As the presentation progresses, the content on the screen changes. Initially, the screen displays \"GO CHECK IT OUT!\" and \"AIRFLOW.APACHE.ORG\". This changes to a slide titled \"AIRFLOW ALTERNATIVES\" listing \"Luigi\", \"Pinball\", and \"Seldon Core\", followed by \"OTHER SIMILAR (BUT DIFFERENT)\" with \"Dask\" and \"Apache Kafka\". The man is seen gesturing with his hands while speaking. Later, the screen displays \"SPECIAL MENTIONS\" with \"Docker\" and \"Kubernetes\" and the phrase \"IMPLEMENTATIONS ARE IN THE CODEBASE\". Finally, the screen shows \"WHAT'S NEXT FOR CRYPTO-ML?\" and the text \"As with every other tech startup the roller-coaster keeps going!\"."
+}

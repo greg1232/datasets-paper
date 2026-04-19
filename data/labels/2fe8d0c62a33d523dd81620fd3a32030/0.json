@@ -1,0 +1,15 @@
+{
+  "video_id": "2fe8d0c62a33d523dd81620fd3a32030",
+  "url": "./data/segments/3E6ctN22V7k-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.47,
+    1.41,
+    2.35,
+    3.29
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people, including many children and several adults, are gathered outdoors in a rural area with simple brown buildings and green trees in the background. The adults and children wear a variety of colorful casual clothing; one woman on the left wears a blue dress and holds a small child, while another woman towards the center wears a pink shirt. The children are standing close together, some looking toward the camera and others interacting with each other. The scene remains largely static across the frames, though some individuals shift their positions slightly. White text is overlaid on the bottom of the screen, stating, \"There is no internet, there are not even computers.\" In the final frames, a small brown box is visible on the ground in front of the group."
+}

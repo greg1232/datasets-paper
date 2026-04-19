@@ -1,0 +1,15 @@
+{
+  "video_id": "608cb73a622b5250c02ecc89f2b71f11",
+  "url": "./data/segments/3hLeTO8SC3U-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.43,
+    1.289,
+    2.148,
+    3.007
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video clip consists of a black screen featuring a single line of white text. The text, which remains static throughout the sequence, reads \"theCUBE\u00ae is a registered trademark of \u00a9SiliconANGLE Media, Inc. All rights reserved.\" The phrase is centered horizontally in the middle of the screen, appearing in a clean, sans-serif font. There are no people, objects, settings, or other visual elements present in any of the frames. The scene does not change over time, remaining a consistent display of the copyright and trademark notice against a solid black background."
+}

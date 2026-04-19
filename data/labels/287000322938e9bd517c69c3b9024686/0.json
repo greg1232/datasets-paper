@@ -1,0 +1,15 @@
+{
+  "video_id": "287000322938e9bd517c69c3b9024686",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    33.35,
+    100.05,
+    166.75,
+    233.45
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A meeting takes place in a room with beige walls, featuring four people seated at a table. A man on the far left wears a dark suit, a man beside him wears a grey suit and tie, a man in the center wears a grey vest over a white shirt, and a woman on the right wears a black patterned top. On the table are several bottles of water, papers, and microphones. On-screen text identifies the event as \"April 12, 2019\" and the \"House Committee on General, Housing, and Military Affairs\" with the topic \"S.23 Increasing the Minimum Wage,\" accompanied by an \"ORCA\" logo. Over the course of the clip, the man on the far left transitions from resting his head in his hand to sitting upright and looking forward. The man in the grey suit gestures with his hands while speaking, and the man in the vest remains seated with his hand near his face. The woman listens while looking toward the speakers."
+}

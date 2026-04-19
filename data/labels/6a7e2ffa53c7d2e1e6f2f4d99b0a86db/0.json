@@ -1,0 +1,15 @@
+{
+  "video_id": "6a7e2ffa53c7d2e1e6f2f4d99b0a86db",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-304.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    11.049,
+    33.146,
+    55.243,
+    77.34
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, graying hair and a beard is seated in a recording studio, wearing black over-ear headphones and a dark shirt over a gray undershirt. He is positioned behind a professional silver microphone mounted on a black boom arm. The background consists of dark gray, textured acoustic foam panels arranged in a grid pattern. As the sequence progresses, the man shifts his gaze and facial expressions. Initially looking forward with a neutral expression, he turns his head slightly to the right, then looks upward and to the side with a slight smile, and finally looks forward again with his eyelids partially closed. The camera remains stationary, capturing him from the chest up throughout the clip. There is no visible text or logos present in the scene."
+}

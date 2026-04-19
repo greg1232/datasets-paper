@@ -1,0 +1,15 @@
+{
+  "video_id": "f02b121f5786aa36cf00e47ec03b9637",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-269.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A simulated football game takes place on a green grass field under stadium lights, with a crowd of spectators in the background. Players in white and black uniforms are positioned across the field. In the first scene, a player in a black jersey with the number \"89\" runs toward a player in white who is lying on the turf, encircled by a red highlight. An on-screen overlay displays \"1st & 10\" and a game clock at \"1:50\". A small inset window shows a blond man wearing a headset and a dark blue shirt. As the action progresses, the perspective shifts closer to the players. The man in the inset window reacts with an open-mouthed expression. The player in black makes contact with the player in white, who is knocked backward onto the ground. The red and blue circular highlights remain visible on the turf beneath the athletes during the tackle."
+}

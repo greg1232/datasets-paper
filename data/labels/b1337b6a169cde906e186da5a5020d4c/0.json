@@ -1,0 +1,15 @@
+{
+  "video_id": "b1337b6a169cde906e186da5a5020d4c",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-071.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.217,
+    0.651,
+    1.084,
+    1.518
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene is a close-up shot of a vehicle's dashboard and ignition area. A set of keys is inserted into the ignition switch, with a light-colored keychain attached. The dashboard features a speedometer and several indicator lights, including \"DOOR Ajar\" and \"AIR BAG.\" Nearby, buttons labeled \"RANGE,\" \"RESET,\" \"FUEL,\" and \"TRIP\" are visible. A small portion of the person's leg, covered in blue denim jeans, is visible on the left side of the frame. Across the frames, the person turns the key in the ignition. As the key is turned, the \"DOOR Ajar\" and \"AIR BAG\" warning lights on the instrument cluster illuminate, indicating the vehicle's electrical system is being activated. The overall setting remains static, focusing on the interaction between the hand, the keys, and the vehicle's startup sequence."
+}

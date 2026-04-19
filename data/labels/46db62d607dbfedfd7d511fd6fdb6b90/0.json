@@ -1,0 +1,15 @@
+{
+  "video_id": "46db62d607dbfedfd7d511fd6fdb6b90",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-281.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.688,
+    1.147,
+    1.606
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a short beard and a shaved head is seated in a recording studio, wearing black over-ear headphones and a white t-shirt. He is positioned in front of a professional condenser microphone mounted on a boom arm; the arm features the legible text \"Rode PodMic\". The background consists of dark grey acoustic foam panels. As the sequence progresses, the man looks toward the microphone and begins to speak, moving his lips. In the final moments, he lifts his right hand, gesturing in front of his chest as he continues talking. His tattoos are partially visible on his right arm. The setting remains static, focusing on the man's upper body and the recording equipment as he engages in a conversation or recording session."
+}

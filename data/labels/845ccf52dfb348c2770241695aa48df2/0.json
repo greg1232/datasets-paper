@@ -1,0 +1,15 @@
+{
+  "video_id": "845ccf52dfb348c2770241695aa48df2",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-084.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.126,
+    1.877,
+    2.628
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark jacket and pants rides a green utility vehicle (UTV) out of a garage or shed. The UTV is green with a black seat and a rear cargo bed. In the foreground, the dark interior of the building frames the view, with stacks of large black tires and a red bucket visible on the right. The man is seated in the driver's seat, steering the vehicle forward across a concrete surface toward a grassy area. As the sequence progresses, the UTV moves steadily from the left side of the open doorway toward the right, eventually passing the center of the frame and continuing its path forward. The lighting shifts from the dark interior of the structure to the bright daylight outside, highlighting the green body of the vehicle and the outdoor landscape."
+}

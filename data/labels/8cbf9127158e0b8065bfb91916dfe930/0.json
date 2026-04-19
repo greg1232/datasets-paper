@@ -1,0 +1,15 @@
+{
+  "video_id": "8cbf9127158e0b8065bfb91916dfe930",
+  "url": "./data/segments/3phuyH7Y05U-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.204,
+    0.612,
+    1.021,
+    1.429
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting with a dark red background and vertical drapery, a yellow-skinned man with brown hair is positioned behind a tan wooden lectern. He is dressed in a dark blue suit jacket, a white collared shirt, and a blue tie. He leans slightly forward, resting his right hand on the side of the lectern while his left hand holds a microphone. Beside the microphone, a brown wooden gavel is visible. Throughout the sequence, the man remains in a stationary position with a consistent smile on his face. The scene remains virtually static across the frames, with no visible movement, changes in expression, or shifting of objects. There is no on-screen text or logos present in the scene."
+}

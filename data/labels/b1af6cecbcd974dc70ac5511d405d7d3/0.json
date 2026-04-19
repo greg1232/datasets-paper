@@ -1,0 +1,15 @@
+{
+  "video_id": "b1af6cecbcd974dc70ac5511d405d7d3",
+  "url": "./data/segments/3E6ctN22V7k-Scene-094.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.08,
+    0.24,
+    0.4,
+    0.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand reaches into a light-colored storage bin filled with numerous black rectangular cases arranged in neat rows. The bin has a yellow-green trim along its bottom edge and a small metallic latch on the inner side wall. In the beginning, the hand grips the edge of one of the cases. As the action progresses, the hand lifts a specific black case out of the bin, revealing a white label on the inside cover with the handwritten number \"13\". By the final moment, the case is pulled further upward and tilted, showing a blurry image or document contained within the case. The background consists of a softly blurred brown surface, likely a floor or tabletop. The movement is steady and focused on the retrieval of the single marked case from the organized collection."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "eee060ec8b999ae64f6820c2f3570f4a",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.847,
+    2.54,
+    4.233,
+    5.927
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short gray hair and glasses, wearing a dark suit jacket, is seated and facing left in a formal setting. He is positioned in front of a light-colored, slatted wall. To his left, a blue folder rests on a wooden table, and the torso and arm of another person in a dark suit are partially visible. The frames contain a consistent white banner at the bottom with the logo \"ORCA\" and the text \"April 12, 2019 House Committee on General, Housing, and Military Affairs\". Below this, a green bar displays the text \"S.23 Increasing the Minimum Wage\". Across the sequence of frames, the man remains in a similar position, slightly shifting his head and expression while appearing to listen or speak. The background and on-screen text remain static throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e399708b03d2f27f27736ec40de9c9b7",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-167.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.609,
+    1.828,
+    3.047,
+    4.266
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is centered within a circular frame set against a solid black background. He is wearing a dark, patterned shirt with light-colored trim and a matching dark cap. He looks toward the camera with a slight smile. The man remains stationary and maintains his expression and posture throughout the sequence, as the imagery is identical across the frames. The text \"Seyi Adebola\" appears in a small, white font on the left and center sides of the black background, remaining in a fixed position. No other people, objects, or equipment are visible in the scene."
+}

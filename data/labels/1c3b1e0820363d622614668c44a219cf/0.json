@@ -1,0 +1,15 @@
+{
+  "video_id": "1c3b1e0820363d622614668c44a219cf",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot shows the mechanical drive system of a vehicle, featuring a metal pulley, a dark rubber belt, and various metallic housing components. A person's hand is partially visible on the left side of the scene, interacting with the machinery. Across the sequence, the hand reaches into the frame to touch or adjust the rubber belt that wraps around the large, silver, circular pulley. As the action progresses, the hand moves slightly, applying pressure to the belt to check its tension or position. The background consists of dark mechanical parts and metallic shields, with no visible text, logos, or clothing details beyond the person's fingers. The scene remains static in terms of camera angle, focusing entirely on the tactile interaction between the hand and the belt-driven system."
+}

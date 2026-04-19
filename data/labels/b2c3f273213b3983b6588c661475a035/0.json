@@ -1,0 +1,15 @@
+{
+  "video_id": "b2c3f273213b3983b6588c661475a035",
+  "url": "./data/segments/3INb3jiuu6g-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.195,
+    0.585,
+    0.975,
+    1.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a red square graphic on a light grey background, transitioning to an aerial shot of a densely packed urban area featuring numerous small buildings with reddish-brown roofs surrounding a river and a distant city skyline. Overlaid on this scenery is the text \"SUBSCRIBE\" repeated three times in white and red. As the sequence progresses, the scene shifts back to a light grey background containing the website \"www.plustvafrica.com\" and the \"SUBSCRIBE\" text again. Finally, the video cuts to a close-up shot of a woman wearing a pink floral-patterned garment and large dangling earrings. She is looking towards the side with a neutral expression while another person is partially visible behind her. Throughout the sequence, the text \"www.plustvafrica.com\" and the repeated \"SUBSCRIBE\" labels appear as graphic overlays."
+}

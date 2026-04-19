@@ -1,0 +1,15 @@
+{
+  "video_id": "3b3cfd3408f3787c16d13299c297e2e6",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-128.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.73,
+    2.19,
+    3.65,
+    5.11
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dynamic motion graphic background in shades of blue and cyan features a central logo and stylized elements. The text \"PLUS POLITICS\" is prominently displayed in white, capitalized letters inside a blue rectangular box. Behind this text is a circular emblem containing a silhouette of a city skyline. The background consists of a blue world map with various translucent overlays and repeating light-blue text that reads \"plus politics.\" Bright, white lens flares and light streaks sweep across the screen, creating a sense of motion and energy. As the sequence progresses, the light effects shift and intensify, with glowing flares moving across the central logo and the map. The composition remains centered on the \"PLUS POLITICS\" branding, while the shifting light patterns and subtle changes in the background gradients provide visual movement."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "fe827ab7c431c5c3804e50d9abf2a9cf",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A flashlight illuminates a dark, earthy ground covered in dirt, small patches of grass, and scattered debris. The light creates a bright, concentrated white spot in the center of the frame, with the surrounding areas fading into deep shadows. A metal leg or pole of a piece of equipment is visible in the upper left corner of the scene. As the sequence progresses, the flashlight beam shifts slightly, causing the bright focal point and the surrounding illumination to move across the terrain. The perspective remains mostly stationary, focusing on the textured surface of the ground as the light reveals different details of the soil and vegetation. No people, text, or logos are visible in the scene."
+}

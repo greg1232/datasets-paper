@@ -1,0 +1,15 @@
+{
+  "video_id": "f96b2e68c4ae939dcff567082b8bb543",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-090.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.625,
+    1.875,
+    3.125,
+    4.375
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a protective plastic case containing a basketball trading card. The card features an image of basketball player Steven Adams in a white uniform, an autograph, and the name \"STEVEN ADAMS\" printed at the bottom. The card is part of the \"OBSIDIAN\" collection. In the background, a man wearing a black shirt is seated at a desk in a room with electronic equipment. A red surface below the card displays the logo \"JASPYS\" and the website \"CASEBREAKS.COM\". The scene remains static across the sequence, with the hand holding the card steady in the foreground while the man in the background looks toward the camera. Various boxes and equipment are visible on the desk behind the card, including items with green lighting."
+}

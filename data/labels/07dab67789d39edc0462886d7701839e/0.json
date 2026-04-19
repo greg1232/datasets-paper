@@ -1,0 +1,15 @@
+{
+  "video_id": "07dab67789d39edc0462886d7701839e",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.538,
+    1.614,
+    2.69,
+    3.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a grey long-sleeved sweater uses their hands to manipulate a black die-cutting tool on a table. The background consists of a printed brochure titled \"FEELS LIKE FROST SUITE\" and \"FROSTED FRAMES 5 DIE,\" featuring images of wintry, purple-toned stationery and a logo that says \"Yutitude Crew.\" As the sequence progresses, the person's fingers carefully peel away a white, intricately patterned floral frame from the black metal die. By the final stages, the white cutout is lifted almost entirely off the tool, revealing the hollow rectangular shape and delicate lace-like details of the cutout. The person's hands move steadily from the top of the die toward the center, gradually separating the material from the metal base while the brochure remains stationary underneath."
+}

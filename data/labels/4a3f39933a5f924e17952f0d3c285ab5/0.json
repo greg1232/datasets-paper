@@ -1,0 +1,15 @@
+{
+  "video_id": "4a3f39933a5f924e17952f0d3c285ab5",
+  "url": "./data/segments/3mmDnftP1M8-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light-colored, button-down shirt and a black gaming-style headset with a microphone is speaking in front of a plain, light-colored wall. The text \"Ashish Raichur\" is visible in the bottom-left corner of each scene. As the sequence progresses, the man uses expansive hand gestures to emphasize his speech. He begins with his hands raised near his head, then lowers them as he gestures outward to the sides. By the end of the clip, he has his arms spread wide, with his palms facing inward and fingers slightly curled. His facial expressions change as he speaks, with his mouth open and eyes focused forward. The lighting remains consistent throughout, and the camera angle is a medium shot, focusing on his upper body and head."
+}

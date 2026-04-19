@@ -1,0 +1,15 @@
+{
+  "video_id": "416b456e5124c4ba7349c0a790ecfeb5",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-825.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt with white text that reads \"IN HERBZ WE TRUST,\" a green baseball cap, and black headphones sits in a studio. He is positioned in front of a professional black microphone on a boom arm and appears to be speaking while smiling. The background is a room decorated with numerous framed photographs on the wall and a clothing rack filled with garments next to a white mannequin wearing a white shirt. On the screen, there are logos in the bottom corners, including one that reads \"BONE\" and another that reads \"BOOSTY FLY 101.\" Throughout the sequence, the man remains in the same position, slightly shifting his posture and facial expression as he continues to engage with the microphone."
+}

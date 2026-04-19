@@ -1,0 +1,15 @@
+{
+  "video_id": "4212b786842070fd0d41b91d2fb581c2",
+  "url": "./data/segments/3Z229_lKLpk-Scene-073.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.4,
+    1.2,
+    2.0,
+    2.8
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene depicts a luxurious, Art Deco-inspired interior wall featuring a combination of green marble and carved brown wood panels. The marble sections are arranged in an interlocking, stepped geometric pattern, punctuated by carved stone motifs. Integrated into these marble sections are vertical, cylinder-shaped light fixtures with gold-toned metallic frames and visible internal filaments that emit a warm glow. Adjacent to the marble are vertical wooden panels characterized by intricate, repeating fan-shaped carvings. Throughout the sequence, the camera remains completely static, and there are no people or movements present. The lighting remains constant, and no text or logos are visible. The visual composition is perfectly symmetrical, showing a seamless repeat of the architectural elements across the wall."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "266a01031183005a57ce1e25973eedbb",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-104.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.225,
+    0.675,
+    1.125,
+    1.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a light-colored polo shirt appears in a series of close-up shots. He is positioned outdoors at night, with the blurred background showing the red seating of a stadium and stadium lighting. In the upper right corner of several frames, a white crown logo is visible. On-screen text at the bottom of the image provides a greeting in Spanish and English: \"\u00a1Hola! Estoy muy contento por Hello! I'm really happy because\". Across the sequence, the man looks directly into the camera, his expression shifting slightly as he speaks. He remains in the same position throughout, with the camera focusing on his face and shoulders, while the lighting remains consistent, highlighting his features against the dark, open-air background of the sporting venue."
+}

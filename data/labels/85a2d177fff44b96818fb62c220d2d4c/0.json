@@ -1,0 +1,15 @@
+{
+  "video_id": "85a2d177fff44b96818fb62c220d2d4c",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-136.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.49,
+    1.469,
+    2.448,
+    3.427
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair, wearing a red top and earrings, is centered within a white circular frame against a solid black background. She is smiling and looking towards the camera. The text \"Nancy Ramya\" appears in white on the black background to the left of the circular frame. Throughout the sequence, the woman remains in the same position and maintains a consistent smile, with minimal changes in her facial expression or posture. The circular frame and the accompanying text \"Nancy Ramya\" remain stationary across all frames, creating a consistent visual presentation. No other people, objects, or equipment are visible in the scene."
+}

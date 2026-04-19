@@ -1,0 +1,15 @@
+{
+  "video_id": "e9aff757227b9a5c026564014aea7530",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-497.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.679,
+    5.036,
+    8.394,
+    11.751
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, a green t-shirt, and black headphones sits in a studio environment, speaking into a professional black microphone. His t-shirt features the white text \"ION NEVER DO SHIT\". The background consists of a wall adorned with numerous framed photographs and a clothing rack with various garments, including a white mannequin wearing a white shirt. To the left and right of the man, logos are visible on the screen: a circular black and white logo containing the text \"RIDE\" and \"SIT\" on the left, and a red and white logo reading \"RIDE\" and \"SIT\" on the right. Throughout the sequence, the man remains in a seated position, shifting his facial expressions and slightly moving his head as he speaks, while the camera angle and background elements remain static."
+}

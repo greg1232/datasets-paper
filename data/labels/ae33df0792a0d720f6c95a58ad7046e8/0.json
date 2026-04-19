@@ -1,0 +1,15 @@
+{
+  "video_id": "ae33df0792a0d720f6c95a58ad7046e8",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men are seated in a room in front of a television and a soundbar. The man on the left wears a grey t-shirt and has his hand near his face, while the man on the right wears a grey t-shirt and a necklace, holding his hand to his mouth. Behind them, a shelf holds several rows of media cases. A neon sign on the wall displays the text \"OUR STUPID REACTIONS\". An inset video window is visible on the screen, showing a close-up of a person's arm and clothing. Across the sequence, the men remain largely stationary, though the man on the left shifts his hand slightly and the man on the right adjusts his grip near his mouth. The content within the inset video window changes, showing different angles of the arm and clothing."
+}

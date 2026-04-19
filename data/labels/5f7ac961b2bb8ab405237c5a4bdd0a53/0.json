@@ -1,0 +1,15 @@
+{
+  "video_id": "5f7ac961b2bb8ab405237c5a4bdd0a53",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-367.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.458,
+    1.375,
+    2.292,
+    3.208
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a black t-shirt with a yellow circular logo, is seen in a room with a desk and computer equipment. He sits behind a desk featuring several clear plastic containers and a computer monitor displaying a video of himself. To the left of the man, a digital interface shows a list of names and numbers, including \"22 MARK MOHULMEIER UTC\" and \"23 PAUL GOLDEN UTC,\" alongside a timestamp of \"2020-01-14 14:32 UTC\" and the text \"Don't use this service for giveaways! Use the Multi Round Giveaways instead.\" A red banner at the bottom reads \"Hit the SUBSCRIBE button down below!\" with a YouTube logo. The scene remains static across the sequence, with the man looking toward the camera, though the names on the list on the left shift slightly between the first and second set of images."
+}

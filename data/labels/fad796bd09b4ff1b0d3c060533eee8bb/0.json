@@ -1,0 +1,15 @@
+{
+  "video_id": "fad796bd09b4ff1b0d3c060533eee8bb",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-363.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.751,
+    1.251,
+    1.752
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head, a dark beard, and tattoos on his right arm sits in a recording studio against a background of dark grey acoustic foam panels. He wears a white t-shirt and black over-ear headphones. Positioned in front of him is a professional microphone attached to a silver boom arm labeled \"Rode\". Throughout the sequence, the man is speaking, his mouth opening and closing as he expresses himself. He uses his hands to gesture, moving his right hand across his chest and then shifting his movements toward the side. His gaze remains focused forward, alternating slightly in direction as he talks. The lighting is consistent across the scene, highlighting his features and the textures of the sound-absorbing wall behind him."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f0f2f8cd47fa89acd43ff32e1a01862b",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.232,
+    15.697,
+    26.162,
+    36.626
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A middle-aged man with a bald head and a gray beard, wearing a gray polo shirt, speaks directly to the camera. He is positioned in front of a white wall featuring a poster with the logo \"ALPHASZENSZOR\" and the heading \"Typical Gas Sensor Attributes.\" The poster contains various bullet points, a circular diagram with images, and small photos of equipment. In the background, labels \"ZB38 AlphaSzenszor Inc.\" and \"ZB39 DexM\" are visible on a white panel. As the video progresses, the man's facial expressions shift; he begins with a relatively neutral expression while speaking, then opens his eyes wider and raises his eyebrows in a look of surprise or emphasis. The camera remains stationary, maintaining a close-up shot of the man's head and shoulders throughout the sequence."
+}

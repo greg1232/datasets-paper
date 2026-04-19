@@ -1,0 +1,15 @@
+{
+  "video_id": "9a42c7271ba443d4bc76943ff7e6e458",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.333,
+    10.0,
+    16.667,
+    23.333
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored skin and short brown hair is presenting a financial trading platform. He is visible in a small picture-in-picture window in the bottom-left corner of the screen, wearing a dark-colored shirt. The main portion of the screen displays a trading chart with a fluctuating price line, featuring horizontal red and green zones. The \"TICKMILL\" logo is prominent in the top-left and bottom-left corners. Text on the left side reads, \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN,\" followed by a list of features including \"FIX Spreads ab 0.0 Pips.\" The chart's price axis shows values such as \"0.884323.\" As the sequence progresses, the man's facial expressions change slightly while he speaks, and the price line on the chart continues to move, reflecting live market data. The overall interface remains consistent throughout the clip."
+}

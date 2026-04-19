@@ -1,0 +1,15 @@
+{
+  "video_id": "ef582a1de85b597c98a897eb4722ed32",
+  "url": "./data/segments/3diuEKaigCA-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.53,
+    25.59,
+    42.65,
+    59.71
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing glasses, a light blue button-down shirt, and a white medical lab coat sits in an office setting. He has dark hair and a greyish beard and is positioned in front of a neutral-colored wall and a tan chair. On the right side of the frame, a glass whiteboard contains handwritten notes. The \"manipal hospitals\" logo and the text \"LIFE'S ON\" appear in the top left corner of the scene, and a similar logo is embroidered on the left breast of the man's coat. Throughout the sequence, the man remains seated and looks directly toward the camera while speaking, with subtle changes in his facial expressions and lip movements. The camera remains stationary, and the background elements, including the whiteboard and office furniture, do not move."
+}

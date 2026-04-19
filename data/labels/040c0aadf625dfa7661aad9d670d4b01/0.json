@@ -1,0 +1,15 @@
+{
+  "video_id": "040c0aadf625dfa7661aad9d670d4b01",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-109.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.302,
+    0.906,
+    1.51,
+    2.115
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a black background with four identical magenta circles, each containing a white capital letter \"C\" centered within it. The circles are positioned symmetrically in the corners of the frame. The name \"Christopher Albuquerque\" appears in small, white, sans-serif text in the center-left, center-right, bottom-left, and bottom-right areas of the screen. There are no people, movement, or changes in setting throughout the sequence. The visual elements remain static and unchanging across all frames, maintaining the same positions for the letters and the quoted text \"Christopher Albuquerque.\""
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "38f72bb16d19ecbf898215dbe2e73e94",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.205,
+    0.615,
+    1.025,
+    1.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call features several participants in separate video windows. One man wears a blue shirt and glasses, another wears a gray shirt and headsets while sitting outdoors under a tree, and a third man wears a blue shirt and a gray baseball cap with headphones. A woman wearing a light-colored top and pink headphones rests her chin on her hand. Legible on-screen name tags include \"Jerry Mcluhan\", \"Norway S Kvernan\", \"Gezel Balleya\", and \"Indra T\". As the video progresses, the participants remain in their respective positions with minimal movement, though their facial expressions shift slightly. In the final sequence, a new participant appears in a bottom window, showing a woman with gray hair wearing a dark top, sitting in a room with a bookshelf and a lamp in the background. The name tag \"Susan Sticky\" is visible below her window."
+}

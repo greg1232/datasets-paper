@@ -1,0 +1,15 @@
+{
+  "video_id": "a9f32c8f5259872cfc22a89149b6a62c",
+  "url": "./data/segments/3r714PCt5mU-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.604,
+    1.812,
+    3.021,
+    4.229
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a series of educational graphics on a light blue background. Each frame features an infographic titled \"REA Recursos Educativos Abiertos\" which includes a section asking \"QU\u00c9 SON LOS REA\" and a description referencing UNESCO 2012. A central diagram shows the \"4R\" cycle consisting of \"REDISTRIBUIR\", \"REVISAR\", \"COMBINAR\", and \"REUTILIZAR\", alongside an orange box listing \"CONTENIDOS\", \"SOFTWARE\", and \"LICENCIAS ABIERTAS\". The \"cedec\" logo appears at the bottom. Overlaid on the left side of the screen, orange text progressively builds a question. It starts with \"\u00bfPor qu\u00e9 lo\", evolves into \"\u00bfPor qu\u00e9 los recursos educativos abiertos son importantes en la educaci\", then completes as \"\u00bfPor qu\u00e9 los recursos educativos abiertos son importantes en la educaci\u00f3n?\", and finally adds the sentence \"\u00bfQu\u00e9 tienen de especial?\". The infographic remains static while the text on the left updates through the sequence."
+}

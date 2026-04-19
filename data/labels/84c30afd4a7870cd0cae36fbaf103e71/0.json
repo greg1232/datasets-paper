@@ -1,0 +1,15 @@
+{
+  "video_id": "84c30afd4a7870cd0cae36fbaf103e71",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-123.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.335,
+    4.004,
+    6.673,
+    9.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses performs music in an indoor setting featuring light-brown slatted walls. He wears a white collared shirt under a dark vest and a red and white patterned necktie. He stands behind a microphone and holds a light-colored acoustic guitar, appearing to sing. In the foreground, the backs of several people's heads are visible, including individuals with blonde, grey, and brunette hair; one person wears a purple garment. The text \"ORCA\" is displayed in white capital letters on the right side of the scene. Across the sequence, the man remains in a similar position, singing into the microphone while slightly adjusting his posture and facial expression. The audience members in the foreground remain relatively still, with minor shifts in their head positions as they watch the performance."
+}

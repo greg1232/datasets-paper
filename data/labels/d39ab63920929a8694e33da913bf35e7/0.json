@@ -1,0 +1,15 @@
+{
+  "video_id": "d39ab63920929a8694e33da913bf35e7",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.584,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A blurry overhead shot captures a workshop or garage floor with several mechanical parts scattered across a brown surface. A large, textured black tire occupies the upper right of the scene, while a smaller, dark mechanical component lies to the far left. In the center, a complex, light-colored metallic engine part or assembly sits stationary. A small portion of a blue object is visible at the bottom left edge, and another rounded metallic piece is partially visible at the bottom center. Across the chronological sequence, there is no visible movement of the objects or any change in the camera position. No people are present in the scene, and there is no legible text or logos visible on any of the equipment. The scene remains static and unchanging throughout the captured frames."
+}

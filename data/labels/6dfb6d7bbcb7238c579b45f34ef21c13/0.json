@@ -1,0 +1,15 @@
+{
+  "video_id": "6dfb6d7bbcb7238c579b45f34ef21c13",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    13.85,
+    41.55,
+    69.25,
+    96.95
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This video presents a series of educational slides for a course titled \"CRYOGENIC ENGINEERING\" delivered by Prof. M D Atrey of the Department of Mechanical Engineering, IIT Bombay. The NPTEL logo is visible in the bottom-left corner of each slide. Initial frames recap an \"Earlier Lecture\" regarding a \"Linde \u2013 Hampson system,\" stating that \"As the compression pressure increases, the liquid yield y increases for a given compression temperature.\" Subsequent frames transition to the \"Outline of the Lecture\" for the topic \"Gas Liquefaction and Refrigeration Systems (contd).\" This section lists the \"Basics of Heat Exchangers\" and introduces the \"Effect of heat exchanger effectiveness on Linde \u2013 Hampson system.\" The visual presentation is a static slide deck with black headers and footers and white content areas, progressing through the lecture's introductory points and agenda."
+}

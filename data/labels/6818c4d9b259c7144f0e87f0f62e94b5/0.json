@@ -1,0 +1,15 @@
+{
+  "video_id": "6818c4d9b259c7144f0e87f0f62e94b5",
+  "url": "./data/segments/3F2rz23IKUk-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    15.225,
+    45.675,
+    76.125,
+    106.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with brown hair and glasses stands in a room with neutral-colored walls, likely giving a presentation. He is wearing a black t-shirt with a graphic and the text \"Knuth\" printed across the chest, along with a blue lanyard and an identification badge. Behind him is a plain wall and a partial view of a projection screen. In front of him, the top of a black chair is visible. Throughout the sequence, the man gestures with his hands while speaking. He begins with his hands slightly apart and open, then brings his hands together to form a heart shape with his fingers. He subsequently moves his hands outward again in an expansive gesture before bringing them back together in front of his chest. His facial expression remains engaged and focused as he speaks."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d5964e2165b6e25245507bb8c5e98c3f",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-220.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.331,
+    0.994,
+    1.656,
+    2.319
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair, wearing a dark t-shirt and white headphones, appears in a small video overlay on the left side of a video game menu. He is positioned in front of a window and a decorated Christmas tree. The game interface features a dark purple theme with a top bar displaying the text \"HEAD 2 HEAD\" and various numeric statistics. Four large rectangular tabs are visible at the top: a bright lime green \"PLAYOFFS\" tab, \"CHAMPIONS\", \"SQUADS SEASON\", and \"ALL-MADDEN SEASONS\". Below these, a results screen lists game outcomes, including text such as \"Losses Until Elimination 1\" and \"Wins to Super Bowl 2\". As the scene progresses, the man's facial expressions shift from a wide-eyed, surprised look with his mouth open to a joyful smile, showing his teeth. The background elements and the on-screen game menu remain static across the sequence."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "79ee2bdeaefd83fae6713f8a5d77cb6a",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-755.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is speaking into a professional black microphone while wearing headphones and a green t-shirt that reads \"ION NEVER DO SHIT AT WORK\". He is positioned in a room that appears to be a clothing store or studio, with a white mannequin wearing a white shirt and racks of colorful clothing visible in the background. The walls are decorated with several framed photographs. Throughout the sequence, the man remains in the same position, speaking and shifting his gaze slightly as he talks. In the bottom corners of the frames, two logos are present: a circular black and white logo on the left and a red \"BORN REALLY RICH\" logo on the right. The lighting and background remain constant as the man continues his delivery."
+}

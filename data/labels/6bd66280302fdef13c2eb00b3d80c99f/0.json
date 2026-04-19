@@ -1,0 +1,15 @@
+{
+  "video_id": "6bd66280302fdef13c2eb00b3d80c99f",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-599.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt and a matching green baseball cap is seated at a desk in a studio setting, speaking into a professional black microphone. Behind him, several banners are visible; one prominently displays the text \"UNIQUE FASHIONS,\" and another shows partially obscured text that includes \"'S TAI,\" \"OUT I,\" and \"ONNEC.\" A second person, wearing a blue hooded sweatshirt, stands in the background on the right side of the frame. On the desk, there is another microphone and a red logo that reads \"BOXX.\" Throughout the sequence, the man in green remains seated, gesturing with his right hand as he speaks, while his expression and posture shift slightly as he continues his conversation. The background remains static, and the lighting stays consistent across the scene."
+}

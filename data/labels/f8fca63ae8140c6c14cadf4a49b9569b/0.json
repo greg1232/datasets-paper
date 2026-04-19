@@ -1,0 +1,15 @@
+{
+  "video_id": "f8fca63ae8140c6c14cadf4a49b9569b",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-327.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.03,
+    12.09,
+    20.15,
+    28.21
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call screen displays a grid of numerous participants in a virtual meeting. Many participants appear multiple times across the grid, indicating a repetitive layout. Several men wear glasses and casual shirts, including one in a green t-shirt, another in a blue t-shirt, and others in button-down shirts. A few women are also present, with one wearing a light-colored top and another in a dark garment. Participants are seen in various home office settings with bookshelves, curtains, and walls in the background. Some individuals are speaking or listening attentively, while others lean back or look away from the camera. Small text labels appear beneath several video feeds, such as \"Jerry McHale,\" \"Edward Silverman,\" \"Gene DeLoach,\" and \"Mira van der Vaart.\" The scene remains static across the frames, showing the same arrangement of participants in their respective video tiles without any significant change in movement or composition."
+}

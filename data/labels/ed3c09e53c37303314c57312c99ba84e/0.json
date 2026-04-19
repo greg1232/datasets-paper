@@ -1,0 +1,15 @@
+{
+  "video_id": "ed3c09e53c37303314c57312c99ba84e",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-091.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.87,
+    8.609,
+    14.349,
+    20.089
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a static black background featuring four identical magenta circles, each containing a white uppercase letter \"C\". The circles are positioned symmetrically, forming a square pattern across the screen. Additionally, the text \"Christopher Albuquerque\" appears in a small, white, sans-serif font in four separate locations: twice in the middle of the screen and twice along the bottom edge. Across the sequence of frames, there is no visible movement, change in color, or alteration in the positioning of the graphics or text. The scene remains entirely constant, presenting a minimalist composition of geometric shapes and repeated text against a dark void."
+}

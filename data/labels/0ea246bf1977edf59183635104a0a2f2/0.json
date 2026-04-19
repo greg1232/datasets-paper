@@ -1,0 +1,15 @@
+{
+  "video_id": "0ea246bf1977edf59183635104a0a2f2",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-772.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.954,
+    2.862,
+    4.77,
+    6.679
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the white text \"ION NEVER DO SHIT ATWORK\" sits in a room that appears to be a clothing store or studio. The background features a wall covered in framed photographs, a white mannequin wearing a white shirt, and racks of clothing. A professional microphone is positioned in front of him. In the initial sequence, he is speaking with a slight smile. As the scene progresses, he looks down and brings a red cup to his mouth to take a drink. Two logos are visible on screen: a circular emblem on the left and a red \"BOOSTLY\" logo on the right. The camera remains stationary throughout the clip, capturing his movements from the chest up."
+}

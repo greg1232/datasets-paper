@@ -1,0 +1,15 @@
+{
+  "video_id": "f083702d6a975b8be55f7265630eb480",
+  "url": "./data/segments/3kfnwKjZWWI-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    38.396,
+    115.188,
+    191.979,
+    268.771
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a brown blazer, a light-colored button-down shirt, and khaki pants stands in front of a large whiteboard in a classroom or lecture hall setting. A round analog clock is mounted on the wall above the whiteboard, and a blue spray bottle sits on a ledge to the right. The whiteboard is covered in handwritten chemical equations and calculations, including the text \"[CH3CH2COOH] = 0.1000 M\", \"[NaOH] = 0.1000 M\", and \"FA = 1.9 x 10^-5\". In the initial frames, the man gestures toward the writing on the board with his right hand. As the sequence progresses, he moves to the right side of the frame, holding a small black electronic device, possibly a calculator or phone, in his hands. He continues to stand near the board, where further calculations such as \"[OH-] = 0.001000 mol\" are visible."
+}

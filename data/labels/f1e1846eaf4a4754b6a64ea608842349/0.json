@@ -1,0 +1,15 @@
+{
+  "video_id": "f1e1846eaf4a4754b6a64ea608842349",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, a group of healthcare professionals in scrubs gather around a hospital gurney. A man in pink scrubs stands on the left, while other staff members in pink and blue scrubs assist a simulated patient. On-screen text identifies the location as the \"UNIVERSITY OF MARYLAND Department of Surgery and R Adams Cowley Shock Trauma Center,\" and a logo in the bottom right reads \"Sim Week.\" Throughout the sequence, a person in blue scrubs is crouched by the gurney, working on the patient, while another staff member in a navy blue jacket and mask stands nearby. As the scene progresses, a woman in pink scrubs leans over the patient to assist. The medical team coordinates their movements around the equipment and the patient on the bed, maintaining their positions while focusing on the simulation task."
+}

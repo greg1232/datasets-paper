@@ -1,0 +1,15 @@
+{
+  "video_id": "a50200cd5aa041a11bcc3b7d73ffb112",
+  "url": "./data/segments/3QD9oO6sRns-Scene-162.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.583,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a sports trading card encased in a clear plastic protective slab against a backdrop of various items, including a blue and white box. In the first frame, the hands hold the slab steady, showcasing a baseball player in a white and orange uniform. As the sequence progresses, the person tilts and rotates the plastic case, causing light to reflect off its surface and partially obscure the card. In the bottom right frame, a bright white glare covers much of the card's face. Overlaid on the bottom right of each frame is a small video inset showing a man in a black t-shirt and a black baseball cap. Throughout the clip, orange and white text is visible in the background and as overlays, including \"CASEBREAKS.COM\" and \"BREAKS\"."
+}

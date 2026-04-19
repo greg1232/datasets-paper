@@ -1,0 +1,15 @@
+{
+  "video_id": "0c04f5db8717b945d85934e4f149ffe4",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-090.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.545,
+    4.635,
+    7.725,
+    10.815
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a series of credit screens against a dark blue background. Each frame features the NPTEL logo, consisting of a circular gear design with a central eye and the text \"NPTEL\" and \"NATIONAL PROGRAMME ON TECHNOLOGY ENHANCED LEARNING\" below it. As the sequence progresses, the text on the right side of the screen changes to list various roles and names. Initially, the text identifies the \"Principal Investigator IIT Bombay\" as \"Prof. R. K. Shevgaonkar\" and \"Prof. A. N. Chandorkar.\" The screen then transitions to list the \"Head CDEEP\" as \"Prof. V M Gadre,\" the \"Producer\" as \"Arun Kalwankar,\" and the \"Project Manager\" as \"M. Sangeeta Shrivastava.\" This is followed by credits for the \"Sr. Cameraman\" \"Tarun Negi,\" the \"Sr. Online Cameraman\" \"Sandeep Jadhav,\" the \"Digital Video Cameraman/Video Editor\" \"Amin Shaikh,\" and \"Technical Assistants\" \"Vijay Kedare\" and \"Ravi paswan.\" The final frame displays the text \"Copyright CDEEP IIT Bombay.\""
+}

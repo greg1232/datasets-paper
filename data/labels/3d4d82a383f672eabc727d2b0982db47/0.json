@@ -1,0 +1,15 @@
+{
+  "video_id": "3d4d82a383f672eabc727d2b0982db47",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-853.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.376,
+    4.129,
+    6.882,
+    9.635
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, over-ear headphones, and a green t-shirt that reads \"ION NEVER DO SHIT AT WORK\" speaks into a professional black microphone. He is in a room featuring a wall of framed photographs, a white mannequin torso, and clothing racks in the background. Two logos are visible at the bottom of the screen: a circular emblem on the left and a red text logo on the right that reads \"PROUDLY FELIX TOT\". As the sequence progresses, the man speaks, moving his mouth and gesturing with his right hand. In the second frame, he begins to raise his hand, and by the final frame, his hand is open and lifted in a gesturing motion while he continues to talk. The background and equipment remain stationary throughout the clip."
+}

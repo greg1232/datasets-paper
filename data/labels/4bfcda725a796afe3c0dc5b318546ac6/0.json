@@ -1,0 +1,15 @@
+{
+  "video_id": "4bfcda725a796afe3c0dc5b318546ac6",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-889.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a room with walls covered in framed photographs and clothing racks in the background. He is wearing a green baseball cap, black headphones, and a dark green t-shirt with the white text \"I CN NEVER DO SHIT IT WORK\" printed on the front. He is positioned behind a black professional microphone on a stand. To his left, a white mannequin wearing a white garment stands near a clothing rack. On-screen logos appear in the lower corners, including one that reads \"REDDY RUFFY\" and another circular logo. Across the sequence, the man transitions from a wide, open-mouthed laugh to a more closed-mouth smile, and finally to a neutral expression as he speaks, while remaining in the same seated position throughout."
+}

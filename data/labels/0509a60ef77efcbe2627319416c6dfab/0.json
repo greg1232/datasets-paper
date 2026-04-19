@@ -1,0 +1,15 @@
+{
+  "video_id": "0509a60ef77efcbe2627319416c6dfab",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view captures a mechanical system consisting of multiple pulleys and belts, likely part of a vehicle's engine or machinery. A person's hand enters from the top left, gesturing towards the equipment. The machinery features a large, silver, circular metal component with a series of radiating ribs, connected to other pulleys by a dark, wide drive belt. A smaller pulley is visible in the lower left foreground. In the background, black cables with red protective sleeves are visible. As the sequence progresses, the hand moves slightly and then withdraws from the frame, while the mechanical components remain stationary. The scene is consistently lit, emphasizing the metallic textures and the industrial nature of the setting. No text or logos are legible on the equipment."
+}

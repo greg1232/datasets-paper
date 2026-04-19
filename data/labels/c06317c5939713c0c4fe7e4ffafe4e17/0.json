@@ -1,0 +1,15 @@
+{
+  "video_id": "c06317c5939713c0c4fe7e4ffafe4e17",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.356,
+    1.069,
+    1.781,
+    2.494
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard, wearing a black t-shirt, is positioned in front of a computer monitor during a live stream. The screen displays a random name generator from \"RANDOM.ORG\" with a list of numbered names, including \"Carl Hagedorn\" and \"Michael Loguericio,\" alongside a chat window featuring messages from \"glowbug27\" and \"Nightbot.\" The Nightbot message reads, \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/2SdeS4K9.\" Below the list, text states, \"Don't use this service for giveaways! Use Multi-Round Giveaways instead.\" At the bottom of the monitor, the \"JASPYS\" and \"CASEBREAKS.COM\" logos are visible. The man remains relatively still, looking toward the screen, while the on-screen text fluctuates slightly; specifically, the text \"You have randomized this list 3 times\" changes to \"You have randomized this list 4 times.\""
+}

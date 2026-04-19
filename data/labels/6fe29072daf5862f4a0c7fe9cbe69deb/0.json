@@ -1,0 +1,15 @@
+{
+  "video_id": "6fe29072daf5862f4a0c7fe9cbe69deb",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-185.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser open to a presentation. In the top right corner of the browser window, a man wearing a grey baseball cap is visible in a small video call inset. The main area of the screen is black, featuring green text. Initially, only the phrase \"Pleasant Breakfast\" is visible in the upper left area of the black screen. As the video progresses, a second phrase, \"Unsightly Growth,\" appears in the lower right area of the black screen. The browser tabs at the top are visible, with titles including \"Trail & Learning by SystemSynth,\" \"Presence, by SystemSynth,\" \"Future of Society by SystemSynth,\" and \"Insights Introduction & Ruins.\" The interface elements of the browser, including the address bar and various icons, remain static throughout the sequence while the text on the presentation slide updates."
+}

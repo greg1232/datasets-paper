@@ -1,0 +1,15 @@
+{
+  "video_id": "3b79d50a84cf825c7a3227a3d52f078f",
+  "url": "./data/segments/3o6LBa7ZAp0-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.813,
+    1.139
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men in dark suits and ties sit at a long white table against a light-colored wall with a geometric pattern. Both men wear blue lanyards around their necks. The man on the left wears glasses and holds his hand to his chin in a thoughtful gesture, while the man on the right leans forward and speaks. On the table are several water bottles, a black microphone, and nameplates; one nameplate reads \"Mohamed AMREO\". A logo featuring the word \"PMEPA\" is visible on the upper right of the wall. As the sequence progresses, the man on the left maintains his reflective posture, occasionally shifting his hand. The man on the right remains engaged in speaking, gesturing slightly with his hands as he talks. The setting remains static, with the focus staying on the two men during their interaction at the table."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c01ef1d7929e19b54b79abc1671c9f4d",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.158,
+    0.475,
+    0.792,
+    1.109
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a dark, obscured view before transitioning to a brightly lit classroom or training center. A group of people, many wearing matching blue short-sleeved shirts, are seated around white rectangular tables. Some individuals are using laptops, while others are engaged in conversation or looking toward the front of the room. The room features neutral-colored walls, a large dark screen or chalkboard on the wall, and a white whiteboard. In the latter parts of the clip, a woman in a blue shirt is seen speaking and gesturing with her hands toward her colleagues. Each frame contains a small logo in the bottom right corner featuring a stylized icon and the text \"Sim Week\". The scene progresses from a black screen to a wide shot of the group collaborating in the professional training environment."
+}

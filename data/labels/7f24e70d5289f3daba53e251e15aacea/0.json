@@ -1,0 +1,15 @@
+{
+  "video_id": "7f24e70d5289f3daba53e251e15aacea",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-148.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.383,
+    1.15,
+    1.917,
+    2.683
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video gamer is captured in a small rectangular overlay in the bottom-left corner of a sports simulation game interface. The man has short brown hair and a beard; he is wearing a dark shirt and appears to be reacting with a surprised expression, his mouth open in each frame. The background is a \"SUBSTITUTION\" screen featuring a roster of \"AVAILABLE PLAYERS\" in football uniforms. The text \"Current Position TE2\" and \"No other positions\" are visible on the left. Detailed player cards for \"KHARI BLAIR-SLAGLAME\" and \"CHIGOZIEM OKONKWO\" display \"KEY ATTRIBUTES\" such as \"HEIGHT,\" \"SPEED,\" and \"CATCHING.\" Numerical data at the top shows values like \"173,037\" and \"2,943,543.\" Throughout the sequence, the game interface remains static while the man's facial expression shifts slightly, maintaining a look of shock or disbelief as he looks toward the screen."
+}

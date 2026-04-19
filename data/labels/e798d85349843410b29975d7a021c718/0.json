@@ -1,0 +1,15 @@
+{
+  "video_id": "e798d85349843410b29975d7a021c718",
+  "url": "./data/segments/3QD9oO6sRns-Scene-171.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.681,
+    2.044,
+    3.406,
+    4.769
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt and a white baseball cap appears in a small picture-in-picture window in the lower right corner of a video. He is speaking and gesturing with his hands throughout the sequence. The main view focuses on a table covered with a black mat featuring a large orange and white logo that reads \"JASPYS CASEBREAKS\". Above the mat sits a white piece of paper with the text \"Sports Cards & Collectibles HERMOSA BEACH CA\" printed in blue and orange. In the background, a white box is visible, featuring a logo and the website \"CASEBREAKS.COM\". A red and white object sits on the table to the left. The scene remains static in terms of camera angle, with only the man in the inset window moving as he talks and gestures, while the tabletop items remain stationary."
+}

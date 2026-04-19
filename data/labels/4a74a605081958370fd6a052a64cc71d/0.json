@@ -1,0 +1,15 @@
+{
+  "video_id": "4a74a605081958370fd6a052a64cc71d",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-277.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.155,
+    0.465,
+    0.775,
+    1.085
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with short dark hair and a dark shirt is visible in a small webcam overlay in the upper right corner of a screen recording. The main screen displays a presentation slide titled \"028 Sustainable Local Food Supply.\" The slide features a causal loop diagram with red arrows connecting various concepts, including \"Local Sustainable Farming,\" \"level of supply,\" \"Safe, Healthy but Expensive Food,\" and \"level of demand.\" Text on the slide explains that \"028 Sustainable Local Food Supply also contributes to deteriorating 'market price' for local sustainable food products.\" A legend at the bottom defines \"balancing loop\" and \"reinforcing loop.\" As the video progresses, a red circle is drawn on the screen, highlighting the relationship between \"level of supply,\" \"Safe, Healthy but Expensive Food,\" and \"level of demand.\" The person in the webcam remains relatively still while the cursor moves to animate the red circle."
+}

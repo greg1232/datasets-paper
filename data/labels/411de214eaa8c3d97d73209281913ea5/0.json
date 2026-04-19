@@ -1,0 +1,15 @@
+{
+  "video_id": "411de214eaa8c3d97d73209281913ea5",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up view of a vehicle's digital dashboard and instrument cluster. On the left, a tachometer is visible with markings for RPM x1000, showing numbers like 3500, 4500, 5, and 6. In the center of the display, white on-screen text reads \"BRAKE\", followed by a red warning light and the instructions \"Press Brake and Push Button to Start\". Below these instructions, a small digital odometer displays \"20434 mi\". The scene remains static across the frames, with no people present and no movement of the needles or changes in the text. A blurry white object partially obscures the bottom right portion of the view throughout the sequence. The lighting is dim, emphasizing the red and white glow of the dashboard's electronic displays."
+}

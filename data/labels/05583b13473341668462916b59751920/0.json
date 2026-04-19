@@ -1,0 +1,15 @@
+{
+  "video_id": "05583b13473341668462916b59751920",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.318,
+    0.954,
+    1.59,
+    2.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair, wearing a light gray short-sleeved shirt, is seen from behind as he drives a vehicle. He is positioned in the driver's seat, with his hands on the steering wheel and his gaze directed forward through the windshield. The vehicle's interior features a dashboard with a small screen and a rearview mirror. Outside, the landscape consists of a road lined with green trees and shrubs under a bright, overcast sky. On-screen subtitles appear at the bottom of the scene. In the initial frames, the text reads, \"I work in Tal al-Shihab transporting refugees\". As the sequence progresses, the text changes in the final frame to read, \"from the Jordanian border to the hospital in Ramtha\". The scene remains relatively static across the frames, showing only the slight movement of the vehicle and the shifting subtitles."
+}

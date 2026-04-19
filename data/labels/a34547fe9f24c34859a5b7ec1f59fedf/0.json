@@ -1,0 +1,15 @@
+{
+  "video_id": "a34547fe9f24c34859a5b7ec1f59fedf",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-108.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.758
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a graded sports card in a clear protective plastic case, showcasing it to the camera. In the background, a man wearing a navy blue t-shirt is seated at a desk with electronic equipment, including a monitor and keyboard. The setting features a bright, colorful background with palm tree graphics. On-screen text includes the logos \"JASPYS\" and \"CASEBREAKS.COM\". As the sequence progresses, the person holding the card moves it, shifting the angle and position to provide different views of the card's surface and the case. The man in the background remains seated, observing the process. The focus remains primarily on the movement of the graded card in the foreground against the static backdrop of the room and the digital overlays."
+}

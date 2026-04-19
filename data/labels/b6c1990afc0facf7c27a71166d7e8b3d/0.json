@@ -1,0 +1,15 @@
+{
+  "video_id": "b6c1990afc0facf7c27a71166d7e8b3d",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-248.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a white long-sleeved shirt and a dark blue embroidered vest over it, stands behind a podium and speaks into a microphone. He is positioned in front of a wall with horizontal wooden slats. Several people are seen from behind in the foreground, including a woman with long brown curly hair, a person with short white hair, and a person wearing a purple shirt. A white rectangular graphic with the text \"ORCA\" in black capital letters is visible on the right side of the scene. Across the frames, the man continues to speak, shifting his head slightly and moving his right hand towards the podium. The people in the foreground remain relatively stationary, and the \"ORCA\" graphic remains in a fixed position on the screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7ff28c54f2e889102be532b09941de11",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-124.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.205,
+    0.615,
+    1.025,
+    1.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a digital animation of a news or political program's graphic identity. The scene features a glossy, three-dimensional surface with a grid-like texture, set against a background of vertical blue light bars. Centered in the frame is a glowing blue logo consisting of a circular outline containing a stylized silhouette of a landmass. Overlapping this logo is a bright blue rectangular banner with the white text \"PLUS POLITICS\" written in all caps. As the sequence progresses, the camera angle shifts and the lighting evolves, with a bright lens flare appearing and moving across the surface. The overall color palette is dominated by various shades of electric and deep blue, creating a high-tech, digital aesthetic. The movement is a smooth camera pan and tilt that reveals more of the glowing elements and the reflective properties of the virtual environment."
+}

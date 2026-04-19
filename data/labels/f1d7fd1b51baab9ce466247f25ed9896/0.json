@@ -1,0 +1,15 @@
+{
+  "video_id": "f1d7fd1b51baab9ce466247f25ed9896",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-616.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap and a black hoodie with \"BOSS TALK\" printed in gold and white text sits in a studio setting. He is positioned behind a dark table and speaks into a professional microphone attached to a black boom arm. He wears black over-ear headphones and looks toward someone off-camera to his right. In the background, a white banner features the text \"UNION MUSTLE\" repeated vertically alongside five gold stars. A blue sign above him reads, \"Where BOSSES Talk!\". To his right, a black mug sits on the table with \"BOSS TALK ONLY\" written in red and white. A small logo reading \"BOSS TALK ONLY\" is visible in the lower-left corner. Across the frames, the man's facial expression and posture remain nearly identical as he continues talking, with only slight shifts in his head position and mouth movements."
+}

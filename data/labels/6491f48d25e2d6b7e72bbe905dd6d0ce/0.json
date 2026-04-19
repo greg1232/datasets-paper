@@ -1,0 +1,15 @@
+{
+  "video_id": "6491f48d25e2d6b7e72bbe905dd6d0ce",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-275.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.136,
+    0.407,
+    0.678,
+    0.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, black headphones, and a black sweatshirt with the word \"BOSS\" in gold lettering sits at a dark table in a studio setting. He is positioned in profile, facing toward the right, speaking into a professional microphone mounted on a boom arm. In the background, a white banner features the words \"UNION HUSTLE\" repeated vertically alongside gold stars. A blue sign above him reads \"Where BOSSES Talk!\". On the table, a black mug displays the text \"THE TALK OUT\" in red and white. In the bottom left corner of the scene, a circular logo contains the words \"THE TALK OUT\". Across the sequence of frames, the man remains in a seated position, slightly shifting his head and facial expression as he speaks into the microphone, while the background and equipment remain stationary."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7dd645d65e1dfb46defb64c65e6a6d7e",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.077,
+    0.231,
+    0.386,
+    0.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a close-up view of a printed flyer. At the top, the \"IDTechEx\" logo appears in a dark teal font above a horizontal line. Below this, the flyer features the title \"Reducing Power Consumption of IoT Gas Sensors by 1000X\". Underneath the title, text in red reads, \"Thursday, 15 November 2018: 5:10PM, Grand Ballroom F DON'T MISS IT\". Further down, black text states, \"Carbon Nanotube Sensors have been dubbed by Industry Insiders as the \"Holy G\". A QR code is visible on the right side of the paper. As the sequence progresses, the camera pans slightly, shifting the focus and framing of the flyer. In the final frames, the edge of the paper is visible on the left, and additional text, including the letters \"AL\", appears on the far right edge of the document."
+}

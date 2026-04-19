@@ -1,0 +1,15 @@
+{
+  "video_id": "5da7d739f5844d86d5a7244c6c754ef4",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-404.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.126,
+    1.877,
+    2.628
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a recording studio against a dark, sound-absorbing foam wall. He wears a grey t-shirt, a grey baseball cap with a circular logo depicting a creature's open mouth, and large black headphones. A professional condenser microphone, labeled \"Blue\" on its mount, is positioned directly in front of his face. The man is actively gesturing with his hands while speaking. In the initial sequence, his arms are raised and moving outward, with his hands appearing blurred due to the motion. As the sequence progresses, his hands lower toward his sides. His facial expression remains focused on the microphone, and his posture stays centered throughout the clip. No other people are visible in the scene, and there is no legible on-screen text beyond the equipment brand."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "32f270bf471d962b104290e27551b369",
+  "url": "./data/segments/3QD9oO6sRns-Scene-098.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.329,
+    0.987,
+    1.646,
+    2.304
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black t-shirt and a black and white baseball cap is seen in a small inset video window, speaking and gesturing. The main view focuses on a table surface covered by a black mat featuring the orange and white logo \"JASPYS CASEBREAKS\". Several sealed boxes of sports cards, labeled \"CLEARLY AUTHENTIC\", are stacked on the table. In the background, a white surface holds more of these boxes and a red plastic cup. A hand enters the frame from the left, pointing toward the stacks of boxes. Throughout the sequence, the person in the inset window continues to talk, and the hand remains in the frame, gesturing toward the product. The logo \"JASPYS Sports Cards & Collectibles HERMOSA BEACH CA\" is visible on the table mat. The scene remains relatively static, focusing on the items being presented."
+}

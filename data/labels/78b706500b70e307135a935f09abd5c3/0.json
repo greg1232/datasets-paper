@@ -1,0 +1,15 @@
+{
+  "video_id": "78b706500b70e307135a935f09abd5c3",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.22,
+    0.66,
+    1.1,
+    1.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A soccer player in a blue training kit and neon green cleats kicks a soccer ball across a green grass field in a stadium with red seating. In the background, advertising boards display text such as \"Granada Premium,\" \"Concesionario Oficial,\" \"COVIRAN,\" and \"PULEVA.\" An overlay featuring the Real Madrid crest and a red button labeled \"SUBSCRIRE\" appears on the screen. As the sequence progresses, the player kicks the ball toward a goal where a goalkeeper in a blue jersey and black shorts stands ready. A coach or staff member wearing a black \"Fly Emirates\" tracksuit and a face mask stands behind the goalkeeper. The goalkeeper catches the ball mid-air and then holds it while standing in front of a white advertising banner that reads \"Ruta Veleta.\" The \"SUBSCRIRE\" overlay remains visible throughout the scene."
+}

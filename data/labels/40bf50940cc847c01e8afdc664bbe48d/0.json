@@ -1,0 +1,15 @@
+{
+  "video_id": "40bf50940cc847c01e8afdc664bbe48d",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-167.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.23,
+    0.69,
+    1.15,
+    1.61
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a group of men gathered together, several of whom wear red caps. One man in a black jacket and red cap is speaking and gesturing with his hand, while others look on. Some of the men wear traditional white Indian clothing and saffron scarves. On-screen graphics include several portrait photos of politicians and text in Hindi. The top red banner reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". A lower red banner states \"PM \u092e\u094b\u0926\u0940 \u0928\u0947 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930 \u0915\u094b \u092c\u0927\u093e\u0908 \u0926\u0940\", and a small yellow box in the bottom right corner reads \"MAHARODH\" and \"10:09 PM\". As the sequence progresses, a portrait of Nitish Kumar labeled \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\" appears on the left side of the screen. The layout remains consistent, with the same group of people in the same setting, while the graphic overlays change to highlight different political figures."
+}

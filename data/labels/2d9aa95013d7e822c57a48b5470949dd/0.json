@@ -1,0 +1,15 @@
+{
+  "video_id": "2d9aa95013d7e822c57a48b5470949dd",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.63,
+    1.889,
+    3.149,
+    4.409
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair, wearing a black suit jacket, white shirt, and a black-and-white striped tie, is shown in a small rectangular portrait on the right side of the screen. He is smiling and facing forward. To his left is a blurred background showing a financial line chart. In the foreground, the back of another person's head and shoulder are partially visible. White text appears on the left side of the screen, building sequentially. It begins with the phrase \"LARRY WILL PROVIDE\". In the next sequence, the text \"DAILY CHARTS\" appears below it, accompanied by a small white arrow pointing left. Subsequent frames add more lines of text: \"VIDEOS\" with a small white arrow pointing left, and finally \"DATA ON\" with a small white arrow pointing left, followed by \"THE KEY MARKETS\"."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "225675a52ad098a2c0f9ce463f56da0f",
+  "url": "./data/segments/3fokLGPK15Q-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.24,
+    0.72,
+    1.2,
+    1.68
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people are seated on a stage during a presentation, positioned behind white, block-like podiums. A man on the left wears a white button-down shirt, a woman in the middle wears a black t-shirt and black pants, and a man on the right wears a grey suit jacket over a light-colored shirt. They are seated in gold-colored chairs against a dark background accented by purple vertical neon lights. On the right side of the stage, part of a logo featuring the letters \"LS\" in white and red is visible. In the foreground, the back of a person's head is visible, suggesting a camera operator or crew member. Across the sequence, the man in the grey suit is speaking and gesturing with his hand, while the other two individuals listen. The scene remains static in composition, with only the subtle movements and facial expressions of the three people changing as the conversation progresses."
+}

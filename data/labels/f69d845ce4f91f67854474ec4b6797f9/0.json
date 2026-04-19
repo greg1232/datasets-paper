@@ -1,0 +1,15 @@
+{
+  "video_id": "f69d845ce4f91f67854474ec4b6797f9",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.434,
+    1.301,
+    2.169,
+    3.036
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is working on a vehicle's electrical system, focusing on a fuse box located behind a plastic panel. The scene starts with a close-up of the fuse box containing various multicolored fuses and a red wire trailing out. As the sequence progresses, the view shifts downward toward a brown carpeted area beneath the panel. A hand enters the frame, holding a small yellow fuse. In the final frame, the hand is shown holding a small, grey rectangular component, which has replaced the yellow fuse. The setting is a confined space within a car, characterized by dark grey plastic molding, beige interior panels, and brown carpeting. No text, logos, or other people are visible in the footage."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "06f56d28f115a0e55144741f0bea8a10",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-107.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.284,
+    0.851,
+    1.418,
+    1.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and an orange shirt sits in a studio setting, speaking into a black professional microphone. To his left, another man is visible, though partially obscured. The environment appears to be a recording studio with dark backgrounds and sound-dampening equipment. Superimposed over the scene is large, bold yellow text that reads \"LOOK OVER OTHER-HOSTS SHOULDERS\". In the background, a digital display shows dates including \"September 10th, 20\" and \"February 19th, 20\". Across the sequence, the man in the orange shirt continues to speak, his facial expression shifting slightly as he articulates words. The camera angle remains static, while the superimposed text stays centered on the screen, maintaining the same wording and color throughout the duration of the clip."
+}

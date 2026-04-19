@@ -1,0 +1,15 @@
+{
+  "video_id": "e04cd82a000236084e9bf42764f21213",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-446.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.214,
+    0.641,
+    1.069,
+    1.496
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, large over-ear headphones, a gold chain, and a black hoodie with \"BOSS TALK\" printed in gold letters sits at a desk. He is looking down and manipulating a small, light-colored object in his hands. He is positioned in a studio setting with a professional microphone on a boom arm and a black desk in front of him. The background features a white wall with repeating logos and stars, along with a blue sign that reads \"BOSS TALK 101\" and \"Where BOSSES Talk!\". A black cylindrical container with red text and a small black box are on the desk. Throughout the sequence, the man remains in the same position, focused on the object in his hands, with very subtle movements as he adjusts it."
+}

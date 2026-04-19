@@ -1,0 +1,15 @@
+{
+  "video_id": "18828e50e054052af59525a40c9517cf",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-151.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.155,
+    0.465,
+    0.775,
+    1.085
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser window open to a digital mind-mapping or knowledge-graph tool. The interface features a dark background with various interconnected circular icons and nodes linked by blue and green lines. Several labels are visible on the screen, including \"Trust,\" \"Integrity,\" and \"Knowledge Flow.\" In the top right corner, a small video call window displays a man wearing a dark blue baseball cap. In the bottom center of the screen, a larger video overlay shows a man with glasses and a white beard. As the sequence progresses, the larger video overlay of the man with glasses disappears, leaving only the mind map and the smaller video feed of the man in the baseball cap. The browser tabs at the top include titles such as \"Trust & Learning by Systemsynth,\" \"Future of Society by Systemsynth,\" and \"Insights - Introduction to Kumu.\""
+}

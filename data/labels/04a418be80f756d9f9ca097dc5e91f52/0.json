@@ -1,0 +1,15 @@
+{
+  "video_id": "04a418be80f756d9f9ca097dc5e91f52",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-221.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.23,
+    0.69,
+    1.15,
+    1.61
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording depicts a video conference call and a browser window. The primary view is a dark-themed concept map featuring numerous circular icons connected by blue lines. Text labels such as \"Hidden Value,\" \"Insight,\" and \"Intuition\" are scattered throughout the diagram. At the top of the browser window, several tabs are open, including titles like \"Trust & Learning by Systemantics,\" \"Future of Society by Systemantics,\" and \"Road Community Food Spot.\" In the upper right corner, a small video feed shows a man with short dark hair wearing a dark shirt, appearing to be the speaker. As the sequence progresses, the man remains in the video feed, though his expression and head position shift slightly. The overall layout of the browser and the conceptual map remains static throughout the frames, indicating a presentation or demonstration of the mapped ideas."
+}

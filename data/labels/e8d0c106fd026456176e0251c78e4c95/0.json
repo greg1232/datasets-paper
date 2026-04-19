@@ -1,0 +1,15 @@
+{
+  "video_id": "e8d0c106fd026456176e0251c78e4c95",
+  "url": "./data/segments/3Z229_lKLpk-Scene-144.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large assembly hall with a distinctive, patterned ceiling and curved walls hosts a gathering of numerous people. The attendees are seated in rows of desks, facing a central podium at the front of the room. Many of the people are dressed in white traditional clothing. Four large screens are mounted on the walls, displaying what appears to be a live broadcast of the event. A gold emblem is centered on the wall behind the podium. The scene remains static across the frames, with the people remaining seated and the camera angle remaining fixed, showing no significant movement or changes in the environment. No legible text or logos are visible on the screens or within the hall."
+}

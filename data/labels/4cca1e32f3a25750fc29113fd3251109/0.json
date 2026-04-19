@@ -1,0 +1,15 @@
+{
+  "video_id": "4cca1e32f3a25750fc29113fd3251109",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.709,
+    0.993
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, three individuals are seated and engaged in a session. On the left, a man wears blue scrubs, a surgical cap, and a face mask while looking down at a piece of paper. In the center, a woman in a blue top is partially visible, also looking down at papers. On the right, a woman wearing a pink scrub top, a blue patterned surgical cap, and glasses looks toward the others. Across the frames, the people remain in relatively static positions, with slight movements as they review their materials. White text is overlaid on the scene, reading \"UNIVERSITY OF MARYLAND,\" \"D\u00eapartment of Surgery and,\" and \"R Adams Cowley Shock Trauma Center.\" A logo in the bottom right corner reads \"Sim Week.\" The background includes a screen displaying a digital interface and a neutral-colored wall."
+}

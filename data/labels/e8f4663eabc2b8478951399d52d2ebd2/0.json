@@ -1,0 +1,15 @@
+{
+  "video_id": "e8f4663eabc2b8478951399d52d2ebd2",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-541.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.224,
+    0.673,
+    1.121,
+    1.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, a matching green t-shirt with white text that reads \"I'VE NEVER SMIL\", and black headphones sits in a room that appears to be a clothing store or studio. He is positioned in front of a professional black microphone. In the background, several framed photographs hang on a wall, and a white male mannequin wearing a white t-shirt stands near clothing racks. Two logos are visible on screen: a circular black and white logo on the left and a red and white logo on the right that reads \"BOSSY FLEX TOT\". Throughout the sequence, the man remains in a seated position, speaking and shifting his facial expressions slightly while looking toward someone off-camera to his right. The background and equipment remain static, with only the man's slight movements and speech occurring across the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1f4a4d5e2c9d17167833fb7c196f13e1",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.729,
+    1.021
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair wearing a dark blue shirt and a gaming headset is featured in a small picture-in-picture overlay in the bottom left of a screen. He is situated in a room with a decorated Christmas tree visible behind him. The main screen displays a purple interface with various gaming statistics and numerical values. In the initial view, several stats are visible, including \"TAK 90\", \"PRC 94\", \"PUR 95\", \"MCV 88\", \"ZCV 99\", \"SPD 94\", \"ACC 97\", and \"AWR 91\". As the video progresses, the view zooms in and shifts across the screen, focusing on specific attributes. Green bars appear under the numbers, and small green arrows with \"+3\" are seen next to \"PRC 94\" and \"PUR 95\". The final views center on the \"TAK 90\", \"PRC 94\", \"PUR 95\", and \"MCV 88\" values."
+}

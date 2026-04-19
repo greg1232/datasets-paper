@@ -1,0 +1,15 @@
+{
+  "video_id": "fdbc8fa2568ef0e101e2a4ed4a9d4659",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-200.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.714,
+    2.143,
+    3.571,
+    5.0
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt with the white text \"ION NEVER DO SHIT\" speaks into a professional black microphone in a studio setting. The room is decorated with framed photographs on the wall and contains a white mannequin torso wearing a white garment. A clothing rack with various garments is visible in the background. Two logos appear on screen: a circular black and white logo on the left and a red text logo on the right that says \"BOSS FEELY TOT\". Throughout the sequence, the man remains in the same position, speaking and shifting his facial expression slightly while looking towards someone off-camera. His mouth opens and closes as he talks, and he blinks, but the camera angle and the surrounding environment remain static."
+}

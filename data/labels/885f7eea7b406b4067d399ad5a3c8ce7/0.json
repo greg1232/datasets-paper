@@ -1,0 +1,15 @@
+{
+  "video_id": "885f7eea7b406b4067d399ad5a3c8ce7",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-114.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.485,
+    1.455,
+    2.425,
+    3.395
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a man wearing a brown traditional garment and a red cap, speaking into a microphone. He is shown in a larger video window on the left and a smaller inset window on the right. In the inset, the text \"ON THE PHONE,\" \"OLUSOLA OYEKANMI,\" \"POLITICAL ANALYST,\" and \"LAGOS\" is displayed against a blue background. A banner at the bottom of the screen reads \"PLUS POLITICS\" and \"NIGERIA NEEDS ME \u2013 BOLA TINUBU.\" The bottommost bar contains \"WATCH ONLINE\" and the website \"WWW.PLUSTVAFRICA.COM/LIVE-TV.\" A \"plus tv\" logo appears in the upper left corner. Throughout the sequence, the man continues speaking while gesturing slightly with his hand, though the overall layout, text, and graphical elements remain static across the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ba752b62142abb0d704aedf734b8a9b5",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.526,
+    0.876,
+    1.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot captures the interior of a mechanical engine casing, revealing a complex arrangement of interlocking metal gears and a central shaft. The casing is made of cast metal with visible red sealant along the inner seams. A large, vertical shaft is positioned on the left, connected to a gear that meshes with a smaller intermediate gear, which in turn drives a larger gear on the right. The assembly is resting on a light-colored wooden surface. No people, clothing, text, or logos are visible in the scene. Across the sequence of frames, there is no discernible movement or change in the position of the gears or the camera; the mechanical components remain completely static, appearing as a still life of engine internals."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6313ff45c77684b8a382403f89e222d5",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-073.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.335,
+    1.005,
+    1.675,
+    2.345
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of soccer players in blue and green uniforms, along with staff in black athletic wear, are gathered on a green grass field inside a large stadium with red seating. The background features various sponsorships and logos, including \"PULEVA\", \"CERVEZAS ALHAMBRA\", \"COVIRAN\", \"CAJA RURAL\", and \"Jeep\". The Real Madrid crest is centered above the field. The players are interacting, some shaking hands and others walking around. Small blue and red markers are scattered across the grass. Across the sequence, the players shift positions as they transition from a huddle into smaller groups. Some players move toward the left and right sides of the frame, while others remain in the center. The overall scene captures a moment of coordination or greeting among teammates and coaches during a training session or pre-game warmup."
+}

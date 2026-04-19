@@ -1,0 +1,15 @@
+{
+  "video_id": "c2fc1bbf713d654a81230494aa370d92",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.585,
+    1.755,
+    2.925,
+    4.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call displays a grid of participants in various home and office settings. The participants include several men and women, some wearing glasses and headphones. One man is seen wearing a blue shirt, another a grey shirt, and one woman is dressed in a light-colored top. Throughout the sequence, the grid layout remains consistent, though some participants' screens fluctuate. One tile features a cartoon graphic of a white bird. Text labels appear under several participants, including \"Jerry Mukudi,\" \"Noureddine Ouernane,\" \"Patryk Martyn,\" \"Brian Logan,\" \" Hogan Murphy,\" \"Charles Moss,\" \"Sara_collaborateur,\" and \"Sayyem Hersh.\" Some tiles display a blue circular icon with a white camera symbol and the text \"Aliem Khan.\" The participants remain mostly stationary, with occasional slight movements and changes in facial expressions as they look toward their cameras."
+}

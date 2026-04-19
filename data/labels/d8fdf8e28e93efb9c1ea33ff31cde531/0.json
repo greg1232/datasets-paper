@@ -1,0 +1,15 @@
+{
+  "video_id": "d8fdf8e28e93efb9c1ea33ff31cde531",
+  "url": "./data/segments/3F2rz23IKUk-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.24,
+    0.72,
+    1.2,
+    1.68
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with brown hair and glasses stands in an indoor setting against a neutral-colored wall. He wears a black t-shirt featuring a yellow square graphic of a person's face and the partially visible text \"Kn h\", along with a blue lanyard around his neck. He holds a white rectangular box with a green accent on the side. He begins by gesturing with his right hand open and tilting the box diagonally in his left hand. As the sequence progresses, he levels the box horizontally and holds it steady. Finally, he tilts the box back down toward his side while continuing to gesture with his right hand. He maintains a slight smile throughout the sequence."
+}

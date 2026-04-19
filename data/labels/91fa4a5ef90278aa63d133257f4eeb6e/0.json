@@ -1,0 +1,15 @@
+{
+  "video_id": "91fa4a5ef90278aa63d133257f4eeb6e",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-247.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.205,
+    0.615,
+    1.025,
+    1.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser window featuring a digital presentation titled \"Rural Community Food System.\" The main content area contains a section labeled \"Introduction,\" which asks, \"What constitutes a sustainable localized food system for a rural community?\" and provides instructions on contributing to the model. Below this, a \"Session Videos\" list contains multiple date-stamped links, such as \"10.07.2019\" and \"10.14.2019.\" To the right of the text is a complex conceptual map with various nodes and connecting lines. In the top right corner, a small webcam feed shows a man with glasses and a grey shirt looking at the screen. As the video progresses, a white mouse cursor moves across the screen, transitioning from the text section toward the conceptual map on the right, while the presenter remains stationary in his video feed."
+}

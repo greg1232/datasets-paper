@@ -1,0 +1,15 @@
+{
+  "video_id": "c86efae5c2eb5b0b83a5ea81ed0ee3e7",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-277.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.141,
+    0.422,
+    0.704,
+    0.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a beige and white baseball cap, a black hoodie with the word \"BOSS\" in gold lettering, and a gold chain sits in a studio setting. He wears over-ear headphones and is positioned in front of a professional microphone mounted on a black boom arm. To his right sits a black mug featuring red and white text that reads \"BOSS TALK OUT LOUD.\" In the background, a white wall displays a repeating logo with five gold stars and the words \"UNION HUSTLE.\" A blue banner above him reads \"Where BOSSES Talk!\". As the scene progresses, the man maintains a similar posture, looking slightly to his left with a focused expression. The only significant change across the frames is the slight shift in his facial expression and a change in the color of his baseball cap from beige and white to primarily white."
+}

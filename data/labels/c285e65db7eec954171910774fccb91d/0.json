@@ -1,0 +1,15 @@
+{
+  "video_id": "c285e65db7eec954171910774fccb91d",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.24,
+    0.719,
+    1.198,
+    1.677
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a black box labeled \"OBSIDIAN\" on a red and black surface. The box features a white card and the text \"2 AUTOGRAPAPHS!\" with a small number \"5\" next to it. In the background, the logo \"JASPYS CASEBREAKS.COM\" is visible. As the sequence progresses, the person's hands move to touch and manipulate the box and the card. Additionally, small inset video feeds show a man wearing a dark shirt sitting in a room with equipment, including what appears to be a computer monitor and a shelf. The man in the inset remains relatively still while the main action focuses on the hands and the \"OBSIDIAN\" box. The lighting is bright, highlighting the glossy finish of the box and the surface beneath it."
+}

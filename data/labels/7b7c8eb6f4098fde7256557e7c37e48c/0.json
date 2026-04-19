@@ -1,0 +1,15 @@
+{
+  "video_id": "7b7c8eb6f4098fde7256557e7c37e48c",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-142.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.338,
+    1.014,
+    1.689,
+    2.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with short brown hair, wearing a white patterned hospital gown, white socks, and blue underwear, sits on a hospital bed in a medical room. The setting includes a medical cart with equipment and a white waste bin. A large QR code is overlaid on the right side of the scene. As the sequence progresses, text appears on the left and then the right side of the screen. The text lists \"Course content creators, course directors:\" followed by a list of names and dates: \"Laura Buchanan, MD 2019- current\", \"David Gens, MD 2019- current\", \"Ali Tabatabai, MD 2019-2022\", \"Mira Ghneim, MD, MS 2019-2021\", and \"Nicole Shockor, MD 2019\". The person remains seated and relatively still throughout the clip while the informational text is gradually displayed over the background."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ac89c9443e6ef54aa711216eca0f632f",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-479.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.144,
+    0.431,
+    0.719,
+    1.006
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair, wearing a dark shirt, is seen in a small video overlay on the left side of a digital gaming interface. The screen displays a player profile for \"DAVID MAYO,\" identified as \"#51 LOLB\" with an overall rating of \"92.\" The interface features various statistical categories and numeric values, such as \"129,529,\" \"14,600,\" and \"1,787,369.\" A character avatar wearing a gold and red helmet and jersey with \"MAYO\" on the back is visible on the right. As the scene progresses, the layout of the interface shifts, with different sets of numerical attributes appearing and disappearing. In some views, an \"OFFENSE\" section becomes visible, showing values like \"45,\" \"15,\" and \"35.\" The man in the video overlay remains in the same position, looking toward the screen, while the background behind him shows a glimpse of a decorated Christmas tree."
+}

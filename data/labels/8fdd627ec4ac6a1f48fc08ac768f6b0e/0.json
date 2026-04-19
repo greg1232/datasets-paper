@@ -1,0 +1,15 @@
+{
+  "video_id": "8fdd627ec4ac6a1f48fc08ac768f6b0e",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.233,
+    0.7,
+    1.167,
+    1.633
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip shows a screen displaying digital sports trading cards and a small inset window of a man. Two large player cards are prominently displayed: one for \"MIAH PARSONS\" with a rating of \"93\" and another for \"KYLE HAMILTON,\" also rated \"93\" and labeled \"SS.\" Both players are wearing white uniforms with the number 11. The background behind the cards is dark, while the Hamilton card is framed by a glowing pink and teal border. In the bottom-left corner, a man with blond hair wearing a dark blue shirt and a gaming headset is visible in a small rectangular overlay. He is seated in a room with a decorated Christmas tree in the background. Throughout the sequence, the man's expression remains relatively neutral, though he gestures with his hand in the first half of the clip and gives a thumbs-up in the latter half. A purple banner at the bottom contains the text \"TROV\"."
+}

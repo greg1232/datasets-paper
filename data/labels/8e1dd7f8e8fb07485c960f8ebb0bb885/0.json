@@ -1,0 +1,15 @@
+{
+  "video_id": "8e1dd7f8e8fb07485c960f8ebb0bb885",
+  "url": "./data/segments/3phuyH7Y05U-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.4,
+    1.2,
+    2.0,
+    2.8
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a 3D rendered animation on a white, gridded surface. The word \"inflation\" is written in large, white, lowercase sans-serif letters, positioned diagonally across the scene. A dark gray line with small tick marks, resembling a graph axis, runs parallel to the text. Throughout the sequence, a small red line begins to emerge and grow along this axis. Initially, the red line is a tiny mark, but it quickly extends forward and then spikes upward, cutting across the first few letters of the word \"inflation.\" As the red line grows, the word \"inflation\" appears to physically distort and bulge outward, mirroring the upward movement of the red graph line. The lighting creates soft shadows behind the letters, and the overall perspective is an angled, close-up shot focusing on the interaction between the red line and the text."
+}

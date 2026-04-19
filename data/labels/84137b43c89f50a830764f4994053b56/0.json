@@ -1,0 +1,15 @@
+{
+  "video_id": "84137b43c89f50a830764f4994053b56",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-193.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.742,
+    2.225,
+    3.708,
+    5.192
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand reaches toward a white box containing a yellow interior, set against a blurred background of more boxes and equipment. The setting includes a desk surface featuring a graphic of green palm trees on a light-colored background. Overlaid on the scene is a red and white logo that reads \"JASPYS LIVE\" and \"CASEBREAKS.COM\". A small inset window in the lower right shows a man with a beard wearing a navy blue shirt and headphones, speaking while looking toward the camera. In the initial frames, the hand hovers near the box, but as the sequence progresses, the fingers reach inside to grip and lift the yellow material. The man in the inset remains in a consistent position, while the primary action focuses on the tactile interaction with the box."
+}

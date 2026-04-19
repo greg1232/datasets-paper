@@ -1,0 +1,15 @@
+{
+  "video_id": "891132332abd84bdc51c6a4cf0b02135",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-193.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark curly hair tied up in a bun wears black headphones and a dark green t-shirt with a circular red and white graphic on the chest. She is seated in a studio setting, positioned behind a black microphone and a desk. In the background, a black banner features white text that reads \"BOSS TALK 101\", \"It's A V torque Hustle\", \"CAST\", and \"About It!\". A smaller logo on the desk repeats \"BOSS TALK 101\". To her left is a framed photo of hands held together. Across the sequence, the woman remains in the same position, maintaining a slight, pleasant smile as she looks off-camera to her right. There is very little movement between the frames, with only minor shifts in her facial expression and head tilt, while the background elements, equipment, and logos remain static throughout the clip."
+}

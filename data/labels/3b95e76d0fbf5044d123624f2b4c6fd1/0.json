@@ -1,0 +1,15 @@
+{
+  "video_id": "3b95e76d0fbf5044d123624f2b4c6fd1",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-257.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.119,
+    0.356,
+    0.594,
+    0.831
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand reaches into a scene featuring a white box containing a yellow card. The setting appears to be a desk or table with a patterned surface. In the background, a small video inset shows a man with a beard wearing a dark blue polo shirt sitting in front of a computer setup. On-screen logos for \"JASPYS\" and the website \"CASEBREAKS.COM\" are visible in the upper right and center of the frames, while a smaller logo for \"JASPYS Sports Cards & More\" appears in the inset video. As the sequence progresses, the person's hand moves a clear plastic sleeve toward and then over the yellow card. The hand and the plastic sleeve shift positions relative to the box, moving from the top left toward the center and right, gradually covering more of the card."
+}

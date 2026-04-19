@@ -1,0 +1,15 @@
+{
+  "video_id": "6f6132a79266cb062f2356b10d10c612",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.554,
+    1.662,
+    2.771,
+    3.879
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with light hair wearing a dark shirt is featured in a small video inset over a football video game interface for the player \"TROY POLAMALU.\" The game screen displays statistics, including a rating of \"95,\" and tabs for \"HOME,\" \"ATTRIBUTES,\" and \"UPGRADES.\" In the top left, a menu describes \"Team Chemistry And Ability Slot,\" mentioning a \"REFUND\" and that \"No attribute boosts\" are currently active. As the scene progresses, the interface changes to show specific ability upgrades. The screen transitions to \"SHUTDOWN,\" which claims \"Tighter coverage is more w/n on contested catches\" and \"Force incompletions.\" Later, the screen updates to show the \"ACROBAT\" ability, which functions \"During swats & interceptions.\" Throughout the sequence, the person in the inset reacts to the on-screen changes, while the player avatar remains visible on the right side of the screen."
+}

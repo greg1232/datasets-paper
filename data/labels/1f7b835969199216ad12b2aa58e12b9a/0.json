@@ -1,0 +1,15 @@
+{
+  "video_id": "1f7b835969199216ad12b2aa58e12b9a",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-271.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.395,
+    1.185,
+    1.975,
+    2.765
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a presentation on a \"Rural Community Food System.\" The primary focus is a complex causal loop diagram with various nodes and connecting arrows, featuring text such as \"Changing Mental Models,\" \"Community Knowledge,\" and \"Community Health.\" In the upper right corner, a small webcam window shows a man wearing a dark shirt and a dark baseball cap. As the sequence progresses, the presenter interacts with the digital map, clicking on a node labeled \"Community Health.\" This action triggers a pop-up window titled \"Introduction\" that overlays the right side of the diagram. The pop-up contains a question: \"What constitutes a sustainable localized food system for a rural community?\" and a section for \"Session Videos\" with a list of date-based links. The window also includes a call to action inviting viewers to contribute by \"adding comments or by leaving a note.\""
+}

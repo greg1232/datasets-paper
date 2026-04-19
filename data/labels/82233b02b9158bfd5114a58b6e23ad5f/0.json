@@ -1,0 +1,15 @@
+{
+  "video_id": "82233b02b9158bfd5114a58b6e23ad5f",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-707.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair styled in a top knot and braids is seated in a podcast studio, wearing a dark green t-shirt with a red circular graphic on the chest. She wears over-ear headphones and sits behind a professional microphone on a stand. In the background, a white wall features a black banner with the word \"PODCAST\" in white letters, the phrase \"s Talk About It!\", and a logo that includes the text \"BESS TALK 101\" and \"Its A Unique Hustle\". To her left, a framed photo shows a close-up of hands. On the table in front of her are several small cans and a logo that reads \"BESS TALK 101\". Throughout the sequence, the woman remains in a seated position, resting her chin on her hand in a thoughtful expression, with very minimal movement as she looks slightly off-camera."
+}

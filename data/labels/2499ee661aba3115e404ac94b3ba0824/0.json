@@ -1,0 +1,15 @@
+{
+  "video_id": "2499ee661aba3115e404ac94b3ba0824",
+  "url": "./data/segments/3P1vSUbet40-Scene-0355.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.089,
+    0.266,
+    0.443,
+    0.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a distinctive, tall, grey-toned hairstyle and glasses is recording a podcast in an indoor setting. He is wearing a white button-down shirt with a red bowtie and yellow suspenders, and he has large black over-ear headphones on. He is positioned in front of a black microphone on a stand, facing right toward an unseen interlocutor. Behind him, a banner displays the text \"UNIQUE FASHIONS,\" and a framed image of a yellow shield is mounted on the wall. In the lower corners of the scene, graphics are visible: a circular logo featuring the word \"PODCAST\" and red text that reads \"BEST TALK 101.\" Across the sequence of frames, the man remains relatively still, though he slightly shifts his posture and facial expression while speaking into the microphone."
+}

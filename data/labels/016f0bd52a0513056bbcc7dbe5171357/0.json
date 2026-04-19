@@ -1,0 +1,15 @@
+{
+  "video_id": "016f0bd52a0513056bbcc7dbe5171357",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-134.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with glasses and headphones is visible in a small video call window in the upper right corner of a computer screen, which is being shared. The screen displays a dark-themed application with a network diagram consisting of circular nodes connected by lines. One node contains a small profile picture of a person, with green text below it reading \"Chris- Dr. Sterling\". Another node nearby is labeled \"Heidi- Dr. Sterling\" in green text. To the right of these nodes is a larger rectangular window showing a group of people sitting around a table in a brightly lit room, some of whom are wearing masks. At the top of the screen, several browser tabs are open, including titles such as \"Trust & Learning by Systemini,\" \"Elements by Systemini,\" \"Future of Society by Systemini,\" and \"Insights Introduction Ruins.\" The scene remains static across the frames, with the person in the video call window remaining in the same position."
+}

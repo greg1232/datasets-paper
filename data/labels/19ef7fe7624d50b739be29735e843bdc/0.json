@@ -1,0 +1,15 @@
+{
+  "video_id": "19ef7fe7624d50b739be29735e843bdc",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-285.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a white t-shirt and black over-ear headphones, is positioned in front of a professional microphone in a studio. The background consists of grey, ribbed acoustic foam panels. The microphone is mounted on a boom arm that features the text \"Rode Procaster\". As the sequence progresses, the man speaks and gestures with his right hand, which is partially visible and blurred due to motion. He looks slightly to his left, his facial expression shifting as he talks. His right arm, which is tattooed, rests near the microphone stand. The lighting remains consistent throughout the clip, focusing on the man's face and upper torso as he continues his conversation in the recording environment."
+}

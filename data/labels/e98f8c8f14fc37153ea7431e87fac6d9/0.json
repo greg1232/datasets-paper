@@ -1,0 +1,15 @@
+{
+  "video_id": "e98f8c8f14fc37153ea7431e87fac6d9",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.141,
+    0.422,
+    0.703,
+    0.984
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is centered within a circular frame against a solid black background. He has a short haircut and is wearing a light blue button-down shirt paired with a bright red tie. He looks directly forward with a neutral expression. The text \"Ahimbisibwe Charles Dicks\" appears in a small, white, sans-serif font to the left and center of the circular portrait. Across the sequence, the man remains stationary, and his clothing and expression do not change. The circular framing, the placement of the man, and the position of the text \"Ahimbisibwe Charles Dicks\" remain constant, resulting in a static visual appearance throughout the clip."
+}

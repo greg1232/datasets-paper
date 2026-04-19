@@ -1,0 +1,15 @@
+{
+  "video_id": "09127090649b82b8f127f6ae8b99fa47",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.462,
+    0.771,
+    1.079
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white aircraft with a red stripe and the word \"\u0420\u041e\u0421\u0421\u0418\u042f\" written along the fuselage taxis across a grassy airfield under a grey, overcast sky. The plane features a distinctive T-tail and rear-mounted engines. In the background, two large military helicopters are positioned on the tarmac, and tall industrial chimneys with red and white bands stand in the distance. A red circular logo containing the number \"13\" is visible in the upper corners of the scene. As the aircraft moves from left to right across the frames, it progresses slowly along the runway. The background elements, including the helicopters and the distant towers, remain stationary, while the aircraft shifts its position slightly forward in each subsequent frame, maintaining a consistent profile as it navigates the airfield."
+}

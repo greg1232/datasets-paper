@@ -1,0 +1,15 @@
+{
+  "video_id": "5ec5432afd53e27a4579a0fcff350bcb",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-286.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.16,
+    0.48,
+    0.8,
+    1.12
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser displaying a page titled \"Rural Community Food System.\" The left side of the page contains text, including a list of links and a section titled \"References\" with links such as \"Large Corporate Farm Systems\" and \"Rural Community Food Systems.\" A paragraph invites readers to contribute to the model's development and provides an email address. The right side of the page features a complex circular diagram with various connected nodes and labels. In the top right corner, a small webcam overlay shows a man with a beard and glasses wearing a dark shirt. Throughout the sequence, the browser window remains static, with the page content and the man in the webcam feed showing very little movement. The top of the browser shows several open tabs, including \"Rural Community Food System\" and \"Large Corporate Farm.\""
+}

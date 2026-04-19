@@ -1,0 +1,15 @@
+{
+  "video_id": "b74a692b2daec1fb5874213fb0965477",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-364.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.99,
+    1.385
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played on a green field with white yard lines and red zones. Players in white uniforms and players in black uniforms are positioned across the field. Several players have circular markers above them containing letters like \"X\", \"Y\", and \"B\", and some have names such as \"Polamalu\" and \"Smith\" displayed below them. In the initial scenes, players in white are lined up against the black-clad defense. As the sequence progresses, the players move dynamically across the grass. The quarterback in white drops back and then moves forward, while defenders in black pursue him. A player in white, labeled \"Smith\", moves toward the center of the field. The yard markers \"30\" and \"20\" are visible on the turf. The players' positions shift rapidly as they engage in a play, with the action moving from the center toward the right side of the field."
+}

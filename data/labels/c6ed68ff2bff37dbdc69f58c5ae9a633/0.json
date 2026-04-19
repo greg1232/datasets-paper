@@ -1,0 +1,15 @@
+{
+  "video_id": "c6ed68ff2bff37dbdc69f58c5ae9a633",
+  "url": "./data/segments/3P1vSUbet40-Scene-0912.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.109,
+    0.328,
+    0.547,
+    0.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt with \"CHECK IT\" printed on the chest, a black baseball cap with a logo, and grey over-ear headphones speaks into a professional condenser microphone. He is in a studio setting with a white background featuring gold stars and the text \"EMPIRE HUSTLE\". To his right, a sign reads \"BOSS TALK 101\", and a digital overlay in the lower corners shows a logo for \"BOSS TALK 101 PODCAST\". The man remains seated and focused on his conversation throughout the sequence. While he is relatively still in the beginning, he becomes more animated by the end, gesturing with his right hand and shifting his posture slightly while continuing to speak. The lighting is bright and consistent across the scene, highlighting the studio equipment and the branding elements surrounding the speaker."
+}

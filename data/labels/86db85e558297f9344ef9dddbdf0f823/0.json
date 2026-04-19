@@ -1,0 +1,15 @@
+{
+  "video_id": "86db85e558297f9344ef9dddbdf0f823",
+  "url": "./data/segments/3QD9oO6sRns-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.387,
+    0.646,
+    0.904
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand reaches toward a box labeled \"CLEARLY AUTHENTIC\" that sits on a green surface. In the background, stacks of similar boxes are visible, along with a white backdrop. A small inset video shows a man wearing a black t-shirt and a black baseball cap, sitting in front of computer equipment. The screen features a logo with the text \"JASPRO\" and \"CASEBREAKS.COM\" and larger text across the bottom that reads \"CASEBREAKS\". As the sequence progresses, the person's hand moves closer to and eventually grasps the \"CLEARLY AUTHENTIC\" box, lifting it slightly from the surface. The man in the inset remains visible throughout, watching the action. The environment is focused on the organized collection of branded boxes, emphasizing the process of selecting or handling a specific item for the broadcast."
+}

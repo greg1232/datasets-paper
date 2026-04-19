@@ -1,0 +1,15 @@
+{
+  "video_id": "9e144dbd74f7f8122648c8f132a5562b",
+  "url": "./data/segments/3E6ctN22V7k-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.705,
+    1.175,
+    1.645
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot captures a person with dark skin writing in a notebook. The person is wearing a white long-sleeved garment and a dark watch on their left wrist. They hold a blue pen in their right hand, pressing the tip to a white page within a blue notebook that rests on a light-colored wooden surface. Their left hand stabilizes the paper. The camera remains stationary, focusing on the hands and the notebook, with very little movement between the frames as the person continues the act of writing. Across the bottom of the scene, white on-screen text appears, stating, \"I like reading, I like writing, I am a slam artist, and I am also a journalist.\" The background is blurred, showing neutral-toned vertical elements."
+}

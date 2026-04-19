@@ -1,0 +1,15 @@
+{
+  "video_id": "ef8ed3238f757a5585728899f4fcc09e",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-888.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.193,
+    0.579,
+    0.965,
+    1.35
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, headphones, and a black hoodie with \"BOSS TALK\" written in gold lettering sits at a desk in a studio. He is speaking into a professional microphone mounted on a black boom arm. The background is a white wall featuring a logo with five stars and the text \"UNION HUSTLE,\" alongside a blue banner that reads \"Where BOSSES Talk!\". On the desk, there is a black case and a coffee mug featuring the \"BOSS TALK\" logo. As the scene progresses, the man gestures with his hands while speaking, moving his right arm from his side to an outward reaching motion. He remains seated and focused on the conversation, with his expression shifting as he talks. The lighting is bright and consistent throughout the sequence."
+}

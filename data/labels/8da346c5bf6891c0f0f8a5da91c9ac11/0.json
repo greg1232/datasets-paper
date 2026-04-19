@@ -1,0 +1,15 @@
+{
+  "video_id": "8da346c5bf6891c0f0f8a5da91c9ac11",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-092.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.13,
+    0.39,
+    0.65,
+    0.91
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital scoreboard is displayed against a dark background during a football match. The board shows a score of \"0-1\" between two teams, represented by their crests. The team on the left has a red and white crest, while the team on the right has the Real Madrid crest. Below the score, a timer counts the elapsed time. In the first three frames, the timer reads \"09:58,\" but it increments to \"09:59\" in the final frame. The bottom of the scoreboard features the text \"LaLiga Santander.\" In the background, behind the scoreboard, signage for \"WINAMAX\" and \"CAJA RURAL GRANADA\" is visible. Small Real Madrid logos are positioned in the upper corners and center of the overall composition. The scene remains static aside from the numeric change in the game timer."
+}

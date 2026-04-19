@@ -1,0 +1,15 @@
+{
+  "video_id": "612c4acfeb951152f9d29555b5670166",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-284.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.238,
+    0.396,
+    0.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with gray hair and glasses stands behind a podium, speaking into a microphone. He wears a light blue patterned shirt adorned with a colorful design and a necklace. The podium is light brown and features a circular logo with a purple design. Behind the man is a wall with brown horizontal blinds. To the right of the podium, the text \"ORCA\" is visible on the screen. In the foreground, the tops of the heads of several audience members are partially visible. Across the frames, the man remains in the same position, speaking and gesturing slightly with his hands resting on the podium, while the camera angle and setting remain static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2be4ebb574bbb2c6551a17bbca7cd369",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-295.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.24,
+    18.719,
+    31.198,
+    43.677
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is recorded in a studio setting, positioned in front of a dark grey, textured acoustic foam wall. He wears a black jacket over a grey shirt and has large black over-ear headphones on. A professional silver microphone is mounted on a black boom arm directly in front of him. Across the sequence, the man remains stationary in the center of the frame. He begins by looking slightly to the side with an attentive expression, then closes his eyes momentarily and tilts his head back, appearing to reflect or listen intently. He then opens his eyes and looks forward again, maintaining a calm demeanor. The lighting is consistent, and no text or logos are visible in the scene."
+}

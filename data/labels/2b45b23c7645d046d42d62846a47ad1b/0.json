@@ -1,0 +1,15 @@
+{
+  "video_id": "2b45b23c7645d046d42d62846a47ad1b",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-214.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.592,
+    1.777,
+    2.961,
+    4.146
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A high-tech digital interface with a blue and teal color scheme displays financial data over a stylized world map. The screen features various numerical figures, percentages, and a bar chart. At the bottom of each frame, a blue banner identifies \"Basil Chapman\" and \"The Tiger Technicians Hour | June 8th, 2022\". Centered on the screen, white bold text appears and changes over time. It begins with \"THE CHAPMAN\", then evolves into \"THE CHAPMAN WAVE UP-DOWN SEQUENCE\". The text then shifts to \"GIVES\" and finally concludes as \"GIVES IDENTIFYING PRICE TURNS\". Throughout the sequence, the background data fluctuates, with numbers like \"1085.18\" and \"1081.96\" appearing at the top, while percentages and numerical values such as \"46.16\" and \"-5.2\" shift in the bottom right area. No people are visible in the frames."
+}

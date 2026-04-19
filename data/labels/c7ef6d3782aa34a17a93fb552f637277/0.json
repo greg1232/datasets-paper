@@ -1,0 +1,15 @@
+{
+  "video_id": "c7ef6d3782aa34a17a93fb552f637277",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-729.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.386,
+    1.157,
+    1.929,
+    2.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark green t-shirt, a matching green baseball cap, and over-ear headphones sits in a room filled with framed photos and clothing racks. His t-shirt features the text \"ION NEVER DO SHIT\" in bold white lettering. He is positioned in front of a professional black microphone on a boom arm. In the background, a white mannequin wears a white t-shirt, and several garments hang on racks. The room's walls are decorated with numerous framed pictures. Two logos appear on screen: a circular logo on the left with the text \"TOP\" and a red logo on the right that reads \"TOP STORY\". Across the sequence, the man speaks, his mouth opening and closing as he looks slightly to the side. In the final frame, he begins to gesture with his right hand while continuing to talk."
+}

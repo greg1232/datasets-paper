@@ -1,0 +1,15 @@
+{
+  "video_id": "b771a3a3abf6bb2caec07a5674f50712",
+  "url": "./data/segments/3HgCF6yVXko-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.004,
+    3.012,
+    5.021,
+    7.029
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A bathroom is shown, featuring a white bathtub set against a tiled wall beneath a large window with light pink curtains. In the initial scene, the view is from the doorway, showing a shower area to the left with chrome fixtures and a brown wooden door partially visible on the right. As the perspective shifts, the camera moves closer to the bathtub, centering the view on the tub and the bright window. The lower half of the tub is encased in light-colored square tiles. To the left of the bathtub, a small section of a dark brown vanity with silver handles is visible. The light from the window is bright, creating a high-contrast environment. No people are present in the scene, and there is no on-screen text or logos."
+}

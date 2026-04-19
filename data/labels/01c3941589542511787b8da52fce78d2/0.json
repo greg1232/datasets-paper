@@ -1,0 +1,15 @@
+{
+  "video_id": "01c3941589542511787b8da52fce78d2",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a computer screen running a Linux-based terminal emulator. The screen is split into two identical side-by-side terminal windows, both titled \"Terminal\" and showing a dark background with white and colorful text. The interface includes a top bar with \"Activities\" and \"Oct 28 00:22\". The terminal windows show a sequence of command-line operations related to a software build or installation process. Legible text includes \"sudo chown -R\" and \"sudo chmod -R\", followed by lines of output containing \"leavysouth\", \"coprocessor\", and \"megafull\". A recurring phrase in the logs is \"starter patching/optimizing\". The scene remains static across the frames, as the text and layout of the windows do not change, indicating a paused state or a very slow output process. There are no people or physical objects present in the scene."
+}

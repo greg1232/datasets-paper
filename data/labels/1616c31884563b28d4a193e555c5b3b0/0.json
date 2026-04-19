@@ -1,0 +1,15 @@
+{
+  "video_id": "1616c31884563b28d4a193e555c5b3b0",
+  "url": "./data/segments/3l84m5pRmyk-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.034,
+    3.103,
+    5.172,
+    7.241
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a gray suit jacket, white shirt, and patterned tie is seated behind a desk, speaking during a presentation. The background is a white wall featuring a blue geometric cube graphic and the hashtag \"#BigDataSV\" repeated along with the year \"2015\". A laptop is positioned in front of him, with a sticker on the lid that reads \"#BigDataSV 2015\". As the sequence progresses, the man remains in the same position but shifts his facial expressions and hand gestures while speaking. He initially looks forward with his mouth open, then shifts his gaze slightly to the side. By the end of the sequence, he is gesturing with his right hand, which moves from his side into the frame in front of him. The lighting is bright and consistent across the scenes, focusing on the subject against the branded backdrop."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0d42a0c5ce3df42539b5ffdc32e45468",
+  "url": "./data/segments/3a0FD1177FA-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.214,
+    0.641,
+    1.069,
+    1.496
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a white smartwatch and a white long-sleeved top uses a brown and silver paper trimmer on a white surface. In the first frame, the person holds the clear plastic guide of the trimmer over a patterned green and yellow floral piece of paper. In the second frame, the guide is lifted, revealing the floral paper underneath. The third frame shows the person sliding the trimmer's cutting blade across the floral paper to make a cut. In the final frame, the person lifts the guide again, and a small strip of the floral paper has been removed. Nearby objects include a white circular container labeled \"MEMENTO,\" a stamp with the text \"Thank You,\" and another stamp that says \"BIRTHDAY\". A logo in the bottom left corner of each frame says \"Stamping Jill\"."
+}

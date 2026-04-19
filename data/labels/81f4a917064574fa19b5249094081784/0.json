@@ -1,0 +1,15 @@
+{
+  "video_id": "81f4a917064574fa19b5249094081784",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-128.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a dark complexion is seated in a room that appears to be a boutique or studio, wearing a green baseball cap, black headphones, and a green t-shirt featuring the text \"I NEVER STOP\". He is positioned in front of a professional microphone, speaking and gesturing with his right hand. To his left sits a red plastic cup. The background is filled with framed photographs on the wall and a white mannequin wearing a white garment. Racks of clothing are visible behind him. The image contains several logos, including a circular black and white logo on the left and a red logo that reads \"HOT\" on the right. Across the frames, the man's facial expressions and hand gestures shift slightly as he continues talking, while the background and equipment remain stationary."
+}

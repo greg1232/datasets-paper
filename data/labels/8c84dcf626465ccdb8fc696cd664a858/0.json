@@ -1,0 +1,15 @@
+{
+  "video_id": "8c84dcf626465ccdb8fc696cd664a858",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.765,
+    5.295,
+    8.825,
+    12.355
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grid-style video conference call displays multiple participants in their respective home or office settings. The layout features a variety of individuals, some wearing glasses and casual attire like t-shirts and button-down shirts. Several participants are visible: \"Jerry Nicholi\" in a blue shirt, \"Howard Brown\" in a dark shirt, \"Patrick Murzyn\" in a grey shirt, and \"Slysynn Herri\" in a dark top. Other screens show individuals like \"Susan Berry,\" \"Charles Blass,\" and \"Harik.\" One participant is represented by a logo of a blue and white circular graphic. Throughout the sequence, the participants remain in their designated tiles, though subtle movements occur, such as people shifting their posture, adjusting their glasses, or blinking. The backgrounds vary from simple walls and curtains to home offices with bookshelves and plants. The overall composition of the gallery view remains constant across the frames."
+}

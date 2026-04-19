@@ -1,0 +1,15 @@
+{
+  "video_id": "405a40b3a63a45b8f89f645f5c973f72",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.901,
+    2.703,
+    4.505,
+    6.306
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is positioned in a recording studio against a backdrop of dark gray acoustic foam panels. He wears a grey baseball cap, over-ear headphones, and a grey t-shirt. He is speaking into a professional microphone held by a boom arm that bears the text \"Blue Microphones\". Throughout the sequence, the man remains in the same position, leaning slightly forward toward the microphone. His right arm is partially visible, showing a tattoo on his forearm. As the sequence progresses, his facial expression shifts slightly as he continues to speak, and his arm moves subtly. The lighting is consistent, focusing on the subject and the equipment, with no other people or on-screen text present in the scene."
+}

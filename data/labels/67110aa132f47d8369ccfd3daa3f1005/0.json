@@ -1,0 +1,15 @@
+{
+  "video_id": "67110aa132f47d8369ccfd3daa3f1005",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.269,
+    0.448,
+    0.627
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a graded sports card in a protective plastic case, showcasing it to the camera. The background features a colorful table cover with orange and teal palm tree motifs. In several frames, a smaller inset window displays a man with a beard wearing a navy blue shirt, seated in a room with computer monitors and equipment. The logo \"JASPYS\" and the website \"CASEBREAKS.COM\" appear prominently as on-screen text in the upper portions of the frames. Throughout the sequence, the person's hand rotates the card, shifting the angle to catch the light on the card's surface. The movement transitions from showing the front of the card to tilting it, and finally partially obscuring it as the hand moves. The inset video of the man remains constant in position, though his facial expression and posture shift slightly as the main action unfolds."
+}

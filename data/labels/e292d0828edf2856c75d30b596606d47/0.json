@@ -1,0 +1,15 @@
+{
+  "video_id": "e292d0828edf2856c75d30b596606d47",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-412.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.531,
+    4.592,
+    7.653,
+    10.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a buzzed haircut and a beard, wearing a white t-shirt and over-ear headphones, is recording in a studio against a dark, ribbed acoustic wall. He has tattoos on his right arm and is positioned in front of a professional microphone mounted on a shock mount and boom arm. Throughout the sequence, he speaks into the microphone, his mouth opening and closing. He starts with his right hand raised near his head, moving it slightly as he talks. A small logo on the left side of his chest on the white t-shirt reads \"The Theory\". The scene remains static in terms of setting and equipment, while the only changes are the man's facial expressions and the subtle movements of his hand and head as he continues to speak."
+}

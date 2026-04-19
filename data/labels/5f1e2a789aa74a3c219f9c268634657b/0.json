@@ -1,0 +1,15 @@
+{
+  "video_id": "5f1e2a789aa74a3c219f9c268634657b",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.305,
+    3.916,
+    6.527,
+    9.138
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a shot of a screen displaying a dimly lit, grainy image of a room containing a ladder leaning against a wall. The scene then shifts to a dark interior space, where visibility is limited. As the sequence progresses, a person becomes visible in a dimly lit room, standing near a table and some chairs. In the final scene, a person is seen from the side, wearing dark clothing, positioned near a piece of furniture in a dark room. The lighting throughout the clip is low and inconsistent, creating a shadowed atmosphere. No on-screen text or logos are visible, and the environment appears to be a residential or indoor setting. The transition between frames moves from a view of a monitor to direct shots of a dark room with a person present."
+}

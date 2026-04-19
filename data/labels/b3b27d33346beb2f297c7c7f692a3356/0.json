@@ -1,0 +1,15 @@
+{
+  "video_id": "b3b27d33346beb2f297c7c7f692a3356",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-325.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.515,
+    1.544,
+    2.573,
+    3.602
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card in their hand against a background featuring a desk with several stacks of cards and a logo with palm trees. In a picture-in-picture window, a man with a beard wearing a dark navy blue t-shirt sits at a desk. The on-screen text \"JASPYS\" and \"CASEBREAKS.COM\" is prominently displayed. Throughout the sequence, the person's hand rotates and tilts the card to showcase its surface and holographic elements, moving from a horizontal position to a more vertical orientation. The background and the man in the inset window remain largely consistent, while the focus shifts to the visual details of the card as it is manipulated in front of the camera."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9d70dcbbe97175096d41037beaa32b9f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.005,
+    3.015,
+    5.025,
+    7.035
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This image displays a grid of multiple video conference feeds, repeated in a pattern. Several participants are visible, including a man in a blue button-down shirt, a man in a grey t-shirt wearing headphones, a man in a blue shirt with headphones, a woman in a grey top, and a man in a green shirt with glasses. Other participants include a person with glasses in a dark room, a man with a beard in a blue shirt, and a person behind a graphic logo. Legible on-screen text includes names such as \"Jerry Mculkin,\" \"Noah Shrout,\" \"Jerry,\" \"Stuart Starkey,\" \"charles Mass,\" \"Clark Quan,\" and \"Patrick Mutzyn.\" Throughout the sequence, the participants remain in their respective home or office environments, appearing mostly stationary as they look toward their cameras. The composition of the video feeds remains constant, with no significant changes in movement or layout across the frames."
+}

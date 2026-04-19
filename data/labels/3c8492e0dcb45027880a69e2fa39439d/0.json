@@ -1,0 +1,15 @@
+{
+  "video_id": "3c8492e0dcb45027880a69e2fa39439d",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-200.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.217,
+    0.651,
+    1.084,
+    1.518
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting with a plain, light-colored background, a group of six people are gathered. Centrally positioned is a man in a white button-down shirt, flanked by a woman in a white shirt and other individuals wearing gray and black attire. At the bottom of the scene, a blue graphic overlay displays the text \"Basil Chapman\" and \"The Tiger Technicians Hour | June 8th, 2022\". As the sequence progresses, the individuals transition from neutral or smiling expressions to giving thumbs-up gestures toward the camera. The man in the center and the woman beside him move their hands to create thumbs-up signs, while those in the background also join in the gesture. The composition remains steady throughout, focusing on the group's collective positive reaction and the consistent on-screen text."
+}

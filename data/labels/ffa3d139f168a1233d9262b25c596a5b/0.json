@@ -1,0 +1,15 @@
+{
+  "video_id": "ffa3d139f168a1233d9262b25c596a5b",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.76,
+    20.28,
+    33.8,
+    47.32
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"CRYOGENIC ENGINEERING\" focuses on the \"Linde \u2013 Hampson System.\" The slide features a diagram of a mechanical system involving a makeup gas inlet, a valve, and a heat exchanger, with a dashed green line outlining a control volume. Text on the right provides a theoretical explanation. The sequence begins with a prompt to \"Consider a control volume for this system as shown in the figure.\" As the sequence progresses, additional text appears detailing the quantities entering and leaving the control volume, listing \"IN m @ 2\" and \"OUT (m - m_f) @ 1'\" and \"m_f @ f.\" The final frame introduces a thermodynamic application, stating, \"Using the 1st Law, we have\" followed by a mathematical equation: \"m h_2 = (m - m_f) h_1 + m_f h_f.\" The bottom footer identifies the presenter as \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\""
+}

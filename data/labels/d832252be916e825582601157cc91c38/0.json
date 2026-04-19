@@ -1,0 +1,15 @@
+{
+  "video_id": "d832252be916e825582601157cc91c38",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.699,
+    2.096,
+    3.493,
+    4.89
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit side-by-side in a room, reacting to a video playing on a screen in front of them. The man on the left wears a dark green t-shirt, while the man on the right wears a grey t-shirt and a necklace. Behind them, a glowing yellow neon sign reads \"OUR STUPID REACTIONS\" above a shelf filled with media cases. An inset video window shows scenes from a cinematic production. In the first scene, a man is visible with the subtitle, \"It is your duty to protect every part of your empire.\" The following scene shows a person holding a large, ornate sword. In the final scene, a woman appears with the subtitle, \"The only one who poses a threat to Denmarkland is...\". Throughout the sequence, the two men maintain neutral, focused expressions, with the man on the right resting his fingers near his mouth."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7f09244a4c27444e113724336bbd9040",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-155.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.246,
+    0.738,
+    1.229,
+    1.721
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with blonde hair, wearing a black t-shirt, is seen in a small video overlay in the bottom left corner of a screen displaying a sports gaming interface. He is gesturing with both hands open in front of him, set against a background featuring a decorated Christmas tree. The main screen shows a \"LINEUP\" menu from a football video game, featuring a grid of player cards with various attributes. Top navigation tabs include \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS.\" Numerical values at the top right display \"173,037,\" \"14,660,\" and \"2,343,543\" next to a level indicator that reads \"LV 19.\" Bottom menu options include \"BEST LINEUP,\" \"HELP,\" and \"BACK.\" Across the sequence, the screen remains static, and the man's hand gestures shift slightly as he speaks, while the game interface and background elements stay unchanged."
+}

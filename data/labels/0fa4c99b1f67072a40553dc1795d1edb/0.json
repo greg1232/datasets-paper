@@ -1,0 +1,15 @@
+{
+  "video_id": "0fa4c99b1f67072a40553dc1795d1edb",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A flashlight illuminates a patch of dark, sandy ground scattered with small green plants and dry twigs. The bright beam creates a circular hotspot of light, casting a deep shadow of a person on the right side of the frame. The person is only partially visible as a silhouette, with their arm and torso blocking the light source. Across the sequence of images, the flashlight beam shifts slightly, causing the light to move across the soil and the shadow to adjust its position. The texture of the ground, consisting of gray sand and sparse vegetation, remains consistent as the light scans the area. No text, logos, or other people are visible in the scene."
+}

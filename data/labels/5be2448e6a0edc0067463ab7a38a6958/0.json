@@ -1,0 +1,15 @@
+{
+  "video_id": "5be2448e6a0edc0067463ab7a38a6958",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-701.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a camouflage cap, headphones, and a dark green t-shirt sits in a room filled with clothing racks and framed photos. His t-shirt features the white text \"ION NEVER DO SHIT AT WORK\". He is positioned in front of a professional black microphone and is laughing, with his eyes squinting and mouth open. In the background, a white mannequin wears a white garment, and various shirts hang on racks. Small red and white logos, including one that says \"BIG FELIX\", are visible in the bottom corners of the scene. As the sequence progresses, the man continues to laugh, with his facial expressions shifting slightly as his head tilts and his smile widens, while the background and equipment remain stationary."
+}

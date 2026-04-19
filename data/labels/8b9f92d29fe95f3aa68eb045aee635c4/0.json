@@ -1,0 +1,15 @@
+{
+  "video_id": "8b9f92d29fe95f3aa68eb045aee635c4",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-395.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.172,
+    0.516,
+    0.86,
+    1.204
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, over-ear headphones, and a green t-shirt with the text \"I DON'T NEED NO\" and \"SIT\" visible on the front is speaking into a professional microphone. He is positioned in a room with a wall of framed photographs behind him and a white mannequin wearing a white shirt to his right. To the far right, clothing racks are visible in the background. Two logos appear on the screen: a circular black and white logo on the left and a red \"BOLLY TOY\" logo on the right. Across the sequence, the man remains in the same position, laughing and speaking, with his facial expressions shifting as he reacts to a conversation. The background and equipment remain static as the man continues to talk and smile."
+}

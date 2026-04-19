@@ -1,0 +1,15 @@
+{
+  "video_id": "adc37c5fac85485360447dfc5a765052",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.525,
+    0.875,
+    1.225
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, white military-style aircraft with a T-tail and jet engines moves slowly along a grey runway. The plane is positioned centrally, taxiing from left to right across a landscape consisting of a flat green grassy area and a grey, overcast sky. Several red and white markers and equipment are scattered along the edge of the runway in the foreground. In the upper right corner of every scene, a circular red logo contains the white number \"13\". As the sequence progresses, the aircraft continues its steady forward motion toward the right side of the frame. The environment remains static, and no people are visible. The lighting is flat and diffused, consistent with the cloudy weather conditions."
+}

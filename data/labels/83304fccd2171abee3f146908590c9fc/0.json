@@ -1,0 +1,15 @@
+{
+  "video_id": "83304fccd2171abee3f146908590c9fc",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-173.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.17,
+    0.51,
+    0.85,
+    1.19
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser with multiple open tabs, including \"True Learning by Systemantics\" and \"Future of Society by Systemantics.\" The main window shows a complex conceptual map on a black background, featuring various circular icons connected by blue lines. Legible text within the map includes labels such as \"Intelligence,\" \"Insight,\" \"Knowledge,\" and \"Intuition.\" In the upper right corner, a video call window shows a man wearing a dark blue shirt and a dark baseball cap, looking toward the camera. As the sequence progresses, the screen remains largely static, though there is a brief transition where the video call window disappears, leaving only the conceptual map and browser interface visible, before the man in the baseball cap reappears in the video call window. The browser's address bar contains the text \"deck.systemantics.trial learning.\""
+}

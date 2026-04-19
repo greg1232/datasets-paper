@@ -1,0 +1,15 @@
+{
+  "video_id": "11135dc6db42aa00aa1e018bb31c5561",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-236.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.39,
+    1.17,
+    1.95,
+    2.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a grey baseball cap is seen in a small video call window in the upper right corner of a computer screen. The main area of the screen displays a complex digital mind map or conceptual graph against a black background. This graph consists of various circular nodes containing images and text, connected by curved blue lines. Legible text within the nodes includes \"The Future of Society,\" \"Human Intelligence,\" and \"Hyper-Intelligence.\" The browser tabs at the top of the screen include titles such as \"True Learning by Systemeni\" and \"Rural Community Food Spot.\" Across the sequence, the scene remains almost entirely static; the man in the video window remains in a similar pose, and the conceptual map on the screen does not change position or content, showing a steady view of the digital interface."
+}

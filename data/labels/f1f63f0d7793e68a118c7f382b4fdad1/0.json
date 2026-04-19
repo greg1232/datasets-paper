@@ -1,0 +1,15 @@
+{
+  "video_id": "f1f63f0d7793e68a118c7f382b4fdad1",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-330.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.2,
+    12.6,
+    21.0,
+    29.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A composite image displays a video conferencing screen featuring a grid of multiple participants. The screen is divided into several rows and columns of video tiles, each showing a person in their own home or office environment. The participants are diverse in appearance and age, with several men and women visible. Some wear casual attire like t-shirts, while others are in button-down shirts. Their actions vary; some look directly into their cameras, while others lean back, touch their faces, or appear to be listening. Legible on-screen text includes names such as \"Jerry Michalski,\" \"Renato Alvarenga,\" \"Jim Burko,\" \"Doug Cole,\" \"Marie-Jean van de Vyver,\" \"Eva_collaborator,\" \"Sreng Arengvail,\" \"France Pitton,\" \"Britt Jensen,\" and \"Giuliano Sagandini.\" The layout of the participants remains consistent throughout the sequence, though subtle changes in facial expressions and head positions are visible as the conversation progresses."
+}

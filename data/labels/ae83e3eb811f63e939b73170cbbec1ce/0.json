@@ -1,0 +1,15 @@
+{
+  "video_id": "ae83e3eb811f63e939b73170cbbec1ce",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-158.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a digital presentation within a web browser, featuring a dark interface with a network of interconnected nodes and circles. A central diagram shows a figure in a white robe seated in meditation, linked by blue lines to other icons, including one labeled \"Feeling Blocking\" in green text. To the right, a small video inset shows a man with a beard wearing a dark cap. The browser tabs at the top list various pages, including \"True Learning by SystemDyn,\" \"Elements by SystemDyn,\" and \"Future of Society by SystemDyn.\" Throughout the sequence, the visual content remains static; the man in the video window and the diagram on the main screen do not change their positions or actions. The overall scene presents a steady view of an educational or philosophical presentation being shared during a virtual meeting."
+}

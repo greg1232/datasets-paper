@@ -1,0 +1,15 @@
+{
+  "video_id": "af730404774437161bdffec3af83020f",
+  "url": "./data/segments/3l84m5pRmyk-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.425,
+    1.276,
+    2.127,
+    2.978
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a dark suit jacket and light-colored shirt speaks and gestures with his right hand toward another man seated next to him. This second man wears a grey suit jacket and a light-colored tie, and he is focused on a silver laptop open on the table in front of him. They are seated in front of a light-colored backdrop featuring blue logos and the text \"#BigData\" and \"#BigDataSV\". Below them, a blue on-screen graphic reads \"#theCUBE LIVE at #BigDataSV 2015\", with smaller text below specifying \"Fairmont Hotel - Valley Room\" and \"San Jose, CA\". To the left of this text is an \"NFO-OBJECTS\" logo. Throughout the sequence, the man on the left continues to talk and move his hand, while the man on the right remains stationary, looking down at his laptop screen."
+}

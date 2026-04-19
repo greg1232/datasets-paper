@@ -1,0 +1,15 @@
+{
+  "video_id": "ff796b58afcce7b30a33e9ab2c4cb39f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-142.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.52,
+    1.56,
+    2.6,
+    3.64
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video call and a web browser displaying a conceptual map. In a small inset window, a man wearing a dark baseball cap and a blue shirt is visible. The main portion of the screen shows a browser with several open tabs, including \"Trust & Learning by System Dynamics,\" \"Future of Society by Systemics,\" and \"Rural Community Food System.\" The central focus is a dark-themed interactive diagram featuring various circular icons connected by curved blue lines. Some icons contain images of people, plants, or symbols, while others are accompanied by text such as \"Rural Community,\" \"Food System,\" \"Economic,\" and \"Social.\" A mouse cursor moves across the diagram, interacting with the nodes. The scene remains largely static across the sequence, with only slight changes in the cursor's position and the man's facial expression in the video feed."
+}

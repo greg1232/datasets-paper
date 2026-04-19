@@ -1,0 +1,15 @@
+{
+  "video_id": "65b9ed0562de14aa1d62feee457e8db9",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-235.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.306,
+    0.919,
+    1.531,
+    2.144
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a clear plastic protective case over a white stand featuring a yellow rectangular block. In a small inset video window, a man with a beard wearing a navy blue shirt sits at a desk with a microphone, appearing to be streaming. The background of the main shot is a surface with red and orange patterns. The logo \"JASPYS\" and the website \"CASEBREAKS.COM\" are prominently displayed on the screen. As the sequence progresses, the hand moves the plastic case closer to the white stand and the yellow block. The man in the inset window remains seated, watching the action. The layout of the scene remains consistent, with the hand guiding the protective case toward the object on the stand while the branded text remains static on the screen."
+}

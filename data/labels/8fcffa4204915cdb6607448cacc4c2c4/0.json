@@ -1,0 +1,15 @@
+{
+  "video_id": "8fcffa4204915cdb6607448cacc4c2c4",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    27.99,
+    83.97,
+    139.95,
+    195.93
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video consists of presentation slides for a course titled \"CRYOGENIC ENGINEERING\" taught by \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" The NPTEL logo is visible in the bottom left of each slide. The slides are titled \"Earlier Lecture.\" The content progresses from discussing the practicality of thermodynamic cycles for gas liquefaction to specific details about the Linde-Hampson cycle. The first frame introduces the idea that the ideal cycle is impractical and modified cycles are proposed. The second frame adds that the ideal cycle serves as a benchmark and describes the Linde-Hampson cycle as consisting of \"a compressor, heat exchanger and a J - T expansion device.\" The third frame explains that the isobaric heat exchange process is used to \"conserve cold\" and the J-T device is used for \"producing lower temperatures.\" The final frame provides a formula for work and states that the yield is maximum when state 2 \"lies on the inversion curve.\""
+}

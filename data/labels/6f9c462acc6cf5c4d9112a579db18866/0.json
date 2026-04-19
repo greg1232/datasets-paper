@@ -1,0 +1,15 @@
+{
+  "video_id": "6f9c462acc6cf5c4d9112a579db18866",
+  "url": "./data/segments/3P5zYKAFzh4-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.327,
+    18.981,
+    31.636,
+    44.29
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A split-screen video presentation features two people in separate locations. On the left, a woman with reddish-blonde hair wearing a blue patterned shirt and red earrings speaks to the camera. On the right, a man with a grey beard and a blue button-down shirt also speaks. The man's background includes a blue wall, a framed picture, and a sign that reads \"OPEN\" in red letters. Blue banners at the bottom of the screen contain white text; the left side reads \"FOCUS with Margaret Harrington\" and the right side reads \"No More Time Climate Crisis Poems by Greg Delanty,\" accompanied by a \"TOWN MEETING TV\" logo. As the sequence progresses, the woman's facial expressions shift while she speaks, and the man's head tilts slightly downward and to the side by the final frame."
+}

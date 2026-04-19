@@ -1,0 +1,15 @@
+{
+  "video_id": "23a727db007741928765b53edaa9bc22",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-411.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.188,
+    0.563,
+    0.938,
+    1.314
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap and a matching green t-shirt with the text \"I CV NEVED\" and \"SUNI\" sits in a room filled with framed pictures and clothing racks. He wears large black headphones and speaks into a professional black microphone positioned in front of him. Behind him, a white mannequin wears a white shirt, and various garments hang on racks in the background. The room features a light blue wall decorated with numerous framed photographs. Two logos are visible at the bottom of the screen: a circular black-and-white logo on the left and a red text logo on the right that reads \"DOGG FELIX 101\". Throughout the sequence, the man remains in place, shifting his facial expression slightly and blinking as he talks, while the background and equipment remain static."
+}

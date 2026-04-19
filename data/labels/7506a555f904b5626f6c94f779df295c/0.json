@@ -1,0 +1,15 @@
+{
+  "video_id": "7506a555f904b5626f6c94f779df295c",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.925,
+    5.775,
+    9.625,
+    13.475
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast segment titled \"PLUS POLITICS\" features a male anchor and a guest. The anchor, wearing a dark suit, white shirt, and red tie, is positioned on the left side of the screen against a blue digital backdrop. On the right, a smaller inset window shows a man in a red traditional cap and black attire, identified by on-screen text as \"OLUSOLA OYEKANMI\" and \"POLITICAL ANALYST\" based in \"LAGOS.\" A banner at the top of the inset reads \"ON THE PHONE.\" A large headline across the bottom of the screen states \"NIGERIA NEEDS ME \u2013 BOLA TINUBU.\" In the upper frames, a scrolling ticker includes the text \"SUBSCRIBE\" and \"W W W.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE.\" The lower frames replace the ticker with \"FOLLOW US\" and \"P LUSTVAFRICA\" alongside \"WATCH ON\" logos for \"DStv CH 408\" and \"StarTimes CH 308.\" The visual composition remains consistent across the frames, with only the bottom ticker changing."
+}

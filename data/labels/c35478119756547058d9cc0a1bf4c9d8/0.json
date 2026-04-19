@@ -1,0 +1,15 @@
+{
+  "video_id": "c35478119756547058d9cc0a1bf4c9d8",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.182,
+    0.547,
+    0.912,
+    1.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with white text reading \"YOU NEVER DO SHIT\" sits in a room and speaks. A professional microphone is positioned in front of him. Behind him, a white mannequin wearing a white long-sleeved shirt and white pants stands near a clothing rack. The walls are decorated with several framed photographs. To the left, a logo featuring the word \"PODCAST\" is visible, and to the right, red text reads \"BODILY\". Throughout the sequence, the man remains in the same position, speaking into the microphone with subtle changes in his facial expressions and mouth movements, indicating he is in the middle of a conversation. The background and the positioning of the equipment remain static as the focus remains on the man's talking head."
+}

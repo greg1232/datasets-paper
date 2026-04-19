@@ -1,0 +1,15 @@
+{
+  "video_id": "6fcb7995cad42c152078fdd5c712c7a0",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-333.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.29,
+    12.87,
+    21.45,
+    30.03
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call displays a grid of participants in their respective home or office settings. Several individuals appear multiple times across different sections of the layout. One man wears a blue button-down shirt and glasses, identified by the text \"Jerry McNally.\" Another man in a grey shirt is labeled \"Brian d'Angiolantonio,\" and a man in a grey shirt and glasses is labeled \"Jim Burke.\" Other participants include a woman with headphones and a man in a black shirt identified as \"Scott Moenting.\" Throughout the sequence, the participants remain in their fixed positions within the grid, though some shift slightly in their seats or change their facial expressions. The background for each person varies, featuring home offices with bookshelves, windows, and computers. The layout remains consistent across the frames, showing a synchronized digital meeting environment with no significant changes in the participants or their settings."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "8b169c059797bd8cbc10f4bdddbb2fc1",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-099.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.28,
+    3.84,
+    6.4,
+    8.96
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser with multiple open tabs, including \"Trust & Learning by Systemic\", \"Elements by Systemic\", and \"Insights Introduction | Kumu\". The main window shows a mind map or conceptual diagram on a black background with various connected nodes. A video call window in the upper right corner features a man with short grey hair wearing a dark shirt. Another smaller video feed shows a person in a red shirt sitting in a room with a guitar and a lamp. On-screen text includes a name, \"Steve Biddinger\", near the video feeds. As the sequence progresses, the browser window is minimized or shifted, causing the video call window with the man to move from the top right to the center-left of the screen. The layout of the mind map and the content of the open tabs remain consistent throughout the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "36339e23ca776f2d45de99250e4778b3",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.412,
+    1.237,
+    2.062,
+    2.887
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a split-screen layout showing a web browser and a live stream. On the left, the website \"RANDOM.ORG\" displays a \"List Randomizer\" featuring a numbered list of NBA teams, including \"1. NEW ORLEANS PELICANS\" and \"2. HOUSTON ROCKETS.\" On the right, a live stream window shows a man with a beard and dark hair wearing a black t-shirt, appearing as a talking head against a dark background. A chat window is visible above him, featuring a message from \"Nightbot\" stating, \"Click the link for the BREAK, SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/2zGdxK9.\" At the bottom of the screen, a red and yellow banner displays the logo \"JASPYS\" and the text \"CASEBREAKS.COM.\" As the video progresses, the browser window shifts to show a different randomized list of teams, while the man in the live stream remains stationary, speaking to the camera."
+}

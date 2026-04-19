@@ -1,0 +1,15 @@
+{
+  "video_id": "f737c0e6c250f49c3a90e7fe575952de",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.158,
+    0.475,
+    0.792,
+    1.109
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with brown hair and glasses, wearing a grey long-sleeved shirt, is seen in a profile view seated at a white table. He is interacting with a white tablet held in his hands while a silver laptop remains open in front of him. In the background, another person is partially visible, with only their arm and white sleeve showing as they reach toward a white coffee cup and a document featuring blue circular charts. The blue text \"ARE YOU LOOKING FOR A WAY\" is overlaid across the center of the scene. Throughout the sequence, the man remains in a consistent position, slightly shifting his grip on the tablet as he looks at the screen. The surrounding environment and objects, including the laptop and the document on the table, remain stationary as the scene persists."
+}

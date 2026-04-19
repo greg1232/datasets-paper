@@ -1,0 +1,15 @@
+{
+  "video_id": "e95ae9bba62d0e5560bca657a6709344",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-346.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.16,
+    0.481,
+    0.802,
+    1.123
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a room with a desk and a palm tree graphic on a mat, a man wearing a dark blue shirt is seen in a small picture-in-picture window, sitting and watching the main action. The main view focuses on a person's hands holding and manipulating a thin, rectangular trading card. The hands carefully tilt and rotate the card, showcasing its reflective surface. On the screen, the text \"JASPYRS\" and \"CASEBREAKS.COM\" are displayed prominently. The scene progresses as the hands shift the card's position to catch the light, while the man in the inset window continues to observe. A black storage box is visible in the background, along with other stacks of cards on the table."
+}

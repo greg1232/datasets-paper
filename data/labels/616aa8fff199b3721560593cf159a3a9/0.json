@@ -1,0 +1,15 @@
+{
+  "video_id": "616aa8fff199b3721560593cf159a3a9",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.495,
+    10.485,
+    17.476,
+    24.466
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene takes place in a professional setting, likely a government meeting room, featuring wooden bookshelves filled with books in the background. Three people are seated behind a desk: a woman in a white cardigan over a black top, a man in a blue suit and tie, and another man in a dark suit and glasses who is positioned in the foreground. In the background, a woman in a red top is partially visible. On the desk, there are items including an orange, a green mug with a white \"C\" on it, and a silver thermos. A green banner at the bottom of the screen displays the text \"S.23 Increasing the Minimum Wage,\" while white text above it reads \"April 12, 2019\" and \"House Committee on General, Housing, and Military Affairs,\" accompanied by the \"ORCA\" logo. As the scene progresses, the man in the foreground shifts his posture and adjusts his position while looking toward the other people."
+}

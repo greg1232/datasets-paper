@@ -1,0 +1,15 @@
+{
+  "video_id": "1efa9c9c0fad90c257a03ca406501f57",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-162.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.976,
+    1.627,
+    2.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a light beard is seated in a recording studio, wearing a black shirt and over-ear headphones. He is positioned in front of a professional condenser microphone mounted on a boom arm. The background consists of grey acoustic foam panels arranged in a textured, rectangular pattern. As the sequence progresses, the man looks toward someone off-camera to his left, maintaining a neutral but attentive expression. In the final frame, he closes his eyes briefly and begins to smile slightly. He remains stationary throughout the clip, with the only visible changes being the subtle movements of his eyes and facial expression. No text or logos are visible in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9333f4050b4b6527ba27f6d8b35f5649",
+  "url": "./data/segments/3Smz5pevbI4-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.705,
+    26.114,
+    43.523,
+    60.932
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands on a stage in front of a presentation screen at the \"UNITED STATES INSTITUTE OF PEACE.\" He is dressed in a light-colored blazer, a white dress shirt, and dark brown trousers. To his right is a wooden lectern and two flags: the United States flag and a blue flag featuring a white circular logo. The background screen displays the repeated text \"UNITED STATES INSTITUTE OF PEACE\" in a circular pattern. Throughout the sequence, the man is speaking and gesturing with his hands to emphasize his points. He begins by standing relatively still with his hands raised in front of his chest, then shifts his weight and steps slightly to his right while continuing to gesture. His movements are fluid as he engages with an unseen audience, while the setting and the surrounding objects remain stationary."
+}

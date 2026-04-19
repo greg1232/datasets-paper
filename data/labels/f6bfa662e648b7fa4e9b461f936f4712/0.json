@@ -1,0 +1,15 @@
+{
+  "video_id": "f6bfa662e648b7fa4e9b461f936f4712",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-135.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.319,
+    0.956,
+    1.594,
+    2.231
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short blonde hair is seen in a small video overlay in the bottom-left corner of a screen displaying a video game interface. He is wearing a dark-colored shirt and appears to be speaking. The game menu is titled \"SUBSTITUTION\" and features a pink and purple color scheme with a background that says \"ULTIMATE TEAM.\" The interface shows a current position listed as \"ROLB1\" and notes \"No other positions.\" A player profile for \"KWON ALEXANDER\" is visible, detailing key attributes such as \"HEIGHT 6'1\"\", \"SPEED 87\", \"ACCELERATION 87\", \"STRENGTH 81\", and \"TACKLE 78.\" Other labels include \"PLAY RECOGNITION 81,\" \"BLOCK SHEDDING 77,\" and \"PRESS MOVES 59.\" Across the top of the screen, numbers including \"173,037\", \"14,800\", and \"2,343,549\" are displayed. Throughout the sequence, the screen remains largely static while the man in the overlay continues to talk."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c343148a47256f75b48b7ebaca3ab740",
+  "url": "./data/segments/3QD9oO6sRns-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.719,
+    2.156,
+    3.594,
+    5.031
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is preparing to open boxes of sports cards during a live broadcast. The scene is set at a dark table featuring a large orange and white logo that reads \"JASPYS CASEBREAKS.\" The person, visible in small inset windows, wears a black t-shirt and a black baseball cap. In the main view, several stacked boxes of \"Clearly Authentic\" 2020 trading cards are arranged. A hand reaches into the frame to shift the boxes, moving them to organize the layout. The boxes are primarily black with white and red text, including the phrase \"CLEARLY AUTHENTIC\" prominently displayed. As the sequence progresses, the person in the inset video remains present while the hand in the foreground adjusts the placement of the boxes across the \"JASPYS CASEBREAKS\" branded mat. The branding \"CASEBREAKS.COM\" is also visible in the smaller inset frames."
+}

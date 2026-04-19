@@ -1,0 +1,15 @@
+{
+  "video_id": "9ef063ec72b54f81aad23e26619881c0",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.809,
+    2.427,
+    4.046,
+    5.664
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A flashlight illuminates a dark, earthen ground covered in dry leaves, twigs, and scattered small green plants. The beam of light is centered in the frame, creating a bright white hotspot that reveals the textures of the soil and debris. Across the sequence, the light source moves slightly, shifting its focus across the forest floor. In the first part of the clip, the light is focused near a small cluster of green leaves. As the sequence progresses, the camera shifts, and the light glides across the ground, momentarily highlighting different patches of soil and foliage. No people, clothing, equipment, or text are visible in the scene. The overall environment remains dark and nocturnal, with the only visibility provided by the narrow, shifting circle of the flashlight's beam."
+}

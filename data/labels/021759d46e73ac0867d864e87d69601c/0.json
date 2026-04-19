@@ -1,0 +1,15 @@
+{
+  "video_id": "021759d46e73ac0867d864e87d69601c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-165.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.729,
+    1.021
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blonde hair wearing a dark t-shirt is visible in a small inset window in the bottom-left corner of a screen displaying a video game interface. He is positioned in front of a background featuring a decorated holiday tree with white lights. The main screen is titled \"AUCTIONS & TRADES\" and features several sections: \"AUCTION HOUSE,\" \"TRADE BLOCK,\" \"MY AUCTIONS,\" \"MY BIDS,\" \"MY TRADE BLOCK,\" and \"MY TRADE OFFERS.\" The \"AUCTION HOUSE\" section contains a white gavel icon and the text \"Use filters and sort tools to find and bid on items.\" The \"TRADE BLOCK\" section displays a white arrow icon. In the top right, numeric values are shown, including \"173,037,\" \"0,\" \"14,869,\" and \"2,943,543,\" alongside \"LV 19\" and a \"91\" badge. Across the frames, the person in the inset window remains present, though his facial expression and posture shift slightly as he speaks."
+}

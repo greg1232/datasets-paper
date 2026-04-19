@@ -1,0 +1,15 @@
+{
+  "video_id": "58ea3dcb58305023b399cbd9b80bad60",
+  "url": "./data/segments/3KyEoC29eqs-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.188,
+    0.562,
+    0.938,
+    1.312
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video depicts a political event with Prime Minister Narendra Modi speaking. He is wearing a white kurta with a yellow and green stole draped over his shoulders. He stands before a backdrop filled with repetitive lotus logos and several other people, some wearing red caps and traditional Indian attire, who are gathered behind him. The scene is framed by a bright orange graphic overlay. Large white Hindi text at the top reads \"\u092d\u093e\u0930\u0924\u0940\u092f \u091c\u0928\u0924\u093e \u092a\u093e\u0930\u094d\u091f\u0940 \u0938\u094d\u0925\u093e\u092a\u0928\u093e \u0926\u093f\u0935\u0938\". Smaller white text on the sides says \"\u092a\u094d\u0930\u091c\u0928\u092e\u0928\u0947\u0924\u094d\u0930\u0940\" and \"\u0926\u093f\u0932\u094d\u0932\u0940\". Below the main scene, social media handles and a website are visible: \"BJP4India\" and \"www.bjp.org/bjplive\", alongside the text \"\u0932\u093e\u0907\u0935 \u0926\u0947\u0916\u0947\u0902\". Across the sequence of frames, the camera remains stationary, and the scene is static, with only subtle changes in the expressions and positions of the people in the background."
+}

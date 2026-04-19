@@ -1,0 +1,15 @@
+{
+  "video_id": "d76c4b9c13cdbc162ea85fa94aa306f6",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.963,
+    2.89,
+    4.817,
+    6.744
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a clean, white background featuring a logo and text. The logo consists of the word \"TFNN.COM\" in a bold, blue, sans-serif typeface, with the phrase \"EDUCATING INVESTORS\" written in a smaller, black, all-caps font directly beneath it. This static scene remains consistent through the first two frames. In the third frame, the logo and text disappear, leaving only the plain white background. Finally, the scene shifts abruptly to a close-up shot of a smartphone lying on a blue surface. The screen is active, displaying an incoming call from \"Basil Chapman.\" The interface shows a green answer button and a red decline button, with the phone oriented horizontally across the frame."
+}

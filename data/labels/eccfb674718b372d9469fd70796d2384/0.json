@@ -1,0 +1,15 @@
+{
+  "video_id": "eccfb674718b372d9469fd70796d2384",
+  "url": "./data/segments/3fokLGPK15Q-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.95,
+    2.85,
+    4.75,
+    6.65
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man and a woman are seated in chairs on a dark stage during a discussion. The man, on the left, wears a white long-sleeved button-down shirt and has dark hair and a beard. The woman, on the right, has blonde hair tied back and wears a black t-shirt with the text \"WHO'S IN YOUR\" visible across the chest. They are both seated in light-colored wooden chairs, with a white rectangular piece of equipment sitting on a table in front of them. In the background, a purple neon light strip is visible against the dark backdrop. Throughout the sequence, the man remains relatively still, looking toward the woman. The woman is actively speaking; she begins with her hands clasped in her lap and gradually opens her arms and gestures with her hands to emphasize her points as the scene progresses."
+}

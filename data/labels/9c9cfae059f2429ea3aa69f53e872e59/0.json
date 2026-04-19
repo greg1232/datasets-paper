@@ -1,0 +1,15 @@
+{
+  "video_id": "9c9cfae059f2429ea3aa69f53e872e59",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.238,
+    0.713,
+    1.189,
+    1.664
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view captures the dashboard and ignition area of a vehicle. The interior features a dark grey instrument panel with several gauges and text displays, including labels such as \"UNLEADED FUEL ONLY\", \"INST/AVER\", \"RANGE\", and \"FUEL\". A set of keys is inserted into the ignition switch, with a white key tag hanging from the ring. To the left, the edge of a person's light-colored clothing is partially visible. As the sequence progresses, the keys are turned clockwise in the ignition. In the final frames, the movement of the keys causes a slight shift in the camera angle, and a small portion of a brown wooden trim becomes visible on the far right side of the dashboard. The overall lighting is dim, reflecting a view from the driver's seat."
+}

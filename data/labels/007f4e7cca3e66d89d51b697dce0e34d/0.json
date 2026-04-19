@@ -1,0 +1,15 @@
+{
+  "video_id": "007f4e7cca3e66d89d51b697dce0e34d",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser displaying a complex conceptual map on a black background. The map consists of various circular icons representing people and concepts, connected by blue lines. Some labels include \"insights $\\rightarrow$ Introduction to Burnout,\" \"Rural Community Food System,\" and \"Healthy Place.\" A central white rectangular pop-up window contains a graphic of a person holding a large red magnet. In the upper right corner of the screen, a small video inset displays a man wearing a dark blue shirt and a dark baseball cap, looking toward the screen. The browser tabs at the top list several open pages, including \"Trail & Learning by Synectics\" and \"Future of Society by Synectics.\" Across the frames, the visual content remains static, with no discernible movement or changes in the map, the pop-up, or the man's position in the inset video."
+}

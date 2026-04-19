@@ -1,0 +1,15 @@
+{
+  "video_id": "656d726e5755e5ca58a9fe1b6c20f5eb",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of frames shows a minimalist blue background with red 3D text appearing on screen. Initially, the scene is a blank blue expanse. Then, bold red text reading \"TOLL FREE\" emerges, stacked vertically with \"TOLL\" on the top line and \"FREE\" on the bottom. The text is positioned centrally and casts a soft reflection on the surface below it. As the sequence progresses, the red text remains stationary and centered against the blue backdrop, maintaining its position and appearance throughout the remaining frames. No people, clothing, or other objects are visible in the scene."
+}

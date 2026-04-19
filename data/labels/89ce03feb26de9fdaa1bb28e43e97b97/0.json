@@ -1,0 +1,15 @@
+{
+  "video_id": "89ce03feb26de9fdaa1bb28e43e97b97",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-648.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap and a dark green t-shirt with the text \"I CON NEVER DO SHIT\" speaks into a professional microphone. He wears over-ear headphones and is seated in a room with a wall decorated with numerous framed photographs. To his right, a white mannequin wearing a white shirt stands near a clothing rack filled with garments. Two logos appear on the screen: one on the left featuring a circular icon and the text \"THE\", and another on the right with red text reading \"PROUDLY PRESENTED BY\". As the sequence progresses, the man's facial expression shifts slightly as he continues speaking, moving his mouth and subtly changing his gaze, while the camera remains in a static medium shot."
+}

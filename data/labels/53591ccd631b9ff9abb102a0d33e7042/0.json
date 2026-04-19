@@ -1,0 +1,15 @@
+{
+  "video_id": "53591ccd631b9ff9abb102a0d33e7042",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-068.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.865,
+    17.595,
+    29.325,
+    41.055
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This video consists of a presentation slide titled \"CRYOGENIC ENGINEERING\" and \"Tutorial \u2013 4\". The slide outlines a problem based on conditions from a previous tutorial involving a Linde-Hampson system using Nitrogen as the working fluid. The text asks to calculate several values when the effectiveness of the heat exchanger (HX) is 90%. The requirements listed are \"Liquid yield\", \"Work/unit mass compressed\", \"Work/unit mass liquefied\", and \"FOM\", followed by a prompt to \"Comment on the results\". The NPTEL logo is visible in the bottom left corner, and the footer identifies the presenter as \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\". Across the sequence of frames, the slide content remains static, but the list of calculated parameters and the final instruction appear incrementally, as if being revealed during a live lecture."
+}

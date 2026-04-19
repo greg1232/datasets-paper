@@ -1,0 +1,15 @@
+{
+  "video_id": "a7c5cd0b12ebb96e1503555621567df0",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.177,
+    0.532,
+    0.886,
+    1.241
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair styled in curls and a bun sits in a recording studio, wearing a dark green t-shirt with a red graphic on the front. She is positioned in front of a professional black microphone on a boom arm. Behind her is a black backdrop featuring the white and red text \"BOSS TALK 101\" and \"It's A Unique Hustle,\" along with the words \"CAST\" and \"About It!\" and a stylized \"U\". To her left, a screen displays a close-up image of a person's hands. On the table in front of her, there are small containers and a logo that reads \"BOSS TALK 101\". As the scene progresses, the woman speaks, shifting her facial expressions and slightly moving her head while maintaining her position behind the microphone. The camera remains static, capturing her from the waist up throughout the sequence."
+}

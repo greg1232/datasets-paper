@@ -1,0 +1,15 @@
+{
+  "video_id": "36296594efff64c4dabe1d8cbc11aa35",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-286.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.267,
+    0.8,
+    1.333,
+    1.867
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A gaming video captures a football simulation played in a large stadium filled with spectators. On the field, players in white and dark uniforms are positioned for a play, with several colorful graphic overlays indicating strategic zones like \"DEEP ZONE,\" \"QUARTER FLAT,\" and \"FLATHARD FLAT.\" A small inset window shows a man with blonde hair speaking. A HUD at the top displays game stats, including \"1st & 10\" and a countdown clock. As the sequence progresses, the gameplay shifts from a strategic planning screen featuring text like \"MOMENTUM LEGEND\" and \"HOLD THE LINE\" to an active play. The \"HOLD THE LINE\" notification appears in the bottom right, accompanied by the text \"Away Team has improved blocking.\" In the final stage, a new notification reading \"COVERAGE ADJUSTMENTS\" appears near the speaker's inset window while the players on the field engage in the play."
+}

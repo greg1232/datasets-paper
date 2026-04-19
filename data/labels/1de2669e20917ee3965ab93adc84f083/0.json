@@ -1,0 +1,15 @@
+{
+  "video_id": "1de2669e20917ee3965ab93adc84f083",
+  "url": "./data/segments/3VCwl-aQ_oQ-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser window open to RANDOM.ORG, showing a \"Dice Roller\" result where two dice were rolled, both showing three dots. The page includes a timestamp of \"2023-11-23 03:23:32 UTC\" and a disclaimer stating, \"Advisory: We only operate services from the RANDOM.ORG domain.\" Overlaid on the right side of the screen is a Twitch chat window with messages from users \"rogert\" and \"Nightbot.\" Rogert writes, \"i think if you are a team signing Ohantu, you are going all in on everyone you can,\" and Nightbot provides a link for \"BREAK SCHEDULE, SHIPPING INFO and MORE.\" In the bottom right corner, a webcam feed shows a man with a beard wearing a black t-shirt, looking toward the camera. At the bottom of the browser, a banner for \"CASEBREAKS.COM\" is visible. The scene remains static across all frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4744c4a6a00081509543e0f8b1e2cd18",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.255,
+    0.425,
+    0.595
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man dressed in a white t-shirt and green pants is cleaning rows of bright red stadium seats. He is bent over, using a white cloth to wipe down the seat surfaces. The setting is a large sports arena with vast sections of red seating and black railings. In the upper right corner of each scene, a circular white logo featuring a crown and the letters \"RM\" is visible. The scene remains consistent across the sequence, showing the man in the same position and motion as he meticulously cleans the seats, with only minor shifts in his posture as he works his way across the row. The lighting is bright, highlighting the vibrant red of the plastic seats and the contrast of the man's attire."
+}

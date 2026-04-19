@@ -1,0 +1,15 @@
+{
+  "video_id": "597b4f9e5f951bb7d005e38c6a5be38a",
+  "url": "./data/segments/3Kxl1O310k8-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.005,
+    9.015,
+    15.025,
+    21.035
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call displays several participants in a grid of small windows. The group includes a man with glasses in a dark jacket who touches his chin, a man in a dark shirt wearing blue-tinted glasses, and a woman wearing a headset and a dark jacket. Another man wearing a light-colored button-down shirt appears against a backdrop of a brick building with a steeple, while another man with a beard and dark clothing is seen in a separate window. A woman with blonde hair looks downward, and a man in a blue-and-white striped shirt is also present. The video consists of repeating patterns of these same participant windows, with some windows remaining static while others cycle through the different people. No legible on-screen text or logos are visible. The scene shifts through a sequence of these changing screen arrangements."
+}

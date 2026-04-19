@@ -1,0 +1,15 @@
+{
+  "video_id": "f8f19e369371ac16663ad266d38f20b6",
+  "url": "./data/segments/3iUTkJy84EY-Scene-303.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.29,
+    0.87,
+    1.45,
+    2.03
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses, wearing a light green tunic with floral embroidery along the neckline and a dark beaded necklace, speaks against a solid black background. In the bottom left of each frame, a logo includes a circular emblem and the text \"NPTEL\". As the sequence progresses, the woman maintains a centered position, shifting her facial expressions and mouth movements as she speaks. She begins with a slight smile and open mouth, transitions to a more closed-mouth smile, and eventually opens her mouth wider again while slightly tilting her head. Her posture remains steady throughout the clip, with her shoulders squared to the camera. No other people, objects, or equipment are visible in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d75083033dae41c052f406a15f75f6ae",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.459,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a white shirt, a dark jacket, and a silver wristwatch with a dark face is using a laptop. The scene is set outdoors with a blurred background of green foliage and a dark, curved object behind the person. The person's hands are positioned on the keyboard, typing. Across the bottom of the frames, a blue translucent banner displays the white text \"TOM O'BRIEN HAS BEEN SUCCESSFULLY TRADING MARKETS FOR OVER 30 YEARS\". As the sequence progresses, the person's fingers move slightly across the keys, indicating active typing. The lighting is bright and natural, casting soft shadows on the laptop and the person's hands. The camera remains stationary, maintaining a close-up shot of the hands and the device throughout the clip."
+}

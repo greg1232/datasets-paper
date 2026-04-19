@@ -1,0 +1,15 @@
+{
+  "video_id": "7506085d9dc56c2e992f88b677e69b49",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-129.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.184,
+    0.551,
+    0.918,
+    1.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A surfer wearing a dark wetsuit rides a massive, breaking ocean wave. The scene is set in a vast body of water under an overcast sky, with a towering wall of deep blue water curving overhead to form a tube. As the surfer glides across the face of the wave, a large plume of white sea foam and spray erupts behind them, filling the right side of the frame. Across the sequence, the surfer maintains a balanced stance on their surfboard, moving slightly forward and deeper into the wave's curve. The lighting is cool and muted, emphasizing the scale of the swelling water and the intensity of the surf. There is no visible text, logos, or other people present in the scene."
+}

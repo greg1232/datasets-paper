@@ -1,0 +1,15 @@
+{
+  "video_id": "68c545d6dc4479efe93cfa810ba2720e",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-203.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a dark background with bright, scrolling digital tickers and stock market data, including names like \"NAFTOGAZ\" and \"BAC.\" Large, white, sans-serif text is overlaid on the screen, evolving over time. Initially, the text reads \"YOU MIGHT THINK\" and \"IF YOU,\" then transitions to \"YOU MIGHT THINK\" and \"IF YOU WANT,\" and finally settles on \"YOU MIGHT THINK\" and \"IF YOU WANT TO BE.\" At the bottom of the screen, a blue graphic banner displays the name \"Basil Chapman\" in white text, followed by a smaller subtitle that reads \"The Tiger Technicians Hour | June 8th, 2022.\" The background remains mostly consistent, with the ticker numbers and letters shifting slightly as the frames progress. No people or physical equipment are visible in the scene, which consists entirely of digital graphics and text overlays."
+}

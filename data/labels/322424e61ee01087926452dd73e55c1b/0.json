@@ -1,0 +1,15 @@
+{
+  "video_id": "322424e61ee01087926452dd73e55c1b",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.54,
+    16.62,
+    27.7,
+    38.78
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a dark beard, wearing a light grey button-down shirt, is positioned in the center of the frame against a dark blue background. He is speaking directly to the camera, with his arms resting on a surface in front of him. A small lapel microphone is clipped to his shirt. The background features a repeating pattern of the words \"DAILY ROUND-UP\" in a slightly lighter blue shade. In the upper left corner of each frame, a logo reads \"peoples dispatch\". Throughout the sequence, the man remains in the same position, but his facial expressions and mouth movements change as he talks, indicating he is delivering a presentation or report. The lighting is consistent, and the overall composition remains steady, focusing on the man from the waist up."
+}

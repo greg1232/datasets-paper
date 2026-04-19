@@ -1,0 +1,15 @@
+{
+  "video_id": "5ff9c421d72ad9732d1f098da24c14d8",
+  "url": "./data/segments/3Z229_lKLpk-Scene-115.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.205,
+    0.615,
+    1.025,
+    1.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide shot shows a large assembly hall filled with rows of people, predominantly men, seated in tiered wooden benches. The attendees are dressed in a variety of attire, including white kurtas, formal button-down shirts, and dark suits. Many individuals are seated and facing forward, while some stand or lean toward their neighbors. In the center rows, a few men in dark suits and Nehru jackets are visible. The room features dark green paneling and structured wooden seating. Across the sequence, the scene remains largely static, with minimal movement among the crowd as people shift slightly in their seats or adjust their posture. There is no visible on-screen text, logos, or specialized equipment beyond the architectural elements of the hall. The lighting is consistent and bright across the entire assembly."
+}

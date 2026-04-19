@@ -1,0 +1,15 @@
+{
+  "video_id": "7d1f907e4105f3b75e922646628093c4",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-146.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An aerial panoramic view captures a cityscape featuring a mix of high-rise buildings and smaller residential and commercial structures under a cloudy sky. In the distance, a body of water meets the horizon. The camera slowly pans across the city, transitioning from a wide shot of the skyline toward a closer perspective of a tall, white modern skyscraper and surrounding urban blocks. The white text \"TIGER REAL ESTATE LLC\" is overlaid on the bottom right of the scenes. There are no visible people in the frames. The movement shifts the focus from the broad architectural layout of the city, including various brownish and grey buildings, toward specific architectural details of the taller white structures and the street layout below."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9115bd3e0ec784c9ca116daad0c2c493",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.362,
+    1.087,
+    1.812,
+    2.538
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a reddish-pink tank top is filmed in an indoor gymnasium. The setting features polished wooden floors with a blue and green court layout, white walls, and blue padded walls. In the background, blue bleachers are visible, along with basketball hoops and backboards. In the first frame, the man is captured in a close-up profile view, looking toward the right. As the sequence progresses, he turns his head to face the camera directly, smiling and speaking. He remains centered in the frame throughout the subsequent shots, with the gymnasium environment remaining static behind him. No text or logos are visible on the screen."
+}

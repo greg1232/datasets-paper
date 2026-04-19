@@ -1,0 +1,15 @@
+{
+  "video_id": "36db11f8ba503d9ef0e8bfc37eaa038e",
+  "url": "./data/segments/3Xr-czqAfSc-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.708,
+    2.125,
+    3.542,
+    4.958
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dark purple background features a repeating graphic of a stylized profile silhouette and the logo for the \"MERCATUS CENTER George Mason University,\" with the phrase \"ACADEMIC & STUDENT PROGRAMS\" written below. Centered within the frames is a light blue horizontal bar. In the first frame, the text \"Alumni Spotlight\" is partially visible, appearing to slide into view from the left. In the subsequent frames, the full title \"Alumni Spotlight\" is displayed in white bold text atop the blue bar. Below this title, the text \"Kristine Johnson (MA Alum)\" appears in a smaller, lighter white font. The sequence shows a static graphic design where the introductory text stabilizes over the dark purple background, maintaining the same positioning of the center logo and decorative silhouette."
+}

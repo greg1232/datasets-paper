@@ -1,0 +1,15 @@
+{
+  "video_id": "9ac14607ac98d1a7c9a9c70a5f17cd17",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-221.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a room with wood-paneled walls and horizontal slats, a group of people is gathered for a presentation. A woman wearing a white shirt and dark vest stands behind a podium, speaking to an audience seated in rows of blue chairs. In the front row, individuals are seen from behind, including a person in a red shirt, another in a blue striped shirt, and a person in a yellow shirt. To the left of the speaker, a man in a light-colored shirt sits behind a table featuring a red and white logo. To the right of the audience, a person in a grey jacket is seated. The text \"ORCA\" is visible as an on-screen overlay on the right side of the scene. Across the sequence, the woman at the podium gestures with her hands while speaking, and the seated audience remains mostly still, listening to the presentation."
+}

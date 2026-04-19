@@ -1,0 +1,15 @@
+{
+  "video_id": "ba9fd5531e288d748956b44972d1d4ad",
+  "url": "./data/segments/3IrHmvnGXTc-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light skin and short brown hair, wearing a white and grey checkered button-down shirt, is seated in a brown leather chair in front of a teal geometric background. A professional black microphone on a boom arm is positioned directly in front of him. Throughout the sequence, he is speaking and gesturing with his hands to emphasize his points. Initially, he holds his hands close together near the microphone, then opens his right hand into a sweeping gesture. He subsequently lifts his right hand higher, curving his fingers as if holding a small object, before eventually spreading both arms wide. The setting remains constant across the frames, with the man as the sole subject, focused on the camera while engaging in expressive hand movements."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "83a53df2b8a01b2456c0f3dfab1ae372",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.925,
+    2.775,
+    4.625,
+    6.475
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of educational presentation slides focuses on the \"Linde \u2013 Hampson System\" within the subject of \"CRYOGENIC ENGINEERING\". The slides feature a white background with a blue header and footer. The footer identifies the presenter as \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" and includes the \"NPTEL\" logo in the bottom left corner. The content begins with two mathematical formulas: \"y = (h_1 - h_2) / (h_1 - h)\" and \"h_{1'} = \\varepsilon(h_1 - h_g) + h_g\". As the sequence progresses, a bullet point appears stating, \"From the above two equations, substituting one into another, we have y as\". Red rectangular boxes then appear around specific variables in the formulas, specifically highlighting \"h_1\" in the numerator of the first equation and \"h_{1'}\" at the beginning of the second equation, indicating a focus on these terms for the upcoming substitution."
+}

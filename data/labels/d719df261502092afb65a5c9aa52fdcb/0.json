@@ -1,0 +1,15 @@
+{
+  "video_id": "d719df261502092afb65a5c9aa52fdcb",
+  "url": "./data/segments/3E6ctN22V7k-Scene-110.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.14,
+    0.42,
+    0.7,
+    0.98
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a white, textured garment sits at a table, reviewing an open book with pink and white pages. The left page of the book contains blocks of printed text, while the right page features a collection of illustrations and a sepia-toned photograph showing a group of people. The person's dark-skinned hands are visible at the bottom of the frame, holding the edges of the book. In the background, a metallic object, possibly a small machine or tool, sits on the light-colored tabletop next to a green surface. As the scene progresses, the person slightly shifts the book's position and adjusts their grip on the pages, causing a subtle change in the angle of the book and the position of their hands. The overall setting is an indoor environment focused on the act of reading or examining the publication."
+}

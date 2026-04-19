@@ -1,0 +1,15 @@
+{
+  "video_id": "24617968581e6701d095c3a93e10de03",
+  "url": "./data/segments/3sJ5OX75erw-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.34,
+    31.02,
+    51.7,
+    72.38
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"MOJITO: Multi-site OPS-5G Joint Independent Test Option\" is displayed, featuring a diagram labeled \"Connecting DoD 5G and OPS-5G.\" The diagram shows a flow of interactions between \"OARPA\" and \"OPS-5G secure open source software and fast software development,\" a \"GOV Team\" utilizing \"OPS-5G ITE,\" \"The Linux Foundation\" providing a \"secure 5G stack,\" and another \"GOV Team\" responsible for \"MOJITO design, procurement, coordination and management.\" An inset map of the United States indicates \"MOJITO: 5G Core Security:\" and notes \"A subset of sites in the DoD 5G-to-5G Testbed and OPS-5G ITE sites.\" A small inset video in the top right corner shows a man with short hair and a dark shirt speaking. The footer contains logos for \"#opennetledge,\" \"THE LINUX FOUNDATION,\" \"LF NETWORKING,\" and \"LF EDGE,\" along with \"DISTRIBUTION STATEMENT A. Approved for public release; distribution unlimited.\" The scene remains static across the frames, with only minor changes in the man's facial expressions."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "702ca52762b52ab80826fab430257170",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-637.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.172,
+    0.516,
+    0.86,
+    1.204
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, headphones, and a black sweatshirt with the word \"BOSS\" in gold lettering is seated at a desk in a studio setting. He is positioned in front of a white backdrop featuring several \"UNIQUE HUSTLE\" logos accompanied by gold stars. To his right is a professional microphone on a boom arm and a black mug with red and white text that reads \"THE TALK OUT GAME.\" In the background, a blue screen displays the text \"Where BOSSES Talk!\". Throughout the sequence, the man remains in the same position, smiling and laughing as he looks toward someone off-screen. His expression shifts slightly between frames, moving from a wide smile to a more pronounced laugh. A small logo with a question mark and the text \"TALK OUT\" is visible in the lower-left corner of each frame."
+}

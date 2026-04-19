@@ -1,0 +1,15 @@
+{
+  "video_id": "d902599f9135941eae25514eeea66dbf",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.371,
+    1.114,
+    1.856,
+    2.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot shows the instrument cluster of a vehicle from the driver's perspective. The view is partially obstructed by the steering wheel and a control lever on the left. A speedometer is visible with an orange needle pointing toward the lower end of the dial. A small digital display screen shows orange numbers and symbols. Above the gauge, the text \"UNLEADED FUEL ONLY\" is printed on the dashboard. As the sequence progresses, the camera shifts slightly, providing a clearer view of the instrument panel and the steering wheel. The needle on the gauge remains relatively stable, and the digital display continues to show orange characters. The lighting is dim, and the focus remains on the mechanical components of the dashboard."
+}

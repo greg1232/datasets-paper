@@ -1,0 +1,15 @@
+{
+  "video_id": "4a13670e40342593e9ac22dc86812cba",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-163.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.6,
+    1.0,
+    1.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a man in a white short-sleeved shirt sitting atop a vehicle, surrounded by a crowd and flags. In the initial frames, he remains seated while other individuals are visible around him, including a man in a darker shirt partially obscured in the foreground. As the sequence progresses, the man in white stands up and raises his arm. The screen is overlaid with news graphics, including a red header with the text \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\" and the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo. Small inset portraits identify individuals as \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930,\" \"\u092e\u0902\u0924\u094d\u0930\u0940 \u0935\u093f\u091c\u0947\u0902\u0926\u094d\u0930 \u092f\u093e\u0926\u0935,\" and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930.\" A prominent \"BREAKING NEWS\" banner runs across the bottom, though the lettering becomes distorted and glitches in the later frames. A timestamp in the bottom right corner consistently displays \"10:09 PM.\" The background shows a blurred crowd and several orange and green flags."
+}

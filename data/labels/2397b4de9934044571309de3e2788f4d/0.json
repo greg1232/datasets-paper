@@ -1,0 +1,15 @@
+{
+  "video_id": "2397b4de9934044571309de3e2788f4d",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.288,
+    0.863,
+    1.439,
+    2.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows the rear bumper of a white Chevrolet Corvette parked on a grassy area. The car features two oval-shaped taillight covers and a silver \"CORVETTE\" emblem. Below the emblem, a Florida license plate is mounted, reading \"192 WTR\" with the words \"SUNSHINE STATE\" visible at the bottom. To the left of the plate, a small rectangular badge is attached to the bumper. As the sequence progresses, a thin red laser line appears across the rear of the vehicle, moving horizontally from left to right. The laser line begins as a faint streak on the far left, extends across the center of the bumper, and eventually crosses over the \"CORVETTE\" emblem and the license plate. No people are visible in the scene, and the camera remains stationary throughout the action."
+}

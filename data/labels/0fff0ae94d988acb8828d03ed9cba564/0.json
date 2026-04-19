@@ -1,0 +1,15 @@
+{
+  "video_id": "0fff0ae94d988acb8828d03ed9cba564",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The provided image is completely black and contains no visible content, people, objects, or text. There are no discernable details, settings, or actions to describe across any part of the image."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "759d19060964a2c6290c59329f76fba2",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.312,
+    0.521,
+    0.729
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser displaying the website RANDOM.ORG. The page features a \"List Randomizer\" with a numbered list of names, including \"Michael Loguericio,\" \"Carl Hagdorm,\" and \"Steve Merrick.\" A sidebar on the left contains a chat log with messages from \"glowbug27\" and \"Nightbot,\" the latter stating, \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/NzSdeK9Y.\" The bottom of the screen displays a red and white banner for \"JAYPS CASEBREAKS.COM.\" As the video progresses, the view shifts from a detailed list of names and timestamps to a zoomed-out perspective of the RANDOM.ORG homepage, which includes navigation links like \"Games,\" \"Numbers,\" and \"Lists & More.\" A yellow advisory warning is visible, stating, \"We only operate services from the RANDOM.ORG domain.\" The scene eventually transitions back to the detailed list and chat sidebar."
+}

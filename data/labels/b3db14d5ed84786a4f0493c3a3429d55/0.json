@@ -1,0 +1,15 @@
+{
+  "video_id": "b3db14d5ed84786a4f0493c3a3429d55",
+  "url": "./data/segments/3QD9oO6sRns-Scene-168.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.169,
+    0.506,
+    0.844,
+    1.181
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person opens a Topps \"CLEARLY AUTHENTIC 2020\" baseball card box in a studio setting. The person's hands are visible as they lift the lid of a white and blue box. Inside the box, there are white foam inserts and a small, encased card. A red and blue logo for \"JASPYS CASEBREAKS\" is prominently displayed on the surface below the box and as a watermark on the right side of the frames. A smaller inset video in the corner shows a man wearing a black t-shirt and a baseball cap, sitting in front of a computer monitor. As the sequence progresses, the person tilts the box toward the camera, revealing a portrait of a baseball player on the packaging and a small, clear plastic case containing a card. The text \"CASEBREAKS.COM\" is visible beneath the Jaspys logo."
+}

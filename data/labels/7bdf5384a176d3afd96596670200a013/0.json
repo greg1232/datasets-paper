@@ -1,0 +1,15 @@
+{
+  "video_id": "7bdf5384a176d3afd96596670200a013",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.583
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large, brightly lit ballroom with a blue carpeted floor, a group of people perform synchronized martial arts movements. The setting features a high ceiling with ornate chandeliers and beige walls. Five performers are positioned across the floor; three wear white traditional uniforms, one wears a blue uniform, and one wears black. In the background, an audience sits at banquet tables. Across the sequence, the performers move from a standing position into a dynamic strike. The individual in blue, positioned centrally, leads the motion, shifting their weight and extending an arm forward into a punch while lifting one leg. The performers in white and black mirror these movements, transitioning from static stances to active, coordinated lunges and strikes. The scene remains focused on the performers' synchronized progression through the martial arts routine within the grand hall."
+}

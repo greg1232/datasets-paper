@@ -1,0 +1,15 @@
+{
+  "video_id": "1c25f51be4adf93973c0d584b384de7c",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.4,
+    1.2,
+    2.0,
+    2.8
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, a mustache, and a blue button-down shirt under a dark blazer is presenting a lecture. He is positioned against a blue and purple abstract background. In the initial scene, a digital slide is visible to his left under the header \"CRYOGENIC ENGINEERING,\" which reads \"Tutorial \u2013 3\" and \"Figure of Merit (FOM).\" The slide contains a thermodynamic diagram and equations, including \"FOM = \\frac{W_j}{m_j} / \\frac{W_r}{m_r} = \\frac{476.0}{2772.1} = 0.1717.\" The text \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" appears at the bottom of the slide. The \"NPTEL\" logo is visible in multiple locations. As the sequence progresses, the slide disappears, and the view shifts to a medium close-up of the man, who continues to speak while gesturing slightly with his hands. His expression and posture remain consistent across the frames."
+}

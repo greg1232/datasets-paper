@@ -1,0 +1,15 @@
+{
+  "video_id": "b3aba170f72033f8e402080b3ee905ef",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-467.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.126,
+    1.877,
+    2.628
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt sits in a room filled with framed photos and clothing racks. His t-shirt features the white text \"ION NEVER DO SHIT AT WORK\". He is positioned behind a black professional microphone and speaks toward someone off-screen, with his facial expression shifting from a neutral look to a slight smile. In the background, a white mannequin wears a white garment with a black design, and various items of clothing hang on racks nearby. Two logos appear on the screen: a black circular emblem on the left and red text on the right that reads \"THE REALLY HOT SPOT\". Across the sequence, the man remains in the same position, with only slight movements in his head and facial expressions as he continues to talk."
+}

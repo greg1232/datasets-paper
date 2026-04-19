@@ -1,0 +1,15 @@
+{
+  "video_id": "929b9ffbf431b897edcc7903f12df780",
+  "url": "./data/segments/3Z229_lKLpk-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.27,
+    6.81,
+    11.35,
+    15.89
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard and glasses, wearing a beige Nehru jacket over a lighter-colored long-sleeved shirt, speaks from behind a podium. He is positioned in front of a textured, dark green stone wall with a geometric pattern. Two microphones are mounted on the podium in front of him. To his side, a tall, slender wooden pillar holds a small arrangement of red flowers. As the sequence progresses, the man's expression and gestures change; he initially looks forward with a neutral expression and then looks slightly to the side. In one instance, he raises his right hand and points his index finger upward to emphasize a point. The camera remains static throughout the sequence, keeping him centered as he delivers his address."
+}

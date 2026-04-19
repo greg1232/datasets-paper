@@ -1,0 +1,15 @@
+{
+  "video_id": "e88bc275c0777ba81124f05f094d5277",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-858.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.203,
+    0.61,
+    1.017,
+    1.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits in a recording studio wearing a white baseball cap, a black hoodie with \"BOSS\" printed in gold lettering, and a gold chain. He wears over-ear headphones and is positioned in front of a professional microphone on a boom arm. A gold watch is visible on his wrist as he rests his arm on a dark table. In the background, a white wall features a logo with gold stars and the word \"HUSTLE.\" A blue sign above him reads \"Where BOSSES Talk!\" while a logo featuring \"K 101\" is partially visible. To the right, a black mug sits on the table. Small logos appear in the bottom corners of the scene, including one that reads \"TALK OUT.\" Across the sequence of frames, the man remains in a nearly static position, looking slightly to his left, with minimal movement in his facial expression and posture."
+}

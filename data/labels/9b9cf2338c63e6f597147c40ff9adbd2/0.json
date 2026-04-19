@@ -1,0 +1,15 @@
+{
+  "video_id": "9b9cf2338c63e6f597147c40ff9adbd2",
+  "url": "./data/segments/3P1vSUbet40-Scene-0162.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde-tipped hair tied up in a bun sits in a studio, wearing a black t-shirt and black headphones. She is positioned in front of a professional microphone and looks slightly to her right with a smile on her face. Behind her is a yellow vertical pillar and a dark wall featuring a screen that displays the word \"Johnson\" in red text, along with smaller text that reads \"Employee Only\". To her right, a logo is visible on the wall that says \"BOSS TALK 101\" in red and white text, accompanied by a small microphone icon and the words \"Podcast\" and \"Kr 11 Logo Bash\". Another logo on the left side of the screen also includes the word \"PODCAST\". Across the sequence, the woman remains in the same position, maintaining her smiling expression and posture with very little movement."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f95f2b7f1e5a2c372d1490a2de6140eb",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.445,
+    16.335,
+    27.225,
+    38.115
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen capture of a web browser shows a video conferencing call integrated with a digital whiteboard. In the upper right corner, a man wearing a black cap and a dark shirt is visible in a small video window. The main area of the screen displays a dark-themed conceptual map featuring several interconnected circular nodes and a white rectangular text box containing a flowchart. Legible text in the browser tabs includes \"Trail & Learning by Systemdyn,\" \"Elements by Systemdyn,\" \"Future of Society by Systemdyn,\" \"Insights | Introduction | Kumu,\" and \"Rural Community Food System.\" In the address bar, the URL \"blackboard.uul learning\" is visible. Across the sequence of frames, the layout remains static; the man in the video window and the elements of the conceptual map do not change position or appearance, indicating a still moment during a presentation or online lesson."
+}

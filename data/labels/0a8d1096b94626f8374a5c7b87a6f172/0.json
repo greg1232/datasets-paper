@@ -1,0 +1,15 @@
+{
+  "video_id": "0a8d1096b94626f8374a5c7b87a6f172",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.605,
+    1.814,
+    3.024,
+    4.233
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on a bright red fabric car seat. In the first frame, the red upholstery is visible without any people present. In the second frame, a person's right hand enters from the right side, resting fingers and palm against the red material. The third frame shows the person's hand positioned lower and further left on the seat, with the fingers slightly spread across the fabric. In the final frame, the hand remains on the seat, with the fingers slightly curled and the palm pressed against the red surface. Throughout the sequence, the camera angle remains relatively static, capturing the hand's movement and interaction with the textured red fabric of the vehicle's interior. No text, logos, or other objects are visible in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "07d805c7f59c2633f89ebf104ee0da4a",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.279,
+    0.838,
+    1.397,
+    1.956
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video provides a close-up view of the rear of a white Corvette. The \"CORVETTE\" logo is prominently displayed in silver lettering across the back, positioned above a license plate and below a red rectangular emblem that also reads \"CORVETTE\". The license plate contains the alphanumeric characters \"192 WTR\" and features the text \"SUNSHINE STATE\" printed along the bottom edge. The plates are partially obscured by a dark license plate frame. To the right of the branding, a black vent is visible. Across the sequence, the lighting shifts slightly, with a bright glare appearing on the white body of the car and the silver lettering in the later frames, suggesting a change in the angle of the light source or a slight shift in the camera's position. No people are visible in the scene."
+}

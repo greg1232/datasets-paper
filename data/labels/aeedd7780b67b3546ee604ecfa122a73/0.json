@@ -1,0 +1,15 @@
+{
+  "video_id": "aeedd7780b67b3546ee604ecfa122a73",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-835.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.182,
+    0.547,
+    0.912,
+    1.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, headphones, and a black hoodie with gold lettering that reads \"BOSS TALK\" is seated in a studio. He wears a gold chain and a gold watch on his left wrist. He is looking to his left, holding a small piece of paper in his hands. In front of him is a professional microphone mounted on a boom arm. Behind him is a white wall with yellow stars and the word \"HUSTLE\" repeated. A red and blue banner above him contains the text \"Where BOSSES Talk!\" and \"TALK 101\". To his right, a blue container with text that includes \"TALK OUT\" sits on the table. Small logos appearing in the bottom corners of the frame include \"T-TALK\". Across the sequence, the man remains in a similar seated position, slightly shifting his posture and grip on the paper while continuing to look toward the left."
+}

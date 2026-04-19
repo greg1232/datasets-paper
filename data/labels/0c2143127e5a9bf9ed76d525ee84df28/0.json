@@ -1,0 +1,15 @@
+{
+  "video_id": "0c2143127e5a9bf9ed76d525ee84df28",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.0,
+    3.0,
+    5.0,
+    7.0
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands at a podium against a plain, light-colored wall, delivering a presentation. He is dressed in a dark blue blazer over a dark button-down shirt. A thin microphone extends upward toward him, and a clear plastic water bottle sits on the podium beside him. The logo \"mediasite\" appears in the upper and lower left corners of the scene. As the sequence progresses, the man remains in a similar position, but his facial expression shifts slightly as he speaks, and his head moves marginally. He looks toward his left, away from the camera, maintaining a focused expression. His posture remains steady throughout the frames, with his arms resting at his sides or slightly bent, consistent with a formal speaking engagement."
+}

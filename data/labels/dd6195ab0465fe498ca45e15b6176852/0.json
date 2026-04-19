@@ -1,0 +1,15 @@
+{
+  "video_id": "dd6195ab0465fe498ca45e15b6176852",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-735.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.782,
+    1.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair styled in a bun and braids, wearing a dark green t-shirt with a red circular pattern, is seated in a recording studio. She wears black headphones and sits before a professional black microphone on a stand. Behind her is a black backdrop with white text that reads \"S TALK 101\", \"It's A Unique Handle\", \"CAST\", and \"About It!\". To her left, a framed image shows a person's hands. On the table in front of her, a logo reading \"BOSS TALK 101\" is visible. Throughout the sequence, the woman remains in the same position, subtly shifting her facial expression and gaze as she smiles and looks slightly to the side, suggesting she is engaged in a conversation. The camera remains static, capturing her from the chest up against the branded background."
+}

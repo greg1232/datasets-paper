@@ -1,0 +1,15 @@
+{
+  "video_id": "ee5e437ef96596482fbbd2c6e8c0792e",
+  "url": "./data/segments/3Kxl1O310k8-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.68,
+    11.04,
+    18.4,
+    25.76
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of video conference windows displays several participants in various home or office settings. One man wears a black shirt and glasses, resting his chin on his hand in a room with a brown door. Another man in a black shirt and glasses appears in a room with light-colored walls, occasionally touching his forehead. A woman with short grey hair and black headphones wears glasses and a black top against a yellow wall. Another woman wears a blue and white striped shirt in a room with white walls, and a man with glasses and a grey shirt sits in front of a bookshelf. Across the sequence, the participants remain in their respective locations, but their expressions and postures shift slightly as they look toward their cameras. Small, illegible timestamps appear in the bottom corners of some windows, and the layout flickers between showing different combinations of these individuals."
+}

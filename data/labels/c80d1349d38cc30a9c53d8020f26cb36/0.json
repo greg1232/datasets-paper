@@ -1,0 +1,15 @@
+{
+  "video_id": "c80d1349d38cc30a9c53d8020f26cb36",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.26,
+    0.78,
+    1.3,
+    1.82
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static graphic serves as the background for this sequence, featuring a gray grid pattern. The \"peoples dispatch\" logo is prominently displayed, consisting of a black raised fist silhouette and the brand name in a mix of black and red lowercase letters. Below the logo, a red horizontal line separates the branding from the call to action \"LIKE I SHARE I SUBSCRIBE\" in all-capital black letters. Across the bottom of the scene, white subtitles appear on a black bar. The text begins as \"Arise sing. We are going to win. Flags of unity are now advancing .\" and gradually scrolls to the left. By the final frame, the subtitles have shifted so that only \"e now advancing .\" remains visible on the screen. The background graphic remains completely stationary throughout the clip as the text progresses."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "cfde1e4f2ab85fba0b21c28938c3e9c0",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-130.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.16,
+    0.48,
+    0.8,
+    1.12
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast shows a man in a white short-sleeved shirt sitting in the driver's seat of a car, seen from a side profile. He is holding the steering wheel and appears to be speaking. The scene is framed by news graphics. A red banner at the top reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\", and a large yellow \"BREAKING NEWS\" banner runs across the bottom. To the left is a photo of a man with glasses, labeled \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\". To the right, photos of other men are shown under the heading \"\u092e\u0902\u0924\u094d\u0930\u0940\", including \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\" and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930\". A timestamp in the bottom right corner reads \"10:07 PM\" next to a \"MAHAGOW\" logo. Across the sequence, the man in the car continues to speak and move slightly, while the on-screen graphics remain largely static, though the names under the \"\u092e\u0902\u0924\u094d\u0930\u0940\" section shift slightly in the final frame to include \"\u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930\" and \"\u0935\u093f\u091c\u092f \u091a\u094c\u0927\u0930\u0940\"."
+}

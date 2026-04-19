@@ -1,0 +1,15 @@
+{
+  "video_id": "d46387c8e76d50741355984d183dd9c9",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.44,
+    1.32,
+    2.2,
+    3.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a mustache is speaking, appearing from the chest up against a vibrant, abstract blue and purple backdrop with glowing elements. He is wearing a light blue button-down shirt underneath a dark grey blazer. In each frame, he remains in a centered position, maintaining a similar posture while speaking, with slight variations in his facial expression and the movement of his mouth. A logo featuring a stylized gear and the text \"NPTEL\" is visible in the bottom left corner of the screen throughout the sequence. The setting appears to be a studio environment designed for educational or professional presentations, with the background remaining static while the man provides a lecture or presentation."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "dfb664b8b0909b66cd13c726deeffa03",
+  "url": "./data/segments/3QD9oO6sRns-Scene-147.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.321,
+    0.963,
+    1.604,
+    2.246
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a baseball card encased in a clear plastic protective slab. The card features a player in a blue uniform with the text \"BREWERS\" and \"KESTON HDebuggingURA\" visible. The scene is set in a room with a white surface featuring the logo \"JASPY'S SEBREAKS.\" In the top frames, the person's fingers grip the sides of the slab, while a finger points toward the player's name. As the sequence progresses, the slab is tilted, and in the final frame, it is held at an angle, partially obscuring the card. A small inset window in the corner shows a man wearing a black t-shirt and a white baseball cap. Text overlays include \"JASPY'S\" and \"CASEBREAKS.COM.\" In the background, a blue box and other sports-related items are partially visible on the white table."
+}

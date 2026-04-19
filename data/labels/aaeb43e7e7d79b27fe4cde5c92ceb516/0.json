@@ -1,0 +1,15 @@
+{
+  "video_id": "aaeb43e7e7d79b27fe4cde5c92ceb516",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    16.179,
+    48.537,
+    80.896,
+    113.254
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video presents a split-screen conversation between two individuals. On the left and right sides, a woman with short blonde hair wearing a black shirt is located in a kitchen. Behind her, a teal curtain hangs above a counter with a stove, several containers, and a coffee maker. On the upper-left side of the screen, a man with a short beard wearing a grey polo shirt is seen against a backdrop of a mountain landscape under a blue sky. Each segment of the screen features the logo \"UCAR CENTER FOR SCIENCE EDUCATION\" in the top left corner. Throughout the sequence, the woman gestures with her hands while speaking and eventually holds a small pan over the stove. The man remains centered in his frame, looking toward the camera. The scene transitions from the man and woman both speaking to the woman actively demonstrating something in her kitchen."
+}

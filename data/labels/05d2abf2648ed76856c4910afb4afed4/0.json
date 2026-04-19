@@ -1,0 +1,15 @@
+{
+  "video_id": "05d2abf2648ed76856c4910afb4afed4",
+  "url": "./data/segments/3Kxl1O310k8-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.17,
+    15.51,
+    25.85,
+    36.19
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call interface displays a grid of multiple participants, with several faces repeating across different tiles. One man wears glasses and a dark jacket, another wears a blue and white patterned sweater, a woman has blonde hair, and another man wears glasses and a headset. The participants are in various indoor settings, including rooms with neutral-colored walls and soft lighting. Between frames, the participants remain in their positions, but their facial expressions and head positions shift slightly as they engage in the call. Some participants blink or slightly change their gaze. Small, barely legible timestamps are visible at the bottom of some screen segments, but no other on-screen text or logos are clearly discernible. The overall composition remains consistent, showing a synchronized group interaction through a digital conferencing platform."
+}

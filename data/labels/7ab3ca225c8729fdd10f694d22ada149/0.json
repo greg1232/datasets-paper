@@ -1,0 +1,15 @@
+{
+  "video_id": "7ab3ca225c8729fdd10f694d22ada149",
+  "url": "./data/segments/3phuyH7Y05U-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.525,
+    0.875,
+    1.225
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a jail cell, Homer Simpson, wearing a light blue short-sleeved shirt, stands behind thick black vertical bars. He appears distressed, holding the bars with both hands. Two police officers in dark blue uniforms and hats stand behind him. In the initial moments, Homer has a wide-eyed, open-mouthed expression of shock or alarm. As the sequence progresses, the police officers move closer to him; one officer raises a hand as if to gesture or speak. Homer's expression shifts from shock to a more stunned, closed-mouth look, and his eyes widen further, with small zig-zag lines appearing above his head to indicate tension or a sudden realization. The background consists of plain, muted purple and grey walls, emphasizing the stark environment of the detention area."
+}

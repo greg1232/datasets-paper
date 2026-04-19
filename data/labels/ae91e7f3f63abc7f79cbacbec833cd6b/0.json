@@ -1,0 +1,15 @@
+{
+  "video_id": "ae91e7f3f63abc7f79cbacbec833cd6b",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-151.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.208,
+    0.625,
+    1.042,
+    1.458
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands inside a doorway, wearing a dark patterned shirt and a dark cap. He is positioned in the center of the frame, looking toward the camera with a smile. The background behind him consists of a dimly lit room, while the light from the doorway illuminates his face and clothing. The text \"Seyi Adebola\" appears in a small, white sans-serif font in the bottom-left and center-bottom areas of the screen. Across the sequence of frames, the man remains in a stationary position, maintaining his pose and expression. There is virtually no movement or change in the scene, as the man continues to smile while looking forward. The overall lighting and composition remain consistent throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "df37cd281741d30859017737f157f10b",
+  "url": "./data/segments/3phuyH7Y05U-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a nighttime outdoor setting, a man with fair skin, wearing a tan bucket hat, a white tank top, a gold watch on his right wrist, and a gold hoop earring in his left ear, is seen gesturing. In the initial frames, he points his right arm forward toward something off-screen while holding a silver microphone in his left hand. He stands before a residential area with a yellow house and a purple house visible in the background. As the scene progresses, he shifts his stance, holding the microphone up in his right hand and extending his left arm outward. In the final frame, the camera angle widens to reveal a second man standing to the left. This man is larger, with dark skin, a mustache, and a yellow t-shirt, looking on with a neutral expression while the man in the bucket hat continues to hold the microphone."
+}

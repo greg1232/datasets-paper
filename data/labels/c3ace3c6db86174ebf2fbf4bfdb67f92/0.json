@@ -1,0 +1,15 @@
+{
+  "video_id": "c3ace3c6db86174ebf2fbf4bfdb67f92",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a small, sealed blue and silver package on a red surface featuring a white logo and the word \"CASEBREAKS.\" In the background, a man wearing a black shirt is visible through a small inset video feed. A chat overlay on the right side of the screen displays messages from users like \"glowdog07\" and \"NightOwl,\" including a message from the latter that reads, \"CSIA the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/3zZaeXkS\". As the sequence progresses, the person's hands manipulate the package, eventually tearing open the silver foil to reveal the contents inside. The red background remains constant, and the man in the inset continues to watch the process. The action focuses on the tactile process of unboxing a small item in a live-streaming environment."
+}

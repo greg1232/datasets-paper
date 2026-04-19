@@ -1,0 +1,15 @@
+{
+  "video_id": "65a489b76c2133c40903192bc945492a",
+  "url": "./data/segments/3tXiKB90OM0-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.217,
+    6.65,
+    11.083,
+    15.517
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large grey ship, marked with the white number \"44\" on its bow, is docked at a harbor under a clear blue sky. Two men wearing black pants and bright orange safety vests stand on the concrete pier beside the vessel. In the initial sequence, the men stand still, looking toward the ship's hull. As the scene progresses, the man on the right begins to step forward and walk toward the right side of the frame. A large anchor is visible on the side of the ship, and a white rope extends from the bow across the water toward the pier. In the background, a coastline with buildings and other docked vessels is visible across the water. The lighting is bright, casting distinct shadows of the men on the pavement."
+}

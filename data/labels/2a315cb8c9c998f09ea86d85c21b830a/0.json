@@ -1,0 +1,15 @@
+{
+  "video_id": "2a315cb8c9c998f09ea86d85c21b830a",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-242.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.256,
+    0.427,
+    0.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a small, clear plastic card holder over a white rectangular box. The scene is set in a room where a man wearing a dark polo shirt with a yellow circular logo on the chest is visible in a small picture-in-picture window. He is seated at a desk with various items, including a monitor and another white box. The background of the main view features a white surface with colorful orange and blue patterns. The logo \"JASPYS\" and the website \"CASEBREAKS.COM\" are displayed in the upper center of the frame. As the sequence progresses, the hand moves the card holder closer to the white box, eventually positioning it directly above the box's surface. The man in the small window remains seated, observing the process."
+}

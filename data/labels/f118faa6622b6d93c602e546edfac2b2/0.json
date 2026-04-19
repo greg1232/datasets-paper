@@ -1,0 +1,15 @@
+{
+  "video_id": "f118faa6622b6d93c602e546edfac2b2",
+  "url": "./data/segments/3dN_F08u-KE-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.615,
+    1.845,
+    3.075,
+    4.305
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This technical diagram shows a naval vessel from both side-profile and top-down perspectives. Red rectangles highlight specific components: the missile launcher system on the deck, a corresponding missile in the top-down view, and a detailed illustration of a missile at the top of the page. Legible on-screen text includes designations for weaponry, such as \"P-15M,\" \"3M80,\" and \"3M24.\" A circular red logo containing the number \"13\" appears next to the missile illustrations. The scene remains static across all frames, with the red highlight boxes staying in the same positions, indicating a freeze-frame or a very slow pan across a technical schematic. There are no people present in the images; the focus is entirely on the architectural and weapon layout of the ship."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1eb3339a70f6e9a7cf07a63457e8ea75",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is visible in a close-up shot of a mechanical assembly, likely an engine or machine. The scene features several metal pulleys, belts, and a large, silver, rounded metal component with cooling fins. The hand enters from the left side of the frame, with fingers reaching toward the black belts and mechanical parts. As the sequence progresses, the hand moves further into the frame, with the fingers gesturing toward the area where the belts wrap around the pulleys. The lighting is bright and focused on the metallic surfaces, highlighting the textures of the cast metal and the smooth finish of the belts. No text or logos are visible, and the mechanical components remain stationary throughout the brief interaction."
+}

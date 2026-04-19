@@ -1,0 +1,15 @@
+{
+  "video_id": "0375af8cc1adf57e2a07ee3a360fbf8e",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-237.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.196,
+    0.588,
+    0.979,
+    1.371
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played in a large stadium filled with spectators, captured from a high-angle perspective. Players in white and blue uniforms are positioned on a green grass field with white yard lines and markers, such as \"40\". An on-screen overlay displays game statistics, including \"4th & 3\", \"1st\", \"3:03\", and \"32\", along with the logos for the NFL and the Atlanta Falcons. In a small inset window at the bottom, a man with blonde hair wearing a dark blue t-shirt reacts with an open-mouthed, surprised expression. As the scene progresses, the players move forward across the field, and the on-screen text updates from \"4th & 3\" to \"1st & 10\", and the timer \" :17\" changes to \" :30\". The man in the inset window shifts from a look of shock to a more neutral expression as the play develops."
+}

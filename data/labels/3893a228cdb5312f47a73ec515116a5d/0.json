@@ -1,0 +1,15 @@
+{
+  "video_id": "3893a228cdb5312f47a73ec515116a5d",
+  "url": "./data/segments/3fokLGPK15Q-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.245,
+    0.735,
+    1.225,
+    1.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of shots shows a dimly lit industrial or studio setting with dark metal structures and stairs in the background. Centered in each shot is a bright white rectangular sign with the word \"SLUSH\" printed in a bold, stylized, black sans-serif typeface. Behind the translucent sign, a warm orange light glows, suggesting a flame or light source. As the sequence progresses, the camera moves slightly, causing a subtle shift in the perspective and reflections on the glass or metallic surfaces surrounding the sign. The background remains consistent, featuring dark, vertical architectural elements and a shadowed interior. No people are visible in the scene, and the focus remains entirely on the illuminated \"SLUSH\" logo against the atmospheric, dark backdrop."
+}

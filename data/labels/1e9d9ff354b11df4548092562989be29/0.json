@@ -1,0 +1,15 @@
+{
+  "video_id": "1e9d9ff354b11df4548092562989be29",
+  "url": "./data/segments/3JYDT8lap5U-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    15.275,
+    45.825,
+    76.375,
+    106.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark suit jacket over a white shirt stands on a stage next to a large projection screen during a presentation. The footer of the slides contains the \"europython\" logo and the text \"Edinburgh 23 29 July 2018\". In the first frame, the screen reads \"VISUALISE IT\" and \"You can visualise through Celery 'Flower'\", showing a screenshot of a web interface. By the second frame, the man gestures with his hand as the slide changes to \"DISTRUTED #WIN\", followed by \"We now have ML, and are distributed. We have surely won. We can pack our ba- oh, not yet? NOT REALLY\". In the final frames, the man continues to present as the slide shifts to \"GROWING DATA FLOW COMPLEXITY\", which lists several bullet points regarding the need to pull data from different sources and the complexities of data pipelines and Celery tasks."
+}

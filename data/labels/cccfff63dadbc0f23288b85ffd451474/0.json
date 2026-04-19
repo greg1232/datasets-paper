@@ -1,0 +1,15 @@
+{
+  "video_id": "cccfff63dadbc0f23288b85ffd451474",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-163.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.508,
+    1.525,
+    2.542,
+    3.558
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a sports trading card featuring an athlete named \"PALMER,\" displaying an autograph and the number \"14/25.\" The background consists of a workspace with various trading card supplies and a large mat featuring green palm trees and an orange sun. On-screen logos for \"JASPYS\" and the website \"CASEBREAKS.COM\" are visible in the upper and lower portions of the frames. A man wearing a navy blue shirt is seen in a small picture-in-picture window, looking toward the camera. As the sequence progresses, the hand tilts the trading card, shifting the angle to show its reflective surface and depth. The surroundings remain constant, with a white storage box and other cards visible on the table, while the man in the inset window maintains his position."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c9748bbac3181260314cd0444cc91a5d",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.663,
+    1.989,
+    3.316,
+    4.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair and a black shirt is positioned in front of a plain white wall. He wears a thin black wire, likely an earpiece, extending from his ear down toward his shirt. The text \"Tiger-TV\" is visible in the top right corner of the scene. In the background, a small portion of a blue object rests on a surface. As the sequence progresses, the man speaks, with his mouth opening and closing as he looks slightly to the side. His facial expressions shift subtly as he talks, and his head moves slightly, but he remains in a consistent medium shot throughout. The lighting is soft and even, and there are no other people present in the shot."
+}

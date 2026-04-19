@@ -1,0 +1,15 @@
+{
+  "video_id": "0342d2eb8afdd855032ae08b97eb7484",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-082.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide shot captures a stadium at twilight, dominated by a dark silhouette of a grandstand under a deep purple sky. In the upper right corner of the scene, the white crest of Real Madrid is prominently displayed. A brightly lit electronic scoreboard is visible in the distance, while red seating fills the stands. A few figures in athletic attire are scattered on the green field below, appearing as small silhouettes. The camera remains static across the sequence, with very little movement occurring within the scene. The lighting remains consistent, casting the architectural structures into deep shadow while the distant field and scoreboard provide points of light. No legible text is visible on the scoreboard or other signage."
+}

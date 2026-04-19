@@ -1,0 +1,15 @@
+{
+  "video_id": "c99ae384321a5152fc9b249eccb00ed9",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-084.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.975,
+    11.925,
+    19.875,
+    27.825
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide for a course on \"CRYOGENIC ENGINEERING\" is shown, featuring a \"Summary\" section. The top of the slide remains constant, stating, \"A heat exchanger is a device in which the cold is transferred from cold fluid to hot fluid.\" The NPTEL logo appears in the bottom left corner, and a footer identifies the instructor as \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" As the sequence progresses, more text is added to the slide. A second bullet point appears, defining \"Effectiveness $\\epsilon$\" as \"a ratio of actual heat transfer that is occurring to the maximum possible heat transfer that can occur theoretically.\" Subsequently, a third line is added, stating, \"It is a dimensionless number between 0 and 1.\" Finally, a fourth point is added regarding the Linde-Hampson cycle, including the formulas \"$\\epsilon = \\frac{h_1 - h_2}{h_1 - h_9}$ or $\\epsilon = \\frac{h_3 - h_2}{h_3 - h_2}$\"."
+}

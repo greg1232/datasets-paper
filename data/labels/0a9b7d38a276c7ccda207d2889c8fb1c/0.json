@@ -1,0 +1,15 @@
+{
+  "video_id": "0a9b7d38a276c7ccda207d2889c8fb1c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-138.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.144,
+    0.431,
+    0.719,
+    1.006
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blonde hair wearing a dark shirt and a headset is visible in a small picture-in-picture window in the bottom left of a video game interface. The main screen displays a \"LINEUP\" menu for a football game, featuring player cards with names such as \"LAWRENCE\" and \"PETERSON.\" The top menu bar contains options for \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS (K).\" Numerical data at the top right shows values like \"173,037,\" \"14,660,\" and \"2,343,543\" alongside \"LV 19.\" Throughout the clip, the person in the inset window remains relatively still, speaking while looking toward the camera. The game interface updates as the user navigates the menu, with different player cards being highlighted or selected, causing visual shifts in the card displays and the appearance of text such as \"NOT REQUIRED\" and \"BEST LINEUP\" at the bottom."
+}

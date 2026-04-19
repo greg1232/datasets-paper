@@ -1,0 +1,15 @@
+{
+  "video_id": "39f4b768554f0f4d926bb3aa5516842a",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.626,
+    1.877,
+    3.128,
+    4.379
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people are gathered in a room with wood-paneled walls and horizontal blinds. A man stands at a wooden podium on the left, while another man in a white shirt and a black embroidered vest plays an acoustic guitar. An audience, consisting of several people with various hairstyles and clothing, including a woman in a blue and red patterned shawl and another in a yellow shirt, sits facing the performers. The logo \"ORCA\" appears in white text on a black rectangular background in the lower right area of the scene. As the sequence progresses, the camera angle shifts from a wide shot showing the podium and the guitarist to a closer medium shot focusing on the guitarist. The man with the guitar continues to play and sing, while the audience members remain seated and attentive."
+}

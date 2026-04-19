@@ -1,0 +1,15 @@
+{
+  "video_id": "7062fe69ece20ad51d0e817a66d2fed1",
+  "url": "./data/segments/3E6ctN22V7k-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.345,
+    0.575,
+    0.805
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a white short-sleeved t-shirt and blue jeans is seen from the side and back, positioned inside the cargo area of a vehicle with a tan, padded interior. They are lifting and maneuvering a large, rectangular silver metallic case. The case is partially covered with a black plastic sheet and has yellow padding visible on its side. The person's arm is extended upward as they push the top of the case, likely attempting to secure it or slide it further into the space. Across the sequence, the person's position remains nearly static, with only slight movements in their arm and the angle of the case as they apply pressure to stabilize the equipment within the narrow confines of the vehicle's hold. No text or logos are visible."
+}

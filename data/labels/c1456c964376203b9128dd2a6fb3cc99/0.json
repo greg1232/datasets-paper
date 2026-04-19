@@ -1,0 +1,15 @@
+{
+  "video_id": "c1456c964376203b9128dd2a6fb3cc99",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.188,
+    0.563,
+    0.938,
+    1.314
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a screen capture of a web page for \"tradesanta,\" featuring a dashboard under the section \"Analytics > table.\" The interface includes a bar graph titled \"Graph\" with a time-scale x-axis and a y-axis ranging from 0.0 to 2.5. To the right, a \"Calculated profit\" box displays the value \"$ 27.8818\" highlighted in green. Below this is a \"Trade Analysis\" section listing \"Volume Aggregated volume\" with values \"0.09969464 BTC\" and \"6.5677214 ETH.\" At the bottom, a \"List of results (340)\" indicates it is \"Showing 1\u2013100 of 340 items.\" Throughout the sequence, the layout remains static, but the bars on the graph fluctuate slightly, indicating real-time data updates. The overall color scheme is minimalist, with a white background, light gray borders, and blue bars for the data visualization."
+}

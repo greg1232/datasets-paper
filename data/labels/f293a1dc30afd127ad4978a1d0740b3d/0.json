@@ -1,0 +1,15 @@
+{
+  "video_id": "f293a1dc30afd127ad4978a1d0740b3d",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.633,
+    1.9,
+    3.167,
+    4.433
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black long-sleeved shirt sits behind a desk, appearing in a picture-in-picture window in the corner of the screen. The main view focuses on a black box labeled \"OBSIDIAN\" in large red letters, with a smaller label stating \"2 AUTOGRAPHS!\" above it. A sports trading card is displayed atop the box, featuring a player in a white and blue uniform. The background is a black surface with orange and red graphics, including a logo that reads \"JASPYS CASEBREAKS.COM\". The scene remains static across the sequence, with the person in the inset window maintaining a similar pose and expression, and the objects on the table remaining in the same position. The \"OBSIDIAN\" branding is prominently displayed on the packaging, and the layout suggests a sports card breaking session."
+}

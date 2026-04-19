@@ -1,0 +1,15 @@
+{
+  "video_id": "3c7bda3ef2a1103e6764febd95955cbf",
+  "url": "./data/segments/3Z229_lKLpk-Scene-102.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.44,
+    7.32,
+    12.2,
+    17.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard, wearing a cream-colored Nehru jacket over a white shirt, speaks from a wooden podium equipped with two microphones. He is positioned in front of a textured, dark green stone wall adorned with gold-colored pillars. As the scene progresses, he uses his hands to emphasize his points, gesturing with his left hand raised in the air and later pointing his right index finger upward. In the final sequence, he continues speaking while maintaining a steady posture behind the podium. The background remains consistent throughout the clip, characterized by the geometric patterns of the green stone and the vertical metallic accents of the pillars. There is no visible on-screen text or logos."
+}

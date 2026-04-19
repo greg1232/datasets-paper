@@ -1,0 +1,15 @@
+{
+  "video_id": "b06f699b91c0e322bab7bf67c88f926a",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-661.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.182,
+    0.547,
+    0.912,
+    1.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap and a matching green t-shirt sits in a studio setting, speaking into a professional black microphone. His t-shirt features the text \"ION NEVER DO SHIT AT WORK\" in a stylized white font. He is wearing black headphones over his cap. Behind him, the room is filled with framed pictures on the wall and clothing racks, including a white mannequin wearing a white garment. On the left side of the screen, a circular logo is visible, and on the right, the text \"REALLY FIT\" appears in red. Throughout the sequence, the man remains in the same position, subtly shifting his facial expression and moving his mouth as he speaks, while the camera angle and background remain constant."
+}

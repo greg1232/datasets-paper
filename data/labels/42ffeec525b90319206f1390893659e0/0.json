@@ -1,0 +1,15 @@
+{
+  "video_id": "42ffeec525b90319206f1390893659e0",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-100.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.812,
+    1.137
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blonde hair wearing a dark blue shirt and a headset is shown in a small video overlay in the bottom left of a gaming interface. They are reacting to an animated pack opening within a virtual trophy room decorated with red and yellow banners and shelves filled with gold trophies. A large golden card with a stylized \"Z\" logo is centered on a podium. The text \"SMALL PRESENT\" appears in the top left corner, accompanied by \"UT\" logos. In the upper right, numerical data is displayed, including \"173,037\", \"14,650\", \"2,343,543\", and \"LVL 19 (90)\". As the sequence progresses, the golden card flips over to reveal a player card featuring the name \"DERRICK\" and a rating of \"84\". The person in the overlay continues to speak and gesture with their hands as the card is revealed."
+}

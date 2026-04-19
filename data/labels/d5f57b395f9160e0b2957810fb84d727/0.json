@@ -1,0 +1,15 @@
+{
+  "video_id": "d5f57b395f9160e0b2957810fb84d727",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.959,
+    2.878,
+    4.796,
+    6.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with curly red hair, wearing a black blazer over a floral shirt, speaks while seated behind a white table against a yellow background. In the initial scene, a smaller inset window shows a man in a white button-down shirt in an office with multiple computer monitors; the text \"ZURICH, SWITZERLAND\" appears below this inset. The \"COINTELEGRAPH\" logo is visible in the top right corner of each frame. As the sequence progresses, the inset window disappears, leaving the woman as the sole focus. She uses hand gestures to emphasize her speech, moving her hands from an open position in front of her to resting them on the table. To her right, a grey surface holds a small purple object and a small red object. Throughout the clip, the woman remains centered in the frame, maintaining a consistent position and expression as she talks."
+}

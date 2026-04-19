@@ -1,0 +1,15 @@
+{
+  "video_id": "0b0832e9a3b292504293414a6cb35cfd",
+  "url": "./data/segments/3QD9oO6sRns-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.292,
+    0.875,
+    1.458,
+    2.042
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Hands are seen opening a sports card box and removing its contents in a setting featuring branding for \"JASPYS CASEBREAKS.\" In the beginning, a person's hands are manipulating the top of a white and grey box. As the action progresses, the box is revealed to be \"Topps CLEARLY AUTHENTIC 2020,\" featuring an image of a baseball player. A small inset video window in the corner shows a man wearing a black shirt and a white baseball cap. The scene transitions to show the hands extracting plastic-wrapped cards from the box, which are held up toward the camera. Throughout the sequence, the red and white \"JASPYS CASEBREAKS\" logo remains prominent across the bottom of the screen, along with a website address ending in \".com\". The background remains a consistent, neutral-toned indoor space with other similar boxes visible behind the main one."
+}

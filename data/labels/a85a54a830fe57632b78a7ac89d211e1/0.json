@@ -1,0 +1,15 @@
+{
+  "video_id": "a85a54a830fe57632b78a7ac89d211e1",
+  "url": "./data/segments/3P1vSUbet40-Scene-0728.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.089,
+    0.266,
+    0.443,
+    0.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits in a studio setting, speaking into a professional microphone. He wears a black t-shirt, a dark blue baseball cap with a logo on the front, over-ear headphones, and a gold watch on his left wrist. He is gesturing with both hands, moving them from a wide, open position in the first frame to a more closed and refined gesture by the final frame. Behind him is a white wall featuring a yellow banner with black stars and the text \"HUSTLE\" and \"BOSS.\" To his right, a red and black logo reads \"BOSS TALK 101,\" and a smaller logo on the left says \"BOSS TALK 101 PODCAST.\" A monitor showing a blue-toned image is partially visible in the background. The man remains in the same position throughout the sequence, with only his hand movements and slight shifts in facial expression changing as he talks."
+}

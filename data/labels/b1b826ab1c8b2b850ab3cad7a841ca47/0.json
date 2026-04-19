@@ -1,0 +1,15 @@
+{
+  "video_id": "b1b826ab1c8b2b850ab3cad7a841ca47",
+  "url": "./data/segments/3INb3jiuu6g-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.105,
+    0.315,
+    0.525,
+    0.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A minimalist animation plays against a red background featuring soft, concentric circular gradients. The scene consists of large, outlined block letters that fade into the background, creating a subtle layered effect. As the sequence progresses, smaller, solid white text appears on top of the background graphics. Initially, only the word \"LO\" is visible on the right side. The text then shifts to show \"HE LO\" on the left side, before finally merging and transforming into the word \"HELLO\" centered on the right side. The background graphics, including the large outlined letters and circular patterns, remain static throughout the progression, while the smaller white text updates in sequence to build the greeting."
+}

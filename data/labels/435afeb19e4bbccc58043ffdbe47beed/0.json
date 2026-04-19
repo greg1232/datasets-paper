@@ -1,0 +1,15 @@
+{
+  "video_id": "435afeb19e4bbccc58043ffdbe47beed",
+  "url": "./data/segments/3Sq594WkayE-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.13,
+    0.391,
+    0.651,
+    0.911
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static scene is displayed against a solid black background. The image features four identical instances of a logo and text, arranged symmetrically. The logo consists of a stylized, three-dimensional metallic structure composed of several interconnected, rounded rectangular blocks with circular holes in the center. Below each logo, the word \"Simulation\" is written in a clean, white, sans-serif font. There are no people, movement, or changes in the environment across the sequence. Every element remains perfectly still and unchanging, maintaining the same position, color, and orientation from start to finish."
+}

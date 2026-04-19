@@ -1,0 +1,15 @@
+{
+  "video_id": "08b81211428bff5ccdffab30996930c3",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-285.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.34,
+    1.019,
+    1.698,
+    2.377
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game simulation of an American football game takes place in a large stadium filled with spectators. On the field, players in black and white uniforms engage in a play near the 20-yard line, while a red and yellow banner lies on the grass. An inset window shows a man with blonde hair wearing a dark shirt and a headset, observing the action. The screen features a game interface at the top and bottom with a timer counting down from \"0:33\" to \"0:30,\" a game clock at \"43,\" and a play clock moving from \"14\" to \"12.\" Text on the interface reads \"1st & 10,\" \"EXO,\" and \"P. PETERSON 2 TACKLES.\" A green text box in the lower right corner states, \"HOLD THE LINE Away team has improved blocking.\" Across the sequence, the players shift positions slightly as the play unfolds."
+}

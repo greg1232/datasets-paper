@@ -1,0 +1,15 @@
+{
+  "video_id": "ca7c842b5b644b0e39c3cb6e9c198703",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call is displayed on a computer screen, featuring a person wearing a headset and a dark shirt in a small inset window in the upper right. The main area of the screen displays a complex digital mind map or conceptual diagram against a dark background. This diagram consists of numerous colorful circular icons connected by light blue lines, creating a network of nodes. Several of these nodes contain text, such as \"learning,\" \"community,\" and \"insight,\" while others feature small illustrations of people or nature. A larger white rectangular overlay is positioned centrally, depicting a cartoon character next to a large red magnet. The browser tabs at the top of the screen show titles including \"True Learning by Systemenity,\" \"Future of Society by Systemenity,\" and \"Insights introduction Kumo.\" The scene remains static across the sequence, with no visible movement or changes in the content displayed on the screen."
+}

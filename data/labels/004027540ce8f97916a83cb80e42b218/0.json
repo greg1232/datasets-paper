@@ -1,0 +1,15 @@
+{
+  "video_id": "004027540ce8f97916a83cb80e42b218",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A hand holds up a basketball trading card featuring player Kenyon Martin Jr. in a light blue jersey. The card is framed by a dark, geometric border with the word \"OBSIDIAN\" at the top and the player's name \"KENYON MARTIN JR.\" at the bottom. The scene is set against a red and black backdrop featuring the logo \"JASPYS\" and the website \"CASEBREAKS.COM\". In the background, a smaller inset screen shows a man wearing a black shirt sitting at a desk with equipment and cards. As the sequence progresses, the hand remains steady, holding the card in the center of the frame, while the background elements and the person in the inset screen remain largely consistent. The lighting is bright, emphasizing the reflective surface of the card and the bold colors of the branded surrounding environment."
+}

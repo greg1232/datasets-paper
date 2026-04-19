@@ -1,0 +1,15 @@
+{
+  "video_id": "0a9b546a6c5e74695dec9d3d4ae9ec50",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-448.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.802
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black shirt is seen in a small overlay window in the bottom-left corner of a screen displaying a sports video game interface. The background is a vibrant purple and blue gradient. The main focus is a player card for \"DEXTER LAWRENCE II,\" a \"TE\" with an overall rating of \"90.\" The card displays various stats such as \"81,\" \"10,\" \"91,\" \"95,\" and \"91\" across the top row. The text \"Naughty\" appears below the player's image. Navigation tabs at the top include \"HOME,\" \"ATTRIBUTES,\" and \"UPGRADES.\" In the top right, numbers \"159,529,\" \"14,600,\" and \"1,807,969\" are visible next to currency icons. As the sequence progresses, the interface shifts, removing the detailed stat bars and the \"HOME\" navigation, leaving only the player card and the overlay window. The person in the overlay remains present throughout, looking toward the screen."
+}

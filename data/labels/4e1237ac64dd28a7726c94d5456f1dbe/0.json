@@ -1,0 +1,15 @@
+{
+  "video_id": "4e1237ac64dd28a7726c94d5456f1dbe",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-352.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sports broadcast features a split-screen layout showing a football stadium and a commentator. The top section displays a wide shot of a stadium with a green field and purple seating, overlaid with graphics including \"PREVIOUS PLAY\", \"HOLD THE LINE\", and \"SAVE ARMS\". A score ticker at the top shows the Atlanta Falcons and another team, noting the \"3rd\" quarter with \"4:00\" remaining. The bottom section shows a blonde man wearing a black t-shirt and a headset, positioned in front of a screen and a decorated Christmas tree. He is speaking, with his mouth open in several frames. On-screen graphics in the bottom section include \"RETURN MIDDLE\" and \"RETURN RIGHT\" accompanied by diagrams of players. As the sequence progresses, the man's expression and mouth position change, indicating he is talking, while the football stadium imagery and the informational overlays remain static."
+}

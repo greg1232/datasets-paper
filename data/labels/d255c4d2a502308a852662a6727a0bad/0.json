@@ -1,0 +1,15 @@
+{
+  "video_id": "d255c4d2a502308a852662a6727a0bad",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-345.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    20.21,
+    60.63,
+    101.05,
+    141.47
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call captures several participants in a grid of video feeds. The individuals are situated in various indoor environments, including home offices and rooms with bookshelves or plain walls. One man wears a blue shirt and glasses, another wears a blue baseball cap, and a woman is seen in a light-colored top. Other participants include a man in a grey t-shirt, a woman in a green shirt, and a man in a black hoodie. Legible on-screen text labels include \"Jerry Michalos,\" \"Mogensdahlung,\" \"Syal Lajos,\" \"Scott Moestring,\" and \"Judith Bedaux.\" Throughout the sequence, the participants remain in their respective frames, with subtle movements in their facial expressions and posture. One man in a grey shirt shifts slightly, and the participants' gaze fluctuates as they engage in the virtual meeting. The background settings remain constant across the frames."
+}

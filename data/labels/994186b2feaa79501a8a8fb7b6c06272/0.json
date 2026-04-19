@@ -1,0 +1,15 @@
+{
+  "video_id": "994186b2feaa79501a8a8fb7b6c06272",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.633,
+    1.9,
+    3.167,
+    4.433
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a stack of black boxes labeled \"OBSIDIAN\" on a black surface featuring an orange logo and the text \"JASPYS CASEBREAKS.COM\". In the initial sequence, a hand reaches toward the stack of boxes while the other hand remains positioned near the side. As the action progresses, the person's left hand moves to grasp and manipulate the boxes. Small inset video windows are visible on the right side of the frames, showing a man with a beard sitting in a room with shelves in the background. The background surface contains a large, stylized orange \"SPY\" logo. Across the frames, the focus remains on the manual handling of the \"OBSIDIAN\" product boxes atop the branded mat, with the person's hands shifting positions to organize or move the items."
+}

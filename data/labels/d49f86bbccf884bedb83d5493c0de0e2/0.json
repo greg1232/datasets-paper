@@ -1,0 +1,15 @@
+{
+  "video_id": "d49f86bbccf884bedb83d5493c0de0e2",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-356.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.518,
+    4.555,
+    7.591,
+    10.627
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short hair, wearing a black zip-up jacket and large over-ear headphones, sits in a recording studio against a dark, ribbed acoustic wall. He is positioned behind a professional condenser microphone on a boom arm. To his right, a small vertical inset video displays a muscular man with a tanned physique wearing red shorts. Throughout the sequence, the man in the studio maintains a focused expression, glancing slightly to his left and then back toward the center, while his mouth remains mostly closed. The man in the inset video remains stationary, posing to showcase his muscles. The setting, equipment, and the content of the inset video remain consistent across the scenes, with only subtle changes in the studio man's facial expression and gaze."
+}

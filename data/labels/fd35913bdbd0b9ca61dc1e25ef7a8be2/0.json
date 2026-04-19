@@ -1,0 +1,15 @@
+{
+  "video_id": "fd35913bdbd0b9ca61dc1e25ef7a8be2",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-130.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.0,
+    6.0,
+    10.0,
+    14.0
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair, wearing a purple and white striped button-down shirt and black over-ear headphones, is speaking toward the camera in an indoor setting. She is positioned in front of a pale wall and light-colored curtains that are partially open. The text \"Nancy Denye\" is visible in the bottom left corner of the frames. Throughout the sequence, the woman's facial expression and mouth position change as she speaks. In the first frame, she has her mouth open and is gesturing with her right hand. In the subsequent frames, her hand lowers out of view, and her expression becomes more neutral as she continues to talk. The background and her attire remain constant across all frames."
+}

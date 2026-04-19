@@ -1,0 +1,15 @@
+{
+  "video_id": "554a01cf94453e6f5ba62b456fac717b",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-100.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.077,
+    0.231,
+    0.385,
+    0.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold two sports trading cards protected in plastic slabs over a red and black surface. The card on the right is a blue and silver \"DESIGNER\" card featuring Steven Adams, while the card on the left is an \"AWARD WINNING\" card featuring Chris Mullin. The person uses their finger to point toward the Steven Adams card. In the background, a small inset video shows a man with a beard wearing a black jacket sitting at a desk with various items, including more card supplies. The watermark \"JASPYS CASEBREAKS.COM\" is prominently displayed across the center of the scene. As the sequence progresses, the hands shift slightly, tilting the cards, and the man in the inset video remains seated at his workstation. The overall setting appears to be a professional sports card breaking environment."
+}

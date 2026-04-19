@@ -1,0 +1,15 @@
+{
+  "video_id": "84ac007403357f82fb617ebbbe6d7b19",
+  "url": "./data/segments/3P5zYKAFzh4-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.117,
+    12.35,
+    20.583,
+    28.816
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up sequence shows a fuzzy bee foraging on a bright yellow flower against a solid green background. The bee is positioned in profile, revealing its large dark eye, bristly golden-brown hairs, and a prominent orange pollen basket attached to its hind leg. As the sequence progresses, the camera zooms in closer on the bee's head and thorax. In the initial stages, the bee's entire upper body and a portion of the yellow flower are visible, with its legs gripping the petals. By the final frames, the focus tightens significantly, filling the view with the textures of the bee's compound eye and the dense, fine hairs covering its body. The orange mass of pollen remains visible on the leg throughout the shift in perspective, and the bee remains stationary relative to the flower."
+}

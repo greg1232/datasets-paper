@@ -1,0 +1,15 @@
+{
+  "video_id": "69c117a7afc659813a1d5a7c90a5ad8a",
+  "url": "./data/segments/3bE53YCHjAE-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.85,
+    26.55,
+    44.25,
+    61.95
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a blue and gray plaid shirt is seated at a light-colored wooden table in a room with gray carpeting and chairs. The person interacts with a black electronic device and its packaging, which includes a white box and a black carrying case. In the beginning, the person holds the black device with both hands, adjusting a part of its top. As time progresses, the person removes a small orange and gray component from the device. By the end of the sequence, the person holds a blue smartphone, interacting with its screen or side buttons while the black device rests on the table nearby. The background remains consistent, showing the edge of the wooden table and a few chairs, with no legible text or logos visible on any of the objects."
+}

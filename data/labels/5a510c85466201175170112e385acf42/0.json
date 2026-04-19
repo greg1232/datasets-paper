@@ -1,0 +1,15 @@
+{
+  "video_id": "5a510c85466201175170112e385acf42",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-104.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.119,
+    0.356,
+    0.594,
+    0.831
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blond hair wearing a black shirt and white headphones is visible in a small picture-in-picture window in the lower left of the screen, appearing in a room with a Christmas tree. The main screen displays a video game interface titled \"HARVEST PRESENT.\" In the first frame, a red \"UT\" logo is centered over a background of autumn leaves. As the sequence progresses, the screen transitions to a red and pink background featuring a digital athlete card. The card shows a football player in a red uniform with the number \"76,\" identified as \"TEVEN JENKINS,\" with a rating of \"90\" and the designation \"RG.\" On-screen text across the bottom provides navigation options: \"MARK/UNMARK,\" \"DISMISS ALL,\" and \"BACK.\" The person in the small window reacts with an open-mouthed expression of surprise as the player card is revealed."
+}

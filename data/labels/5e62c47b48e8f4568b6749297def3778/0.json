@@ -1,0 +1,15 @@
+{
+  "video_id": "5e62c47b48e8f4568b6749297def3778",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.04,
+    3.119,
+    5.198,
+    7.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a website with a header featuring \"RANDOM.ORG\" and \"True Random Number Service,\" along with navigation links such as \"Numbers,\" \"Games,\" and \"Web Tools.\" On the right side of the page, an advertisement for \"CASEBREAKS.COM\" is visible, featuring the \"JASPYS\" logo. In the center of the page, a \"True Random Number Generator\" tool is displayed with input fields for \"Min\" and \"Max.\" The page also includes a section titled \"Games and Lotteries,\" mentioning the \"Lottery Quick Pick\" and \"Keno Quick Pick.\" As the video progresses, the user interacts with the random number generator; in the later frames, the \"Max\" value is set to \"12\" and the \"Generate\" button is clicked, resulting in a result of \"1\" and a timestamp of \"2022-07-05 23:18:16 UTC.\""
+}

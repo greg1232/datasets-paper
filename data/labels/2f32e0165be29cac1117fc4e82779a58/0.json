@@ -1,0 +1,15 @@
+{
+  "video_id": "2f32e0165be29cac1117fc4e82779a58",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.209,
+    0.626,
+    1.043,
+    1.46
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting, a screen displays the text \"Our Stupid Reactions\" above a shelf containing stacked fabrics and decorative vases. The scene begins with an empty foreground, but a red oval shape appears and descends toward the bottom of the frame. As the video progresses, two men enter the shot from the sides. One man, wearing a blue shirt, enters from the left, while another man with a beard, wearing a black shirt, enters from the right. They lean in toward each other, framing a red button at the bottom center of the screen. This button contains the text \"Sub\", which is partially obscured in earlier appearances. The background remains consistent throughout the sequence, featuring small, multicolored geometric shapes scattered across the image."
+}

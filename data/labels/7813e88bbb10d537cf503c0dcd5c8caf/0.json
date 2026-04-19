@@ -1,0 +1,15 @@
+{
+  "video_id": "7813e88bbb10d537cf503c0dcd5c8caf",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.335,
+    1.005,
+    1.675,
+    2.345
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser with a complex digital mind map on a black background. The map consists of various icons and circular nodes connected by curved blue lines, featuring text such as \"Holistic Thinking,\" \"Interactive Learning,\" and \"Flexible Thinking.\" In the upper right corner, a small video call window shows a man wearing a black baseball cap. As the sequence progresses, a user's mouse cursor navigates the map. In the later frames, a white pop-up window appears near the bottom left, containing an icon of a small animal and the text \"All issues outstanding.\" The browser tabs at the top list several pages, including \"Truth & Learning by Systeminy,\" \"Future of Society by Systeminy,\" and \"Road Community Food Spot.\" The layout of the mind map remains static while the interactive elements, specifically the pop-up window and the cursor's position, change."
+}

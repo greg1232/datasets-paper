@@ -1,0 +1,15 @@
+{
+  "video_id": "f0e14a6cb49638588465c0420d282859",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.346,
+    7.038,
+    11.729,
+    16.421
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair is visible in a small webcam overlay in the lower-left corner of a screen recording. He is wearing a grey shirt and speaking to the camera. The main part of the screen displays a financial trading platform showing a candlestick price chart for \"EURGBP (H1)\". A large red banner across the top of the chart contains the same text. To the left of the chart, a sidebar advertisement features the \"TICKMILL\" logo and German text that reads, \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN,\" followed by a list of features including \"PCMA,\" \"Niedrige Spreads ab 0.1 Pips,\" and a website address \"www.tickmill.com/de\". As the sequence progresses, the man continues to talk, with his facial expression and mouth position changing slightly between frames, while the trading chart and surrounding interface remain static."
+}

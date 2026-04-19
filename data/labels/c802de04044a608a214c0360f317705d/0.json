@@ -1,0 +1,15 @@
+{
+  "video_id": "c802de04044a608a214c0360f317705d",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-388.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.302,
+    0.907,
+    1.512,
+    2.117
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, large black headphones, and a black hoodie with \"BOSS\" written in gold lettering sits at a desk. He is gesturing with his hands as he speaks, his expression focused. In front of him is a professional microphone on a boom arm and a black mug with red and white text that reads \"TALK OUT\". Behind him, a white wall features a repeated logo with five stars and the words \"UNICORN HUSTLE\", alongside a blue banner that says \"Where BOSSES Talk!\". The scene remains consistent across the sequence, with the man maintaining his position at the desk. The only changes occur in his facial expressions and the subtle movements of his hands as he continues to gesture while talking."
+}

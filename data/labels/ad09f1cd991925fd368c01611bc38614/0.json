@@ -1,0 +1,15 @@
+{
+  "video_id": "ad09f1cd991925fd368c01611bc38614",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-201.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.245,
+    0.735,
+    1.225,
+    1.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video recording of a computer screen shows a web browser window containing a video call. A man wearing a grey baseball cap is visible in a small rectangular inset in the top right corner. Most of the screen is filled with a black background featuring centered green text that asks, \"What's the real problem?\". The browser's tab bar is visible at the top, showing multiple open tabs with titles including \"Trial & Learning by Systems...\", \"Moments, by Systems...\", \"Future of Society by Systems...\", and \"Rural Community Food Syst...\". A bookmarks bar is present below the address bar, containing various colorful icons and folders. Across the frames, the scene remains largely static, with the man in the inset and the green text remaining in the same positions. The only slight movement is the position of the white mouse cursor, which shifts slightly towards the right side of the screen."
+}

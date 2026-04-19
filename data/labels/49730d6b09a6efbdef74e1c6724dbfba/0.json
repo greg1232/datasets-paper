@@ -1,0 +1,15 @@
+{
+  "video_id": "49730d6b09a6efbdef74e1c6724dbfba",
+  "url": "./data/segments/3EOkyr653jg-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with dark skin and wearing a dark jacket is seen from a high angle, interacting with printed documents on a dark surface. In the initial scene, the person points with their index finger at a column of text on a white paper. As time progresses, they hold a yellow pencil, using it to point to and trace specific lines of information within the documents. The papers contain tables and blocks of text, including a header that reads \"FX VAT\". The person's hands move across the page, shifting focus from the left side of the document to the right. The clothing remains consistent throughout, consisting of a dark outer garment and a light-colored inner sleeve visible at the wrist. The action is focused entirely on the review and analysis of the printed material using the pencil as a guide."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5c9a12deb853a1db28887953ae547319",
+  "url": "./data/segments/3P1vSUbet40-Scene-0126.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.172,
+    0.516,
+    0.86,
+    1.204
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with her hair in a high, blonde-streaked bun and wearing black headphones and a black t-shirt sits in a studio. She is positioned in front of a microphone, looking toward someone off-screen to her right with a slight smile. Behind her is a white wall with a vertical yellow stripe and a television screen displaying the word \"Johnson\" in red, with \"Employee Only\" written in smaller white text above it. On the lower portion of the scene, logos for \"BOSS TALK 101 PODCAST\" are visible. As the sequence progresses, the woman remains in the same position, maintaining her focused gaze and subtle expression while slightly shifting her head. The background, equipment, and on-screen text remain constant across the frames, capturing a brief moment of a recording session or interview."
+}

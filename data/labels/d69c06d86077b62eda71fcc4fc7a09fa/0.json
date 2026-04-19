@@ -1,0 +1,15 @@
+{
+  "video_id": "d69c06d86077b62eda71fcc4fc7a09fa",
+  "url": "./data/segments/3Z229_lKLpk-Scene-090.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.245,
+    0.735,
+    1.225,
+    1.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a legislative assembly hall, several rows of people sit behind wooden desks. Many of the men wear white shirts, while some wear dark vests or traditional caps, including one man in a yellow cap. A woman is visible in a red saree. The setting is formal, with muted green walls and structured seating. Throughout the sequence, the people remain largely stationary, though there are subtle movements in their postures. A man in a blue suit sits toward the left, and others are seated beside and behind him. The scene repeats almost identically across the frames, showing a steady shot of the assembly members during a session. There are no visible logos, equipment, or on-screen text. The lighting is consistent, and the overall atmosphere is one of formal deliberation."
+}

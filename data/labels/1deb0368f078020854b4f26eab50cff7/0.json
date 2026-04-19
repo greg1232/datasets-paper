@@ -1,0 +1,15 @@
+{
+  "video_id": "1deb0368f078020854b4f26eab50cff7",
+  "url": "./data/segments/3fokLGPK15Q-Scene-118.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.415,
+    1.245,
+    2.075,
+    2.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide shot captures a stage at a large event with a dark background illuminated by vibrant blue and purple laser beams that intersect in geometric patterns. In the center of the stage, a circular screen displays the text \"SLUSH\" in a stylized white font. To the left, a man in a white shirt is visible within a circular projection. On the stage, a small group of people are gathered near some furniture; one person wears a white top and dark trousers while another is dressed in darker clothing. As the sequence progresses, the man in the circular projection shifts his position, and the individuals on stage move slightly, interacting with each other and the objects around them. The dynamic lighting remains consistent, casting a futuristic glow across the venue and highlighting the architectural lines of the stage setup."
+}

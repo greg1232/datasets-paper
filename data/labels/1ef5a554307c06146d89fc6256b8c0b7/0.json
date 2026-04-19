@@ -1,0 +1,15 @@
+{
+  "video_id": "1ef5a554307c06146d89fc6256b8c0b7",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.588,
+    1.763,
+    2.938,
+    4.112
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide with a deep blue, radial burst background is displayed. Large white text on the left side reads \"Kubernetes and Logging: Do It Right,\" with a smaller line underneath stating \"Eduardo Silva, Arm Treasure Data.\" In the upper right corner, a circular logo for \"KubeCon CloudNativeCon North America 2018\" features the word \"Virtual\" written in a script font across the center. As the sequence progresses, a translucent rectangular overlay begins to appear over the right side of the screen. This overlay contains a \"fluentbit\" logo and repeats the phrase \"do it right!\" in a smaller font. Additional text appears on the right, including \"November 19, 2020,\" the name \"Eduardo Silva,\" an email address, and a social media handle \"@edsiper\" next to a small icon. The original background text and logo remain visible behind this shifting overlay."
+}

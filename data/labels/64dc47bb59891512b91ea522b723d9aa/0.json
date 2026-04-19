@@ -1,0 +1,15 @@
+{
+  "video_id": "64dc47bb59891512b91ea522b723d9aa",
+  "url": "./data/segments/3F2rz23IKUk-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.315,
+    21.945,
+    36.575,
+    51.205
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and shoulder-length brown hair stands in a room with light-colored walls, delivering a presentation. He is wearing a black t-shirt featuring a graphic image of a person and the legible text \"Kn th\" across the center. A lanyard with an identification badge hangs around his neck. Throughout the sequence, he uses active hand gestures to emphasize his points. Initially, his right hand is near his waist while his left hand is raised. He then brings both hands up in front of his chest, palms facing inward. In the subsequent moments, he lowers his hands slightly and opens them wide, before finally bringing them back together in front of his torso. A black chair is partially visible in the foreground, and a bright rectangular screen or projection is visible on the wall behind him."
+}

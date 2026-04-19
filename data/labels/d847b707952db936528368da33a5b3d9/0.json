@@ -1,0 +1,15 @@
+{
+  "video_id": "d847b707952db936528368da33a5b3d9",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-099.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.895,
+    5.685,
+    9.475,
+    13.265
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a patterned green traditional cap is shown in a close-up shot against a plain white background. He remains relatively still across the sequence, with subtle movements in his facial expression as he looks slightly to the right. Each frame features a news graphic overlay. In the upper left of every frame is the \"plustv\" logo. A purple bar across the middle contains the text \"PLUS POLITICS,\" followed by a white bar with the headline \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\" in bold black letters. The bottom banner changes over time: the first two frames display \"WATCH ON\" alongside logos for \"DStv CH 408\" and \"StarTimes CH 308,\" while the third frame shows \"WATCH ONLINE\" and the URL \"WWW.PLUSTVAFRICA.COM/LIVE-TV,\" and the final frame displays \"SUBSCRIBE\" followed by \"WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE.\""
+}

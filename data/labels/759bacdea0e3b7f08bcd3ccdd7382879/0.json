@@ -1,0 +1,15 @@
+{
+  "video_id": "759bacdea0e3b7f08bcd3ccdd7382879",
+  "url": "./data/segments/3L_uHTClWfk-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.208,
+    0.625,
+    1.042,
+    1.458
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor office or presentation setting, a man in a dark suit, white shirt, and a red patterned tie stands centrally, speaking. Behind him is a large monitor or screen and a framed picture on the wall. To his left sits a man in a white shirt and blue tie, while to his right sits a blonde woman wearing a grey turtleneck. As the scene progresses, the man in the suit speaks and gestures, his expression shifting slightly as he looks toward the other people. The man in the white shirt looks up toward the speaker with a focused expression, and the woman maintains a neutral, attentive gaze. The lighting remains consistent throughout the sequence, and there are no visible logos or on-screen text. The camera angle remains static, capturing the three individuals in a medium shot."
+}

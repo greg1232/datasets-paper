@@ -1,0 +1,15 @@
+{
+  "video_id": "6d1045a90adac337330349a0e3b292fa",
+  "url": "./data/segments/3_n4Uj9iLyU-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.268,
+    3.804,
+    6.34,
+    8.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation is taking place at an event featuring \"openstack summit\" branding. A man wearing a white button-down shirt and dark trousers stands on a dark stage next to a black podium. Behind him is a dark blue curtain. The video alternates between showing the speaker on stage and a digital presentation slide. The slide features a blue background with a white cloud graphic and a stylized blue and red bird logo. The text on the slide reads \"SurCloud,\" \"All-in-One Appliance,\" and \"For OpenStack.\" The lower portion of the screen displays a blue graphic of a city skyline with the text \"openstack summit.\" The scene switches from the slide to the speaker on stage, then back to the slide, and finally back to the speaker, showing him standing in a similar posture throughout the sequence."
+}

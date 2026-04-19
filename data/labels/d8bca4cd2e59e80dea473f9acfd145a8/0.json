@@ -1,0 +1,15 @@
+{
+  "video_id": "d8bca4cd2e59e80dea473f9acfd145a8",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-229.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.223,
+    0.669,
+    1.115,
+    1.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A hand holds a gold-bordered baseball card featuring player John Smoltz, which is positioned above a white plastic bin. The card shows a portrait of Smoltz in a baseball uniform and includes a blue ink signature over his name, \"JOHN SMOLTZ.\" In the background, a smaller inset window shows a man with a beard wearing a black t-shirt with a yellow logo, sitting at a desk with equipment. Red and yellow logos for \"JASPYS LIVE\" and the website \"CASEBREAKS.COM\" are visible in the upper right and middle sections of the screen. As the sequence progresses, the hand slightly shifts the position of the card, moving it marginally toward the right and adjusting its angle. The background elements, including the man in the inset window and the logos, remain static throughout the frames."
+}

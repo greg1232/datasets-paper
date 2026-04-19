@@ -1,0 +1,15 @@
+{
+  "video_id": "e541f39cd2bcd37559800de5760f5af6",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.425,
+    1.276,
+    2.127,
+    2.978
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, two healthcare workers attend to a patient lying in a hospital bed. One worker wears a blue scrub top, a black face mask, and a stethoscope around her neck; she wears blue gloves and reaches toward the patient, who is covered by a white patterned blanket and has red curly hair. A second worker, partially visible, wears a black top and blue gloves. The room contains a light green chair and medical equipment. Across the sequence, the worker in blue maintains her position, continuing to interact with the patient. Each frame features a pink silhouette logo on the left accompanied by the text \"Day 1\" and a logo on the right with the text \"Sim Week\". The final frame of the sequence is entirely black, though the \"Sim Week\" logo remains visible in the bottom right corner."
+}

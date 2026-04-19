@@ -1,0 +1,15 @@
+{
+  "video_id": "f953258e2a652f8150beaf0ab3a84304",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-083.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark grey long-sleeved shirt and light-colored pants is operating a green all-terrain vehicle (ATV) inside a garage or workshop. The man is seated on the ATV, steering it forward toward the open garage door. As the vehicle moves, it progresses from the left side of the interior toward the center. In the foreground and to the right, a stack of large, heavy-duty black tires is piled up, with a red bucket sitting beside them. The floor is concrete, marked with light-colored streaks and stains. The garage is open to an outdoor area with bright natural light and green foliage visible in the background. Between the frames, the man and the ATV shift positions, moving closer to the right side of the frame as he exits the building."
+}

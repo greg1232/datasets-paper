@@ -1,0 +1,15 @@
+{
+  "video_id": "b75f1cd4cd58e37288aa4cc6bed1c130",
+  "url": "./data/segments/3fokLGPK15Q-Scene-112.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A stage is set for an event featuring a high-tech, geometric lighting design with crisscrossing blue and purple beams. Large circular screens display the white stylized text \"SLUSH\", while a small circular inset screen shows a person speaking. In the center of the stage, a small group of people are seated at a curved table, though they are viewed from a distance and their specific clothing is not detailed. As the scene progresses, the camera perspective shifts slightly, and the lighting patterns fluctuate. The person in the small inset screen is visible in the first frame but disappears in subsequent views. The overall environment is dark, emphasizing the vibrant glow of the lighting installation and the bright circular displays."
+}

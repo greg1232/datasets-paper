@@ -1,0 +1,15 @@
+{
+  "video_id": "6e710db969c221b1e1f1a4deb2d52075",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.183,
+    0.55,
+    0.917,
+    1.283
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large, indoor hall with high ceilings and bright lighting, several people practice martial arts on a dark blue mat. A central figure wears a bright yellow outfit and is seen moving dynamically across the floor. Surrounding them are other practitioners dressed in blue uniforms, including a woman in a light blue top and pants and others in darker blue attire. Throughout the sequence, the person in yellow engages in fluid, sweeping motions, while the practitioners in blue move in coordinated patterns around them. In the background, a crowd of spectators is seated, watching the demonstration. The environment is formal, featuring architectural pillars and ornate ceiling fixtures. As the action progresses, the people shift positions, with the central figure in yellow executing a wide step forward and the blue-clad practitioners adjusting their stances in response to the movement."
+}

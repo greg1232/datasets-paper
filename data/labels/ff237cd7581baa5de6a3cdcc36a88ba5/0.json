@@ -1,0 +1,15 @@
+{
+  "video_id": "ff237cd7581baa5de6a3cdcc36a88ba5",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-160.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.604,
+    0.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a plastic-encased trading card, which features a signature that appears to say \"Eddie Mu,\" in the foreground of the scene. In the background, a man wearing a dark blue shirt with a small yellow logo on the chest sits at a desk with a computer monitor, keyboard, and other equipment. The setting is a room with a light-colored wall and a table featuring a teal and white tropical palm tree design. The text \"JASPYS\" and \"CASEBREAKS.COM\" appears as a logo in the upper right area of the frames. As the sequence progresses, the person moves the encased card from a centered position to the left, then partially out of view, and finally shifts it back toward the center. The man in the background remains seated at his desk, observing the card."
+}

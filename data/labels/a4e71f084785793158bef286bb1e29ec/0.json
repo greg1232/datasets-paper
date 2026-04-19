@@ -1,0 +1,15 @@
+{
+  "video_id": "a4e71f084785793158bef286bb1e29ec",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-336.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.094,
+    0.281,
+    0.469,
+    0.656
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game capture of a football match shows a player in a white uniform running down a green field during a game. In the upper portion of the screen, a scoreboard displays \"1st & 10\" and the time \"0:42 49 :13\" in the second quarter. The team logos for the Falcons and another team are visible. A small inset window in the lower-left corner shows a man with blond hair wearing a dark shirt and a headset. In the center of the screen, the text \"PERFECT ACCURACY BULLET PASS\" appears in bright green. As the scene progresses, the player in white continues to run forward while other players in dark uniforms pursue him across the grass. The camera angle remains steady, capturing the action from a side view while the man in the inset remains visible throughout the sequence."
+}

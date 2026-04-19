@@ -1,0 +1,15 @@
+{
+  "video_id": "198e3ef3cd2242108a2f8e9554b08fea",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-304.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    20.555,
+    61.665,
+    102.775,
+    143.885
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grid of video conference windows displays several individuals in various home settings. The participants include men and women of different ages; some wear headsets, and others are dressed casually in t-shirts and button-downs. Many are seen from the chest up, sitting in front of bookshelves, indoor plants, or plain walls. Legible name tags appearing at the bottom of some windows include \"Jerry McHale,\" \"Howard Silverman,\" \"Patrick Murphy,\" \"Era_collaborator,\" \"Jim Burke,\" \"Sali Sali,\" \"Branca Pittoni,\" \"Gyor Lajbi,\" and \"Michael O'Connell.\" As the sequence progresses, the participants remain in their respective windows, though their facial expressions and postures shift slightly. Some look directly at the camera, while others glance away or lean forward. The overall layout of the virtual meeting remains static, with the same individuals appearing in the same relative positions throughout the clip."
+}

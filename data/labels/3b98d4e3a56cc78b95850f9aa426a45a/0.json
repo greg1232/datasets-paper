@@ -1,0 +1,15 @@
+{
+  "video_id": "3b98d4e3a56cc78b95850f9aa426a45a",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.387,
+    0.646,
+    0.904
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is seen mixing popcorn in a large pan. The popcorn is a mixture of white and green colors. In a circular inset, a woman with blonde hair wearing a black shirt is visible, though she does not interact with the main action. The top left of each frame contains a logo and the text \"UCAR CENTER FOR SCIENCE EDUCATION\". Across the sequence, the hand moves through the popcorn, shifting the green and white kernels around the pan. The popcorn is tossed and rearranged as the hand moves from the left side toward the right and then back again, causing the clusters of green and white popcorn to shift positions within the pan. The woman in the inset remains in the same position, observing the process."
+}

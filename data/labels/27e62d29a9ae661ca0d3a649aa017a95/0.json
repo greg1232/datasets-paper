@@ -1,0 +1,15 @@
+{
+  "video_id": "27e62d29a9ae661ca0d3a649aa017a95",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.626,
+    1.877,
+    3.128,
+    4.379
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen interacting with a product catalog titled \"FEELS LIKE FROST SUITE.\" The catalog is laid out on a white surface and features various crafting materials, including patterned papers and ribbons in shades of blue, silver, and purple. In the first few frames, the person's hands are positioned on the edges of the pages. In the final frames, the person uses their index fingers to point specifically at items in the catalog. One finger points toward a light blue card with text, while the other points toward a image of a purple decorative element. Legible text in the catalog includes the header \"FEELS LIKE FROST SUITE\" and smaller text such as \"Cling - IL0416 $78.00.\" The scene remains static except for the movement of the hands as they highlight specific products on the pages."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f182ab4531fc54aba95e5a3ea671f228",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.246,
+    0.738,
+    1.23,
+    1.723
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical setting, a group of people are engaged in a medical simulation. Initially, two individuals are seated at a table, one wearing a face mask and a dark shirt, and another in blue scrubs, appearing to review paperwork. The scene then transitions to a simulated medical emergency where several people, including individuals in scrubs and dark clothing, are gathered around a patient lying on a gurney. One person is positioned over the patient, performing a medical procedure. In the background, medical equipment and supplies are visible on shelves. Each frame contains a logo in the bottom right corner that reads \"Sim Week\". In the final sequence, text appears at the bottom of the screen stating \"Trauma resuscitation\". The progression shows a shift from a preparatory planning phase to an active, high-pressure clinical scenario."
+}

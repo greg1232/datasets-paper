@@ -1,0 +1,15 @@
+{
+  "video_id": "10ca865e9e21d03f21aed54fa587625a",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.225,
+    9.675,
+    16.125,
+    22.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This sequence of frames displays a presentation slide for a course in \"CRYOGENIC ENGINEERING,\" specifically focusing on \"Tutorial \u2013 2\" regarding \"Ideal Work Requirement.\" The slide features a thermodynamic formula, $W_{i} = T_{i}(s_{i} - s_{f}) - (h_{i} - h_{f})$, and a data table listing values for pressure (p), temperature (T), enthalpy (h), and entropy (s) at states 1, 2, and f. A corresponding T-s diagram shows a process path with a section labeled \"p=const.\" At the bottom, a calculation is being performed: $W_{i} = 300(4.4 \\pm 0.42) - (462 - 29)$. As the sequence progresses, the equation updates to reflect a subtraction sign, $W_{i} = 300(4.4 - 0.42) - (462 - 29)$, and finally concludes with the calculated result, $W_{i} = 300(4.4 - 0.42) - (462 - 29) = 761 \\text{ J/g}$. The footer attributes the material to \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\""
+}

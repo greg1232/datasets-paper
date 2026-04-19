@@ -1,0 +1,15 @@
+{
+  "video_id": "f0abe3b1428e6ab025bdf551b99e6daf",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    19.005,
+    57.016,
+    95.026,
+    133.036
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman wearing a striped purple and white button-down shirt and black over-ear headphones speaks while facing the camera. She is positioned in front of a light-colored wall and a window covered by yellow and blue curtains. To her right is a neutral-toned surface, likely a table or desk. Throughout the sequence, her facial expressions and mouth movements change as she speaks, and she occasionally blinks or shifts her gaze. The text \"Nancy Ramya\" is visible in the lower-left corner of her video feed. The camera remains stationary, maintaining a consistent medium close-up shot of the woman as she continues her conversation."
+}

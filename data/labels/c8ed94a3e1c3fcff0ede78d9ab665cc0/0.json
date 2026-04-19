@@ -1,0 +1,15 @@
+{
+  "video_id": "c8ed94a3e1c3fcff0ede78d9ab665cc0",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.463,
+    0.772,
+    1.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In the interior of a vehicle, a person's right hand reaches toward the center console to interact with a control knob located to the left of a digital screen. The console features a wood-grain finish surrounding the screen and a gear shift lever with a carved wooden handle. Above the screen is a control panel with several buttons, including one labeled \"TEMP SET\". As the sequence progresses, the person's index finger presses and turns the circular silver knob. The gear shift remains stationary throughout the action. The lighting is dim, casting shadows across the console and the person's hand, while the screen remains dark and reflective. No other people are visible, and the focus remains tightly on the manual interaction with the dashboard's interface."
+}

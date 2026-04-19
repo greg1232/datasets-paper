@@ -1,0 +1,15 @@
+{
+  "video_id": "f78a97619edf961edbae291afae5aca6",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.196,
+    0.588,
+    0.98,
+    1.372
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen interacting with an open catalog titled \"FEELS LIKE FROST SUITE.\" The catalog displays various winter-themed stationery and gift sets, featuring floral designs and phrases such as \"Yuletide Cheer\" and \"You warm my heart.\" In the beginning, two hands press down on a page showing a variety of white and silver products. As the scene progresses, the person uses their left hand to flip the page over to the left. On the opposite page, a card with the text \"Yuletide Cheer\" and \"You warm my heart\" is visible. The person's right hand, wearing a black long-sleeved shirt, then moves a pink strip of paper across the page. The logo \"Stamping Julie\" is faintly visible as a watermark across the bottom of the images."
+}

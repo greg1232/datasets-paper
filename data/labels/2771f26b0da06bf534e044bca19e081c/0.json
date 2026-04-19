@@ -1,0 +1,15 @@
+{
+  "video_id": "2771f26b0da06bf534e044bca19e081c",
+  "url": "./data/segments/3_3xsVMtx3c-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.271,
+    0.813,
+    1.354,
+    1.896
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a grey baseball cap and a dusty rose-colored t-shirt stands in a clothing store, browsing through a rack of apparel. The store features walls with slatwall panels holding various items of clothing, including blue shirts and red-packaged accessories. Several \"ONEILL\" logos are visible on signage and products throughout the scene. In the initial sequence, the person stands looking toward the rack, touching the back of their neck. As the action progresses, the person reaches out and begins to handle a black garment hanging on the rack. They shift their position, pulling a black shirt or jacket closer to examine it. The surrounding environment remains constant, with shelves of folded blue clothing and hanging apparel in the background, while the person focuses their attention on the black clothing items."
+}

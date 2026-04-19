@@ -1,0 +1,15 @@
+{
+  "video_id": "2181685681d538ee2a63f9b49761f616",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-291.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a virtual meeting interface. A man with glasses, wearing a dark blue shirt, is visible in a small video window in the upper right corner. The main portion of the screen shows a digital mind map or concept map against a black background. The map consists of various circular icons containing images, connected by blue lines. Some circles are labeled with green text, such as \"Institutional\" and \"Rural Community Flows.\" Other labels include \"pay\" and \"Industrial.\" A cursor moves across the screen, interacting with the nodes of the diagram. The browser tabs at the top list \"True & Learning by Syn,\" \"Diversity by Systemic,\" \"Role of Society by Soc,\" \"Introduction,\" and \"Rural Community Flows.\" A sidebar on the left displays \"blackboard.edu foi learning\" and a list of participants, including \"Jerry Michdai.\" The scene remains largely static, with only the cursor moving."
+}

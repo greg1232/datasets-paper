@@ -1,0 +1,15 @@
+{
+  "video_id": "356a0f85208347c154ca2c3cd0e617e8",
+  "url": "./data/segments/3QD9oO6sRns-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.206,
+    0.619,
+    1.031,
+    1.444
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a \"Topps CLEARLY AUTHENTIC\" trading card box on a black surface. The box is white and blue, featuring the year \"2020\" and a picture of a baseball player. In the background, a large orange and white logo reads \"JASPYS CASEBREAKS\". A small inset window in the corner shows a man wearing a white baseball cap and a black t-shirt sitting at a desk with computer monitors. As the sequence progresses, the person's hands rotate and tilt the box to display its different sides and the \"CLEARLY AUTHENTIC\" branding. The box also contains text stating \"ONE ENCASED AUTO\". The setting appears to be a professional card-breaking studio with a white background and various card-related equipment visible behind the main subject."
+}

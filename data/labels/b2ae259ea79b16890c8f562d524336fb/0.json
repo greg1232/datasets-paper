@@ -1,0 +1,15 @@
+{
+  "video_id": "b2ae259ea79b16890c8f562d524336fb",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-071.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.335,
+    1.005,
+    1.675,
+    2.345
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser displaying a complex conceptual map on a dark background. The map features various circular nodes connected by arrows, with some nodes containing text. A white rectangular text box is centrally positioned, containing a detailed diagram with smaller text. At the top of the browser, multiple tabs are open, including ones titled \"Trial & Learning by Synthesis\", \"Documents by Synthesithink\", \"Future of Society by Synthesithink\", \"Insights Introduction - Rumos\", and \"Rural Community Feed Sputter\". To the right of the screen, a small video inset shows a man with short hair, wearing a grey t-shirt and dark-rimmed glasses, looking toward the camera. Across the sequence, the screen remains static with no movement in the map or changes in the browser's layout, and the man in the inset remains in a consistent pose."
+}

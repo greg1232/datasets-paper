@@ -1,0 +1,15 @@
+{
+  "video_id": "0cf4d1e536a235e231f755e9c98136e0",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.479,
+    0.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a screen recording of a computer terminal window running a server log. The interface is a dark-themed text editor with line numbers and a status bar at the bottom that reads \"E-python3\". The logs display a series of HTTP requests and server responses, with repeated entries showing requests for paths such as \"/etc/passwd\", \"/wp-admin/index.php\", and \"/Horia/HTTP/1.0\". Legible text in the logs includes timestamps like \"[26/Oct/2020: 6:21:16 +0000]\" and specific error messages such as \"HTTP/1.1 404 Not Found\" and \"HTTP/1.1 403 Forbidden\". The screen remains virtually static across the sequence, as the text content and layout do not change, indicating a paused or slowly scrolling log file being viewed within a development environment. No people or physical locations are visible, only the digital interface of the terminal."
+}

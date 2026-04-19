@@ -1,0 +1,15 @@
+{
+  "video_id": "4023a0e227e8fb1c57cc0ccb10e1e8db",
+  "url": "./data/segments/3U065Ox-1uA-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.359,
+    1.076,
+    1.793,
+    2.511
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A short video clip displays a light blue background with a recurring logo and date. In the first frame, a translucent blue graphic element sweeps across the screen, partially obscuring the \"VOA\" logo and the text \"January 31, 2022\". By the second frame, the graphic has cleared, revealing the full logo, which consists of a red \"V\", a grey circular element, and a blue \"A\", followed by the number \"58\" inside a blue circle. The date \"January 31, 2022\" remains centered below the logo. In the subsequent frames, the number inside the blue circle changes from \"58\" to \"60\". The \"VOA\" logo and the date \"January 31, 2022\" remain constant in position and appearance throughout the sequence. No people, clothing, or physical settings are visible in the clip."
+}

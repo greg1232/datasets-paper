@@ -1,0 +1,15 @@
+{
+  "video_id": "8bf526b8b0189969031803b66a77a982",
+  "url": "./data/segments/3P1vSUbet40-Scene-0509.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.673,
+    2.018,
+    3.363,
+    4.708
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a distinctive, tall, silver-grey hairstyle wears glasses, black over-ear headphones, a white button-down shirt with suspenders, and a red bowtie. He is seated in a studio setting with a background featuring framed photographs, clothing items, and a \"LEE\" logo. A professional microphone is positioned in front of him. Across the sequence, the man is speaking, with his mouth opening and closing as he talks. On-screen graphics appear twice in each frame: a logo on the left that reads \"THE TALK BOX PODCAST\" and a logo on the right that reads \"GOSS TALK JOY\". The scene remains static in terms of composition and location, with the only movement being the man's facial expressions and slight shifts in posture as he delivers his speech."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "8af7a887ed191835636054c3694ece5d",
+  "url": "./data/segments/3a0FD1177FA-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.078,
+    0.235,
+    0.391,
+    0.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A glittery red heart-shaped graphic animates across a shimmering, golden background filled with soft, blurred bokeh lights and bright sparkles. In the first frame, only a partial arc of the red glitter heart is visible on the left, while the word \"Stan\" appears in an elegant, cursive black font on the right. As the sequence progresses, the red heart completes its curved shape, and the text expands. By the final frame, the full word \"Stamping\" is written in the same cursive font, accompanied by a small circular logo containing the text \"ALWAY\" on the far right. The heart continues to move and form, eventually settling into a stylized heart shape that integrates with the cursive typography. The overall scene is a decorative motion graphic focused on the reveal of the brand name \"Stamping\" against a luxurious, light-filled backdrop."
+}

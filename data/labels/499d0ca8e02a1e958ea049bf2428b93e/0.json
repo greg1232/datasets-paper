@@ -1,0 +1,15 @@
+{
+  "video_id": "499d0ca8e02a1e958ea049bf2428b93e",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-192.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.33,
+    0.99,
+    1.65,
+    2.31
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser window open to a page titled \"Tool & Learning by SystemDynamics,\" displaying a causal loop diagram on a black background. The diagram consists of green text nodes and blue arrows forming circular paths. Legible text includes \"Attractiveness of Garden,\" \"Birds at Feeder,\" \"Buy Bird Seed,\" \"Unsightly Guts,\" and \"Frustrations.\" A man wearing a dark baseball cap is visible in a small video overlay window in the top right corner of the screen. Throughout the sequence, the mouse cursor moves across the diagram. In the final frames, the cursor hovers over and clicks on a small grey box containing the text \"Buy Bird Seed,\" which appears highlighted in a lighter shade of grey compared to the initial frames. The browser's address bar indicates the site is hosted on a \"blackboard.com\" domain."
+}

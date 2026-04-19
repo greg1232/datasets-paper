@@ -1,0 +1,15 @@
+{
+  "video_id": "7a19237cee564c2c94f8d6d7bdf28746",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.601,
+    1.802,
+    3.003,
+    4.204
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on a vehicle's fuse box, featuring a variety of colored fuses slotted into a black plastic housing. Legible labels on the box include \"L.C.D.\", \"RADIO\", \"BRAKE\", \"STOP\", and \"AIR BAG\". Several red and tan fuses are visible, with some marked with numbers such as \"10\" and \"01\". A single red wire extends from the upper right side of the frame, crossing over the edge of the fuse panel. The camera remains static across the sequence, maintaining a tight angle on the components. The scene does not feature any people, and there is no movement or change in the arrangement of the fuses or the position of the wire as the sequence progresses, resulting in a still image of the electrical components."
+}

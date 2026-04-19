@@ -1,0 +1,15 @@
+{
+  "video_id": "27e6703a94e910920034c16cec983359",
+  "url": "./data/segments/3iUTkJy84EY-Scene-162.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.08,
+    0.24,
+    0.4,
+    0.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses stands against a plain black background, delivering a presentation. She is wearing a light green, embroidered tunic with a dark beaded necklace and a small lapel microphone attached to her neckline. In the bottom left corner of the scene, a small logo containing the text \"NPTEL\" is visible. Throughout the sequence, the woman is speaking and using hand gestures to emphasize her points, with her hands raised in front of her chest. Her facial expressions shift slightly as she speaks, with her mouth opening and closing and her eyes blinking. While her posture remains consistent, the slight movements of her hands and the changing shapes of her mouth indicate active speaking and gesturing across the frames."
+}

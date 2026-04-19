@@ -1,0 +1,15 @@
+{
+  "video_id": "e7c2b6a3b7e33340810ec41e20186563",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    29.483,
+    88.45,
+    147.417,
+    206.383
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and a light beard is seen in a small picture-in-picture window in the lower left corner of a screen recording. He is wearing a dark garment and speaking while looking toward the camera. The main focus of the screen is a financial trading platform showing a candlestick chart for \"USD (D1)\" with a descending blue trendline and a green horizontal support line marked \"S200.00\". To the left of the chart, a red and white advertisement for \"TICKMILL\" is visible, featuring the text \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN\". The advertisement lists features such as \"PICK-UP-Spreizungen\" and \"Keine Requotes,\" and includes the website \"www.tickmill.com/de\". As the sequence progresses, the man continues to speak, with his mouth opening and closing, while the trading chart and the surrounding interface remain static."
+}

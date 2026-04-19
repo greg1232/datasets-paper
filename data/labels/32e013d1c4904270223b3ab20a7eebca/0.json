@@ -1,0 +1,15 @@
+{
+  "video_id": "32e013d1c4904270223b3ab20a7eebca",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-447.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.182,
+    0.547,
+    0.912,
+    1.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt, a green baseball cap, and black over-ear headphones speaks into a professional microphone in a room filled with framed photographs and clothing racks. His shirt features the text \"ION NEVER DO SHIT\" in white letters. In the background, a white mannequin wears a white t-shirt, and various racks of apparel are visible. Small logos appear in the bottom corners of the scene, including one that reads \"PROPERLY\" in red. The man remains in a consistent position throughout the sequence, slightly nodding and speaking as he looks downward. The background remains static, with the gallery wall of photographs providing a consistent backdrop. The only movement is the subtle motion of the man's head and facial expressions as he talks into the microphone."
+}

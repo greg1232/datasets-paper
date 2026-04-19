@@ -1,0 +1,15 @@
+{
+  "video_id": "b7303dfcd08ca031be029bdbdf31aa8c",
+  "url": "./data/segments/3Xr-czqAfSc-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.95,
+    2.85,
+    4.75,
+    6.65
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair, wearing a white top and a dark blazer, stands in a bright interior setting. She is positioned on the left side of the screen, facing the camera with a neutral expression and her hand resting on her hip. To her right, a dark blue panel displays white and blue text that reads: \"That is, until she found out about the Mercatus Center's MA Fellowship from her economics professor and Mercatus PhD alum, Howard Baetjer.\" The words \"Mercatus Center's MA Fellowship\" are highlighted in light blue. Across the sequence of frames, the woman remains stationary and maintains the same pose, and the on-screen text remains identical and static. There are no changes in the scene, clothing, or composition, indicating a still shot or a very subtle pause in the video clip."
+}

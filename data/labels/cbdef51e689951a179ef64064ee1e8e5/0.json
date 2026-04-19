@@ -1,0 +1,15 @@
+{
+  "video_id": "cbdef51e689951a179ef64064ee1e8e5",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large, well-lit banquet hall featuring ornate chandeliers and recessed ceiling lights, several men perform synchronized martial arts movements on a blue carpeted stage. One man in the center foreground wears a blue long-sleeved tunic and matching trousers, while other performers behind him wear either white or black traditional attire. In the background, an audience is seated at tables. Across the sequence, the performers move in unison, transitioning from a standing posture with arms raised and legs spread into a lower, more crouched stance. The man in blue leads the movement, shifting his weight and extending his arms in a controlled, sweeping motion. The synchronized group maintains their formation and timing, with the men in white and black mirroring the central figure's shifts in posture and arm placement as they execute the routine."
+}

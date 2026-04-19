@@ -1,0 +1,15 @@
+{
+  "video_id": "8570d775fe2bb6f639f928b87de57cb9",
+  "url": "./data/segments/3F2rz23IKUk-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.165,
+    9.495,
+    15.825,
+    22.155
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static slide titled \"A case study\" that contains three bullet points of text. The slide explains that \"Android is a Linux-derived platform for mobile devices,\" stating that \"It is based on the Linux kernel (GPLv2), some pre-existing userland (mixture of GPLv2, LGPLv2 and BSD) and a new userspace environment (Apache 2 license).\" The final bullet point notes that \"Each component is labeled with the appropriate license.\" The text is written in a black, sans-serif font against a plain white background. Across the sequence of frames, there is no movement, change in text, or appearance of any people, objects, or logos. The scene remains completely identical from the first frame to the last, presenting a steady view of the informational slide."
+}

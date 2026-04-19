@@ -1,0 +1,15 @@
+{
+  "video_id": "772baff5f8e0a3ff60892166c0b65c06",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-119.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.465,
+    1.395,
+    2.325,
+    3.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a web browser with several open tabs and a video conferencing application. In the upper right, a man wearing a black baseball cap is visible in a small video feed. The main area of the screen shows a dark-themed conceptual map with various circular nodes connected by blue lines. One prominent rectangular node contains a grayscale image of a person standing in an open space and text that reads \"SLID EPMI- MG\" and \"NPC YOU DESIRE JUST DON'T HAVE THE CAPACITY FOR YOUR DESIRE'S OBJECT_ OFF SPACE\". Several circular nodes contain colorful icons and small green text labels, such as \"Social,\" \"Nature,\" and \"Education.\" As the sequence progresses, the browser window is navigated, causing the colorful map to disappear and leaving only the grayscale image and a few nearby nodes visible. The man in the video feed remains present throughout the sequence."
+}

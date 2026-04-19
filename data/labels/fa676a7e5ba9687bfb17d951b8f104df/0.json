@@ -1,0 +1,15 @@
+{
+  "video_id": "fa676a7e5ba9687bfb17d951b8f104df",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-218.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.584,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and short-cropped hair is seated in a recording studio, wearing a white t-shirt and black over-ear headphones. He is positioned behind a professional microphone mounted on a boom arm, which bears the text \" Rode NT1\". The background consists of grey acoustic foam panels arranged in vertical ridges. As the sequence progresses, the man speaks and gestures with his right hand. In the initial moments, his hand is blurred as it moves toward his face. He then raises his hand higher and opens his mouth to speak, continuing to gesture with a blurred motion of his arm. By the end of the sequence, he lowers his hand slightly while maintaining his speaking expression. Tattoos are visible on his right arm throughout the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "03f3a469f74708cb551531c079655b20",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a mustache, wearing a light blue collared shirt and a dark grey blazer, presents a lecture on \"CRYOGENIC ENGINEERING.\" In the first frame, he is positioned to the right of a text slide titled \"Heat Exchanger,\" which states, \"In order to specify the performance of the heat exchanger in terms of actual heat exchange occurring, a term \"$\\epsilon$\" is defined which is called as Heat Exchanger Effectiveness.\" The bottom of the frame includes the text \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" and an \"NPTEL\" logo. In the subsequent frames, the text slide disappears, and the camera zooms in to a medium close-up of the man. He remains centered against a stylized blue and purple background with abstract shapes. Throughout the sequence, he maintains a neutral expression while speaking, with minimal movement in his posture."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d232405f9c09885e9ae5700aaf51bc97",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.825,
+    1.375,
+    1.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white airplane with a high T-tail and rear-mounted engines taxis across a paved runway against a backdrop of green fields and a gray, overcast sky. The aircraft moves from left to right, with its landing gear deployed and lights visible on the nose. A red and white marker stands beside the runway in the foreground. In the upper right corner of each frame, a red circular logo containing the white number \"13\" is visible. As the sequence progresses, the plane advances further along the runway, eventually positioning its nose toward the right side of the frame. No people are visible in the scene. The environment remains static while the aircraft is the only moving element, shifting its position incrementally across the landscape."
+}

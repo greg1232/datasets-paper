@@ -1,0 +1,15 @@
+{
+  "video_id": "4a0f71700abbb6f785541a14e1e10c97",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    39.477,
+    118.431,
+    197.385,
+    276.339
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a professional meeting setting, several people are gathered for a hearing. The scene features men in suits and a woman in a dark jacket. A man with a beard and glasses gestures with his hands while speaking, while another man in a suit listens attentively. A woman stands to the side holding papers. On the table are water bottles, papers, and microphones. In the background, a projection screen is visible. A persistent green banner at the bottom of the screen contains the logo \"ORCA\" and the text \"April 12, 2019 House Committee on General, Housing, and Military Affairs .S.23 Increasing the Minimum Wage\". As the sequence progresses, the man with the beard continues to speak and gesture, and the woman standing adjusts her position and papers, while the others remain engaged in the discussion."
+}

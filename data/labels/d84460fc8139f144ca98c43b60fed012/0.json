@@ -1,0 +1,15 @@
+{
+  "video_id": "d84460fc8139f144ca98c43b60fed012",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.371,
+    1.114,
+    1.856,
+    2.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is shown interacting with a small electronic device enclosed in a transparent plastic case on a white surface. The device contains a green circuit board with various components and blue wiring. In the first frame, the person's hand is resting on top of the clear lid, pressing down on the right side. As the sequence progresses, the hand moves away from the device, leaving it stationary on the table. To the left of the electronic device, several white cable ties lie scattered on the surface. A black tripod leg is partially visible in the lower-left and right areas of the frames. The lighting is bright and even, focusing on the hardware. There is no visible text or logos on the equipment or surrounding environment. The scene remains static except for the movement of the person's hand withdrawing from the frame."
+}

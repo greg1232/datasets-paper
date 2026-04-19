@@ -1,0 +1,15 @@
+{
+  "video_id": "dbf227a270ada4b70983b11db2776a83",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    13.393,
+    40.178,
+    66.963,
+    93.748
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a bald head and a short, grey beard is speaking while standing in front of several presentation posters. He wears a grey polo shirt. The background contains posters with technical information; one clearly displays the heading \"ZB38 AlphaSzenzor Inc.\" and a section titled \"Typical Gas Sensor Attributes.\" Another poster to the left features the text \"microMaker3D\" and a logo that says \"MUSICMAKER 3D.\" As the sequence progresses, the man continues to speak, with his mouth moving and his facial expressions shifting slightly. The camera angle changes from a medium close-up to a tighter shot of his face and then shifts slightly to a side-angle view. The lighting is bright and consistent throughout the scenes, suggesting an indoor professional or academic setting, such as a conference or exhibition hall."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2bbbc7b38c4e6b082a342acb58cac9ac",
+  "url": "./data/segments/3Sq594WkayE-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.193,
+    0.578,
+    0.964,
+    1.349
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static, close-up view of dense green shrubbery and low-lying vegetation in an outdoor setting. The scene is dominated by thick, bushy plants with small green leaves, interspersed with patches of brown, dried grass and a few small yellow wildflowers. The foliage fills the entire frame, creating a textured wall of greenery. Across the sequence, there is virtually no movement; the plants remain still, and the camera perspective does not shift. No people, animals, equipment, or text are visible in the frames. The lighting is consistent and diffused, suggesting an overcast day or a shaded area. The only subtle change between the frames is a slight flicker in the light and shadow across the leaves, but the overall composition remains constant throughout the clip."
+}

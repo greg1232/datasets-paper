@@ -1,0 +1,15 @@
+{
+  "video_id": "65d2ef5f41cb51865663812593939994",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-104.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.563,
+    0.788
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a white hospital gown with colorful patterns sits while holding a baby doll wrapped in a white cloth. A person in dark clothing stands nearby, while another person's hand holds a white document in the foreground. Across the sequence, the person in the gown adjusts the baby doll, shifting it and smoothing the cloth. The document in the foreground moves slightly as it is being held. On-screen graphics include a purple silhouette of a pregnant person next to a purple circle containing the text \"Day 3\", and a logo featuring a stylized graphic and the text \"Sim Week\" followed by smaller, illegible text. The setting appears to be an indoor clinical or simulation environment, with the background remaining consistent as the focal point stays on the interaction between the individual and the baby doll."
+}

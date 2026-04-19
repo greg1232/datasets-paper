@@ -1,0 +1,15 @@
+{
+  "video_id": "853d12a64d63154c921308650aa6ba2a",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows a vehicle's fuse box, featuring various colored fuses slotted into a black plastic housing. Labels on the housing identify the fuses, including \"TAIL\", \"HTD MIR\", \"AIR BAG\", \"L.C.D.\", \"RADIO\", \"BRAKE\", and \"STOP\". Red, orange, and blue fuses are visible, with specific ratings such as \"10\" and \"20\" printed on them. A thin red wire enters the frame from the right side, curving toward the center. The scene is static across all frames, with the camera maintaining a fixed position and angle. No people are present in the shot. The lighting is bright, casting a slight glare on the plastic surfaces of the fuse box and the surrounding black vehicle interior panel. There is no movement or change in the arrangement of the components between the frames."
+}

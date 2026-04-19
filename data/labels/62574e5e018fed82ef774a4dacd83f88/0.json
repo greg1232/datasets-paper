@@ -1,0 +1,15 @@
+{
+  "video_id": "62574e5e018fed82ef774a4dacd83f88",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.144,
+    0.431,
+    0.719,
+    1.006
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen handling collectible sports cards in an indoor setting. In some frames, a man wearing a black jacket is visible in the background, seated behind a table. The table is covered with a red and black patterned mat featuring the logo \"JASPYS\" and the text \"CASEBREAKS.COM\". Several trading cards, some in protective plastic sleeves, are scattered across the table. The person in the foreground uses their fingers to hold and tilt a single trading card encased in a clear plastic holder, showcasing an athlete and a signature on the card. The camera focus shifts from a blurred close-up of the card's surface to a clearer view of the athlete and signature as the card is moved. The logo \"JASPYS\" and the website \"CASEBREAKS.COM\" remain visible on the table throughout the sequence."
+}

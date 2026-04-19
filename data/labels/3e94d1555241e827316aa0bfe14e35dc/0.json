@@ -1,0 +1,15 @@
+{
+  "video_id": "3e94d1555241e827316aa0bfe14e35dc",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.563,
+    0.788
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on a textured, dark grey or black leather surface, likely part of a vehicle interior. The word \"CORVETTE\" is embossed into the leather in capital letters. To the right of the text, a circular logo is also embossed into the material. A stitched seam runs diagonally across the frame, separating the area with the text from a lower section of the leather. As the sequence progresses, the camera slightly shifts its angle and position, creating a subtle panning effect that alters the lighting and reflections on the textured surface. No people are present in the scene, and the focus remains entirely on the branding and material of the interior component."
+}

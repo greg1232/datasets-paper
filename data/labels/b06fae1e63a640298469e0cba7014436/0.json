@@ -1,0 +1,15 @@
+{
+  "video_id": "b06fae1e63a640298469e0cba7014436",
+  "url": "./data/segments/3tUAO4YGuKY-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.205,
+    0.615,
+    1.025,
+    1.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows an abstract sequence of shifting shapes and lighting on a dark background. A large, dark, T-shaped silhouette dominates the center, contrasted against varying light sources that appear to glow and move. In the initial moments, the background is a deep, muted grey with a soft glow on the left. As the sequence progresses, a bright, diffused white light emerges from the right and then shifts to the left, illuminating the surrounding space and creating sharp contrasts with the dark T-shaped form. The light transitions from a dim grey to a brilliant white, casting soft gradients across the dark surfaces. No people, text, or identifiable real-world objects are present, as the scene consists entirely of geometric shapes and evolving light patterns."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d560b8d874b69c264c9afaf04f93be4b",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-250.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.269,
+    0.806,
+    1.344,
+    1.881
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game simulation of an American football game takes place on a green turf field marked with white yard lines and \"COMMANDERS\" text in the background. Players in white jerseys and players in black jerseys are positioned across the line of scrimmage. In a small picture-in-picture overlay, a blonde man in a dark blue shirt watches the game. On-screen text indicates it is \"2nd & 6\" with a game clock at \"1:13\". As the play begins, the players collide and move forward. A purple line appears across the field in the lower sequence of frames, along with green circular markers containing the letter \"A\". The name \"Polamalu\" appears above a player in a black jersey, and the name \"Smith\" appears below a player in a white jersey. The action progresses as the white-jerseyed players attempt to advance the ball past the black-jerseyed defenders."
+}

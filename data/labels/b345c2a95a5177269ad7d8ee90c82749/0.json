@@ -1,0 +1,15 @@
+{
+  "video_id": "b345c2a95a5177269ad7d8ee90c82749",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-121.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.109,
+    0.328,
+    0.547,
+    0.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with white text that says \"I NEVER DO SHIT\" is speaking into a professional microphone. He is positioned in a room with a wall of framed photographs and mannequins wearing white t-shirts in the background. Two logos are visible on screen: a circular logo on the left and a red text logo on the right that reads \"BOSS FELIX TOT\". Throughout the sequence, the man's facial expression shifts as he talks, and he begins to move his hand into the frame from the left side. He remains in the same position relative to the microphone and the background, while his mouth moves and his eyes shift slightly as he speaks."
+}

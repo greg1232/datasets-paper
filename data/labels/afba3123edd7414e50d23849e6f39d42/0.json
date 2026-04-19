@@ -1,0 +1,15 @@
+{
+  "video_id": "afba3123edd7414e50d23849e6f39d42",
+  "url": "./data/segments/3Z229_lKLpk-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.5,
+    2.5,
+    3.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people, mostly men, are seated in a tiered assembly hall with light-colored wooden walls and seating. The individuals are dressed in a mix of attire, including white shirts, traditional Indian clothing such as kurtas and saris, and some in dark suits. The people are seated in rows, facing forward, with some looking ahead and others slightly turning their heads. One woman in a purple sari is visible in the middle rows. Throughout the sequence, the people remain seated in their positions, with only minimal movements of their heads and eyes. The lighting is bright and consistent across the scene, and there is no on-screen text, logos, or equipment visible. The overall composition and the arrangement of the people remain static, indicating a formal gathering or a session in a legislative setting."
+}

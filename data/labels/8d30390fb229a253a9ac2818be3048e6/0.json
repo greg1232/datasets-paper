@@ -1,0 +1,15 @@
+{
+  "video_id": "8d30390fb229a253a9ac2818be3048e6",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.197,
+    3.591,
+    5.985,
+    8.379
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short brown hair, wearing a black blazer over a black top, stands in front of a projection screen delivering a presentation. She holds papers in her hands and gestures while speaking. To her right, another person wearing a green knit beanie is partially visible, facing away from the camera. The projection screen displays the title \"What we talk about when we talk about data.\" followed by the name \"Sara M. Watson\" and the handle \"@srmwat\". In the upper right corner of the first frame, the text \"DPSI Midyear Workshop\" is visible. Overlaid text identifies the speaker as \"Sara Watson Fellow, Berkman Center for Internet & Society\". Across the sequence, the woman shifts her posture and hand movements as she continues her talk, while the background presentation and the person in the beanie remain constant."
+}

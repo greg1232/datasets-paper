@@ -1,0 +1,15 @@
+{
+  "video_id": "cc38f20f6824d2798fe74f0444c9b78a",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.931,
+    5.793,
+    9.655,
+    13.518
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A meeting takes place in a room with wood-paneled walls and large windows covered by brown blinds. A man in a white shirt and dark vest stands at a podium, speaking to a seated audience. The audience consists of several people, including a man in a plaid shirt and others in colorful attire, such as a person wearing a blue and red striped garment and another in a yellow top. To the left of the speaker, another person is seated at a desk. The scene remains static across the sequence, with the participants maintaining their positions and the speaker continuing his address. A white logo with the text \"ORCA\" is visible in the lower right corner of the frames. On the wall to the left and right of the speaker, red and white signs are partially visible."
+}

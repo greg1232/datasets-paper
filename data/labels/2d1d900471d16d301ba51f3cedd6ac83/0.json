@@ -1,0 +1,15 @@
+{
+  "video_id": "2d1d900471d16d301ba51f3cedd6ac83",
+  "url": "./data/segments/3VCwl-aQ_oQ-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.45,
+    1.35,
+    2.25,
+    3.15
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a screen recording of a website called RANDOM.ORG, specifically its \"List Randomizer\" tool. The interface features a vertical list of numbers from 1 to 10 rearranged in a random order. A chat window on the right shows messages from users \"engeld\" and \"Nightbot,\" including the text, \"I think if you are a team signing Ohtani, you are going all in on everyone you can\" and a link to \"the BREAK SCHEDULE, SHIPPING INFO and MORE.\" A banner for \"CASEBREAKS.COM\" appears at the bottom with a logo featuring a stylized red and white design. Throughout the sequence, the page is refreshed multiple times; the randomized number lists change, and the \"You have randomized this list\" counter increments from 6 to 9 times. The timestamp on the page progresses from 03:24:03 UTC to 03:24:05 UTC."
+}

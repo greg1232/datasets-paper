@@ -1,0 +1,15 @@
+{
+  "video_id": "4fdadcb48cefd2f376206c1aa64e5a5c",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.827,
+    2.481,
+    4.135,
+    5.79
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a pink sleeveless tank top is in an indoor gymnasium with a polished wooden basketball court and blue padded walls. In the background, there are blue tiered bleachers and basketball hoops with white backboards. Initially, the man is seen in profile, facing right. He then turns toward the camera, centering himself in the frame and speaking. He continues to face the camera as he slightly shifts his posture and tilts his head, maintaining a conversational expression. The setting remains static throughout the sequence, with the basketball court and equipment providing a consistent backdrop. No on-screen text or logos are visible."
+}

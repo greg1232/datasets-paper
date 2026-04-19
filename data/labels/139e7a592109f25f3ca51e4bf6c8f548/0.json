@@ -1,0 +1,15 @@
+{
+  "video_id": "139e7a592109f25f3ca51e4bf6c8f548",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-279.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.463,
+    0.772,
+    1.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is seated in a recording studio, wearing a white t-shirt and large black over-ear headphones. He is positioned behind a professional silver microphone mounted on a boom arm, which bears the legible text \"Rode NT1-A\". The background consists of dark gray acoustic foam panels with a ribbed texture. As the sequence progresses, the man looks toward the camera with a wide-eyed, surprised expression. His mouth is slightly open, and he begins to gesture with his right hand, which moves from off-screen into the frame, blurring as it sweeps across the right side of the image. His facial expression remains one of astonishment throughout the movement, while the recording equipment and studio setting remain static."
+}

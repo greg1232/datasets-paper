@@ -1,0 +1,15 @@
+{
+  "video_id": "7402926d3e8c56f0d35ed14f96becc9e",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-102.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.53,
+    1.589,
+    2.648,
+    3.708
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A tiger is shown in a natural outdoor setting with green foliage and a brown structure in the background. In the first frame, the tiger's mouth is slightly open, and yellow text reads \"$1 /YEAR\" above the white text \"AVAILABLE TO ALL TIGERS AND TIGRESSES\". By the second frame, the tiger has opened its mouth wide in a yawn, while the text \"$1 /YEAR\" remains. In the third frame, the tiger closes its mouth and looks forward; the yellow text \"$1 /YEAR\" persists, and a blurred white word starting with \"FIRST\" appears at the bottom left. In the final frame, the tiger continues to look forward as the yellow text \"$1 /YEAR\" remains and the white text \"WHEN YOU JOIN\" appears at the bottom, partially blurred."
+}

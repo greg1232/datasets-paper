@@ -1,0 +1,15 @@
+{
+  "video_id": "bbae2af00b0bd39056173a027d42950e",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-372.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.775,
+    5.325,
+    8.875,
+    12.425
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video screen capture shows a split-screen layout featuring a website for \"JASPY'S CASEBREAKS.COM\" on the left and a video feed on the right. The website displays a product page for \"2021 TOPPS TRANSCENDENT COLLECTION HALL OF FAME EDITION BASEBALL HOBBY CASE BREAK #1 *RANDOM HIT*\" priced at \"$489.99,\" with a red \"SOLD OUT\" button. The video feed alternates between a top view of a table with trading card boxes and a man wearing a black t-shirt and a black baseball cap. In the bottom right of the video feed, a red call-to-action banner instructs viewers to \"Hit the SUBSCRIBE button down below!\" next to a YouTube Subscribe button. Throughout the sequence, the website content remains static while the video feed switches from showing the merchandise on the table to a talking-head shot of the man."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d0b9d050a209aa27fc093b4d4cb51199",
+  "url": "./data/segments/3INb3jiuu6g-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.655,
+    1.965,
+    3.275,
+    4.585
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a woman with blonde hair wearing a black top, appearing in a picture-in-picture overlay against a backdrop of a legislative chamber. In the chamber, several men are seated, some wearing traditional caps and one wearing a white face mask. On-screen text includes a header stating \"NEWS NOW\" and a main headline that reads \"JUSUN STRIKE,\" followed by a sub-headline \"REPS URGE FG TO ENSURE SPEEDY RESOLUTION.\" The \"plustv\" logo is visible on the right, and a website address \"www.plustvafrica.com/liive-tv\" is displayed at the bottom. The video transitions from the news anchor's presentation to a full-screen view of the legislative chamber. In this view, the men continue to interact; one man in a red cap leans in to speak with another, while others remain seated. The lower third graphic persists across the transition, updating the website link to \"www.youtube.com/plustvafrica.\""
+}

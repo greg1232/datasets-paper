@@ -1,0 +1,15 @@
+{
+  "video_id": "2020204516a7adac2020db6c05e14945",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-086.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.985,
+    5.955,
+    9.925,
+    13.895
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"CRYOGENIC ENGINEERING\" is shown, focusing on a \"Summary\" of the liquid yield for a Linde \u2013 Hampson system. The slide displays a mathematical formula for the liquid yield $y$, expressed as a fraction involving enthalpy variables $h_1, h_2, h_7, h_g$ and effectiveness $\\varepsilon$. Across the sequence, text is incrementally added to the slide. Initially, only the formula is present. Then, a bullet point appears stating, \"As the effectiveness decreases, the yield $y$ decreases drastically.\" Finally, a second bullet point is added: \"Furthermore, the effectiveness should be more than 85% in order to have a liquid yield in Linde Hampson cycle.\" The NPTEL logo is visible in the bottom left, and the footer identifies the presenter as \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" No people are visible in the frames."
+}

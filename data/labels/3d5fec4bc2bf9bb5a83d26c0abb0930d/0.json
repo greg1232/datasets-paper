@@ -1,0 +1,15 @@
+{
+  "video_id": "3d5fec4bc2bf9bb5a83d26c0abb0930d",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-079.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.717,
+    2.152,
+    3.587,
+    5.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a medical monitor in a simulation setting, surrounded by a purple graphic banner featuring a silhouette of a person and the text \"Day 2\" and \"Sim Week.\" The monitor shows various patient vitals, including a waveform for heart rate and a reading for oxygen saturation. Legible on-screen text includes \"ECG Leads Off,\" \"Touch when leads attached,\" \"SpO2,\" \"CO2 No Sensor,\" and \"Touch when sensor connected.\" In the first two frames, the SpO2 reading is \"99,\" while in the final two frames, it drops to \"97.\" Other values, such as \"110,\" remain constant, while several fields display a question mark. A gray cable is visible to the left of the monitor, and the words \"Medical Decision Making\" appear in the center of the purple banner starting in the second frame and persisting through the end of the clip."
+}

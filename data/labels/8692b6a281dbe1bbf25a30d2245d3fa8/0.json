@@ -1,0 +1,15 @@
+{
+  "video_id": "8692b6a281dbe1bbf25a30d2245d3fa8",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-112.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.225,
+    0.675,
+    1.125,
+    1.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a digital learning interface featuring a mind map with various icons and connecting lines on a black background. The center of the map shows a cartoon image of a shopping cart with the text \"SALE!\" and a small character holding a sign. Surrounding this are circular icons depicting people and concepts, with labels such as \"Mindset,\" \"Mindset,\" and \"Mindset\" visible beneath some. The browser tabs at the top indicate various pages, including \"Trust & Learning by Systemeni,\" \"Future of Society by Systemeni,\" and \"Rural Community Food System.\" In the upper right corner, a small video feed shows a man with glasses and a dark headset wearing a light-colored shirt. Between the frames, the mouse cursor moves across the interface, interacting with the elements of the mind map, while the man in the video feed remains stationary, observing the screen."
+}

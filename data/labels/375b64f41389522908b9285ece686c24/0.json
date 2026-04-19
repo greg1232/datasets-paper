@@ -1,0 +1,15 @@
+{
+  "video_id": "375b64f41389522908b9285ece686c24",
+  "url": "./data/segments/3Z229_lKLpk-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.23,
+    0.69,
+    1.15,
+    1.61
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a wooden chair against a brown wooden wall, appearing to be in a formal setting such as a legislative chamber. He is dressed in traditional Indian attire, consisting of a cream-colored long-sleeved shirt worn under a light brown Nehru jacket, which features a white pocket square and several buttons down the front. He has a bald head and is smiling slightly while looking toward his right. A thin black microphone is positioned in front of him, barely visible against his clothing. Throughout the sequence of frames, the man remains stationary in his seat, maintaining a similar posture and facial expression. The lighting is soft and consistent, and there is no on-screen text or logos present. The scene remains virtually static, with only minute shifts in his expression as he looks off-camera."
+}

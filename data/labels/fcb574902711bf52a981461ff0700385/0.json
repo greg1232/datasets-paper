@@ -1,0 +1,15 @@
+{
+  "video_id": "fcb574902711bf52a981461ff0700385",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-195.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.626,
+    1.877,
+    3.128,
+    4.379
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and headphones, wearing a dark grey polo shirt, is speaking into a microphone in a professional studio setting. Behind him, a computer monitor displays a complex financial chart with white backgrounds and multiple lines. At the bottom of the screen, a blue and black graphic banner identifies the speaker as \"Basil Chapman\" and lists the show as \"The Tiger Technicians Hour | June 8th, 2022\". As the sequence progresses, the man remains in the same position, though his facial expression shifts slightly as he speaks, with his mouth opening and closing. The background and on-screen text remain static throughout the frames, while the man's slight movements indicate he is in the middle of a conversation or presentation."
+}

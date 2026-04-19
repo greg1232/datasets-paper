@@ -1,0 +1,15 @@
+{
+  "video_id": "9ac86de9d1c6c17d83747a825f51af73",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-303.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.196,
+    0.588,
+    0.979,
+    1.371
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A gameplay sequence from a football video game is shown, transitioning from a field view to a play-calling menu. Initially, players in white and black uniforms are positioned on a green field with \"COMMANDERS\" written in large red letters across the turf. A facecam in the lower right shows a man with blond hair wearing a black shirt. On-screen overlays display game information, including \"3rd & 3\" and \"1st 3:07 32 :06\". As the scene shifts, the view changes to a wide shot of a crowded stadium under bright lights. A play-selection menu appears over the field, featuring a \"PREVIOUS PLAY\" section and a \"SELECT A PLAY\" interface. The text \"COVER 4 QUARTERS\" is highlighted in a selection box. Navigation options such as \"COACH SUGGESTIONS,\" \"FORMATION,\" and \"CONCEPT\" are visible, alongside a button labeled \"SAVE ARROW\"."
+}

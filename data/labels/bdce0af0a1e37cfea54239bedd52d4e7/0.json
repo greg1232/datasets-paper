@@ -1,0 +1,15 @@
+{
+  "video_id": "bdce0af0a1e37cfea54239bedd52d4e7",
+  "url": "./data/segments/3F2rz23IKUk-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    15.57,
+    46.71,
+    77.85,
+    108.99
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with glasses and light-brown hair stands in a brightly lit room, likely a presentation space or classroom, giving a talk. He is wearing a black t-shirt with a yellow image and the text \"K-db\" printed on the front, along with a lanyard and ID badge around his neck. Behind him is a plain white wall and a projection screen. In the foreground, the backs of black office chairs and a computer monitor are visible, along with a water bottle and some white papers on a nearby surface. Throughout the sequence, the man speaks and gestures with his hands; he begins by clasping his hands together, then moves his arms outward, and eventually rests his left hand on his hip while gesturing with his right hand. His expression remains focused as he addresses an audience off-screen."
+}

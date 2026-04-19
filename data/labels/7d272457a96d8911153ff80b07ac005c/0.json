@@ -1,0 +1,15 @@
+{
+  "video_id": "7d272457a96d8911153ff80b07ac005c",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.714,
+    5.143,
+    8.571,
+    11.999
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows the inner mechanical components of a vehicle engine. In the initial sequence, a person's hand points toward a bolt on a black metal bracket located above a weathered engine block. The engine is covered in grime and oil, with various hoses, wires, and metallic parts visible. As the scene progresses, the camera shifts downward to reveal a metal chain running across a gear assembly and a hexagonal white plastic cap securing a portion of the black frame. A small label with a barcode and alphanumeric text is visible on a component, though the specific characters are illegible. The movement across the sequence transitions from focusing on the upper mounting hardware to the lower drivetrain and structural components, emphasizing the greasy, industrial texture of the machinery."
+}

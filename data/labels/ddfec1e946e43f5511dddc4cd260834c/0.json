@@ -1,0 +1,15 @@
+{
+  "video_id": "ddfec1e946e43f5511dddc4cd260834c",
+  "url": "./data/segments/3Kxl1O310k8-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.01,
+    18.03,
+    30.05,
+    42.07
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a cutout of a house made from brown cardboard against a blurred, neutral background. The image is a title slide for a presentation, featuring a large yellow section on the right side. This section contains the text \"Amherst Affordable Housing Trust Fund Training\" followed by the date \"January 11, 2024\". Below this, it lists \"Shelly Goehring\" as the \"Senior Program Manager\". A small \"MHP\" logo with a house icon is visible in the lower-left corner of the image. In the upper center, a very small video inset shows a person sitting at a desk. Because the four frames are identical, there is no movement or change in the scene, clothing, or on-screen text throughout the sequence."
+}

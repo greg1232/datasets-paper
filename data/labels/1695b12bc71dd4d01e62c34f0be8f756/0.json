@@ -1,0 +1,15 @@
+{
+  "video_id": "1695b12bc71dd4d01e62c34f0be8f756",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.813,
+    1.139
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey and white baseball cap with a red and black logo, and large black over-ear headphones is speaking into a professional microphone. He is positioned in a studio setting with dark grey acoustic foam paneling in the background. The microphone is held by a black boom arm and features a pop filter; a label on the arm reads \"BoutiqueAudio Model 304A\". The man is seen from the chest up, with a tattoo visible on his right upper arm. Across the sequence, the man remains in a nearly identical position, speaking steadily into the microphone with subtle movements of his mouth and head as he talks. The lighting and camera angle remain constant, showing him in a medium close-up shot against the textured studio wall."
+}

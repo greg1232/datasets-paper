@@ -1,0 +1,15 @@
+{
+  "video_id": "cbaadbc2f55514402c4bf6ba38670ddd",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with gray hair and a matching beard, wearing a gray polo shirt, is captured in a close-up shot while speaking in an indoor event space. Behind him stands another man with glasses, wearing a light gray button-down shirt and a white identification badge. The background features an exhibition setting with white booths, display panels, and other attendees. Legible text on a background banner includes \"Heate\" and \"\u00fcle election\". The man in the foreground is talking, with his facial expressions and mouth movements shifting across the sequence. He remains the central focus while the man behind him stands still, looking toward the camera with a slight smile. The lighting is bright and consistent throughout the scene, and the camera remains steady as the man in the polo shirt continues his conversation."
+}

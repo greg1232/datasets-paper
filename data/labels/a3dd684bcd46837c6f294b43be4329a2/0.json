@@ -1,0 +1,15 @@
+{
+  "video_id": "a3dd684bcd46837c6f294b43be4329a2",
+  "url": "./data/segments/3JYDT8lap5U-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark suit jacket and a white shirt stands on a stage, speaking beside a large projection screen. In the first frame, he is gesturing with his right hand toward the screen, which displays the heading \"THE DATASET\" followed by the text \"All historical data from top 100 cryptos,\" \"Data goes from beginning to 09/2017,\" and \"563871 daily-price (close) points.\" As the sequence progresses, the man remains on stage, and the screen's content evolves. By the final frames, the slide changes to a new heading, \"INTERFACE: CRYPTOLOADER,\" displaying Python code snippets including \"from crypto_ml.data_loader import CryptoLoader\" and a data table showing columns for \"Low,\" \"Close,\" and \"Market Cap.\" A consistent footer across all frames features the \"europython\" logo with a red snake icon and the text \"Edinburgh 23 29 July 2018.\""
+}

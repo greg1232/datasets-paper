@@ -1,0 +1,15 @@
+{
+  "video_id": "b074853516eb02d2e25e68c51f7b195b",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-171.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.215,
+    0.644,
+    1.073,
+    1.502
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds and manipulates a trading card over a table decorated with a palm tree logo and orange accents. The card features a signature on a dark background. In the upper corner of each frame, the logo \"JASPYS CASEBREAKS.COM\" is visible. A smaller inset window shows a man with a beard wearing a dark t-shirt and a headset, sitting in front of a computer setup. He appears to be reacting to the card being shown. As the sequence progresses, the hand tilts the card, shifting the angle and lighting to reveal different details of the surface and signature. In the background of the main shot, a white box with a yellow top sits on the table next to some equipment. The man in the inset window remains in a consistent position, watching the card movements."
+}

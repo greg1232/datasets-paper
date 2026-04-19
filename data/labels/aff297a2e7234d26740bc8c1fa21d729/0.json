@@ -1,0 +1,15 @@
+{
+  "video_id": "aff297a2e7234d26740bc8c1fa21d729",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.35,
+    1.051,
+    1.752,
+    2.452
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static graphic features a vibrant green and yellow swirling background that resembles fluid paint. Centered in the upper half of the image is a gray square containing a technical diagram of intersecting lines and circles, overlaid with the white text \"Fibonacci 24/7\". Directly below this square, the name \"Larry Pesavento\" is printed in a smaller white font. Further down, the words \"FIBONACCI 24/7\" appear in larger white capital letters, positioned above a blue rectangular button with the white text \"SIGN UP\". There are no people or physical equipment present in the scene. Across the sequence of frames, the image remains entirely stationary; there is no movement, change in text, or shift in the background pattern, indicating a still promotional slide."
+}

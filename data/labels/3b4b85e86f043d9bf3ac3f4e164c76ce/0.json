@@ -1,0 +1,15 @@
+{
+  "video_id": "3b4b85e86f043d9bf3ac3f4e164c76ce",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-109.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.813,
+    1.139
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A promotional video sequence features diverse individuals using smartphones in an outdoor urban setting. The clip begins with an abstract green and blue background overlaid with yellow text that reads \"WHILE THEY ANALYZE CHANTS\". The scene then shifts to a series of shots showing different people: a fair-skinned woman in a yellow top, a man in a denim jacket with headphones around his neck holding a coffee cup, another woman in a beige lace top, and a man in a blue vest. Each person is focused on their mobile device. Overlaid yellow text progressively appears across these shots, transitioning from the word \"JOIN\" to the phrase \"JOIN AN INTERACTIVE TRADING\". The individuals remain centered in their respective frames, maintaining their focused expressions and posture as the text animations evolve over the footage."
+}

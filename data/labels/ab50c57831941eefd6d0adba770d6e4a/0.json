@@ -1,0 +1,15 @@
+{
+  "video_id": "ab50c57831941eefd6d0adba770d6e4a",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-266.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.604,
+    0.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A professional American football game is being played on a green grass field with white yard markers and red boundary lines. Players from two teams, one wearing black jerseys and another in white, are positioned on the line of scrimmage. A digital scoreboard at the top shows the situation as \"1st & 10\" for the team with a \"G\" logo, facing a team with a falcon logo. The game clock reads \"1:55\" and the play clock shows \":17\". In a picture-in-picture window, a blond man in a dark blue shirt watches the action. An on-screen prompt reads \"HOLD THE LINE\" and notes \"Using Team has improved blocking.\" As the sequence progresses, the play begins, and the players engage in physical contact at the line of scrimmage. The game clock advances to \"1:54,\" while the play clock remains at \":17.\""
+}

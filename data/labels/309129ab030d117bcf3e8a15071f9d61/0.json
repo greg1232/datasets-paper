@@ -1,0 +1,15 @@
+{
+  "video_id": "309129ab030d117bcf3e8a15071f9d61",
+  "url": "./data/segments/3hGuLEduWLM-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.422,
+    1.266,
+    2.109,
+    2.953
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two small brown and grey birds are perched on a white ledge against a soft, blurred green background. One bird faces the right with its beak wide open as if chirping, while the other bird stands with its back to the viewer. In the first frame, the chirping bird is slightly further back. As the sequence progresses, the bird on the left moves closer to the other bird, maintaining its open-beak expression. Yellow Marathi text appears at the top and bottom of the image. The text at the top reads \"\u091a\u093f\u0935 \u091a\u093f\u0935 \u091a\u093f\u092e\u0923\u0940\" and the text at the bottom reads \"\u092e\u0930\u093e\u0920\u0940 \u092c\u093e\u0932\u0917\u0940\u0924\". These captions remain consistent across all frames, overlaid on the natural scenery."
+}

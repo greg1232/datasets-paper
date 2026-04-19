@@ -1,0 +1,15 @@
+{
+  "video_id": "c9363b09e15f42a194ef314864d81cd3",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.213,
+    0.638,
+    1.064,
+    1.489
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Inside a vehicle, a person's hand reaches toward the steering column to operate a control lever. The setting is the driver's seat, with the dashboard and instrument cluster visible in the background. The dashboard contains various gauges and text, including \"UNLEADED FUEL ONLY,\" \"CHECK GAUGES,\" and labels such as \"INST/AVE,\" \"RANGE,\" and \"FUEL.\" A red warning light is illuminated on the instrument panel. As the sequence progresses, the person's hand grips the lever and pushes it upward. The lever moves from a lower position to a higher one, coinciding with the movement of the person's fingers and palm. The background remains static, while the only movement is the interaction between the hand and the lever against the backdrop of the car's interior."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "122e274465977fa6ff79ea9c444c6241",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.7,
+    2.1,
+    3.5,
+    4.9
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a split-screen news broadcast from \"PLUS POLITICS.\" On the left side of the screen, a man wearing a dark suit, white shirt, and tie speaks while gesturing with his hands. Behind him is a blue digital backdrop with the words \"PLUS POLITICS\" and a circular graphic. On the right side of the screen, a man wearing a red kufi cap and a dark patterned garment is shown in a close-up shot against a plain wall. A purple and blue logo is visible in the top left corner of each scene. A banner across the bottom of the screen displays the text \"PLUS POLITICS\" followed by the headline \"NIGERIA NEEDS ME \u2013 BOLA TINUBU.\" Further down, the text \"WATCH ONLINE\" is paired with the URL \"WWW.PLUSTVAFRICA.COM/LIVE-TV\" in the top sequence, while the bottom sequence replaces this with \"SUBSCRIBE\" and the URL \"WWW.YOUTUBE.COM/PLUSTVAFRICA.\" The men's facial expressions and hand positions shift slightly as the clip progresses."
+}

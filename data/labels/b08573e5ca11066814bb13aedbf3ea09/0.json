@@ -1,0 +1,15 @@
+{
+  "video_id": "b08573e5ca11066814bb13aedbf3ea09",
+  "url": "./data/segments/3JYDT8lap5U-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.83,
+    26.49,
+    44.15,
+    61.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard, wearing a white shirt and dark blazer, delivers a presentation at EuroPython in Edinburgh on 29 July 2018. He stands to the left of a large projection screen, gesturing with his hands as he speaks. The presentation slides focus on technical software concepts. Initial slides display a \"DAGS OVERVIEW IN LIST SCREEN\" and a \"DETAILED DAG VIEW,\" featuring diagrams and lists of tasks. Later slides shift to a section titled \"OPERATORS ARE EASY TO DEFINE,\" showing snippets of Python code including a function named `crypto_prediction()`. The footer of each slide consistently features the \"europython\" logo and the text \"Edinburgh 23 29 July 2018\". As the presentation progresses, the man remains in the same position, though his posture and hand gestures shift as he explains the content on the screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "32e768f24be7ab9ba5b93aa230290c6f",
+  "url": "./data/segments/3iUTkJy84EY-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.69,
+    2.07,
+    3.45,
+    4.83
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses, wearing a light green embroidered tunic and a dark beaded necklace, speaks against a solid dark background. She is centered in the frame, and a small lapel microphone is clipped to her garment. As she speaks, her facial expressions shift from a slight smile with closed eyes to a wider, open-mouthed smile, and then back to a soft expression with her eyes partially closed. In the upper half of the scene, a small \"NPTEL\" logo is visible in the lower corner of the frame. The bottom half of the scene features white text at the bottom left and right that reads \"Prof. Rupal Dalal\" and \"IIT Bombay,\" accompanied by a circular emblem to the left of the text. The woman remains in the same position throughout, with only her facial movements changing as she talks."
+}

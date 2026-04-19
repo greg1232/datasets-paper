@@ -1,0 +1,15 @@
+{
+  "video_id": "075ab797c082c97c0200bdcc327729b5",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.208,
+    0.625,
+    1.042,
+    1.458
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with a beard and short dark hair, wearing a navy blue t-shirt, sits in a room during a livestream. In the foreground, a yellow piece of paper rests atop a white box, which is positioned on a table covered with a colorful mat featuring green palm trees and an orange semi-circle. On the table, there is also a black electronic device. The text \"JASPYS\" and \"CASEBREAKS.COM\" is prominently displayed on the screen. As the scene progresses, a hand enters from the top left, reaching toward the yellow paper. The person in the background remains seated, looking toward the center of the frame. The camera angle remains static, focusing on the table and the person, capturing the slight movement of the hand interacting with the objects on the mat."
+}

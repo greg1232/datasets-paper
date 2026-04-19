@@ -1,0 +1,15 @@
+{
+  "video_id": "76e55885fe84c89dbfaa1b91d831e237",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-268.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.318,
+    0.954,
+    1.59,
+    2.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a dark green t-shirt with the text \"ION NEVER DO SHIT AT WORK\" is speaking into a professional microphone. He is situated in a room filled with framed photos on the wall and clothing racks in the background, including a white long-sleeved shirt on a mannequin. Two logos are visible at the bottom of the scene: one on the left showing a circular emblem with \"THE\" and \"TAPE\" and another on the right with red text reading \"DripFLY 101\". Throughout the sequence, the man shifts his facial expressions and head position as he talks, moving from a slight smile and gaze toward the side to a more focused, open-mouthed speaking posture. The background elements and equipment remain static as he gestures with his hands and speaks."
+}

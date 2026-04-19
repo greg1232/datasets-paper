@@ -1,0 +1,15 @@
+{
+  "video_id": "acfdb6d66d9d231afcc4bd08b144d4f0",
+  "url": "./data/segments/3Smz5pevbI4-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.59,
+    19.77,
+    32.95,
+    46.129
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands at a podium in a professional setting, likely a conference or presentation hall. He is wearing a light-colored button-down shirt, a grey blazer, and dark trousers, with a name tag pinned to his lapel. Behind him stand two flags: the United States flag and a dark blue flag. The background features a wall with the repeating text \"UNITED STATES INSTITUTE OF PEACE\" printed in a grid pattern. As the sequence progresses, the man engages in active gesturing while speaking. He begins by gesturing with his right hand, then raises his arm higher, and eventually shifts his movements to his left hand, while keeping his right hand in his pocket for parts of the presentation. He remains positioned behind the wooden podium, facing an audience that is not visible in the frames."
+}

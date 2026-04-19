@@ -1,0 +1,15 @@
+{
+  "video_id": "b0307a36336d532e018dc7dcb8a362ec",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-220.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.492,
+    1.476,
+    2.461,
+    3.445
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Set against a backdrop of a dark, star-filled galaxy with a hazy cosmic center, a sequence of white text appears incrementally across the screen. The first frame displays \"EVERYTHING IN\", which expands in the next frame to read \"EVERYTHING IN THE UNIVERSE IS GOVERNED\". The text then shifts in the following frame to simply \"THE\", before concluding with the full phrase \"THE FIBONACCI SEQUENCE\". Throughout all frames, a consistent blue graphic banner spans the lower portion of the screen. This banner contains the name \"Basil Chapman\" in a larger font, with a smaller line of text underneath that reads \"The Tiger Technicians Hour | June 8th, 2022\". No people or physical objects are present; the scene consists entirely of static cosmic imagery and evolving on-screen text."
+}

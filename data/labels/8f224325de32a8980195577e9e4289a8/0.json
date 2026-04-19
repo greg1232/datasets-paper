@@ -1,0 +1,15 @@
+{
+  "video_id": "8f224325de32a8980195577e9e4289a8",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-140.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.255,
+    0.425,
+    0.595
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This news broadcast features a series of graphics overlays on a background image of a government building. A red banner at the top of each frame reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". On the left, a portrait of a man is accompanied by the text \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\". On the right, two portraits are shown: one of a man labeled \"\u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930\" and another smaller portrait labeled \"\u0935\u093f\u091c\u092f \u091a\u094c\u0927\u0930\u0940\". In the center, a large yellow and red \"BREAKING NEWS\" banner spans the bottom. As the sequence progresses, additional graphics appear, including a box labeled \"\u0938\u092d\u093e\" and another stating \"\u0915\u0941\u0932 \u0938\u0940\u091f\u0947\u0902 42\". A map of West Bengal appears with the text \"\u092a\u0936\u094d\u091a\u093f\u092e \u092c\u0902\u0917\u093e\u0932\" and \"2019 \u0932\u094b\u0915 \u0938\u092d\u093e\" overlaid on it. A man in a white shirt is shown in the center of the screen during the later frames. A timestamp at the bottom right indicates \"10:08 PM\"."
+}

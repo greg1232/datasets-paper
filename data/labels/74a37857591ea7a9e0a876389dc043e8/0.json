@@ -1,0 +1,15 @@
+{
+  "video_id": "74a37857591ea7a9e0a876389dc043e8",
+  "url": "./data/segments/3Smz5pevbI4-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.558,
+    22.673,
+    37.788,
+    52.903
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a white screen that progressively populates with columns of black text. Initially, a single column on the left is visible under the heading \"Pro-Israeli (x16),\" containing a quote stating, \"Palestinians have wasted 60 years. In that amount of time they could have developed s'country next to israel, and together with israel they could be experiencing a strong economic and modern country, but instead they chose violence.\" As the sequence progresses, a second column appears to the right under the heading \"Pro-Palestinian (x16),\" which reads, \"Like South Africa's Apartheid regime, Israel seeks to relegate its majority religious minority population to the status of non-citizens in their own homeland, through a combination of armed terror and racist segregation laws.\" Eventually, two additional columns appear: \"Control (x16) (Irrational),\" which discusses New Orleans and Hurricane Katrina, and \"Control (x16) (Neutral),\" which describes the benefits of eating watermelon."
+}

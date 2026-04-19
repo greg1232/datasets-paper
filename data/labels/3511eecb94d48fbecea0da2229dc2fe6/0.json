@@ -1,0 +1,15 @@
+{
+  "video_id": "3511eecb94d48fbecea0da2229dc2fe6",
+  "url": "./data/segments/3bWyuKTElpE-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    206.25,
+    618.75,
+    1031.25,
+    1443.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The image depicts a title card for \"The Weird Circle Radio Program.\" The visual style is a high-contrast, stylized illustration featuring a man in a white dress shirt and a black necktie. He is positioned centrally, with his arms outstretched and a wide, intense expression on his face. Behind him, two skeletal figures are visible, flanking his shoulders within a light blue circular glow. The text \"The Weird Circle\" is written in a red, stylized font that curves around the bottom of the central image, while the phrase \"Radio Program\" appears in a smaller, plain white font to the right. A small, grey circular logo resembling a paw print is located in the upper left corner. Throughout the sequence, the image remains static, with no changes in position, clothing, or text across the frames."
+}

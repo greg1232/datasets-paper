@@ -1,0 +1,15 @@
+{
+  "video_id": "ec5c500aa724629fad0049e19f0dd1c9",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-133.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.5,
+    0.833,
+    1.167
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a set of athlete statistics on a purple background. The top half of the screen contains the word \"KEY\" followed by a line. Below this, there are three categories: \"SPD\" with a value of \"88\", \"ACC\" with a value of \"86\", and \"STR\" with a value of \"91\". Each value is accompanied by a green progress bar. Below these stats, the word \"GENERAL\" is written with a line underneath it. As the clip progresses, the screen shifts downward to reveal more \"GENERAL\" information. A second \"GENERAL\" header appears, followed by a row of physical attributes: \"HEIGHT\" listed as \"6' 5\"\", \"WEIGHT\" listed as \"275\", and another \"STR\" value of \"91\" with a corresponding green progress bar. The background remains a consistent dark purple throughout the movement."
+}

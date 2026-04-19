@@ -1,0 +1,15 @@
+{
+  "video_id": "e37275fa561da5397dc0982ce9906f7b",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-203.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen capture shows a user interface from the video game \"MADDEN NFL 23,\" specifically the \"ULTIMATE TEAM\" menu. The screen displays a player card for a defensive tackle, identified as \"WARREN SHEP,\" with an overall rating of \"95.\" The card lists various statistics, including \"STR 87,\" \"ACC 95,\" \"STR 94,\" \"TAK 92,\" \"PRC 93,\" \"BSM 97,\" \"TKM 94,\" and \"FNC 90.\" The player on the card is depicted in a white football uniform. In the background, behind the menu overlay, a person's face is partially visible, though blurred. The bottom left of the screen displays the text \"MADDEN NFL 23.\" Across the sequence of frames, the visual remains static, with no movement or changes in the on-screen elements, text, or the background image."
+}

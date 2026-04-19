@@ -1,0 +1,15 @@
+{
+  "video_id": "15b8c9ab384898c09320f27bf32b64b6",
+  "url": "./data/segments/3phuyH7Y05U-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.125,
+    1.875,
+    2.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a formal setting featuring a red curtain and a blue backdrop, several characters are gathered. A man with yellow skin, a large nose, and blue hair wears a blue suit jacket over a dark shirt and tie. He stands in the center, gesturing with his hands as he speaks to a man on the right, who is seen in profile and has yellow skin. To the left, a woman with yellow skin and red hair looks toward the speaker. Other characters, including one with blue hair and a purple cap, are visible in the background. Throughout the sequence, the man in the blue suit moves his hands and arms expressively; he starts with his right hand raised, moves it closer to his face, then brings both hands up near his chest and neck, adjusting his posture while maintaining his conversation with the man on the right."
+}

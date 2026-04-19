@@ -1,0 +1,15 @@
+{
+  "video_id": "95823164fd99417fb61e707ad555ec85",
+  "url": "./data/segments/3a0FD1177FA-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.584,
+    1.752,
+    2.92,
+    4.087
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a white smartwatch and light-colored nail polish is using a craft tool on a white gridded work surface. In the first frame, the person holds a grey punch tool against a small card that says, \"Hope your BIRTHDAY is filled with ALL THE best things\". To the left and right of the tool are pieces of floral patterned paper. As the sequence progresses, the person presses the tool down, and the on-screen text \"LABEL ME LOVELY Punch\" appears. In the final frames, the person pulls the card away to reveal a circular hole punched through the center of the birthday message. A red stamp and other crafting supplies are visible in the background. The logo \"Stamping Jill\" is visible in the bottom-left corner of the frames."
+}

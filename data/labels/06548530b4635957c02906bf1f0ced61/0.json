@@ -1,0 +1,15 @@
+{
+  "video_id": "06548530b4635957c02906bf1f0ced61",
+  "url": "./data/segments/3HgCF6yVXko-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.579,
+    1.737,
+    2.896,
+    4.054
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A handheld camera moves through a residential interior, starting in a narrow hallway and transitioning into a living area. The hallway features pale yellow walls, a dark brown wooden wardrobe, and a grey rectangular piece of furniture. A white electrical outlet is visible on the wall with a cable plugged into it. As the camera pans and moves forward, it reveals a bright living room with white tiled floors. In the background, a brown leather sofa sits on a red patterned area rug, positioned in front of a large window with cream-colored curtains. A television on a dark stand is partially visible on the right. The camera continues to move, shifting its angle to provide a wider view of the open-plan space, passing by the dark wooden wardrobe doors that act as a partition between the hallway and the main living area. No people are present in the scene."
+}

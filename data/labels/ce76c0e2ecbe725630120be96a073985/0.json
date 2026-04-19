@@ -1,0 +1,15 @@
+{
+  "video_id": "ce76c0e2ecbe725630120be96a073985",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.225,
+    0.676,
+    1.126,
+    1.577
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up view of a vehicle's dashboard and ignition area. A person wearing a light blue shirt is partially visible on the left side of the frame. A set of keys is inserted into the ignition switch. In the background, the instrument cluster is visible, featuring several analog gauges and digital displays. Legible text on the dashboard includes \"UNLEADED FUEL ONLY,\" \"RANGE,\" \"FUEL,\" and \"INST/AVER.\" A red warning light displays the text \"DOOR AJAR.\" As the sequence progresses, the camera angle shifts slightly, and the person's arm moves, causing the keys to sway. The lighting remains consistent, and the needles on the gauges stay stationary, indicating the vehicle is likely not in motion. The focus remains on the interaction between the driver's hand area and the ignition."
+}

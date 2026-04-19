@@ -1,0 +1,15 @@
+{
+  "video_id": "b140c9b2a22bf29dbc15d36e5e438bb8",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-208.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.772,
+    2.315,
+    3.858,
+    5.401
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light blue button-down shirt and dark trousers stands in a modern office or building lobby, facing away from the camera and looking out through large glass windows at city skyscrapers. He rests his hands on a ledge or railing. Across the bottom of the scene, a consistent blue graphic bar displays the text \"Basil Chapman\" in a larger font, followed by \"The Tiger Technicians Hour | June 8th, 2022\" in a smaller font. As the video progresses, white text overlays appear in the center of the frame. It first displays \"LIKE ANY ENDEAVOUR\", which then changes to \"BEFORE YOU DECIDE\". In the subsequent sequence, the text briefly shows only \"GET\" before transitioning to the final phrase, \"GET ADVICE FROM EXPERTS\". The man remains in a relatively static profile position throughout these text changes."
+}

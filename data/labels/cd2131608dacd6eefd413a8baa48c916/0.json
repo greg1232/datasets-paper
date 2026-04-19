@@ -1,0 +1,15 @@
+{
+  "video_id": "cd2131608dacd6eefd413a8baa48c916",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.805,
+    2.415,
+    4.025,
+    5.635
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This video sequence presents a series of presentation slides for a course on \"CRYOGENIC ENGINEERING.\" The header of each slide reads \"Tutorial \u2013 4\" and includes the bullet point \"Work/unit mass of gas liquefied.\" At the bottom of every frame, a banner identifies the instructor as \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay,\" accompanied by the NPTEL logo on the left. As the video progresses, mathematical expressions are sequentially added to the center of the white slide. First, the equation \"W/m = 486.2\" appears. Subsequently, a second expression, \"y = 0.0215,\" is added next to the first formula. The layout remains static across the frames, with the only changes being the incremental appearance of these calculated values on the screen."
+}

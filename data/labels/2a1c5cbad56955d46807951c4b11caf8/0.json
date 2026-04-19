@@ -1,0 +1,15 @@
+{
+  "video_id": "2a1c5cbad56955d46807951c4b11caf8",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-130.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.204,
+    0.613,
+    1.022,
+    1.431
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a sterile surgical environment, medical professionals wearing blue surgical scrubs and gloves perform a procedure on a patient's skin. The scene focuses on a surgical incision where a metallic retractor is used to hold the wound open. A surgeon uses a pair of surgical forceps and a needle to carefully stitch the tissue. As the sequence progresses, the surgeon pulls the suture thread through the skin to close the incision. On-screen graphics are present in each frame, featuring a purple arrow and a purple circle containing the text \"Day 5\" on the left, and a logo with the text \"Sim Week\" on the right. The actions are focused and precise, with the surgeons' hands moving incrementally to secure the stitches within the surgical field."
+}

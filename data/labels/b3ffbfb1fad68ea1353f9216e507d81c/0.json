@@ -1,0 +1,15 @@
+{
+  "video_id": "b3ffbfb1fad68ea1353f9216e507d81c",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.709,
+    0.993
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows a automotive fuse box containing various colored fuses. A hand enters the frame, pointing a finger toward the fuse panel. Legible text labels on the box include \"L.C.D.\", \"10\", \"BRAKE\", \"RADIO\", and \"AIR BAG\". A red wire extends from the top right area of the panel. As the sequence progresses, the finger moves closer to the fuse slots, specifically targeting the area labeled \"BRAKE\". The person's skin is pale, and only their finger and part of their hand are visible. The fuse box is made of dark grey plastic and appears slightly dusty. The perspective remains constant, focusing on the interaction between the hand and the specific fuse slots of the vehicle's electrical system."
+}

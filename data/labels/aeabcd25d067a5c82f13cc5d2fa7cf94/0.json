@@ -1,0 +1,15 @@
+{
+  "video_id": "aeabcd25d067a5c82f13cc5d2fa7cf94",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-730.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.151,
+    0.454,
+    0.756,
+    1.058
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark curly hair tied up in a bun wears a dark green t-shirt and black headphones while sitting in a recording studio. She is positioned in front of a professional black microphone and a backdrop featuring logos and text, including the phrase \"S TALK 101,\" \"CAST,\" and \"About It!\". To her right, a backdrop also displays \"S TALK 101\" and \"About It!\". On the table in front of her, there are small branded items and labels that read \"BOSS TALK 101\". Behind her, a framed picture shows a person's hands. Across the frames, the woman maintains a similar posture and expression, slightly smiling and looking towards someone off-camera, while her facial expression shifts subtly. The lighting remains consistent throughout the scene, and there is no significant movement of the equipment or the woman's position."
+}

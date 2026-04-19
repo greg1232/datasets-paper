@@ -1,0 +1,15 @@
+{
+  "video_id": "d584c3ff7210e092c8b237e7500bcf9c",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.16,
+    3.481,
+    5.802,
+    8.123
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a pink tank top and black shorts is practicing basketball in an indoor gymnasium. The gym features a polished wooden court with blue-painted sections, a blue wall, and blue tiered bleachers. In the first scene, the man is captured mid-air, jumping toward the hoop while holding a basketball. By the second scene, he has landed and is standing still, while the basketball is seen flying through the air toward the hoop. In the third scene, the man jumps again, reaching upward as the ball is positioned near the rim of the basketball hoop. Finally, the man is shown standing on the court, holding the basketball in both hands against his waist. The setting remains constant throughout, with the basketball hoop and surrounding gym equipment visible in every shot."
+}

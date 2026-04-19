@@ -1,0 +1,15 @@
+{
+  "video_id": "af4839f871f54bf611e112e85aebed75",
+  "url": "./data/segments/3tXiKB90OM0-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.25,
+    3.75,
+    6.25,
+    8.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person stands with their back to the camera, facing the side of a large, light-blue ship. The individual is wearing a dark grey jumpsuit and a bright orange safety vest with the text \"HD 06\" printed in black on the back. Above them, the number \"44\" is painted in large, white numerals on the hull of the vessel. A white line runs horizontally along the ship's side. The person remains relatively stationary throughout the sequence, looking toward the ship. To their right, a small portion of another person wearing similar orange gear is visible. White equipment or structural components are attached to the side of the ship near the person. Across the frames, the scene remains almost entirely static, with only subtle movements in the lighting and the slight shift in the person's posture."
+}

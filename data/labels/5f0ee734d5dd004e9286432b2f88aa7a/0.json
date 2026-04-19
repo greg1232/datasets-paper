@@ -1,0 +1,15 @@
+{
+  "video_id": "5f0ee734d5dd004e9286432b2f88aa7a",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.354,
+    1.062,
+    1.771,
+    2.479
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person uses a red spatula to stir a large quantity of cooked, light-brown grains in a wide, silver metal bowl. The bowl sits on a light-colored wooden surface alongside a small white plate and a red bowl, both containing a portion of the same grains. The person's hand is visible on the left side of the scene, moving the spatula through the mixture. As the sequence progresses, the spatula pushes the grains, causing them to pile up and shift within the bowl. The upper left corner of the scene features a logo and the text \"UCAR CENTER FOR SCIENCE EDUCATION\". The background consists of a neutral-toned wall and a wooden table. The action is a continuous process of mixing or scooping the food, with the grains shifting position in each subsequent frame."
+}

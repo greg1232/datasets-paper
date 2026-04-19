@@ -1,0 +1,15 @@
+{
+  "video_id": "706f81482fffdc989e4673ec205bc2af",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-129.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.359,
+    1.076,
+    1.793,
+    2.511
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A speaker stands at a podium in a room with wood-paneled walls and brown vertical blinds in the background. He wears a dark vest over a white shirt and glasses. A seated audience faces him, including a man in a grey plaid shirt, a woman in a blue patterned shawl, and another woman in a yellow sweater. The speaker gestures with his right hand while talking, moving his arm from a resting position to a raised position across the sequence. To the left of the speaker, another person is partially visible behind a smaller desk. The text \"ORCA\" is superimposed in white on the right side of the scene. As the frames progress, the speaker's gesture becomes more pronounced, and the audience remains seated and attentive, with very little movement among them."
+}

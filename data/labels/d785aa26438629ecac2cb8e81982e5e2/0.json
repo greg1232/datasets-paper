@@ -1,0 +1,15 @@
+{
+  "video_id": "d785aa26438629ecac2cb8e81982e5e2",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.038,
+    3.113,
+    5.188,
+    7.263
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a dark-themed terminal window filled with scrolling white text, appearing as a series of network logs. The logs contain IP addresses followed by timestamps and HTTP requests, such as \"GET /search-status HTTP/1.0\" and \"GET /wp-login.php HTTP/1.0\". The top of the window displays \"Activities 0 Terminal\" and \"Oct 28 00:21\", while the center reads \"Ternmod\". A small profile icon of a man is visible in the upper right corner. As the sequence progresses, the text within the terminal window scrolls upward, revealing new lines of log entries and hiding the previous ones. The layout of the interface remains static, with a bottom status bar showing \"0 subshell\" and \"0 jobs\". The consistent visual of rapid text movement suggests a real-time monitoring process or a simulated cyber attack."
+}

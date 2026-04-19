@@ -1,0 +1,15 @@
+{
+  "video_id": "07cc1a120e4a0fa5f90f05b1e1c300ef",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    76.242,
+    228.725,
+    381.208,
+    533.692
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video sequence alternates between two different settings. One setting is a kitchen featuring a woman with blonde hair wearing a black shirt, positioned in front of a window with blue curtains. In the other setting, a man with dark skin wearing a grey polo shirt stands before a backdrop of mountains and a blue sky. The text \"UCAR CENTER FOR SCIENCE EDUCATION\" appears in the upper left corner of the scenes. In the first scene, the woman is looking down. The scene then cuts to the man holding two large, white, irregular pieces of a substance. The video returns to the woman, who is now smiling. It then cuts back to the man, who is speaking. Next, the woman is seen holding a white cloth. The scene transitions back to the man looking downward, and then back to the woman leaning forward. Finally, the video ends with the man smiling broadly at the camera."
+}

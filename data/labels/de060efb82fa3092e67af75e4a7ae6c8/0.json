@@ -1,0 +1,15 @@
+{
+  "video_id": "de060efb82fa3092e67af75e4a7ae6c8",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-074.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.265,
+    0.795,
+    1.325,
+    1.855
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands before a plain, light-colored background, delivering a presentation. He is wearing a dark blazer over a dark button-down shirt. A thin microphone stand is positioned in front of him, and a clear plastic water bottle sits on a surface nearby. At the top of the scene, the logo \"mediasite by koretechnologies\" is visible. As the sequence progresses, the man shifts his posture and facial expressions, alternating between a neutral speaking gaze and a slight smile. He uses hand gestures to emphasize his points, extending his arm and open hand outward before bringing his arms back toward his sides. The camera remains static, capturing him from the waist up as he speaks and moves naturally within the frame."
+}

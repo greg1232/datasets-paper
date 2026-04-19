@@ -1,0 +1,15 @@
+{
+  "video_id": "df5aba44104c927916a867540e0d0fe1",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.502,
+    1.506,
+    2.51,
+    3.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording demonstrates a computer interface featuring a print settings menu alongside a video. The print menu contains a list of names including \"BRIAN FRANK\", \"Kennard Bolt\", and \"Kyle Barber\" paired with regional locations like \"ATLANTIC\", \"NORTHWEST\", and \"SOUTHEAST\". To the right of the menu, a video player shows a man with a beard wearing a black shirt, positioned in front of several shelves of collectibles. On-screen logos for \"JASYPS CASEBREAKS.COM\" are visible, and a YouTube \"Subscribe\" button is present. As the sequence progresses, the cursor interacts with the print settings; a dropdown menu for \"Headers & footers\" is clicked, expanding to reveal options such as \"Page numbers\", \"Workbook title\", and \"Sheet name\". The overall interface remains consistent, with the man in the video continuing to speak while the user navigates the print configuration settings."
+}

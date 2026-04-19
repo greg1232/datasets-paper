@@ -1,0 +1,15 @@
+{
+  "video_id": "6b75caff543fe80804ed22488597ae84",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-185.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.767,
+    2.302,
+    3.837,
+    5.372
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is seen in a recording studio, wearing black headphones and a white t-shirt. He is positioned in front of a large professional microphone attached to a boom arm, which bears the text \"Shure SM7B\". Behind him is a wall covered in grey, ribbed acoustic foam panels. Throughout the sequence, the man remains in the same position, looking slightly upward and to his left. He is speaking, with his mouth open and changing shape as he articulates words. A small, partially visible red logo is printed on the left side of his chest. The only movement across the frames is the slight shifting of his facial expressions and the movement of his mouth as he continues to talk."
+}

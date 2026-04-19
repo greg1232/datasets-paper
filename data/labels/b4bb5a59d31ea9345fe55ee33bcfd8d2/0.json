@@ -1,0 +1,15 @@
+{
+  "video_id": "b4bb5a59d31ea9345fe55ee33bcfd8d2",
+  "url": "./data/segments/3TQScsCOS2k-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.49,
+    1.47,
+    2.45,
+    3.43
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair, wearing a black short-sleeved shirt with a white animal print, is speaking in front of a green jungle-themed backdrop. The backdrop features the large red text \"JUMANJI\" with the smaller white and yellow text \"WELCOME TO THE JUNGLE\" underneath it. In the initial scene, she gestures with her left hand while holding a black folder. As the sequence progresses, she brings her left hand up to touch her chin and face, then gestures again with both hands while speaking. A small white logo with \"MTV\" is partially visible on the folder she holds. The woman remains centered in the frame, shifting her posture and hand movements throughout the clip while maintaining a conversation."
+}

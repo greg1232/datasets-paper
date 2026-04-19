@@ -1,0 +1,15 @@
+{
+  "video_id": "ef66fe3f3e0a9a4751d46b58d9451dfd",
+  "url": "./data/segments/3E6ctN22V7k-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a red garment holds several small, colorful rectangular cards in their hand. The hand, positioned on the right side of the frame, grasps the cards, which appear to be in shades of blue, yellow, and green. The background is softly blurred, showing hints of a light-colored object and other indistinct shapes. As the sequence progresses, the hand subtly shifts its grip on the cards. On-screen text appears at the bottom of the frames. In the first frame, the text reads, \"It is really the good approach.\" In the subsequent three frames, this text changes to, \"This is the first and the last thing we should give to people who have lost everything.\" The scene remains focused on the hand and the cards, with no other people or equipment visible."
+}

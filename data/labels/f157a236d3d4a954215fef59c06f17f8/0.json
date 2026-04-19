@@ -1,0 +1,15 @@
+{
+  "video_id": "f157a236d3d4a954215fef59c06f17f8",
+  "url": "./data/segments/3Smz5pevbI4-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.091,
+    9.272,
+    15.453,
+    21.634
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"Neural Basis of Cognitive Empathy\" is displayed, featuring a white background with a red header. The slide contains a photograph of a modern building campus with green trees and the text \"MIT\" placed to the right of the image. Below the image, three columns of data describe different participant groups: \"Arab\", \"Control\", and \"Israeli\". For the Arab group, it lists \"n = 16 (8f)\", \"Age: 21.5 y\", and \"Years in U.S.: 5.5\". For the Control group, it lists \"n = 13 (5f)\", \"Age: 24.6 y\", and \"Years in U.S.: --\". For the Israeli group, it lists \"n = 16 (8f)\", \"Age: 29.0 y\", and \"Years in U.S.: 3.6\". At the bottom right, a citation reads \"Bruneau and Saxe, NeuroImage, 2010\". The scene remains completely static across all frames, with no movement, changes in text, or additional visual elements appearing."
+}

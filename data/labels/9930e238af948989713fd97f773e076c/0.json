@@ -1,0 +1,15 @@
+{
+  "video_id": "9930e238af948989713fd97f773e076c",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.584,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a white long-sleeved shirt and a silver watch on their left wrist is typing on a laptop keyboard. The laptop is open, and the person's hands are positioned over the keys. The scene takes place outdoors, as greenery is visible in the soft-focus background. A black strap, possibly from a bag or seat, crosses diagonally behind the person's shoulder. A blue text banner appears at the bottom of the screen, with text that updates sequentially across the frames. It begins with the word \"TOM\", then changes to \"TOM O'BRIEN TRADING\", then to \"TOM O'BRIEN HAS BEEN TRADING MARKETS\", and finally reads \"TOM O'BRIEN HAS BEEN SUCCESSFULLY TRADING MARKETS FOR OVER 30\". The person's hands continue to move and type as the text expands across the banner."
+}

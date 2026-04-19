@@ -1,0 +1,15 @@
+{
+  "video_id": "3cc33a063d8c54c447f7f002cc51ed70",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-367.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.081,
+    0.244,
+    0.406,
+    0.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair, wearing a dark blue long-sleeved shirt, is seen from the chest up in a small video window on the left side of a video game interface. The background shows a football stadium with \"FedEx\" signage and a crowd. The screen displays a play-calling menu for a football game with various tabs such as \"COACH SUGGESTIONS,\" \"PLAYER,\" \"FORMATION,\" \"CONCEPT,\" and \"FAVORITES.\" On the right side, a section titled \"PREVIOUS PLAY\" shows a play called \"MIKE BLITZ\" and text that reads \"SAVE RANGE\" and \"Player is a blocker job holding own the ball.\" The game state is indicated at the top as \"4th & 8\" with \"M\" leading \"Exo\" 14 to 7, with \"3rd\" quarter, \"3:25\" remaining, and \"28\" seconds on the play clock. Across the frames, the scene remains static with no visible movement or changes in the on-screen information."
+}

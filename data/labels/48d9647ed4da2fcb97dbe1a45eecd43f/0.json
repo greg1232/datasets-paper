@@ -1,0 +1,15 @@
+{
+  "video_id": "48d9647ed4da2fcb97dbe1a45eecd43f",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting, two men sit in front of a television and a shelf filled with media cases. A neon sign above them reads \"OUR STUPID REACTIONS,\" though the lettering flickers and becomes partially obscured in later frames. The man on the left wears a dark grey t-shirt and smiles, while the man on the right wears a light grey t-shirt and a necklace, resting his chin on his hand. Superimposed on the scene is a smaller video window showing a dark cinematic scene with the text \"My life doesn't hold more value than my family.\" as well as a small logo that says \"fanmail\". As the sequence progresses, the man on the left continues to smile and look toward the man on the right, and the image within the small video window shifts, showing a figure moving through a dark environment."
+}

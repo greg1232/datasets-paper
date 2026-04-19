@@ -1,0 +1,15 @@
+{
+  "video_id": "48554fd733698f1a471556d5e7037c27",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.681,
+    2.044,
+    3.406,
+    4.769
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a black plastic sleeve containing a baseball card over a white surface featuring an orange and green logo with palm trees. The scene is presented with a picture-in-picture effect, showing a man with a beard wearing a navy blue t-shirt with a yellow logo, sitting in a room with equipment and a computer monitor in the background. The on-screen text reads \"JASPYS\" and \"CASEBREAKS.COM\" in orange and white letters. Across the frames, the hands manipulate the black sleeve, shifting its position and tilting it slightly. The man in the smaller inset window remains seated, watching the action. The lighting creates reflections on the glossy surface of the black sleeve, which changes as the sleeve is moved. The overall setting appears to be a dedicated space for opening and displaying collectible cards."
+}

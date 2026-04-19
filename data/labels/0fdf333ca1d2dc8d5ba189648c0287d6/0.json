@@ -1,0 +1,15 @@
+{
+  "video_id": "0fdf333ca1d2dc8d5ba189648c0287d6",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.169,
+    0.507,
+    0.845,
+    1.182
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand enters the frame to point at a white informational display board. The board features a central green circle containing the text \"Powerful Chips that Consume Orders of Magnitude less Power,\" surrounded by several categories arranged in a radial diagram. These categories include \"Food & Cosmetics,\" \"Substance Abuse,\" \"Oncology,\" \"Non Inv Diab,\" \"Exercise Monitoring,\" \"Outdoor Exposure,\" and \"Internal Air Quality.\" Small illustrative images are associated with each category, such as a medical diagram of the human body under \"Oncology\" and \"Substance Abuse,\" and a picture of a building under \"Internal Air Quality.\" As the sequence progresses, a hand appears from the left, pointing toward the \"Food & Cosmetics\" section. The camera angle shifts slightly, focusing more closely on the central text and the surrounding categorical labels as the person interacts with the board."
+}

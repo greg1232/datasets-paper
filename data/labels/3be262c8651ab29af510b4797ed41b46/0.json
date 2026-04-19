@@ -1,0 +1,15 @@
+{
+  "video_id": "3be262c8651ab29af510b4797ed41b46",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.976,
+    1.627,
+    2.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical simulation setting, several healthcare workers in pink and blue scrubs and face masks surround a patient lying on a hospital bed. In the initial frames, a person in pink scrubs and gloves stands at the head of the bed, while another professional in pink scrubs and a black mask focuses on the patient's upper body. The patient is partially covered with a white sheet and a patterned gown. As the sequence progresses, the professional in the black mask reaches toward the patient's head and performs a medical maneuver, while other staff members observe from the background. A blue side rail is visible on the bed, and medical equipment stands in the room. The text \"Sim Week\" appears in the lower right corner of each frame. The scene depicts a coordinated medical exercise, with minimal movement between the staff members except for the focused action at the patient's head."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c99cdbd0ed480cb0478a6be8054b7ad4",
+  "url": "./data/segments/3P1vSUbet40-Scene-1005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.109,
+    0.328,
+    0.547,
+    0.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black baseball cap and a black t-shirt with the text \"CHECK IT\" is seated in a recording studio. He wears a silver chain and headphones and sits behind a professional microphone. In the background, a white wall features a vertical column of gold stars and the word \"HUSTLE\" repeated. To his right, large red and white text reads \"BOSS TALK 101\". The scene includes two on-screen logos: one on the left that says \"BOSS TALK 101 PODCAST\" and another on the right that reads \"BOSS TALK 101 by V Lugo Media\". Throughout the sequence, the man remains in a static seated position, looking slightly to his right with a neutral expression. There is no visible movement or change in the environment, clothing, or equipment across the frames, maintaining a consistent composition."
+}

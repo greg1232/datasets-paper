@@ -1,0 +1,15 @@
+{
+  "video_id": "fe86dec62b28f4abfe9da261ecfe8ae1",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.925,
+    5.775,
+    9.625,
+    13.475
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a grey baseball cap is seen in a small video call window at the top center of a computer screen. The main area of the display shows a dark interface containing a complex network diagram with circular nodes connected by lines. A white rectangular pop-up window is open over the diagram, featuring a blue flowchart with several rectangular blocks connected by arrows. Various browser tabs are open at the top of the screen, including titles such as \"Trial & Learning by Systemdynamics\", \"Futures of Society by Systemdynamics\", \"Insights Introduction to Systems\", and \"Rural Community Food System\". A sidebar on the right side of the interface lists a name, \"David Bedding\". The scene remains static across the sequence, with the person in the video call, the network diagram, and the flowchart window remaining in the same positions."
+}

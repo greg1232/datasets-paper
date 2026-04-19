@@ -1,0 +1,15 @@
+{
+  "video_id": "0cba0a4bc1fdaec1f462bc33d487d310",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-085.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.813,
+    1.139
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark jacket and blue jeans is seated on a green all-terrain vehicle (ATV) parked on a concrete surface. The setting appears to be a driveway or a paved area adjacent to a grassy yard and a building. To the right of the man, a red bucket is visible, though it is partially obscured by a dark, shadowed foreground structure that frames the scene. Across the sequence of frames, the man remains stationary on the ATV, though there are subtle shifts in his posture as he looks toward the camera. The lighting is bright, suggesting an outdoor daytime environment. There is no on-screen text or logos visible. The scene remains largely static, with the only minimal changes being the slight movements of the man while he sits on the vehicle."
+}

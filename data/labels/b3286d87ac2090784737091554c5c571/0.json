@@ -1,0 +1,15 @@
+{
+  "video_id": "b3286d87ac2090784737091554c5c571",
+  "url": "./data/segments/3mmDnftP1M8-Scene-089.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.151,
+    3.453,
+    5.755,
+    8.057
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a light-colored button-down shirt is centered within a white circular frame against a solid black background. He is smiling and facing slightly to the right. Throughout the sequence, the man remains stationary, and his expression and posture do not change. The text \"Ashish Raichur\" appears in a small white font to the left of the circular frame in the first and third frames, and to the left of the circular frame in the second and fourth frames. The visual composition remains identical across all stages of the clip, creating a static image of the man with the recurring name label."
+}

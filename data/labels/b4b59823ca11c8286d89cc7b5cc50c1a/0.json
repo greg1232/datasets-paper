@@ -1,0 +1,15 @@
+{
+  "video_id": "b4b59823ca11c8286d89cc7b5cc50c1a",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-219.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.265,
+    0.795,
+    1.325,
+    1.855
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video call and a digital mind map. The main area displays a black background with a complex network of interconnected circles containing various icons and text labels. Legible labels include \"Truth & Learning,\" \"Future of Society,\" \"Insights -> Introduction,\" \"Road Community Food Spot,\" \"The Idea,\" \"The Problem,\" \"The Solution,\" \"The Goal,\" \"The Plan,\" \"The Process,\" and \"The Result.\" A person wearing a dark baseball cap is visible in a small video window in the upper right corner. The browser tabs at the top of the screen echo the labels found within the mind map. Throughout the sequence, the view remains static, with the person in the video window remaining still and the digital diagram unchanging, depicting a frozen moment of a presentation or a virtual meeting."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5ed326f621f357ed580217336e603845",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.502,
+    1.506,
+    2.51,
+    3.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with glasses and headphones, wearing a dark blue t-shirt, is positioned in the lower-left portion of a video game interface. He is in a room with a decorated Christmas tree and a framed jersey featuring the number \"20\" on the wall behind him. The screen is overlaid with a sports game menu for a player named \"TROY POLAMALU,\" who is listed as \"#43 SS\" with a \"OVR\" rating of \"96.\" Various performance statistics are displayed in colored bars, including values like \"94,\" \"97,\" \"90,\" \"94,\" \"95,\" \"88,\" \"99,\" and \"95.\" Across the top of the screen, numeric values such as \"173,037,\" \"14,600,\" and \"2,343,543\" are visible. As the sequence progresses, the man's facial expression shifts from an open-mouthed look of surprise to a slight smile. The interface elements remain constant, though the player's action image and the menu highlights shift slightly as he navigates the screen."
+}

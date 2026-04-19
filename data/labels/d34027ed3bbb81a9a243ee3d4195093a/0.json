@@ -1,0 +1,15 @@
+{
+  "video_id": "d34027ed3bbb81a9a243ee3d4195093a",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.165,
+    24.495,
+    40.825,
+    57.155
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast titled \"PLUS POLITICS\" features a male presenter wearing a dark suit, white shirt, and red tie, speaking from a studio with a blue and green graphic background. To his right, a smaller inset window shows a man wearing a traditional red cap, identified by on-screen text as \"OLUSOLA OYEKANMI\" and \"POLITICAL ANALYST\" located in \"LAGOS.\" A banner at the top of the inset window reads \"ON THE PHONE.\" Below the presenter, a large white ticker displays the text \"NIGERIA NEEDS ME \u2013 BOLA TINUBU.\" The bottom of the screen includes channel information such as \"DStv CH 408\" and \"StarTimes CH 308,\" along with social media handles and a YouTube link \"WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE.\" Across the sequence of frames, the visual composition remains static, with the presenter and the remote analyst maintaining their positions and appearances."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0ea214eaa6b21a771ae47c169bbefcaa",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-162.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair and glasses stands behind a podium, speaking into a black microphone. He is wearing a light blue patterned button-down shirt featuring bird designs and a colorful yellow and green stripe across the chest, complemented by a long beaded necklace with a pendant. He is looking downward, appearing to read from papers resting on the podium. Behind him is a background of horizontal brown blinds. To the right of the man, the text \"ORCA\" is displayed in a white box with black lettering. Throughout the sequence of frames, the man remains in a stable position, making minimal movements as he continues to read and speak, while the overall setting, his attire, and the on-screen text remain unchanged."
+}

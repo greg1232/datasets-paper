@@ -1,0 +1,15 @@
+{
+  "video_id": "8eda3714e13eb01cb354336170e47c33",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.321,
+    0.963,
+    1.606,
+    2.248
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical simulation setting, three people are gathered around a patient lying in a hospital bed. A woman in blue scrubs, wearing a black mask and a stethoscope around her neck, stands on the left, leaning forward as she uses a stethoscope to listen to the patient. Next to her, another woman in blue scrubs and a black mask is also leaning in, reaching toward the patient with gloved blue hands. A third woman, wearing a dark grey polo shirt, a light blue surgical mask, and a stethoscope, stands on the right, observing the procedure while wearing blue gloves. The room contains a light-colored wall, a doorway, and a green chair in the background. On-screen text in each frame includes a pink figure icon with the words \"Day 1\" and a logo accompanied by the text \"Sim Week\". The scene remains largely static across the frames, with only slight movements in the posture and hand positions of the medical staff."
+}

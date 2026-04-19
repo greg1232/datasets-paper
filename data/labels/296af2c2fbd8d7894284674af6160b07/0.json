@@ -1,0 +1,15 @@
+{
+  "video_id": "296af2c2fbd8d7894284674af6160b07",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.933
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short blonde hair, wearing a black top, appears in a small circular inset overlay on a larger background image of a wooden table. The table holds several food items: a metal baking tray filled with golden-brown nuggets, a white plate with more nuggets, a red pepper, and a silver fish. The logo \"UCAR CENTER FOR SCIENCE EDUCATION\" is visible in the top-left corner of the scene. Throughout the sequence, the main background image remains static, while the woman in the circular inset changes her expression and posture. Initially, she looks forward with a neutral expression, then slightly shifts her head and closes her mouth more firmly, eventually looking slightly downward with a thoughtful or concerned expression. The environment behind her in the inset appears to be a kitchen."
+}

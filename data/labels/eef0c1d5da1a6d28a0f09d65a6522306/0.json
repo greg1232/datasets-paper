@@ -1,0 +1,15 @@
+{
+  "video_id": "eef0c1d5da1a6d28a0f09d65a6522306",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-456.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.102,
+    0.306,
+    0.51,
+    0.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair and white headphones sits in a room, wearing a dark blue t-shirt. He is positioned in front of a microphone, with a framed picture behind him and a decorated Christmas tree with colorful lights to his left. In the initial moments, he has an excited expression and holds up a dark rectangular object with a glowing red circle on it. As the sequence progresses, he lowers the object out of view and his expression shifts to one of surprise or shock, with his mouth open. The background remains consistent, featuring a framed image that contains the number \"20\" and a small rectangular logo in the top right corner. The focus remains on the man's changing facial expressions and gestures as he reacts to something off-camera."
+}

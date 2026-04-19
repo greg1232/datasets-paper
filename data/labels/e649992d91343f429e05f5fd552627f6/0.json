@@ -1,0 +1,15 @@
+{
+  "video_id": "e649992d91343f429e05f5fd552627f6",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-181.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.772,
+    2.315,
+    3.858,
+    5.401
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with gray hair wearing a light-blue button-down shirt stands behind a wooden podium in a room with red and tan walls, delivering a presentation to a seated audience. The audience consists of several people, including a woman in a yellow shirt and another in a blue-and-red patterned garment. A projector is mounted on the ceiling, and speakers are positioned on the sides of the room. The text \"ORCA\" is displayed in the lower right of each scene. The perspective shifts from a wide shot of the room, showing the audience from behind, to a closer, medium-shot of the speaker. As the camera moves closer, the speaker is seen gesturing and speaking while standing behind the podium, which features a small emblem. The audience remains seated and attentive throughout the sequence."
+}

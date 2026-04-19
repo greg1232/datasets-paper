@@ -1,0 +1,15 @@
+{
+  "video_id": "7fa0f1b41e18a713ffd000bfb44a694f",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.088,
+    0.263,
+    0.438,
+    0.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot shows the interior area of a vehicle's center console, featuring a grey plastic panel with a small compartment and a series of vents. A red line is drawn on the image to highlight a specific section of the paneling. The surrounding surfaces include tan-colored fabric upholstery and dark grey carpeting. As the scene progresses, the camera angle shifts slightly, moving downwards and towards the right. This motion provides a closer view of the gap between the grey console panel and the adjacent tan trim. No people, logos, or text are visible in the frames. The focus remains on the structural details and the intersection of the different materials within the car's interior."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2bde70471a1d309e9ee774f4c9a90882",
+  "url": "./data/segments/3mmDnftP1M8-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.641,
+    1.922,
+    3.203,
+    4.484
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light-colored, button-down shirt and black over-ear headphones with an attached microphone is positioned against a plain, light-colored wall. He is speaking and gesturing with both hands raised. In the beginning, his hands are open with fingers spread wide. As time progresses, he moves his hands slightly, bringing them closer to his torso and curving his fingers into a more claw-like gesture. His facial expression remains focused as he continues to talk. The text \"Ashish Raichur\" is visible in the bottom-left corner of each scene. The camera angle remains steady throughout, capturing him from the chest up, with the lighting creating soft shadows on the wall behind him."
+}

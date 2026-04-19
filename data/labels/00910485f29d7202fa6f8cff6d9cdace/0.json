@@ -1,0 +1,15 @@
+{
+  "video_id": "00910485f29d7202fa6f8cff6d9cdace",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.358,
+    1.075,
+    1.792,
+    2.508
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video displays a split-screen presentation featuring a spreadsheet on the left and a promotional sidebar on the right. The spreadsheet contains names and regions, including \"BRIAN FRANK\" paired with \"ATLANTIC,\" \"BRIAN FRANK*\" with \"CENTRAL,\" \"Kennard Bolt\" with \"NORTHWEST,\" \"BRIAN FRANK\" with \"PACIFIC,\" \"Kyle Barber\" with \"SOUTHEAST,\" and \"BRIAN FRANK\" with \"SOUTHWEST.\" The sidebar features a logo for \"JASPYS CASEBREAKS.COM\" and a small video inset of a man with a beard wearing a dark shirt. Below the inset, text prompts viewers to \"Hit the SUBSCRIBE button down below!\" next to a red YouTube Subscribe button. Across the bottom of the screen, a red banner displays \"WWW.JASPYSCASEBREAKS.COM\" in white lettering. The visual content remains static across the frames, with no movement, changes in clothing, or shifts in the on-screen text and layout."
+}

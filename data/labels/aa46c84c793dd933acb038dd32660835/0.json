@@ -1,0 +1,15 @@
+{
+  "video_id": "aa46c84c793dd933acb038dd32660835",
+  "url": "./data/segments/3QD9oO6sRns-Scene-145.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a graded baseball card in a protective plastic case. The card features a player in a dark jersey with \"BREWERS\" written across the bottom in blue and yellow text, and the name \"KESTON HIURA\" printed below it. A blue signature is visible across the image of the player. In the background, a man wearing a black t-shirt and a black baseball cap is partially visible behind a banner that reads \"BREAKS\" in large white letters. A small overlay graphic in the corner displays a logo and the text \"CASEBREAKS.COM\". Throughout the sequence, the hand holds the card steadily, while a white piece of paper or card enters the frame from the right, sliding behind the graded case to provide a contrasting background. The setting appears to be an indoor workspace with various items, including boxes, scattered on a table."
+}

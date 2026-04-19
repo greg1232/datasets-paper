@@ -1,0 +1,15 @@
+{
+  "video_id": "e76d5cc0b5096663a7ad760f8184c8f8",
+  "url": "./data/segments/3Kxl1O310k8-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.45,
+    1.35,
+    2.25,
+    3.15
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call displays a grid of participants in various indoor settings. One man wears glasses and a dark jacket, while another wears glasses and a dark shirt. A third man with a beard is seen in a dark garment. A woman with blonde hair is seen, and another woman wears a blue and white striped shirt. A man in a grey jacket and glasses is also present. One man gives a thumbs-up gesture. Some participants appear in multiple panels throughout the sequence. Tiny, illegible text appears at the bottom of some panels. The participants remain in their respective locations, with minimal movement, as they look toward their cameras. The scene transitions by repeating the same set of individual video feeds in a shifting pattern across the screen."
+}

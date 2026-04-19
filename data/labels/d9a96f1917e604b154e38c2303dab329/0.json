@@ -1,0 +1,15 @@
+{
+  "video_id": "d9a96f1917e604b154e38c2303dab329",
+  "url": "./data/segments/3fokLGPK15Q-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.365,
+    1.095,
+    1.825,
+    2.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a white shirt stands on a stage in a dark venue, illuminated by a complex array of vibrant purple and blue laser beams that crisscross the space. Behind him, a large circular screen displays the text \"SLUSH\" in a stylized white font. The stage area includes a low platform and some minimal furniture, such as a small table and chairs. The man is positioned to the left side of the circular screen, facing toward the audience. Across the sequence, the man remains in a similar position, and the laser lighting continues to shift and pulse, creating dynamic patterns of light that fill the atmosphere. The scene remains consistent in its setting and composition, with the focus remaining on the speaker and the energetic visual effects of the light show."
+}

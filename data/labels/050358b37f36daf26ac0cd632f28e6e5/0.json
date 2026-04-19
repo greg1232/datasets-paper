@@ -1,0 +1,15 @@
+{
+  "video_id": "050358b37f36daf26ac0cd632f28e6e5",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-102.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.765,
+    17.295,
+    28.825,
+    40.355
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video conference call during a presentation. A person wearing a dark blue shirt and headphones appears in a small inset window at the top right of the screen. The main display shows a dark-themed digital mind map or flowchart with various circular nodes connected by lines; some nodes contain small icons or images. A separate video window on the right side of the presentation screen shows a group of people in a room, including one person in a red shirt. The top of the browser window displays several open tabs, including \"True Learning by Systemini,\" \"Future of Society by Systemini,\" \"Insights | Introduction | Kumu,\" and \"Rural Community Food System.\" The browser address bar shows \"blackboard.uoi.learning.\" Throughout the sequence, the visual elements remain static, with no significant movement or changes occurring between the captured moments."
+}

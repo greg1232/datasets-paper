@@ -1,0 +1,15 @@
+{
+  "video_id": "c84c715a27a8e502eb0dda49febf635f",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.526
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman wearing a face mask, a blue shirt, and a dark grey vest sits at a light-colored wooden table in a room equipped with medical or technical monitoring screens. She is focused on writing on a piece of paper with a pen in her right hand, while her left hand rests near a black smartphone on the table. To her right, another person in a dark blazer is partially visible. The background includes several monitors, some displaying red screens, and a metal water bottle on the table. A bottle of hand sanitizer is positioned on the far right. Across the bottom right of the scene, the text \"Sim Week\" is visible, accompanied by smaller text underneath that reads \"better teamwork in practice\". As the sequence progresses, the woman continues writing, eventually looking up and smiling behind her mask towards the person beside her."
+}

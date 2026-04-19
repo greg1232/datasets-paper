@@ -1,0 +1,15 @@
+{
+  "video_id": "4fd5716ee56ec070fa6c3c2fa996999d",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.08,
+    0.24,
+    0.4,
+    0.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light gray polo shirt, dark pants, and a black face mask exits a large white team bus. The bus features a blue top, the Real Madrid crest, and various sponsor logos, including \"Audi\" and \"codere\". In the background, a large building with vertical architectural details stands under a clear blue sky, and other individuals in uniforms, including one wearing a bright yellow safety vest, are visible. As the sequence progresses, the man steps down from the bus and walks away from the vehicle toward the left. Simultaneously, another individual wearing a black shirt and a red backpack is seen stepping out of the bus behind him. The scene takes place on a paved asphalt area, with a red traffic cone and a red sign visible in the distance."
+}

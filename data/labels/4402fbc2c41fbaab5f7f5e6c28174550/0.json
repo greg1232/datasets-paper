@@ -1,0 +1,15 @@
+{
+  "video_id": "4402fbc2c41fbaab5f7f5e6c28174550",
+  "url": "./data/segments/3QD9oO6sRns-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.252,
+    0.756,
+    1.26,
+    1.765
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a cardboard box on a surface featuring a \"JASPYS CASEBREAKS\" logo. Inside the box, there is a packaged baseball card featuring a player's image and the text \"ARLY HENTIC 2020\" alongside a \"TOPPS\" logo. In the upper right corner of the frames, a small inset window shows a man wearing a black t-shirt and a black baseball cap. The \"JASPYS CASEBREAKS\" logo appears both as a large graphic on the surface below the box and as a smaller watermark with the URL \"CASEBREAKS.COM\" near the inset video window. As the sequence progresses, the person's hand moves to reach into the box to retrieve the card package, while the camera angle shifts slightly to provide a clearer view of the items inside."
+}

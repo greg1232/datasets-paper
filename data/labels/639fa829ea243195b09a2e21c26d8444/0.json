@@ -1,0 +1,15 @@
+{
+  "video_id": "639fa829ea243195b09a2e21c26d8444",
+  "url": "./data/segments/3Smz5pevbI4-Scene-076.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.788,
+    26.364,
+    43.94,
+    61.516
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a dark olive-green button-down shirt speaks into a handheld microphone in an indoor setting with plain yellow walls. He is positioned next to a bald man wearing a light blue button-down shirt, while a woman with reddish-brown hair is partially visible in the foreground. As the scene progresses, the man in the olive shirt gestures with his right hand to emphasize his points, moving his arm from a wide open position toward his body. The bald man remains relatively still in the background, looking toward the speaker. In the final sequence, the speaker continues to hold the microphone close to his mouth while gesturing with his right hand. No text, logos, or other equipment are visible beyond the handheld microphone."
+}

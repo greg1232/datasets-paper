@@ -1,0 +1,15 @@
+{
+  "video_id": "c30f114e0b734c111ee35402ef5f0a20",
+  "url": "./data/segments/3P1vSUbet40-Scene-0099.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a tall, grey, textured hairstyle and glasses wears a white button-down shirt with a bowtie and white suspenders. He is wearing black over-ear headphones and is positioned behind a professional microphone. He is situated in a room with walls decorated with framed photographs and clothing racks featuring \"LEE\" branded apparel. A logo featuring a microphone and the text \"PODCAST\" appears in the bottom left of each scene, while the text \"BOSS TALK JOY\" is visible in the center. Throughout the clip, the man remains in a similar profile position, speaking and slightly shifting his head and facial expression while looking toward someone off-screen. The background and equipment remain static as the man continues his conversation."
+}

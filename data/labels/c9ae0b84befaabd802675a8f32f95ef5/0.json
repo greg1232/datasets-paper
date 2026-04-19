@@ -1,0 +1,15 @@
+{
+  "video_id": "c9ae0b84befaabd802675a8f32f95ef5",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-438.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.319,
+    0.956,
+    1.594,
+    2.231
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blonde hair is seen in a small video window in the lower-left corner of a screen displaying a digital athlete card for \"DEXTER LAWRENCE II,\" a \"R#97 TE\" with an overall rating of \"90.\" The interface is predominantly purple and black, featuring a variety of numerical statistics like \"6' 4\"\", \"342\", and \"91\" under a \"GENERAL\" category. The athlete is pictured wearing a white football jersey with the number \"97\" and the name \"Naughty\" written across the bottom of the card. In the first two frames, the person in the video window is looking toward the screen. In the third and fourth frames, the person rests their chin on their hand, appearing contemplative. The on-screen interface updates between the second and third frames to display additional \"OFFENSE\" statistics, including values of \"91\", \"68\", \"65\", and \"84.\""
+}

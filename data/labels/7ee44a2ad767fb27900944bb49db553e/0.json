@@ -1,0 +1,15 @@
+{
+  "video_id": "7ee44a2ad767fb27900944bb49db553e",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.131,
+    0.394,
+    0.656,
+    0.919
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is positioned in the foreground, partially obscuring the view as they interact with a rectangular object on a desk. This object features a dark surface with the word \"OBSIDIAN\" and a glowing green strip of light. The background includes a red surface with a large \"JASPYS\" logo and the text \"CASEBREAKS.COM\". In a smaller picture-in-picture window, a man with a beard, wearing a dark shirt, is seen sitting at a desk with a microphone in front of him, appearing to monitor the action. As the sequence progresses, the hand moves across the object, while the man in the inset window remains relatively still. The lighting is dim, with the primary illumination coming from the glowing green strip on the object and the overhead lighting in the man's room."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ae5f2140a86552d26aa7e195cdfc8fbf",
+  "url": "./data/segments/3L_uHTClWfk-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.604,
+    0.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Joe Biden is shown from the chest up, speaking in front of the White House. He is wearing a dark blue suit jacket, a white collared shirt, and a blue and white striped tie, with a small lavalier microphone clipped to his tie. The White House stands in the background under a bright blue sky with scattered white clouds, and a fountain is visible in the foreground. To the left and right of the building are lush green trees. Between the frames, the scene remains virtually static; Biden's facial expression and head position shift slightly as he speaks, but the background and his overall posture remain constant. There are no visible logos or on-screen text."
+}

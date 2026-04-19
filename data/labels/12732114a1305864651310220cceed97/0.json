@@ -1,0 +1,15 @@
+{
+  "video_id": "12732114a1305864651310220cceed97",
+  "url": "./data/segments/3hLeTO8SC3U-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.08,
+    3.241,
+    5.401,
+    7.562
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large, modern hall at the Javits Center in New York, NY, two men in professional attire are seated for an interview. One man wears a dark navy suit, white shirt, and tie, while the other wears a dark blazer over a light-colored button-down shirt. They sit at a white table equipped with a laptop and papers. The man in the suit is actively speaking and gesturing with his hands to emphasize his points, while the other man listens attentively. In the background, other attendees walk through the open space. A blue and white graphic banner at the bottom of the screen displays the text \"MONGODB WORLD 2022\", \"#MDW22 | #theCUBE\", \"theCUBE From the Javits Center, New York, NY\", and a \"Sponsored By MongoDB\" logo. As the scene progresses, the speaking man's hand gestures shift from an open-palm motion to a more pointed gesture before returning to a resting position."
+}

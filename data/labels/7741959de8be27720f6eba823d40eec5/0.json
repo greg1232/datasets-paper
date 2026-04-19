@@ -1,0 +1,15 @@
+{
+  "video_id": "7741959de8be27720f6eba823d40eec5",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.455,
+    4.364,
+    7.273,
+    10.182
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit side-by-side in a room, positioned in front of a large television screen and a shelf of media cases. The man on the left wears a dark green t-shirt, while the man on the right wears a grey t-shirt and a necklace. Above them, a neon sign displays the text \"OUR STUPID REACTIONS\". A smaller video window is overlaid on the center of the scene, showing clips from a historical battle. In the first frame, the overlay shows distant soldiers on a dusty plain. In the second frame, the overlay shifts to a close-up of a soldier in a helmet. By the final frame, the overlay displays a wide shot of a massive army gathered in a valley. Throughout the sequence, the two men maintain focused, somber expressions, with the man on the right resting his chin on his hand as they watch the footage."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "dda0dd73a86edae6de449b71c4198be0",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-143.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.955,
+    2.865,
+    4.776,
+    6.686
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair and glasses, wearing a light blue patterned shirt and a beaded necklace, speaks into a microphone in an indoor setting. He is positioned against a background of tan horizontal blinds and a dark vertical support beam. The man gestures with his hands as he speaks, moving them slightly between the frames. On the right side of the scene, a white rectangular label with the text \"ORCA\" is visible. The camera angle remains static, capturing him from the chest up. As the sequence progresses, his facial expression and the position of his hands shift slightly, reflecting his active speaking and gesturing. The lighting is consistent throughout the frames, illuminating the man and the background evenly."
+}

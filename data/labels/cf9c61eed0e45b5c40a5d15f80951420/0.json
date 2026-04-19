@@ -1,0 +1,15 @@
+{
+  "video_id": "cf9c61eed0e45b5c40a5d15f80951420",
+  "url": "./data/segments/3P1vSUbet40-Scene-0851.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.13,
+    0.391,
+    0.652,
+    0.912
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt, a dark baseball cap with a logo, and over-ear headphones sits in a studio setting, speaking into a professional microphone. Behind him is a white backdrop featuring a repeated logo with the words \"ENFORCED HUSTLE\" and a row of gold stars. On the right side of the background, partial text \"BOSS TALK 101\" is visible. On-screen graphics include a logo on the left that reads \"BOSS TALK 101 PODCAST\" and text on the right that says \"BOSS TALK 101\". The man is positioned in front of a dark surface with the words \"CHECK IT\" and \"AN\" printed on it. Across the sequence, the man remains in the same position, slightly shifting his facial expression and head angle as he speaks, while the camera and background remain static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a00b0e4b20d0ddf0650e68d76d2e8302",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.388,
+    0.646,
+    0.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of frames shows a logo animation against a dark, shadowed background. At the top of the screen, the word \"An\" remains static throughout. A white, rounded rectangular speech bubble emerges and fills with text. Initially, the bubble is empty, but it quickly transitions to reveal a logo. The text \"Media\" and \"TY ACCESS\" first appear on the right side of the bubble. The animation continues as the full logo \"ORCA Media\" appears in a large font, with \"ORCA\" in grey and \"Media\" in red. Below this, the phrase \"UNION RIVER COMMUNITY ACCESS\" is displayed in smaller red capital letters. In the final frame, the word \"Presentation\" appears in a semi-transparent grey font at the bottom of the screen, completing the title sequence."
+}

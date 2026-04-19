@@ -1,0 +1,15 @@
+{
+  "video_id": "95c11e3a0ed310cb7a0cc50ae5959df6",
+  "url": "./data/segments/3L_uHTClWfk-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.558,
+    1.675,
+    2.792,
+    3.908
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Joe Biden is shown from the chest up, wearing a dark blue suit, a white shirt, and a blue-and-white striped tie. He is positioned in front of a background depicting the White House's North Portico under a blue sky with fluffy white clouds. A small American flag flies atop the building, and a water fountain is visible in the foreground lawn. Biden is speaking, and his facial expression and mouth position shift slightly across the sequence. He is wearing a small, black lapel microphone. The background remains static throughout the clip, while Biden's head movements are minimal as he addresses an unseen audience. There is no on-screen text or logos visible in any of the frames."
+}

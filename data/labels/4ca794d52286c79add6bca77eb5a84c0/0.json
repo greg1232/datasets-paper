@@ -1,0 +1,15 @@
+{
+  "video_id": "4ca794d52286c79add6bca77eb5a84c0",
+  "url": "./data/segments/3a0FD1177FA-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.86,
+    2.581,
+    4.301,
+    6.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video sequence unfolds against a soft, blurred beige background featuring shimmering white bokeh lights. A sparkling red glitter heart, containing a smaller solid red heart inside, remains static on the left side of the screen. Across the first frame, elegant black cursive text reads \"Stamping Jill\" with the smaller block text \"ALWAYS CREATING\" beneath it. As the sequence progresses, the initial text is replaced by larger, stylized black cursive lettering. By the second frame, a large \"W\" appears, followed by the phrase \"Watch it\" to the right. In the third frame, the text expands vertically to spell \"Weekly\" and \"Wednes\" beneath the large \"W,\" while \"Watch it\" remains visible. The final frame shows the shimmering background as the text and the red glitter heart fade away entirely."
+}

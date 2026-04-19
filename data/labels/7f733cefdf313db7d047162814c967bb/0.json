@@ -1,0 +1,15 @@
+{
+  "video_id": "7f733cefdf313db7d047162814c967bb",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-127.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation room, a group of people are gathered for a session. A woman with a ponytail, wearing blue scrubs, sits with her back to the camera. Facing her are three other individuals: a person in a dark blue jacket and black pants, another person in a dark blue shirt and gray pants, and a woman in light pink scrubs. They are seated in a circle, and some are holding papers. The room contains a hospital bed and medical equipment in the background. On-screen text includes a pink circular badge that reads \"Day 5\" and a logo on the right that says \"Sim Week\". As the sequence progresses, the scene transitions into dark, obscured frames where the original visual content is largely replaced by blackness, although the \"Day 5\" and \"Sim Week\" text remains visible. In the final frame, a pink banner appears across the bottom containing the text \"ExLap on OR\"."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5bafd197e0877946abd33dc219717fe5",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-274.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.308,
+    0.923,
+    1.538,
+    2.153
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the white text \"ION NEVER DO SHIT\" speaks into a professional black microphone. He is positioned in an indoor space that appears to be a studio or a retail environment, with a white mannequin dressed in a white shirt and green pants standing behind him. The background wall is decorated with numerous framed photographs of various people. Two logos appear on the screen: a circular logo on the left with the text \"TIGHT\" and a red logo on the right that reads \"READY SET TOT\". Throughout the clip, the man's facial expressions shift as he talks, moving from a closed-mouth expression to an open-mouthed speaking posture, while his head tilts slightly and his right hand moves into the frame during the final moments."
+}

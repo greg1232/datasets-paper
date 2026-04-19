@@ -1,0 +1,15 @@
+{
+  "video_id": "878fda4684e48c52ab35b6cadb86ba5d",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-233.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.356,
+    4.069,
+    6.781,
+    9.494
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person\u2019s hands are shown opening a white box containing a gold-colored rectangular holder. In the top-left frame, the box is open with the gold holder inside. By the top-right frame, the person is lifting the gold holder from the box. In the bottom-left frame, the person holds a sports trading card of Frank Thomas, which features a signature and the text \"19/99\". The card is held in front of the white box. In the final bottom-right frame, the person is placing the card into the gold holder. Throughout the sequence, a picture-in-picture window shows a man with a beard wearing a black t-shirt sitting in a room with equipment. The logo \"JASPYS\" and the website \"CASEBREAKS.COM\" are displayed on the screen. The background consists of a patterned tabletop and stacks of plastic-sleeved cards."
+}

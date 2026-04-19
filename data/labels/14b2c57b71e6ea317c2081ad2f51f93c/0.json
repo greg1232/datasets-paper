@@ -1,0 +1,15 @@
+{
+  "video_id": "14b2c57b71e6ea317c2081ad2f51f93c",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.545,
+    1.635,
+    2.725,
+    3.815
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark blue blazer over a black button-down shirt stands behind a white table against a plain light-grey background. A white bottle of water and a black microphone stand on the table in front of him. In the top left corner of the scene, the text \"mediasite by mediasite\" appears alongside a geometric logo. The man is speaking and gesturing with his hands; he begins with his arms lowered, then raises his left arm and opens his hand in an expressive gesture. He then lowers his arms again, shifting his gaze slightly toward the right side of the frame while continuing to speak. His posture remains upright throughout the sequence as he delivers his presentation."
+}

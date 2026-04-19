@@ -1,0 +1,15 @@
+{
+  "video_id": "44fd8839692fd7e286f66f9904fa7aad",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.16,
+    0.48,
+    0.8,
+    1.12
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static graphic featuring logos and text against a plain white background. Centered in the image is the logo for the \"INEC\" (Independent National Electoral Commission), which consists of the Nigerian Coat of Arms inside a green circle, placed above an outline map of Nigeria. Below the map, the text \"INEC\" is written in large green letters, followed by the words \"INDEPENDENT NATIONAL ELECTORAL COMMISSION\" in a smaller, gray font. In the upper-left corner, a logo for \"plustv\" is visible. A maroon banner runs along the bottom of the screen; in the early frames, it features the word \"SUBSCRIBE\" on the left and the URL \"WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE\" on the right. As the video progresses, the text on the left of the banner changes to \"FOLLOW US\" and the URL on the right becomes slightly fragmented."
+}

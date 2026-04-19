@@ -1,0 +1,15 @@
+{
+  "video_id": "960fa06565d30266b59d58ae5079be7c",
+  "url": "./data/segments/3P1vSUbet40-Scene-0279.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.109,
+    0.328,
+    0.547,
+    0.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing glasses, a white button-down shirt with suspenders, a red bow tie, and a tall, grey, textured wig sits in a studio. He wears black headphones and speaks into a professional microphone positioned in front of him. The background features several framed photographs on the wall, a clothing rack with white garments, and a mannequin wearing a black outfit. A logo with the text \"BOSS TALK JOY PODCAST\" appears on the left and right sides of the screen. Throughout the sequence, the man remains in the same position, his expression slightly shifting as he speaks, while the surrounding environment and equipment remain stationary. The lighting is consistent, highlighting the textures of his wig and the details of the studio setting."
+}

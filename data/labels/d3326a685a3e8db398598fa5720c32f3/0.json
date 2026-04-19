@@ -1,0 +1,15 @@
+{
+  "video_id": "d3326a685a3e8db398598fa5720c32f3",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-171.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.745,
+    11.235,
+    18.725,
+    26.215
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news graphic from \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" is displayed against a vibrant red background with dynamic white and light-red light streaks. The screen features a vertical list of social media handles, all reading \"@news18india,\" paired with icons for YouTube, X, Facebook, Instagram, and WhatsApp. Below this list, a QR code is visible. At the bottom of the frame, a horizontal bar contains buttons that say \"LIKE,\" \"share,\" and \"Subscribe.\" The background is framed by repeating ticker-style text that reads \"NEWS18 INDIA.\" The imagery remains largely static across the frames, though the light streaks and the repeating text at the top and bottom shift slightly, indicating a looping animation of the promotional graphic. No people, physical locations, or external objects are present, as the entire sequence consists of a digital broadcast overlay."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "39f8c0bd05fb70eccf7f8617254051be",
+  "url": "./data/segments/3EOkyr653jg-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.346,
+    1.039,
+    1.731,
+    2.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting with wooden paneling and a backdrop image of solar panels, a woman and a man sit side-by-side at a table, both focused on writing on documents. The woman, on the left, wears a brown leather jacket over a white shirt, while the man, on the right, wears a grey hooded winter coat with a faux-fur collar over a blue and white checkered shirt and glasses. Both individuals are leaning forward, holding pens and filling out papers spread across the table. Throughout the sequence, their movements are minimal; the man continues to write with a blue pen, and the woman remains focused on her paperwork. The scene remains static in terms of composition and location, with no on-screen text or logos visible, capturing a quiet moment of administrative work."
+}

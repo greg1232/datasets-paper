@@ -1,0 +1,15 @@
+{
+  "video_id": "d0501816d2dfa6f7477a1a3119ee7cf0",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-881.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.527,
+    1.58,
+    2.633,
+    3.686
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt sits in a room decorated with various framed pictures and clothing racks. His t-shirt features the white text \"I NEVER DO SHIT AT WORK\". He is positioned in front of a professional black microphone and appears to be speaking, with his mouth slightly open across the sequence. In the background, a white mannequin wears a white t-shirt, and several racks of clothing are visible. Two logos appear on the screen: a circular black and white logo on the left and a red and white logo that reads \"BOLLY TV\" on the right. As the scene progresses, the man shifts his head slightly and continues talking, while the camera angle and background elements remain static."
+}

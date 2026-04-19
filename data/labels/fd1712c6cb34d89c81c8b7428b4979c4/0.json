@@ -1,0 +1,15 @@
+{
+  "video_id": "fd1712c6cb34d89c81c8b7428b4979c4",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.6,
+    1.0,
+    1.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a clear protective sleeve over a sports trading card resting on a black \"OBSIDIAN\" box. The card is inside a top-loader, and the box displays the text \"2 AUTOGRAPPHS!\". The scene is set against a red and black patterned surface featuring the \"JASPYS\" logo and the website \"CASEBREAKS.COM\". In the background, a man wearing a black shirt is visible in a small inset window, appearing to be in a room with shelving and equipment. As the sequence progresses, the hand moves the protective sleeve across the card. The layout fluctuates between a close-up view of the card and the broader scene featuring the man in the inset, alternating the focus of the display while maintaining the same physical environment and objects."
+}

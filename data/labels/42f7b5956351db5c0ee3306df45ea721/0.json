@@ -1,0 +1,15 @@
+{
+  "video_id": "42f7b5956351db5c0ee3306df45ea721",
+  "url": "./data/segments/3QD9oO6sRns-Scene-133.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.835,
+    2.506,
+    4.177,
+    5.848
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown holding a clear, vertical plastic slab over a white surface. In the background, several white and blue boxes are stacked, and a surface with a logo containing the text \"BREAK\" is visible. A small inset video in the lower right corner shows a man wearing a black t-shirt and a black baseball cap sitting in front of a computer monitor. On-screen text in this inset reads \"CASEBREAKS.COM\" and \"JASM\". Across the sequence, the person's hands slightly adjust the position of the clear plastic slab, moving it subtly from left to right. The man in the inset remains seated, looking toward the camera with a neutral expression. The background objects and the overall lighting remain consistent throughout the clip, focusing on the manipulation of the transparent object."
+}

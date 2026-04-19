@@ -1,0 +1,15 @@
+{
+  "video_id": "3f242fa0150d5292bba15a29e05b0cad",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.26,
+    0.781,
+    1.302,
+    1.823
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a clear plastic case containing a stack of trading cards. The setting appears to be a professional streaming environment, featuring a desk with a palm tree patterned mat and a computer setup. A man wearing a navy blue shirt and a headset is visible in a small picture-in-picture window in the bottom center, watching the action. Prominent on-screen branding includes the logo \"JASPYS LIVE\" and the website \"CASEBREAKS.COM\" displayed twice in each frame. As the sequence progresses, the person's hands grasp the top and bottom of the clear case, sliding the inner sleeve of cards upward to open it. By the final scene, the person has lifted the inner container almost entirely out of the outer plastic shell, revealing the organized stack of cards inside."
+}

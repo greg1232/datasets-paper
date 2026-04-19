@@ -1,0 +1,15 @@
+{
+  "video_id": "be2cbe51219b11ad2e777e6d1fdc879e",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-457.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.217,
+    0.65,
+    1.083,
+    1.517
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video displays a screen recording of a \"ULTIMATE TEAM\" menu from a sports video game, featuring various player cards with statistics and names like \"ALLEN\" and \"SANTIAGO.\" The top navigation bar includes options such as \"OFFENSE,\" \"DEFENSE,\" and \"STRATEGY,\" while numerical values \"159,529,\" \"0,\" \"14,600,\" and \"1,787,969\" are visible in the top right corner alongside \"LVL 21\" and \"S1.\" A small picture-in-picture window in the lower-left corner shows a man with light brown hair wearing a black t-shirt, speaking in front of a background that includes a Christmas tree and a wall. In the first two frames, the game menu is fully visible behind the man. In the subsequent frames, the game interface disappears, leaving a purple and black gradient background, while the man remains visible in his window, continuing to speak."
+}

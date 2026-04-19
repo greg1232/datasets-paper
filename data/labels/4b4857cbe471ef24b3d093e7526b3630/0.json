@@ -1,0 +1,15 @@
+{
+  "video_id": "4b4857cbe471ef24b3d093e7526b3630",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-234.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.247,
+    3.741,
+    6.235,
+    8.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white screen displays the \"thinkorswim\" logo, which consists of a stylized green star-like symbol to the left of the company name written in black lowercase letters. A blue and silver graphic banner appears at the bottom of the screen, containing the white text \"Basil Chapman\" and \"The Tiger Technicians Hour | June 8th, 2022\" underneath. The logo and text remain static across the frames. Between the first and last frames, the blue banner at the bottom gradually fades out, becoming increasingly transparent until it is completely gone, leaving only the \"thinkorswim\" logo visible on the plain white background."
+}

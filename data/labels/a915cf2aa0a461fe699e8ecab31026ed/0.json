@@ -1,0 +1,15 @@
+{
+  "video_id": "a915cf2aa0a461fe699e8ecab31026ed",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-139.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.363,
+    1.089,
+    1.814,
+    2.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands at a podium in a wood-paneled room, addressing a seated audience. He is wearing a white long-sleeved shirt under a black vest with red accents. Several people are seated in the foreground, facing away from the camera. One woman wears a colorful blue, red, and white patterned garment, while another wears a yellow shirt. A man in a grey jacket is seated on the right side of the frame. To the left of the speaker, another individual is partially visible behind a desk. A white logo with the text \"ORCA\" appears in the lower right of the scene. Across the sequence, the man at the podium speaks and gestures with his hands, shifting his position slightly as he addresses the crowd. The audience remains largely still, listening to the presentation in the formal, professional setting."
+}

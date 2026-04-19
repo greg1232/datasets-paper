@@ -1,0 +1,15 @@
+{
+  "video_id": "cc709998fd94e1342977d5c53d5ecfa5",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.61,
+    1.83,
+    3.05,
+    4.27
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands before a plain, light-colored wall, delivering a presentation. He is dressed in a dark navy blazer over a dark navy button-down shirt. In the upper frames, he gestures with his left hand extended outward while speaking. As the sequence progresses to the lower frames, he lowers his arm and brings his hand back toward his side. A thin microphone stand and a clear plastic water bottle are positioned in front of him. At the top of the scene, a logo and text read \"mediasite by cornerstone,\" accompanied by a circular icon. The background remains static throughout the clip, with the only movement being the man's subtle shifts in posture and the movement of his left arm as he speaks."
+}

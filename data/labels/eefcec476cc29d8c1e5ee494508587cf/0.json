@@ -1,0 +1,15 @@
+{
+  "video_id": "eefcec476cc29d8c1e5ee494508587cf",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.609,
+    1.827,
+    3.045,
+    4.263
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a room with a bright yellow wall, a woman with reddish-brown hair wearing a black blazer with a floral pattern sits at a white table with a laptop. She looks down toward the laptop with her hands clasped in front of her. In the background, a screen displays a separate video feed of a man in a white button-down shirt standing in a room with multiple computer monitors. The text \"ZURICH, SWITZERLAND\" appears in white capital letters on the lower left of this inset screen. The \"COINTELEGRAPH\" logo is visible in the upper right corner of the overall scene. Across the sequence, the woman remains in her position, slightly shifting her head and gaze as she looks toward the laptop. The man in the inset video remains stationary, looking toward the camera."
+}

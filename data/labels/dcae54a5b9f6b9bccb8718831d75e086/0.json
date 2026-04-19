@@ -1,0 +1,15 @@
+{
+  "video_id": "dcae54a5b9f6b9bccb8718831d75e086",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-297.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.445,
+    1.335,
+    2.225,
+    3.115
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses is visible in a small video call window in the upper right corner of a computer screen, which shows a larger presentation area. The screen displays a complex conceptual map with various icons, such as a tree, a lightbulb, and a person, connected by blue lines. Legible text labels within the map include \"Rural Community Flourish,\" \"Local Corporate Farm,\" \"Industrial Farming,\" and \"Healthy Food.\" The browser tabs at the top of the screen include \"That & Learning by Sp...\" and \"Moments by System...\" The man remains in his video window throughout, appearing to speak while the screen share remains static. In the final moments, a white mouse cursor moves across the screen, hovering over the map's icons. The overall setting is a remote digital presentation or online learning session."
+}

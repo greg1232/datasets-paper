@@ -1,0 +1,15 @@
+{
+  "video_id": "60f014c57e962922d237dba4ab23b508",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-149.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.813,
+    1.139
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A medical simulation occurs in a clinical setting, featuring a monitor displaying a close-up, internal anatomical view of a patient's body. To the left of the screen, a list titled \"MD Candidates:\" lists numerous names, including \"Rachel Belcher,\" \"Rachel Cermak,\" and \"Katherine Coburn.\" Below this list is the text \"CSTARS Simulation Lab,\" followed by names such as \"Mr. Tony Christiani.\" A QR code is visible in the lower right corner of the monitor's display area. Throughout the sequence, the anatomical image on the screen shifts slightly as a medical instrument interacts with the tissue. While the list of MD candidates remains static, the names under the simulation lab heading change; \"Mr. Tony Christiani\" remains, but \"Mr. Dan Goodman\" and \"Maj. Erika Nova\" appear in the later stages of the clip. The monitor is labeled \"SV-2 HIGH DEFINITION HISTOSCOPE.\""
+}

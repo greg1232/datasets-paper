@@ -1,0 +1,15 @@
+{
+  "video_id": "8580718f87d47db2bf241b7f885f1154",
+  "url": "./data/segments/3Z229_lKLpk-Scene-162.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.465,
+    1.395,
+    2.325,
+    3.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A middle-aged man with grey hair and glasses sits in a high-backed wooden chair within a formal setting featuring wood-paneled walls. He is wearing a white long-sleeved shirt layered under a grey Nehru vest. A small microphone on a stand is positioned in front of him, and a red folder rests on the table to his left. Throughout the sequence, the man remains seated and focused on something off-camera. In the initial moments, he is looking toward his right, but as the scene progresses, he slowly turns his head to face forward, looking directly toward the camera. The background remains static, and no other people, text, or logos are visible."
+}

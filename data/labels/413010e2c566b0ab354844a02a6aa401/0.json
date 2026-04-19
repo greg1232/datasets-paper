@@ -1,0 +1,15 @@
+{
+  "video_id": "413010e2c566b0ab354844a02a6aa401",
+  "url": "./data/segments/3iUTkJy84EY-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is positioned in the center of the frame against a solid black background. She wears a light green, embroidered tunic with a dark necklace. In each frame, she is speaking, her mouth opening and closing as she talks. A small lapel microphone is clipped to the neckline of her garment. In the bottom left corner of each scene, a small circular logo accompanies the text \"NPTEL\". Throughout the sequence, the woman remains in a static medium shot, with only her facial expressions and slight movements of her head and lips changing as she continues her delivery. The lighting is consistent, focusing on the woman while keeping the background entirely dark."
+}

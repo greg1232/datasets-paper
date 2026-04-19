@@ -1,0 +1,15 @@
+{
+  "video_id": "581ce620fe90e9dc5f7efca49ab8e4bd",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.563,
+    0.788
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows the internal mechanical assembly of a motor or gearbox resting on a workbench. The assembly consists of several interlocking gears of various sizes, including a large dark circular gear and smaller metallic gears, all housed within a white casing. Nearby, orange-colored mechanical parts and other metallic components are scattered across the workspace. Throughout the sequence, the camera remains static, and there is no movement among the components or the surrounding environment. No people are visible in the scene, and there is no on-screen text or logos present. The lighting is consistent, highlighting the textures of the grease-covered gears and the metallic surfaces of the equipment. The scene remains entirely unchanged from the first frame to the last, presenting a still image of the disassembled machinery."
+}

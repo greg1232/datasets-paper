@@ -1,0 +1,15 @@
+{
+  "video_id": "c743813da8ca3381a0dee681db1ef2bd",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-300.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.706,
+    1.177,
+    1.648
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen manipulating a black box on a surface decorated with palm tree imagery. In the top-left frame, a hand presses down on the top of the box. As the sequence progresses to the top-right, the hand shifts to the side of the box. By the bottom-left frame, the hand is again pressing on top, and in the final bottom-right frame, it appears to be lifting or sliding a portion of the box. An inset video in the center of several frames shows a man with a beard wearing a navy blue shirt sitting in a room with sports cards in the background. The logo \"JASPYS\" and the website \"CASEBREAKS.COM\" are prominently displayed in red and white text across the middle of the scene. The background behind the box contains stacks of white card boxes and various collectibles."
+}

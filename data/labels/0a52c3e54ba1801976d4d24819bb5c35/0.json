@@ -1,0 +1,15 @@
+{
+  "video_id": "0a52c3e54ba1801976d4d24819bb5c35",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-308.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.45,
+    37.35,
+    62.25,
+    87.15
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call displays a grid of multiple participants in various home or office settings. The attendees include several men and women, some wearing glasses and casual attire such as t-shirts and sweaters. In the upper-left areas, names like \"Jerry McDonald,\" \"Howard Silverman,\" and \"Patrick Murphy\" appear as on-screen text. Some participants are speaking, gesturing with their hands, or listening attentively. One man in a green shirt is seen resting his chin on his hand, while another man in a black shirt appears to be speaking. The background environments vary, featuring bookshelves, white walls, and indoor plants. As the video progresses, the grid of participants remains constant, but their facial expressions and gestures shift slightly, reflecting the natural movement of a live conversation. The lighting is consistent across the different video feeds, and the participants remain in their respective frames throughout the clip."
+}

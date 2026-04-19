@@ -1,0 +1,15 @@
+{
+  "video_id": "999f639d6576633db8810b05821424e1",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-437.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.177,
+    0.531,
+    0.885,
+    1.24
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair and a dark shirt is seated in a room, appearing in a small video inset on the left side of the screen. He is wearing headphones and is seen touching his face or chin in a thoughtful gesture. In the background behind him, a decorated Christmas tree is visible. The majority of the screen is a dark purple background featuring gaming statistics and bars. Text labels and numerical values are displayed, including \"SRR\" with \"70\", \"MRR\" with \"67\", \"RBK\" with \"95\", \"AWR\" or \"WR\" with \"82\", and \"CTH\" with \"72\". A small circular logo containing the letters \"RS\" is located in the upper right. Colored bars\u2014purple, orange, and green\u2014sit beneath the numbers. Across the sequence, the layout remains static, although the label \"AWR\" changes to \"WR\" and the man's hand position shifts slightly."
+}

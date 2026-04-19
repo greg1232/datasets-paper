@@ -1,0 +1,15 @@
+{
+  "video_id": "c0e405c0566b4e31c3f42a918779d0e4",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-322.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.233,
+    0.7,
+    1.167,
+    1.633
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An American football game is captured from a high-angle perspective, showing players on a green field with white yard markers. The scene features athletes in football uniforms; some wear white jerseys and helmets, while others wear dark jerseys and helmets. In the foreground, a large red end zone contains the white text \"ANDERS\" written in reverse. A digital scoreboard at the top of the screen displays game information, including \"2nd & 2\", \"EXO\", and the time \"2:30\" (which changes to \"2:29\" toward the end). The logo for the Atlanta Falcons is visible on the scoreboard. As the action progresses, the players line up and engage in a play. The offensive and defensive lines collide at the center of the field, and players scatter in different directions as the ball is moved. In the final moments, several players in white jerseys move toward the right side of the field."
+}

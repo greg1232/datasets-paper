@@ -1,0 +1,15 @@
+{
+  "video_id": "4f9fffcb71b6b8c17a59cfbf5dd4c422",
+  "url": "./data/segments/3l84m5pRmyk-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.977,
+    5.931,
+    9.885,
+    13.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair, wearing a blue short-sleeved button-down shirt with an \"INFOOBJECTS\" logo on the chest, stands in front of a white background featuring the logos \"theCUBE\" and \"siliconANGLE.\" He wears a thin headset microphone and speaks toward an unseen audience. Across the sequence, the man maintains a consistent position while gesturing with his hands to emphasize his points; in the final frame, he raises his left hand, pointing slightly upward. At the bottom of the scene, a blue banner contains the text \"#theCUBE LIVE at #BigDataSV 2015\" along with smaller text that reads \"Fairmont Hotel - Valley Room San Jose, CA.\" To the left of the banner, a white graphic includes the text \"#BigDataSV 2015.\" The background and on-screen graphics remain static as the man speaks and moves his arms."
+}

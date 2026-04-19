@@ -1,0 +1,15 @@
+{
+  "video_id": "5096be46e881a3d1fa5d99be7a2bb129",
+  "url": "./data/segments/3Z229_lKLpk-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large assembly hall, likely a legislative chamber, is filled with numerous people seated in rows of tiered desks. The majority of the individuals are men wearing traditional white Indian attire, such as kurtas, with some wearing waistcoats in colors like blue, red, or yellow. Most people are seated, with some leaning forward or engaging in conversation with those around them. In the foreground, individuals are seen sitting at wooden desks equipped with small screens or electronic tablets. Across the sequence, there is very little overall movement; some individuals subtly shift their posture or turn their heads, but the general composition of the crowd remains static. The lighting is bright and uniform throughout the expansive room, and there are no visible logos or on-screen text."
+}

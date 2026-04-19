@@ -1,0 +1,15 @@
+{
+  "video_id": "d4e5d49ed375fa7c904876cc4112e6a1",
+  "url": "./data/segments/3l84m5pRmyk-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.813,
+    26.439,
+    44.065,
+    61.691
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair, wearing a blue button-down shirt with a small \"INFOOBJECTS\" logo on the chest, speaks while wearing a headset microphone. He is positioned in front of a white backdrop featuring the logos \"theCUBE\" and \"siliconANGLE\". In the early part of the clip, a blue banner overlay appears at the bottom of the screen containing the text \"#BigDataSV 2015\", \"RISHI YADAV | @meditativesoul\", \"CEO\", and \"infoObjects\". A small hexagonal \"SPONSORED BY INFOOBJECTS\" graphic is also visible. As the clip progresses, the blue banner disappears, and a 3D blue cube graphic appears in the bottom left corner. A dark folder or laptop rests on the surface in front of him. The man remains in the same position, speaking and gesturing slightly with his head throughout the sequence."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "457d753a7d3a041bbcf2a9d93288a9a4",
+  "url": "./data/segments/3mmDnftP1M8-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.182,
+    0.547,
+    0.911,
+    1.276
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair, wearing a light-blue button-down shirt and a black headset with a microphone, is centered against a plain, light-colored wall. He is speaking and gesturing with his hands. In the initial sequence, he raises his right hand and moves it across his body. As the sequence progresses, he brings his right hand down and holds it in front of his chest, while his left hand remains slightly raised near his waist. The text \"Ashish Raichur\" is visible in the lower-left corner of the scene. The man's facial expression and the movement of his lips indicate he is talking throughout the clip. The setting remains static, focusing entirely on the man from the waist up."
+}

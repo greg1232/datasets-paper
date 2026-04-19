@@ -1,0 +1,15 @@
+{
+  "video_id": "fe96979eefcb7e679a8e762599bdf579",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-095.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.192,
+    0.575,
+    0.958,
+    1.342
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair, glasses, and white headphones is speaking into a black microphone in a room with a decorated Christmas tree and a framed picture behind him. He wears a navy blue textured shirt and a gold chain. Across the first three segments, he talks expressively, gesturing with his left hand and touching his forehead. The scene then shifts to a digital screen featuring a large, glowing gold letter \"Z\" centered in a dark room with red accents and banners. In the bottom left corner of this final view, a small picture-in-picture window shows the man continuing to speak. Text appearing on this screen includes \"SMALL PRESENT\" in the upper left and a menu at the bottom with the options \"MARK UNMARK,\" \"DISMISS ALL,\" and \"BACK.\""
+}

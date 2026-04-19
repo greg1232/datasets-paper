@@ -1,0 +1,15 @@
+{
+  "video_id": "ffebf91d84764e3fd0225a42755728d2",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-187.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.405,
+    19.215,
+    32.025,
+    44.835
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark baseball cap is visible in a small video call window at the top of a screen shared during a presentation. The shared screen displays a black background with green and red text and arrows forming a causal loop diagram. Initially, the screen shows the phrases \"Pleasant Breakfast\" and \"Unsightly Growth.\" As the sequence progresses, a diagram evolves, introducing \"Being Outside\" connected by a blue arrow to \"Pleasant Breakfast.\" Red text and arrows then appear, linking \"Pleasant Breakfast\" to \"Insights grow with\" and \"Frustration,\" with \"Attract birds\" appearing in between. Further additions include \"encourages me to mown,\" \"Attractiveness of Garden,\" \"Bird Feeder,\" and \"Birds at Feeder,\" all connected by blue arrows. The diagram becomes increasingly complex as the person in the video call continues to map the relationships between these elements."
+}

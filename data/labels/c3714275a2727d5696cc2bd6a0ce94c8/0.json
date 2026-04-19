@@ -1,0 +1,15 @@
+{
+  "video_id": "c3714275a2727d5696cc2bd6a0ce94c8",
+  "url": "./data/segments/3QD9oO6sRns-Scene-086.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.562,
+    0.787
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand interacts with sports card boxes on a black surface featuring the orange and white logo \"JASPYS CASEBREAKS\". In the background, several stacked boxes are visible. A small inset video window in the lower right shows a man wearing a black t-shirt and a baseball cap sitting at a desk. Across the frames, a person's hand reaches toward a blue and white box, eventually opening it to reveal the interior. The text \"SPYS EBREAKS\" is partially visible on the mat in the first frame, which transitions to the full \"JASPYS CASEBREAKS\" logo as the camera angle and hand position shift. The man in the inset window remains seated, observing the process. The sequence captures the moment a sealed box is handled and opened, with the environment remaining static except for the movement of the hand and the box lid."
+}

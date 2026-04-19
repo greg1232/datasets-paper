@@ -1,0 +1,15 @@
+{
+  "video_id": "86e202a3ce6f9987c73ed5f67c4ab5b0",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.064,
+    3.191,
+    5.318,
+    7.445
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short grey hair, wearing a light green cardigan and a colorful patterned scarf, stands next to a man with glasses, long dark hair, and a black vest over a white shirt. They are in an indoor setting with wood-paneled walls. The man holds a guitar and stands behind a microphone. Throughout the sequence, the woman interacts with the man and hands him a white piece of paper. In the first frame, she reaches out with the paper, and by the final frame, the man has received it and is speaking into the microphone. In the foreground, the back of several people's heads are visible. On-screen text identifies the woman as \"Rachel Senechal\" and her title as \"Program & Development Coordinator,\" while the acronym \"ORCA\" appears in the corner."
+}

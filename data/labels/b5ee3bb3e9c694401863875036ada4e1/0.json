@@ -1,0 +1,15 @@
+{
+  "video_id": "b5ee3bb3e9c694401863875036ada4e1",
+  "url": "./data/segments/3P1vSUbet40-Scene-0916.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.829,
+    2.487,
+    4.145,
+    5.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde-highlighted hair tied up, wearing black headphones and a black t-shirt, is recording a podcast in a studio setting. She sits behind a black microphone, speaking and gesturing with her hands. Behind her is a light-colored wall with a yellow vertical stripe and a dark screen displaying the name \"Johnson\" in red text. On-screen graphics include a logo featuring a microphone and the text \"BOSS TALK 101\" and \"PODCAST.\" As the sequence progresses, the woman continues speaking, moving her right arm outward and then bringing her hands together in front of her to emphasize her points. The camera remains static, focusing on her upper body as she interacts with an unseen listener."
+}

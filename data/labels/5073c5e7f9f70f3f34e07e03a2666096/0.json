@@ -1,0 +1,15 @@
+{
+  "video_id": "5073c5e7f9f70f3f34e07e03a2666096",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-296.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.33,
+    0.55,
+    0.77
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a video conference call featuring a presenter and a complex digital mind map. A man with glasses, wearing a dark blue shirt, is visible in a small video window in the upper right corner. The main area of the screen shows a dark-themed conceptual map with various icons connected by blue lines. Circular nodes contain imagery of nature, such as trees and plants, and are accompanied by text such as \"Healthy Soil,\" \"Healthy Plants,\" and \"Healthy People.\" Some nodes are labeled with emotional states like \"joy.\" At the top of the browser window, multiple tabs are open, including titles like \"That & Learning by Sp...\" and \"Rural Community Flourish.\" The presenter's name, \"Jerry Michaisi,\" appears next to his video feed. Across the sequence, the screen remains static with no movement in the map or the presenter's position, capturing a still moment during the presentation."
+}

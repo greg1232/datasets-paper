@@ -1,0 +1,15 @@
+{
+  "video_id": "a241df4464407b54f2ba318f0ae89a9f",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-240.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a beard, wearing a white t-shirt and over-ear headphones, is positioned in front of a professional microphone. He is in a room with dark, textured soundproofing panels on the walls. The microphone is held by a boom arm that features the white text \"Professional Studio Gear\". The man is actively speaking and gesturing. In the first frame, his hand is blurred in motion as he gestures in front of his face. In the second frame, his mouth is open as he speaks, looking toward the right. In the third frame, he maintains a similar posture but with a slight smile. In the final frame, he is speaking again with an expressive facial expression, and his hand is partially visible as it moves out of the frame to the right."
+}

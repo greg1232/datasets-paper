@@ -1,0 +1,15 @@
+{
+  "video_id": "d5adb382828fe5f9e6324c237faec831",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.89,
+    32.67,
+    54.45,
+    76.23
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide for a \"CRYOGENIC ENGINEERING\" course titled \"Tutorial \u2013 1\" is displayed. The slide contains a mathematical equation for $y$ involving variables $h_l, h_g, h_f$, and $\\varepsilon$, with a specified value of $\\varepsilon_1 = 1$. Below the formula is a data table with columns labeled \"1\", \"2\", \"f\", and \"g\", and rows for pressure \"p (bar)\", temperature \"T (K)\", enthalpy \"h (J/g)\", and entropy \"s (J/gK)\". The bottom of the slide features an \"NPTEL\" logo and text identifying \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\". Across the frames, the content of the slide remains static, but a white cursor moves across the screen. The cursor starts at the top left, moves toward the center, and eventually descends to highlight the value \"28.47\" in the \"h (J/g)\" row under column \"1\"."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "89d1d86f359be42f55da27d1277ce8a5",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-230.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.687,
+    1.146,
+    1.604
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is filming a close-up of a small, yellow rectangular box sitting atop a white platform. The setting is a desk area with a colorful patterned surface. In the top-right and bottom-right corners of the frames, there are inset video feeds. These insets show a man with a beard wearing a dark t-shirt with a small yellow logo on the chest, sitting in front of a computer setup. Each inset features the red and white logo \"JASPYS\" and the website \"CASEBREAKS.COM\" prominently at the top. In the main view, a hand enters from the left, reaching toward the yellow box. As the sequence progresses, the hand moves closer to the object. The background of the main shot remains static, showing a glimpse of other items on the desk, while the man in the inset continues to look toward his screen."
+}

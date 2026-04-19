@@ -1,0 +1,15 @@
+{
+  "video_id": "9bc0b2a35eab6a3e0ec25de93fd738f7",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-234.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a beard, wearing a white t-shirt and black over-ear headphones, sits in a studio with a dark, ribbed acoustic foam background. He is positioned in front of a professional microphone mounted on a boom arm, which has the text \"rode\" visible on its casing. As the sequence progresses, the man speaks while gesturing with his right hand. In the initial moments, his hand is raised high and blurred from motion, moving across the upper right side of the frame. As time passes, he continues talking, and his hand descends and moves slightly out of view, while his facial expressions shift as he articulates his points. He remains centered in the shot throughout the clip, focusing his gaze slightly off-camera to his left."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "aabbd4b6ed9027063cc79f05ff33ce75",
+  "url": "./data/segments/3a0FD1177FA-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.303,
+    3.91,
+    6.517,
+    9.124
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands work on a craft project on a white grid mat. The project involves a greeting card with a brown base and a floral patterned panel. On this panel, a white sentiment tag reads \"Hoping your BIRTHDAY is filled with ALL THE best things\". The person, wearing a ring on their left hand and a watch on their left wrist, uses a light blue tape runner to apply adhesive. Across the sequence, they apply tape to a small white piece of paper and then carefully place and press it onto the floral card panel. Nearby on the mat are additional floral patterned paper scraps, a red stamping block, and a black ink pad. A \"Stamping Jill\" watermark is visible in the bottom left corner of each frame."
+}

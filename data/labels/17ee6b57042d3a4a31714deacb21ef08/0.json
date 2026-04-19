@@ -1,0 +1,15 @@
+{
+  "video_id": "17ee6b57042d3a4a31714deacb21ef08",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.805,
+    2.415,
+    4.025,
+    5.635
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair tied back in a bun is speaking at a podium against a plain, light-gray background. She is wearing a dark navy blue blazer over a red top. A thin microphone stands in front of her, and a clear plastic water bottle is visible on the table to her right. The logo \"mediasite\" appears in the top-left and bottom-left corners of the scene. Across the sequence, the woman shifts her gaze and posture; she begins by looking toward her right and gesturing with her hands. She then turns her head slightly more toward the center and eventually looks further to her right, smiling as she continues to speak. Her hands remain clasped or gesturing near her waist throughout the clip."
+}

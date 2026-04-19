@@ -1,0 +1,15 @@
+{
+  "video_id": "2300259f6bd54b7af2ea29548396fad5",
+  "url": "./data/segments/3Kxl1O310k8-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.14,
+    6.42,
+    10.7,
+    14.98
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static presentation slide. The text \"Grant agreements\" is printed in black in the upper-left area of the scene, and a large red triangular warning sign containing a black exclamation mark is centered below the text. In the top right corner, a small inset video window shows a person with short hair wearing a dark top, positioned in front of a neutral background. A large yellow square containing a black number \"3\" is partially visible, overlapping the right edge of the main slide area. At the bottom of the screen, a thin yellow banner runs horizontally, featuring a small logo with the letters \"MHP\" and a small silhouette of a person. The visual elements, including the text \"Grant agreements\", the warning icon, and the inset video of the person, remain identical across all frames, indicating a still shot of a presentation."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "046273db315f41f8e864b1992f3c6fb3",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-071.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.358,
+    1.075,
+    1.792,
+    2.508
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital presentation screen features a dark blue background themed around global connectivity, displaying a stylized blue Earth at the bottom and an interconnected network of lines and nodes spanning across the scene. A thin blue horizontal bar runs across the top of the screen. In the center of the image, the text \"How ?\" is displayed in a white, sans-serif font. In the top right corner, a small inset video window shows a man with short dark hair wearing a light-colored shirt, looking toward the camera. Throughout the sequence of frames, the visual elements remain static; the background imagery, the central text \"How ?\", and the man in the inset window do not change in position, appearance, or action."
+}

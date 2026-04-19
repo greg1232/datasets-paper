@@ -1,0 +1,15 @@
+{
+  "video_id": "d1dce28186f0d3e9efb1444da5bdf701",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-100.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.026,
+    3.078,
+    5.13,
+    7.182
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, a group of healthcare students and instructors work with a medical mannequin on a hospital bed. In the early frames, several individuals in blue scrubs and one person in a black jacket and face mask are gathered around the bed, interacting with the mannequin. A person in a grey hoodie and pink pants stands nearby. The environment includes medical equipment, red storage cabinets, and a white wall. Overlaid text reads \"Day 3\" in a pink circle and \"Sim Week\" next to a logo. As the scene progresses, the setting shifts to a different room where a patient in a hospital gown sits in a chair. She is attended to by a person in a black jacket and another person in a grey blazer and blue pants. A pink banner appears at the bottom with the text \"Obtain Consent\" next to \"Day 3\" and \"Sim Week.\""
+}

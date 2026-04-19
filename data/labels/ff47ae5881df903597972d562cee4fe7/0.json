@@ -1,0 +1,15 @@
+{
+  "video_id": "ff47ae5881df903597972d562cee4fe7",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.825,
+    1.375,
+    1.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white aircraft with a T-tail and rear-mounted engines taxis along a paved runway under an overcast sky. The plane is positioned on a gray runway bordered by green grass and low shrubbery, with a red windsock visible to the right. In the upper right corner of each frame, a red circular logo contains the white number \"13\". As the sequence progresses, the aircraft moves forward and slightly to the right. In the final frames, the plane's nose tilts upward as it begins to lift off the ground, while the landing gear remains extended. No people are visible in the scene."
+}

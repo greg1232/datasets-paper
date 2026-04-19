@@ -1,0 +1,15 @@
+{
+  "video_id": "b708615d4854374101e7e093e027319e",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-196.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.464,
+    1.392,
+    2.32,
+    3.248
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the white text \"ION NEVER DO SHIT\" sits in a room filled with framed photographs on the wall and clothing racks in the background. He is positioned behind a professional black microphone. In the bottom corners of the scene, logos are visible: one on the left reads \"THE ROOM\" and one on the right reads \"RED VELVET PODCAST\". Throughout the sequence, the man looks toward someone off-screen to his left. He begins with a neutral expression, then slightly purses his lips, and eventually breaks into a smile, showing his teeth. The background, featuring a white mannequin and various pieces of apparel, remains static as the man's facial expression shifts from serious to amused."
+}

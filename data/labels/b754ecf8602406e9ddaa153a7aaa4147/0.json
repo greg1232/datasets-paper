@@ -1,0 +1,15 @@
+{
+  "video_id": "b754ecf8602406e9ddaa153a7aaa4147",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-188.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.6,
+    1.0,
+    1.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a Cal Ripken Jr. baseball card up to a camera in a room with a desk and computer equipment. The card features a photo of Ripken in a baseball uniform and his signature. In the background, a man with a beard and a dark blue t-shirt sits behind a desk, with a colorful banner featuring palm trees draped across the front. On-screen text reads \"JASPYS\" and \"CASEBREAKS.COM\". Throughout the sequence, the person holding the card moves it slightly, shifting its angle and position relative to the camera, while the man in the background remains seated. The setting remains consistent, showing a home or office environment used for filming, with a monitor and various peripherals visible on the desk behind the banner."
+}

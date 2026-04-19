@@ -1,0 +1,15 @@
+{
+  "video_id": "1fc24b8e7bcf529c5c4a0bfea449f45f",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-074.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.538,
+    0.897,
+    1.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dark green all-terrain vehicle (ATV) is parked indoors on a light-colored tiled floor. The camera is positioned at the rear of the vehicle, focusing on the luggage rack and rear lights. To the left of the ATV, a person is partially visible, wearing light-colored pants and a dark top. The person's arm and side are seen as they stand beside the vehicle. The ATV features a prominent green body with a black rear bumper containing four circular ventilation holes. A small rectangular light is visible on the left side of the rear. Above the rack, a headlight is mounted on the steering column. Throughout the sequence of frames, the camera remains stationary and there is no movement from the person or the vehicle, resulting in a static shot of the scene. No text or logos are legible in the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a2e8c71bdb57697377331c5b8089455a",
+  "url": "./data/segments/3tXiKB90OM0-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.621,
+    1.863,
+    3.104,
+    4.346
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a navy blue uniform, a matching baseball cap, and a bright red life vest is working on a concrete pier next to a large blue vessel. He is handling a thick, white mooring line and a large white anchor. In the beginning, he stands upright and looks down at the equipment. As the sequence progresses, he bends over to grip the thick white rope and adjust the position of the anchor resting on the pier. The background features the dark blue hull of the ship and a row of weathered wooden pilings along the edge of the dock. The man's movements are focused on managing the heavy maritime equipment, shifting from a standing position to a deep crouch as he works with the line and the anchor."
+}

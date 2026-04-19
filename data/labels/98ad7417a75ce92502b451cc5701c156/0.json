@@ -1,0 +1,15 @@
+{
+  "video_id": "98ad7417a75ce92502b451cc5701c156",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.05,
+    24.149,
+    40.249,
+    56.348
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting with a wood-paneled background, a group of people are gathered for a performance. A woman in a light teal blazer and a colorful scarf stands beside a man wearing a white shirt and a black vest, who is positioned in front of a microphone. In the foreground, several audience members are seen from behind. The woman reads from a booklet and gestures with her hand, while the man speaks into the microphone. As the scene progresses, the woman is no longer visible in the frame, focusing the view on the man in the vest, who continues to address the group. The white text \"ORCA\" is visible on the right side of the screen in each frame. The man remains centered in the composition, maintainig his position at the microphone as he speaks."
+}

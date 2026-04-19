@@ -1,0 +1,15 @@
+{
+  "video_id": "e32d50fb033614f4d6177de219f18920",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-270.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.281,
+    0.844,
+    1.406,
+    1.969
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game takes place on a green turf field within a large stadium filled with spectators. Players in white uniforms and players in black uniforms are scattered across the field. In the initial sequence, a player in a black jersey with the number 88 runs forward, followed by players in white. As the action progresses, players in black and white converge, leading to a tackle where a player in black brings down a player in white. On-screen graphics appear, including circular markers beneath the players and text labels such as \"Playmaker\" and \"Weapon X\". A large red logo is visible on the turf in the background. The sequence shows the movement from an open field to a concentrated point of physical contact, ending with several players huddled on the ground after the play."
+}

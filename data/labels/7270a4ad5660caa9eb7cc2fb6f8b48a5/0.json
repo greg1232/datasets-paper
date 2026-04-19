@@ -1,0 +1,15 @@
+{
+  "video_id": "7270a4ad5660caa9eb7cc2fb6f8b48a5",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.221,
+    0.663,
+    1.105,
+    1.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A view from the hood of a dark-colored car shows a road leading toward a traffic intersection under a clear sky. The car's hood features a prominent black scoop with a red logo that reads \"SHELBY\". In the distance, several cars are stopped or moving slowly near a set of traffic lights hanging over the road. Green trees and utility poles line the roadside. As the sequence progresses, the car moves forward toward the intersection, and the perspective of the road and surrounding landscape shifts slightly. Other vehicles, including a white car and a dark-colored car, are visible in the distance across the lanes. The reflections of the sky and trees are visible on the glossy surface of the hood as the vehicle advances."
+}

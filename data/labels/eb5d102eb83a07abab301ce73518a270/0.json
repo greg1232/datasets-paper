@@ -1,0 +1,15 @@
+{
+  "video_id": "eb5d102eb83a07abab301ce73518a270",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-143.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.246,
+    0.738,
+    1.229,
+    1.721
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blonde hair and headphones is visible in a small picture-in-picture window in the lower left of a video game screen. He is wearing a dark shirt and is positioned in front of a background that includes a Christmas tree. The main screen displays a \"LINEUP\" menu for a sports game, featuring a grid of player cards with various ratings and team logos. Navigation tabs at the top include \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS.\" Numerical values like \"173,037,\" \"14,650,\" and \"2,343,543\" are displayed in the upper right corner alongside \"LV 19.\" Buttons such as \"BEST LINEUP,\" \"HELP,\" and \"BACK\" appear at the bottom. Across the frames, the screen remains largely static, though a pink highlight box shifts slightly, moving from a player card in the top right to one just below it."
+}

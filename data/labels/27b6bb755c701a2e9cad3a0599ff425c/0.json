@@ -1,0 +1,15 @@
+{
+  "video_id": "27b6bb755c701a2e9cad3a0599ff425c",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    9.673,
+    29.019,
+    48.365,
+    67.71
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is opening a large, shrink-wrapped box of trading cards on a desk covered with a tropical-themed mat featuring palm trees. In the top-left frame, a hand reaches toward the plastic-wrapped container. By the top-right frame, the hand has lifted the top section of the box, revealing yellow cardboard packaging inside. In the bottom-left and bottom-right frames, the box is fully open, showcasing numerous vertical packs of cards lined up inside. A man wearing a dark t-shirt is visible in a small picture-in-picture window in the corner, reacting to the opening. The logo \"JASPYS\" and the website \"CASEBREAKS.COM\" are prominently displayed as on-screen text in the upper right of the scene. Equipment, including a computer monitor and other gear, is visible in the background of the room."
+}

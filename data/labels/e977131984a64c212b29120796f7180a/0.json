@@ -1,0 +1,15 @@
+{
+  "video_id": "e977131984a64c212b29120796f7180a",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.256,
+    0.427,
+    0.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is conducting a case break of sports cards on a red surface featuring a large orange logo. A black box labeled \"OBSIDIAN\" holds a pack of cards with a blue and white design. A red and white logo that reads \"JASPYS\" and \"CASEBREAKS.COM\" is superimposed on the screen. In smaller inset windows, a man with a beard wearing a black hooded sweatshirt is visible, managing the cards and equipment. As the sequence progresses, a hand enters the main view to handle a clear plastic sleeve, moving it over the cards. The man in the inset window is seen manipulating items on the table, with multiple packs of cards organized in front of him. The scene transitions as the hand continues to interact with the cards, while the overall setup remains consistent."
+}

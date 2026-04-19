@@ -1,0 +1,15 @@
+{
+  "video_id": "7837cde435020890f64b13dd0c47b431",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-288.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.259,
+    0.776,
+    1.293,
+    1.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is recording in a studio setting with dark gray, ribbed sound-absorbing panels in the background. He wears a white t-shirt and black over-ear headphones. A professional microphone, held by a silver boom arm labeled \"Rode PSA1\", is positioned directly in front of him. Throughout the sequence, the man is speaking and gesturing with his hands. He starts with an open-mouthed expression, then closes his mouth slightly while gesturing with both hands. In the final moments, he continues talking while raising his right arm in a broad sweeping motion across his chest. His facial expressions shift from intensity to a slight smile as he engages in the conversation."
+}

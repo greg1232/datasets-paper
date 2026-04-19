@@ -1,0 +1,15 @@
+{
+  "video_id": "1dcc4c94c50256d8fbcd097ada139cc3",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.141,
+    0.422,
+    0.704,
+    0.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark curly hair, wearing black headphones and a dark green t-shirt with a red circular logo, sits behind a professional microphone in a studio setting. She has a skeptical or concerned facial expression, with her eyebrows furrowed and mouth slightly open. Behind her is a black backdrop featuring the text \"SS TALK 101\", \"It's A Unique Hustle\", \"CAST\", and \"About It!\". To her left, a framed picture shows a close-up of hands. A small logo in the bottom left corner reads \"BOSS TALK 101\" and \"BOSS TALK 101\" is also visible on the backdrop. The scene remains static across the sequence, with only subtle changes in the woman's facial expression as she speaks into the microphone, maintaining her positioned focus toward someone off-camera."
+}

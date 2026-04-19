@@ -1,0 +1,15 @@
+{
+  "video_id": "51531faa806b32d0b9ed59694c268a03",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.109,
+    0.328,
+    0.547,
+    0.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Against a dark, textured background with subtle diagonal lines and lighting gradients, the phrase \"BOSS TALK 101\" emerges through a dynamic animation. Initially, the text appears distorted and fragmented, with white letters flickering and appearing partially obscured by glitch-like visual effects. As the sequence progresses, the letters stabilize and become clear and solid. The text is rendered in a clean, bold, white sans-serif typeface, though a thin red horizontal line begins to slice through the middle of the words, adding a sharp accent. By the end of the clip, the text \"BOSS TALK 101\" is fully formed and static, centered on the screen with the red line consistently bisecting the characters, creating a polished and professional logo animation."
+}

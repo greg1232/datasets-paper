@@ -1,0 +1,15 @@
+{
+  "video_id": "b9affd6bf29708b0069632a6e85b750a",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-859.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.792,
+    2.377,
+    3.962,
+    5.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, a black headset, and a dark green t-shirt with the text \"ION NEVER DO SHIT\" printed on the chest speaks into a black professional microphone. He is positioned in a room filled with framed photographs on the wall behind him and a white mannequin wearing a white t-shirt to his right. To the far right, clothing racks and other apparel are visible. On-screen logos include a circular emblem with the text \"SIT DOWN\" on the left and a red logo that reads \"SIT DOWN PODCAST\" on the right. Throughout the sequence, the man remains in the same position, gesturing slightly with his mouth as he speaks, while the background and equipment remain static."
+}

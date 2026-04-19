@@ -1,0 +1,15 @@
+{
+  "video_id": "9205a22391d43f8ff1f3ed1bbb27b75d",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-160.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.27,
+    0.45,
+    0.63
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast segment displays a group of men walking together. A man in a white kurta is positioned centrally, flanked by others in suits and vests. On-screen graphics include the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo and a red ticker bar. A large headline in Hindi reads, \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\". Beside the footage, a smaller inset image shows a man's face with the text \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\" underneath. Other names, \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\" and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930,\" are also visible on the right side of the screen. As the sequence progresses, the camera angle shifts slightly, and the inset image of the man remains visible while the main group continues walking. A timestamp in the bottom right corner remains constant at \"10:09 PM.\" The men maintain a serious demeanor as they move forward through an indoor setting."
+}

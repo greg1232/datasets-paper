@@ -1,0 +1,15 @@
+{
+  "video_id": "8c38421bbf2c6544595551153d1e4f58",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.813,
+    1.139
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a centered graphic on a black background. The graphic consists of a white rounded rectangle containing the text \"ORCA Media\" in large letters, with \"ORCA\" in black and \"Media\" in orange. Below this, in smaller black capital letters, is the phrase \"ONION RIVER COMMUNITY ACCESS\". Above the white box is the word \"An\" and below it is the word \"Presentation\", both written in a white sans-serif font. As the sequence progresses, the brightness of the entire graphic begins to fade. The white background of the rectangle turns gray, and the text \"ORCA Media\" and \"ONION RIVER COMMUNITY ACCESS\" gradually dims. By the final frame, the graphic has become significantly darker and more muted, with the surrounding text \"An\" and \"Presentation\" also fading into the black background."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "3d4f21c5c533d24ba16e8d711c38ad8a",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-244.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.542,
+    1.627,
+    2.711,
+    3.795
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, over-ear headphones, and a green t-shirt with the white text \"ION NEVER DO SHIT\" speaks into a professional microphone. He is positioned in a room with walls decorated with several framed photographs and a white mannequin wearing a white garment in the background. To the right, clothing racks with various garments are visible. A small logo featuring a red and white circle is located on the left side of the frame, and red text that reads \"BOOSY FELIX\" is positioned on the right. Throughout the sequence, the man remains in the same position, slightly shifting his head and facial expressions as he speaks, while the background and equipment remain static."
+}

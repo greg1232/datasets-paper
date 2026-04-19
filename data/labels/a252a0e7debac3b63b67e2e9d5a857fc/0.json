@@ -1,0 +1,15 @@
+{
+  "video_id": "a252a0e7debac3b63b67e2e9d5a857fc",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-202.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.306,
+    0.919,
+    1.531,
+    2.144
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video presents gameplay from \"MADDEN NFL 23,\" specifically focusing on the \"ULTIMATE TEAM\" mode. The initial sequence shows a player card for a cornerback, \"ANTONIO CROMARTIE,\" with an overall rating of \"95\" and various attribute scores like \"95\" and \"94.\" A logo for \"MADDEN NFL 23\" is visible in the bottom left. The scene then transitions to a \"TOP OFFENSE\" menu dated \"DECEMBER 23RD,\" which displays a roster of player cards arranged by position. Positions listed include \"LT,\" \"LG,\" \"C,\" \"RG,\" \"RT,\" \"TE,\" \"WR1,\" \"HB,\" \"QB,\" \"FB,\" and \"SLOT WR.\" Several cards feature specific ratings, such as a \"73,\" \"66,\" \"63,\" and \"72.\" The focus shifts to highlight the \"QB\" position, showing a card for \"JOHN ELWAY,\" followed by the \"FB\" position with a card rated \"72,\" and finally the \"SLOT WR\" position. The \"MADDEN NFL 23\" and \"MUT.GG\" logos remain visible."
+}

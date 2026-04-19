@@ -1,0 +1,15 @@
+{
+  "video_id": "37bd7555c0a0ef97b08932fa55714c12",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.53,
+    1.589,
+    2.648,
+    3.708
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A small, stylized 3D model of the Earth sits above a set of large, red, three-dimensional numbers against a gradient blue background. The numbers are arranged in two lines, with the top line reading \"727-873\" and the bottom line reading \"7618\". The text and the globe are reflected on a glossy blue surface below them. Across the sequence of frames, there is no visible movement or change in the scene; the globe, the numbers, and their reflections remain static in their positions. No people or other objects are present in the image."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b1f269be06dbd71d2355bad068486608",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-068.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.058,
+    0.175,
+    0.292,
+    0.408
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static graphic on a plain background that gradually fades to black. Centered in the frame is a red circular logo containing the text \"I3 kanal\". Below the logo, the text \"Kanal13AZ\" appears, followed by a small button containing the phrase \"bildirislari ac\". The background transitions from a light grey to a medium grey, then to a dark charcoal, and finally to a near-black screen. As the lighting dims across the sequence, the red logo and the white text \"Kanal13AZ\" and \"bildirislari ac\" become increasingly faint until they are almost entirely obscured by the darkness. No people, objects, or equipment are visible in the scene, and the logo remains centered and stationary throughout the darkening process."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7716170b3251a008aca14b111ea42645",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-159.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.344,
+    1.031,
+    1.719,
+    2.406
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with light-colored hair and a dark blue t-shirt is shown in a small video overlay in the bottom-left corner of a video game interface. He is wearing white headphones and is positioned in front of a wall decorated with several framed items and a small Christmas tree. The game screen displays a \"LINEUP\" menu for a sports game, featuring several athlete cards with names like \"MOODY\" and \"AVERSON.\" On-screen text at the top includes numbers such as \"173,037,\" \"14,600,\" and \"2,943,543,\" along with \"LV 19\" and \"91.\" Navigation options at the bottom read \"BEST LINEUP,\" \"HELP,\" and \"BACK.\" Across the sequence, the man's facial expression changes from a neutral look to an open-mouthed expression of surprise or excitement. The game interface remains static, while the man's movements in the overlay are the only visible changes."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b2c82676ccb7fe0a53b1c0972c05523f",
+  "url": "./data/segments/3VCwl-aQ_oQ-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.6,
+    1.8,
+    3.0,
+    4.2
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video captures a screen recording of a computer desktop, showing a spreadsheet, a chat window, and a webcam feed. In the spreadsheet, a list of names including \"Ron Wester\" and \"James Conlin\" is being managed. The webcam feed at the bottom shows a man wearing a black t-shirt and glasses, seated in front of a background with \"CASEBREAKS.COM\" branding. A chat window on the right displays messages, including one that says, \"I think if you are a team signing Ohtani, you are going all in on everyone you can,\" and another stating, \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/N2SbkK90\". As the video progresses, a dropdown menu appears over the spreadsheet, and the user interacts with the cells, specifically adding numbers next to the names \"Ron Wester\" and \"James Conlin.\" The bottom of the screen displays a website banner for \"WWW.JASPYSCASEBREAKS.COM\"."
+}

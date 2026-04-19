@@ -1,0 +1,15 @@
+{
+  "video_id": "b49064973c26b01f28e06f063869353c",
+  "url": "./data/segments/3Kxl1O310k8-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.16,
+    9.48,
+    15.8,
+    22.12
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of video call tiles displays multiple participants in various home office settings. A man with a shaved head wears a dark shirt, and another man wears glasses and a dark shirt. A woman with blonde hair wears a blue and white striped top, while another woman with blonde hair wears a black top and a headset. A man with gray hair wears glasses and a gray shirt. Across the sequence, the participants' expressions and postures shift slightly as they listen and react. In some views, a man is seen drinking from a mug, and another man rests his chin on his hand. The background of some tiles shows blurred interior rooms with furniture and lighting. Small, white timestamps are visible in the bottom corner of some frames, though the exact text is partially obscured. The participants remain in their respective stationary positions throughout the clip."
+}

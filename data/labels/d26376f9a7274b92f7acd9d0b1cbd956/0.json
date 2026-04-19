@@ -1,0 +1,15 @@
+{
+  "video_id": "d26376f9a7274b92f7acd9d0b1cbd956",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-092.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.583,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with blonde hair, wearing a black shirt, is seen in a small inset video window in the bottom left of the scene, speaking while sitting in a room with a decorated Christmas tree and computer equipment in the background. The main focus of the screen is a digital sports card featuring a football player in a blue and white uniform with the number \"45\" on his jersey and white pants. The card is vertically oriented with a blue border and contains several text elements, including \"MLB,\" a circular badge with the number \"83\" and the text \"OVR,\" the words \"EX SPEED,\" and a \"GG\" logo at the bottom. The sequence of frames shows the scene remaining static, with the man in the inset window continuing to talk while the digital sports card stays fixed in the center of the display."
+}

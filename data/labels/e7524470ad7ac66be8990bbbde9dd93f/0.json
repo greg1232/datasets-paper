@@ -1,0 +1,15 @@
+{
+  "video_id": "e7524470ad7ac66be8990bbbde9dd93f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-086.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser with multiple open tabs and a video conferencing window in the upper right corner showing a man wearing a dark hat and a blue shirt. The main content is a digital mind map with a dark background and various interconnected circular nodes. Some nodes contain images, while others have text labels such as \"True Learning,\" \"Insights,\" and \"Feedback Loops.\" In the first two frames, a large white rectangular overlay containing a picture of a red-and-white object partially obscures the center of the mind map. By the third and fourth frames, this overlay has disappeared, revealing more of the complex network of nodes and connecting lines. Small interface icons and browser elements are visible at the top of the screen, including text for tabs like \"True Learning by Systemyn,\" \"Florence,\" and \"The Future of Society by Systemyn.\""
+}

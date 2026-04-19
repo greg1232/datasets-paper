@@ -1,0 +1,15 @@
+{
+  "video_id": "083bdedc2d28d08d266cd8a94db3b5e3",
+  "url": "./data/segments/3fokLGPK15Q-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.59,
+    4.77,
+    7.95,
+    11.13
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman and a man sit side-by-side in light-colored chairs against a textured purple backdrop. The woman has blonde hair tied back, wears a head-mounted microphone, and is dressed in a black t-shirt with white text that reads \"WHO'S IN YOUR\", though the rest of the phrase is obscured. She sits relatively still with her hands folded in her lap throughout the sequence. Beside her, a man in a light blue button-down shirt and a grey blazer is actively speaking and gesturing with both hands. He wears a pink wristband on his left arm. Between the frames, the man's hands move expressively to emphasize his points, shifting from wide gestures to more contained movements near his chest. The camera remains static, capturing the two individuals from the waist up as the man continues his discussion."
+}

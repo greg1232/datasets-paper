@@ -1,0 +1,15 @@
+{
+  "video_id": "f9b9fe677a805821fb8065562da85653",
+  "url": "./data/segments/3P1vSUbet40-Scene-0832.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.284,
+    6.851,
+    11.418,
+    15.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt, a black baseball cap with a logo, and over-ear headphones sits in a recording studio. He is positioned behind a professional microphone on a boom arm. In the background, a white wall features repeated text and star graphics, while a screen displays a logo that reads \"BOSS TALK 101\". On-screen overlays include a logo on the left that says \"BOSS TALK 101 PODCAST\" and another on the right that reads \"BOSS TALK 101\". The man is speaking and gesturing with his hands to emphasize his points. Across the sequence, he shifts his posture and gaze, moving from a relatively centered position to leaning slightly and gesturing more actively with his right hand. He is wearing a gold chain around his neck, and a small circular logo is visible on the chest of his t-shirt."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c3e51acccac87308a417455954b882ee",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-275.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.22,
+    0.66,
+    1.1,
+    1.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a presentation titled \"Local Sustainable Food System Economics.\" The slide features a diagram with circular nodes connected by arrows, labeled with phrases such as \"People's Health & Welfare,\" \"Healthy Edible Food,\" and \"Local Sustainable Farming.\" The accompanying text explains that \"Local sustainable farm products have to compete against mass marketed industrial food products\" and notes that \"Time was Farmers gave for themselves to local markets and local populations.\" In the upper right corner, a small video window shows a man with short dark hair and a beard, wearing a dark shirt, who is speaking and gesturing. As the sequence progresses, the presenter's movements in the video window change slightly. The browser interface is visible, displaying several open tabs including \"Rural Community Food Hub\" and \"Large Corporate Farm.\" A \"Legend\" section is partially visible at the bottom of the slide."
+}

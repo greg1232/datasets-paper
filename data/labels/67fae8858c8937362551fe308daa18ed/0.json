@@ -1,0 +1,15 @@
+{
+  "video_id": "67fae8858c8937362551fe308daa18ed",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.655,
+    10.965,
+    18.275,
+    25.585
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a minimalist indoor studio with a plain light-grey background, two people stand behind separate white circular tables. A man on the left wears a dark navy suit jacket and trousers, while a woman on the right wears a dark blazer over a magenta top and light-colored trousers. Each table holds a microphone on a stand and a clear water bottle. At the top of the scene, a black banner features the logo \"mediasite by cornerstone\". Throughout the sequence, the man stands in profile, facing the woman and gesturing slightly with his hand as he speaks. The woman stands facing forward, listening with her hands clasped in front of her. There is very little movement between the frames, as the individuals maintain their positions and focused engagement with one another, with only subtle shifts in the man's posture and hand positioning."
+}

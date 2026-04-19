@@ -1,0 +1,15 @@
+{
+  "video_id": "b2ddf8c3d366a831c37b3db1370c3fbb",
+  "url": "./data/segments/3P1vSUbet40-Scene-0343.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.991,
+    1.387
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a black baseball cap, a black t-shirt that says \"CHECK IT! MAN\", and headphones, is seated in a studio setting. He is positioned in front of a professional microphone and a background featuring the text \"HUSTLE\" and gold stars. Throughout the clip, the man is speaking and gesturing with his hands. In the initial moments, he has both hands raised in a conversational gesture, but as time progresses, he lowers his hands and turns his head slightly to the side. Red and white logos and text are superimposed on the scene, including \"BOSS TALK 101\" and a smaller \"PODCAST\" logo. The background also contains large, blurred lettering that reads \"BOSS TALK 101\". The lighting is bright and consistent across the frames, focusing on the subject as he talks."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f908e2026a5201cbb87819aa5f553028",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.259,
+    0.776,
+    1.293,
+    1.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a studio with a dark, ribbed acoustic foam wall behind him. He is wearing a black hooded sweatshirt over a grey shirt and has large black headphones over his ears. Positioned directly in front of his face is a professional studio microphone on a boom arm. Throughout the sequence, the man expresses amusement; he begins by looking slightly upward and to the side with a soft smile. He then closes his eyes and tilts his head back slightly, laughing. His expression shifts back to a smile as he looks toward the side again, before returning to a closed-eye, laughing expression. His facial movements are the only significant changes across the scene, while the equipment and background remain static."
+}

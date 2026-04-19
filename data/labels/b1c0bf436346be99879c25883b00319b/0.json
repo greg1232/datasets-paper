@@ -1,0 +1,15 @@
+{
+  "video_id": "b1c0bf436346be99879c25883b00319b",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-116.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.355,
+    1.064,
+    1.773,
+    2.482
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static image displays a dark, textured background with a yellowish-gold center that resembles weathered metal or stone. Centered in the frame is a white logo consisting of a stylized circular icon next to the text \"TFNN.COM\" in a bold, sans-serif font. Directly beneath this is the phrase \"EDUCATING INVESTORS\" in a smaller, white, all-caps font. Below the logo, the text \"SIGN UP TODAY\" appears in a bright yellow color, followed by the line \"VISIT THE FRONT PAGE OF TFNN.COM!\" also in yellow. The image remains completely static across all four frames, with no changes in the setting, the lighting, or the positioning of the text and logos. No people, animals, or moving objects are present in the scene."
+}

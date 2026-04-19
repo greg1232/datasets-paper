@@ -1,0 +1,15 @@
+{
+  "video_id": "86617741a4db47a916d4c27a24ceeba5",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-179.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.081,
+    0.244,
+    0.406,
+    0.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a gold-bordered trading card in the foreground, shifting its position slightly to reveal the image and text on the card. In the background, a man wearing a dark blue t-shirt with a yellow logo sits behind a table decorated with a white cloth featuring orange borders and green palm tree illustrations. The scene is overlaid with branding, including the \"JASPYS\" logo and the text \"CASEBREAKS.COM\". A computer monitor and other equipment are visible on the table behind the man. As the sequence progresses, the hands tilt the card, bringing the player's portrait and signature into clearer view. The man in the background remains seated, observing the process of revealing the card."
+}

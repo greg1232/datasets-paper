@@ -1,0 +1,15 @@
+{
+  "video_id": "6304c7c352926303cd65ae31f12b36b9",
+  "url": "./data/segments/3Z229_lKLpk-Scene-186.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.5,
+    2.5,
+    3.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide shot captures a large, ornate assembly hall filled with people seated in curved rows. The hall features a high, patterned ceiling with recessed circular lighting and gold-toned walls. At the front of the room, a raised podium sits before a large, light-blue textured backdrop adorned with a central circular emblem. Two large monitors flank the backdrop, displaying a feed of the room. The attendees are dressed in a variety of colorful, formal, and traditional attire, filling the seating area from the foreground to the front of the stage. Across the frames, the scene remains virtually static; there is no significant movement among the crowd or changes in the environment. The people remain seated, and the visual content on the screens and the overall composition of the hall stay consistent throughout the sequence."
+}

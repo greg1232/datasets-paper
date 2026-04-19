@@ -1,0 +1,15 @@
+{
+  "video_id": "da06fb9d808324ff7bef67c0a16f7cdc",
+  "url": "./data/segments/3phuyH7Y05U-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.387,
+    0.646,
+    0.904
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A bald man with sunglasses, a white collared shirt, and a black tie is positioned in an indoor setting. He is viewed from the chest up, centered in the frame. Behind him is a white wall featuring a framed picture of a gold circular seal atop a pedestal. To his right is a large window showing a blurred urban skyline of beige buildings under a pale sky. Throughout the sequence, the man remains stationary while speaking. His mouth opens and closes in a repetitive cycle of speech, moving from a slightly open position to a wider opening and back again. The lighting is flat and consistent, and no other people or objects are present in the scene. There is no legible text or logos visible within the frames."
+}

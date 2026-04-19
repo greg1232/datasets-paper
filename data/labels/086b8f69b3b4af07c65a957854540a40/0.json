@@ -1,0 +1,15 @@
+{
+  "video_id": "086b8f69b3b4af07c65a957854540a40",
+  "url": "./data/segments/3a0FD1177FA-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.141,
+    0.422,
+    0.704,
+    0.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands, wearing a white smartwatch, are shown working on a crafting project on a white surface. The person holds a card featuring a brick-patterned background and a green leaf-patterned square piece of paper. As the sequence progresses, the person carefully positions the leaf-patterned square onto the card, gradually aligning it and pressing it down. In the background, various crafting supplies are visible, including a light-blue tool and a red object. On-screen text across the bottom reads \"BLOOM WHERE YOU'RE PLANTED 12\" X 12\" DESIGNER SERIES PAPER,\" and a logo for \"Stamping\" is visible in the lower-left corner. The card itself has text that reads \"Wishing you a BIRTHDAY filled with all the best things.\" The focus remains on the manual process of assembling the decorative card components."
+}

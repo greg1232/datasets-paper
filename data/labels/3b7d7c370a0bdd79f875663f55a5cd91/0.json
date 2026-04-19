@@ -1,0 +1,15 @@
+{
+  "video_id": "3b7d7c370a0bdd79f875663f55a5cd91",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-152.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.993,
+    2.978,
+    4.963,
+    6.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with gray hair and glasses stands before a microphone, speaking in a room with horizontal wooden blinds in the background. He is wearing a light blue, button-down shirt with a subtle pattern and a beaded necklace. A black microphone on a stand is positioned in front of him, and the text \"ORCA\" is visible in white letters on a white rectangular background to the right of the man. As the sequence progresses, the man continues to speak, with slight shifts in his facial expression and the positioning of his mouth. His head remains relatively still, and the composition of the shot stays consistent, focusing on his upper body and head throughout the clip."
+}

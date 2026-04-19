@@ -1,0 +1,15 @@
+{
+  "video_id": "31b77e430332c2b549a2bf065e24ce9e",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-569.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt, a black baseball cap, and black headphones sits in a studio setting. His t-shirt features the text \"ION NEVER DO SHIT AT WRK\" in white letters. He is positioned behind a professional black microphone. In the background, the room contains a mannequin wearing a white shirt, various clothing racks, and a wall adorned with framed photographs. Two logos are visible on the screen: a circular \"T\" logo on the left and red text that reads \"BREEZY\" and \"TOT\" on the right. Across the sequence, the man remains in a seated position, slightly shifting his head and facial expression as he speaks. His right hand is partially visible, moving slightly in the early part of the clip. The background and equipment remain static throughout the sequence."
+}

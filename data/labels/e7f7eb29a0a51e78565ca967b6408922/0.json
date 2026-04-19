@@ -1,0 +1,15 @@
+{
+  "video_id": "e7f7eb29a0a51e78565ca967b6408922",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-109.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, modern indoor hall with a high, recessed ceiling and warm lighting serves as the setting for a gathering. A blue carpet covers the foreground area, while a crowd of people is seated behind it in the background. Several individuals are standing near the blue area, including a person in a light-colored garment and another in darker clothing. As the sequence progresses, the camera remains static, but the lighting shifts, becoming dimmer and more muted in the later frames. A translucent watermark with the text \"www.elgydna.com\" is visible across the center of the scene in the later frames. The people in the background remain largely stationary, seated at tables, while the standing figures maintain their positions with minimal movement between the frames."
+}

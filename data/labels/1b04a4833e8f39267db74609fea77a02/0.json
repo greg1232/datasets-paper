@@ -1,0 +1,15 @@
+{
+  "video_id": "1b04a4833e8f39267db74609fea77a02",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.585,
+    1.756,
+    2.927,
+    4.098
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds up a sports trading card featuring a baseball player, with the name \"CARLTON FISK\" printed at the bottom and a signature across the center. The card is displayed against a background featuring a logo that says \"JASPYS CASEBREAKS.COM\" and a colorful mat with palm tree illustrations. In a small inset video window, a man with a beard wearing a dark t-shirt is visible, sitting in front of computer equipment. The setting appears to be a studio or a dedicated space for opening trading card boxes. As the sequence progresses, the hand lowers the card, and the camera's focus shifts toward a stack of white and yellow boxes on the table. Throughout the frames, the \"JASPYS CASEBREAKS.COM\" branding remains visible on the background, and the man in the inset window remains in his position, observing the action."
+}

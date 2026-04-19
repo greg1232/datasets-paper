@@ -1,0 +1,15 @@
+{
+  "video_id": "2162e3b5426614632e6f6a2b570e7900",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.55,
+    1.65,
+    2.75,
+    3.85
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair wearing a grey t-shirt and white headphones is positioned in a webcam overlay in the lower-left corner of the screen. He is speaking and gesturing with his hand in front of a blue-lit background with a small decorated tree. The main screen displays several dark, ornate gift boxes with swirling patterns and glowing contents. Text appearing on the screen includes \"PRESENT\" vertically on the side of the boxes, \"Y PRESENT x1\", \"BLITZ PRESENT x1\", and \"KR\". In the final stage of the clip, the layout shifts to show larger versions of these gifts, with the labels \"LOVELY PRESENT x1\", \"BLITZ PRESENT x1\", and \"KRAMP\" visible at the bottom. The man's expression and hand gestures change slightly as he reacts to the items appearing on the screen."
+}

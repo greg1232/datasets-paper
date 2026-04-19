@@ -1,0 +1,15 @@
+{
+  "video_id": "5db730cf8536ab2618cba8eec41fd2d5",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.563,
+    0.788
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up view of the rear bumper of a white Chevrolet Corvette. The car's rear features two black oval vents and a centered license plate from the \"SUNSHINE STATE\" with the alphanumeric code \"192 WTR\". Directly above the license plate, the word \"CORVETTE\" is embossed in capital letters on the bumper, and above that is a red rectangular reflector. The camera begins with a centered, static shot of the rear end. As the video progresses, the camera pans slightly downward and to the left, shifting the perspective so that more of the right side of the bumper and the ground beneath the vehicle become visible. No people are present in the scene, and the car appears to be parked on a paved surface next to a grassy area."
+}

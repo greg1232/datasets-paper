@@ -1,0 +1,15 @@
+{
+  "video_id": "2f3d359f5edc8ab4093c0004c347786a",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.373,
+    1.119,
+    1.865,
+    2.61
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a white rectangular container topped with a gold-colored ribbed lid. In the background, a man with a beard wearing a navy blue shirt sits at a desk. The scene is branded with logos and text, including \"JASPYS LIVE\" and \"CASEBREAKS.COM\". To the right, a smaller inset view shows the man in his setting. As the sequence progresses, the person's hands lift the gold lid away from the white base. By the final frame, the lid is completely removed, revealing a white interior and a glimpse of the contents inside. The background remains consistent throughout, featuring the man and the \"JASPYS\" branding, while the primary action focuses on the opening of the container."
+}

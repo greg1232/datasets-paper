@@ -1,0 +1,15 @@
+{
+  "video_id": "1e7027b9b78200a9c74df9f20d4dede1",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.675,
+    11.024,
+    18.373,
+    25.722
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green Polaris Sportsman ATV is parked inside a garage or workshop. The initial view shows the front of the vehicle, featuring a large front storage box and chunky off-road tires. A closer view follows, focusing on the top of the green storage box and the side of the vehicle where the text \"SPORTSMAN\" is visible. The perspective then shifts to the interior mechanical components beneath the bodywork, showing a detailed view of the engine, wiring, and a rusted metal pipe. The final shot remains focused on these internal components, highlighting the engine casing with the \"POLARIS\" logo embossed on a metal part and various tubes and cables running through the chassis. No people are visible in the scene, which transitions from an exterior view of the ATV to a detailed examination of its internal machinery."
+}

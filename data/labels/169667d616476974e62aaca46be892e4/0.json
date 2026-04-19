@@ -1,0 +1,15 @@
+{
+  "video_id": "169667d616476974e62aaca46be892e4",
+  "url": "./data/segments/3Kxl1O310k8-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.24,
+    15.72,
+    26.2,
+    36.68
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a presentation slide about \"Municipal Affordable Housing Trust Funds,\" referencing \"M.G.L. Chapter 44, Section 55c.\" The slide contains a bulleted list stating that the fund is a \"Public entity,\" \"Created by local legislative body,\" designed to \"Create & preserve affordable housing \u2013 narrow focus,\" and \"Led by Board of Trustees.\" It further notes that it is \"Subject to public procurement, designer selection, conflict of interest & public meeting laws.\" To the right of the text is a circular image of a red brick house with a grey roof and a green lawn. The slide is set against a white background with a yellow band at the bottom containing the letters \"MHP.\" Across all four frames, the content remains static, with no movement or changes in the text, images, or layout."
+}

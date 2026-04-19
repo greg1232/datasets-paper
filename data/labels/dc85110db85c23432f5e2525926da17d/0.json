@@ -1,0 +1,15 @@
+{
+  "video_id": "dc85110db85c23432f5e2525926da17d",
+  "url": "./data/segments/3a0FD1177FA-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.819,
+    2.456,
+    4.093,
+    5.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands work on a crafting project atop a white gridded cutting mat. The workspace contains patterned green and gold paper cutouts, a white scalloped piece of cardstock, a red stamp, a black ink pad, and small clear acrylic stamps. In the initial sequence, the person's hands are positioned near the center of the mat. As the action progresses, the person picks up a small white sentiment tag and prepares to place it onto a green patterned rectangular piece of paper. The sentiment tag features the text \"HO HO HO\" and \"be jolly\". The logo \"Amazing Jill\" is visible as a watermark in the bottom-left corner of the scene. The sequence concludes with the person carefully positioning the small tag onto the paper cutout."
+}

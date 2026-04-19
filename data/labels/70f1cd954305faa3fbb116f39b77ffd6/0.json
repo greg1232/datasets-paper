@@ -1,0 +1,15 @@
+{
+  "video_id": "70f1cd954305faa3fbb116f39b77ffd6",
+  "url": "./data/segments/3L_uHTClWfk-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.462,
+    0.771,
+    1.079
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a dimly lit interior setting, a man is wearing a white lab coat over a black turtleneck and a large, white, rounded helmet. In the first frame, he is seen from the side, with the helmet obscuring most of his face. In the second frame, he raises his hand to the front of the helmet, lifting a dark visor to reveal his eyes and a small microphone positioned near his mouth. By the third frame, he has pushed the visor further up, exposing more of his forehead and face as he looks forward with a neutral expression. In the final frame, he continues to hold the visor up, maintaining his gaze. In the background, blurry equipment and panels are visible, including some illegible text and symbols on the right side of the screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a734ae587aadf9c52a0fffb1e543f154",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a low-light indoor setting featuring a white, quilted leather seat or sofa. In the first frame, the scene is dark, with a blue light illuminating the edge of the seat and some equipment, including a black cable and a small device, resting on the surface. As the sequence progresses, the camera shifts slightly, and a person's arm and hand enter the frame from the left, reaching toward the equipment. By the final frames, the person's hand is visible as they adjust or interact with the black cable and device on the seat. The overall lighting remains dim and blue-toned throughout the clip, focusing on the tactile interaction between the person and the technical equipment resting on the white furniture. No text or logos are visible in the scene."
+}

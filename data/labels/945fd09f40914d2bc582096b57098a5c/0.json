@@ -1,0 +1,15 @@
+{
+  "video_id": "945fd09f40914d2bc582096b57098a5c",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-073.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.551,
+    1.652,
+    2.753,
+    3.854
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is visible as they work on the mechanical drive system of a vehicle, likely a snowmobile, featuring a belt and pulley assembly. In the beginning, the person's hand is positioned near a smaller pulley on the left side of the frame. As the sequence progresses, the hand moves away, and the engine is started, causing the pulleys and the drive belt to spin rapidly. This motion creates a blur across the mechanical components. In the final scene, the camera shifts slightly to the left, revealing a green body panel with a white and red logo that reads \"MAN\". The surrounding area is filled with various mechanical parts, including black hoses and wiring, all set within a metallic frame. The action transitions from a static state of manual adjustment to the high-speed rotation of the drive system."
+}

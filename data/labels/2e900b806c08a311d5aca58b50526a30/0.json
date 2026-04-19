@@ -1,0 +1,15 @@
+{
+  "video_id": "2e900b806c08a311d5aca58b50526a30",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.76,
+    11.281,
+    18.802,
+    26.323
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair, wearing black over-ear headphones and a purple and white striped button-down shirt, is seen in a head-and-shoulders shot against a plain, light-colored wall. To her left, pale yellow and blue curtains hang. The text \"Nancy Ramya\" appears in white on the left side of the scene. As the video progresses, she speaks, her mouth opening and closing and her facial expressions shifting slightly. In the first frame, she appears to be mid-sentence with her mouth open. By the second frame, her mouth is closed, and she maintains a neutral gaze. In the third and fourth frames, she continues speaking, with her mouth opening again and her gaze shifting slightly to the side. Throughout the clip, her position and the background remain static."
+}

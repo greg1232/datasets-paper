@@ -1,0 +1,15 @@
+{
+  "video_id": "f80ff0a2f84b347476ec945a794e8f7d",
+  "url": "./data/segments/3iUTkJy84EY-Scene-206.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.31,
+    0.93,
+    1.55,
+    2.17
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is centered against a plain black background. She wears a light green, embroidered tunic with a small dark necklace and a bracelet on her left wrist. Throughout the sequence, she is speaking and using hand gestures to emphasize her points. Initially, she holds her left hand up with one finger raised, then transitions to clasping her hands together in front of her chest, and finally opens her arms slightly as she continues to talk. In the bottom left corner of each frame, there is a circular logo accompanied by the text \"NPTEL\". The lighting is consistent, focusing on the woman, while the dark setting remains unchanging as she delivers her presentation."
+}

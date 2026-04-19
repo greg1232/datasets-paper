@@ -1,0 +1,15 @@
+{
+  "video_id": "3d041f0471bc895c637fba510fbdd3b0",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-237.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.5,
+    0.833,
+    1.167
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen opening a white cardboard box containing a yellow envelope. The scene is set against a background featuring \"JASPYS\" logos and the text \"CASEBREAKS.COM\". In a smaller picture-in-picture window, a man wearing a navy blue t-shirt with a yellow circular logo is seated at a desk with equipment. In the main view, the person's hands grasp the yellow envelope and slowly lift it out of the white box. As the sequence progresses, the envelope is pulled further upward and tilted, revealing the dark interior of the box. The setting remains constant throughout the clip, with the focus remaining on the action of extracting the envelope from the packaging while the man in the corner window observes from his desk."
+}

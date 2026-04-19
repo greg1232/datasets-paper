@@ -1,0 +1,15 @@
+{
+  "video_id": "2e001db45098ec5eb0555ddd5db77e00",
+  "url": "./data/segments/3Z229_lKLpk-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.32,
+    0.96,
+    1.6,
+    2.24
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static, close-up view of an ornate architectural wall. The scene features a combination of green marbled stone and carved wooden panels. The stone sections are designed with a repeating geometric, stepped pattern, while the adjacent wooden panels exhibit a detailed, scalloped fan-like carving. A slender, cylindrical gold light fixture is mounted vertically on the marble surface, featuring a small glowing bulb at the top and a decorative twisted inner element. There are no people, text, or logos present in the scene. Across the frames, the camera remains completely stationary, and there is no visible movement or change in lighting, resulting in a consistent view of the luxurious interior textures and decorative elements."
+}

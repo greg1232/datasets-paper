@@ -1,0 +1,15 @@
+{
+  "video_id": "4a954912988e7c213f6e5ea3984f1ada",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-111.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and a beard is situated in a recording studio, wearing a grey shirt and black over-ear headphones. He is positioned in front of a professional microphone with a pop filter and a black arm stand, set against a background of dark, vertically ribbed acoustic panels. In the first frame, a black rectangular overlay is visible, featuring the white text \"THE WINE LINE\" and smaller, illegible text above and below. As the sequence progresses, this overlay becomes a plain black rectangle without text. The man maintains a similar posture throughout, glancing slightly upward and to his right with a neutral expression. The lighting and setting remain constant, with only the appearance of the on-screen graphic changing across the frames."
+}

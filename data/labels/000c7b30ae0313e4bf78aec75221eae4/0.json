@@ -1,0 +1,15 @@
+{
+  "video_id": "000c7b30ae0313e4bf78aec75221eae4",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-295.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, headphones, and a black hoodie with the text \"BOSS TALK\" and a circular logo on the chest sits in a studio setting. He has a gold chain around his neck and is positioned in front of a professional microphone on a boom arm. To his left is a white backdrop featuring stars and the words \"UNION HUSTLE,\" while a sign above him reads \"Where BOSSES Talk!\". To his right, a white mug rests on the table with red and blue text that includes \"TALK OUT\". In the background, a screen displays the letters \"KNL\". Throughout the sequence, the man remains in the same position, leaning back slightly with a smile and closed eyes, appearing to be laughing or reacting emotionally. The scene remains static with very little movement, showing only slight shifts in his facial expression across the frames."
+}

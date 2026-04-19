@@ -1,0 +1,15 @@
+{
+  "video_id": "a7d46473ca50ea95817ae83157fb8c35",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.13,
+    0.391,
+    0.651,
+    0.911
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair wearing a purple and white striped shirt and large black over-ear headphones is speaking directly to a camera. She is positioned in an indoor setting with light-colored curtains visible to her right and a plain wall behind her. The text \"Nancy Ramya\" appears in the lower left corner of each frame. As the sequence progresses, she speaks, moving her lips and slightly shifting her facial expressions. Her right hand is partially visible near the bottom of the frame, moving slightly as she gestures while talking. The background and her clothing remain consistent across the clip, while the primary motion is her speaking and the subtle movements of her head and hand."
+}

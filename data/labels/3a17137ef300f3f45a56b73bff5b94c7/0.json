@@ -1,0 +1,15 @@
+{
+  "video_id": "3a17137ef300f3f45a56b73bff5b94c7",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-139.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.84
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast displays a panel of politicians seated at a long white table in front of a banner that reads \"NATIONAL DEVELOPMENTAL INCLUSIVE ALLIANCE\" and \"NEW DELHI\". Several men in traditional Indian attire, including white kurtas and vests, are seated behind the table. A red banner at the top of the screen repeatedly displays the text \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". A large \"BREAKING NEWS\" ticker runs across the bottom in red and white, accompanied by a timestamp of \"10:08 PM\". On the right side of the screen, inset profile photos of men are visible, with names such as \"\u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930\" and \"\u0935\u093f\u091c\u092f \u091a\u094c\u0927\u0930\u0940\" written below them. The scene remains largely static across the frames, though a portrait of a man appears on the far left in the later frames with the text \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\". The overall layout is a typical news report format with multiple overlays and logos."
+}

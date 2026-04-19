@@ -1,0 +1,15 @@
+{
+  "video_id": "a241dfce00b771ee8811ef2d696ad07d",
+  "url": "./data/segments/3pLMflJEGQ4-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.467,
+    1.4,
+    2.333,
+    3.267
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with short white hair and a white beard is positioned outdoors against a backdrop of dense green foliage. He wears black-rimmed glasses, a dark grey turtleneck sweater, and a black jacket with a textured, fuzzy collar. In the initial sequence, the man looks directly forward with a neutral expression, his arms resting at his sides. As the scene progresses, he maintains his gaze but begins to move his right hand upward. By the final moment, he has raised his hand toward his chest, gesturing with his fingers slightly curled. The background remains static throughout the sequence, and there is no on-screen text, logos, or other people visible in the frames."
+}

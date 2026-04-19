@@ -1,0 +1,15 @@
+{
+  "video_id": "fa955df4ac5878736f13c491e4350b24",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.459,
+    1.376,
+    2.294,
+    3.212
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical simulation room, several healthcare students in blue scrubs, pink scrubs, and grey jackets, all wearing face masks, practice medical procedures on a medical mannequin lying on a bed. In the early stages, a student in a grey jacket and blue scrubs stands by the mannequin while another student in blue scrubs prepares supplies on a side table. As the sequence progresses, a student in a grey jacket enters the scene and hands a blue sterile package to a student in blue scrubs, who is wearing blue gloves. The room is equipped with medical monitors, a red crash cart, and various supplies. Purple graphics in the bottom corners of the frames include a stylized figure and the text \"Day 2\" and \"Sim Week\". The movement focuses on the coordination between the students as they handle medical equipment around the mannequin."
+}

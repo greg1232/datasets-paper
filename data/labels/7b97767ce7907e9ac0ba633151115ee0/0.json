@@ -1,0 +1,15 @@
+{
+  "video_id": "7b97767ce7907e9ac0ba633151115ee0",
+  "url": "./data/segments/3F2rz23IKUk-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.905,
+    5.715,
+    9.525,
+    13.335
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static presentation slide with a white background and black text. The slide is titled \"Compliance requires attention\" in a large, centered font. Below the title, two bullet points provide guidance on sourcing. The first bullet point states, \"If sourcing from third parties, ensure that you know what you're getting,\" and the second bullet point states, \"If your vendor can't provide source, you can't ship what they're giving you.\" No people, logos, or other objects are visible in the scene. Across the sequence of frames, the visual content remains completely unchanged, showing the same text in the same positions without any movement or transitions."
+}

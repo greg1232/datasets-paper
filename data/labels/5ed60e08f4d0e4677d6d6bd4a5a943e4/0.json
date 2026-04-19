@@ -1,0 +1,15 @@
+{
+  "video_id": "5ed60e08f4d0e4677d6d6bd4a5a943e4",
+  "url": "./data/segments/3iDf0wcP2u0-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    14.585,
+    43.756,
+    72.927,
+    102.098
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a gray beard, wearing a brown flat cap and a black button-down short-sleeved shirt, stands in front of a plain, neutral-colored wall. He is holding a handheld microphone with a yellow band near the head close to his mouth. Throughout the sequence, he speaks and gestures with his hands to emphasize his points. In the first frame, he holds the microphone in his right hand and gestures with his left hand open. By the second frame, he brings his left hand up, curling his fingers. He then lowers his left hand and gestures outward again in the third frame. In the final frame, his left arm is lowered by his side while he continues to hold the microphone. A small piece of black equipment is partially visible on the right side of the background."
+}

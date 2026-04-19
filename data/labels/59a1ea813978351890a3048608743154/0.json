@@ -1,0 +1,15 @@
+{
+  "video_id": "59a1ea813978351890a3048608743154",
+  "url": "./data/segments/3P1vSUbet40-Scene-0541.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.318,
+    0.954,
+    1.59,
+    2.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt with the text \"CHECK IT\" on the front, a dark blue baseball cap, a gold chain, and over-ear headphones sits in a studio setting. He is positioned in front of a professional microphone and is speaking, gesturing with his hands as he talks. In the background, a wall displays the word \"HUSTLE\" above a row of stars and \"BOSS TALK 101\" in red and black text. Overlaid on the image are logos and text, including a circular \"PODCAST\" emblem and the text \"BOSS TALK 101\". As the scene progresses, the man's hand movements shift from resting on the table to gesturing outwards and then slightly closer to his chest, while his facial expression remains focused on the conversation."
+}

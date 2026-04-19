@@ -1,0 +1,15 @@
+{
+  "video_id": "c520201912b7ee6f1d771182c6fdbe3c",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.315,
+    0.945,
+    1.575,
+    2.205
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man identified as \"\u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930, CM, \u092c\u093f\u0939\u093e\u0930\" stands outdoors surrounded by other men in suits and formal wear, speaking into several microphones, including one with an \"ANI\" logo. He wears a white shirt and a dark vest. To his right, several other men look on, some identified by on-screen text as \"\u0935\u093f\u091c\u0947\u0902\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\" and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930.\" The scene is overlaid with news graphics from \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e,\" featuring a red and yellow color scheme. A headline reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\" and another states \"\u0938\u092c\u094d\u0930\u094d\u0930\u093e\u091f \u091a\u094c\u0927\u0930\u0940, \u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e \u0915\u094b \u092d\u0940 PM \u0928\u0947 \u092c\u0927\u093e\u0908 \u0926\u0940.\" Small portrait photos of officials appear on the sides of the screen. As the sequence progresses, the labels for the men change; \"\u0938\u092c\u094d\u0930\u094d\u0930\u093e\u091f \u091a\u094c\u0927\u0930\u0940\" and \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\" are highlighted in red boxes. The time stamp \"10:04 PM\" and a \"MAHARASHTRA\" tag remain constant throughout the frames."
+}

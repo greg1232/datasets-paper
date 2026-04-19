@@ -1,0 +1,15 @@
+{
+  "video_id": "7fc8e09f225240df1c0328d5ff9c6145",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-095.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.5,
+    2.5,
+    3.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser window where a person is presenting a digital mind map. In the upper right corner of the screen, a small video feed displays a man wearing a dark baseball cap and a dark shirt. The main area of the screen features a dark background with various circular icons and connecting lines. Initially, a central icon of a person is connected to a larger image containing the word \"SHARE\" in bold, white capital letters. As the sequence progresses, the mind map expands significantly. New circular icons containing various images and text labels, such as \"TRUST,\" \"SOCIETY,\" and \"SOCIETY-GOVERNMENT,\" appear and connect to the central figures via blue and white lines. The browser tabs at the top list titles including \"Trust & Learning by Systemenit,\" \"Elements by Systemenit,\" and \"Future of Society by Systemenit.\""
+}

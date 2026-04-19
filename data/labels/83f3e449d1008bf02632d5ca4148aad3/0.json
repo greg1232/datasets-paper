@@ -1,0 +1,15 @@
+{
+  "video_id": "83f3e449d1008bf02632d5ca4148aad3",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.442,
+    1.325,
+    2.208,
+    3.092
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand interacts with a clear plastic case resting on a decorated surface featuring green palm trees and orange accents. In the background, a man with a beard wearing a dark t-shirt is visible in a small inset video window, sitting in front of a computer setup. On-screen text reads \"JASPYS\" in a stylized orange font above the URL \"CASEBREAKS.COM\". A small yellow object sits atop a stack of white blocks. As the sequence progresses, the hand reaches toward and grasps the clear plastic case. By the final frame, the hand lifts the case upward and slightly to the right, revealing more of the surface below. Throughout the clip, the man in the inset window remains seated, observing the action."
+}

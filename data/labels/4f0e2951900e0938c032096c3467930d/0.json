@@ -1,0 +1,15 @@
+{
+  "video_id": "4f0e2951900e0938c032096c3467930d",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.377,
+    10.131,
+    16.885,
+    23.64
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a pink sleeveless athletic shirt and black shorts is in an indoor basketball gym with blue wall padding and blue bleachers. In the initial scene, the man is positioned far from the camera on the polished wooden court, bouncing a basketball. As the sequence progresses, he moves toward the camera, bringing the basketball with him. By the middle of the clip, he is in a medium shot, holding the basketball in his left hand and gesturing with his right. In the final shots, the camera is focused on a close-up of his face and upper torso as he speaks, with the basketball partially visible and his right hand moving in a gesturing motion. The background features white walls, basketball hoops with transparent backboards, and a green boundary line on the court."
+}

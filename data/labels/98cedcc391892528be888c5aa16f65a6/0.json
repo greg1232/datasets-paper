@@ -1,0 +1,15 @@
+{
+  "video_id": "98cedcc391892528be888c5aa16f65a6",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-076.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.901,
+    1.502,
+    2.102
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An ultrasound machine monitor displays a grayscale medical image of a body part containing several dark, circular fluid-filled areas. The screen includes technical data in the upper right and left corners, such as the date and time \"2023Feb14 09:41\", \"Gen S\", and \"MB\", as well as measurement labels like \"TIS 0.1\". At the bottom of the screen, a menu bar contains options such as \"Gen\", \"Guide\", and \"MB On\". The monitor is housed in a gray plastic casing. Overlaid on each view is a purple silhouette of a person walking with a cane, accompanied by the text \"Day 2\" in a white bubble and \"Sim Week\" next to a small building icon. The scene remains static across the sequence, with no changes in the image on the monitor or the surrounding environment."
+}

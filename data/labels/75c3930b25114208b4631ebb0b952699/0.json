@@ -1,0 +1,15 @@
+{
+  "video_id": "75c3930b25114208b4631ebb0b952699",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-204.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.933
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a digital player card from \"MADDEN 23\" for a player named \"TAYSOM HILL.\" The card is set against a dark, textured background with the \"ULTIMATE TEAM\" logo in the upper corners. Hill is depicted as a Tight End (\"TE\") with an overall rating of \"95.\" He is wearing a white football jersey and helmet, holding a football. To the left of his image, several skill attributes are listed with numeric values and green progress bars: \"SPD\" at 93, \"STR\" at 88, \"CTH\" at 93, \"CIT\" at 93, \"SPC\" at 92, \"SRR\" at 95, \"MRR\" at 91, and \"RBK\" at 70. The card features a stylized blue and white aesthetic with a glowing aura around the player. Across all frames, the image remains static, showing no movement, changes in text, or modifications to the player's position."
+}

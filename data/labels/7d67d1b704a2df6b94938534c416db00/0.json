@@ -1,0 +1,15 @@
+{
+  "video_id": "7d67d1b704a2df6b94938534c416db00",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.708,
+    0.992
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown mixing a pale, granular food substance inside a large metal bowl. In the background, two small bowls sit on a wooden surface; one is white and contains more of the granular mixture, and the other is red and holds small, white, rounded pieces of food. The person's hands move throughout the mixture, pressing and folding the ingredients together to combine them. The sequence shows the hands actively kneading and stirring the contents of the bowl. In the upper-left corner of each scene, there is a logo consisting of three curved lines followed by the text \"UCAR CENTER FOR SCIENCE EDUCATION\". The lighting is bright, and the camera angle remains static, focusing on the mixing process and the surrounding containers."
+}

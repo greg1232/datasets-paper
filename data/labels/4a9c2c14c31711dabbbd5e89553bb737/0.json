@@ -1,0 +1,15 @@
+{
+  "video_id": "4a9c2c14c31711dabbbd5e89553bb737",
+  "url": "./data/segments/3E6ctN22V7k-Scene-093.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.215,
+    0.645,
+    1.075,
+    1.505
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting featuring a brick wall and a yellow bookshelf, several people are gathered around a book. An adult, wearing blue jeans and a dark top, holds up a large book for a group of children to see. The children are seen from behind, wearing dark-colored jackets and hoodies. The book's white cover displays the text \"Le grand livre des POURQUOI COMMENT\" in blue and red lettering. Throughout the sequence, the adult continues to hold the book open, while the children remain focused on the pages. The scene remains static in terms of location and participants, with subtle shifts in the positions of the children and the adult's grip on the book as they look through it together."
+}

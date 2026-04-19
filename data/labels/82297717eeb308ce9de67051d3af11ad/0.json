@@ -1,0 +1,15 @@
+{
+  "video_id": "82297717eeb308ce9de67051d3af11ad",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.782,
+    1.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair wearing a green t-shirt and a man with reddish-brown hair wearing a grey t-shirt sit side-by-side in a room. Behind them, a television displays the glowing yellow text \"OUR STUPID REACTIONS\" above a soundbar and a shelf filled with CDs. A small potted plant is visible to the left. In the foreground, a smaller video window shows a sequence of scenes. Initially, it depicts a person in a dark cloak standing near a fire. As the sequence progresses, the inset video transitions to a series of close-up shots of swirling, golden-brown fluid or clouds moving dynamically. While the background setting and the two men remain still and maintain serious facial expressions throughout, the content within the small window changes rapidly from a figure in a room to abstract, flowing visuals."
+}

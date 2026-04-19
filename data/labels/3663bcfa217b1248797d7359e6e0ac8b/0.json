@@ -1,0 +1,15 @@
+{
+  "video_id": "3663bcfa217b1248797d7359e6e0ac8b",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.223,
+    0.669,
+    1.115,
+    1.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with styled light brown hair and a short beard is captured in a close-up shot inside a gymnasium. He is wearing a reddish-pink athletic tank top. The background features a polished wooden basketball court with green markings and blue padded walls. In the distance, blue bleachers rise upward, and basketball hoops with white backboards and orange rims are mounted on the walls. Throughout the sequence, the man faces the camera directly, speaking with slight movements of his head and mouth. He remains in a stationary position, and there are no other people or on-screen text visible. The scene is consistently lit, and the only changes between the frames are the subtle shifts in his facial expressions and head tilt as he talks."
+}

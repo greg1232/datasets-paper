@@ -1,0 +1,15 @@
+{
+  "video_id": "4f94c2ff400be6ef2315cd8f15ca7ae3",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.442,
+    1.325,
+    2.208,
+    3.092
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video takes place in a brightly lit indoor common area or cafeteria with white walls, light-colored flooring, and fluorescent ceiling lights. In the beginning, several people are scattered throughout the room, some sitting at rectangular white tables and others standing or walking in the background. One person in a dark jacket is seated at a table in the center. As the scene progresses, the camera pans and shifts focus to a different group of people seated at long tables against a wall accented with red lighting. These individuals are dressed in casual clothing, such as t-shirts and sweaters, and appear to be eating or talking. In the final moments, the perspective shifts to a close-up over the shoulder of a person in a gray t-shirt who is sitting at a white table, using a utensil to eat from a container."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "93f95e9515f3dbbdf0c1547f48c4704e",
+  "url": "./data/segments/3PlNaEZzZg0-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.954,
+    11.862,
+    19.771,
+    27.679
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard and glasses, wearing a bright yellow kurta and a white scarf with red and orange stripes, stands behind a podium draped in yellow fabric. He is positioned in front of a large backdrop featuring stylized silhouettes of buildings and greenery in shades of red, grey, and green. He is speaking, and as the sequence progresses, his facial expressions and mouth movements change slightly, indicating he is in the middle of a speech. He remains stationary behind the podium throughout the frames, with his upper body visible from the waist up. There are no other people, legible text, or logos visible in the scene. The lighting is bright and consistent, and the background remains static while the man continues his address."
+}

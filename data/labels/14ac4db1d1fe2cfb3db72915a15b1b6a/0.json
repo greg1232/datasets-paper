@@ -1,0 +1,15 @@
+{
+  "video_id": "14ac4db1d1fe2cfb3db72915a15b1b6a",
+  "url": "./data/segments/3QD9oO6sRns-Scene-115.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.219,
+    0.656,
+    1.094,
+    1.531
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a graded trading card encased in a clear plastic slab against a neutral background. In the initial frame, the slab is tilted, reflecting light and obscuring the card. As the sequence progresses, the person adjusts the angle, revealing a purple and green card featuring a player in a football helmet. The background contains several stacks of black boxes and a white object resembling a helmet. The lower portion of the screen features a large orange and white logo that reads \"PYST\" and \"EBREAKS\" in white text. A smaller inset video in the bottom right shows a man wearing a black shirt and a baseball cap, while a small logo for \"CASPYS.com\" is visible near the center. By the final frames, the card is held steady, clearly displaying its colors and the graded holder."
+}

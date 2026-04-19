@@ -1,0 +1,15 @@
+{
+  "video_id": "aebb615711d708aa9380fc9945c6da48",
+  "url": "./data/segments/3E6ctN22V7k-Scene-096.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.24,
+    0.72,
+    1.2,
+    1.68
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white tablet sits on a yellow surface next to its original packaging, which features an image of the device and the brand name \"DOZIN\". The tablet screen is active, displaying a blue background with the text \"IDEASBOX\" at the top and a smaller pop-up window in the center. The text within the pop-up reads \"Einbinde\" followed by \"The system will boot in Quick Boot Mode next time\" and a button labeled \"Amule\". As the sequence progresses, the camera slightly shifts its perspective, moving from a centered view to a slightly lower and more tilted angle. A person's arm and hand are partially visible on the left side of the scene, though they do not interact with the tablet across the frames. The screen content remains static throughout the sequence, showing the same prompt and system interface."
+}

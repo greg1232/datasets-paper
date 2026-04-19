@@ -1,0 +1,15 @@
+{
+  "video_id": "8c04b738717a515fad9a4a7f5c762ec2",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.742,
+    2.225,
+    3.708,
+    5.192
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with fair skin and short hair is seen in a small inset video window in the bottom left corner of a computer screen, speaking toward the camera. The main display shows a trading platform with a candlestick chart for \"EURGBP\". The top left of the screen features the \"TICKMILL\" logo and the German text \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN\". Below this, a list of features includes \" Niedrige Spreads ab 0.1 Pips\" and \"Keine Requotes\". Various horizontal lines are drawn across the chart, including red, yellow, and green lines, with a numerical label \"0.88423\" on the left. As the sequence progresses, the man continues to speak while the cursor moves across the chart. The overall interface remains static, though the man's facial expressions change slightly as he talks, and the chart remains the central focus of the screen."
+}

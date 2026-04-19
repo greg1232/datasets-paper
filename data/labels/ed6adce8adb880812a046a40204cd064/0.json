@@ -1,0 +1,15 @@
+{
+  "video_id": "ed6adce8adb880812a046a40204cd064",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.895,
+    2.685,
+    4.475,
+    6.265
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a view from an airplane window as the aircraft moves along a runway. The aircraft's white wing is visible in the foreground, extending across the center of the frame toward the horizon. Below the wing, the brown, arid landscape of the airfield stretches out under a clear blue sky, with distant green trees and rolling hills visible. In the upper right corner of each frame, a white logo featuring a crown and stylized letters is present. There are no people visible in the scene. As the sequence progresses, the airplane continues its forward movement, causing the ground and distant scenery to shift slightly to the left relative to the wing. The lighting remains consistent and bright across all frames, indicating a clear, sunny day."
+}

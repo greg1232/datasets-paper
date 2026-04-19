@@ -1,0 +1,15 @@
+{
+  "video_id": "99aa537e02e9bb098ab623b7dbaa1b1b",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-181.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call interface is displayed, showing a series of presentation slides against a dark background. In the top frames, a green-text slide reads, \"Moments To provoke thoughts! To feel something!\" A man wearing a grey baseball cap is visible in a small video window in the upper right corner. As the video progresses to the bottom frames, the slide changes to a more detailed text layout in green, which states, \"A clear insight Compressed in time Presented in a manner that allows the audience to discover it themselves,\" followed by a dashed line and the text, \"The Power of Moments Heath Brothers.\" The man in the grey cap remains visible in the video window, appearing in the upper right of the first two frames and moving to the upper left in the final two frames. Browser tabs and interface icons remain constant across the top of the screen."
+}

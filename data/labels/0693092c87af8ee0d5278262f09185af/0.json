@@ -1,0 +1,15 @@
+{
+  "video_id": "0693092c87af8ee0d5278262f09185af",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-341.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.164,
+    3.491,
+    5.818,
+    8.146
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair is seated in a recording studio, wearing a grey t-shirt and black over-ear headphones. He is positioned behind a large computer monitor that partially obstructs the left side of the view. To his right is a professional microphone mounted on a boom arm and a wall of black acoustic foam panels. The man is speaking, and his mouth is open as he addresses someone off-screen. As the sequence progresses, his facial expression shifts slightly while he continues talking, and he remains focused forward. In front of him on the desk, some white papers are visible. The background remains static throughout the clip, consisting of the dark studio wall and technical equipment, including a small piece of hardware with cables attached near the bottom right."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4a4c58d3b9979ecd4604cf7e062232ae",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-192.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.735,
+    2.205,
+    3.676,
+    5.146
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a room filled with framed photos and clothing racks, a man wearing a green baseball cap and headphones speaks into a professional microphone. He is dressed in a dark green t-shirt that features the white text \"ION NEVER DO SHIT\" across the chest. Behind him, a white mannequin wears a white garment, and various pieces of clothing hang on a rack in the background. Two logos are visible on the screen: one on the left featuring a stylized \"P\" and another on the right that reads \"BOOSTLY TOT.\" As the scene progresses, the man shifts his posture and facial expression, moving from a focused, slightly downturned gaze to an active speaking pose with an open mouth and a smile, while his head tilts slightly toward the microphone. The background elements remain static throughout the sequence."
+}

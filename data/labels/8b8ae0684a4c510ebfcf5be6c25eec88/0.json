@@ -1,0 +1,15 @@
+{
+  "video_id": "8b8ae0684a4c510ebfcf5be6c25eec88",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.459,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up view of the mechanical components of a Polaris vehicle, likely a snowmobile, featuring an engine and drive system. A brown exhaust pipe runs across the top of the frame. Below it, various metallic parts are visible, including a drive chain, gears, and a casing embossed with the \"POLARIS\" logo. A small white sticker with a barcode and alphanumeric text is attached to one of the engine components. The camera remains stationary throughout the sequence, focusing on the intricate assembly of bolts, linkages, and the engine housing. There are no people present in the scene. The visual content remains virtually identical across the frames, with only subtle shifts in lighting or minute vibrations visible, maintaining a static perspective on the grease-covered machinery."
+}

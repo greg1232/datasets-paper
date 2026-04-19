@@ -1,0 +1,15 @@
+{
+  "video_id": "bb7d474c6d8a287a4719587134f50ddf",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.388,
+    0.646,
+    0.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black long-sleeved shirt uses both hands to handle a set of metal craft dies over a themed backdrop. The backdrop features a red banner at the top with the text \"FEELS LIKE FROST SUITE\" and images of wintery scenes. The person holds a clear plastic package labeled \"FROSTED FRAMES 5 DIES,\" which contains intricate, silver-colored metal cutting dies. As the sequence progresses, the person removes a rectangular frame die and a decorative floral-style die from the plastic sleeve, placing them on a black surface. To the right of the action, a product catalog is visible, showing images of other dies and text such as \"FROSTED VOLUME.\" A watermark reading \"Champagne\" is visible in the bottom left corner. The action shifts from holding the packaged dies to carefully extracting and arranging them on the workspace."
+}

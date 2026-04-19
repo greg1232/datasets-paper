@@ -1,0 +1,15 @@
+{
+  "video_id": "0e0ada34cb653207546a538fc71b9abc",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-286.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.584,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is seated in a recording studio, wearing large black over-ear headphones and a plain white t-shirt. He is positioned in front of a professional condenser microphone mounted on a shock mount, which is attached to a boom arm labeled \"Rode PSA1\". Behind him is a wall covered in gray acoustic foam panels. The man is speaking and gesturing with his hands; in the initial sequence, his left hand is raised and blurred, indicating motion. As the sequence progresses, he continues to speak, shifting his gaze slightly and moving his arm. A tattoo is visible on his right shoulder and upper arm. His facial expressions change from open-mouthed speaking to a more closed-mouth, thoughtful expression while maintaining his focus toward someone off-camera."
+}

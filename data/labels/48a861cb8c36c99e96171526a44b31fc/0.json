@@ -1,0 +1,15 @@
+{
+  "video_id": "48a861cb8c36c99e96171526a44b31fc",
+  "url": "./data/segments/3EO0YIxkle8-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.626,
+    1.877,
+    3.128,
+    4.379
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static white screen containing text and logos. The text, written in French, states, \"Cette vid\u00e9o est r\u00e9alis\u00e9e en partenariat dans le cadre d\u2019un partenariat entre IIED, the LDC Independent Expert Group and ESRC STEPS Centre.\" This text is positioned above two distinct logos. One logo reads \"STEPS centre\" in a stylized font with a light green and blue abstract graphic above it. To its right is the \"iied\" logo, which includes the full name \"International Institute for Environment and Development\" written in a smaller, sans-serif font. Across the sequence, the composition remains unchanged, with the text and logos appearing in the exact same positions and colors throughout the clip, creating a still image effect."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "03d0a6333b899c322667c6db304d7f45",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-112.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.246,
+    0.738,
+    1.23,
+    1.723
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A solitary figure stands in a vast, dark open landscape under a starry purple night sky. The person is distant and silhouetted, wearing dark clothing. As the sequence progresses, text appears on the screen in a bold sans-serif font. Initially, the phrase \"EVEN AT NIGHT\" is shown, with \"NIGHT\" appearing in a dark, muted tone. In the next phase, the word \"NIGHT\" changes to a bright yellow color, and the words \"AND ON\" appear to the left. The text continues to build, adding \"THE\" and \"WEEKENDS!\" in bright yellow, resulting in the full phrase \"EVEN AT NIGHT AND ON THE WEEKENDS!\" The silhouette of the person remains stationary in the background throughout the sequence, while the text grows and brightens against the dark celestial backdrop."
+}

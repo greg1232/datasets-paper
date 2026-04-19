@@ -1,0 +1,15 @@
+{
+  "video_id": "9338697fec4627b984a8dedf8c064ccf",
+  "url": "./data/segments/3MlPpqgmbYA-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.508,
+    4.525,
+    7.542,
+    10.558
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and short brown hair, wearing a dark navy blue button-down shirt, speaks directly to the camera in an indoor setting. He is positioned in front of a neutral-colored wall with a large piece of art featuring a brown, textured ceramic vase on a wooden surface. As he speaks, his facial expressions shift from an open-mouthed, active speaking pose to a slight smile. He uses his hands to gesture for emphasis, moving them from wide, open positions in the first frame to a more gathered, lower position in the third, and finally moving them upward again in the last frame. The background and his clothing remain constant throughout the sequence, while the focus is entirely on his communicative gestures and facial movements."
+}

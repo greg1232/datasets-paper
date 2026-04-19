@@ -1,0 +1,15 @@
+{
+  "video_id": "a95ac33c2030f5bcaa99b2f047bdbe9b",
+  "url": "./data/segments/3L_uHTClWfk-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.263,
+    21.788,
+    36.312,
+    50.837
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static screen capture of a webpage from the Internal Revenue Service (IRS) website. The IRS logo is visible in the top-left corner, alongside navigation options for \"SEARCH | HELP | MENU\". The page features a section titled \"Inherited IRAs,\" which explains that \"An RMD may be required for an IRA, retirement plan account or Roth IRA inherited from the original owner.\" It mentions \"Retirement Topics - Beneficiary\" and \"Publication 559, Survivors, Executors and Administrators\" as resources for those managing estate taxes. Below this, a header reads \"2020 coronavirus-related distribution,\" followed by a sentence stating, \"Since 2020 RMDs were waived, an account owner or beneficiary who received an RMD in\". The screen remains completely static across all frames, with no movement, people, or changes in the visible text and layout."
+}

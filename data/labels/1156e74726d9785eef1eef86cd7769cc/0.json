@@ -1,0 +1,15 @@
+{
+  "video_id": "1156e74726d9785eef1eef86cd7769cc",
+  "url": "./data/segments/3JYDT8lap5U-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.075,
+    9.225,
+    15.375,
+    21.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard, wearing a grey blazer over a white shirt, stands at a podium giving a presentation. He is positioned to the left of a large projection screen. At the bottom of the scene, a white banner displays the \"europython\" logo and the text \"Edinburgh 23 29 July 2018\". The projection screen's content changes as the presentation progresses. Initially, it shows the title \"1. THE EARLY CRYPTO-BEGINNINGS\". As the presentation continues, the screen transitions to show a block of text that reads, \"Crypto-ML Ltd. managed to obtain access to a unique dataset, which allowed them to build their initial prototype and raise massive amounts of VC money\". Below this text is a grey code block containing Python code, followed by the capitalized phrase, \"NOW THEY NEED TO FIGURE OUT WHAT ML IS\". The man remains in the same position and attire throughout the sequence."
+}

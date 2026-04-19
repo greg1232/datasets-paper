@@ -1,0 +1,15 @@
+{
+  "video_id": "9d470aca1140f3a066756a35070b25e2",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-485.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.706,
+    1.177,
+    1.648
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair, glasses, and white headphones sits in a room with a light-colored wooden wall. He is wearing a dark navy blue t-shirt and is positioned in front of a black microphone. Behind him, a decorated Christmas tree with multicolored lights is visible on the left, and a framed picture displays the number \"20\" against a blue background. Across the sequence, the man is smiling and talking. He initially looks forward, and as the sequence progresses, he raises his right hand to make a peace sign while his smile widens into a laugh. The background remains static, and the camera angle stays fixed on him as he gestures and reacts."
+}

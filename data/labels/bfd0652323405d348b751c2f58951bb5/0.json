@@ -1,0 +1,15 @@
+{
+  "video_id": "bfd0652323405d348b751c2f58951bb5",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-280.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.221,
+    0.663,
+    1.105,
+    1.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair and glasses, wearing a grey patterned button-down shirt and a beaded necklace, speaks into a microphone in an indoor setting. He stands before a background of vertical green poles and horizontal wooden slats. A white rectangular label with the text \"ORCA\" is visible on the right side of the frame. Over the course of the sequence, the man uses hand gestures to emphasize his speech. He begins by raising his right hand and gesturing forward with an open palm. He then lifts his right arm higher, bringing his hand up toward his head, and finally brings his hand across his forehead in a sweeping motion. Throughout these movements, he remains positioned in front of the microphone, facing toward the right side of the frame."
+}

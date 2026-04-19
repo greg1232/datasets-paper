@@ -1,0 +1,15 @@
+{
+  "video_id": "dde863533206348a3cce9f228c4e8d4c",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of frames shows people arriving at an airport, with on-screen text reading \"GRANADA AIRPORT\" and \"12:08\". A large dark blue bus featuring a prominent white Real Madrid logo and various sponsors is parked on a paved area next to a beige building. Several men are visible, including one in a grey polo shirt and black pants walking away from the bus, and another wearing a white t-shirt, black pants, and a dark face mask who steps off the bus. In the background, other individuals stand near red barriers. As the sequence progresses, the man in the white t-shirt continues to move away from the bus, while the man in the grey polo continues walking forward. The scene remains brightly lit under a clear sky, focusing on the movement of the individuals around the branded team bus."
+}

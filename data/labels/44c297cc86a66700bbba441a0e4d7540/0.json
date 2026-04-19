@@ -1,0 +1,15 @@
+{
+  "video_id": "44c297cc86a66700bbba441a0e4d7540",
+  "url": "./data/segments/3P1vSUbet40-Scene-0467.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.193,
+    0.579,
+    0.965,
+    1.35
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a tall, spiked grey wig sits in a studio setting, wearing a white button-down shirt and a red bowtie. He is wearing black headphones and speaking into a professional microphone positioned in front of him. The background is filled with framed photos on a wall and a clothing rack featuring items from \"LEE.\" Throughout the sequence, the man remains in a seated position, gesturing slightly with his hand and speaking. On-screen graphics appear as overlays, including a logo that reads \"BOSS TALK JOY\" alongside a smaller \"PODCAST\" logo featuring a microphone icon. The scene remains static in terms of location and participants, with only the man's facial expressions and slight head movements changing as he talks, while the overlays remain constant across the frames."
+}

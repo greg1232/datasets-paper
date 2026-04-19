@@ -1,0 +1,15 @@
+{
+  "video_id": "0b3657fee29bc9566c0518cf9dbf6941",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-147.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.237,
+    0.396,
+    0.554
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A hand holds a transparent plastic case, partially obscuring the view of a man sitting at a table. The man, wearing a dark blue t-shirt with a small yellow logo, is positioned behind a setup that includes several boxes of trading cards. On-screen overlays appear in the background, including the text \"JASPYS\" and \"CASEBREAKS.COM,\" along with a logo featuring a palm tree and the phrase \"Sports Cards & More.\" In the background, a digital screen shows a live feed of the man. Throughout the sequence, the hand holding the plastic case remains in a similar position, slightly shifting as it moves across the frame, while the man remains seated and looks toward the camera. The environment appears to be an indoor setting dedicated to card breaking, characterized by organized equipment and promotional branding."
+}

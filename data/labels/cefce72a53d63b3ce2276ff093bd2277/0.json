@@ -1,0 +1,15 @@
+{
+  "video_id": "cefce72a53d63b3ce2276ff093bd2277",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-278.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.271,
+    0.813,
+    1.354,
+    1.896
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a graded baseball card in a clear plastic case, showing a player in a white uniform against a green background. The card features a signature and the text \"1/1\" in the top left corner. In the background, a small inset video window shows a man with a beard wearing a navy blue shirt and a baseball cap, sitting in front of a computer setup. The logo \"JASPYS CASEBREAKS.COM\" is displayed prominently in the background of both the main view and the inset. As the sequence progresses, the person holding the card shifts their grip and tilts the case, moving their fingers across the right edge of the plastic protector to adjust the angle of the card. The man in the inset video remains seated, looking toward his screen while the card is presented to the camera."
+}

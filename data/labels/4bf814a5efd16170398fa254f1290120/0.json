@@ -1,0 +1,15 @@
+{
+  "video_id": "4bf814a5efd16170398fa254f1290120",
+  "url": "./data/segments/3Smz5pevbI4-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.662,
+    10.986,
+    18.31,
+    25.634
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static slide detailing a study result for \"Individual localizer: Irrational \u2013 Rational\" regarding \"Participant #1\". The screen is split, with the left side containing two columns labeled \"Control (Irrational)\" and \"Control (Rational)\". Under \"Control (Irrational)\", text reads, \"New Orleans was a city that had its doors wide open to the public celebration of sin, and the citizens of New Orleans tolerated and welcomed this sin for too long. God destroyed New Orleans with Hurricane Katrina becuse of this wickedness.\" Under \"Control (Rational)\", the text states, \"Watermelon is a perfect fruit: it is loaded with antioxidants like vitamins C and A. It is also a fantastic source of citrulline, which helps your body heal its wounds, lowers your blood pressure, and protect aginst stroke.\" On the right side, a grayscale brain scan image is displayed with the accompanying statistical notations \"p < 0.0001\" and \"k > 10\". The scene remains completely stationary across all frames."
+}

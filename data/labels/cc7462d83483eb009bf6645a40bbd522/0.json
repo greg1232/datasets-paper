@@ -1,0 +1,15 @@
+{
+  "video_id": "cc7462d83483eb009bf6645a40bbd522",
+  "url": "./data/segments/3Sq594WkayE-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.349,
+    1.047,
+    1.745,
+    2.443
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person sits alone on a chair atop a rocky, brown cliff overlooking a gray, choppy ocean under an overcast sky. The individual is dressed in dark clothing and faces away from the camera toward the horizon. To their left stands a tripod with equipment attached. Large, dark rock formations break the surface of the water, and white waves crash against the shore in the background. Across the sequence, the scene remains largely static; the person remains seated and motionless, and the equipment stays in place. The only visible movement occurs in the ocean, as the white foam and spray of the crashing waves shift slightly and dissipate between the frames. There is no on-screen text or logos visible in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6df9bba69e9844f598fde37f776597bd",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-328.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.583,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays gameplay from \"MADDEN NFL 23,\" showing a wide view of a football field within a large stadium under a bright sky. A scoreboard at the top indicates the game is in the \"2nd\" quarter with \"2:25\" remaining and \"35\" seconds on the play clock. The score shows one team at \"6\" and another at \"7,\" accompanied by team logos and \"EXO\" text. A small webcam overlay in the bottom left shows a man with blond hair wearing a dark t-shirt and headphones. Throughout the sequence, the camera pans slightly across the green turf. The man in the overlay is initially talking with an open mouth and then transitions into a wide smile and laugh, tilting his head slightly as he reacts to the game. The stadium background remains consistent with spectators and branding visible around the perimeter."
+}

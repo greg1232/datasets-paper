@@ -1,0 +1,15 @@
+{
+  "video_id": "484d2d91e45072af63ec4764105e73c6",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.584,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows the interior of a vehicle's fuse box, located behind a black plastic protective panel. The fuse box contains several rows of colorful electrical fuses in shades of red, yellow, blue, and green. A red wire extends from the top of the compartment and loops downward. A small blue electrical connector is plugged into one of the fuse slots. The surroundings include the textured black plastic of the dashboard and a beige carpeted floor visible at the bottom and right edges. Throughout the sequence, the camera remains static, and there are no people visible. The lighting and position of the objects remain constant, with no discernible movement or change occurring between the frames."
+}

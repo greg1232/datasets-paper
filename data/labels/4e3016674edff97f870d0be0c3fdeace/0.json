@@ -1,0 +1,15 @@
+{
+  "video_id": "4e3016674edff97f870d0be0c3fdeace",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-155.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.217,
+    0.651,
+    1.084,
+    1.518
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital, stylized representation of Earth glows against a dark black background, depicted as a sphere of interconnected points of light and networks. As the sequence progresses, white text appears centrally over the globe, appearing word by word. Initially, the screen displays \"TECHNOLOGY AROUND US IS CHANGING\". In the next stage, the word \"EVERY\" is added to the sentence. Finally, the phrase is completed to read \"TECHNOLOGY AROUND US IS CHANGING EVERY DAY\". The globe remains centered throughout the sequence, with the shimmering blue and white lights of the network slightly shifting and rotating, suggesting a slow, cinematic movement of the planet. There are no people, clothing, or physical equipment present, only the abstract digital earth and the evolving text."
+}

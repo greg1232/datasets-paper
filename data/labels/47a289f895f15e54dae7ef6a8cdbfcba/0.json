@@ -1,0 +1,15 @@
+{
+  "video_id": "47a289f895f15e54dae7ef6a8cdbfcba",
+  "url": "./data/segments/3Kxl1O310k8-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.435,
+    4.305,
+    7.175,
+    10.045
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a residential neighborhood featuring a row of white, two-story houses with gray roofs and manicured green lawns. A paved dark gray driveway curves through the properties, with a few parked cars visible. In the upper right corner of the scene, a small inset window shows a man wearing a blue shirt and glasses. Large white text reading \"Working across boards\" is centered in the upper portion of the frame. A yellow banner runs across the bottom of the screen, containing the abbreviation \"MHP\" on the left side and a small timestamp on the right. Throughout the sequence, the scene remains completely static; the houses, the landscape, the on-screen text, and the person in the inset window do not move or change, creating a still image effect across the duration of the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6dac72b09ba2e0f5585d0bd0d2410253",
+  "url": "./data/segments/3Sq594WkayE-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.182,
+    0.547,
+    0.911,
+    1.276
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A landscape view captures a hazy coastal scene featuring a body of water and a grassy shoreline. The upper portion of the scene is filled with a pale, overcast sky that blends into a muted grey sea. Gentle waves break into white foam as they roll toward the shore. In the foreground, a strip of dark green, mossy vegetation covers a low ridge. As the sequence progresses, the camera pans slowly across the horizon from left to right. This movement shifts the perspective of the coastline, causing the grassy ridge to slide across the view while the distant, misty horizon remains steady. No people, objects, or text are visible in the scene, which remains consistent in its dim, atmospheric lighting and muted color palette throughout the clip."
+}

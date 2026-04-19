@@ -1,0 +1,15 @@
+{
+  "video_id": "eef6f6e023debd517f5b05b8ca03ab15",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.078,
+    0.235,
+    0.391,
+    0.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit side-by-side in an indoor setting, reacting to a video displayed on a screen. The man on the left wears a dark green t-shirt, while the man on the right wears a grey t-shirt and a necklace. The man on the right has his hand near his chin in a thoughtful pose. Behind them is a soundbar and a stack of CDs or DVDs. Above the men, the neon-style text \"OUR STUPID REACTIONS\" is visible on a screen. In the center of the scene, a smaller inset video shows a dark, gothic architectural space with high ceilings and vaulted arches, where figures are visible in the dim light. Across the sequence of frames, the men remain mostly still, maintaining serious and focused facial expressions as they watch the inset video, with only slight shifts in their posture and gaze."
+}

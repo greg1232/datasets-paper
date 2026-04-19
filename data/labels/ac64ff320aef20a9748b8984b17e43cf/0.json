@@ -1,0 +1,15 @@
+{
+  "video_id": "ac64ff320aef20a9748b8984b17e43cf",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-886.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.22,
+    3.66,
+    6.1,
+    8.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hoodie with the text \"BOSS TALK\" in gold and white, and a gold watch on his left wrist is seated at a desk in a podcast studio. He is positioned in front of a white backdrop featuring a repeating logo that says \"UNICORN HUSTLE\" with five gold stars. A blue sign above him reads \"Where BOSSES Talk!\". He speaks into a professional microphone mounted on a black boom arm. To his right sits a black container with a red label that says \"THE TALK OUT\". In the bottom left corner, a small logo reads \"THE TALK OUT\". As the sequence progresses, the man shifts his posture, moving from leaning back with clasped hands to leaning forward and gesturing with his right hand while continuing to speak."
+}

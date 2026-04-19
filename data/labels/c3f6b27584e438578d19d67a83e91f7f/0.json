@@ -1,0 +1,15 @@
+{
+  "video_id": "c3f6b27584e438578d19d67a83e91f7f",
+  "url": "./data/segments/3P1vSUbet40-Scene-0241.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.547,
+    1.642,
+    2.737,
+    3.832
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a black baseball cap, a black t-shirt, and over-ear headphones, is seated in a studio setting. He is speaking into a professional microphone on a stand. His black t-shirt features the white text \"CHECK IT!\" and a circular logo. He wears a gold chain and a gold bracelet on his right wrist. In the background, white walls display logos and text, including \"BOSS HUSTLE\" and \"BOSS TALK 101\". Overlays on the screen also read \"BOSS TALK 101 PODCAST\". Across the sequence, the man gestures with his hands to emphasize his points. He begins with his hands near the microphone, then raises his right hand with a finger pointed up, and finally points his right hand directly forward toward the camera. His facial expression remains focused as he speaks."
+}

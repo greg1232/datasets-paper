@@ -1,0 +1,15 @@
+{
+  "video_id": "544ad6b6d87dd857007438911d4d1378",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.246,
+    0.738,
+    1.23,
+    1.723
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey baseball cap, and large black over-ear headphones is speaking into a professional microphone. He is positioned in a recording studio with dark, textured acoustic foam panels lining the wall behind him. The microphone is mounted on a black boom arm that features the white text \"BlueMike Made USA\". A tattoo is visible on his right upper arm. Across the sequence, the man is captured in mid-conversation, with his facial expressions shifting as he speaks. He gestures with his right hand, extending it outward in the first two frames before pulling it back toward his body in the final two frames. His mouth remains open and active throughout the sequence, indicating he is speaking continuously into the microphone."
+}

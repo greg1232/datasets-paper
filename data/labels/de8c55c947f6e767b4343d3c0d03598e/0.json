@@ -1,0 +1,15 @@
+{
+  "video_id": "de8c55c947f6e767b4343d3c0d03598e",
+  "url": "./data/segments/3Smz5pevbI4-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    13.897,
+    41.692,
+    69.486,
+    97.281
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide displays a man's portrait on the left and scientific data on the right. The man is centered in the portrait, facing forward. Below his image is the text \"Cunningham et al., 2004\". As the sequence progresses, additional elements appear on the right side of the screen. First, a brain scan labeled \"a: Amygdala Contrast Map\" appears, featuring a white circle and red dots. Subsequently, a line graph titled \"b: Amygdala Timecourses\" emerges next to the scan. The graph's y-axis is labeled \"% Signal Change\" and the x-axis is labeled \"Seconds\". A legend below the graph lists categories including \"Black,30 ms\", \"Black,525 ms\", \"White,30 ms\", and \"White,525 ms\". Finally, a smaller image of the \"Amygdalae\" appears below the scan and graph, followed by a zoomed-in image of a brain region labeled \"DLPFC\" appearing in the bottom right corner."
+}

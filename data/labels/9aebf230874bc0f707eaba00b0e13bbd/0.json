@@ -1,0 +1,15 @@
+{
+  "video_id": "9aebf230874bc0f707eaba00b0e13bbd",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.1,
+    3.3,
+    5.5,
+    7.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a minimalist indoor setting with white walls and gray flooring, three people are positioned around white podium tables. On the left, a man in a dark suit stands by a table. In the center, a woman with short gray hair, wearing a dark blazer and light-colored trousers, stands behind another table. On the right, a man in a camouflage jacket and dark pants stands at a third table. Each table holds a microphone and a bottle of water. A large vertical banner behind them features a photograph of clasped hands and the text \"INTERACTIE\", \"Samenwerken in de praktijk\", and \"en zorgcontext\". The \"mediasite\" logo is visible at the top of the scene. Across the sequence, the woman remains stationary while the man in the camouflage jacket shifts his posture and gestures with his hand while speaking, and the man in the suit maintains a steady stance."
+}

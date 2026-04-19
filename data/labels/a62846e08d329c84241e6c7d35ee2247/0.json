@@ -1,0 +1,15 @@
+{
+  "video_id": "a62846e08d329c84241e6c7d35ee2247",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.813,
+    1.139
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting with orange and gray walls, a man and a woman interact while a second woman watches. The man wears a black jacket, a white and red baseball cap, and a light blue surgical mask. He is holding a small baby wrapped in a white blanket. Beside him, a woman with curly brown hair wears a white patterned hospital gown and a black face mask. To their left, a woman with dark hair pulled back wears a black garment and a light blue mask, viewing the couple from the side. A small dispenser is mounted on the wall behind them. The text \"Sim Week\" appears in the bottom right corner of the scene. As the sequence progresses, the woman in the gown shifts her position slightly, and the woman in black moves her hand towards the couple before returning it to her side."
+}

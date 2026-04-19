@@ -1,0 +1,15 @@
+{
+  "video_id": "d52a3cc1e12492ff6cc4b323a3023e06",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.685,
+    8.055,
+    13.425,
+    18.795
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair tied in a bun is speaking at a podium against a plain white background. She wears a dark blazer over a red top and has her hands clasped in front of her. A clear plastic water bottle and a white piece of paper sit on the table before her, and a thin microphone stands in front of her. The \"mediasite\" logo is visible in the top left corner of the scene. As the clip progresses, the woman shifts her gaze and head position, looking slightly to her right before facing forward and then looking back toward the right again. In the final sequence, she unclasps her hands and gestures with her left hand to emphasize her point."
+}

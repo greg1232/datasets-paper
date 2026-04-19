@@ -1,0 +1,15 @@
+{
+  "video_id": "73f6c6435905ad867bf8d23baef2e277",
+  "url": "./data/segments/3Z229_lKLpk-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.495,
+    1.485,
+    2.475,
+    3.465
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static shot shows an ornate wall featuring a combination of textures and lighting. The wall consists of alternating vertical panels: one side is crafted from a pale blue-green stone with a mottled, marble-like pattern and carved geometric, cross-like reliefs, while the adjacent panel is a carved brown wood or stone with a recurring art deco fan or scalloped pattern. Mounted on the green stone panels are slender, gold-colored cylindrical light fixtures. Each lamp features a small, glowing bulb at the top and a twisted gold rod running down its center. The scene remains entirely still across the sequence, with no people, movements, or changes in lighting visible. The composition emphasizes the symmetrical and decorative architectural details of the interior space."
+}

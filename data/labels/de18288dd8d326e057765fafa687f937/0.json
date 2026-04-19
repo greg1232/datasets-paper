@@ -1,0 +1,15 @@
+{
+  "video_id": "de18288dd8d326e057765fafa687f937",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-121.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.001,
+    3.003,
+    5.005,
+    7.007
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and white hair, wearing a dark short-sleeved shirt, stands in a dimly lit studio. He is positioned to the right of the frame, gesturing with his right hand while speaking. Behind him is a large, blurred screen displaying colorful horizontal bars, resembling a financial trading interface. White text is overlaid on the bottom half of the scene. In the first frame, the text reads, \"In this live webinar : Tom will be teaching y\". As the sequence progresses, the text updates to \"In this live webinar : Tom will be teaching you his entire trading system\", which remains constant through the subsequent frames. The man's posture and hand gestures shift slightly as he speaks, but the background and overall composition of the scene remain static across the sequence."
+}

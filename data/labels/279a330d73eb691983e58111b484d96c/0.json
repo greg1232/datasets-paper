@@ -1,0 +1,15 @@
+{
+  "video_id": "279a330d73eb691983e58111b484d96c",
+  "url": "./data/segments/3Smz5pevbI4-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.039,
+    3.116,
+    5.193,
+    7.27
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static white screen against a black background. At the top of the white area, there is a red horizontal banner containing white text that reads \"Test intuitive psych interventions: Roma\". Directly below this banner, smaller black text states \"#2: economic self-interest (World Bank)\". These visual elements remain identical and unchanging across all four frames, with no movement, people, objects, or other graphical changes occurring. The scene is a consistent presentation of these specific text headings on a plain white background."
+}

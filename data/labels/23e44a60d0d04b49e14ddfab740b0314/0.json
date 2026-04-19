@@ -1,0 +1,15 @@
+{
+  "video_id": "23e44a60d0d04b49e14ddfab740b0314",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-184.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.723,
+    2.169,
+    3.615,
+    5.06
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with stacks of card boxes on a colorful table featuring palm tree patterns. In the initial frames, the person adjusts a yellow box resting on top of a larger beige box. A small inset window in the corner shows a man with a beard and glasses wearing a dark blue shirt, observing the process. The text \"JASPYS\" and \"CASEBREAKS.COM\" is visible as a watermark in the upper right area of the scene. As the sequence progresses, the person reaches for and lifts the yellow box away from the beige base. By the final frame, the yellow box is held up and tilted, revealing a glimpse of the contents inside. The background remains consistent, featuring other stacks of pink boxes and various equipment on the table."
+}

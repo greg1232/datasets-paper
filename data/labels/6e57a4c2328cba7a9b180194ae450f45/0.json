@@ -1,0 +1,15 @@
+{
+  "video_id": "6e57a4c2328cba7a9b180194ae450f45",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-088.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a presentation slide titled \"CRYOGENIC ENGINEERING\" in a blue banner at the top. In the center of the slide, the words \"Thank You!\" are written in black text against a light blue rectangular background. At the bottom of the screen, a blue banner contains the text \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\". A small \"NPTEL\" logo is visible in the lower-left corner of the slide. As the video progresses, the screen begins to darken. The first few frames maintain the clear visibility of the slide, but by the final frame, the image has faded almost entirely to black, leaving only a faint outline of the \"Thank You!\" text and the \"NPTEL\" logo. No people or physical equipment are visible, as the footage consists solely of the static presentation screen transitioning to a dark screen."
+}

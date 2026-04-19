@@ -1,0 +1,15 @@
+{
+  "video_id": "d567c27fdc861a9b9b492db5c6a4ef1f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-245.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.525,
+    0.875,
+    1.225
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video call interface where a presentation is being shared. The main window displays a slide titled \"Introduction\" for the \"Rural Community Food System.\" The text asks, \"What constitutes a sustainable localized food system for a rural community?\" and provides a list of \"Session Videos\" with timestamps and a section for \"References\" listing \"Large Corporate Farm Systems\" and \"Community Hubs and More of Moore Production.\" To the right of the text is a circular diagram with concentric rings and various labels. In the top right corner, a small video feed shows a man with a beard wearing a dark shirt, who remains relatively still throughout the sequence. The scene remains largely static across the frames, with only slight changes in the man's expression and position in his video feed while the presentation slide stays visible."
+}

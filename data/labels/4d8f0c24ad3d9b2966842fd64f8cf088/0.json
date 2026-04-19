@@ -1,0 +1,15 @@
+{
+  "video_id": "4d8f0c24ad3d9b2966842fd64f8cf088",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-227.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.119,
+    0.356,
+    0.594,
+    0.831
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with blond hair, glasses, and a mustache is seated in a room, wearing a dark blue textured shirt and silver over-ear headphones. He is positioned in front of a black microphone. Behind him, a framed piece of art contains the number \"20\" and a blue logo. To his left, a Christmas tree is decorated with multicolored lights. As the sequence progresses, the man's facial expression shifts from a state of surprise with his mouth slightly open to a more intense, pained, or strained expression, with his brow furrowing and his mouth opening wider. His posture remains relatively still, though his head tilts slightly forward as his emotion intensifies. The lighting and background remain constant throughout the scene, focusing the action on the man's changing emotional reaction."
+}

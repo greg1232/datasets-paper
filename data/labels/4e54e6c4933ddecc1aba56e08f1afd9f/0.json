@@ -1,0 +1,15 @@
+{
+  "video_id": "4e54e6c4933ddecc1aba56e08f1afd9f",
+  "url": "./data/segments/3a0FD1177FA-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.804,
+    5.412,
+    9.019,
+    12.627
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with brown hair and glasses, wearing a blue shirt under a white and blue patterned cardigan and a smartwatch, sits at a white desk in a craft room. Behind her are shelves stocked with colorful ink pads, tools, and organizers. In the top-left frame, she looks toward the camera and points to an open catalog on the desk. The top-right frame shows her continuing to speak while looking at the camera, with the logo \"Jill Olsen STAMPIN' UP! DEMONSTRATOR\" overlaid on the screen. In the bottom-left frame, she continues to gesture toward the catalog while speaking. Finally, in the bottom-right frame, she looks toward the camera with an open-mouthed expression while resting her hand on the catalog. Throughout the sequence, the background remains static as she interacts with the catalog and speaks."
+}

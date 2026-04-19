@@ -1,0 +1,15 @@
+{
+  "video_id": "29931bebcf20c9e9f558e673a01067db",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-157.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.502,
+    1.506,
+    2.51,
+    3.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video capture shows a gamer's screen displaying a sports video game menu titled \"LINEUP\" with tabs for \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS.\" The screen features several digital player cards, including one with the number \"18\" and the name \"DAVERSON.\" Numerical values are visible at the top, including \"173,037,\" \"14,600,\" and \"2,943,549,\" along with \"LV 19.\" A small webcam overlay in the lower-left corner shows a man with blond hair wearing a dark t-shirt, sitting in front of a decorated Christmas tree. He is speaking and gesturing with his hand toward his face. Across the sequence, the man's facial expressions and hand movements shift slightly as he talks, while the game menu remains static, displaying prompts like \"BEST LINEUP,\" \"HELP,\" and \"BACK\" at the bottom of the screen."
+}

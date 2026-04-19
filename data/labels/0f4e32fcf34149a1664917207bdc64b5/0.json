@@ -1,0 +1,15 @@
+{
+  "video_id": "0f4e32fcf34149a1664917207bdc64b5",
+  "url": "./data/segments/3Smz5pevbI4-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.381,
+    19.144,
+    31.907,
+    44.67
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a grey blazer and brown trousers stands on a stage, while another man in a dark suit sits in a black chair beside a low glass coffee table. The setting is a formal presentation hall with a large screen in the background displaying repeating logos and the text \"INSTITUTE OF PEACE\". A blue flag with a white emblem and a wooden podium featuring a tree logo stand on the stage. In front of them, an audience of people is seated, facing the stage. Throughout the sequence, the standing man shifts his posture slightly, and the seated man remains still, holding papers. The scene is static, with no significant movement other than small adjustments in the speakers' stances. The lighting is bright and consistent across the entire area."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "360e7c157521513155a71a64923745d1",
+  "url": "./data/segments/3Z229_lKLpk-Scene-182.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.315,
+    0.945,
+    1.575,
+    2.205
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a wide-angle shot of a large, crowded legislative assembly hall. Numerous people, primarily men, are seated in curved rows of desks that face a central area. Most individuals are dressed in traditional white Indian attire, such as kurtas and dhotis, while some wear colorful sashes or shirts. The participants are seen talking to one another, leaning over their desks, and gesturing during a session. On the desks, small electronic devices and papers are visible. The hall features tiered seating with wooden paneling and architectural detailing on the walls. Throughout the sequence, there is minimal movement as the crowd remains seated, with some individuals shifting their positions or turning their heads to engage with neighbors. No on-screen text or logos are legible in the scene."
+}

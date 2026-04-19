@@ -1,0 +1,15 @@
+{
+  "video_id": "8c98cfde1911eff98f262335f2a6f5a2",
+  "url": "./data/segments/3a0FD1177FA-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.537,
+    1.611,
+    2.685,
+    3.759
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is crafting on a white gridded cutting mat. They wear a white watch on their left wrist and a silver ring on their left ring finger. In the sequence, the person uses both hands to position a small rectangular piece of purple patterned paper onto a larger, dark blue cardstock base. Their left hand holds the purple paper while their right hand presses down on the edge to align it. To the side, there are pieces of green and yellow floral patterned paper and a black stamping block. A small white piece of paper and clear acrylic blocks are also scattered nearby. A logo in the bottom left corner includes the text \"Stamping\". As the sequence progresses, the person shifts their grip, eventually pressing their left palm flat against the top of the purple paper to secure it to the blue base."
+}

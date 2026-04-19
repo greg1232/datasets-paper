@@ -1,0 +1,15 @@
+{
+  "video_id": "c6c0e38e8fbef63c0ba6b59a9a2a27cd",
+  "url": "./data/segments/3iUTkJy84EY-Scene-262.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is positioned in the center of the frame against a solid black background. She is wearing a light green tunic with a decorative embroidered neckline and a dark necklace. Throughout the sequence, she is speaking and gesturing with her hands to emphasize her points. In the initial frames, her right hand is slightly raised while her left hand is open with fingers spread. As the sequence progresses, she continues to speak, and her hands shift positions, with her left hand moving closer to her body and her right hand gesturing. A small, circular logo featuring a stylized symbol and the text \"NPTEL\" is visible in the bottom left corner of each frame. The lighting remains consistent, focusing on the woman, while the background remains a void of black."
+}

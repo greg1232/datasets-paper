@@ -1,0 +1,15 @@
+{
+  "video_id": "62d1878cb7f00638d725e84ed5dca5e6",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.192,
+    0.576,
+    0.959,
+    1.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A yellow bulldozer is operating in a rocky, light-gray quarry or construction site. The vehicle is positioned facing left, pushing a pile of gray rubble across the dusty ground. A logo consisting of the letters \"VG\" in a stylized gold font appears in the upper right corner of the scene. As the sequence progresses, the bulldozer slowly moves forward, shifting the pile of rocks ahead of its blade. The terrain is uneven, characterized by large mounds of crushed stone and a flat, dusty path. No people are visible in the frames. The lighting is bright and consistent, casting a distinct dark shadow from the machine onto the ground to its right. The movement is subtle, with the bulldozer gradually advancing and the displaced rubble shifting slightly with each incremental forward motion."
+}

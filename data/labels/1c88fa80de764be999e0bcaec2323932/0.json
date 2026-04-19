@@ -1,0 +1,15 @@
+{
+  "video_id": "1c88fa80de764be999e0bcaec2323932",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-193.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.315,
+    0.945,
+    1.575,
+    2.205
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser open to a page titled \"Trail & Learning by Systemdyns: Elements, by Systemdyns\" with a complex causal loop diagram displayed on a black background. The diagram features various green text labels connected by blue curved arrows, including terms such as \"Fruitstrollers,\" \"Birds at Food,\" \"Attractiveness of Garden,\" \"Unsightly Gruels,\" and \"Buy Bird Seed.\" The arrows are labeled with \"increases\" or \"decreases.\" In the top right of the browser window, a small video feed shows a man wearing a dark blue cap and a dark shirt speaking. Throughout the sequence, the cursor moves across the screen, hovering over different elements of the diagram. In the final frame, the man in the video feed is momentarily replaced by a different view of a person in a white shirt and a person in a dark shirt, before returning to the original view."
+}

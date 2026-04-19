@@ -1,0 +1,15 @@
+{
+  "video_id": "b230b1362b3017077aead3437c1d9d64",
+  "url": "./data/segments/3sJ5OX75erw-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.905,
+    38.715,
+    64.525,
+    90.335
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"DARPA's Mission\" is displayed, featuring the DARPA logo and a header that reads \"Breakthrough Technologies and Capabilities for National Security.\" The slide depicts a timeline from the 1960s to the 2030s, categorized by \"Military Capability\" and \"Enabling Technologies.\" Noted military capabilities include \"Communications/Networking,\" \"Stealth,\" \"Precision Guidance & Navigation,\" \"IR Night Vision,\" \"UAVs,\" and \"Nucleic Acid-Based Vaccines,\" with a final note stating, \"Investing today for the next generation.\" The enabling technologies section lists \"ARPANet/Internet,\" \"Information Technology: broadband, client/server, graphics, GUI, RISC, parallel computing, speech recognition,\" \"Microelectronics: VLSI, CAD, manufacturing, IR, RF, MEMS,\" and \"Materials Science: semiconductors, superalloys, carbon fibers, composites, thermoelectrics, ceramics.\" At the bottom, a caption declares, \"DARPA's role: Pivotal early investments that change what's possible.\" A small image of a person in a suit is visible in the upper right corner. Across the four frames, the visual content remains static."
+}

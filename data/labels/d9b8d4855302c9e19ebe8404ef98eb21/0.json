@@ -1,0 +1,15 @@
+{
+  "video_id": "d9b8d4855302c9e19ebe8404ef98eb21",
+  "url": "./data/segments/3a0FD1177FA-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.912,
+    2.737,
+    4.562,
+    6.387
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is crafting a greeting card on a white gridded cutting mat. In the first frame, the person's hands are positioned over a brown piece of cardstock, with a green cardbase nearby that features a brown vertical stripe. A small white rectangle and pieces of floral patterned paper are also on the mat. An ink pad labeled \"MEMEN\" and a stamp with text including \"BIRTHDAY\" and \"Best things!\" are visible. As the sequence progresses, the person uses a clear adhesive roller to apply glue to the brown cardstock. In the final frame, the person slides the brown piece of cardstock toward the green cardbase. The person wears a ring on their left hand and a black smartwatch on their left wrist. The watermark \"Stamping Jill\" appears in the lower-left corner of the scene."
+}

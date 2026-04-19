@@ -1,0 +1,15 @@
+{
+  "video_id": "60459921ac0799bc366a496fbf22bdc2",
+  "url": "./data/segments/3TQScsCOS2k-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.52,
+    1.56,
+    2.6,
+    3.64
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit side-by-side in front of a backdrop depicting a lush, green jungle scene with a distant building. On the left, a muscular man with a shaved head wears a dark navy long-sleeved shirt and a thin gold chain necklace. To his right, a man with short dark hair and glasses wears a black long-sleeved shirt and a bracelet on his left wrist. To the right of the men, the logo \"JUMANJI\" appears in large, stylized letters, with the text \"WELCOME TO THE JUNGLE\" written underneath in smaller red and gold lettering. Initially, the men look toward each other while the man on the right keeps his hands clasped. As the scene progresses, the man on the left turns his head and begins to gesture with both hands, clapping them together, while the man on the right smiles and looks toward him."
+}

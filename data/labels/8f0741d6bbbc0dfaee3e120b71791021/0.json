@@ -1,0 +1,15 @@
+{
+  "video_id": "8f0741d6bbbc0dfaee3e120b71791021",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.909,
+    2.728,
+    4.546,
+    6.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt and a grey and black baseball cap with a circular logo on the front is positioned in front of a professional microphone. He wears large black headphones over his ears. The microphone is mounted on a black shock mount and arm, and the text \"Sennheiser MKH 416\" is visible on the side of the equipment. He is set against a dark grey wall featuring vertical acoustic foam panels. Throughout the sequence, the man remains in a static side-profile position, facing toward the right of the frame. There is very little movement between the frames; he remains focused on speaking into the microphone, with slight variations in his facial expression and the positioning of his arm and shoulder, suggesting a continuous recording or podcasting session."
+}

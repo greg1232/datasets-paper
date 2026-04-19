@@ -1,0 +1,15 @@
+{
+  "video_id": "da43246b130a92fddc7764c18b57d367",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-417.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.529,
+    1.587,
+    2.646,
+    3.704
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip captures a simulated American football game. In the first scene, a player in a white jersey numbered \"24\" runs with the ball toward the goal line, pursued by a player in black. On-screen text indicates \"1st & 10\", \"14\", \"7\", and \"4th 3:54 :20\". As the action progresses, the player in white is tackled by several defenders in black jerseys. A picture-in-picture overlay appears, showing a blonde man in a black shirt reacting to the play. The game state updates to \"1st & Goal\", \"14\", \"7\", and \"4th 3:54 1:30\", with additional text reading \"N. CHUBB 8 RUSHES, 57 YDS, 1 TD\". The man in the overlay is seen with his hand to his face. The final scene transitions abruptly to a bright, abstract yellow and orange glowing visual, completely obscuring the football field and the players."
+}

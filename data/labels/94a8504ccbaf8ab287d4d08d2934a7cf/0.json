@@ -1,0 +1,15 @@
+{
+  "video_id": "94a8504ccbaf8ab287d4d08d2934a7cf",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.29,
+    0.869,
+    1.448,
+    2.027
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game menu screen displays the attributes for a player named \"TROY POLAMALU.\" The interface is primarily purple with white and green accents. In the initial view, a full player profile is visible, showing a small image of Polamalu in a white football jersey and helmet. His \"KEY\" attributes are listed at the top, including \"SPD\" at 94, \"ACC\" at 97, \"TAK\" at 90, and \"PRC\" at 94. Below these are \"GENERAL\" stats, such as a height of \"5'10\"\" and a weight of \"207.\" As the video progresses, the camera zooms in and pans across the screen, focusing specifically on the \"KEY\" and \"GENERAL\" attribute sections. The later frames crop out the player image and the top navigation bar, enlarging the numerical values and green progress bars for \"SPD,\" \"ACC,\" \"TAK,\" and \"PRC\" against the dark purple background."
+}

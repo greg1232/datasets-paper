@@ -1,0 +1,15 @@
+{
+  "video_id": "ea0d46584ece97756fef4001c7742754",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit in a room before a television and a shelf filled with media cases. The man on the left wears a dark green t-shirt and maintains a skeptical facial expression, while the man on the right wears a grey t-shirt and rests his chin on his hand. A neon sign above them reads \"OUR STUPID REACTIONS\". A smaller screen inset shows a person in a dark outfit holding a long, curved object against a cloudy sky; the inset contains a logo for \"the movie database\" and the caption \"My role don't hold more value than my people.\" As the sequence progresses, the neon sign flickers, with letters disappearing and reappearing. The men remain in their positions with relatively static expressions, while the visual in the inset window changes slightly as the person's posture shifts."
+}

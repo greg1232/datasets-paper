@@ -1,0 +1,15 @@
+{
+  "video_id": "8ee2faabac7f78e8d70e962ca4d6ffd0",
+  "url": "./data/segments/3Kxl1O310k8-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    11.03,
+    33.09,
+    55.15,
+    77.21
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide displays information about the Cromwell Court Apartments in Barnstable. To the left, a photograph shows the apartment complex's sign, \"CROMWELL COURT APARTMENTS\", located at \"168\", surrounded by a flowerbed of red, pink, and white blossoms. To the right, a white background features a list of facts: \"Barnstable\", \"Cromwell Court Apartments\", \"124 units of affordable family rental housing\", \"Built in 1973. Acquired & rehabilitated in 2011.\", and \"$500,000 CPA funds\". A small video inset in the top right corner shows a person speaking. Across the bottom of the screen, a yellow banner contains the word \"Acquire\". The scene remains static across all frames, with no changes in the text, images, or the person in the video inset."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7282a446cf42a5079e83256e140a6c6d",
+  "url": "./data/segments/3mmDnftP1M8-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.781,
+    1.094
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a headset microphone is positioned against a plain, light-colored wall. He wears a light-blue button-down shirt featuring a darker blue cloud-like pattern. The text \"Ashish Raichur\" appears in the bottom left of the scene. Across the sequence, the man is actively gesturing with both hands raised, palms facing forward, as if emphasizing a point while speaking. His facial expression is focused, with his mouth open as he talks. Between the frames, his hands move dynamically; he shifts his palms and fingers, and his head tilts slightly as he continues his delivery. The lighting remains consistent, and the background stays static, focusing entirely on the man's upper body and animated hand movements as he communicates."
+}

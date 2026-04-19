@@ -1,0 +1,15 @@
+{
+  "video_id": "fd60383d3903d2e3842983ea15f6a5ec",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.75,
+    2.25,
+    3.75,
+    5.25
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a pink tank top and dark shorts is in an indoor basketball gymnasium with blue walls, blue bleachers, and a wooden court with a blue central area. In the initial scene, he is captured mid-motion, throwing a basketball toward a hoop. As the sequence progresses, the ball is seen flying through the air above him. The perspective then shifts to a close-up shot, where the man is seen from the chest up, facing the camera and gesturing with his right hand. He holds the basketball in his left hand, which is partially visible at the bottom of the frame. The gymnasium environment remains consistent, featuring multiple basketball hoops with clear backboards and a white brick wall in the background. No on-screen text or logos are legible."
+}

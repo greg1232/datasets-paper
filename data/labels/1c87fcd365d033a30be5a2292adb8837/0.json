@@ -1,0 +1,15 @@
+{
+  "video_id": "1c87fcd365d033a30be5a2292adb8837",
+  "url": "./data/segments/3P1vSUbet40-Scene-0325.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.456,
+    7.367,
+    12.278,
+    17.189
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black baseball cap, a black t-shirt with the phrase \"CHECK IT!\" printed on it, and over-ear headphones sits in a recording studio. He is speaking into a professional microphone mounted on a boom arm. In the background, a white wall features gold stars and the text \"EMPIRE HUSTLE,\" while a screen displays the logo \"BOSS TALK 101.\" On-screen graphics in the lower corners repeat \"BOSS TALK 101\" and \"PODCAST.\" Throughout the sequence, the man gestures with his hands as he speaks, moving his arms and shifting his posture. While his overall position remains consistent, his facial expressions and hand movements evolve, with his left hand moving from an open palm toward his chest. The lighting and setting remain static across the scene, focusing on the man as he engages in a conversation."
+}

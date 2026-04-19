@@ -1,0 +1,15 @@
+{
+  "video_id": "c3a672c3f6f4021c9443424f1bf28cbd",
+  "url": "./data/segments/3fokLGPK15Q-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.815,
+    2.445,
+    4.075,
+    5.705
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people are seated in chairs on a stage against a dark background featuring pink vertical light tubes. On the left, a man wears a white button-down shirt and dark pants. In the center, a woman wears a black t-shirt and black pants. On the right, a man wears a grey suit with a light blue shirt. In front of the man on the left is a white, textured, blocky piece of equipment. Behind the group, large pink letters are partially visible, including the text \"SLS\". Throughout the sequence, the man on the left gestures with his hands while speaking. The woman sits attentively, looking toward the man on the left. The man on the right shifts his posture, crossing and uncrossing his legs and adjusting his position in the chair while looking toward the others. The lighting and camera angle remain constant across the scene."
+}

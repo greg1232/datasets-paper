@@ -1,0 +1,15 @@
+{
+  "video_id": "2ac596dbb2ccfbfd855982495bdc66e1",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-329.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.333,
+    1.0,
+    1.667,
+    2.333
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a framed sports memorabilia card featuring \"TIM RAINES\" and text stating, \"You have just received a One-of-One 1989 Topps Big Baseball Framed Autograph Card from 2021 Topps Transcendent Collection - Hall of Fame Edition.\" The person's hands are visible as they tilt the card, showing a statistics table at the bottom. In the background, a man wearing a dark blue t-shirt is visible in a small picture-in-picture window, sitting in a room with computer equipment. The scene is overlaid with the \"JASPYS\" logo and the website \"CASEBREAKS.COM.\" Throughout the sequence, the hands move the card to show different angles of the item, while the man in the inset remains seated. The overall setting appears to be a professional card-breaking setup with a desk and electronic equipment in the background."
+}

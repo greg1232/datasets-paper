@@ -1,0 +1,15 @@
+{
+  "video_id": "8413db06932928d0f7855085142181b2",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand reaches toward a control panel inside a vehicle, likely a truck or heavy machinery, characterized by a wooden dashboard and a gear shift knob made of polished wood. The hand, with pale skin, is positioned to the left of the gear shift. As the sequence progresses, the person uses their index finger to press a circular button located on the panel. In the initial frames, the finger is extended toward the button; in the subsequent frames, the finger makes contact and pushes the button inward. The gear shift remains stationary throughout the action. The control panel features a dark screen and a row of buttons above it, though no text or logos are clearly legible. The background shows a portion of the vehicle's interior and a brown fabric surface."
+}

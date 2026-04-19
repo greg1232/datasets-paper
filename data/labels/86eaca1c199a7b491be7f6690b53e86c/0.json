@@ -1,0 +1,15 @@
+{
+  "video_id": "86eaca1c199a7b491be7f6690b53e86c",
+  "url": "./data/segments/3L_uHTClWfk-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.842,
+    26.525,
+    44.208,
+    61.892
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static web page from the IRS website. The IRS logo is visible in the top left corner, and the top right navigation menu includes \"SEARCH | HELP | MENU\". The main content of the page focuses on a section titled \"2020 coronavirus-related distribution\". The text explains that since 2020 RMDs were waived, certain account owners or beneficiaries could return an RMD to their IRA or qualified plan to avoid taxes. It further states, \"A 2020 RMD that qualified as a coronavirus-related distribution may be repaid over a 3-year period or have the taxes on the distribution spread over three years.\" Additionally, it notes that \"A 2020 withdrawal from an inherited IRA could not be repaid to the inherited IRA but may be spread over three years for income inclusion,\" directing users to the \"Coronavirus Relief for Retirement Plans and IRAs page.\" The scene remains identical across all frames, showing no movement or changes in the displayed text."
+}

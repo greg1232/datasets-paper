@@ -1,0 +1,15 @@
+{
+  "video_id": "32194a3de4993e3d7107d3fc8016e6d3",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-156.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.263,
+    0.788,
+    1.314,
+    1.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A medical training session takes place in a clinical setting, featuring several professionals wearing blue scrubs, black jackets, and blue surgical masks. One individual, wearing a black jacket and a blue mask, is demonstrating a procedure on a medical mannequin lying on a white table, while others observe. The scene includes various pieces of medical equipment, such as tubing and monitors. Throughout the sequence, the professionals remain in place, focusing their attention on the mannequin. Overlaid on the images is text that repeats across the frames, including \"Jessyca Bortell, BSN, RN, CAPA,\" \"Kelly Gregory, BSN, RN,\" \"R Adams Cowley Shock Trauma Center for Critical Care & Trauma Education,\" \"Benjamin Neustein MAT, Paramedic, CHSOS,\" \"Walter Braxton, BA,\" and the email address \"lbuchanan@som.umaryland.edu.\" A large QR code is also prominently displayed on the left and right sides of the frames."
+}

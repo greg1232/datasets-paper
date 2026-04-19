@@ -1,0 +1,15 @@
+{
+  "video_id": "094ff5bfc4a3cebb0c3d4c9a9c58c62a",
+  "url": "./data/segments/3fokLGPK15Q-Scene-111.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.485,
+    1.455,
+    2.425,
+    3.395
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large stage is set up in a dimly lit venue, characterized by dynamic blue and purple laser beams crisscrossing the space. A large circular screen in the background displays the text \"SLUSH\" in bold white letters, alongside a smaller circular inset showing a close-up of a man's face. On the stage, a small group of people are seated in a lounge-style arrangement with chairs and a small table, engaged in a discussion. The lighting remains consistent across the sequence, with the laser effects continuing to shift and flash. The people on stage remain seated and talking, with minimal movement visible between the frames. The overall atmosphere is that of a high-tech conference or corporate event, with the focused lighting emphasizing the speakers on the stage and the branding on the screen."
+}

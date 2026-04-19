@@ -1,0 +1,15 @@
+{
+  "video_id": "60fbdac11a9160a4d3982f639d29af03",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-148.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.513,
+    1.539,
+    2.565,
+    3.591
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An aerial view captures a cityscape with several high-rise buildings under a cloudy sky. In the early sequence, the camera glides over a dense urban area featuring modern skyscrapers, paved roads, and interspersed green spaces. The text \"TIGER REAL ESTATE\" is visible in the lower right corner of the initial frames. As the video progresses, the camera tilts upward and pans across the horizon, shifting the focus from the city architecture toward the expansive, dramatic cloud formations and a distant body of water. In the final sequence, the city becomes a darkened silhouette beneath a bright, overcast sky, and a larger, centered logo appears on the screen reading \"TIGER REAL ESTATE LLC\". No people or specific clothing are visible due to the high altitude of the footage."
+}

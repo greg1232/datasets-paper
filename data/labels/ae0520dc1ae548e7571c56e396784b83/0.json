@@ -1,0 +1,15 @@
+{
+  "video_id": "ae0520dc1ae548e7571c56e396784b83",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.145,
+    0.435,
+    0.725,
+    1.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call features several participants in a grid layout. Four recurring individuals appear: a man in a blue button-down shirt, a man in a gray t-shirt with headphones, a man in a blue shirt with large headphones, and a woman in a light-colored garment. The man in the blue shirt is labeled \"Jerry Mcaturan,\" the man in gray is \"Tim Deason,\" the man in headphones is \"Sean Stucky,\" and the woman is \"Sada T.\" As the video progresses, the layout of the gallery view shifts. At one point, the woman and Sean Stucky are centered in larger windows. Later, a new participant, \"charles blas,\" appears in the bottom right corner, featuring a profile picture of a cartoon character and a small inset video of a man. The backgrounds vary from indoor home offices to an outdoor setting with trees."
+}

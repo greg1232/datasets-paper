@@ -1,0 +1,15 @@
+{
+  "video_id": "c2d7e2e13900e117a054dace39494ecf",
+  "url": "./data/segments/3l84m5pRmyk-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.522,
+    4.567,
+    7.612,
+    10.656
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair wearing a light-colored button-down shirt is seated in front of a white backdrop featuring various logos, including \"theCUBE\" and \"#BigDataSV 2015,\" along with blue geometric cube graphics. He is captured in a medium shot, speaking and gesturing slightly with his hands. On the table in front of him sits a clear plastic water bottle. A blue and gold graphic overlay appears at the bottom of the screen, containing the text \"#theCUBE LIVE at #BigDataSV 2015\" and \"Fairmont Hurst - Valley Room San Jose, CA,\" alongside a logo for \"NEO OBJECTS.\" As the sequence progresses, the man continues talking, with subtle changes in his facial expression and head position, while the background, logos, and on-screen text remain static throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6a6a661ac49d48b71e9472f819e6c552",
+  "url": "./data/segments/3QD9oO6sRns-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.435,
+    1.306,
+    2.177,
+    3.048
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a screen capture of a website for \"JASYPS CASEBREAKS.COM,\" featuring a product page for a \"10-BOX 1/2 CASE BREAK #11 *2 RT EACH*\". The page shows baseball trading cards, including a card of Mike Trout, and lists a price of \"$59.99\". Text on the page states, \"14 spots (2 combo). Everyone gets two teams* in the MLB,\" and describes \"Topps Clearly Authentic Baseball\". A \"SOLD OUT\" button is visible. In the lower right corner, a small inset video window shows a man wearing a black t-shirt and a black baseball cap, gesturing while speaking. Throughout the sequence, the layout of the website remains consistent, but the screen transitions between different views of the site, alternating between the product listing and the home page of \"JASYPS CASEBREAKS.COM\", while the man in the inset video continues to speak and gesture."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9e6980934a800f31b57e031dfb32ba44",
+  "url": "./data/segments/3dN_F08u-KE-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.105,
+    0.315,
+    0.525,
+    0.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grainy, black-and-white aerial view shows a cloudy sky with a small, dark object moving across the center. A crosshair overlay is centered in the view, and a circular logo featuring a bird of prey and the word \"GROUP\" is visible in the lower right. In the upper left, a trident emblem is accompanied by the text \"\u0413\u041e\u041b\u041e\u0412\u041d\u0415 \u0423\u041f\u0420\u0410\u0412\u041b\u0406\u041d\u041d\u042f \u0420\u041e\u0417\u0412\u0406\u0414\u041a\u0418,\" while a red \"13\" logo appears in the upper right. As the scene progresses, the dark object moves slightly right and downward. In the final frame, a bright, white flash of light erupts near the center of the screen, partially obscuring the clouds and the object, indicating an explosion or impact. The camera remains steady, maintaining its focus on the center of the frame throughout the sequence."
+}

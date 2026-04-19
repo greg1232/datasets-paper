@@ -1,0 +1,15 @@
+{
+  "video_id": "ccfaa22406b66b1aec52837c843eae67",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-084.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.565,
+    7.695,
+    12.825,
+    17.955
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser with multiple open tabs, including one titled \"blackboardapp fuel learning.\" The main window shows a dark-themed interactive mapping tool containing several circular nodes connected by curved blue and grey lines. Some nodes feature small images, including a logo that says \"RURAL\" and an illustration of a red-and-white curved shape. A small video call overlay in the top right corner shows a man wearing a dark baseball cap and a dark shirt. Throughout the sequence, the screen remains largely static, with the mapping tool and the man in the video call remaining in place. The only visible change occurs in the top right video feed, where the man slightly shifts his head and facial expression, while the browser tabs and the content of the \"blackboardapp fuel learning\" page remain unchanged."
+}

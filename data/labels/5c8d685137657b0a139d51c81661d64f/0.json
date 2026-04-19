@@ -1,0 +1,15 @@
+{
+  "video_id": "5c8d685137657b0a139d51c81661d64f",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.362,
+    13.087,
+    21.812,
+    30.537
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with brown hair tied in a bun, wearing glasses, white earbuds, and a grey zip-up shirt with a logo on the chest, speaks to the camera. She is positioned in front of a scenic backdrop featuring a bright blue sky with scattered white clouds, green trees, and a large, rocky mountain range. In the upper-left corner of each scene, on-screen text reads \"UCAR CENTER FOR SCIENCE EDUCATION\" above the website \"scied.ucar.edu\". The woman remains centered in the frame, speaking and blinking while her facial expression shifts slightly between frames. Her hands move subtly near her chest, and the background remains static throughout the sequence."
+}

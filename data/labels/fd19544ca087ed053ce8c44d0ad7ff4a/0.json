@@ -1,0 +1,15 @@
+{
+  "video_id": "fd19544ca087ed053ce8c44d0ad7ff4a",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-245.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.729,
+    1.021
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played on a green grass field with white yard markers, featuring a matchup between teams with logos and text indicating \"COMMANDERS\" and \"EXO.\" Players in white uniforms and dark uniforms engage in a play, with the white team advancing the ball. A scoreboard at the top displays \"1st & 10,\" \"3:01\" or \"3:00,\" and a score of \"0\" for both sides. In the lower-left corner of each frame, a man with blonde hair wearing a dark blue shirt and headphones is visible in a small inset video window, reacting to the game. As the action progresses, the ball carrier in white moves further down the field, avoiding defenders in dark uniforms. A red marker with an \"X\" tracks the movement of the play on the turf. The background shows a crowded stadium with spectators and team banners."
+}

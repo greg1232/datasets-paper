@@ -1,0 +1,15 @@
+{
+  "video_id": "7cd078f5a0a784680ed1a65d009442be",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view captures a black plastic vehicle fuse box panel. The panel features several fuse slots with white labels indicating their functions. Legible text includes \"L.C.D.\", \"10\", \"RADIO 25\", \"BRAKE 20\", and \"STOP\". A few colored fuses are inserted into these slots, including red and yellow ones. A single red wire extends from the top right area of the fuse box. The panel is dusted with small white particles and shows slight wear. Throughout the sequence, the camera angle remains fixed and the view is static, with no people present. There is no movement of the fuse box or the wire, and the lighting remains consistent across the frames, showing no change in the scene's composition or contents."
+}

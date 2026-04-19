@@ -1,0 +1,15 @@
+{
+  "video_id": "49eceae219ef77f3521ed33f2fb63060",
+  "url": "./data/segments/3mmDnftP1M8-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    11.656,
+    34.969,
+    58.281,
+    81.594
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A scenic landscape is captured within a circular frame centered against a black background. The scene shows a body of water under a bright, cloudy sky with distant land and greenery. On-screen text is layered over the image, which reads \"Mood: 73.000\" followed by several lines of smaller, cursive-style text including \"who breaks open the way germ up\" and \"who takes the world's heart\". The name \"Divya Dommen\" appears in white text in the bottom left and bottom center of the overall black canvas. Throughout the sequence, the image within the circle and the accompanying text remain static, with no visible movement or change in the setting, the lighting, or the text's position."
+}

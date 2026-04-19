@@ -1,0 +1,15 @@
+{
+  "video_id": "9c620025e449dd5970fa8d75b803aacd",
+  "url": "./data/segments/3fokLGPK15Q-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light-colored jacket stands on a darkened stage during a presentation. Behind him, a large circular screen displays the text \"SLUSH\" in a stylized white font. The stage is illuminated by a dramatic display of intersecting purple and blue laser beams that create a geometric web across the scene. In the background, a small seated area with a few white chairs and a podium is visible. As the sequence progresses, the man remains in a similar position, speaking into a microphone while the laser beams shift their patterns and colors slightly, pulsing across the stage and reflecting off the polished floor. The overall atmosphere is that of a high-energy tech conference or event, with the focused lighting centering on the speaker against the backdrop of the \"SLUSH\" logo."
+}

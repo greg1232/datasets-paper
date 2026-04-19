@@ -1,0 +1,15 @@
+{
+  "video_id": "892be32695002f80718f2f6b2afba238",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.804,
+    2.412,
+    4.021,
+    5.629
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A gold-colored screen displays a countdown for an upcoming segment. In the top left corner, the text \"super science saturday\" appears in white, lowercase letters, with a small star-like graphic beside the word \"science.\" The top right corner features a logo for the \"UCAR CENTER FOR SCIENCE EDUCATION.\" Centered in the upper half of the screen, the words \"NEXT UP\" are written in large, white, uppercase letters. Below this, a grey rectangular box contains the white text \"Cooking Up a Storm: Super Science Snack!\" At the bottom center of the screen, a digital timer counts down in white numbers. The timer starts at \"0:04\" and decreases by one second in each subsequent view, progressing to \"0:03,\" then \"0:01,\" and finally reaching \"0:00.\" No people, clothing, or physical equipment are visible in the scene."
+}

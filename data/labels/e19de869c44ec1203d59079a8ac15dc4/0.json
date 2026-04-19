@@ -1,0 +1,15 @@
+{
+  "video_id": "e19de869c44ec1203d59079a8ac15dc4",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.185,
+    0.556,
+    0.927,
+    1.298
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video captures a perspective inside a gymnasium, starting with a view of a white wall with a blue lower section and a dark doorway. The camera then pans upward and to the right, focusing on a basketball hoop. The hoop features a red rim, a white net, and a clear backboard with a blue border, mounted against a white tiled wall. A bright overhead light is visible, casting a glow on the ceiling and wall. Across the sequence, the camera continues to angle upward, shifting the perspective of the basketball goal and the surrounding structure. No people are present in the frames, and there is no on-screen text or logos visible. The movement focuses entirely on the transition from the room's perimeter to the basketball equipment mounted high on the wall."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "92e156ac73769fc17778d7e2be28411e",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-107.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, several healthcare professionals are gathered around a patient on a gurney. One individual in the foreground wears a blue scrub top and blue gloves, while another person wears a grey hoodie and blue gloves. Two others are dressed in full blue scrubs, and a final person wears a black jacket over blue scrubs; all individuals are wearing surgical masks. They are focused on a patient covered by white sheets, with the person in the black jacket reaching toward the bedside. The background contains medical storage shelves stocked with various supplies and equipment. A purple banner across the bottom of the scene contains a stylized silhouette of a person and the text \"Day 4 Cooling & CRT Post Arrest\" and \"Sim Week\". Across the sequence, the group remains in place, with slight shifts in posture and hand movements as they coordinate their care for the patient."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2d5a7381382f48127c5f14ea68ba2792",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.169,
+    0.506,
+    0.844,
+    1.181
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a desktop environment featuring a spreadsheet and a video overlay. The spreadsheet contains a list of names and regions, including \"BRIAN FRANK\" paired with \"ATLANTIC,\" \"CENTRAL,\" \"PACIFIC,\" and \"SOUTHWEST,\" as well as \"Kennard Bolt\" with \"NORTHWEST\" and \"Kyle Barber\" with \"SOUTHEAST.\" A video overlay in the corner features a man with a beard wearing a black shirt, sitting in front of a shelf of electronics. The overlay includes logos for \"JASPYS CASEBREAKS.COM\" and \"JASPYSBREAKS,\" along with a red button that says \"Hit the SUBSCRIBE button down below!\" and a \"Subscribe\" button. As the sequence progresses, a print settings dialog box appears over the spreadsheet, showing options for \"Destination,\" \"Pages,\" \"Copies,\" and \"Paper size,\" with \"Samsung M2020 Series\" selected as the destination. The dialog box remains open while the man in the video overlay continues to be visible."
+}

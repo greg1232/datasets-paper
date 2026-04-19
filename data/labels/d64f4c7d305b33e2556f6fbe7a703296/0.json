@@ -1,0 +1,15 @@
+{
+  "video_id": "d64f4c7d305b33e2556f6fbe7a703296",
+  "url": "./data/segments/3Smz5pevbI4-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    11.224,
+    33.671,
+    56.119,
+    78.566
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands on a stage in front of a light-colored wall featuring the repeated logo and text \"UNITED STATES INSTITUTE OF PEACE\". He is dressed in a grey blazer over a light-colored shirt, dark brown trousers, and wears a name tag. To his left is a wooden podium with a circular emblem, and behind him stand the American flag and a blue flag with a white seal. The man is giving a presentation, using hand gestures to emphasize his points. In the initial frames, he stands centrally, gesturing with both hands while looking toward the audience. As the sequence progresses, he shifts his position slightly and reaches out with his right hand to touch the side of the podium while continuing to speak and gesture. The background and lighting remain consistent throughout the short clip."
+}

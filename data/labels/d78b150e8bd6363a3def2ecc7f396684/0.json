@@ -1,0 +1,15 @@
+{
+  "video_id": "d78b150e8bd6363a3def2ecc7f396684",
+  "url": "./data/segments/3r714PCt5mU-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.308,
+    3.925,
+    6.542,
+    9.158
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video presentation begins with two separate visual elements: a woman with long blonde hair wearing a red top writing on a chalkboard filled with diagrams and a top-down view of a desk containing a spiral notebook, pencils, paperclips, and scissors. Transitioning to a graphic layout, a blue logo featuring an open book and a hand is displayed alongside the text \"Open Educational Resources.\" Next to the logo, the Spanish phrase \"Charla sobre l\" appears, which then expands in the final scene to read \"Charla sobre los Recursos Educativos Abiertos, qu\u00e9 son, d\u00f3nde encontrarlos y c\u00f3mo utilizarlos.\" The background throughout the transition remains a solid teal color, while the logo and text are positioned to provide an introductory title for a talk about Open Educational Resources."
+}

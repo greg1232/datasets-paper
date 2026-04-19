@@ -1,0 +1,15 @@
+{
+  "video_id": "431c57dde66b7faae408912c3643603d",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.388,
+    0.646,
+    0.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting, several people are gathered for a training exercise. A person in the foreground, wearing a black hoodie and a red and white trucker hat, is seen from behind and to the side, facing a group. Across from them, a woman with glasses, a blue surgical mask, and a black jacket is gesturing with her hands while speaking. Behind her, another person wears blue medical scrubs and a surgical mask. A person with brown hair tied in a bun and wearing a light pink shirt is also visible in the foreground, facing the group. White papers are held by the participants. The text \"Sim Week\" appears in large white letters across the center of the scene, and a logo in the bottom right corner reads \"Sim Week\" above smaller, less legible text. The scene remains consistent across the frames, with only slight movements in the gestures of the woman in the black jacket."
+}

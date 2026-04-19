@@ -1,0 +1,15 @@
+{
+  "video_id": "43d8c7110d128fb450ab1e02ee14bb30",
+  "url": "./data/segments/3a0FD1177FA-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is crafting greeting cards on a light-colored grid cutting mat. The individual wears a white smartwatch on their left wrist and a ring on their left hand. In the first frame, they reach toward a set of card bases, which include pieces of green leaf-patterned paper and neutral-toned textured paper. As the sequence progresses, the person uses their fingers to align and adjust these paper elements. On the workspace, there are several scattered pieces of floral-patterned paper, a clear tape dispenser, a red stamp pad, and a black ink pad. A small white sign in the upper left corner reads, \"BIRTHDAY is filled with all the best things\". A logo for \"Stamping Julie\" is visible in the bottom left corner of the frames. By the final frame, the person is smoothing down the layers of paper on the card bases to secure them."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f191cee14691a1b6da3038d8f88f7fd7",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.621,
+    4.863,
+    8.104,
+    11.346
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a white short-sleeved shirt and matching white trousers walks through an indoor facility. Initially, they move past a white box and a door with a dark panel, heading toward a staircase. As they proceed, they grasp a wooden handrail to ascend the stairs. In the final sequence, the person is seen from behind walking down a long, sterile hallway with light-colored walls and a gray floor. A blue object is visible against the wall on the right side of the corridor. The setting appears to be a medical or institutional environment, characterized by brick-patterned walls and functional lighting. The person remains the sole individual visible throughout the sequence, maintaining a consistent direction of movement from the initial room, up the stairs, and into the hallway."
+}

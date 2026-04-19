@@ -1,0 +1,15 @@
+{
+  "video_id": "a632bbe6f8a6a2eb6c8673abda76a490",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-098.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.709,
+    0.993
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person pours a white liquid from a white bottle labeled \"MIR\" into a matching white \"MIR\" cup. In the initial scene, the word \"OPENING\" appears in white capital letters against a dark background. As the sequence progresses, the shot transitions to a split-screen view. On one side, a man with short dark hair wears black headphones and a black jacket, positioned in front of a microphone. On the other side, a woman with long dark hair, wearing a dark green long-sleeved shirt and a necklace, holds the \"MIR\" cup as the liquid is poured into it. The man looks toward the woman with a slight smile. The background behind the man consists of a dark, ribbed wall. The scene remains consistent across the latter frames, maintaining the split-screen composition and the ongoing action of pouring the liquid."
+}

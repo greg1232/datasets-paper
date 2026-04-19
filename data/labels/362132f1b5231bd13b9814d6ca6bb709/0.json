@@ -1,0 +1,15 @@
+{
+  "video_id": "362132f1b5231bd13b9814d6ca6bb709",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.758
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black jacket is seated at a desk in an indoor setting, appearing to be recording a video. He is positioned in front of a red-patterned mat and several stacks of small, clear plastic packages. On the screen, a prominent orange and white logo reads \"JASPYS\" next to \"CASEBREAKS.COM\". As the scene progresses, the man focuses on the packages on the desk, reaching out to handle them. The video is intermittently obscured by a large, blurry, flesh-toned object that moves across the foreground, partially blocking the view of the man and his equipment. Between these obstructions, the man remains seated, looking down at the items on the table, while the \"JASPYS CASEBREAKS.COM\" branding remains visible in the center of the frame."
+}

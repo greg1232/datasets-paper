@@ -1,0 +1,15 @@
+{
+  "video_id": "288a6c102928ac3c5ec2d861e2eb5a87",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-084.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.538,
+    0.897,
+    1.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Inside the cabin of a vehicle, a person's hand is seen interacting with the center console, which features wood-grain paneling and various controls. In the early stages, the person's hand is positioned near a screen, with a wooden gear shift knob visible to the right. Above the screen, a control panel includes buttons and indicators, while a digital display further up shows a logo and the text \"FOR SALE\". As the sequence progresses, the person's hand moves away from the center console, and the view shifts toward the steering wheel. The steering wheel is dark-colored with visible stitching along its inner edge. The final frames focus on the person's hand gripping the steering wheel, with the wood-paneled dashboard and gear shift knob remaining partially visible in the background."
+}

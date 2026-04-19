@@ -1,0 +1,15 @@
+{
+  "video_id": "fe5eee0f767cad21be926a1e57266284",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-114.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.218,
+    3.654,
+    6.089,
+    8.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a beard is situated in a recording studio against a dark, textured acoustic foam wall. He wears black over-ear headphones and a black jacket over a gray shirt. A professional condenser microphone on a boom arm is positioned directly in front of him. Across the sequence, the man remains in the same position, but his facial expression and gaze shift. Initially, he looks upward and to his right with a slightly skeptical or thoughtful expression. In the next moment, he lowers his gaze, looking more neutral. He then shifts his eyes slightly back toward the right, and finally, he looks directly to his right with a wider-eyed, curious expression. His mouth remains mostly closed throughout the progression, and no text or logos are visible in the scene."
+}

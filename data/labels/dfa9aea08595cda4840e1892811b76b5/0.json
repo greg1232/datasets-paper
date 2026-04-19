@@ -1,0 +1,15 @@
+{
+  "video_id": "dfa9aea08595cda4840e1892811b76b5",
+  "url": "./data/segments/3QD9oO6sRns-Scene-062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.317,
+    0.95,
+    1.583,
+    2.217
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person\u2019s hand is shown manipulating a clear plastic protective card sleeve in a brightly lit room with a white background. In the background, multiple black boxes labeled \"CLEARLY AUTHENTIC\" are stacked. The scene is overlaid with a graphic banner at the bottom featuring a logo that reads \"JASPYS CASEBREAKS\" in orange and white text. A small inset video in the bottom corner shows a man wearing a black t-shirt and a black baseball cap, who appears to be broadcasting the session. As the sequence progresses, the hand moves a card from the sleeve and places it into one of the \"CLEARLY AUTHENTIC\" boxes. The man in the inset remains visible throughout, while the primary focus shifts from the handling of the protective sleeve to the act of storing the item inside a branded box."
+}

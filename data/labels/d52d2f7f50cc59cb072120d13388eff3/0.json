@@ -1,0 +1,15 @@
+{
+  "video_id": "d52d2f7f50cc59cb072120d13388eff3",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.475,
+    4.425,
+    7.375,
+    10.325
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark blue blazer over a dark button-down shirt stands behind a small, white circular table in a professional presentation setting. The background is a plain, light-colored wall. On the table, there is a clear plastic water bottle and a black microphone on a stand. The logo \"mediasite\" is visible in the top center of the scene. Throughout the sequence, the man is speaking and gesturing with his hands. He begins by extending his left arm and open palm outward toward the side. He then brings his hands closer to his body, resting them near the table. He repeats this movement, again extending his left arm outward in an open gesture before returning his hands to a neutral position near the microphone. His expression remains serious and focused as he delivers his presentation."
+}

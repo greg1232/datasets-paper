@@ -1,0 +1,15 @@
+{
+  "video_id": "2d00f2b2c924e36ccf6139cce083b3e7",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.517,
+    1.552,
+    2.586,
+    3.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a grey suit jacket is seated at a desk in what appears to be a formal committee meeting. The desk is cluttered with various items, including a laptop, stacks of papers, and a black fabric case with a colorful paisley pattern. On-screen text indicates the date is \"April 12, 2019\" and identifies the event as the \"House Committee on General, Housing, and Military Affairs\" regarding \"S.23 Increasing the Minimum Wage,\" accompanied by an \"ORCA\" logo. As the sequence progresses, the person moves their right hand, transitioning from resting it on the desk to gesturing downward toward the papers. The camera remains stationary throughout the clip, maintaining a side profile of the individual and their workspace while the person's hand movement provides the only significant change in the scene."
+}

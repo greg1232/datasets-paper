@@ -1,0 +1,15 @@
+{
+  "video_id": "9a3d03f15df1ee6b53d2ad19915433ce",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.812,
+    1.137
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene takes place in a large, brightly lit hall with a high ceiling featuring ornate chandeliers. A group of men stands on a blue carpeted stage before an audience seated at tables in the background. Five men are prominently positioned on the stage: four are dressed in traditional loose-fitting tunics and trousers\u2014three in white and one in blue\u2014while a fifth man on the right wears a black sleeveless top and pants. Throughout the sequence, the men remain largely stationary, facing forward or slightly toward each other. The man in the blue outfit stands centrally, maintaining a poised stance. As the sequence progresses, the men make subtle shifts in their posture and positions, with the man in blue slightly adjusting his weight and the man in black shifting his stance. The background audience remains seated and observant, and no text or logos are visible on screen."
+}

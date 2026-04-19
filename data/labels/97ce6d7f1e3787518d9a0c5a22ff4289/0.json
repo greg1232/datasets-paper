@@ -1,0 +1,15 @@
+{
+  "video_id": "97ce6d7f1e3787518d9a0c5a22ff4289",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.559,
+    1.677,
+    2.794,
+    3.912
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A low-angle, first-person perspective captures a dark outdoor environment at night. The scene begins with a bright light source illuminating a patch of dirt and small green plants, creating a strong glare and deep shadows. As the viewpoint shifts, the bright light disappears, and the scene becomes almost entirely dark, with only faint, indistinct shapes and textures visible in the gloom. A brief glimpse of a wooden ladder or similar structural frame is seen leaning against a surface in a dimly lit area. The footage ends in near-complete darkness, with a few vague, horizontal streaks of light reflecting off a dark surface. There are no people, text, or logos visible throughout the sequence, which depicts a transition from a focused light source to an obscured, dark setting."
+}

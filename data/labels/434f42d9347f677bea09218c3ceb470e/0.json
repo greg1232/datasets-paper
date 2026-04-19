@@ -1,0 +1,15 @@
+{
+  "video_id": "434f42d9347f677bea09218c3ceb470e",
+  "url": "./data/segments/3fokLGPK15Q-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.195,
+    3.585,
+    5.975,
+    8.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A panel of three people sits on a stage against a dark background accented by purple neon lights. A man on the left wears a white long-sleeved button-down shirt and dark trousers. In the center, a woman wears a black t-shirt with white text that reads \"LIFE IS SHORT\" and black trousers. On the right, a man wears a grey suit jacket over a light-colored shirt and grey trousers. They are seated in light-colored wooden chairs, with white mechanical components or server-like equipment placed on the floor in front of them. In the background, large pink letters form part of a logo, though only \"S L M S\" is clearly visible. As the sequence progresses, the people remain seated, shifting slightly in their postures. The man on the left rests his hands in his lap, the woman remains attentive, and the man on the right leans slightly forward while gesturing with his hand."
+}

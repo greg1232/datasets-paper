@@ -1,0 +1,15 @@
+{
+  "video_id": "fea5b26462bd420f8049f10f7e56197e",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.394,
+    4.181,
+    6.969,
+    9.756
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a user navigating a web browser. Initially, the page displays the \"RANDOM.ORG\" website with a \"Dice Roller\" tool showing a result of two dice. The view then shifts to a different page featuring a list of numbered names, including \"Michael Loguercio\" and \"Ryan Prenell,\" alongside a chat window with messages from \"Nightbot\" and \"OK!\". The Nightbot message reads, \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://t.me/Z1eSk9K9\". A banner for \"CASEBREAKS.COM\" appears at the bottom of the screen. A small inset video window in the lower right corner shows a man with a beard wearing a black t-shirt, speaking to the camera in a room with shelves of products behind him. As the sequence progresses, the browser window scrolls down through the list of names, which continues up to \"30. Ryan Cason\"."
+}

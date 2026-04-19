@@ -1,0 +1,15 @@
+{
+  "video_id": "99db4b37b996edb4da32d7b05e7e49c2",
+  "url": "./data/segments/3tXiKB90OM0-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.017,
+    3.05,
+    5.083,
+    7.117
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A line of naval personnel stands in formation along the deck of a large, grey ship. The sailors are dressed in dark uniforms with blue headgear, standing at attention and facing outward. The ship's hull is a light grey color, featuring a large golden anchor and the white painted number \"44\" prominently on its side. In the background, the ship's superstructure rises, topped with various antennas and a small red and white flag. As the sequence progresses, the sailors remain largely stationary in their formation, though there are subtle shifts in their postures. The camera angle remains constant, providing a side view of the ship's exterior and the personnel lining the edge of the deck against a clear, pale blue sky."
+}

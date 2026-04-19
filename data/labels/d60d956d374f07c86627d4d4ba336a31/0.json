@@ -1,0 +1,15 @@
+{
+  "video_id": "d60d956d374f07c86627d4d4ba336a31",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-241.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.537,
+    0.896,
+    1.254
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, wearing round glasses, white over-ear headphones, and a dark blue textured shirt, is seated in a room. He is positioned in front of a black microphone. To his left is a decorated Christmas tree with multicolored lights, and behind him is a light-colored wood-paneled wall. A framed screen is visible in the background, displaying a blue interface with the number \"20\" clearly legible. Across the sequence, the man is speaking, and his facial expressions shift from a neutral, slightly open-mouthed look to a more intense expression with his mouth wider open. In one instance, a blurred hand is visible moving near the center of the scene. The lighting and background remain consistent as the man continues to talk into the microphone."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "de574cc1d9990d3436d8f92a06fedb6d",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.706,
+    1.177,
+    1.648
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair and a blue shirt is seen in a small video overlay in the bottom-left corner of a screen displaying a sports video game interface. The background is a dark purple theme featuring a player profile for \"TROY POLAMALU,\" who is identified as a \"96\" OVR \"SS\" at \"#43\". The interface shows various numeric attributes under the heading \"OFFENSE,\" including values like \"69,\" \"25,\" \"35,\" \"64,\" \"94,\" \"79,\" and \"53.\" A character model of the football player in a white and purple uniform is positioned on the right side of the screen. Navigation tabs at the top include \"HOME,\" \"ATTRIBUTES,\" and \"UPGRADES.\" Across the sequence, the man in the overlay shifts his expression and posture, appearing to react with excitement, while the game screen remains static, continuing to display the player's stats and profile information."
+}

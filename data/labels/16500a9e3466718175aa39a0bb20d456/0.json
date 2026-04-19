@@ -1,0 +1,15 @@
+{
+  "video_id": "16500a9e3466718175aa39a0bb20d456",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.526,
+    0.876,
+    1.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a white long-sleeved shirt under a black vest with blue floral embroidery and a decorative red and white bib, performs in front of a background of brown horizontal blinds. He stands behind a microphone on a black stand and plays a light-colored acoustic guitar. Several people with light-colored hair are partially visible in the foreground, their backs to the camera. The text \"ORCA\" appears in white letters inside a light-colored oval logo on the right side of the scene. Across the frames, the man remains in the same position, singing into the microphone while strumming his guitar. His mouth movements change slightly as he sings, and his right hand moves across the guitar strings, showing the progression of his performance."
+}

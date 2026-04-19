@@ -1,0 +1,15 @@
+{
+  "video_id": "b120cab90f4436504ff6c72d8ef4f3d1",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-112.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.165,
+    0.495,
+    0.825,
+    1.155
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a dark blue background with a faint, repetitive pattern of figures and symbols. Superimposed on this background are four identical logos of the Real Madrid football club, arranged in a rectangular grid. Each logo consists of a white circular border enclosing stylized blue and yellow interlocking letters, topped with a detailed red and gold crown. The background appears to be a composite of faded images of players and crowds, though these details are obscured by the dark blue overlay. Across the sequence of frames, the image remains completely static; there is no movement of the logos, no change in the background patterns, and no appearing or disappearing text. The visual composition is consistent from start to finish, maintaining a symmetrical arrangement of the four club crests against the moody, monochromatic blue backdrop."
+}

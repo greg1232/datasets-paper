@@ -1,0 +1,15 @@
+{
+  "video_id": "e2615517311d0643850f0bc1714f0149",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.708,
+    0.992
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a computer screen displaying a terminal window filled with lines of system logs and code. The background of the terminal is black with white and light-gray text, and a small \"e-payhist\" logo is visible at the bottom center. The logs contain timestamped entries such as \"[30/10/20] 6:21:16 +0000\" and references to \"GET /raipage/http/1.1 404 444 2218\". Other legible phrases include \"10-2050:18-2050:21.36-348998902 calverate.ga-server.42.vm.gz 76 nc\", \"logfile logs\", and \"HTTP Server listen\". The screen remains static throughout the sequence, with no people, movement, or changes in content visible across the frames. The layout consists of repetitive blocks of technical data, IP addresses, and system messages that remain unchanging throughout the clip."
+}

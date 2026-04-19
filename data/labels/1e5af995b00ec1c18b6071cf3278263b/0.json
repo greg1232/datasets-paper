@@ -1,0 +1,15 @@
+{
+  "video_id": "1e5af995b00ec1c18b6071cf3278263b",
+  "url": "./data/segments/3Z229_lKLpk-Scene-190.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.335,
+    1.005,
+    1.675,
+    2.345
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene takes place inside a legislative chamber, where rows of people are seated behind long wooden desks. The individuals, primarily men, are dressed in a variety of attire, including white traditional Indian kurtas, formal shirts, and colorful sarees. Many of the people are seated calmly, looking forward or slightly to the side, while some are engaged in quiet conversation. The seating is arranged in a tiered format, with the desks and walls constructed from light-colored wood. Across the sequence of frames, there is very little movement; the people remain in their respective seats, and their postures and facial expressions remain largely static. No on-screen text, logos, or specific equipment are visible, and the composition of the scene remains consistent, capturing a wide shot of the assembly in a moment of relative stillness."
+}

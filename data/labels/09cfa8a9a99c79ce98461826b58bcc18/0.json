@@ -1,0 +1,15 @@
+{
+  "video_id": "09cfa8a9a99c79ce98461826b58bcc18",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.858,
+    2.575,
+    4.292,
+    6.008
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a plastic-encased baseball card featuring a player named \"ALOMAR\" with a visible signature. The card is displayed against a background featuring a desk with equipment and a person wearing a navy blue shirt seated in the distance. The background includes logos for \"JASPYS CASEBREAKS.COM\" and a decorative mat with green palm tree silhouettes. Across the sequence, the hand tilts the card to capture light reflections on the metallic surface, revealing text such as \"HALL OF FAMER.\" In the final frame, the hand moves slightly, partially obscuring the card as the perspective shifts. The person in the background remains relatively stationary, looking toward the camera or the card. The scene is characterized by a close-up focus on the collectible card and its holographic effects."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6382df5fab33eaa20e50aa2a07551b88",
+  "url": "./data/segments/3mmDnftP1M8-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    17.724,
+    53.172,
+    88.62,
+    124.068
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a centered, circular graphic containing white text set against a dark background with red lighting effects. The text inside the circle reads, \"at Himself bore our sins in His body on the Cross so that we might die to sin, and live to righteousness; for by His stripes you were healed. 1 Peter 2:24.\" In the bottom left and bottom center of the screen, the name \"Roseline K\" is displayed in white text. The sequence shows very little movement, as the central graphic and the name \"Roseline K\" remain static throughout the frames. The red glow behind the central circle subtly shifts in intensity and position, creating a shimmering effect across the dark background. There are no people or physical objects visible in the scene."
+}

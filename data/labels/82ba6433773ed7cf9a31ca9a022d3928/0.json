@@ -1,0 +1,15 @@
+{
+  "video_id": "82ba6433773ed7cf9a31ca9a022d3928",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-144.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.52,
+    1.56,
+    2.6,
+    3.64
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser with multiple open tabs, including one titled \"blackboard hub learning.\" The main browser window shows a dark-themed conceptual map with various circular nodes and connecting lines. Central to this map are three icons: a black-and-white silhouette of a person, a green-circled person icon, and a red-circled person icon. A vertical rectangular image of a person's face is positioned below the green icon. In the top right corner of the screen, a small video call window shows a man wearing a dark baseball cap and a dark shirt. On-screen text in the upper right of the browser area reads \"Saved Settings.\" The scene remains static across the sequence, with the browser tabs, the conceptual map, and the man in the video call window remaining in the same positions without any visible movement or interaction."
+}

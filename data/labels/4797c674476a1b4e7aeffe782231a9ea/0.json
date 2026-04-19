@@ -1,0 +1,15 @@
+{
+  "video_id": "4797c674476a1b4e7aeffe782231a9ea",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.775,
+    5.325,
+    8.875,
+    12.425
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen in a circular inset window on the left side of the scene, wearing a dark blue or black shirt. On a wooden tabletop, several containers of popcorn are visible: a metal baking sheet, a white plate, and a red bowl. A metal scoop rests on the table. The text \"UCAR CENTER FOR SCIENCE EDUCATION\" is displayed in the upper left corner of each scene. As the sequence progresses, a hand reaches into the frame from the top to move the metal scoop toward the popcorn on the baking sheet. By the final scenes, the scoop has been used to move some popcorn from the baking sheet onto the table surface. The person in the inset window remains present, observing the activity on the table."
+}

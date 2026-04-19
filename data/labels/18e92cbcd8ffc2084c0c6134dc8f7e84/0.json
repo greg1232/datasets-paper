@@ -1,0 +1,15 @@
+{
+  "video_id": "18e92cbcd8ffc2084c0c6134dc8f7e84",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-110.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.258,
+    0.775,
+    1.292,
+    1.808
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a sequence of frames dominated by a solid blue background and black vertical sections. A gray horizontal band runs across the top and bottom of the visual field, each containing the identical white text \"www.chycho.com\". The composition is static, with no people, objects, or equipment visible. There is no apparent movement or change in the scene across the sequence, as the colors, text, and layout remain completely consistent throughout. The image consists solely of these geometric blocks of blue, black, and gray, with the repeated website URL appearing in both the upper and lower gray strips."
+}

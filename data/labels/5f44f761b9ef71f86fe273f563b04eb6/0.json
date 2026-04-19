@@ -1,0 +1,15 @@
+{
+  "video_id": "5f44f761b9ef71f86fe273f563b04eb6",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-174.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.7,
+    2.1,
+    3.5,
+    4.9
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark baseball cap is seen in a small video call window in the upper right corner of a screen recording. The primary focus of the screen is a complex conceptual map on a black background, featuring circular icons connected by curved blue lines. These icons contain images and labels such as \"Insights & Introduction Kumu,\" \"Integrated-thinking,\" and \"Inclusive Story.\" The browser tabs at the top of the screen display titles including \"Trust & Learning by Systemeni,\" \"Systems, by Systemeni,\" \"Future of Society, by Systemeni,\" \"Insights & Introduction Kumu,\" and \"Rural Community Food System.\" Throughout the sequence, the conceptual map remains static, and the person in the video call remains in their position, occasionally shifting their expression while looking toward the camera. The overall scene depicts a virtual presentation or collaborative session centered around the mapping software."
+}

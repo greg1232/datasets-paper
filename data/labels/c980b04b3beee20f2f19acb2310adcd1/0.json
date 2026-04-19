@@ -1,0 +1,15 @@
+{
+  "video_id": "c980b04b3beee20f2f19acb2310adcd1",
+  "url": "./data/segments/3Kxl1O310k8-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.895,
+    20.685,
+    34.475,
+    48.265
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A promotional presentation for MHP outlines its organizational goals and services. The text at the top states, \"Mission\" and \"MHP works with communities to create innovative policy and financing solutions that provide affordable homes and better lives for the people of MA.\" Below this, four categorized service boxes are displayed. The first, \"Center for Housing Data,\" notes that it \"Collects, analyzes & shares info for effective policy creation.\" The second, \"Community Assistance,\" states it \"Builds local capacity through TA and training, including 40B program.\" The third, \"Lending,\" reports that it \"Lent over $1.4B for creation/preservation of over 27,000 units of affordable rental housing.\" The final box, \"Homeownership,\" says it \"Supports first time homebuyers w/innovative products like ONE Mortgage.\" The sequence shows the presentation slide remaining static, with a yellow MHP logo visible in the bottom left corner."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "fcb1649e41d9a482cb5fde6a97106dd9",
+  "url": "./data/segments/3P1vSUbet40-Scene-1071.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.219,
+    0.657,
+    1.095,
+    1.533
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black baseball cap, a black t-shirt with the text \"CHECK IT OUT,\" and large silver headphones speaks into a professional condenser microphone. He is positioned in a studio setting with a white background featuring a vertical banner that reads \"HUSTLE\" and displays several gold stars. To his right, a dark wall features the words \"BOSS TALK 101\" in red and white lettering. A digital overlay at the bottom of the screen includes a logo for \"PODCAST\" on the left and the text \"BOSS TALK 101\" on the right. Across the sequence, the man is captured mid-conversation, gesturing with his right hand in the first frame and then relaxing his posture. His head shifts slightly as he speaks, moving from a profile view to a slightly more frontal angle while maintaining his position behind the microphone."
+}

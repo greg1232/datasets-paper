@@ -1,0 +1,15 @@
+{
+  "video_id": "984b88a12920e3baf170f3eff4323454",
+  "url": "./data/segments/3P1vSUbet40-Scene-0690.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.094,
+    0.282,
+    0.469,
+    0.657
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a tall, grey, textured headpiece is seated in a studio setting, wearing a white shirt with a red bow tie and suspenders. He wears black headphones and sits before a black microphone. The background consists of a wall decorated with numerous small framed photographs and several hanging garments. On-screen text and logos appear consistently across the scene, including a logo that reads \"BOSS TALK JOY PODCAST\" on the left and \"BOSS TALK JOY\" on the right. Throughout the sequence, the man remains relatively still, maintaining a neutral expression while looking slightly to his left. There is very little movement between the frames, with only minor shifts in his facial expression and posture as he remains positioned in front of the microphone."
+}

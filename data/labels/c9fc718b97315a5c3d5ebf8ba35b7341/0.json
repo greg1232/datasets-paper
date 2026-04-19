@@ -1,0 +1,15 @@
+{
+  "video_id": "c9fc718b97315a5c3d5ebf8ba35b7341",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical simulation setting, a medical student wearing a blue scrub top, a black face mask, and blue gloves uses a stethoscope to examine a patient lying in a hospital bed. A second individual, wearing a black top and a white face mask, stands nearby and observes the procedure. The patient is partially covered by a white blanket with a small pattern, and their red curly hair is visible at the edge of the bed. The room features a light-colored wall, a grey armchair in the background, and medical equipment attached to the bed rail. Across the sequence, the student maintains their position while adjusting the placement of the stethoscope on the patient. The text \"Sim Week\" appears in the bottom right corner of each scene. The interaction remains steady and focused as the student performs the examination."
+}

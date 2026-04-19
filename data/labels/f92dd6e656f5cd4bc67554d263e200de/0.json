@@ -1,0 +1,15 @@
+{
+  "video_id": "f92dd6e656f5cd4bc67554d263e200de",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-091.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.367,
+    1.101,
+    1.835,
+    2.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A medical simulation takes place in a clinical room featuring a patient mannequin on a bed, surrounded by healthcare professionals in blue and pink scrubs and protective masks. Several individuals are clustered around the patient, collaborating on a procedure. The room is equipped with medical monitors, a crash cart, and a small table with supplies. On the right wall, a sign reads \"ADAMS COWLEY SHOCK TRAUMA UNIVERSITY OF MARYLAND.\" Overlaid text in the bottom corners includes a purple icon with \"Day 3\" and another indicating \"Sim Week.\" Throughout the sequence, the scene remains largely static as the team continues their coordinated movements around the patient bed. There is minimal physical change between the frames, showing the steady, focused interaction of the medical staff as they manage the simulated trauma case."
+}

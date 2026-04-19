@@ -1,0 +1,15 @@
+{
+  "video_id": "bc7e10e3271aac059b333ee1eef1aebd",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.242,
+    0.725,
+    1.208,
+    1.692
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large, formal hall with high ceilings, golden walls, and ornate chandeliers, a man performs a martial arts routine on a blue carpet. He is dressed in a matching blue long-sleeved tunic and trousers. Across the sequence, he wields a long staff that has a red tassel attached to one end. He begins by swinging the staff upward and backward, then shifts his weight and raises his arms as the staff extends horizontally behind him. He then transitions into a deep, wide stance, pulling the staff across his body. Finally, he settles into a stable pose with the staff held horizontally in front of him, the red tassel fluttering to the side. In the background, a crowd of people in various attire sits at banquet tables with white tablecloths, watching the performance. There is no legible on-screen text or logos visible."
+}

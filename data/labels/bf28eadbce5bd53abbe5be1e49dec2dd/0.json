@@ -1,0 +1,15 @@
+{
+  "video_id": "bf28eadbce5bd53abbe5be1e49dec2dd",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.496,
+    1.488,
+    2.479,
+    3.471
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man appears in a small video inset in the bottom left corner of a trading platform screen, while the rest of the display shows financial market data. He is clean-shaven with short hair and is looking toward the camera. The main screen features the \"TICKMILL\" logo and German text that reads \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN,\" along with a list of trading benefits and the website \"www.tickmill.com.de\". A large candlestick chart for \"BTCUSD\" is central to the view, showing price fluctuations over time with blue and red trend lines. To the left and right, vertical columns display various currency pairs and numeric values. Across the sequence, the market data and chart remain static, while the man in the inset slightly shifts his head and gaze, moving from a forward-facing position to looking slightly downward."
+}

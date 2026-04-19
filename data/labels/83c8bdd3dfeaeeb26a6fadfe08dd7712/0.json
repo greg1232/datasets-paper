@@ -1,0 +1,15 @@
+{
+  "video_id": "83c8bdd3dfeaeeb26a6fadfe08dd7712",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-545.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.203,
+    0.61,
+    1.017,
+    1.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt speaks into a professional microphone in a room filled with clothing and memorabilia. His shirt features the text \"I CN NEVER DO SHIT AT WRK\" in a white, distressed font. The background contains framed photos, a white mannequin wearing a white garment with a black design, and racks of clothing. Two logos appear on the screen: a circular logo on the left and \"BODILY\" on the right. As the video progresses, the man remains seated and continues talking, shifting his gaze slightly and changing his facial expressions while gesturing subtly with his head. The camera remains stationary throughout the sequence, maintaining a consistent medium shot of the man from the chest up as he interacts with an unseen person off-camera."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7cbaac803d382e08a461db95b36329f6",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-891.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.136,
+    0.407,
+    0.678,
+    0.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, large black headphones, and a dark green t-shirt with the text \"I ON NEVER DO SHIT\" printed in white on the front sits in a room filled with framed photographs on the walls. He is positioned in front of a black professional microphone. In the background, a white mannequin wears a white t-shirt and grey pants, and clothing racks are visible. Two logos appear on the screen: a circular one on the left and one on the right that reads \"Red Bull\". Across the sequence, the man is speaking, and his facial expressions shift slightly from a neutral, focused look to a subtle smile. The setting remains static, with the camera fixed on the man as he talks into the microphone, while the background elements and logos remain unchanged."
+}

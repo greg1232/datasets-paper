@@ -1,0 +1,15 @@
+{
+  "video_id": "adeffee645352aa83075545b6ce71f72",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-184.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.088,
+    0.263,
+    0.438,
+    0.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's right hand and forearm are shown playing an acoustic guitar. The person is wearing a dark-colored long-sleeved garment. The hand is positioned over the guitar's strings, with the thumb pressing down on a string near the fretboard. The guitar has a light-colored wooden body and a dark fretboard with metallic frets. Across the bottom of the scene, a blue graphic banner displays the text \"Basil Chapman\" in a large font, with a smaller line underneath reading \"The Tiger Technicians Hour | June 8th, 2022\". As the sequence progresses, the hand shifts slightly, continuing to press and pluck the guitar strings, while the camera remains in a close-up, static position. The focus remains tight on the interaction between the fingers and the instrument, with the background blurred."
+}

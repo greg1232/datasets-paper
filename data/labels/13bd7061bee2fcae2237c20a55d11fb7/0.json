@@ -1,0 +1,15 @@
+{
+  "video_id": "13bd7061bee2fcae2237c20a55d11fb7",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.758
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blonde hair wearing a black shirt appears in a small webcam overlay in the lower-left corner of a screen displaying a video game menu. The main screen is titled \"UNOPENED PACKS\" and shows five distinct digital gift packs with dark, textured backgrounds and glowing gems or figures in the center. These are labeled from left to right as \"T PRESENT x4\", \"SMALL PRESENT x6\", \"LOVELY PRESENT x1\", and \"BLITZ PRESENT\". The top of the screen displays various numerical values and \"LV 19 (90)\". As the sequence progresses, the person in the webcam overlay shifts their facial expression and gestures, moving from a neutral gaze to a wide-eyed, surprised look with an open mouth, and eventually giving a thumbs-up in the final frame. The game menu remains static throughout the clip."
+}

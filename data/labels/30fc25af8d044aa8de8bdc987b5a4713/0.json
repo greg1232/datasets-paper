@@ -1,0 +1,15 @@
+{
+  "video_id": "30fc25af8d044aa8de8bdc987b5a4713",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-177.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.221,
+    0.663,
+    1.104,
+    1.546
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds up a sports trading card featuring Jim Rice, showcasing a signature and the text \"1/29\" on a gold and white background. The person's hand is prominent in the foreground, tilting the card to catch the light. In the background, a man wearing a black t-shirt with a yellow logo sits at a desk with computer equipment, including a monitor and a keyboard. On the desk is a mat featuring green palm trees against a tan background. Overlaid on the scene is the text \"JASPYS CASEBREAKS.COM\" in red and blue lettering. As the sequence progresses, the card is shifted slightly in the person's grip, and the man in the background remains seated, looking toward the camera. The background remains constant, with stacks of other cards visible behind the person's hand."
+}

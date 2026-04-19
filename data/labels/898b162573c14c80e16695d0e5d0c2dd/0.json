@@ -1,0 +1,15 @@
+{
+  "video_id": "898b162573c14c80e16695d0e5d0c2dd",
+  "url": "./data/segments/3Z229_lKLpk-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.41,
+    1.23,
+    2.05,
+    2.87
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large assembly of people, primarily men dressed in white shirts and some in traditional Indian attire, are seated in a tiered, semi-circular hall that appears to be a legislative chamber. The individuals are seated behind long, wooden desks equipped with microphones and small monitors. Many are engaged in conversation, while others look toward a central point of focus. Throughout the sequence, the camera remains static, capturing the crowd from a high angle. Subtle movements occur as people shift in their seats, lean over to speak with neighbors, or adjust their posture. The lighting is bright and overhead, illuminating the rows of beige and brown furniture and the dense gathering of officials. No on-screen text or logos are visible, and the overall scene depicts a formal government or parliamentary setting during an active session."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "20ad3f7824a8ff1234382dc0b9701862",
+  "url": "./data/segments/3PlNaEZzZg0-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.296,
+    0.888,
+    1.479,
+    2.071
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard and glasses, wearing a yellow long-sleeved garment and a red and yellow patterned scarf, stands behind a podium draped in yellow fabric. He is positioned in front of a backdrop featuring stylized red building silhouettes, green tree motifs, and large, pale-colored letters. In the initial moments, the man is speaking with his mouth open. He then transitions to bringing his hands together in a prayer-like gesture, known as Namaste. This gesture is maintained through the subsequent frames, while his expression remains solemn and focused. A thin microphone stand is visible in front of him, extending upward from the podium. The scene remains static in terms of location and composition, focusing entirely on the man's movements and gestures as he addresses an audience."
+}

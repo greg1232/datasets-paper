@@ -1,0 +1,15 @@
+{
+  "video_id": "8a7f1bf303158fb34097cf1af6b11294",
+  "url": "./data/segments/3Sq594WkayE-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.24,
+    0.719,
+    1.198,
+    1.677
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A high-angle, wide shot captures a residential neighborhood at dusk or dawn, with a dark cityscape and distant mountains silhouetted against a dim, glowing horizon. The scene is filled with numerous houses and streetlights, creating a scattered pattern of warm yellow and white lights across the dark landscape. In the foreground, several houses and a paved area are visible, with a few parked cars and dimly lit windows. The camera remains stationary, and there are no people or moving vehicles visible. The lighting across the scene remains consistent, with the deep blue and orange hues of the sky and the artificial lights of the town staying virtually unchanged. No text, logos, or equipment are visible in the frames, depicting a still and quiet suburban environment during the twilight hours."
+}

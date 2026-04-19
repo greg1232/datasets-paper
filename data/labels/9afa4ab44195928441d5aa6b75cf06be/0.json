@@ -1,0 +1,15 @@
+{
+  "video_id": "9afa4ab44195928441d5aa6b75cf06be",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-092.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.534,
+    13.601,
+    22.668,
+    31.736
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with long dark hair tied back and wearing glasses performs music in front of a tan slatted backdrop. He is dressed in a white long-sleeved shirt, a dark vest featuring blue embroidery on the shoulders and a red and white patterned accent on the chest. He holds an acoustic guitar and stands before a black microphone on a stand. The heads of several audience members are visible in the foreground, partially obscuring the lower portion of the scene. The text \"ORCA\" appears as a white logo on the right side of the scene. As the sequence progresses, the man shifts from looking down at his instrument to looking forward and singing into the microphone, while continuing to play his guitar. His facial expressions change from a focused downward gaze to an open-mouthed singing position."
+}

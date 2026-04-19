@@ -1,0 +1,15 @@
+{
+  "video_id": "d81caced46a0419a10fab254c2dab544",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-103.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.33,
+    9.99,
+    16.65,
+    23.31
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light brown hair and a beard stands before a press conference backdrop featuring various logos, including \"Puleva,\" \"LaLiga Santander,\" \"Caja Rural Granada,\" and \"Cervezas Alhambra.\" He is wearing a bright green athletic jersey with \"Fly Emirates\" and the Adidas logo visible on the chest. Across the sequence, he remains in the same position, speaking with slight changes in his facial expression and head tilt. Each frame contains yellow and white subtitles translating his words. The first frame displays \"Quiz\u00e1s la segunda deja un poco m\u00e1s que desear. Maybe the second half was not as good.\" The second frame reads \"pero encajamos un gol en la segunda parte. but we conceded a goal in the second half.\" The third frame shows \"la porter\u00eda a cero. a clean sheet.\" The final frame contains the text \"de cara al futuro. for the near future.\""
+}

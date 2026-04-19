@@ -1,0 +1,15 @@
+{
+  "video_id": "8d0b35493d531f0fab6cde58183e3f5e",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-768.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.365,
+    1.095,
+    1.825,
+    2.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap and a dark green t-shirt sits before a professional microphone in a room filled with clothing and framed pictures. His shirt features the white text \"ION NEVER DO SHIT AT WORK\". He wears black headphones and is speaking and smiling. In the background, a white mannequin wears a white t-shirt, and racks of clothing are visible beside a black chair. The walls are decorated with numerous framed photographs. A red and white logo with the text \"BONE\" is visible in the bottom left of each scene, along with another red logo featuring the words \"BONE\" and \"TFT\" in the bottom right. Throughout the sequence, the man's expression shifts from a focused speaking pose to a wide, joyful smile as he looks slightly off-camera."
+}

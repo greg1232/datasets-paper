@@ -1,0 +1,15 @@
+{
+  "video_id": "6d629c231b3e6c142be2caaa7580a3b2",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.904,
+    38.712,
+    64.521,
+    90.329
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation about Fluent Bit is shown, featuring a speaker visible in a small inset video at the top right of each slide. The speaker is a woman with dark hair wearing a dark top. The first slide is titled \"About\" and \"Fluent Bit,\" featuring the \"fluentbit\" logo and bullet points stating it \"Started in 2015,\" has \"Origins: Lightweight log processor for Embedded Linux,\" \"Quickly evolved as a solution for the Cloud space,\" and is under \"Apache License v2.0.\" The second slide, \"Fluent Bit Design & Internals,\" lists that it is \"Written in C language,\" has a \"Low memory and CPU footprint (memory around 600KB),\" a \"Pluggable Architecture (> 60 plugins available),\" and \"Built-in security: TLS on Network I/O.\" The third slide displays a workflow diagram with arrows moving from \"Input\" to \"Parser,\" \"Filter,\" \"Buffer,\" \"Routing,\" and finally splitting into \"Output 1,\" \"Output 2,\" and \"Output N.\" The final slide, \"Logging in Kubernetes Workflow,\" shows a code block containing \"log\", \"stream\", and \"time\" data fields."
+}

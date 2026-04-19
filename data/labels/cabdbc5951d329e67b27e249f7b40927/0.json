@@ -1,0 +1,15 @@
+{
+  "video_id": "cabdbc5951d329e67b27e249f7b40927",
+  "url": "./data/segments/3INb3jiuu6g-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.655,
+    1.965,
+    3.275,
+    4.585
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast shows a group of men seated in a legislative chamber with green seating. In the foreground, a man wearing a dark purple garment, a black face mask, and a traditional cap is speaking. To his left, another man wears a brown cap and a black mask. Behind them, two other men are seated; one wears a light-colored garment and a white face mask, and the other wears a white garment and a traditional cap. On-screen graphics at the bottom include a purple \"NEWS NOW\" banner and a white bar with the text \"JUSUN STRIKE\" and \"REPS URGE FG TO ENSURE SPEEDY RESOLUTION\". The \"plustv\" logo appears on the right. As the scene progresses, the text \"Watch online on www.youtube.com/plustvafrica\" appears, and a red \"Subscribe\" button is added next to the URL in the final sequence. The men remain in their seats, with the primary speaker continuing his address."
+}

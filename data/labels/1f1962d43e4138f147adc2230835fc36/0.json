@@ -1,0 +1,15 @@
+{
+  "video_id": "1f1962d43e4138f147adc2230835fc36",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-416.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.158,
+    0.475,
+    0.792,
+    1.109
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A short animation unfolds against a plain, light grey background. It begins with a large, translucent, three-dimensional outline of the letters \"MP,\" with a stylized lightbulb shape integrated into the center. As the sequence progresses, the logo rapidly shrinks and transforms. The translucent outline disappears, replaced by a small, solid version of the \"MP\" logo. This final version features dark blue letters with a small, detailed graphic of a person wearing a yellow helmet and dark clothing positioned between the letters. The logo shifts from a large, ethereal form to a compact, defined graphic, eventually settling into a centered, static position on the screen. No other people, objects, or text are present throughout the sequence."
+}

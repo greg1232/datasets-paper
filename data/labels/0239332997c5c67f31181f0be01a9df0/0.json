@@ -1,0 +1,15 @@
+{
+  "video_id": "0239332997c5c67f31181f0be01a9df0",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-089.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.095,
+    0.285,
+    0.475,
+    0.665
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital scoreboard at a soccer stadium is captured against a dark background. The scoreboard displays the team logos for Granada CF and Real Madrid, separated by a score of \"0-0\". Below the score, a countdown timer is visible. In the first three frames, the timer reads \"00:02\", but it changes to \"00:03\" in the final frame. The scoreboard also features the \"LaLiga Santander\" logo and the text \"CAJA RURAL GRANADA\" to the right. To the left, the \"WINAMAX\" logo is present. In the lower section of the screen, the text \"NUEVO LOS CARMENES\" is faintly visible. At the bottom left of the overall display, the time \"22:00\" is consistently shown across all frames. The Real Madrid crest also appears in the upper corners and center of the dark surrounding area. No people are visible in the frames."
+}

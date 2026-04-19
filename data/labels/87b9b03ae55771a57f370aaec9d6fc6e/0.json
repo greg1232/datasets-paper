@@ -1,0 +1,15 @@
+{
+  "video_id": "87b9b03ae55771a57f370aaec9d6fc6e",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a fair complexion and short dark hair is depicted in a minimalist, illustrated style. He is wearing a dark blue shirt and is positioned in front of a light grey wall and a white background. Throughout the sequence, the camera pans slightly, shifting the man's position from the left side of the frame toward the center and then partially out of the frame to the left. The scene is overlaid with various small, colorful geometric shapes, including diamonds, hexagons, and triangles, as well as small crosses. A white, rounded rectangular text box appears over the man's chest in the initial scene. Towards the end, small text appears in the lower right corner stating \"Video title in this line\" and \"514,532 views,\" alongside a red \"SUBSCRIBE\" button and a notification bell icon."
+}

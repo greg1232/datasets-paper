@@ -1,0 +1,15 @@
+{
+  "video_id": "48a6a15451e5d3f407da8dacf07267c0",
+  "url": "./data/segments/3hCk0j8genE-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.388,
+    13.163,
+    21.938,
+    30.713
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a computer screen displaying a financial trading platform, \"Orbs Pre Trader,\" dated \"11/27/2013.\" The interface consists of multiple windowed panels showing stock market data for \"INTC,\" including candlesticks and line graphs. One prominent panel is titled \"INTC - 15 Minute,\" while another is labeled \"INTC - 1 Day.\" Tables of data show columns for \"MNC,\" \"AMD,\" and \"SND,\" with various numerical values. In the top-left corner of the main windows, a digital clock tracks the time, progressing from \"13:15:14\" to \"13:15:23,\" then \"13:15:32,\" and finally \"13:15:41.\" As the time advances, the price action on the charts subtly shifts, with small changes appearing in the candle patterns and the numerical values in the data tables. The overall layout remains static, focusing on the real-time updates of the trading indicators and price movements."
+}

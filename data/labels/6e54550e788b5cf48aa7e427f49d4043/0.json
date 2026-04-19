@@ -1,0 +1,15 @@
+{
+  "video_id": "6e54550e788b5cf48aa7e427f49d4043",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A stylized animated man with short dark hair, wearing a blue shirt, is shown from the chest up against a neutral background. A bright green circle highlights his head. Below him, a white rounded text box appears, displaying the name \"Rick Segall\". Underneath the name is a small green rectangular button. In the first frame, the button contains the word \"Old\". As the scene progresses, the text \"Old\" disappears, leaving the button empty in the second frame. By the third frame, the button is partially obscured. In the final frame, the white text box and the green button disappear entirely, leaving only the man and the green circle. The background is decorated with small, floating geometric shapes like crosses, triangles, and hexagons."
+}

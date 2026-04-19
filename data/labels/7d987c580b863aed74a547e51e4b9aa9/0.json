@@ -1,0 +1,15 @@
+{
+  "video_id": "7d987c580b863aed74a547e51e4b9aa9",
+  "url": "./data/segments/3F2rz23IKUk-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    13.39,
+    40.17,
+    66.95,
+    93.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and brown hair is giving a presentation in an indoor setting with neutral-colored walls. He is wearing a black t-shirt featuring a yellow square image and the partial text \"Kn th\", along with a blue lanyard and a white identification badge. He stands behind a black chair, gesturing with his hands as he speaks. Initially, he holds his right hand out and rests his left hand on his lower back. He then shifts his posture, bringing both arms down and extending his left hand to the side. Subsequently, he brings both hands together in front of his waist in a cupping motion. Finally, he opens both hands wide in a gesturing motion. Throughout the sequence, his expression remains focused as he looks toward an unseen audience."
+}

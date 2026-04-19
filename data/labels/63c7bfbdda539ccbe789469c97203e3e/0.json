@@ -1,0 +1,15 @@
+{
+  "video_id": "63c7bfbdda539ccbe789469c97203e3e",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.214,
+    3.641,
+    6.069,
+    8.496
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital screen displays a financial candlestick chart tracking the stock performance of \"Exxon Mobil-Multinational Oil\". The chart features a white background with a price scale on the right ranging from 0.00 to 110.00. A complex set of green and red candlesticks is overlaid with several curved trend lines and alphabetical labels such as \"a\", \"b\", \"c\", \"d\", and \"e\". At the top, a data bar includes text such as \"L=102.98, V=9,545,808\". Below the main chart, secondary indicators for \"MACD\" and \"Stochastic Slow\" are visible, alongside a \"On Balance Volume\" line. The text \"CW projections (0.8,BLACK,INI)\" appears in a bottom panel. Across the sequence of frames, the image remains largely static, with only minimal shifts in the data values and the position of the cursor, reflecting a steady view of a technical market analysis tool."
+}

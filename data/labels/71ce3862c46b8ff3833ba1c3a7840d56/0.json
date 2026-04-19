@@ -1,0 +1,15 @@
+{
+  "video_id": "71ce3862c46b8ff3833ba1c3a7840d56",
+  "url": "./data/segments/3EOkyr653jg-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.363,
+    1.089,
+    1.814,
+    2.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up, static shot of a sign mounted on the side of a building with light-colored vertical siding. The sign is a white rectangle featuring a blue logo consisting of a stylized sun within a square, followed by the word \"REALSOLAR\" in all-capital, blue sans-serif letters. Below the sign, a blue banner spans the width of the frame, containing a white phone icon and the text \"Backus/Today\". The building's roofline, with a brown trim, is visible at the top of the shot, and a metal railing runs across the bottom of the frame. Throughout the sequence, the camera remains completely still, and there are no people or other moving objects present. The visual content remains identical across all frames, capturing a steady shot of the corporate branding."
+}

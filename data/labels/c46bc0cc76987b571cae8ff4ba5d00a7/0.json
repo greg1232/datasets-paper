@@ -1,0 +1,15 @@
+{
+  "video_id": "c46bc0cc76987b571cae8ff4ba5d00a7",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.234,
+    0.701,
+    1.168,
+    1.635
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation room, several individuals in scrubs and surgical caps gather around a patient mannequin lying on a hospital bed. One person in pink scrubs and a blue cap leans over the mannequin, while another person in a dark top assists. A third person in pink scrubs and a blue cap stands to the left, observing. Medical equipment, including monitors and stands, is visible around the bed. The scene remains static across the frames, with the individuals maintaining their positions as they attend to the mannequin. Large white text is overlaid on the center of the image, reading \"Sim Week\" and \"A Week in the Life of a Surgical Intern Student Transition to Residency\". In the bottom right corner, a logo featuring a stylized red heart-shaped heartbeat line is accompanied by the text \"Sim Week\"."
+}

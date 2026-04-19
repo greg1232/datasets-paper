@@ -1,0 +1,15 @@
+{
+  "video_id": "18ed08ce802cefb4be04180bce8d46f7",
+  "url": "./data/segments/3fokLGPK15Q-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.925,
+    2.775,
+    4.625,
+    6.475
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people are seated in chairs on a stage against a dark backdrop featuring vertical purple neon lights. A man on the left wears a white button-down shirt and light-colored pants. A woman in the middle wears a black t-shirt and black pants. A man on the right wears a grey suit jacket over a light blue shirt and grey trousers. In front of the man on the left is a white, blocky, textured object. To the right of the seated group, a glowing red logo reads \"LGS\". Across the frames, the man in the grey suit is speaking and gesturing with his hands while holding a microphone. The woman looks toward him and smiles, while the man in the white shirt sits calmly, looking toward the speaker. The camera remains stationary as the man in the grey suit shifts his posture and continues to gesture while talking."
+}

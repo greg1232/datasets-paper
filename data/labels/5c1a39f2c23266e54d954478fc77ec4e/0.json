@@ -1,0 +1,15 @@
+{
+  "video_id": "5c1a39f2c23266e54d954478fc77ec4e",
+  "url": "./data/segments/3Z229_lKLpk-Scene-079.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.645,
+    4.935,
+    8.225,
+    11.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard, wearing glasses and a white traditional Indian waistcoat over a long-sleeved light-colored shirt, speaks from behind a dark wooden podium. He stands before a textured, green stone wall with geometric patterns. Two slender microphones extend from the podium toward him. To his side, a cylindrical glass pillar contains decorative pink flowers. As the scene progresses, the man uses hand gestures to emphasize his speech, raising his left hand and then his right hand in various motions. His expression remains focused as he speaks. The setting, clothing, and background remain consistent throughout the sequence, with only the man's posture and hand movements shifting as he delivers his address."
+}

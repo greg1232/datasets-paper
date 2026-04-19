@@ -1,0 +1,15 @@
+{
+  "video_id": "d03318363275c75a5e9424d47262d2bf",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-145.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.517,
+    1.552,
+    2.586,
+    3.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head, a dark beard, and tattoos on his right arm is seated in a recording studio against a dark gray acoustic foam wall. He wears black over-ear headphones and a white t-shirt featuring a small logo that reads \"Sleepy\" and \"NEW YORK\". A professional microphone on a swivel arm is positioned directly in front of him. Across the sequence, the man is speaking and smiling, his expression shifting from a slight smirk to a broader, open-mouthed laugh. His head tilts slightly as he reacts, while the background and equipment remain static. The lighting is consistent, focusing on the man's face and the metallic finish of the microphone."
+}

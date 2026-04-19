@@ -1,0 +1,15 @@
+{
+  "video_id": "709389b577f2762f596d44539d2ac1a8",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot captures a person's hand holding a small, rectangular electronic component, which appears to be a yellow relay or sensor with metallic contact pins protruding from one side. The person uses their thumb and forefinger to grip the component firmly. In the background, a white plastic bin containing miscellaneous small parts and clear plastic packaging is visible, situated within a cluttered workspace. The scene remains largely static across the sequence, with only subtle movements of the person's fingers as they adjust their grip on the object. The lighting is soft and interior, highlighting the texture of the skin and the metallic surfaces of the component. No text, logos, or other people are visible in the frames."
+}

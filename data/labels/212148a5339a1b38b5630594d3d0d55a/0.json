@@ -1,0 +1,15 @@
+{
+  "video_id": "212148a5339a1b38b5630594d3d0d55a",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-163.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.211,
+    6.632,
+    11.053,
+    15.474
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a headset, wearing an orange polo shirt, is seated in a studio environment. He is positioned in front of a microphone and a screen that displays \"THE POWER TRADING HOUR\" along with \"TFNN.com\" and \"WITH DAVID WHITE.\" The text \"DAVID WHITE\" appears in large white letters on the left side of the screen. As the sequence progresses, the view shifts to a series of graphic overlays. These graphics highlight a \"WEEKLY LETTER\" that \"WILL GIVE YOU RECOMMENDATIONS FOR\" various trading criteria. The listed recommendations include \"VALUE TECH STOCKS,\" \"ENTRY PRICES,\" \"TARGET PRICES,\" and \"STOPS TO SET FOR EACH TRADE.\" The final graphic specifies that the \"WEEKLY LETTER\" is \"DELIVERED EVERY FRIDAY\" and provides \"WITH UPDATES THROUGHOUT THE WEEK.\" The man remains partially visible in the background behind these text overlays."
+}

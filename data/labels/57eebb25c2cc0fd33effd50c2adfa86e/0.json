@@ -1,0 +1,15 @@
+{
+  "video_id": "57eebb25c2cc0fd33effd50c2adfa86e",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.455,
+    1.365,
+    2.275,
+    3.185
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair tied back is seated against a plain, light-grey background. She is wearing a dark navy blazer over a red top. In front of her, a clear plastic water bottle and a slim microphone are visible. In the top left corner of the scene, a white logo reads \"mediasite by concordia\". The woman is captured in a medium shot, facing slightly to her left. Across the sequence of frames, she remains in a seated position with her hands clasped in front of her. Her expression is neutral and attentive, and she maintains a consistent gaze toward the left side of the frame. There is very little movement between the frames, as the woman stays relatively still, with only minor adjustments in her posture and facial expression."
+}

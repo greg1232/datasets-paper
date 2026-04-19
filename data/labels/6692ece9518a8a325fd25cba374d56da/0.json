@@ -1,0 +1,15 @@
+{
+  "video_id": "6692ece9518a8a325fd25cba374d56da",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-397.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.317,
+    0.95,
+    1.583,
+    2.217
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip captures a simulated American football game in a stadium with green turf and white yard lines. In the initial scene, a player in a black jersey with the number 43 pursues a player in a white jersey with the number 7. As the action progresses, the black-jerseyed player tackles the white-jerseyed player to the ground. By the end of the sequence, the player in white is lying on the turf while another player in black stands nearby. A player in a black jersey with the number 17 is also visible. The text \"First Down\" appears on the screen during the final moment. Throughout the clip, a small inset window in the bottom left corner shows a blond man in a dark blue shirt sitting in front of a Christmas tree. In the background, coaches and other players are visible on the sidelines."
+}

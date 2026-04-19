@@ -1,0 +1,15 @@
+{
+  "video_id": "605785b9f2dee4b7ef636e97cc6fdac4",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-134.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.094,
+    0.282,
+    0.469,
+    0.657
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap and a dark green hoodie with \"BOSS\" printed in gold letters sits in a recording studio. He is positioned behind a professional microphone on a boom arm. In the background, white banners feature a logo with five gold stars and the words \"UNICORN HUSTLE.\" A red and white sign above him reads \"Where BOSSES Talk!\" and \"BOSS\" in large red letters. To the right, a black mug features the text \"TALK OUT\" and \"BOSS\" in red. A small black speaker with a logo is visible on the left side of the table. Throughout the sequence, the man remains relatively still, looking slightly to his left with a focused expression while speaking into the microphone. The scene remains static with no changes in position, lighting, or camera angle, capturing a consistent moment of a podcast recording."
+}

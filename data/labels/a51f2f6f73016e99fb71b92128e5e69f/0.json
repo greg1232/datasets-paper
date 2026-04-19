@@ -1,0 +1,15 @@
+{
+  "video_id": "a51f2f6f73016e99fb71b92128e5e69f",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-666.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.193,
+    0.579,
+    0.965,
+    1.35
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt sits in a studio setting, speaking into a professional black microphone. His shirt features white text that reads \"ION NEVER DO SHIT AT WORK\". He is positioned in front of a wall decorated with numerous framed photographs and a white mannequin wearing a white t-shirt. To the right, a clothing rack holds various garments. Red and white logos are visible in the lower corners of the scene, including one that says \"NO BULLY FOLK\". Throughout the sequence, the man is talking; in the initial frames, he is looking down and slightly to the side with his hand near his mouth, and in the later frames, he looks directly forward, continuing to speak with a focused expression. The background and equipment remain static as the man's head and hand movements shift."
+}

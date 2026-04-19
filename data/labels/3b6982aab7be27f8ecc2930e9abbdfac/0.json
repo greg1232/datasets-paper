@@ -1,0 +1,15 @@
+{
+  "video_id": "3b6982aab7be27f8ecc2930e9abbdfac",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-073.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.238,
+    0.713,
+    1.189,
+    1.664
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical simulation setting, two individuals wearing blue sterile gowns, surgical masks, and gloves are positioned around a table covered with a blue sterile drape. One person stands in the background, while the other, with hair tied in a bun, is focused on preparing instruments on the table. They are manipulating a small white object, possibly a swab or a piece of gauze, over a sterile tray. In the background, a medical mannequin head is visible on a red surface, alongside some equipment and a computer monitor. On-screen text appears in the bottom corners of the frames: a purple circle on the left contains the text \"Day 2\", and the text \"Sim Week\" appears on the right accompanied by a small icon. Across the frames, the movements are minimal, showing the person in the foreground subtly adjusting the item in their hands while maintaining a sterile technique."
+}

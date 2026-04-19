@@ -1,0 +1,15 @@
+{
+  "video_id": "1c3fbd672232902be11987458d52fc56",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-094.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.463,
+    0.772,
+    1.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a wooded outdoor setting, two women are positioned at the open trunk of a dark-colored vehicle. One woman, wearing a light-blue long-sleeved shirt under a greyish-green vest and dark pants, stands to the left and pours a liquid from a white plastic bottle into a white cup. The second woman, wearing a dark cardigan over a dark top and blue jeans, stands to the right and holds the cup to receive the liquid. The trunk is lined with a light-colored cloth or blanket. Across the sequence of frames, the woman on the left continues pouring the liquid, while the woman on the right remains steady, holding the cup. The camera remains static, capturing the interaction against a backdrop of green foliage and forest ground. There are no visible logos or on-screen text."
+}

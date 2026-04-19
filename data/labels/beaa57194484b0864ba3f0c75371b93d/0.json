@@ -1,0 +1,14 @@
+{
+  "video_id": "beaa57194484b0864ba3f0c75371b93d",
+  "url": "./data/segments/3sJ5OX75erw-Scene-024.mp4",
+  "n_frames": 3,
+  "frame_timestamps": [
+    0.03,
+    0.09,
+    0.15
+  ],
+  "grid_layout": "1x3",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a light-colored blazer and a dark shirt, is centered in the frame against a dark background featuring a subtle, blue-toned network graphic of interconnected nodes. In the upper-left corner, white text reads \"OPEN NETWORKING & EDGE\". The man has his hands pressed together in a prayer-like gesture of greeting or gratitude in front of his chest. As the sequence progresses, the image becomes increasingly dark, with the lighting on the man's face and clothing fading significantly. By the final frame, the scene is heavily underexposed, making the man's features and the background text almost indistinguishable."
+}

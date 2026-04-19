@@ -1,0 +1,15 @@
+{
+  "video_id": "3fe0b54342de408d8cf2f72d740dd156",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-249.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.105,
+    0.315,
+    0.525,
+    0.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video call and a presentation about the \"Rural Community Food System.\" The display is split, showing a presentation slide on the left and a small video feed of a man in a white shirt in the top right corner. The slide is titled \"Introduction\" and asks, \"What constitutes a sustainable localized food system for a rural community?\" It features a complex diagram of interconnected green circles and lines, a \"Legend\" section, and a list of \"Session Videos\" with various date-stamped links. To the right of the main slide is a sidebar titled \"Ecological Considerations & Community Health.\" The man in the video feed remains visible throughout, occasionally shifting his posture. Between frames, the presentation slides transition; the content shifts from the general \"Introduction\" page to a page with a similar layout but focusing on \"Ecological Considerations & Community Health,\" and then cycles back to the \"Introduction\" slide."
+}

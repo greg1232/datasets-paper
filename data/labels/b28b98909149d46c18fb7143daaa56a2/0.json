@@ -1,0 +1,15 @@
+{
+  "video_id": "b28b98909149d46c18fb7143daaa56a2",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-232.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.413,
+    1.239,
+    2.065,
+    2.89
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is seated in a recording studio, wearing a white t-shirt and large black over-ear headphones. He is positioned in front of a professional microphone held by a boom arm, which features the text \"Audio-Technica AT2020\". Behind him is a dark gray wall covered in acoustic foam panels with a vertical ribbed pattern. Throughout the sequence, the man is speaking, his facial expressions shifting from a neutral, attentive look to one of surprise or intensity with an open mouth. He gestures with his right hand, which is partially visible and blurred due to movement, while his left arm, featuring tattoos, rests out of focus. The camera remains stationary, capturing his reactions as he talks into the microphone."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ccb34ca6aa399ee4d83673e425f064d2",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.004,
+    3.012,
+    5.021,
+    7.029
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video screen capture shows a livestream overlay featuring a list of numbered names on the left and a chat window on the right. The chat displays messages from \"Nightbot\" and \"Oki,\" with Nightbot stating, \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/2SdeSkY9.\" A notification at the bottom warns, \"Don't use this service for giveaways! Use Multi-Round Giveaways instead,\" and indicates the user has randomized the list \"5 times.\" Below this, two men are visible from the chest up, both wearing black shirts; the man on the right wears sunglasses. A red and white logo for \"CASEBREAKS.COM\" is prominent at the bottom. Across the sequence, the visual composition remains static, with no changes in the text, the people's positions, or the overall layout, suggesting a still image or a paused video feed."
+}

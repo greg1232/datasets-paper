@@ -1,0 +1,15 @@
+{
+  "video_id": "77e6f8e78fefdd58c39bb2ad190238fc",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.485,
+    1.455,
+    2.424,
+    3.394
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men are seated in a room, positioned in front of a television screen and a soundbar. On the wall behind them, glowing yellow text reads \"OUR STUPID REACTIONS\". The man on the left wears a dark green t-shirt and maintains a neutral expression. The man on the right wears a grey t-shirt and a necklace, resting his chin on his hand. A shelf of CDs is visible behind them. A smaller video window is overlaid on the scene, showing a sequence from a different production. In the initial frames, this inset video depicts a group of people in dark clothing standing in a dimly lit hallway. As the sequence progresses, the scene in the inset changes to show figures standing before a doorway, and finally, a close-up of a man's face with a caption at the bottom that reads \"The severity of Shebani's crimes\"."
+}

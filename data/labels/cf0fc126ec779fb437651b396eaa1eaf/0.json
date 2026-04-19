@@ -1,0 +1,15 @@
+{
+  "video_id": "cf0fc126ec779fb437651b396eaa1eaf",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-230.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.204,
+    0.613,
+    1.022,
+    1.431
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is recording in a studio with a backdrop of grey acoustic foam panels. He wears a white t-shirt and large black over-ear headphones. Positioned in front of him is a professional condenser microphone attached to a boom arm, which bears the text \"Audio-Technica AT2020\". As the sequence progresses, the man speaks and gestures with his hands. In the initial moments, he looks toward the microphone with his mouth slightly open. He then raises his right hand in a blurred motion across his face, momentarily obscuring his features. He subsequently returns to speaking, looking slightly to his left, before ending the sequence by raising his left hand and gesturing upward. Throughout the clip, his expression remains focused and animated as he communicates."
+}

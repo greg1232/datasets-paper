@@ -1,0 +1,15 @@
+{
+  "video_id": "c1e3a177c82bbb866b84f29bb16172e6",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.998,
+    5.993,
+    9.989,
+    13.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features white text against a solid black background. In the first frame, the text \"ORCA Media\" appears in the upper left. In the second frame, the top left text remains, and new text appears in the upper right reading \"For More Information Contact ORCA Media @...\". By the third frame, the top text disappears, and contact information is displayed in the lower left, reading \"www.orcamedia.net\", \"802-224-9901\", and \"#orcamediavt\". In the final frame, the contact information remains in the lower left and is duplicated in the lower right, with both columns reading \"www.orcamedia.net\", \"802-224-9901\", and \"#orcamediavt\". No people, clothing, or physical objects are visible in any of the frames."
+}

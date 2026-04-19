@@ -1,0 +1,15 @@
+{
+  "video_id": "9823eb61990ab65c009c75c75662d315",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-218.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.267,
+    3.8,
+    6.333,
+    8.867
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, wearing glasses, white headphones, and a dark blue shirt, sits in front of a computer monitor and a professional microphone. He is positioned to the right of a digital wheel that is spinning on the screen. On-screen text at the top reads \"M23 Challenge Wheel\" accompanied by small heart emojis. As the sequence progresses, the wheel stops on different challenges. The text updates from \"40 Fantasy Points (One Player)\" to \"Shutout One Half,\" then to \"Score in One Minute,\" and finally to \"Allow 0 Sacks.\" In the final frame, a smaller purple tag reading \"DEATHNOTE\" appears below the challenge text. The man maintains an expressive face, laughing and speaking throughout the clip, while his background remains a consistent home studio setting with a blue-tinted monitor displaying the number \"20\"."
+}

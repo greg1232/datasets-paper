@@ -1,0 +1,15 @@
+{
+  "video_id": "341157e044d76636bf80e0764a622723",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.24,
+    0.72,
+    1.2,
+    1.68
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A professional broadcast camera on a tripod is positioned in a stadium, overlooking a green grass pitch. In the background, red stadium seating is visible, with a white banner displaying the text \"GRANADA CF\" and \"PULE\" repeated across the stands. A small Real Madrid logo is visible in the upper right corner of the scene. A few individuals are standing on the field in the distance, appearing as small figures wearing dark clothing. The camera equipment remains stationary throughout the sequence, and the overall scene is static, with no significant movement or changes in perspective between the frames. The lighting is bright and natural, suggesting an outdoor setting under a partly cloudy sky."
+}

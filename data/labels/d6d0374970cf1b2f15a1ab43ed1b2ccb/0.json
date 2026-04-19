@@ -1,0 +1,15 @@
+{
+  "video_id": "d6d0374970cf1b2f15a1ab43ed1b2ccb",
+  "url": "./data/segments/3rrLMM3eyQc-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.258,
+    0.775,
+    1.292,
+    1.808
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of clips alternates between a repeated graphic and live-action footage. The graphic consists of a light background with the website \"www.plustvafrica.com\" at the top and the words \"SUBSCRIBE\" and \"SUBSCRIBED\" layered in red and white text, accompanied by a small notification bell icon. The live-action segments show different scenes. One scene depicts an individual in a grey shirt being physically restrained and pushed toward the ground by another person in a dark uniform. Another clip shows a person wearing a black shirt with \"SARS LAGOS\" printed on the back and a red scorpion logo with the text \"CORON\" beneath it. A final scene shows a person in a tan uniform standing beside a large yellow and green vehicle on a street with a modern building in the background. The footage transitions rapidly between these disjointed events and the recurring subscribe graphic."
+}

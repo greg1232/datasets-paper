@@ -1,0 +1,15 @@
+{
+  "video_id": "88df17f8527de284b77ffe3654616d9e",
+  "url": "./data/segments/3mmDnftP1M8-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.786,
+    17.359,
+    28.932,
+    40.505
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light blue button-down shirt and a black headset with a microphone sits before a plain, light-colored wall. He is the sole person visible in the scene. Across the sequence, he remains centered in the frame, looking forward with a neutral to concentrated expression. His lips move slightly as he speaks, with his mouth open in some moments and closed in others. The headset rests firmly on his head, and the microphone extends toward his mouth. In the bottom left corner of each scene, the on-screen text \"Ashish Raichur\" is visible. The background remains static and devoid of other objects or equipment, while the man's slight shifts in facial expression and mouth movement are the only changes occurring as the clip progresses."
+}

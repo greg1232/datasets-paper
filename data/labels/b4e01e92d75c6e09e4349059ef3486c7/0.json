@@ -1,0 +1,15 @@
+{
+  "video_id": "b4e01e92d75c6e09e4349059ef3486c7",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.775,
+    11.325,
+    18.875,
+    26.425
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a technical presentation titled \"Logging in Kubernetes Workflow,\" specifically focusing on a \"Container Example: Apache Logs.\" The screen is split vertically; the left side contains a YAML configuration file starting with \"apiVersion: v1\" and \"kind: Pod,\" while the right side displays a series of simulated server log entries with IP addresses and HTTP status codes such as \"400 4216\" and \"500 2216.\" A red cursor, shaped like a pointing hand, moves across the screen. It starts in the top-left area, moves toward the center of the YAML configuration, shifts toward the log entries on the right, and finally moves back toward the configuration file on the left. The static content of the text and the layout remain unchanged as the cursor navigates through the example code and logs."
+}

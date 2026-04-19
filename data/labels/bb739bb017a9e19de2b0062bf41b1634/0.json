@@ -1,0 +1,15 @@
+{
+  "video_id": "bb739bb017a9e19de2b0062bf41b1634",
+  "url": "./data/segments/3l84m5pRmyk-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.751,
+    1.251,
+    1.752
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A professional video camera is positioned on a tripod in an indoor setting, facing a white backdrop with a blue logo. The camera is equipped with a side-mounted monitor, a top handle, and a black microphone windjammer. The monitor displays a live feed of a room with light-colored walls and a white object, though no people are visible in the shot. In the background, a bright studio light is visible, casting a glow on the wall. Across the sequence of frames, the camera remains stationary and the scene is static, with no significant movement or changes in the environment. The focus remains on the rear of the equipment, showcasing the setup used for recording or broadcasting."
+}

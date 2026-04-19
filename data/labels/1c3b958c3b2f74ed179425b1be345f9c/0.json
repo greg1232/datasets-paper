@@ -1,0 +1,15 @@
+{
+  "video_id": "1c3b958c3b2f74ed179425b1be345f9c",
+  "url": "./data/segments/3P1vSUbet40-Scene-0057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.49,
+    1.47,
+    2.45,
+    3.431
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a stylized, tall silver hairstyle and glasses sits in a recording studio setting. He is dressed in a white long-sleeved shirt with a bow tie and white suspenders. He wears black over-ear headphones and speaks into a black professional microphone positioned in front of him. In the background, a framed picture with a green shield logo hangs on the wall, and a sign that reads \"UNIQUE FASHION\" is partially visible. Two red logos appear on the screen: one on the left with the text \"BEST TALK PODCAST\" and another on the right reading \"BEST TALK 101\". Across the sequence, the man remains in the same position, slightly shifting his head and facial expression as he talks, while the background and equipment remain stationary."
+}

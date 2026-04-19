@@ -1,0 +1,15 @@
+{
+  "video_id": "f154b30e3e622a218726632b2f58db63",
+  "url": "./data/segments/3phuyH7Y05U-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.312,
+    0.521,
+    0.729
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men stand outdoors at night in a dimly lit space decorated with strings of glowing warm lights and outdoor furniture, including several chairs and small tables. The man on the left has long dark hair and wears a dark open jacket that reveals his bare torso. The man on the right has shorter dark hair and wears a dark open shirt, also revealing his torso. He holds a clear glass bottle in his hand. Throughout the sequence, the men remain in relatively the same position, facing toward the right of the frame. The man on the left maintains a steady gaze, while the man on the right subtly adjusts his posture and movement as he holds the bottle. The background remains static, showing the soft glow of the lights against the dark evening setting."
+}

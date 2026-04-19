@@ -1,0 +1,15 @@
+{
+  "video_id": "acc1e813a7507c11b3c8f78fa5af71b3",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-687.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.176,
+    12.528,
+    20.88,
+    29.232
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt is speaking into a professional black microphone. His shirt features the white text \"ION NEVER DO SHIT NETWORK\". He is positioned in a room that appears to be a studio or retail space, with framed photos on the wall behind him and a white mannequin wearing a white t-shirt to his right. Racks of clothing are also visible in the background. In the first frame, the man looks slightly to his right with a focused expression. In the second frame, he continues speaking while gesturing with his hand. By the third frame, he turns his head more toward the camera and makes a gesture with his right hand, pointing his fingers. In the final frame, he looks back toward the right while continuing to speak. Two identical logos appear in the lower corners of the scene: a circular logo on the left and a red text logo on the right."
+}

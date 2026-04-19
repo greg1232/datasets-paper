@@ -1,0 +1,15 @@
+{
+  "video_id": "0eeecc4d165914f3dae618f231406283",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-299.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.204,
+    0.612,
+    1.021,
+    1.429
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is positioned in the foreground, moving slightly across the view as if gesturing or preparing to touch something. In the background, a man with a beard, wearing a dark t-shirt, is visible within a small inset video window, seated in front of a computer monitor and other equipment. The setting includes a table with a decorative mat featuring palm tree graphics. A dark, rectangular case or holder sits on the surface. On-screen graphics include the logo \"JASPYS\" alongside a website address \"CASEBREAKS.COM\". The inset video also displays \"JASPYS\" and the phrase \"Sports Cards & More\". Throughout the sequence, the hand shifts its position slightly, and the man in the inset window remains seated, looking toward the camera. The background and on-screen text remain constant as the focal point remains the movement of the hand."
+}

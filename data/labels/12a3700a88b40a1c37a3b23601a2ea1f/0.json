@@ -1,0 +1,15 @@
+{
+  "video_id": "12a3700a88b40a1c37a3b23601a2ea1f",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-079.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.273,
+    0.819,
+    1.365,
+    1.91
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blond hair wearing a dark blue shirt is seen in a small video overlay in the bottom-left corner of a video game screen. The gameplay interface displays a menu titled \"UNOPENED PACKS\" with a dark purple background. Various virtual gift packs are displayed across the center, labeled with text such as \"PRESENT,\" \"LT PRESENT x4,\" \"SMALL PRESENT x6,\" \"LOVELY PRESENT x1,\" and \"BLITZ PRESEN\". At the top right of the screen, numerical values are listed next to icons, including \"173,037\", \"14,809\", \"2,343,543\", and \"LV 19\", with the number \"90\" in a circle. A \"BACK\" button is visible near the bottom center. Across the sequence of frames, the scene remains largely static; the person in the overlay maintains a similar facial expression and position, and the on-screen menu and text do not change."
+}

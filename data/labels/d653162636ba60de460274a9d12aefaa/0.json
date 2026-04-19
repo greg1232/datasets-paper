@@ -1,0 +1,15 @@
+{
+  "video_id": "d653162636ba60de460274a9d12aefaa",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    20.02,
+    60.06,
+    100.1,
+    140.14
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A House Committee on General, Housing, and Military Affairs meeting takes place in a room with wood-paneled walls and a red-backed chair. The scene features several people seated at a long white table, including a man in a dark suit and tie who is gesturing while speaking, a man in a grey sweater, and two women in dark attire. In the beginning, a man on the left in a dark suit and glasses is seen drinking from a cup. As the sequence progresses, he sets the cup down, and the man in the center begins speaking with hand gestures. Water bottles and documents are scattered across the table. On-screen text identifies the event as \"April 12, 2019 House Committee on General, Housing, and Military Affairs S.23 Increasing the Minimum Wage,\" accompanied by an \"ORCA\" logo on the left. The background includes a blurred sign with reversed lettering."
+}

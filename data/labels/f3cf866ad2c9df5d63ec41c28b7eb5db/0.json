@@ -1,0 +1,15 @@
+{
+  "video_id": "f3cf866ad2c9df5d63ec41c28b7eb5db",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a presentation slide for a course titled \"CRYOGENIC ENGINEERING\". The background of the slide is white, with a blue header at the top and a blue footer at the bottom. Centered within the header is the text \"Tutorial \u2013 1\". The footer contains the text \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\". An \"NPTEL\" logo, featuring a stylized orange snowflake and blue text, is located in the bottom-left corner of the white area. Throughout the sequence, the slide remains static, though a mouse cursor is visible in the center-right area of the frame. In the final stage of the sequence, a faint, blurry white rectangular artifact appears horizontally across the middle of the slide, partially obscuring the empty space beneath the header. No people are present in the frames."
+}

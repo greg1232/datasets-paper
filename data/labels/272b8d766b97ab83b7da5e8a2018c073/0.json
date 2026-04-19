@@ -1,0 +1,15 @@
+{
+  "video_id": "272b8d766b97ab83b7da5e8a2018c073",
+  "url": "./data/segments/3jaAcpqJEbg-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.637,
+    1.912,
+    3.188,
+    4.462
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands on a stage in a dimly lit auditorium, wearing a blue t-shirt and a lanyard around his neck. He is positioned in front of a large blue screen that displays various logos and text, including \"has geek\", \"rootc\", and \"ha ge\". In the background, rows of red theater seats are partially visible, some of which are occupied by people. The man is captured in a sequence of movements where he raises his right hand to touch his forehead, appearing to be in thought or adjusting something. The lighting is focused on him and the screen, leaving the surrounding audience area in shadow. As the scene progresses, he maintains his position on stage, with his hand remaining near his head while he looks slightly downward and then forward."
+}

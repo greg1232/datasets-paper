@@ -1,0 +1,15 @@
+{
+  "video_id": "2b1e38016d11e33f77b4ddbb9982aa34",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.221,
+    0.663,
+    1.105,
+    1.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A bright flashlight beam illuminates a patch of dark, earthy ground scattered with small green plants and dried organic debris. The scene is captured from a top-down perspective, showing a circular pool of light focusing on a small area of soil and low-lying foliage. As the sequence progresses, the light source shifts slightly, causing the highlights and shadows on the ground to move. The bright center of the beam remains constant, highlighting the texture of the dirt and the vibrant green of the scattered leaves. There are no people, animals, equipment, or text visible in the frames. The environment appears to be an outdoor natural setting at night, with the only visibility provided by the artificial light source."
+}

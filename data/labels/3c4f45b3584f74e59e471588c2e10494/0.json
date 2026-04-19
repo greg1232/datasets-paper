@@ -1,0 +1,15 @@
+{
+  "video_id": "3c4f45b3584f74e59e471588c2e10494",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-186.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.751,
+    1.251,
+    1.752
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a desk covered in financial charts and handwritten notes. In the first frame, the person holds a magnifying glass over a small, orange-buttoned calculator and several sheets of paper featuring line graphs and numbers. A blue banner at the bottom of the screen contains the text \"Basil Chapman\" in large white letters, and below it, the text \"The Tiger Technicians Hour | June 8th, 2022\". As the sequence progresses, the person's left hand moves and then rests on the papers while their right hand maneuvers the magnifying glass across the page. By the final frame, the magnifying glass is positioned over handwritten figures and a set of line graphs. Throughout the clip, the camera remains in a top-down perspective, focusing on the interaction between the hands, the magnifying glass, and the technical documents."
+}

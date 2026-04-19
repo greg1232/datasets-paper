@@ -1,0 +1,15 @@
+{
+  "video_id": "f893ea613270db837ee8336e7dd28a4d",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-176.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.084,
+    3.253,
+    5.422,
+    7.591
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard sits in a recording studio against a black acoustic foam wall. He wears large over-ear headphones and a white t-shirt featuring a logo with the stylized text \"Authentic\". A professional condenser microphone, mounted on a shock mount with a visible label reading \"Shure SM7B\", is positioned directly in front of his face. Across the sequence, the man is speaking, shifting his gaze slightly and changing his facial expression. He begins by looking forward with a slight smile, then closes his eyes briefly while speaking, before reopening them and looking toward the left of the frame with an open-mouthed expression. His tattoos are partially visible on his right arm, which rests on a surface out of view. The camera remains static, capturing only the man's subtle movements and shifts in expression."
+}

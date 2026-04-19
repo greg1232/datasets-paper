@@ -1,0 +1,15 @@
+{
+  "video_id": "338549737407ce108828523c8823e448",
+  "url": "./data/segments/3l84m5pRmyk-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.28,
+    3.841,
+    6.402,
+    8.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey suit jacket, a white dress shirt, and a patterned tie is speaking in front of a white backdrop featuring the logo \"#BigDataSV 2015\". He is gesturing with his hands as he talks. In the first frame, he has his hands raised and palms facing inward. As the sequence progresses, he lowers his head and shifts his hand positions, eventually gesturing with his right hand toward the side. A blue banner appears across the bottom of the screen, displaying the text \"theCUBE LIVE at #BigDataSV 2015\" along with \"Fairmont Hotel - Valley Room San Jose, CA\" in the first instance, and \"JEFF KELLY | @jeffreyfkelly\" followed by \"Senior Analyst Wikbon\" in the subsequent frames. A smaller red logo for \"#BigDataSV 2015\" is visible in the bottom-left corner of each frame."
+}

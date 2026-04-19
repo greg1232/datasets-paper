@@ -1,0 +1,15 @@
+{
+  "video_id": "8381cf4b278e27ee2e3a41c52cd2c49b",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-268.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game capture of a football game takes place on a green field with white yard markers, featuring players in white and dark uniforms. The game interface at the top displays \"ULTIMATE TEAM,\" \"1st & 10,\" and a game clock at \"1:52\" and later \"1:51,\" with a score of \"0\" for the team with a red and black logo. A small inset window in the lower left shows a man with blond hair wearing a dark blue shirt, observing the gameplay. On the field, a player in a dark uniform runs toward the right, while several players in white uniforms pursue him. A green circle highlighting a player is visible on the turf. As the action progresses, the player in the dark uniform is tackled by two players in white uniforms near the 30-yard line, as indicated by the \"PositivePay\" logo on the field."
+}

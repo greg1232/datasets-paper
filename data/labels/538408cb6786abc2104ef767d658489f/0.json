@@ -1,0 +1,15 @@
+{
+  "video_id": "538408cb6786abc2104ef767d658489f",
+  "url": "./data/segments/3QD9oO6sRns-Scene-091.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.177,
+    0.531,
+    0.885,
+    1.24
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen interacting with a \"Topps\" trading card box labeled \"CLEARLY AUTHENTIC\" and \"2020\". The box features an image of a baseball player and is being handled against a dark background. In the background, a man wearing a black t-shirt and a white baseball cap is visible behind a desk, positioned next to a large \"JASPYS CASEBREAKS\" logo. Across the frames, the person's hands move the box, sliding a card out from the top packaging. The on-screen text includes \"CLEARLY AUTHENTIC,\" \"2020,\" and \"JASPYS CASEBREAKS.\" The scene progresses from the box being held and tilted to a card being partially extracted from the sleeve. The environment appears to be a studio or dedicated space for card breaking, characterized by the branded backdrop and the presence of the individual overseeing the process."
+}

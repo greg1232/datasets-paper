@@ -1,0 +1,15 @@
+{
+  "video_id": "528444841fcae436f30e484f60a8ceeb",
+  "url": "./data/segments/3OnnmWsJTLM-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.184,
+    0.551,
+    0.918,
+    1.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair wearing a colorful floral-print dress stands in a field of tall green grass under a clear blue sky. In the initial sequence, she holds a wide-brimmed straw hat in her right hand, extending her arm outward as she smiles and looks toward the side. As the sequence progresses, she continues to move her arm and body, spinning slightly while holding the hat away from her. By the final moments, the image becomes partially obscured by a translucent, hazy overlay that creates a ghostly double-exposure effect, showing a faint silhouette of the woman layered over the main scene. The sunlight illuminates the field and her dress, emphasizing the vibrant reds, blues, and greens of the floral pattern as she moves gracefully through the grass."
+}

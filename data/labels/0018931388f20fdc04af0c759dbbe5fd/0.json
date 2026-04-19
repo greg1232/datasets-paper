@@ -1,0 +1,15 @@
+{
+  "video_id": "0018931388f20fdc04af0c759dbbe5fd",
+  "url": "./data/segments/3Ma0wGTm5QQ-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.233,
+    3.7,
+    6.167,
+    8.633
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a red t-shirt with the logo \"Learning in Hand with TONY VINCENT!\" stands in front of a blue background filled with various graphic tiles. These tiles feature text such as \"Great Plains SUMMIT 2022 July 14\u201315, 2022\", \"LEVEL UP YOUR VIDEOS\", \"CURB APPEAL with Google Sites\", \"Google FORMS AWESOMENESS\", \"PIXELS PAPER\", and \"ELECTRIFY ANY LESSON\". The man is centered in the frame and appears to be presenting. Across the sequence, he maintains a friendly expression and uses his hands to gesture while speaking. His movements are subtle, shifting his hands and slight facial expressions as he communicates, while the background and his clothing remain constant. The scene remains static in terms of location and equipment, focusing entirely on the man's presentation against the branded backdrop."
+}

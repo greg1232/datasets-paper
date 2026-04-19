@@ -1,0 +1,15 @@
+{
+  "video_id": "4b426fd12dea6c20eb67366fd807dd2d",
+  "url": "./data/segments/3L_uHTClWfk-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.604,
+    0.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A stylized, muscular cartoon figure stands on a sandy beach with turquoise ocean waves crashing behind him. The figure has brown skin, large white eyes, and wears a black short-sleeved shirt and black pants. Yellow text is overlaid on the figure's chest, reading \"Business Owners\" on the top line and \"ROCK\" on the bottom line. In the background, tropical palm trees line the shore under a bright sky with scattered clouds, and distant land is visible across the water. As the scene progresses, the figure remains stationary while the ocean waves roll toward the shore and break into white foam. The movement of the water is the primary change, with the white surf shifting and expanding across the sand from the right side of the frame toward the center."
+}

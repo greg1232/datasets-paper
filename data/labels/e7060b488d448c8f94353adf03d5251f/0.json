@@ -1,0 +1,15 @@
+{
+  "video_id": "e7060b488d448c8f94353adf03d5251f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-322.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.83,
+    5.49,
+    9.15,
+    12.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call features a grid of participants in a virtual meeting. The layout displays multiple individuals in their home or office settings; some are in rooms with bookshelves, while others are outdoors with trees in the background. Participants are dressed casually in t-shirts, button-downs, and glasses. Throughout the sequence, the people remain in their respective windows, with some speaking or shifting slightly in their seats. Legible names beneath the video feeds include \"Jerry McHobby,\" \"Howard Silverman,\" \"Gara Galiano,\" \"Jim Barto,\" \"Najla Cole,\" \"Patrick Narayan,\" \"Marie-Jean van der Vyver,\" \"Ali Laky,\" \"Kaan Nager,\" and \"Syal Lajmi.\" The screen content remains largely static, showing the same group of participants in the same arrangement across the frames, indicating a steady state during the meeting without any change in the speaker's focus or layout."
+}

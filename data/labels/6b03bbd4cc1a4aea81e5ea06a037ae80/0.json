@@ -1,0 +1,15 @@
+{
+  "video_id": "6b03bbd4cc1a4aea81e5ea06a037ae80",
+  "url": "./data/segments/3JYDT8lap5U-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard, wearing a dark blazer over a white shirt, stands on a stage giving a presentation. He is positioned to the left of a large projection screen. The screen initially displays the heading \"TODAY: INDUSTRY-READY ML\" followed by several bullet points including \"Overview & caveats in scaling data pipelines\", \"Airflow components (Celery, ML models, etc)\", \"Introducing difference between ML & Data Pipelines\", \"Overview of Airflow + Usecase\", and the phrase \"THE BIG PICTURE\". As the presentation progresses, the screen changes to display \"LEARNING BY EXAMPLE\", \"Today we ore...\", and \"BUILDING A TECH STARTUP\". The man gestures with his hands as he speaks, shifting his posture slightly across the sequence. The bottom of the frame features the \"europython\" logo and the text \"Edinburgh 23 29 July 2018\". The background behind the man is dark and blurred."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "8d63bb33c7242a9e28f47fdce4901f91",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.245,
+    0.735,
+    1.225,
+    1.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news segment from PLUSTVAFRICA features Bola Tinubu speaking in a setting with other people in the background. Tinubu is wearing a patterned grey and black garment and a red cap. He appears in a split-screen format; on the left, he is shown in a medium close-up, and on the right, a closer shot focuses on his face as he speaks, wearing glasses and a black and white patterned cap. To his side, a person holds a dark smartphone to record him. The screen includes several graphic elements: a purple \"plus\" logo in the upper left, a red and black banner at the bottom with the text \"PLUS POLITICS\" and a headline that reads \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\". Below this, a \"FOLLOW US\" section displays social media icons and the handle \"PLUSTVAFRICA\". Across the sequence, the visuals remain static with only subtle changes in Tinubu's facial expressions as he continues speaking."
+}

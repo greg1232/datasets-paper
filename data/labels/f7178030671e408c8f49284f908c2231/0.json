@@ -1,0 +1,15 @@
+{
+  "video_id": "f7178030671e408c8f49284f908c2231",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-281.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.517,
+    1.552,
+    2.586,
+    3.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands behind a podium, speaking into a microphone in a room with brown horizontal blinds in the background. He wears glasses and a light blue patterned shirt with a decorative necklace. In the initial frames, the man is seen from the chest up, looking forward. As the sequence progresses, the camera pulls back to a wider shot, revealing more of the podium and the tops of the heads of an audience seated in front of him. A black speaker is visible to the left of the podium, and a red and white logo is attached to the front of the lectern. The text \"ORCA\" appears in white capital letters on the right side of every frame. The man remains at the podium throughout the clip, maintaining his position while addressing the room."
+}

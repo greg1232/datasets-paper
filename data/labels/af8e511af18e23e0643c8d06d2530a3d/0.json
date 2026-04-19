@@ -1,0 +1,15 @@
+{
+  "video_id": "af8e511af18e23e0643c8d06d2530a3d",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.14,
+    0.42,
+    0.7,
+    0.98
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call features multiple participants in a grid layout. A man wearing glasses and a blue shirt, identified as \"Jerry Mclalaly,\" is seen in a room with a window behind him. Beside him, \"Ronny Brinkman\" wears a gray t-shirt, and another man with a blue shirt and a headset, \"Brian\", is in a home office. A woman with dark hair, \"Sue\", is also present. Other participants include \"Stuart Starky\" in a gray shirt and glasses, \"Charles Masao\" who is occasionally seen looking upward, \"Patrick Muldyn\" in a gray shirt, and \"Gary Layton\" in a blue shirt. A man identified as \"Birs_collaborator\" wears a green shirt, and \"Stringdesignly\" wears a blue t-shirt. As the call progresses, the layout shifts, and a new person, \"Jim Burke,\" wearing a light-colored shirt and a headset, appears in the final segment of the sequence."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "771bc705dfa1ca117b4c8e9acb801416",
+  "url": "./data/segments/3E6ctN22V7k-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.36,
+    1.08,
+    1.8,
+    2.52
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a landscape of rolling green hills and misty mountains under an overcast sky. Tall, thin blades of grass sway in the foreground against a backdrop of distant, tree-covered ridges. No people, clothing, or equipment are visible in the scene. White text appears centered on the lower half of the screen. In the first frame, the text reads, \"We had a life and responsabilities in the Congo that we no longer have here.\" In the subsequent frames, the text changes to \"We are isolated from the world, what we miss the most is culture.\" This second phrase remains constant across the final three frames. The scenery remains largely static, with only slight movement in the grass and shifting mist over the hills as the video progresses."
+}

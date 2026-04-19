@@ -1,0 +1,15 @@
+{
+  "video_id": "d3e32b2934f5ffb68129d71f2b359453",
+  "url": "./data/segments/3Kxl1O310k8-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    13.6,
+    40.8,
+    68.0,
+    95.2
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a presentation slide detailing affordable housing projects in Massachusetts. The layout features project summaries for Norwell, Brewster, and Westport. Norwell's \"Herring Brook Hill\" consists of \"18 units of age-restricted rental housing\" with a \"Local contribution: $1.2MM.\" Brewster's \"Brewster Woods\" has \"30 units of rental housing\" with a \"Local contribution: $550,000.\" Westport's \"Noquochoke Village\" includes \"50 units of rental housing\" with a \"Local contribution: $1MM (including acquisition, predevelopment and development).\" Each project is accompanied by architectural renderings of white or gray residential buildings with gabled roofs. A small inset video in the top right shows a person's face. A yellow banner at the bottom repeatedly states \"Create (new construction).\" and contains the acronym \"MHP.\" Throughout the frames, the slide remains static, while the person in the inset video shifts their head and gaze slightly."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "bc5c5798d93d0c76c0ccb5dda1a33990",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.125,
+    1.875,
+    2.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call features four participants in a gallery view. On the far left, a man with glasses wearing a blue plaid shirt sits in a blue chair. Next to him, a man wearing a grey t-shirt and headphones sits in front of a tree. Beside him is a man wearing a blue shirt and a black baseball cap. On the far right, a woman in a beige top rests her chin on her hand. Small text labels appear at the bottom of each video feed: \"Jerry McLaine\", \"Howard Shuman\", \"Noah Bridge\", and \"Hana T\". The scene remains static across the duration of the clip, with the participants maintaining their positions and expressions. The backgrounds vary from indoor rooms with white walls and framed art to outdoor settings with greenery and trees."
+}

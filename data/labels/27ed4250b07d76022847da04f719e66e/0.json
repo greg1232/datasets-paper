@@ -1,0 +1,15 @@
+{
+  "video_id": "27ed4250b07d76022847da04f719e66e",
+  "url": "./data/segments/3QD9oO6sRns-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.188,
+    3.562,
+    5.938,
+    8.312
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is shown in a video clip amidst a large collection of trading card boxes. The background consists of stacks of boxes featuring the text \"CLEARLY AUTHENTIC\" and \"2020\" in red lettering. A large logo on the surface in the foreground reads \"JASPY'S CASEBREAKS.\" In a small picture-in-picture overlay, a man wearing a black baseball cap and a black t-shirt is visible, observing the scene. The primary focus of the video is a hand holding a small, silver, cylindrical object. As the sequence progresses, the hand moves the object closer to the camera and rotates it, showcasing its reflective surface. Small red dice are also scattered on the dark surface among the boxes. The layout of the boxes and the \"JASPY'S CASEBREAKS.\" logo remain consistent throughout the short clip while the hand's motion is the central action."
+}

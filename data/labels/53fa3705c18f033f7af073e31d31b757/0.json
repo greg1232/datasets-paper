@@ -1,0 +1,15 @@
+{
+  "video_id": "53fa3705c18f033f7af073e31d31b757",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.813,
+    2.44,
+    4.067,
+    5.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a beard is seated in a sound-treated room with dark, vertically ribbed acoustic foam walls. He wears black over-ear headphones and a black jacket over a grey shirt. Positioned directly in front of his face is a professional condenser microphone mounted on a black boom arm. Throughout the sequence, the man is speaking, and his facial expressions shift from a focused gaze to a slightly more wide-eyed, expressive look. He uses hand gestures to emphasize his points, raising his right arm and hand above his head. The camera remains in a static medium close-up, capturing his upper body and head as he interacts with someone off-screen. The lighting is dim and consistent, focusing on the subject against the dark background of the recording studio."
+}

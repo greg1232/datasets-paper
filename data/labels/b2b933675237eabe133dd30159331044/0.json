@@ -1,0 +1,15 @@
+{
+  "video_id": "b2b933675237eabe133dd30159331044",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-219.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.471,
+    1.413,
+    2.354,
+    3.296
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, glasses, and white over-ear headphones is seated in a room, speaking into a professional microphone. He wears a dark blue t-shirt. Behind him is a framed picture featuring a blue and white logo with the text \"20\" visible. To his left, a Christmas tree with multi-colored lights is partially visible. Throughout the sequence, the man is actively talking, his mouth open and his facial expressions shifting as he speaks. He gestures with his right hand, which moves from a raised position in the beginning to a lower, more relaxed posture by the end. The camera remains stationary, keeping the man centered in the frame as he continues his delivery."
+}

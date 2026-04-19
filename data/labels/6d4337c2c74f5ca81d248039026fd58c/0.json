@@ -1,0 +1,15 @@
+{
+  "video_id": "6d4337c2c74f5ca81d248039026fd58c",
+  "url": "./data/segments/3P1vSUbet40-Scene-0358.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.751,
+    1.251,
+    1.752
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black baseball cap, headphones, and a black t-shirt that says \"CHECK IT!\" is seated in a studio setting, speaking into a professional microphone on a boom arm. He is positioned against a white background featuring a logo with five stars and the word \"HUSTLE\" written twice. To his right, a screen displays \"BOSS TALK 101\". The lower portion of the screen contains two logos: one on the left that reads \"BOSS TALK 101 PODCAST\" and another on the right that reads \"BOSS TALK 101\". Throughout the sequence, the man remains in the same position, gesturing with his right hand toward his chest as he speaks. His facial expression and hand position shift slightly as he continues talking, but the camera angle and overall environment remain static across the duration of the clip."
+}

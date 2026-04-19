@@ -1,0 +1,15 @@
+{
+  "video_id": "69f6b17085a056a56116145394282bbb",
+  "url": "./data/segments/3P1vSUbet40-Scene-0005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.502,
+    4.505,
+    7.508,
+    10.511
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and mustache is seated in a black chair in a studio setting, wearing a black t-shirt, a black baseball cap, gold necklaces, and large grey over-ear headphones. He is positioned in front of a professional microphone on a boom arm. Behind him, a white wall features gold stars and the words \"HUSTLE\" repeating. To his right, a screen displays \"BOSS TALK 101\". On-screen graphics include a logo that reads \"BOSS TALK 101 PODCAST\" on the left and \"BOSS TALK 101\" on the right. Across the sequence, the man shifts his posture and gaze; initially looking down and to the side, he then turns his head to look directly toward the camera with a neutral expression. The camera remains static, focusing on the man from the chest up as he slightly adjusts his position while remaining seated."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "22e3ebb4ca1cb861eba51a02e7f33175",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-113.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.331,
+    0.552,
+    0.773
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, wearing a dark grey t-shirt and headphones, appears in a small inset window in the lower-left corner of the scene. He is positioned in a room with a Christmas tree visible behind him to the left and a whiteboard to the right. The main background transitions through several graphic sequences. Initially, it shows distorted colorful bars and shapes, including a bright green glow, with the text \"HARVEST PRESENT\" at the top left. This shifts to a solid deep purple background before transitioning into a scene dominated by orange autumn leaves. In the final sequence, a stylized red logo featuring the characters \"U2\" appears over a purple and orange backdrop. At the bottom of the screen, a menu bar becomes visible with options including \"MARK/UNMARK,\" \"DISMISS ALL,\" and \"BACK.\""
+}

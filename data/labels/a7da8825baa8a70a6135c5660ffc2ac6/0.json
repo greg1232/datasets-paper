@@ -1,0 +1,15 @@
+{
+  "video_id": "a7da8825baa8a70a6135c5660ffc2ac6",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-094.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.215,
+    0.644,
+    1.073,
+    1.502
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a clear plastic bag over a surface featuring a logo with palm trees and the text \"JASPYS\". In the background, a man wearing a navy blue t-shirt and glasses sits at a desk with equipment. On-screen text reads \"JASPYS\" and \"CASEBREAKS.COM\". In the initial frames, a small stack of white and yellow boxes sits on the table. As the video progresses, the person's hand moves the plastic bag, and by the final frame, the stack of boxes has been removed or moved out of the immediate foreground, leaving a single white box behind. The setting appears to be a studio or office dedicated to \"case breaks,\" with various electronics and a computer monitor visible behind the man."
+}

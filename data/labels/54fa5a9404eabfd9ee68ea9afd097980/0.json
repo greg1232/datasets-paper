@@ -1,0 +1,15 @@
+{
+  "video_id": "54fa5a9404eabfd9ee68ea9afd097980",
+  "url": "./data/segments/3Z229_lKLpk-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.445,
+    4.335,
+    7.225,
+    10.115
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with white hair and a beard is speaking from behind a wooden podium against a textured, dark green wall featuring geometric, recessed patterns. He is dressed in a light-colored, long-sleeved garment topped with a white sleeveless vest. Two microphones are mounted on the podium in front of him. Throughout the sequence, the man delivers a speech, shifting his posture and using hand gestures for emphasis. In the beginning, he stands with his arms resting near the podium. As the scene progresses, he raises his left hand with one finger pointed upward to emphasize a point, then lowers it. Later, he repeats the gesture, raising his right hand with a finger pointed upward while continuing to speak. The background remains static, featuring two gold-colored cylindrical pillars adorned with small pink flowers."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e1ae4625c0c6dc9b4809af01bdb811fc",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.267,
+    0.801,
+    1.335,
+    1.869
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands work on a craft project atop a white wooden surface. In the center of the scene, a small, light-blue square of paper featuring a faint snowflake pattern is being manipulated. The person uses their fingers to carefully place small, white, pearl-like embellishments onto the blue paper. To the left, a packaged set of these embellishments is visible, with a label containing the text \"rm heart\" and a barcode. As the sequence progresses, the person's hands move across the paper, positioning the white dots in a structured arrangement. By the end of the sequence, the hands shift positions, with the left hand stabilizing the edge of the blue square and the right hand moving away from the paper. The lighting is bright and even, focusing on the meticulous placement of the decorative elements."
+}

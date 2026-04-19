@@ -1,0 +1,15 @@
+{
+  "video_id": "412797930f84b5f2cfe8074c9828d94f",
+  "url": "./data/segments/3a0FD1177FA-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.646,
+    1.939,
+    3.232,
+    4.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is crafting a card on a white gridded cutting mat. The person, wearing a white smartwatch and a ring on their left hand, uses a blue and purple patterned piece of paper on a dark blue card base. They use a clear adhesive tape dispenser to apply a strip of double-sided tape to the purple paper. In the initial sequence, the person holds the tape dispenser in their right hand while stabilizing the paper with their left. As the action progresses, the person carefully presses the adhesive strip onto the surface. Other crafting supplies are visible on the mat, including pieces of floral patterned paper, a stamp block, and a black ink pad. A faint watermark reading \"Stampin' Julia\" is visible in the lower-left corner of the frames. The scene focuses on the precise movement of the hands as they assemble the paper elements."
+}

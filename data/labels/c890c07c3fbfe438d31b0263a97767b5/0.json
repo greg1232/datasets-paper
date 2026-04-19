@@ -1,0 +1,15 @@
+{
+  "video_id": "c890c07c3fbfe438d31b0263a97767b5",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-211.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.991,
+    1.387
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark, braided hair tied in a high bun is seated in a studio setting, wearing a dark green t-shirt featuring a red and white circular logo with the text \"B SSTALK\". She sits behind a desk equipped with a professional black microphone on a boom arm and headphones draped around her neck. Behind her is a black backdrop displaying the words \"BESS TALK 101\" and \"It's A Unique Hustle,\" along with images of a man. To her side, a small red and white logo reads \"BESS TALK 101\". Across the sequence, the woman is speaking and reacting, her facial expressions shifting from a slight smile and closed eyes to a more open, animated expression as she continues to talk. The camera remains stationary, focusing on her from the chest up as she interacts with an unseen interlocutor."
+}

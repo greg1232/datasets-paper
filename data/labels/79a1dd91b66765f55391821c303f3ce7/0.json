@@ -1,0 +1,15 @@
+{
+  "video_id": "79a1dd91b66765f55391821c303f3ce7",
+  "url": "./data/segments/3hcAJKLX-Ps-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.33,
+    9.99,
+    16.65,
+    23.31
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a maroon long-sleeved shirt and an identification badge, stands in front of a large green and yellow digital screen. He holds a microphone in his right hand and speaks, using his left hand to gesture. Beside him stands another man in a white short-sleeved shirt. Several other men are partially visible in the foreground and background. Across the sequence, the man in the maroon shirt shifts his posture and hand movements; he initially raises his left index finger and then brings his hand closer to his chest. The background screen features an abstract yellow and green design. To the left of the speaker, a dark speaker box is visible on a surface. The scene remains static in location, focusing on the man in the maroon shirt as he delivers a presentation or speech."
+}

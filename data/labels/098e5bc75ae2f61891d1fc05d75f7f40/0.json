@@ -1,0 +1,15 @@
+{
+  "video_id": "098e5bc75ae2f61891d1fc05d75f7f40",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.73,
+    17.19,
+    28.65,
+    40.11
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a dark beard and short dark hair, wearing a grey button-down shirt, is seated in front of a dark blue background featuring repeating faded text that reads \"DAILY ROUND-UP\". A logo for \"peoples dispatch\" is visible in the top left corner of every scene. The man is speaking and gesturing slightly with his hands resting on a surface in front of him. A small clip-on microphone is attached to his shirt. In one segment, a small inset video appears in the top right corner showing a man in a suit speaking at a White House podium. Accompanying this inset is on-screen text that reads, \"'We cannot, we will not stand by as our people are threatened by a kangaroo court,' -Mike Pompeo-\". As the sequence progresses, the inset video and the corresponding quote disappear, returning the focus entirely to the man in the grey shirt."
+}

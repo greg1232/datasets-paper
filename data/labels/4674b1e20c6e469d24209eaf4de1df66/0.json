@@ -1,0 +1,15 @@
+{
+  "video_id": "4674b1e20c6e469d24209eaf4de1df66",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A stationary shot depicts a laboratory setting with a white countertop and white cabinetry below. On the counter, several pieces of scientific equipment are arranged. On the left is a large, red-tinted translucent plastic tank sitting atop a black base. To its right is a grey metallic device with a small screen and control panel, and further right is another grey piece of equipment. Above the counter, a white shelf holds various boxes, and a power strip is mounted to the wall with several cables plugged in. No people are present in the scene. Across the frames, there is very little movement; the camera remains still, and the equipment is stationary. The lighting is consistent and bright throughout the sequence, with the scene remaining virtually unchanged from the beginning to the end of the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0de177d6763a609c8ba01dd85e8b6afd",
+  "url": "./data/segments/3U065Ox-1uA-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.655,
+    1.964,
+    3.274,
+    4.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A high-angle shot captures a busy outdoor plaza or terminal area where numerous people are walking in various directions. Many individuals are dressed in winter attire, including heavy coats and jackets in dark colors. Some people are pulling luggage, while others walk in small groups or alone. In the foreground, a person in an orange jacket is seen beside a small cart. A few people wear face masks. The background shows a large, modern building structure. Each frame features a blue and white \"VOA 60 LEARNING ENGLISH\" logo in the upper left and the word \"REUTERS\" above it. White text captions appear at the bottom of the frames, stating, \"And some celebrations of the Lunar New Year\" in the top row and \"are limited in parts of Asia because of COVID-19.\" across the bottom row. The scene remains static in composition, with only slight movements of the pedestrians between frames."
+}

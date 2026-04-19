@@ -1,0 +1,15 @@
+{
+  "video_id": "e15b827e1e6a38b3af24a17ccff59fa6",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-381.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.698,
+    5.093,
+    8.488,
+    11.883
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard wearing a grey t-shirt, a grey baseball cap with a red and white logo, and black over-ear headphones sits in a recording studio. He is positioned in front of a professional microphone attached to a black boom arm with the word \"Blue\" visible on the arm. The background consists of dark grey acoustic foam panels. Across the sequence, the man is speaking into the microphone. In the first frame, his right arm is raised and blurred, suggesting movement. In the second frame, his hand is positioned higher near his head. By the third and fourth frames, his arm has lowered and is resting out of view or by his side. The phrase \"Dynamic broadcast mic\" is printed on the microphone's mounting hardware. The scene remains stationary, focusing on the man from the chest up as he talks."
+}

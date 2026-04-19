@@ -1,0 +1,15 @@
+{
+  "video_id": "623acab6b2592169a15d8eb2ef79ac6b",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.777,
+    2.33,
+    3.884,
+    5.438
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A middle-aged man with short, receding hair and a mustache is shown in a close-up shot, speaking while sitting inside a vehicle. He wears a light grey polo shirt. Behind him, a white surface is visible, featuring a partial black star-shaped symbol. Across the sequence, the man remains in the same position, his facial expressions shifting slightly as he speaks, with his mouth opening and closing. On-screen captions appear at the bottom of the frame, changing from \"and what the war does to its own people\" to \"and the high percentage of people who are injured,\" which remains the same for the final two frames. The lighting is bright and consistent, and the background remains static, focusing the viewer's attention on the man's expressions and the accompanying text."
+}

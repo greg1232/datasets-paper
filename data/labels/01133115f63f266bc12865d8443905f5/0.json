@@ -1,0 +1,15 @@
+{
+  "video_id": "01133115f63f266bc12865d8443905f5",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-765.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.636,
+    1.908,
+    3.18,
+    4.452
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt sits in front of a microphone in a room filled with clothing and framed pictures. His shirt features the white text \"ION NEVER DO SHIT AT WORK\". To his right, a white mannequin wears a white long-sleeved shirt, and clothing racks are visible in the background. Two logos are present on the screen: one on the far left and one on the far right that reads \"BOSSY FELIX TOT\". Throughout the sequence, the man is speaking into the microphone. His facial expressions shift from a neutral, slightly downward gaze to an open-mouthed expression as he talks, eventually breaking into a smile while looking slightly to his left. The background setting and the man's position remain constant across the frames."
+}

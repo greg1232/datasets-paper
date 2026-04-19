@@ -1,0 +1,15 @@
+{
+  "video_id": "da95c145f096f56f1741a0e09faa24d8",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-527.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.136,
+    0.407,
+    0.678,
+    0.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with curly black hair tied in a high bun is seated in a studio setting, speaking into a professional microphone on a stand. She wears a dark green t-shirt with a circular graphic and text that includes \"TALK 101.\" Behind her is a black backdrop with white and red text that reads \"BESS TALK 101,\" \"It's A Unique Hustle,\" \"CAST,\" and \"About It!\" A framed picture of a man is visible on the wall to her left. In the lower-left corner, a logo says \"BESS TALK 101\" and \"GEB.\" Throughout the sequence, the woman maintains a slight smile and looks towards someone off-screen, gesturing slightly with her hand. The scene remains static in terms of location and equipment, with only subtle changes in her facial expression and posture as she continues to speak."
+}

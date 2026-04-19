@@ -1,0 +1,15 @@
+{
+  "video_id": "f61abf9edcb1ba6f7ef3d027f46ceed2",
+  "url": "./data/segments/3sJ5OX75erw-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.335,
+    16.005,
+    26.675,
+    37.345
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"LF Networking 5G Super Blueprint\" is displayed throughout the video. The slide contains the text \"OPS-5G will align with the 5G Super Blueprint.\" and a technical architectural diagram featuring logos and labels such as \"ORAN,\" \"magma,\" \"Anuket,\" and \"NFVI (Edge/Cloud).\" A small inset video in the top right corner shows a man with short dark hair and a beard, wearing a dark shirt, speaking to the camera. At the bottom of the slide, a URL leads to a wiki page, and a footer reads \"THE LINUX FOUNDATION \u00a9 LF NETWORKING \u00a9 LF EDGE DISTRIBUTION STATEMENT A. Approved for public release. distribution unlimited.\" The hashtag \"#opennetledge\" is visible in the bottom left corner. There are no changes in the visual content across the frames; the speaker remains in the inset window and the slide remains static."
+}

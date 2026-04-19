@@ -1,0 +1,15 @@
+{
+  "video_id": "fc15fc792f05ddb61819f7ac7d58b6be",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-132.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.052,
+    6.156,
+    10.26,
+    14.364
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands at a podium in a room with vertical wooden paneling, addressing an audience seated in rows of chairs. He is wearing a dark vest over a white shirt and is seen gesturing with his hand near his head. To his right, another man in a light-colored shirt sits at a table. The audience consists of several people viewed from behind; notably, some wear colorful sashes over their shoulders, including one person in a blue and white sash and another in a yellow top. A man in a grey plaid jacket is seated on the left. A white logo with the text \"ORCA\" is visible in the lower right area of the scene. Across the sequence, the man at the podium shifts his posture and arm position while speaking, but the overall arrangement of the people and the setting remains constant."
+}

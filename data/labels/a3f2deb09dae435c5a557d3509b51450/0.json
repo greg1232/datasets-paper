@@ -1,0 +1,15 @@
+{
+  "video_id": "a3f2deb09dae435c5a557d3509b51450",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-188.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A promotional video for TFNN.com, titled \"EDUCATING INVESTORS,\" features a layout designed for a streaming service. The top section contains a navigation bar with links for \"HOME,\" \"TIGER TV,\" \"NEWSLETTERS,\" \"SERVICES,\" \"ABOUT,\" and \"ADVERTISING,\" alongside an \"Account\" login. Centered text invites viewers to \"Welcome to Tiger TV - Watch Live\" and to \"Tune in daily to watch & interact with our hosts as they take you through a myriad of topics: investments, trading, commodities, etc...\". Banners from Ameritrade appear, urging viewers to \"Discover the value of becoming a smarter trader.\" Below these elements, a segment titled \"The Tiger Technicians Hour | June 8th, 2022\" features a man named Basil Chapman. He is wearing a dark suit jacket and a white shirt. In the bottom right corner, \"NG JRS\" is visible. Across the frames, the scene remains static with no visible movement or changes in text or positioning."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "290740ec91ad426f687cca5bb102ae33",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.205,
+    3.616,
+    6.027,
+    8.438
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A gray Dodge Challenger is parked in an asphalt parking lot surrounded by green grass and distant trees. In the initial scenes, the camera focuses on the rear and side of the vehicle, capturing its sleek lines, black wheels, and red taillights. As the sequence progresses, the perspective shifts to a side-profile view, showcasing the car's long hood and muscular body. A white truck is partially visible in the background of the final scene. No people are present in the frames. The lighting suggests a bright, sunny day, creating sharp shadows on the pavement. The movement of the camera provides a cinematic walkthrough of the vehicle's exterior, transitioning from a rear three-quarter angle to a close-up side view."
+}

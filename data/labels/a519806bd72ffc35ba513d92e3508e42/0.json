@@ -1,0 +1,15 @@
+{
+  "video_id": "a519806bd72ffc35ba513d92e3508e42",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-159.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.13,
+    0.391,
+    0.651,
+    0.911
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and a headset is speaking in an indoor setting. She is wearing a striped purple and white shirt and is positioned in front of a light-colored wall and a window with yellow curtains and a blue fabric edge. A small portion of a neutral-colored surface is visible behind her to the right. The text \"Nancy Ramya\" is displayed in the bottom left corner of each shot. Throughout the sequence, the woman remains in the same position, speaking and looking slightly to her right. Her facial expressions and mouth movements shift as she talks, and she briefly closes her eyes toward the end of the clip. The lighting remains consistent, and there are no changes to the background or her attire."
+}

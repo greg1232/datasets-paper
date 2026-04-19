@@ -1,0 +1,15 @@
+{
+  "video_id": "f5c3dd9b9b4e3ef3254424a66ce11528",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.963,
+    2.89,
+    4.817,
+    6.744
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A blue-toned digital background displays a blurred financial chart with candlestick patterns and numerical data. Centered in the foreground is a white logo and text that reads \"TFNN.com\" with the tagline \"EDUCATING INVESTORS\" positioned directly underneath. The scene is static across the frames, with the logo and text remaining centered and fixed. The background consists of a deep blue gradient with faintly visible, out-of-focus trading indicators and price scales. Small, white numerical values and grid lines are scattered across the background, contributing to the theme of stock market or cryptocurrency analysis. No people or physical objects are present in the video, as the entire visual consists of a digital graphic overlay on a stylized financial backdrop."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b35daaaaf2719844b1aaa58ca6f288a2",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-149.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.648,
+    31.944,
+    53.241,
+    74.537
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair and glasses, wearing a light blue patterned shirt and a necklace, stands behind a wooden podium speaking into a microphone. He is positioned in front of a backdrop of brown horizontal blinds. On the front of the podium is a logo with a red stylized sun and the text \"SPOKANE COUNTY LIBRARIES\". To the right of the man, the text \"ORCA\" is displayed on the screen. In the foreground, the backs of several people's heads are visible as they listen to the speaker. Across the sequence, the man gestures with his right hand while speaking, shifting his posture slightly. He looks down at a yellow folder resting on the podium and then back up toward the audience, while the observers in the foreground remain still."
+}

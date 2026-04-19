@@ -1,0 +1,15 @@
+{
+  "video_id": "092fcbd1d07871a7517ab77089578552",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-347.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.097,
+    3.291,
+    5.485,
+    7.679
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head, a dark beard, and tattoos on his right arm is seated in a recording studio, wearing a white t-shirt and large black over-ear headphones. He is positioned in front of a professional condenser microphone mounted on a boom arm, which bears the text \"RodeProcaster\". Behind him is a wall of dark gray acoustic foam panels. As the sequence progresses, the man is speaking, his mouth opening and closing while he maintains a focused expression and gazes slightly to his left. His head shifts slightly and his facial expressions evolve as he talks, but his position relative to the microphone and the background remains constant. No other people are visible in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "8f71236cd11e99bd9bc49a20d368709d",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-222.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.172,
+    0.516,
+    0.86,
+    1.204
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt with the text \"ION NEVER\" and \"SHIT\" printed in white, and a matching green baseball cap, is speaking into a black microphone. He is wearing black over-ear headphones. The setting appears to be a room filled with framed photographs on the wall and clothing racks in the background, including a white mannequin wearing a white t-shirt. A logo featuring the text \"RED EYE\" is visible in the bottom left corner of each frame, and red text that reads \"RED EYE\" appears on the right. As the sequence progresses, the man's facial expression and mouth movements change slightly as he continues to talk, while the rest of the environment and his posture remain stationary."
+}

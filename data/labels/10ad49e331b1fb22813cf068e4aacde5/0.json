@@ -1,0 +1,15 @@
+{
+  "video_id": "10ad49e331b1fb22813cf068e4aacde5",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.462,
+    0.771,
+    1.079
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white aircraft is parked on a snow-covered tarmac under an overcast sky. The plane features a red and blue stripe along its fuselage and the text \"Il-96\" next to a red circular logo containing the number \"13\". A white ground support vehicle, marked with the number \"726\" in multiple locations, is positioned underneath the fuselage near the landing gear. To the left, a red engine cowling is visible. In the background, other aircraft are partially visible through the hazy, wintery atmosphere. Throughout the sequence, the scene remains static with no visible people or significant movement; the aircraft, the ground vehicle, and the snowy environment stay in the same positions across all frames."
+}

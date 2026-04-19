@@ -1,0 +1,15 @@
+{
+  "video_id": "127834396d042c56f62530138728d0bb",
+  "url": "./data/segments/3L_uHTClWfk-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.617,
+    19.85,
+    33.083,
+    46.317
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video consists of a static screen capture of a webpage from the IRS website. A blue header features the \"IRS\" logo on the left and navigation options for \"SEARCH,\" \"HELP,\" and \"MENU\" on the right. The main body of the page contains black text on a white background discussing retirement rules. Legible text includes a section stating, \"A 5% owner of the employer must begin taking RMDs at age 72.\" It further explains that \"RMDs may not be rolled over to another IRA or retirement plan,\" and mentions an \"RMD Comparison Chart.\" A prominent bold heading reads, \"RMD Calculations and 50% tax on missed distributions,\" followed by a paragraph describing the responsibilities of an IRA trustee, plan administrator, or owner regarding RMD reporting and calculations. Throughout the sequence, the image remains completely stationary with no changes in content, motion, or perspective."
+}

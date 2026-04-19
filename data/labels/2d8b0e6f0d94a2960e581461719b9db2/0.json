@@ -1,0 +1,15 @@
+{
+  "video_id": "2d8b0e6f0d94a2960e581461719b9db2",
+  "url": "./data/segments/3Kxl1O310k8-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    63.74,
+    191.22,
+    318.7,
+    446.18
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call features a rotating gallery of participants in various home settings. The group includes several men and women, some wearing glasses and headphones. One man is seen in a white button-down shirt against a background of a brick building and trees; another man wears a black jacket and glasses in a room with a brown wall; a woman wears a blue and white striped shirt. As the video progresses, the layout of the participants shifts, alternating between different combinations of their video feeds. Some individuals are seen listening attentively, while others appear to be speaking. The backgrounds vary from plain walls and bookshelves to outdoor scenes. No on-screen text, logos, or specific equipment are visible beyond the participants' computers and headphones. The scene evolves through the shifting arrangement of the video windows as different participants are highlighted."
+}

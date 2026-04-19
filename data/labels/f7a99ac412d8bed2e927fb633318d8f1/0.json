@@ -1,0 +1,15 @@
+{
+  "video_id": "f7a99ac412d8bed2e927fb633318d8f1",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-126.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.225,
+    0.675,
+    1.125,
+    1.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a montage of grayscale news footage overlaid with red-tinted graphic elements and translucent text. In the background, various clips show people in an outdoor setting, including a shot of a sign that reads \"POLLING ZONE\" and images of individuals standing and interacting. The words \"POLITICAL NEWS PLUS POLITICS\" and \"POLITICS\" appear repeatedly as layered, semi-transparent text across the scene. As the sequence progresses, a bright, glowing blue circular light effect emerges in the center of the screen, pulsating and expanding. This light becomes increasingly prominent, partially obscuring the underlying footage and text. The background images remain relatively static while the blue energy effect grows in intensity, eventually dominating the central portion of the frame."
+}

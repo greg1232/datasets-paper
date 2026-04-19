@@ -1,0 +1,15 @@
+{
+  "video_id": "a339241294164eda3740dd6c8d3e3fee",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-312.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.646,
+    1.938,
+    3.229,
+    4.521
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a gold-bordered sports card encased in a clear plastic protector. The card features an image of Rod Carew and bears the text \"ROD CAREW\" and \"First baseman CALIFORNIA ANGELS\". A signature is visible across the image of the player. In the background, a smaller inset video window shows a man with a beard wearing a dark blue t-shirt sitting at a desk with a microphone. On-screen text and logos include \"JASPYS\" and \"CASEBREAKS.COM\" in the upper right corner of the main scene and the inset window. The scene is set indoors, with a table surface featuring a palm tree graphic. Across the sequence, the person holding the card tilts and shifts it slightly, changing the way light reflects off the gold foil surface and the plastic casing, while the man in the inset remains seated."
+}

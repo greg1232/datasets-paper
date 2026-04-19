@@ -1,0 +1,15 @@
+{
+  "video_id": "f45aae184f1374ed7c25049202fa913b",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-146.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.267,
+    0.801,
+    1.335,
+    1.869
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a classroom setting, several people are seated at desks, with some wearing blue scrubs and medical masks. The room is equipped with computer monitors on the desks. A sequence of text overlays appears and disappears across the screen. Initially, a list of names and dates is visible, including \"Amanda Chipman, MD MS 2019-2020\" and \"Olivia Martin, MD, MS 2020-2021,\" followed by \"Course Instructor: Cheralyn Hendrix, MD\" and \"Administrative support: Wendy Hackshaw.\" The text expresses gratitude to the \"University of Maryland School of Medicine Surgical Bootcamp Class of 2023 who agreed to have their learning filmed.\" A list of \"MD Candidates\" follows, including \"Rachel Belcher,\" \"Rachel Cermak,\" and \"Katherine Coburn.\" A QR code is visible on the right side of the frames. As the sequence progresses, the text shifts slightly, and the list of names updates to include others such as \"Francia Fang\" and \"Margo Huffman.\""
+}

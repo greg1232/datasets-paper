@@ -1,0 +1,15 @@
+{
+  "video_id": "b5d144153989240bd5b324b90826110e",
+  "url": "./data/segments/3P1vSUbet40-Scene-0637.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.464,
+    1.392,
+    2.32,
+    3.248
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a tall, pointed, grey wig, glasses, and headphones sits in a studio setting. He is dressed in a white button-down shirt with a red bow tie and tan suspenders. He is positioned behind a microphone on a boom arm. In the background, a wall is decorated with numerous framed photographs and some clothing items, including a garment with the word \"LEE\" visible. Two logos appear on the screen: a circular logo on the left containing the text \"BOSS TALK 101 PODCAST\" and a logo on the right that reads \"BOSS TALK 101\". Throughout the sequence, the man remains in the same position, slightly shifting his head and facial expression as he speaks, though his overall posture and the surrounding environment remain static."
+}

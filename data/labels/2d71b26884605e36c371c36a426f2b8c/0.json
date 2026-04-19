@@ -1,0 +1,15 @@
+{
+  "video_id": "2d71b26884605e36c371c36a426f2b8c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-192.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.194,
+    0.581,
+    0.969,
+    1.356
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, glasses, and a navy blue t-shirt wears white headphones and speaks into a black microphone in a room with light-colored wood-paneled walls. To his left, a decorated Christmas tree with colorful lights is visible, and behind him is a framed picture containing the number \"20\". The video frames feature an on-screen gaming interface. The top frames display the text \"SUBSTITUTION\" in the upper left, while the bottom frames show \"LINEUP\". Both rows include a top banner with numbers such as \"173,034\", \"0\", \"14,600\", \"2,193,944\", \"LVL 19\", and \"91\". The bottom frames also include a menu bar with options like \"OFFENSE\", \"DEFENSE\", \"SPECIAL TEAMS\", \"SPECIALISTS\", \"STRATEGY\", and \"VISUALS\". As the sequence progresses, the man's facial expression shifts from a smile to an open-mouthed, surprised expression."
+}

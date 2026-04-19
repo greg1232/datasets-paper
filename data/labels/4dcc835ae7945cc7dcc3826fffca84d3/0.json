@@ -1,0 +1,15 @@
+{
+  "video_id": "4dcc835ae7945cc7dcc3826fffca84d3",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-158.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.751,
+    1.251,
+    1.752
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video transitions from an urban cityscape to a close-up of a workspace. It begins with a shot of a multi-lane highway and city buildings under a cloudy sky, with the on-screen text \"IT CAN SEEM IMPOSSIBLE TO KEEP UP WITH ALL OF THE INFORMATION\" appearing over the scene. The view then shifts to a desk featuring various financial documents, charts, a smartphone, and a magnifying glass. A person's hands are visible, using a white marker to write on a document. As the clip progresses, blue text overlays the scene, initially stating \"DAVID WHITE'S INVESTMENT\" and then expanding to read \"DAVID WHITE'S INVESTMENT NEWSLETTER.\" The background documents include headers such as \"2020 STOCK M REBOUND AMID CORO.\" The person continues to write and move their hand across the paperwork while the newsletter title remains prominently displayed on the screen."
+}

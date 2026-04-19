@@ -1,0 +1,15 @@
+{
+  "video_id": "5c0b09d80fc8c7d3e361b06813f2cf9f",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.088,
+    0.263,
+    0.438,
+    0.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A legislative hearing takes place in a room with wood paneling and beige walls, where several people are seated at a long table. A woman in a brown blazer and red scarf speaks, gesturing with her hands, while a man in a dark suit and glasses listens intently beside her. Behind them, another woman wears a bright red jacket, and a man in a grey vest and white shirt sits to the far left. A woman in a beige blazer and black shirt stands to the right. On the table are various items, including blue and white cups, water bottles, and documents. A banner across the bottom displays the \"ORCA\" logo and the text \"April 12, 2019 House Committee on General, Housing, and Military Affairs S.23 Increasing the Minimum Wage\". Throughout the sequence, the woman in the brown blazer continues speaking, and the other participants remain in their positions, listening and observing."
+}

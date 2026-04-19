@@ -1,0 +1,15 @@
+{
+  "video_id": "e545019a7e51903bd609d64968c4f4ea",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-353.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.078,
+    0.235,
+    0.391,
+    0.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits at a desk in a studio setting, wearing a white baseball cap, large over-ear headphones, and a black hoodie featuring the words \"BOSS TALK\" in gold lettering. He is positioned behind a professional microphone on a boom arm. In the background, a white wall displays the word \"HUSTLE\" multiple times alongside five yellow stars. A red and white sign behind him reads \"BOSS\" and \"Where BOSSES Talk!\". On the desk, a small black object and a container with a red label stating \"BOSS TALK ONE\" are visible. A logo in the bottom left corner reads \"BOSS TALK\". Throughout the sequence, the man remains seated and mostly still, facing slightly toward the right of the frame with a neutral expression, while his hands rest on the desk in front of him. There are no significant changes in position or action between the frames."
+}

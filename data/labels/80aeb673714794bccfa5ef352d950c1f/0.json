@@ -1,0 +1,15 @@
+{
+  "video_id": "80aeb673714794bccfa5ef352d950c1f",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on a mechanical assembly, likely part of a vehicle's drivetrain, featuring metallic components and a splined axle shaft. A person's hand enters the frame from the left, pointing a finger toward a small bolt situated on a black metal mounting plate. In the background, various grey metal gears and housings are visible. As the sequence progresses, the hand remains in a similar position, with the finger pointing steadily at the bolt. There are no people visible beyond the hand, and no clothing, on-screen text, or logos are present. The scene remains nearly static across the frames, with only subtle shifts in the positioning of the hand and finger as it indicates the specific bolt on the machinery."
+}

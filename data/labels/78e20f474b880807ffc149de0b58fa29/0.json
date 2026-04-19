@@ -1,0 +1,15 @@
+{
+  "video_id": "78e20f474b880807ffc149de0b58fa29",
+  "url": "./data/segments/3dN_F08u-KE-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.27,
+    0.45,
+    0.63
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grayscale video sequence shows a wide shot of a cloudy sky or atmospheric haze. In the upper left corner of the footage, there is a logo consisting of a trident and the text \"\u0413\u041e\u041b\u041e\u0412\u041d\u0415 \u0423\u041f\u0420\u0410\u0412\u041b\u0406\u041d\u041d\u042f \u0420\u041e\u0417\u0412\u0406\u0414\u041a\u0418\". A red and white \"13\" logo appears in the upper right corner, and a circular \"GROUP 13\" logo is visible on the right side of the frame. Small, dark, rectangular objects move across the center of the scene from left to right, appearing as distant silhouettes against the bright, hazy background. As the sequence progresses, these objects shift their position slightly to the right. The landscape and atmospheric conditions remain constant, with billowing white shapes resembling clouds or smoke filling the left and lower portions of the view."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "8a98bb8c3b3936afdee2659029e579eb",
+  "url": "./data/segments/3g8tiPycwPo-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    162.175,
+    486.524,
+    810.873,
+    1135.222
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a blue suit, light-colored dress shirt, and dark tie stands behind a dark wooden podium, speaking into a microphone. He is positioned in front of a large window that looks out onto green foliage. In the foreground, the backs of several people's heads are visible, and a white sign on the podium reads \"RESERVED Table\". As the sequence progresses, the man's expression and gestures shift as he speaks, moving from a slight smile with his right hand raised to a more focused expression. The camera remains stationary, capturing the man from the chest up. The lighting is bright, emanating from the large window behind him, which creates a soft backdrop of natural light and greenery."
+}

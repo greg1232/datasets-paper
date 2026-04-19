@@ -1,0 +1,15 @@
+{
+  "video_id": "fade1bf9d5b1b532a4a3f85de8697d61",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-477.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.521,
+    1.563,
+    2.604,
+    3.646
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital screen displays a sports gaming interface for a player named \"DAVID MAYO\" with a rating of \"92\". The interface is predominantly purple and black, featuring a player card image of a football player in a red and gold uniform. Various statistics are listed under headings like \"KEY\" and \"GENERAL\", with numerical values such as \"87\", \"90\", \"82\", and \"92\". Text at the top includes \"#51 LOLB\", \"129,529\", and \"1,787,969\". A small rectangular video inset shows a blond man wearing a dark grey shirt. In the initial frames, the man is not yet fully visible or is just entering the frame; as the sequence progresses, he appears more clearly, looking toward the screen with an open-mouthed, surprised expression. The background behind the man includes a glimpse of a decorated Christmas tree with green needles and colorful ornaments."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1aaf9a475086edeb3bd97df3ddde0010",
+  "url": "./data/segments/3a0FD1177FA-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.328,
+    0.985,
+    1.642,
+    2.299
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with light skin, wearing a white long-sleeved shirt with a blue decorative pattern on the cuff, is working on a craft project on a white cutting mat with grid lines and measurements. In the beginning, the person uses their left hand to hold a small, thin object against a white piece of paper. A floral patterned fabric scrap in the shape of a cross and a blue textured fabric strip are nearby on the mat. As the sequence progresses, the person moves their arm across the frame to manipulate the materials. The \"Stamping Jill\" logo, featuring a heart, appears in the bottom left corner of the scenes. Throughout the clip, the focus remains on the hands and materials, with the white cutting mat serving as the primary workspace."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "cd474bd59e92419a4e7a6597647d5be9",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-074.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.155,
+    0.465,
+    0.775,
+    1.085
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast from \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" focuses on political developments in Bihar. The screen features a red and white graphic layout with a map of Bihar and the text \"\u0938\u0941\u0936\u093e\u0938\u0928 \u092a\u0930 \u091a\u0948\u0932\u0947\u0902\u091c\" centered. Several political figures are displayed in inset photos, including individuals identified as \"\u0921\u093f\u092a\u094d\u091f\u0940 CM\", \"\u0938\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940\", \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\", \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\", and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930\". A man in a white traditional outfit stands with joined hands next to the map. As the sequence progresses, a headline appears at the top reading \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". In the final frame, a photo of \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\" appears on the left, and a news ticker at the bottom reads \"PM: \u092c\u093f\u0939\u093e\u0930 \u0915\u0947 \u0932\u094b\u0917\u094b\u0902 \u0915\u0947\". The time \"10:04 PM\" is visible in the bottom right corner across all frames. The background includes a blurred image of a government building."
+}

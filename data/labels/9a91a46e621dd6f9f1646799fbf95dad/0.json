@@ -1,0 +1,15 @@
+{
+  "video_id": "9a91a46e621dd6f9f1646799fbf95dad",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-206.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.213,
+    0.638,
+    1.064,
+    1.489
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair wearing a light blue button-down shirt stands behind a wooden podium in a room with brown blinds and dark walls. He is gesturing with his hands as he speaks to an audience, whose backs are to the camera. The audience includes individuals wearing blue and black clothing. To the left of the speaker, a black speaker is mounted on a stand. A logo with the text \"ORCA\" is visible in the lower right portion of the scene. Throughout the sequence, the speaker remains at the podium, subtly shifting his posture and hand movements while addressing the group. The camera angle remains static, capturing the speaker from the waist up and the rear view of the seated listeners, maintaining a consistent view of the setting and participants."
+}

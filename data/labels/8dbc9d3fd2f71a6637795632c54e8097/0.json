@@ -1,0 +1,15 @@
+{
+  "video_id": "8dbc9d3fd2f71a6637795632c54e8097",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man dressed in a blue traditional Chinese martial arts uniform performs a staff routine in a large, indoor hall. He holds a long wooden staff, which he maneuvers with sweeping motions across a blue carpeted floor. In the background, a large audience of people in various attire sits in rows of chairs, observing the demonstration. The room is illuminated by warm lighting from recessed ceiling fixtures and wall lamps. As the sequence progresses, the man shifts his weight and rotates his body, transitioning from a side-facing stance to a dynamic pose where he raises the staff high above his head. He then pivots and extends the staff outward in a wide arc, finishing with a strong, lunging posture. The audience remains seated and attentive throughout the performance, while the architectural details of the hall, including the neutral-toned walls and distant exits, remain constant."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d4bb18f9b4401c9a0e94f9e73d3c262c",
+  "url": "./data/segments/3QD9oO6sRns-Scene-125.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.312,
+    0.938,
+    1.562,
+    2.188
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a beard, wearing a black baseball jersey with a red \"JASM\" logo on the chest, stands in front of a blurred background consisting of a list of Major League Baseball teams and player names. He is positioned on the right side of the screen, and a logo that reads \"CASEBOARDS.COM\" is visible near his shoulder. The background list includes names like \"Kyle Harper,\" \"Nicholas Kasberg,\" and teams such as \"ATLANTA BRAVES\" and \"BALTIMORE ORIOLES.\" Across the frames, the man remains in a similar position, facing slightly toward the left while speaking. His facial expressions shift subtly as he talks, with his mouth opening and closing and his eyes blinking. The lighting is consistent, and the overall setting appears to be a studio or an office environment with a digital backdrop."
+}

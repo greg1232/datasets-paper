@@ -1,0 +1,15 @@
+{
+  "video_id": "d96d3db4a2168a11fc66543a2e1e00b0",
+  "url": "./data/segments/3JYDT8lap5U-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.415,
+    1.245,
+    2.075,
+    2.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard, wearing a white shirt and a grey blazer, stands on a stage during a presentation. He is positioned to the left of a large projection screen that displays a blue background with white text. The text on the screen reads, \"BUT FOR US? Got an overview in scaling data pipelines Airflow components (Celery, ML, etc) Difference between ML & Data Pipelines Overview of Airflow + Usecase THE BIG PICTURE\". At the bottom of the screen, a white banner contains the \"europython\" logo\u2014a red snake\u2014alongside the text \"Edinburgh 23-29 July 2018\". Across the sequence, the man shifts his posture and gestures with his hands while speaking. In the first frame, he stands with his hands slightly raised; by the final frame, he has leaned slightly forward, gesturing with his right hand towards the audience."
+}

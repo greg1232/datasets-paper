@@ -1,0 +1,15 @@
+{
+  "video_id": "57cf1b8aa25af4fcb0ca7d4130b2eaaf",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-099.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.29,
+    0.87,
+    1.45,
+    2.03
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people are gathered in a sports stadium with red seating. Several individuals are wearing blue shirts and black shorts, while others wear red shirts. In the background, a red banner features the white text \"CERVEZAS ALHAMBRA\" and Arabic script that reads \"\u0647\u0644\u0627 \u0648\u0633\u0647\u0644\u0627 \u0641\u064a \u063a\u0631\u0646\u0627\u0637\u0629\". The Real Madrid club crest is visible on the stadium architecture above the stands. The scene captures individuals in various states of motion; some are seated, while others are walking or standing. One person in a blue shirt walks across the red seating area, moving from the center toward the right side of the frame. As the sequence progresses, people shift their positions slightly, and those walking move further along the rows of seats. A man in a red shirt and black shorts stands near the center, facing towards the right. The lighting is bright, suggesting an outdoor daytime setting."
+}

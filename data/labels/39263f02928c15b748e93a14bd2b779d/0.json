@@ -1,0 +1,15 @@
+{
+  "video_id": "39263f02928c15b748e93a14bd2b779d",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-440.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.5,
+    0.833,
+    1.167
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light brown hair and a dark blue shirt is shown in a small inset window over a digital interface for a video game store. The screen displays \"STORE\" in the upper left and \"ULTIMATE TEAM\" in the center. Top menu options include \"FEATURED\", \"ZERO CHILL\", \"SELECT OFFERS\", \"TRAINING\", \"SPECIAL OFFERS\", \"DEAR\", and \"NEW\". Three player cards are featured, displaying \"90 OVR\", \"85 OVR\", and \"84 OVR\". Below these cards are purchase options labeled \"ZERO CHILL PLAYER\" for \"20,000\", \"80+ OVR ZERO CHILL PLAYER\" for \"4,500\", and \"84+ OVR ALL MADDEN PLAYER\" for \"2,885\". In the upper right corner, numbers indicate \"152,729\", \"14,600\", and \"1,787,369\". As the sequence progresses, the man in the inset window shifts his expression from a neutral look to a shocked expression, eventually placing his hand over his mouth."
+}

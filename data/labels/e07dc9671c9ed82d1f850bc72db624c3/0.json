@@ -1,0 +1,15 @@
+{
+  "video_id": "e07dc9671c9ed82d1f850bc72db624c3",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.695,
+    2.085,
+    3.475,
+    4.865
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast from \"plustv\" features a split-screen layout showcasing a man in a light-colored traditional garment and a red cap. He is seen in a larger window on the left and a smaller inset window on the right, where he appears to be speaking during a phone interview. The inset window includes the text \"ON THE PHONE\", \"OLUSOLA OYEKANMI\", \"POLITICAL ANALYST\", and \"LAGOS\". In the background of the main window, other men are visible, including one in a brown outfit. A purple banner at the bottom of the screen displays \"PLUS POLITICS\" and the headline \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\". The frames show a consistent layout, but the bottom section changes from \"FOLLOW US\" with social media icons and \"PLUSTVAFRICA\" to \"WATCH ON\" with logos for \"DStv CH 408\" and \"StarTimes CH 308\"."
+}

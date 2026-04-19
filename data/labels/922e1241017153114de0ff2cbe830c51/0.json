@@ -1,0 +1,15 @@
+{
+  "video_id": "922e1241017153114de0ff2cbe830c51",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-425.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.402,
+    1.206,
+    2.01,
+    2.815
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair, wearing a dark t-shirt, is seen in a picture-in-picture overlay against the backdrop of a \"STORE\" menu from a video game. He appears in the bottom-left corner of the screen, gesturing with his hands and speaking with an open-mouthed expression. The game interface features several digital player cards with \"OVR\" ratings of \"90\", \"85+\", and \"84+\". Above these cards are navigation tabs including \"FEATURED\", \"ZERO CHILL\", \"SELECT OFFERS\", \"TRAINING\", \"SPECIAL OFFERS\", and \"GEAR - NEW\". At the top of the screen, currency totals are displayed, including \"172,729\", \"14,600\", and \"1,787,369\". The store items below the cards include a \"ZERO CHILL PLAYER\" for \"20,000\", an \"80+ OVR ZERO CHILL PLAYER\" for \"4,500\", and an \"84+ OVR ALL MADDEN PLAYER\" for \"2,800\". Across the sequence, the game screen remains static while the man's facial expressions and hand movements change."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "22d57a5a1c9769e4dedc331f73227eaa",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.688,
+    2.065,
+    3.441,
+    4.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting, several women are gathered around a table. One woman in the foreground has blonde hair tied with a white scrunchie and wears a face mask, while others behind her are also masked. One woman wears a dark blue long-sleeved shirt and a white mask, gesturing with her hands while looking toward the group. On the table, there is a bright green tumbler, some papers, and a silver bowl. A purple graphic of a figure and a pink circle containing the text \"Day 1\" appear on the left side of the screen, while a logo and the text \"Sim Week\" are visible on the right. As the sequence progresses, the woman in the foreground leans closer to the table, and the woman in the dark blue shirt continues to engage with the group. The lighting remains consistent throughout the scene."
+}

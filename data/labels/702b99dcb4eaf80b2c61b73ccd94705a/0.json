@@ -1,0 +1,15 @@
+{
+  "video_id": "702b99dcb4eaf80b2c61b73ccd94705a",
+  "url": "./data/segments/3Sq594WkayE-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.073,
+    0.219,
+    0.365,
+    0.51
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is shown in a close-up shot interacting with a woody shrub. The hand is pale and holds a small, leafy branch of the plant between the thumb and forefinger. The shrub has thin, brown stems and small, silvery-green leaves. The background is blurred, consisting of more foliage and muted earthy tones. Across the sequence of images, the hand remains in a similar position, gently holding the plant, with only subtle movements as the person examines the foliage. There are no other people, clothing, equipment, or on-screen text visible in the scene. The lighting is soft and diffused, and the overall composition focuses exclusively on the tactile interaction between the hand and the plant."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "793dda59d5996fb3f0ffe0e86eccbf77",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-154.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.38,
+    1.141,
+    1.901,
+    2.661
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call displays multiple participants. In one view, a woman with dark hair wearing a striped shirt and large over-ear headphones sits in a room with a light-colored curtain in the background. She has her eyes closed. The text \"Seyi Adebola\" appears as a label for her video feed. In other views, a man is visible in a small, rounded window against a black background. He wears a dark, patterned shirt and a dark cap, posing with his hands clasped. The text \"Seyi Adebola\" is also seen at the bottom left and bottom center of the screen. As the sequence progresses, the woman's view disappears, leaving only the repeating images of the man in the small windows against the black backdrop, with the \"Seyi Adebola\" labels remaining on the screen."
+}

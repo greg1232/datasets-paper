@@ -1,0 +1,15 @@
+{
+  "video_id": "ea953599111fef8cd0d859dd85444f06",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-276.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.284,
+    0.851,
+    1.418,
+    1.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is positioned in a recording studio, wearing large black over-ear headphones and a white t-shirt featuring a logo that reads \"Stay Focused\". He is seated in front of a professional silver microphone mounted on a black boom arm, set against a background of dark grey acoustic foam panels. As the sequence progresses, the man looks slightly to his left with a focused expression. His mouth is open as if speaking, and his facial expression shifts from a neutral, concentrated look to one of surprise or intense realization, characterized by his eyes widening and his eyebrows raising. The camera angle remains static, capturing his head and shoulders as he interacts with someone or something off-camera."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "80e2d29d4e66aae0f223a46aaa51335e",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.192,
+    0.576,
+    0.959,
+    1.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up view inside a vehicle's footwell, likely under a dashboard or panel. The area is covered in tan carpeting and contains various mechanical components, including a dark, grimy metal bracket, some wiring, and a silver metal piece with a jagged edge. To the right, a sturdy grey handle with the word \"BRUNO\" embossed on it is visible. A dark grey floor mat sits to the left. As the sequence progresses, the camera shifts slightly, causing a subtle change in perspective and lighting across the scene. The components remain stationary, with no people present in the frames. The lighting is dim, highlighting the textures of the dirty metal and the plush carpeting of the interior."
+}

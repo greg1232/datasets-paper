@@ -1,0 +1,15 @@
+{
+  "video_id": "005a9ee99a6efcc7cad93fa66fc21eda",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.238,
+    3.713,
+    6.188,
+    8.662
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is preparing food in a kitchen setting, where a large metal bowl contains a mixture of yellow, grain-like ingredients. The person's hands are seen mixing the contents of the bowl. A small white plate and a red bowl, both containing more of the yellow mixture, sit on a wooden surface next to the large bowl. In the upper left corner of the scene, the text \"UCAR CENTER FOR SCIENCE EDUCATION\" is displayed alongside a logo. A circular inset video overlay shows a woman with short blonde hair wearing a dark top; her expressions and movements change as the sequence progresses, at one point touching her head and then looking down at her hands. Across the frames, the person's hands continue to stir and manipulate the food mixture within the large metal bowl while the woman in the inset observes and reacts."
+}

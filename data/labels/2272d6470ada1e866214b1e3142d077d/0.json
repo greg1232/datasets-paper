@@ -1,0 +1,15 @@
+{
+  "video_id": "2272d6470ada1e866214b1e3142d077d",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-117.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.074,
+    3.222,
+    5.37,
+    7.518
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, large black headphones, and a green t-shirt with the text \"I ONLY NEVER DO STUFF\" speaks into a professional black microphone. He is positioned in a room with walls covered in framed photographs and posters, with a clothing rack and a white mannequin visible in the background. In the lower corners of the scene, a logo featuring a microphone and the text \"BOSS TALK 101\" appears. As the sequence progresses, the man continues speaking, shifting his head slightly. In the third frame, another man wearing a black cap and a white t-shirt enters the background from the right, standing behind the speaker. The man in the green shirt remains the primary focus, maintaining his position in front of the microphone as he talks."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9a8f58a3558df0169b2406fbddb7b9b1",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.765,
+    2.295,
+    3.825,
+    5.355
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A Volvo excavator operates at a red-soil mining site, digging into a dirt embankment under a bright sky with scattered trees in the background. Several workers are present; one person in a dark shirt stands near the machine's tracks, while others are visible further back on the ridge. A graphic overlay appears on the left side of the screen featuring a stylized badge that reads \"DAILY ROUND-UP\". In the initial scene, a red banner extends from this badge. As the clip progresses, the banner transforms into a translucent teal shape, and a news headline appears to the right, stating, \"Rights groups call out mining companies in DRC for confining workers at mine sites\". The excavator remains active throughout the sequence, with its arm moving as it scoops earth. The video concludes with the teal graphic and news text disappearing, returning the overlay to the original red banner design."
+}

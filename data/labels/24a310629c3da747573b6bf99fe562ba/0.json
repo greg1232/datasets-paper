@@ -1,0 +1,15 @@
+{
+  "video_id": "24a310629c3da747573b6bf99fe562ba",
+  "url": "./data/segments/3o6LBa7ZAp0-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.329,
+    0.988,
+    1.647,
+    2.306
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men are seated at a long table in a professional setting against a textured grey wall featuring a circular logo with the text \"POLICY\" beneath it. The man on the left wears a dark suit jacket and a light-colored patterned scarf wrapped around his neck, sitting with his arms crossed and a smile on his face. The man on the right wears a dark suit and tie and is actively speaking, gesturing with his right hand as he looks toward the first man. On the table between them are microphones, bottles of water, and a small potted plant. Nameplates are visible in front of the men, reading \"Bernard BAODRE\" and \"Jean-Claude TRICHET\". Across the sequence, the man on the right continues to speak and gesture, shifting his arm position and turning his head slightly, while the man on the left remains mostly still, continuing to look at him with an amused expression."
+}

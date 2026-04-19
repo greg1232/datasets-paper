@@ -1,0 +1,15 @@
+{
+  "video_id": "80a91c97bf45cf1520518e622a46865d",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-085.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of frames captures a scene at a sports stadium with rows of red seating. Several individuals are present, primarily wearing blue shirts and green pants. In the initial frames, several people are seen walking or standing among the red seats; one individual in blue and green is climbing up the rows while others stand further back. A few people in dark clothing are seated or standing in the upper sections. The Real Madrid club crest is visible in the upper corners of the frames. The setting transitions from a very dark view of the stadium structure to brightly lit views of the seating area. Legible text on a red banner in the background includes \"CAR HOUSE\" and \"T VANT...\". Throughout the sequence, the people in blue and green continue to move across the red seats, with some shifting positions as they navigate the tiered seating."
+}

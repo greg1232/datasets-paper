@@ -1,0 +1,15 @@
+{
+  "video_id": "7ee2a9f607314ff1738c8d6ba9e46b40",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.317,
+    3.95,
+    6.583,
+    9.217
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman stands outdoors in front of a brick building featuring a sign that reads \"ANDL\u00c6GESKOLE\". She is dressed in a white short-sleeved t-shirt and matching white flared trousers, with a small blue rectangular badge pinned to her left chest. In the initial scene, she stands centered with her hands raised near her waist. As the sequence progresses, another person dressed in black briefly appears behind her to the left before exiting the frame. The woman continues to stand in front of the building's glass doors and windows, subtly shifting her posture and moving her hands. By the final scene, she has shifted her weight, slightly bending one knee as she remains centered in the frame. The background remains a consistent brick exterior with white-framed glass doors and a large, uppercase text sign running across the top of the entryway."
+}

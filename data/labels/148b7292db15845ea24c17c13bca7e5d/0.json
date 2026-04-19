@@ -1,0 +1,15 @@
+{
+  "video_id": "148b7292db15845ea24c17c13bca7e5d",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-113.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.459,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses wearing a white shirt and a dark, patterned vest stands before a microphone, playing an acoustic guitar. He is positioned in front of a wall with vertical wooden panels. In the foreground, several people are seen from behind, including individuals with blonde and white hair, listening to the performance. A purple graphic element containing the white text \"ORCA\" is visible in the lower right of each scene. As the sequence progresses, the man continues to sing and strum his guitar, while the audience members remain still. There is very little change in the composition between the frames, capturing a continuous moment of a live musical performance in an indoor setting."
+}

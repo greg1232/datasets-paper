@@ -1,0 +1,15 @@
+{
+  "video_id": "8ebe63b1b9a8babde1c26e466f5e775f",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.48,
+    1.44,
+    2.4,
+    3.36
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip shows a view from an airplane window during takeoff or landing. The scene captures the aircraft's white wing and engine against a backdrop of a clear blue sky and a flat, arid landscape consisting of brown fields and sparse green shrubbery. A runway is visible below the wing, with a dark shadow of the plane cast upon the ground. In the upper right corner of each frame, a white logo featuring a crown and stylized letters is visible. As the sequence progresses, the perspective shifts slightly, and the wing appears to move relative to the ground, indicating the forward motion of the aircraft. No people or on-screen text are present in the frames."
+}

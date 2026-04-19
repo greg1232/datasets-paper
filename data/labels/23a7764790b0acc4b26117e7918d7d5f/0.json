@@ -1,0 +1,15 @@
+{
+  "video_id": "23a7764790b0acc4b26117e7918d7d5f",
+  "url": "./data/segments/3a0FD1177FA-Scene-084.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.86,
+    2.581,
+    4.301,
+    6.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown crafting a card on a white gridded cutting mat. The person wears a white smartwatch on their left wrist and a ring on their left ring finger. In the initial scene, they hold a brown card piece featuring a white label that reads, \"Wishing you a BIRTHDAY filled with all the best things,\" while holding a crafting tool in their right hand. As the sequence progresses, the person positions a piece of floral-patterned paper over the brown card, aligning the edges. They use their fingers to press down and secure the patterned paper onto the base, partially covering the label while leaving a portion of the \"BIRTHDAY\" text visible. A \"Stamping Jill\" logo with a heart icon is visible in the bottom left corner of the workspace. Throughout the process, various scraps of patterned paper remain scattered on the cutting mat."
+}

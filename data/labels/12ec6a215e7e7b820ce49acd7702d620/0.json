@@ -1,0 +1,15 @@
+{
+  "video_id": "12ec6a215e7e7b820ce49acd7702d620",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-388.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.206,
+    0.619,
+    1.031,
+    1.444
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is broadcast on a screen with a composite layout featuring a wide shot of a field and a smaller inset window. On the field, players from two teams, one in white and one in dark jerseys, are lined up for a play. A digital scoreboard at the top displays \"3rd & 8\", \"14\" and \"7\", and the time \"2:03\". Text overlays include \"MOMENTUM LEGEND\", \"HOT TRENDS\", \"HOLD THE LINE\", and \"FACTOR\". The inset window shows a man with blonde hair wearing a dark shirt and white headphones, speaking into a microphone. In the background of his window, a decorated Christmas tree with multicolored lights is visible. Across the sequence, the players on the field remain in their positions, and the man in the inset window continues to talk, with slight changes in his facial expressions and mouth movements."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4c206200e02971460661b0f4380a8951",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.442,
+    1.326,
+    2.211,
+    3.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital display shows changing numbers, with a \"VG\" logo in the upper right corner. Initially, the display reads \"46.58\" above \"10.979\", then shifts to \"47.1cy\" above \"10.001\". The scene then transitions to a close-up of a person's hands handling a stack of United States currency. The individual, whose clothing is not visible, holds and flips through a thick wad of dollar bills, moving their thumb across the edges of the banknotes to count or sort them. The background in these shots is blurred, showing a light-colored indoor setting with some indistinct equipment on a surface. The focus remains strictly on the digital readouts and the manual manipulation of the money."
+}

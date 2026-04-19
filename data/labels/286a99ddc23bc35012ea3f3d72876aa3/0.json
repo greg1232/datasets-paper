@@ -1,0 +1,15 @@
+{
+  "video_id": "286a99ddc23bc35012ea3f3d72876aa3",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-298.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.102,
+    0.306,
+    0.51,
+    0.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a graded trading card in a clear protective case over a desk surface featuring a palm tree design. The person rotates and tilts the card, moving it across the view. In the background of each shot, a small inset video window shows a man with a beard wearing a black t-shirt and headphones, sitting in a chair. The screen displays a logo that says \"JASPYS\" and the text \"CASEBREAKS.COM\". As the sequence progresses, the graded card is shifted and tilted, obscuring more of the background and the inset video as it moves closer to the camera lens. The scene maintains a consistent indoor setting with a focus on the handling of the collectible item."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ada7caaacaebb15469650bf7b83f1b6e",
+  "url": "./data/segments/3U065Ox-1uA-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.434,
+    1.301,
+    2.169,
+    3.036
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a composite display of missile launch footage. The top half of the screen shows two split-screen shots: on the left, a missile ignites and launches from a vehicle in a wooded area; on the right, a missile ascends through a cloudy sky. The bottom half shows two views of Earth from space, with blue oceans and white clouds. The \"VOA LEARNING ENGLISH\" logo, along with \"AP\" and the number \"60,\" appears in the top left corner. White text overlays the bottom of the screen. In the initial frames, the text reads \"North Korean state media confirm the launch,\" which later changes to \"of a medium-distance missile.\" The imagery remains static across the frames while the text updates to complete the sentence."
+}

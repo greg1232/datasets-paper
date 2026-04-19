@@ -1,0 +1,15 @@
+{
+  "video_id": "3608c4cec08ef17b31addadf1b7f9d88",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-143.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.102,
+    0.306,
+    0.51,
+    0.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen holding and tilting a sports trading card over a white surface. In the background, a man wearing a black t-shirt with a yellow logo sits at a desk. The scene is overlaid with a logo that reads \"JASPYS\" in red and white, with \"CASEBREAKS.COM\" printed below in a smaller font. Other equipment, including a computer monitor and a black device, is visible on the desk behind the man. The surface below the card features a graphic design of orange and blue circles with green palm tree silhouettes. As the sequence progresses, the hands adjust the angle of the card, moving it slightly to the right and tilting it to reveal different reflections on its surface. The background remains static, showing the man and his workstation as the hands manipulate the card in the foreground."
+}

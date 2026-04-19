@@ -1,0 +1,15 @@
+{
+  "video_id": "aa11580b985071b96f471e8c56960bc1",
+  "url": "./data/segments/3L_uHTClWfk-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.604,
+    0.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A blonde woman is captured in a close-up shot, wearing a brown v-neck sweater over a black turtleneck. She is positioned in an indoor setting, standing before what appears to be a whiteboard with a tray of colored markers visible behind her. To her left, the back of another person's head with reddish-brown hair is partially visible, though they remain out of focus. The woman maintains a somber and concerned facial expression throughout the sequence. As the scene progresses, she slowly shifts her gaze downward and slightly to the side, her brow furrowing and her lips pressing together, conveying a sense of sadness or apprehension. There is no on-screen text or logos present. The camera remains static, focusing on the woman's subtle emotional transition."
+}

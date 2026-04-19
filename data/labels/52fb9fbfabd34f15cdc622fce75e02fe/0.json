@@ -1,0 +1,15 @@
+{
+  "video_id": "52fb9fbfabd34f15cdc622fce75e02fe",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.975,
+    1.625,
+    2.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large artillery gun is positioned in a rural, outdoor setting with a backdrop of thin trees and an overcast sky. In the initial sequence, a partial view of a person is seen to the left of the weapon. As the sequence progresses, two individuals wearing military camouflage uniforms, helmets, and tactical gear appear on the left side of the equipment. One person stands still while the other moves closer to the artillery piece. The weapon is a complex metallic structure with a long barrel pointing upward and various adjustment wheels and handles. The text \"Hero Ukr\" is superimposed over the center of the scene in a white font, and a red and white \"13\" logo appears in the upper right corner of each shot. The scene remains stationary, with the only movement being the soldiers shifting their positions around the machinery."
+}

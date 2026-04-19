@@ -1,0 +1,15 @@
+{
+  "video_id": "c9345691f118b2c0beecbe1d1fb6f6ef",
+  "url": "./data/segments/3P1vSUbet40-Scene-0724.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.365,
+    1.095,
+    1.825,
+    2.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a goatee is seated in a studio setting, wearing a black t-shirt, a black baseball cap with an emblem, over-ear headphones, a gold chain, and a watch. He is positioned behind a professional microphone, with his hands clasped in front of him on a desk. In the background, a white banner features the text \"EMBRACE HUSTLE\" and several gold stars, while a screen displays the word \"BOSS\" and \"101\". On-screen graphics include a logo with a microphone and the text \"BOSS TALK 101 PODCAST\". Across the sequence, the man remains mostly stationary, looking slightly to his left. He subtly shifts his head position and facial expression, with his mouth slightly opening in the third frame as he appears to be speaking or reacting to someone off-camera."
+}

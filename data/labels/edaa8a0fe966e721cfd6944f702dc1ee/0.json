@@ -1,0 +1,15 @@
+{
+  "video_id": "edaa8a0fe966e721cfd6944f702dc1ee",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.632,
+    19.895,
+    33.158,
+    46.421
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman stands before a projected presentation in an indoor setting, likely a lecture hall or conference room. She is wearing a dark blazer over a white t-shirt and is holding a small tablet or notebook. She gestures with her hands as she speaks to an audience, though only the back of one person's head, wearing a yellow jacket and a green beanie, is visible in the foreground. Behind her, a screen displays a slide titled \"How I've quantified myself,\" featuring several colorful pie charts and the text \"2009: 750words.com\". Two black chairs are positioned against the wall to her left and right. As the sequence progresses, the woman shifts her posture and gestures, moving her hand across her body and adjusting the tablet she is holding, while the presentation slide remains static on the screen."
+}

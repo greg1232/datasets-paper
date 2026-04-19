@@ -1,0 +1,15 @@
+{
+  "video_id": "8f015ba6f22958e763e31fddae6bd0a3",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-223.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.448,
+    1.344,
+    2.24,
+    3.135
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a gold-bordered baseball card featuring the name \"SMITH\" and an autograph, positioning it over a white storage bin. In the upper frames, a hand holds the card vertically, showcasing the athlete in a red uniform. To the right of the main action, a smaller inset window shows a man with a beard wearing a dark t-shirt and a headset, seated in a room with equipment. On-screen logos read \"JASPYS\" and \"CASEBREAKS.COM\" in red and white text. As the sequence progresses, the person slides the card into a clear plastic protective sleeve. By the final frames, the card is partially enclosed in the sleeve and rests on the edge of the white bin. The background remains consistent, featuring a patterned surface and a stack of similar cards nearby."
+}

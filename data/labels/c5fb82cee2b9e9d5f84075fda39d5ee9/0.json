@@ -1,0 +1,15 @@
+{
+  "video_id": "c5fb82cee2b9e9d5f84075fda39d5ee9",
+  "url": "./data/segments/3hGuLEduWLM-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.729,
+    1.021
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A small bird with brownish-grey feathers and a reddish breast is perched on a white railing against a blurry green background. In the initial sequence, the bird is seen facing right with its beak open, while another similar bird is perched behind it, facing away. As the sequence progresses, the primary bird shifts its position, fluttering its wings and moving slightly. Orange text in the Marathi script overlays each scene. The top left shows \"\u091a\u093f\u0935\" and \"\u092e\u0930\u093e\", while the top right displays \"\u091a\u093f\u0935 \u091a\u093f\u0935\" and \"\u092e\u0930\u093e\u0920\u0940\". The bottom left features \"\u091a\u093f\u0935 \u091a\u093f\u0935 \u091a\u093f\u092e\" and \"\u092e\u0930\u093e\u0920\u0940 \u092c\u093e\u0932\u0917\", and the final scene concludes with \"\u091a\u093f\u0935 \u091a\u093f\u0935 \u091a\u093f\u092e\u0923\u0940\" and \"\u092e\u0930\u093e\u0920\u0940 \u092c\u093e\u0932\u0917\u0940\u0924\". The bird remains the central focus, transitioning from a still, singing posture to a more active, fluttering motion as the text evolves across the screen."
+}

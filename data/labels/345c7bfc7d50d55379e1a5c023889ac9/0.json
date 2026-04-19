@@ -1,0 +1,15 @@
+{
+  "video_id": "345c7bfc7d50d55379e1a5c023889ac9",
+  "url": "./data/segments/3E6ctN22V7k-Scene-071.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.705,
+    1.175,
+    1.645
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people, including adults and children, stand outdoors in front of a rustic wooden structure and dense green foliage. A man in a light-colored, short-sleeved button-down shirt stands prominently with his arms crossed over his chest, looking forward with a serious expression. Beside him, several other individuals are gathered, including a woman in a dark hooded garment and several children. One child wears a bright orange garment and has their arms crossed, mirroring the man's posture, while another child wears a white top with blue patterns and a third wears a pink hooded garment. The scene remains static across the sequence, with the people maintaining their positions and expressions. There are no visible objects, equipment, on-screen text, or logos present in the scene."
+}

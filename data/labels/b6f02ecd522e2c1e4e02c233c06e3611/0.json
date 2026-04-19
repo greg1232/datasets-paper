@@ -1,0 +1,15 @@
+{
+  "video_id": "b6f02ecd522e2c1e4e02c233c06e3611",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.642,
+    1.927,
+    3.212,
+    4.496
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A stately stone building with neoclassical architecture serves as the backdrop for a static shot, partially obscured on the right by the thick trunk of a tree. In the foreground, a wooden park bench sits on a green lawn under a clear sky. A white banner hangs above the building's entrance. Across the center of the scene, white text progressively appears. It begins as the partial phrase \"\\\"Genuine poetry can commu\" and then expands to read \"\\\"Genuine poetry can communicate before it is understood\". In the final stages, the quote is completed with a closing quotation mark and attributed to the author, appearing as \"\\\"Genuine poetry can communicate before it is understood.\\\" - T.S. Eliot\". The camera and scene remain entirely still while the text is layered onto the image."
+}

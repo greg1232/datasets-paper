@@ -1,0 +1,15 @@
+{
+  "video_id": "ca786cb10580dacd20a7029f37dc5269",
+  "url": "./data/segments/3iUTkJy84EY-Scene-136.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is speaking against a solid dark background. She is wearing a light green blouse with red and gold embroidery along the neckline and a dark beaded necklace. A small lapel microphone is clipped to the front of her shirt. In the bottom left corner of each scene, a small circular logo featuring a stylized sun and the text \"NPTEL\" is visible. As the sequence progresses, she speaks and uses hand gestures to emphasize her points. Initially, her hands are out of view, but they move up into the frame to gesture outward and then slightly inward as she continues talking. Her facial expressions shift from a neutral speaking pose to a slight smile, while her gaze remains focused forward toward the camera."
+}

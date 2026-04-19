@@ -1,0 +1,15 @@
+{
+  "video_id": "0ab31d82f8e3f981b3ff8576d6677f23",
+  "url": "./data/segments/3Z229_lKLpk-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.33,
+    0.99,
+    1.65,
+    2.31
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide shot captures a large gathering of people seated in rows within a formal assembly hall, likely a legislative chamber. The attendees, predominantly men, are dressed in traditional Indian attire such as white kurtas, Nehru jackets in various colors like grey, brown, and pink, and some women in colorful saris. The participants are seated behind long, tiered wooden desks that run horizontally across the frame. Throughout the sequence, the people remain largely stationary in their seats, with some appearing to listen attentively while others engage in quiet conversation with their neighbors. There are no visible on-screen texts or logos. The scene is static, with minimal movement between the frames, maintaining a consistent composition of the seated assembly under bright, even indoor lighting."
+}

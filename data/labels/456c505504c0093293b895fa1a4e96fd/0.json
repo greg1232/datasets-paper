@@ -1,0 +1,15 @@
+{
+  "video_id": "456c505504c0093293b895fa1a4e96fd",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.277,
+    0.831,
+    1.385,
+    1.94
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light brown hair wearing a dark blue shirt is shown in a small picture-in-picture window on the left side of a video game menu. The game screen displays the \"ULTIMATE TEAM\" interface, featuring a navigation sidebar with options like \"CHALLENGES,\" \"SOLO BATTLES,\" and \"PRACTICE.\" The main display promotes \"CLAIM YOUR CHAMPIONS\" and shows a featured \"nickelodeon NVP\" section with colorful player cards. A prominent button reads \"VIEW ALL FIELD PASSES.\" As the video progresses, the man continues to speak, and the screen transitions from the main menu to the \"MISSION SELECT\" screen, which lists goals such as \"GHOSTS OF MUT,\" \"ZERO CHILL,\" and \"TEAM AFFINITY.\" Finally, the interface shifts to a store page featuring a \"SUPER BOWL MVP BUNDLE\" and a \"Zero Chill\" promotion, with text stating \"Now Available in the Store.\""
+}

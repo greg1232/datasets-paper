@@ -1,0 +1,15 @@
+{
+  "video_id": "fa8b0476d69a1696eea6d1fc6c9fcdee",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-211.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.708,
+    0.992
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a clear plastic card sleeve, which occupies most of the foreground. In a small inset window on the right, a man with a beard, wearing a navy blue t-shirt, sits at a table with various equipment and sports cards, looking toward the camera. Above this inset, the text \"JASPYS\" appears in red and yellow letters, accompanied by the website \"CASEBREAKS.COM\". The inset also features \"JASPYS Sports Cards & More\" along with a small logo. The background behind the hand shows a blurred tabletop setting. Across the sequence, the hand remains largely stationary, holding the sleeve in place, while the man in the inset window shifts his posture and expression slightly, maintaining his position at the desk. The on-screen text and logos remain constant throughout the frames."
+}

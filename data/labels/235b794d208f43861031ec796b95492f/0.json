@@ -1,0 +1,15 @@
+{
+  "video_id": "235b794d208f43861031ec796b95492f",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-166.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.584,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with glasses, wearing a blue short-sleeved button-down shirt, stands behind a dark wooden podium in a room with brown slatted wall paneling. He is speaking to a small audience, whose backs are turned to the camera; visible are people wearing a purple plaid shirt and a maroon shirt. On the podium, there is a green folder and a small logo featuring a red graphic. A black speaker stands on a shelf to the left, and the text \"ORCA\" appears in white letters on a dark background in the right mid-ground. Across the sequence, the man remains at the podium, gesturing slightly as he speaks while the audience members remain relatively still. The camera angle is static, capturing the speaker from the waist up and the heads of the people in the foreground."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7ecd8d4935e4e63e4d08c98a495380ac",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-164.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.295,
+    0.885,
+    1.475,
+    2.065
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a scene of a crowd gathered outdoors. A man in a white shirt is centrally positioned, gesturing with his hands while surrounded by other people. Behind him, individuals are holding large flags, including one with a green, white, and orange design and another with a red and white pattern. The screen is filled with news graphics, including the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo and a red banner at the bottom that reads \"BREAKING NEWS\". Above this, a headline asks \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\". Small inset portraits of several men appear on the sides, accompanied by names such as \"\u0921\u093f\u092a\u094d\u091f\u0940 CM\", \"\u0938\u0941\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940\", \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\", \"\u092e\u0902\u0924\u094d\u0930\u0940\", \"\u0935\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\", and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930\". As the sequence progresses, the man in the white shirt continues to move and speak, while the graphics and text remain largely consistent, with slight shifts in the positioning of the \"BREAKING NEWS\" text."
+}

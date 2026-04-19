@@ -1,0 +1,15 @@
+{
+  "video_id": "999c29ece523613954c9777a814347b6",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-356.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.706,
+    1.177,
+    1.648
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A gameplay sequence from the video game \"MADDEN 23\" unfolds on a green football field inside a large stadium. A score banner at the top shows a team with 14 points against a team with 7 points, with the game clock at \"3rd 3:59 35\". Players in white uniforms and players in dark uniforms engage in a play, with the white team moving the ball forward toward the end zone. An inset window in the lower-left corner shows a blond man wearing a dark blue shirt and a headset, reacting to the action. As the play progresses, the players shift positions, with the ball carrier in white attempting to evade defenders from the dark team. The man in the inset window remains visible, his expression shifting as the action on the field intensifies. The \"ULTIMATE TEAM\" logo appears in the top margins of the screen."
+}

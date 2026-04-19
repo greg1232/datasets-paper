@@ -1,0 +1,15 @@
+{
+  "video_id": "4e77da0beb574b5ed88817b7cf9652c9",
+  "url": "./data/segments/3EO0YIxkle8-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.349,
+    1.048,
+    1.747,
+    2.445
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video consists of a static black screen with white text centered in four different areas. The French phrase \"Les ODD peuvent-ils aider \u00e0 r\u00e9duire?\" is displayed in a clean, sans-serif font. The text appears in four separate positions: once in the top left, once in the top right, once in the bottom left, and once in the bottom right. Across the chronological sequence, there is no movement, change in lighting, or addition of new visual elements. The layout remains constant, showing the same question repeated four times against the dark background without any people, objects, or logos present."
+}

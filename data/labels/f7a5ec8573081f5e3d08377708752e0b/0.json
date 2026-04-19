@@ -1,0 +1,15 @@
+{
+  "video_id": "f7a5ec8573081f5e3d08377708752e0b",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.92,
+    5.76,
+    9.6,
+    13.44
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This educational video presentation on \"CRYOGENIC ENGINEERING\" focuses on a \"Tutorial \u2013 3\" regarding the \"Work/unit mass of gas compressed.\" The screen displays a technical lecture slide featuring a thermodynamic diagram and a data table. The diagram plots properties with axes for \"s\" and \"T,\" showing various process lines labeled \"T=const,\" \"p=const,\" and \"s=const.\" Below the diagram is a table listing values for pressure \"p (bar),\" temperature \"T (K),\" enthalpy \"h (j/g),\" and entropy \"s (j/gK)\" for states \"1\" and \"2.\" A mathematical formula for work, $\\frac{W}{m} = T_1^*(s_1 - s_2) - (h_1 - h_2)$, is shown. Across the frames, the slide remains static, but a calculation is gradually completed at the bottom, resulting in the final answer: $\\frac{W}{m} = 300(3.9-2.7) - (349-315) = 326 \\text{ J/g}$. Logos for \"NPTEL\" are visible, and the footer attributes the material to \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\""
+}

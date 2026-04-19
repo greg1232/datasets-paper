@@ -1,0 +1,15 @@
+{
+  "video_id": "9faff0a68be9236ffb11c305d6253979",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-151.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.259,
+    0.776,
+    1.293,
+    1.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical training setting at the \"CSTARS Simulation Lab,\" two people in blue scrubs and face masks attend to a medical mannequin lying on a table. One person stands behind the mannequin, while the other works at the side. The room is equipped with medical gear, including a white towel draped over the mannequin and a small monitor. Overlaid on the scene is a comprehensive list of names, including \"Mr. Tony Christiani,\" \"Mr. Dan Goodman,\" \"Maj. Erika Nova,\" \"Capt. Thomas Ross,\" \"TSgt. Juan Medina,\" \"TSgt. Michelle Hernando,\" \"Maj. Emma Edson,\" \"MSgt. Kevin Choi,\" \"TSgt. Joseph Coventree,\" \"SSgt. Diane Chock,\" \"MSgt. James Martin,\" \"MSgt. Jeremy Rhodus,\" \"TSgt. Casmare Norris,\" and \"TSgt. Clinton Noli,\" along with other names like \"Nahye Kim,\" \"Irina Kolesnik,\" \"Sasha Lenus,\" \"Alexandria Riedel,\" \"Nicholas Rolle,\" \"Amrita Sarkar,\" \"Nahom Seyoum,\" \"Shreya Singreddy,\" and \"Yamini Vyas.\" A QR code is also visible on the right side of the screen. Throughout the sequence, the medical personnel remain focused on the simulation, making slight adjustments to the mannequin's position."
+}

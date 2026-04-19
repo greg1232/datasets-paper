@@ -1,0 +1,15 @@
+{
+  "video_id": "a3cd71e5cefc207ae09174837cd159d7",
+  "url": "./data/segments/3L_uHTClWfk-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.742,
+    5.225,
+    8.708,
+    12.192
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a webpage from the IRS website. The page features the IRS logo in the top left corner and a navigation menu with \"SEARCH | HELP | MENU\" in the top right. The main heading of the page reads \"2020 coronavirus-related distribution\". Below the heading, a detailed explanation describes how Required Minimum Distributions (RMDs) were waived in 2020, stating, \"Since 2020 RMDs were waived, an account owner or beneficiary who received an RMD in 2020 had the option of returning it to their IRA or other qualified plan to avoid paying taxes on that distribution.\" The text continues to explain repayment options and mentions the \"Coronavirus Relief for Retirement Plans and IRAs page.\" Hyperlinks for \"Frequently Asked Questions regarding Required Minimum Distributions\" are also visible. A white mouse cursor is present on the screen, moving slightly across the text between frames."
+}

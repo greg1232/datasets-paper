@@ -1,0 +1,15 @@
+{
+  "video_id": "45890a9e2a4fe658b2ad6416865905e3",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.526,
+    0.876,
+    1.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital interface for a cryptocurrency trading bot is displayed, featuring several settings panels on a dark grey background. The screen shows configuration options for a trading pair, specifically \"ETH-DASH,\" with input fields for \"Take profit value (% of the first order)\" set to \"0.50\" and \"First order volume as:\" where \"Percentage of deposit\" is selected with a value of \"1.00\" ETH. A \"Step of extra order\" is set to \"1.00,\" and toggles for \"Martingale\" and \"Deals limit\" are both switched to \"off.\" Below these, \"Max count of extra orders\" is \"5\" and \"Count of real-time extra orders\" is \"3.\" The \"COINTELEGRAPH\" logo is visible in the background of the panels. Throughout the sequence, the view shifts slightly, moving from a focused view of the left panel to a broader view of a second, identical panel on the right, while a blurred trading chart is partially visible at the bottom."
+}

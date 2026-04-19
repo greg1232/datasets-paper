@@ -1,0 +1,15 @@
+{
+  "video_id": "49c360785f8040b6d34957a7912196f5",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.446,
+    19.338,
+    32.229,
+    45.121
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"Data Challenges\" is displayed, focusing on \"Distributed Environments: e.g: Kubernetes\". The slide features a technical diagram showing a \"Master\" node on the left, connected to a grid of worker nodes labeled \"Node 1\", \"Node 2\", \"Node 3\", and \"Node N\". Each worker node contains a box divided into four sections labeled \"Pod 1\", \"Pod 2\", \"Pod 3\", and \"Pod N\". Small blue gear-like icons are positioned at the bottom right of each worker node. In the upper right corner of the screen, a small video inset shows a woman with dark hair wearing a pink shirt. Throughout the sequence, the slide content remains static, and the woman in the inset remains in a similar position, though her facial expression and posture shift slightly as she speaks."
+}

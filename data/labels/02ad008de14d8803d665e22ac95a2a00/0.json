@@ -1,0 +1,15 @@
+{
+  "video_id": "02ad008de14d8803d665e22ac95a2a00",
+  "url": "./data/segments/3L_uHTClWfk-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.15,
+    15.45,
+    25.75,
+    36.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen capture shows a webpage from the Internal Revenue Service (IRS), indicated by the \"IRS\" logo in the top left. The page contains tax-related text stating that certain amounts can be \"repaid over a 3-year period or have the taxes due on the distribution spread over three years.\" It further explains that a \"2020 withdrawal from an inherited IRA could not be repaid to the inherited IRA but may be spread over three years for income inclusion,\" and provides a link to \"Coronavirus Relief for Retirement Plans and IRAs pages.\" Additionally, it mentions that taxpayers can find \"Frequently Asked Questions regarding Required Minimum Distributions\" at IRS.gov. Navigation options for \"SEARCH | HELP | MENU\" appear at the top, and buttons for \"Share\" and \"Print\" are located at the bottom, next to the text \"Page Last Reviewed or Updated: 12-Dec-2022.\" The visual remains static across the frames."
+}

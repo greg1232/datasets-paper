@@ -1,0 +1,15 @@
+{
+  "video_id": "38abe3133ad29b48fea9db340679304a",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-173.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    28.871,
+    86.612,
+    144.353,
+    202.094
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The image shows a technical analysis trading screen for \"United States Oil Fund LP,\" featuring multiple price charts with candlestick patterns, moving averages, and technical indicators. The top row displays three variations of a price chart with an ascending trend line marked with letters \"A\" through \"E,\" while the bottom row shows a series of charts depicting a descending trend marked with letters \"A\" through \"E.\" Below each price chart are indicator windows for \"MACD\" and \"Stochastic Slow.\" The interface includes various data points, such as \"MACD(12,26,9,1,1,UpColorDefault_DownColorDefault_ 2.37 0.31 0.41)\" and \"Stochastic Slow (High Low,Close,14,3,3,1,20,80) 50.00 94.91 50.00.\" As the sequence progresses, the view shifts across different timeframes and analytical views of the oil fund's performance, alternating between bullish projections in the top panels and bearish projections in the bottom panels, all set against a light-colored grid background typical of financial software."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "dfbbc9b03e701459fb7efb40c59de48a",
+  "url": "./data/segments/3fokLGPK15Q-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.665,
+    1.995,
+    3.325,
+    4.655
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people sit on a stage in front of a purple-lit background featuring curved neon light strips. On the left, a man wears a white button-down shirt and dark trousers. In the center, a woman wears a black top and dark trousers. On the right, a man wears a light blue shirt under a grey blazer and grey trousers. Between the first and second man sit two white, blocky pieces of equipment resembling 3D printers, one of which displays the text \"U\" on its side. The woman is actively speaking and gesturing with her right hand, and the man on the right looks toward her while talking. The man on the left remains mostly still, listening with his hands clasped. In the background, the letters \"SLA\" are visible in large, stylized white font. The scene remains largely static across the frames, with only the small shifts in the speakers' facial expressions and hand gestures."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2b2951d42d240316bf2a11295f7b169a",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.387,
+    0.646,
+    0.904
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a screen recording of a computer terminal running a text editor, likely Vim, with a split-screen view showing a configuration file. The text is a mix of technical parameters and log entries, featuring lines such as \".local.443\", \"Merge_Log_On\", \"log_processed\", and \"output:loki.conf\". The content includes complex regex patterns like `{{index .[\"labels\"] \"job\"}}` and system log paths like \"/var/log/fail2ban\". A status bar at the bottom shows the filename \"promtail_1\" and the current time \"22:11:15\". The screen remains static across the sequence, with the cursor position and the displayed text remaining unchanged. The layout consists of two vertical panes mirroring the same technical configuration and log data, creating a dense grid of white and light-grey text against a dark grey background."
+}

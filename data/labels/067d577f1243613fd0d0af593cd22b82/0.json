@@ -1,0 +1,15 @@
+{
+  "video_id": "067d577f1243613fd0d0af593cd22b82",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.414,
+    37.243,
+    62.072,
+    86.901
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A bald man with a gray beard, wearing a gray polo shirt, speaks while standing in front of a white informational poster. The poster features the logo \"ALPHASZENSZOR\" and the heading \"Typical Gas Sensor Attributes,\" accompanied by several small images and bulleted text. Above the man, a blue banner displays the text \"ZB38 Alphaszenszor Inc.\" and \"ZB39 DexM\". As the scene progresses, the man maintains a centered position in the frame, his mouth moving as he speaks. His facial expression shifts slightly, and his head moves minimally. In the final segment, the camera angle shifts slightly, and a small white identification badge becomes visible clipped to the placket of his shirt. The background remains a neutral, white-walled environment, keeping the focus entirely on the man and the technical information displayed behind him."
+}

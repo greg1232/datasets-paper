@@ -1,0 +1,15 @@
+{
+  "video_id": "dfa8e2c4c37eca32beff35a84c541d37",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-111.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.951,
+    2.853,
+    4.755,
+    6.657
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a graphic layout divided vertically between a textured, dark yellow and grey background on the left and a light grey background on the right. On the left side, the logo \"TFNN.COM\" appears above the text \"EDUCATING INVESTORS,\" with a blue and white Discord icon positioned underneath. The right side of the screen displays a list of features. In the initial frames, the text reads \"INTERACT WITH OTHER TIGERS AND TIGRESSES\" next to a small yellow arrow. As the sequence progresses, additional lines of text appear sequentially beneath the first. The text \"NEWS ANALYSIS\" appears next to a yellow arrow, followed by a final line that reads \"DISCUSS THE MARKET ACTION,\" also preceded by a yellow arrow. The layout remains static while the textual list grows longer over time."
+}

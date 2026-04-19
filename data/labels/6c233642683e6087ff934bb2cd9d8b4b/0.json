@@ -1,0 +1,15 @@
+{
+  "video_id": "6c233642683e6087ff934bb2cd9d8b4b",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-150.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.26,
+    0.781,
+    1.302,
+    1.823
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown in a close-up, interacting with small white boxes and yellow materials on a surface decorated with a palm tree logo. In the background, a man with a beard, wearing a navy blue t-shirt with a yellow circle logo, is visible in a smaller overlay window. Above him, the text \"JASPYS\" and \"CASEBREAKS.COM\" is displayed. The scene takes place in an indoor setting featuring a white table and a black electronic device. As the sequence progresses, the person's hand moves to open a small white box, revealing a yellow rectangular object inside. The small overlay window shows the man sitting at a desk with equipment, maintaining a consistent presence throughout the frames. The palm tree graphic and the \"JASPYS\" branding remain stationary on the surface and in the overlay throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "15411ede5128b778ebe3736c933032b1",
+  "url": "./data/segments/3l84m5pRmyk-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.91,
+    17.73,
+    29.55,
+    41.37
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a blue button-down shirt stands against a dark background in front of a white wall featuring the logos \"the CUBE\" and \"silicon ANGLE\". He wears a thin headset microphone and speaks throughout the sequence. A blue lower-third graphic appears across the middle of the screen, identifying him as \"RISHI YADAV | @meditativesoul\", \"CEO\", and \"infoObjects\". In one instance, a small logo for \"#BigDataSV\" is also visible on the graphic. As the video progresses, the blue graphic disappears, and a small orange \"INFO OBJECTS\" logo appears in the bottom left corner. The man gestures with his hands while speaking, moving them in front of his chest. A dark object, possibly a notebook or tablet, sits on a surface in front of him in the final segments of the clip."
+}

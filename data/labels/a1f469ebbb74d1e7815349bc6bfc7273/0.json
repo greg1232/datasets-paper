@@ -1,0 +1,15 @@
+{
+  "video_id": "a1f469ebbb74d1e7815349bc6bfc7273",
+  "url": "./data/segments/3F2rz23IKUk-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.175,
+    18.525,
+    30.875,
+    43.225
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with brown hair and glasses stands in a professional presentation setting, wearing a black t-shirt with a logo that includes the text \"Knuth\" and an identification badge hanging from a blue lanyard. Behind him is a plain grey wall and a projection screen. In the initial sequence, he stands with his left hand on his hip and his right hand raised near his chest as he speaks. As the scene progresses, he lowers his right arm and shifts his posture, eventually looking down toward a black computer monitor positioned in front of him. In the final moments, he looks back up toward the audience, clasping his hands together in front of his waist. The camera remains stationary, capturing his movements from the waist up as he presents."
+}

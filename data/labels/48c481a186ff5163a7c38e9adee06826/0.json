@@ -1,0 +1,15 @@
+{
+  "video_id": "48c481a186ff5163a7c38e9adee06826",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.206,
+    0.619,
+    1.031,
+    1.444
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game screen for \"ULTIMATE TEAM\" displays the player profile for \"TROY POLAMALU,\" a \"SS\" with a rating of \"96.\" The interface shows various \"ATTRIBUTES\" such as \"KEY\" and \"GENERAL,\" featuring a list of numerical values ranging from 75 to 99. A character model of a football player in a purple and white uniform is visible on the right side of the screen. Overlaid in a small window at the bottom is a young man with blond hair wearing a dark blue shirt, who is speaking while sitting in front of a computer setup. To his left, a small decorated Christmas tree is visible. As the video progresses, the man's facial expression changes as he continues to talk, while the game screen behind him remains static, consistently displaying the same player stats and \"TROY POLAMALU\" header."
+}

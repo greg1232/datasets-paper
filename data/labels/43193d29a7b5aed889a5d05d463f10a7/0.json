@@ -1,0 +1,15 @@
+{
+  "video_id": "43193d29a7b5aed889a5d05d463f10a7",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.25,
+    9.75,
+    16.25,
+    22.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call displays a grid of participants in their individual home settings. Several men and women are visible, including individuals identified by on-screen text as \"Jerry Michali,\" \"Roland Morevran,\" \"Patrick Matzyn,\" and \"Givan Lagos.\" The participants are dressed casually in t-shirts and button-downs. One man wearing glasses and a green shirt, labeled \"Ezra_collaborator,\" rests his chin on his hand. Another participant, \"Seymour Hersh,\" is visible in a dark shirt. In several tiles, a small white and blue circular logo with the text \"Collaborator\" is partially visible. The scene remains static across the sequence, with the participants remaining in their respective video tiles. There are no changes in movement, clothing, or layout, as the image depicts a consistent view of the virtual meeting gallery."
+}

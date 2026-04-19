@@ -1,0 +1,15 @@
+{
+  "video_id": "6e0dc9c33f2b7e47e266a7074fe3952c",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-499.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.151,
+    0.454,
+    0.756,
+    1.058
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with hair styled in a high bun and braids sits in a podcast studio, wearing a dark green t-shirt with a graphic and the number \"101\" on the chest. She is positioned in front of a professional microphone on a boom arm. Behind her is a black backdrop featuring the text \"BOSS TALK 101\" and \"It's A Unique Hustle,\" along with the word \"PODCAST\" and the phrase \"Talk About It!\". To her left, a framed image of a person's hand is visible on the wall. In the lower-left corner of the scene, a logo reads \"BOSS TALK 101.\" As the sequence progresses, the woman remains in place, speaking and slightly shifting her facial expression while maintaining a focused gaze. Her gestures are minimal, and the camera remains static, capturing her from the chest up against the studio background."
+}

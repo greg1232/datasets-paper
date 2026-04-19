@@ -1,0 +1,15 @@
+{
+  "video_id": "55c3abf6ab440c1322d3746d7e02faab",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.43,
+    7.29,
+    12.15,
+    17.01
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"CRYOGENIC ENGINEERING\" and \"Tutorial \u2013 2\" is displayed, featuring a section on \"Liquid yield\" and a mathematical formula for \"y\". The slide includes a temperature-entropy (T-s) diagram with a blue cycle and labeled points from 1 to 4, indicating processes such as \"T=const\", \"p=const\", \"D=const\", and \"h=const\". The NPTEL logo is visible in the lower-left corner, and the bottom banner attributes the content to \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\". As the presentation progresses, a data table appears beneath the formula, listing values for pressure \"p (bar)\", temperature \"T (K)\", enthalpy \"h (j/G)\", and entropy \"s (j/G K)\" for points 1, 2, and 3. The visual remains static across the sequence, with the only change being the appearance of this table in the latter half of the clip."
+}

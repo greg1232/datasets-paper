@@ -1,0 +1,15 @@
+{
+  "video_id": "34138fca8b565ab943702048750b2ae9",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-320.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.333,
+    1.0,
+    1.667,
+    2.333
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a dark blue t-shirt, is seated in a room filled with various items, including stacks of what appear to be trading card products. In the background, a logo featuring two green palm trees is visible on a white surface. On-screen text reads \"JASPYS\" and \"CASEBREAKS.COM\". The video begins with a close-up of a black foam insert inside a box, with a hand reaching toward it. As the scene progresses, the man is seen in a small inset window, observing the action. The hand then lifts a dark, textured lid or cover from the foam insert, revealing the interior of the box. The movement is steady, shifting from the initial view of the closed box to the act of opening it, while the \"JASPYS\" and \"CASEBREAKS.COM\" logos remain prominent on the screen."
+}

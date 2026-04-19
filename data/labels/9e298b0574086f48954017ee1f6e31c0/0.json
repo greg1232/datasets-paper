@@ -1,0 +1,15 @@
+{
+  "video_id": "9e298b0574086f48954017ee1f6e31c0",
+  "url": "./data/segments/3Sq594WkayE-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.234,
+    0.703,
+    1.172,
+    1.641
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide aerial night shot captures an expansive urban landscape, featuring a distant skyline with several illuminated skyscrapers against a dark sky. The city is a dense grid of lights, with two prominent, brightly lit arterial roads running vertically through the scene, their orange and white lights creating long, glowing lines. These roads are flanked by darker residential or commercial blocks punctuated by smaller, scattered points of light. The image consists of four nearly identical mirrored repetitions of this same cityscape, arranged in a grid. Across the sequence, there is no visible movement of people, vehicles, or changes in the lighting patterns; the scene remains static, maintaining a consistent view of the nocturnal city sprawl and the distant high-rise buildings. No text, logos, or people are visible in the frames."
+}

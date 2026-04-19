@@ -1,0 +1,15 @@
+{
+  "video_id": "b23f4f47835f5df3a88684e5bfe07c72",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a classroom or training setting, a group of people, mostly women wearing blue medical scrubs, are seated at white tables. The room features a large screen on the wall and various pieces of equipment, including laptops and water bottles on the tables. Several students are seated in rows, some facing the front and others turned toward each other. In the foreground, two women are seen from behind; one wears a grey garment and the other wears blue scrubs. Throughout the sequence, the individuals remain largely in the same positions, with slight movements as they engage in a session. The text \"Sim Week\" appears in the bottom right corner of each frame. The scene remains consistent across the sequence, depicting a quiet, focused academic or professional simulation environment."
+}

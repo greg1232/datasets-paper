@@ -1,0 +1,15 @@
+{
+  "video_id": "edf12ccdda2a65312ec127dd0bd4fada",
+  "url": "./data/segments/3Z229_lKLpk-Scene-208.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.34,
+    1.02,
+    1.7,
+    2.38
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, ornate assembly hall with high ceilings and gold-toned walls hosts a gathering of numerous people seated in rows of curved desks. The attendees are dressed in diverse attire, including many in white and traditional clothing. At the front of the room, a podium stands before a light-blue textured wall featuring a circular gold emblem. Three large screens are positioned across the front wall; the outer two display a live feed of the room, while the central area remains static. The ceiling is decorated with an intricate, repetitive geometric pattern and large circular light fixtures. Across the sequence of frames, the scene remains largely static, with only subtle movements among the seated crowd and slight variations in the digital displays on the screens, maintaining a formal and official atmosphere within the legislative or diplomatic setting."
+}

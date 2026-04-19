@@ -1,0 +1,15 @@
+{
+  "video_id": "4ca366903b1993a36dc64386d168fcb8",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-154.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.108,
+    12.325,
+    20.541,
+    28.758
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, dark hair and stubble is positioned in a recording studio against a wall of black acoustic foam panels. He wears black over-ear headphones and a dark grey t-shirt. He is speaking into a professional condenser microphone equipped with a pop filter, which is mounted on a black boom arm. Throughout the sequence, the man remains in a fixed position, facing slightly to the right. In the first two frames, his eyes are partially closed or looking downward as he speaks. In the subsequent two frames, he opens his eyes and looks forward toward an unseen person or object. The lighting is consistent, and there is no on-screen text or logos visible. The only movement occurs in the man's facial expressions and the slight shift in his gaze."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "781849983e087918eaa372ebe0a0c9da",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.31,
+    3.929,
+    6.548,
+    9.167
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a bright office or classroom setting, two women wearing blue scrubs and face masks sit behind a light-colored wooden table. To the left and right of the center, black silhouettes of a man with a cane and a pregnant woman are superimposed over the scene. On-screen text identifies the man as \"Forrest Wallace,\" a \"68 yo M s/p sigmoid colectomy and loop ileostomy,\" and the woman as \"Rita Sharma,\" a \"30 yo F cholecystitis (g1p0, 38+0).\" A cylindrical container sits on the table between the text blocks. The women behind the table are seen interacting with each other and gesturing. Across the sequence of frames, the figures and text remain stationary, while the women in the background shift their positions slightly as they speak and move their hands, though the overall composition of the scene remains consistent."
+}

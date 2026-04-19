@@ -1,0 +1,15 @@
+{
+  "video_id": "592e8aabf14646261db2b38ddb0bb857",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-262.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.585,
+    1.755,
+    2.925,
+    4.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a presentation titled \"13R Retailers willing to source local & Product Cost/Price\" within a web browser. The page contains sections for \"Price,\" \"Clear Force,\" and \"Supply & Demand,\" with a specific \"Component of: Retail Food System Cluster\" listed. The text notes that \"Retailers willing to source local increasing the Availability or the supply, relative to demand, of locally sourced products tend to lower the Product Cost and thereby increasing the likelihood of Local Consumption.\" A complex causal loop diagram with several interconnected nodes is displayed on the right side of the slide. In the top right corner of the browser, a small video feed shows a man with short dark hair wearing a dark shirt. As the video progresses, the mouse cursor moves across the screen, highlighting and selecting different elements within the causal loop diagram and the legend."
+}

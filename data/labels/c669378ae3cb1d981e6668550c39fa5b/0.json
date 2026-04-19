@@ -1,0 +1,15 @@
+{
+  "video_id": "c669378ae3cb1d981e6668550c39fa5b",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.413,
+    1.239,
+    2.065,
+    2.89
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up view of a vehicle's instrument cluster. The dashboard features several analog gauges, including a tachometer on the left and a speedometer on the right. Visible text on the panel includes \"UNLEADED FUEL ONLY\" at the top and \"DOOR AJAR\" on the right side. A small digital screen displays various indicators and numerical data. To the right of the digital screen, a gauge is labeled \"PRESS PSI\" and \"KPH.\" The lighting is dim, and a white object, possibly a piece of clothing or a cloth, partially obscures the bottom left of the view. As the sequence progresses, the camera remains mostly stationary, but there are slight shifts in angle and lighting, creating minor reflections on the plastic cover of the dashboard. No people are visible in the frames, only the static mechanical components of the car's interior."
+}

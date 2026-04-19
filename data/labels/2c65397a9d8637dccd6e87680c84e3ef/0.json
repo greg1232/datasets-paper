@@ -1,0 +1,15 @@
+{
+  "video_id": "2c65397a9d8637dccd6e87680c84e3ef",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-348.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.696,
+    2.088,
+    3.479,
+    4.871
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a white certificate with gold trim and black text that reads \"CONGRATULATIONS,\" \"You have just received an Oversized Cut Signature Box Topper of Kirby Puckett Minnesota Twins - Outfielder from 2021 Topps Transcendent Collection - Hall of Fame Edition.\" The certificate further states, \"TOPPS CERTIFIES THE AUTHENTICITY OF THE CUT SIGNATURE FOUND IN THIS CARD.\" The scene is viewed through a screen, which displays a \"JASPYS CASEBREAKS.COM\" logo in the top right and a smaller \"JASPYS\" logo in the bottom right. A man wearing a purple shirt sits in a home office environment with a desk and computer equipment visible in the background, appearing in a picture-in-picture window on the right side of the screen. Across the sequence of frames, the hand holding the certificate shifts slightly, and the man in the window maintains a steady posture, looking toward the camera."
+}

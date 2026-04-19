@@ -1,0 +1,15 @@
+{
+  "video_id": "e53b90c0a6ce14ed72177464383b8126",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-786.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.172,
+    0.516,
+    0.86,
+    1.204
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark green t-shirt, a black baseball cap, and black over-ear headphones speaks into a black microphone. His t-shirt features white text that reads \"I CAN NEVER DO SHIT AT WORK\". He is positioned in a room that appears to be a studio or retail space, with a white male mannequin wearing a white shirt in the background, along with clothing racks and several framed pictures on the wall. Two logos are visible on the screen: a circular black and white logo on the left and a red and white logo on the right that reads \"REALLY FLY DOT\". Throughout the sequence, the man shifts his facial expression and head position, moving from a neutral look to a slightly skeptical or questioning expression, tilting his head back and to the side while continuing to face the microphone."
+}

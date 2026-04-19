@@ -1,0 +1,15 @@
+{
+  "video_id": "41b66d70ecb5d881b1ccf1e706bfc83b",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.462,
+    0.771,
+    1.079
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with short blond hair wearing a grey shirt is seen in a small picture-in-picture overlay at the bottom of a video game menu. The screen displays a player profile for \"TROY POLAMALU,\" who is a \"SS\" with an overall rating of \"96.\" The interface shows various statistics and attributes, including \"5'10\"\", \"207\", and \"97\", alongside a picture of the athlete in a black and white football uniform. The top of the screen features numbers such as \"173,037\", \"14,609\", and \"2,343,543\". Menu tabs for \"HOME\", \"ATTRIBUTES\", and \"UPGRADES\" are visible. Across the sequence, the person in the overlay changes their expression; they transition from a neutral look to a wide smile with an open mouth, and then back to a more neutral, serious expression. The game interface and the background elements, including a decorated Christmas tree, remain static."
+}

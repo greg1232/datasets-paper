@@ -1,0 +1,15 @@
+{
+  "video_id": "fc13a6e1773d38d07dea3c2e76990d73",
+  "url": "./data/segments/3P1vSUbet40-Scene-0861.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.126,
+    1.877,
+    2.628
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a recording studio for a podcast, wearing a black t-shirt that says \"CHECK IT MAN,\" a black baseball cap, gold jewelry, and over-ear headphones. He sits behind a professional microphone, facing slightly to the right. In the background, a white wall features gold stars and the repeated text \"HUSTLE,\" while a screen displays the logo \"BOSS TALK 101.\" A red and white overlay logo in the lower corners reads \"BOSS TALK 101 PODCAST.\" Throughout the sequence, the man adjusts his headphones, moving his hands from the sides of the earcups toward the top of his head and then back down. His facial expression remains relatively neutral as he focuses on the adjustment. The camera remains stationary, capturing the man from the waist up as he prepares himself for the recording session."
+}

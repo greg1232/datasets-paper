@@ -1,0 +1,15 @@
+{
+  "video_id": "93fbeb85ee20c3a38bbc0cde93a3a5c4",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-207.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.304,
+    0.913,
+    1.522,
+    2.131
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a cinematic scene set within a curved architectural opening that overlooks a starry night sky and a rocky cliffside. In the foreground, a blue banner displays the name \"Basil Chapman\" above the text \"The Tiger Technicians Hour | June 8th, 2022\". Centered in the sky, the words \"PREDICT FUTURE\" are displayed in white, bold, capital letters. As the clip progresses, white question marks appear and multiply above the phrase \"PREDICT FUTURE\". In the first frame, the text is partially obscured on the right. By the second frame, two large question marks and one smaller one appear. In the final two frames, the visuals remain static, showing three white question marks floating above the \"PREDICT FUTURE\" text against the backdrop of the celestial sky and the dark silhouette of the surrounding structure."
+}

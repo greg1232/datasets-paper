@@ -1,0 +1,15 @@
+{
+  "video_id": "ae8ec9e45bfbebd3e3b7bc9766f9c98e",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-132.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.962,
+    23.886,
+    39.811,
+    55.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The image consists of four screenshots of financial stock charts. The top half shows a chart for \"Golden-Ocean Dry-Bulk shipping\" with green and red candlestick price action, moving average lines, and a MACD indicator at the bottom. The bottom half shows various charts, including one for \"Nordic American Tanker Shipping\" and another for \"Genko Shipping & Trading.\" Each chart contains technical analysis overlays, such as trend lines and alphabetical labels like \"A,\" \"B,\" \"C,\" \"D,\" and \"E\" marking specific price points. The interface includes detailed data readouts in the margins, such as \"MACD(12,26,9,1.1,UpColorDefault...)\" and \"Stochastic Slow.\" The scene changes as the viewer scrolls or switches between different shipping company tickers, shifting the visible price movements and technical indicators while maintaining the same software interface and dark-themed background."
+}

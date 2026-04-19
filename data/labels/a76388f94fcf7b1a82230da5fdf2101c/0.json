@@ -1,0 +1,15 @@
+{
+  "video_id": "a76388f94fcf7b1a82230da5fdf2101c",
+  "url": "./data/segments/3E6ctN22V7k-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.29,
+    0.87,
+    1.45,
+    2.03
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with graying hair and glasses, wearing a white and gray zip-up jacket, is speaking in an indoor setting that appears to be a workshop or storage area with wooden walls and shelves. In the first frame, he looks toward someone off-screen to his left, raising his right hand with a finger pointed upward. In the second frame, he brings his finger closer to his face, nearly touching his nose. By the third and fourth frames, he gestures more broadly with his right arm, pointing toward the right side of the frame while continuing to speak. Across all four frames, the white on-screen text reads, \"That is why the approach of Libraries Without Borders moved me so much.\" The background remains consistent throughout, showing various blurred objects and equipment on shelving units."
+}

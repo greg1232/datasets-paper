@@ -1,0 +1,15 @@
+{
+  "video_id": "15db8b67fe5e32720e620c2e54325910",
+  "url": "./data/segments/3Z229_lKLpk-Scene-125.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.225,
+    0.675,
+    1.125,
+    1.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, formal assembly hall is filled with a crowd of people seated in tiered rows facing a front platform. The room features an ornate, geometric coffered ceiling with recessed circular lighting and light-colored walls. On the front wall, a large light-blue textured panel is flanked by two digital screens displaying a blue-toned image of another assembly. A podium sits centered before the panel. The attendees are dressed in a variety of colorful attire, including traditional garments and business wear, and are seen sitting and listening. Throughout the sequence, the scene remains static with very little movement; the people remain in their seats, and the visuals on the screens and the overall lighting of the hall do not change. No legible on-screen text or logos are visible in the frames."
+}

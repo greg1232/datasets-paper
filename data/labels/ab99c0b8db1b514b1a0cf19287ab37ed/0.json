@@ -1,0 +1,15 @@
+{
+  "video_id": "ab99c0b8db1b514b1a0cf19287ab37ed",
+  "url": "./data/segments/3JYDT8lap5U-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.28,
+    3.84,
+    6.4,
+    8.96
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard, wearing a white shirt and a dark blazer, stands on a stage delivering a presentation. To his left is a large projection screen displaying a presentation slide. The slide is titled \"INDUSTRIAL MACHINE LEARNING\" and features the subtitle \"HORIZONTALLY SCALABLE DATA PIPELINES WITH AIRFLOW\". The text lists various roles and organizations, including \"CTO Exponential Technologies\", \"Chairman The Institute for Ethical AI & ML\", \"Member, Bruidor AI Expert Group European Commission\", and \"Advisory group Teisina46\", followed by the name \"Alejandro Saucedo\" and the contact information \"CONTACT ME AT: A@E-X.10\". A smaller image of the presenter is also embedded on the slide. At the bottom of the screen, the \"europython\" logo and the text \"Edinburgh 23 29 July 2018\" are visible. As the sequence progresses, the man remains in the same position, gesturing with his hand while speaking."
+}

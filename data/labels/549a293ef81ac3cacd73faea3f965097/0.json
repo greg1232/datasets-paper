@@ -1,0 +1,15 @@
+{
+  "video_id": "549a293ef81ac3cacd73faea3f965097",
+  "url": "./data/segments/3E6ctN22V7k-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.385,
+    1.155,
+    1.925,
+    2.695
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A vast, open landscape under a heavy, overcast sky serves as the setting, featuring a distant line of low mountains and several white, tent-like structures scattered across the terrain. In the first frame, white text is overlaid on the screen, stating, \"it crushes us down where anxiety triumphs over our hopes.\" Small figures of people are dispersed across the grassy and dirt ground; one individual wears a bright yellow shirt and walks toward the right. As the sequence progresses, the on-screen text disappears. The people continue to move slowly across the field, with more figures becoming visible in the distance near the white structures. The camera remains stationary, capturing the bleak atmosphere as the people traverse the expanse under the grey clouds, with no significant change in the environment or equipment present."
+}

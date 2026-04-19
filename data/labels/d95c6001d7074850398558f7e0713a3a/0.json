@@ -1,0 +1,15 @@
+{
+  "video_id": "d95c6001d7074850398558f7e0713a3a",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    13.59,
+    40.77,
+    67.95,
+    95.13
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This video clip displays a presentation slide for a course on \"CRYOGENIC ENGINEERING\" taught by \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" Each frame features a header titled \"Tutorial \u2013 1\" followed by a problem statement: \"Determine the liquid yield for a Linde \u2013 Hampson cycle with air as working fluid when the system is operated between 1.013 bar (1 atm) and 202.6 bar (200 atm) at 300 K. The effectiveness of HX is 100%, 95%, 90% and 85%. Comment on the results.\" An NPTEL logo is visible in the bottom left corner of each frame. The content remains static across the first three frames. In the final frame, a T-s diagram is introduced on the right side of the slide, accompanied by the text, \"The T \u2013 s diagram of Linde \u2013 Hampson system if assumed the heat exchanger to be 100% effective is as shown.\""
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6f88a539f11949cad7ba49a9b6e9f0d2",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.388,
+    7.163,
+    11.938,
+    16.713
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video presentation focuses on a white screen displaying information about \"Logging in Kubernetes Workflow.\" Below this heading, the text \"The simple message...\" is visible. Further down the screen, a log entry is displayed in a light gray box, reading: `\"78.170.117.242 - - [19/Nov/2020:22:06:45 +0000] \\\"GET /go HTTP/1.0\\\" 200 2216\\n\"`. In the top right corner of the screen, a small circular inset shows a woman with glasses and a light-colored top, appearing as the presenter. Across the sequence of frames, the content on the screen remains entirely static, with no changes to the text or the layout. The presenter in the inset remains visible, maintaining a consistent appearance throughout the clip."
+}

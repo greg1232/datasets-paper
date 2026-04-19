@@ -1,0 +1,15 @@
+{
+  "video_id": "cf46d4fcaaef02579a8d5071ef01384a",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-126.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.868,
+    2.603,
+    4.338,
+    6.073
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a white collared shirt, a black vest, and a decorative red and white necklace, performs music in front of an audience. He stands behind a microphone on a stand, playing an acoustic guitar and singing. In the foreground, the backs of several people's heads are visible, including individuals with brown and white hair. The setting features a backdrop of light-brown horizontal wooden panels. The text \"ORCA\" is displayed in white letters on a purple background in the lower right area of the scene. Across the sequence, the man continues his performance, slightly shifting his posture and moving his right hand as he strums the guitar. The audience remains stationary, facing the performer throughout the clip."
+}

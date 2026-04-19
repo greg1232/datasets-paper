@@ -1,0 +1,15 @@
+{
+  "video_id": "49ab55cff3df63a9c38103b67d37e792",
+  "url": "./data/segments/3Kxl1O310k8-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.6,
+    1.0,
+    1.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of video call windows shows three different men. One man, wearing glasses and a plaid shirt, is in a room with beige walls and a framed picture. Another man, also wearing glasses, wears a black shirt and is positioned in a room with a light blue door. A third man, wearing glasses and a black shirt, is in a room with a light-colored wall. The men remain mostly stationary, staring forward into their respective cameras. The layout of the video call windows shifts throughout the sequence, with the participants appearing and disappearing or changing positions on the screen. Small, white, illegible timestamps are visible in the bottom corners of some of the video feeds. No other objects or text are present, and there are no interactions between the individuals."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2d299320b761210234297837fe33b22e",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.462,
+    0.771,
+    1.079
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large white airplane sits on a snowy runway under a grey, overcast sky. The aircraft features a red and blue stripe along its fuselage and the text \"\u0418\u043b-96\" next to a red circular logo containing the number \"13\". A small white ground service vehicle, marked with the number \"726\" in multiple locations, is positioned underneath the plane's wing and fuselage. In the background, other aircraft and airport equipment are visible through the haze of snow. One person wearing dark clothing is standing near the ground vehicle, appearing to perform a task. Across the sequence of frames, the scene remains nearly static, with only minute movements of the individual on the ground and subtle shifts in the falling snow, maintaining a consistent view of the aircraft's undercarriage and the surrounding winter environment."
+}

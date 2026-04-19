@@ -1,0 +1,15 @@
+{
+  "video_id": "568e08ed5b272aec15a0cc8eec93403b",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-126.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.443,
+    1.329,
+    2.216,
+    3.102
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a dark green t-shirt with white text that reads \"ICON NEVIZO\" and \"S17\" is speaking into a professional microphone. He is seated in a room decorated with various framed photographs on the wall and a white mannequin wearing a white garment in the background. A red plastic cup sits on a surface to his left. The man gestures with his right hand as he speaks, moving his arm slightly across the frames. Two logos are visible on the screen: a circular logo on the left containing the text \"TOWN\" and a red logo on the right that reads \"TOWN TALK\". Throughout the sequence, the man remains in the same position, continuing to talk while his facial expressions and hand gestures shift slightly as he delivers his message."
+}

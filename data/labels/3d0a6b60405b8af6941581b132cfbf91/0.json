@@ -1,0 +1,15 @@
+{
+  "video_id": "3d0a6b60405b8af6941581b132cfbf91",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-190.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A webpage for \"Basil Chapman\" and \"The Tiger Technicians Hour | June 8th, 2022\" is displayed, featuring a blue and white color scheme. The top of the page includes a navigation bar with links for \"HOME,\" \"TIGER TV,\" \"NEWSLETTERS,\" \"SERVICES,\" \"ABOUT,\" and \"ADVERTISING.\" A schedule of live programming is listed, including shows such as \"The Morning Market Kickoff with Tommy O'Brien,\" \"Trade What You See with Larry Pesavento,\" and \"The Power Trading Hour with David White.\" The text \"CALL IN LIVE ON-AIR TOLL FREE 877-927-6648 INTERNATIONALLY 727-873-7618\" is visible at the top of the first frame. As the sequence progresses, the page scrolls downward, revealing an advertisement for Ameritrade that states, \"Our tools, third-party research, and screeners can help find the right ETFs for you.\" The final frame shows the text \"TFNN Show Archive Channels Below\" above a banner for Basil Chapman."
+}

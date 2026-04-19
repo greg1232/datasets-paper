@@ -1,0 +1,15 @@
+{
+  "video_id": "806c516ee87abc0fcc6f5f2c849e88d1",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-903.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.109,
+    0.328,
+    0.547,
+    0.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark, curly hair styled in a bun and braids wears a dark green t-shirt with a red graphic on the chest. She is seated in a recording studio, wearing over-the-ear headphones and speaking into a professional black microphone mounted on a boom arm. Behind her is a black banner featuring white and red text that includes \"ESS TALK 101\", \"It's A Unique Hustle\", \"OCAST\", and \"About It!\". To the left, a framed picture hangs on a white wall, showing a person's hands. On the table in front of her are small items, including a branded object with the text \"BOT TALK 101\". Across the sequence, the woman remains in the same position, slightly shifting her facial expression and head tilt as she speaks, while the camera angle and background remain static."
+}

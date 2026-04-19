@@ -1,0 +1,15 @@
+{
+  "video_id": "71d00fab024979938649941f5fd7619e",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-172.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.459,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair and glasses stands behind a wooden lectern, delivering a speech in an indoor setting. He wears a blue patterned shirt with yellow and green accents and a necklace. A black microphone is positioned in front of him. The lectern features a logo with the text \"Killage Mountain LIBRARY\". In the background, there are light-brown horizontal blinds. The word \"ORCA\" appears as a white watermark on the right side of the scene. The man remains in a similar position across the sequence, though his facial expressions shift slightly as he speaks and he looks down toward the lectern. The heads of a few audience members are partially visible in the foreground, flanking the speaker. The scene remains static in terms of location and composition, focusing on the man as he addresses the room."
+}

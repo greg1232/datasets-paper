@@ -1,0 +1,15 @@
+{
+  "video_id": "b28d66c137202aed96d03ab148651029",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.475,
+    10.425,
+    17.375,
+    24.325
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast screen features a man appearing via a remote video call. He is wearing glasses and a traditional red cap, set against a background of green foliage. A blue and purple graphic overlay frames the video feed, displaying the \"plustv\" logo in the upper left. The text \"ON THE PHONE\" appears at the top, followed by the name \"OLUSOLA OYEKANMI\" and his title \"POLITICAL ANALYST.\" Below this, the location \"LAGOS\" is highlighted in a light blue box. A white banner at the bottom contains the text \"PLUS POLITICS\" followed by the headline \"NIGERIA NEEDS ME \u2013 BOLA TINUBU.\" The lower edge of the screen provides social media handles and links, including \"FOLLOW US,\" \"WATCH ONLINE,\" \"WWW.PLUSTVAFRICA.COM/LIVE-TV,\" and \"WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE.\" Across the sequence, the man remains relatively still, while the lower information bar transitions from social media links to website URLs."
+}

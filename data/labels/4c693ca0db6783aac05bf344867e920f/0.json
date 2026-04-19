@@ -1,0 +1,15 @@
+{
+  "video_id": "4c693ca0db6783aac05bf344867e920f",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-351.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.265,
+    0.794,
+    1.323,
+    1.852
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair and glasses, wearing a dark blue t-shirt, is seen in a small picture-in-picture window against a backdrop featuring a Christmas tree and a blue wall. In the first two frames, he is overlaid on a purple-themed video game menu titled \"HALFTIME ADJUSTMENTS: DEFENSE\" with a countdown timer moving from \":27\" to \":26\". The menu lists \"SUPERSTAR ABILITIES\" and \"ACTIVE SUPERSTARS,\" including names like \"MONTEZ SWEAT\" and \"DEXTER LAWRENCE II\". The third frame transitions to a \"HALFTIME: WAITING ROOM\" screen with a countdown timer of \":26\" and checkboxes for \"HOME\" and \"AWAY\" both marked \"READY\". In the final frame, the scene shifts to a wide shot of an American football field where players in white and black uniforms are gathered on the sidelines, while one player in a black jersey numbered \"89\" stands on the green grass."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "44f0ab5faaf838280becb2610d2d86dc",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-202.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark baseball cap and a dark shirt is seen in a small video call window in the upper right corner of a screen. The main area of the display is a black background featuring the green text, \"What's the real problem?\". The browser interface is visible at the top, showing multiple open tabs including ones titled \"Trial & Learning by Systems\", \"Moments, by Systemthinking\", \"Future of Society, by Systems\", and \"Rural Community Feed System\". A small cursor is visible on the black screen. As the video progresses, the person in the video call window shifts slightly and speaks, though their expression remains relatively neutral. The layout of the screen, including the browser tabs, the green on-screen text, and the positioned video window, remains consistent throughout the clip."
+}

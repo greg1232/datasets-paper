@@ -1,0 +1,15 @@
+{
+  "video_id": "15eaab92312c2f1043fc6c5147ee56fb",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.529,
+    1.587,
+    2.646,
+    3.704
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person\u2019s hand holds up a sports trading card featuring a baseball player in a white jersey, which is signed with the name \"Rod Carew.\" The card is numbered \"07/29\" and has the name \"ROD CAREW\" printed at the bottom. In the background, a man wearing a dark blue t-shirt sits in front of a computer setup. The scene is overlaid with branding that includes the text \"JASPYS\" and \"CASEBREAKS.COM.\" A small inset video shows the man speaking. Below the main action, a colorful surface features green palm tree silhouettes. As the sequence progresses, the hand removes the trading card from view, revealing a stack of three small, rectangular boxes\u2014two white and one yellow\u2014sitting on the table. The man in the inset video remains visible, and the \"JASPYS\" and \"CASEBREAKS.COM\" logos persist throughout the frames."
+}

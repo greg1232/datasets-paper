@@ -1,0 +1,15 @@
+{
+  "video_id": "ef48fe041f68d6a11964211e5e29a402",
+  "url": "./data/segments/3QD9oO6sRns-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.583,
+    1.75,
+    2.917,
+    4.083
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a silver and green Sharpie marker over a collection of trading card boxes. The setting is an indoor space featuring a black surface adorned with a large red, white, and black logo that reads \"CASPYS CASEBREAKS\". Stacked in the background are multiple boxes of trading cards with \"CLEARLY AUTHENTIC\" printed in white and green text. A small inset video in the lower right corner of each frame shows a man wearing a black baseball cap and a black t-shirt sitting in a chair. In the top frames, the hand moves the marker slightly to the right. In the bottom frames, the marker is removed from view, and the hand is no longer visible. Additionally, a small logo in the center-right of the frames contains the text \"CASEBREAKS.com\"."
+}

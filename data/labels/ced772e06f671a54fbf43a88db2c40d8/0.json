@@ -1,0 +1,15 @@
+{
+  "video_id": "ced772e06f671a54fbf43a88db2c40d8",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    78.003,
+    234.009,
+    390.015,
+    546.02
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A meeting of the \"House Committee on General, Housing, and Military Affairs\" takes place in a room with wooden walls and paneling. Several people are seated together; a woman in a red jacket leans her head on her hand, another woman wears a white cardigan over a dark top, and several men are dressed in suits and ties. In the foreground, a man with glasses and a dark suit looks downward. An on-screen graphic includes the \"ORCA\" logo and the text \"April 12, 2019\" above \"House Committee on General, Housing, and Military Affairs\" and \"S.23 Increasing the Minimum Wage\" on a green banner. A water bottle and a small orange object are visible on a table in the background. Throughout the sequence, the people remain mostly stationary, though the man in the foreground shifts his gaze and posture slightly while the woman in the red jacket adjusts her position."
+}

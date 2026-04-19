@@ -1,0 +1,15 @@
+{
+  "video_id": "c5cdcb76c8e3fbd013a65c9f351b5621",
+  "url": "./data/segments/3VCwl-aQ_oQ-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.958,
+    2.875,
+    4.792,
+    6.708
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser open to a \"True Random Number Service\" page from RANDOM.ORG. The page features a \"List Randomizer\" result with a numbered list of names, including \"1. Ron Wester,\" \"2. Ron Wester,\" and \"3. Ron Wester*.\" On-screen text includes an advisory stating, \"We only operate services from the RANDOM.ORG domain. Other sites that claim to be operated by us are imposters.\" A sidebar shows a chat message from \"nightbot\" stating, \"I think if you are a team signing Ohtani, you are going all in on everyone you can,\" alongside a link for a \"BREAK SCHEDULE, SHIPPING INFO and MORE >>>.\" The bottom of the browser contains a banner for \"CASEBREAKS.COM\" featuring a red and white logo. As the sequence progresses, the \"You have randomized this list\" counter increases from \"2 times\" to \"5 times\" and finally to \"10 times.\""
+}

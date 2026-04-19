@@ -1,0 +1,15 @@
+{
+  "video_id": "6d99dd7d109cef2b9335e05faf344c26",
+  "url": "./data/segments/3HgCF6yVXko-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.5,
+    2.5,
+    3.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of shots captures a view from a doorway into a brightly lit bathroom. A wooden door frame is visible on the left side of the scene. Inside the bathroom, a white, rounded vessel sink sits atop a wooden vanity, paired with a modern chrome faucet. Behind the sink, the wall is decorated with light-colored square tiles, and a black-framed mirror hangs above. Through the open doorway in the background, a glimpse of another room is visible, showing a white radiator and a small piece of furniture. The camera maintains a steady position, and no people are present. The frames show a slight shift in perspective and focus, moving slightly closer to the sink and vanity area as the sequence progresses, emphasizing the clean, modern interior design of the space."
+}

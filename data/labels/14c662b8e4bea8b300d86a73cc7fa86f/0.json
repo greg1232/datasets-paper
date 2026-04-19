@@ -1,0 +1,15 @@
+{
+  "video_id": "14c662b8e4bea8b300d86a73cc7fa86f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser open to a virtual whiteboard or mind-mapping tool. The interface features a dark background with several circular nodes connected by lines. One prominent node contains a small image of a turtle and is labeled with the text \"All Viscous Boundaries\". A red arrow curves from a smaller node toward this turtle node, and another arrow leads away toward a node labeled \"Hot water cooler\". At the top of the browser, multiple tabs are open, with titles including \"True Learning by Symmetry!\", \"Future of Society by Symmetry!\", and \"Insights into Introduction to Kumu\". In the upper right corner of the browser window, a small video inset shows a man with dark hair wearing a blue shirt and headphones, looking toward the screen. The scene remains static across the sequence, with no visible movement or changes in the content displayed on the screen."
+}

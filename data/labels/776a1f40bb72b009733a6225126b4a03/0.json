@@ -1,0 +1,15 @@
+{
+  "video_id": "776a1f40bb72b009733a6225126b4a03",
+  "url": "./data/segments/3a0FD1177FA-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's arms and hands are visible as they use a paper trimmer on a white wooden tabletop. The person is wearing a blue and white patterned sleeve and a white watch on their left wrist. They are holding a piece of patterned paper with green, yellow, and white floral or leaf motifs against a grey paper trimmer. The person's right hand operates the sliding cutting mechanism. Scattered on the table are several stamps and ink pads, including one ink pad labeled \"MEMENTO\" and a stamp that reads \"Thank You\". A small logo in the lower left corner says \"The Shabby\". Across the sequence, the person holds the patterned paper steady with their left hand while sliding the cutting blade across the top edge of the paper with their right hand to make a precise cut."
+}

@@ -1,0 +1,13 @@
+{
+  "video_id": "b09ab5409a67ae62be6d526111099da7",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-072.mp4",
+  "n_frames": 2,
+  "frame_timestamps": [
+    0.008,
+    0.025
+  ],
+  "grid_layout": "1x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The provided image consists of two frames that are almost entirely black, making it impossible to discern a setting, location, people, or objects. There are very faint, illegible markings in the center of each frame that appear to be remnants of text or graphics, but they are too obscured by the darkness to be read or identified. No clothing, actions, interactions, or specific equipment are visible. Consequently, there are no identifiable changes between the frames, and no legible on-screen text or logos can be quoted. The scene remains a dark, featureless void across both samples."
+}

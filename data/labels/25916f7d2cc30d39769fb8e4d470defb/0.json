@@ -1,0 +1,15 @@
+{
+  "video_id": "25916f7d2cc30d39769fb8e4d470defb",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.6,
+    1.8,
+    3.0,
+    4.2
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark shirt is seen in a small, cluttered room filled with sports cards and equipment, appearing in a small inset window. In the foreground, several boxes of \"OBSIDIAN\" basketball trading cards are stacked on a red surface featuring a large orange logo. One box is prominently displayed in the center, featuring a basketball player and the text \"ROOKIE JERSEY AUTOGRAPHS\" along the bottom edge. The text \"LOOK FOR\" and \"TO XX\" are also visible on the box. A website address, \"JASPYSCASEBREAKS.com\", is displayed on the surface next to the boxes. As the sequence progresses, the person in the inset window shifts their position slightly, while the arrangement of the trading card boxes and the surrounding environment remains static."
+}

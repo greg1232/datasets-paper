@@ -1,0 +1,15 @@
+{
+  "video_id": "94acb8c67bac0f2a5ac03fb1d1a80b55",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.709,
+    0.993
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical or educational setting, several people are gathered for a session. In the foreground, a person wearing a maroon and white baseball cap with \"PROTECT THE HOUSE\" printed on the back of their black hoodie faces away from the camera. Facing them is a woman with glasses and a blue surgical mask, wearing a black top, who holds a white piece of paper and appears to be speaking or presenting. In the background, another person in a blue scrub top and a surgical mask sits and observes. To the right, the back of another person's head with brown hair is visible. The text \"Sim Week\" appears as a watermark across the center and bottom right of the scenes. Across the sequence, the individuals remain in their positions, with the woman in the black top continuing to hold the paper while interacting with the person in the baseball cap."
+}

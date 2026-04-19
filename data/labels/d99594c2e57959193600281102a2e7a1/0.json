@@ -1,0 +1,15 @@
+{
+  "video_id": "d99594c2e57959193600281102a2e7a1",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.23,
+    3.691,
+    6.152,
+    8.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a dimly lit, grainy environment that appears to be an outdoor or industrial setting at night. In the early part of the sequence, a ladder leans against a horizontal structure, possibly a platform or beam. A person wearing light-colored clothing stands near the base of the ladder. As the sequence progresses, the camera perspective shifts and the lighting changes, becoming more obscured and distorted. The view moves away from the ladder and the person, transitioning into a close-up, blurred shot of a textured, greyish ground or surface. The final segments of the video show only this out-of-focus ground, with the person and the equipment no longer visible. There is no legible text or logos present on the screen throughout the sequence."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "608aa5891ab2ae2645ae33f53c54dcc0",
+  "url": "./data/segments/3hLeTO8SC3U-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.312,
+    9.935,
+    16.558,
+    23.181
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a professional conference setting at the Javits Center in New York, NY, two men in dark suits and ties are seated at a table, engaged in a conversation. One man sits on the left, listening attentively, while the man on the right speaks and gestures with his hands. On the table between them is a laptop and some papers. The background shows a spacious hall with other attendees and green architectural accents. A banner across the bottom of the screen reads \"MONGODB WORLD 2022\", \"#MDW22 | #theCUBE\", and \"From the Javits Center, New York, NY\", along with \"theCUBE\" and \"Sponsored By MongoDB\" logos. As the sequence progresses, the man on the right continues to gesticulate while speaking, and a man in a blue shirt and jeans walks past in the background."
+}

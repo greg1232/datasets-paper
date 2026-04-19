@@ -1,0 +1,15 @@
+{
+  "video_id": "ff3a78d9b692f4c51ef137fcb2e771e7",
+  "url": "./data/segments/3fokLGPK15Q-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.0,
+    3.0,
+    5.0,
+    7.0
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This video clip consists of static graphic screens featuring text against a stylized, glowing circular background with red, orange, and yellow gradients. The top portion of the scene displays the name \"RICH WONG\" in large, gold-colored capital letters, with the title \"GENERAL PARTNER AT ACCEL\" written in smaller capital letters directly beneath it. Simultaneously, the bottom portion of the screen displays the name \"KATI LEVORANTA\" in large, gold-colored capital letters, with the title \"CEO OF ROVIO\" written in smaller capital letters below. The layout is symmetrical, with the two sets of text centered within their respective colored circles. There is no visible movement, change in text, or shift in the background colors across the frames, resulting in a consistent and stationary visual presentation of these two individuals' names and professional titles."
+}

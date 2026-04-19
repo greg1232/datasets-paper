@@ -1,0 +1,15 @@
+{
+  "video_id": "56e6b00dbf7a2e892501b856f22371b9",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-262.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.36,
+    1.081,
+    1.802,
+    2.523
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a graded trading card encased in a clear plastic slab, tilting it to show the gold-bordered card inside. The setting appears to be a professional setup for card breaking, featuring a desk with a palm tree-patterned mat and a smaller inset video feed showing a man with a beard wearing a dark blue shirt sitting in front of a computer monitor. The logo \"JASPYS\" and the website \"CASEBREAKS.COM\" are prominently displayed in red and white text in the upper right of the main view and within the inset. As the sequence progresses, the person shifts the angle of the slab, causing light to reflect off the surface and partially obscuring the text on the card, which reads \"Hall Of Fame\". The man in the inset remains seated and observes the process as the card is presented to the camera."
+}

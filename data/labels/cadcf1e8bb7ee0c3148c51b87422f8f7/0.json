@@ -1,0 +1,15 @@
+{
+  "video_id": "cadcf1e8bb7ee0c3148c51b87422f8f7",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A small audience sits in a wood-paneled room, facing a man standing at a podium who is delivering a presentation. The speaker wears a dark vest over a light-colored shirt and glasses. The audience consists of several people seen from behind, including a man in a plaid shirt, a woman in a colorful blue, red, and white garment, and others in casual attire. The room features brown blinds covering the back wall and red accent walls on the sides. A black speaker and a podium are visible on the left. In the bottom right corner of each frame, a white rectangular box contains the text \"ORCA\". Across the frames, the scene remains relatively static, with subtle movements as the speaker talks and the audience listens. The perspective is a steady wide shot from the back of the room, capturing the formal yet intimate setting of the talk."
+}

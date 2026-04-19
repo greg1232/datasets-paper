@@ -1,0 +1,15 @@
+{
+  "video_id": "b87289f0d3a38e67494e1cd4a89b7f0d",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-193.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.071,
+    3.213,
+    5.354,
+    7.496
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair and glasses wears a dark blue patterned shirt and white headphones while speaking into a microphone in a room with a monitor in the background. The monitor displays a blue screen with the number \"20\" visible. To the left of the man, a stylized blue and purple circular graphic is overlaid on the screen. Text at the top left of the frame reads \"Jew Llama's Hanukkah Miracle \ud83e\udeac\". As the sequence progresses, the overlay text changes from \"1x Overall Transfer..!\" to \"Race Jackpot!\" and then back to \"1x Overall Transfer...\" before finally reading \"Height Jackpot!\". Throughout the clip, the man maintains a similar position, though his facial expressions shift from a slight smile to a more neutral, concentrated look and then to an open-mouthed expression of surprise or excitement."
+}

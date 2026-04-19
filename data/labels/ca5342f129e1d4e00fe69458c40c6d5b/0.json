@@ -1,0 +1,15 @@
+{
+  "video_id": "ca5342f129e1d4e00fe69458c40c6d5b",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-182.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.856,
+    17.568,
+    29.279,
+    40.991
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and short grey hair, wearing a blue button-down shirt with a colorful design on the chest and a green lanyard, stands behind a brown wooden podium. He is delivering a presentation in a room with tan vertical blinds in the background. He gestures with his right hand as he speaks, lifting it slightly in the second frame before lowering it again. The podium features a red and white logo with the word \"ORCA\" written beneath it. In the foreground, the backs of the heads of several audience members are visible, including individuals with grey and brown hair. A white text box containing the word \"ORCA\" is overlaid on the right side of the scene. The lighting is consistent across the sequence, and the camera angle remains stationary as the man speaks to the seated crowd."
+}

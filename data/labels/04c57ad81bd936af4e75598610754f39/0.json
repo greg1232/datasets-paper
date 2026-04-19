@@ -1,0 +1,15 @@
+{
+  "video_id": "04c57ad81bd936af4e75598610754f39",
+  "url": "./data/segments/3Smz5pevbI4-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    15.632,
+    46.897,
+    78.161,
+    109.426
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a series of slides appearing against a white background. In the first frame, an image of a brown, wrinkled creature resembling a grotesque figure or an alien is visible in the upper left corner. The second frame adds the word \"Susceptibility\" in the center top, along with a brain scan image labeled \"1\" and \"ExP-\", attributed to \"Gibertson et al., 2002\". The third and fourth frames maintain these elements while introducing a section titled \"Treatment Responsiveness\" below. This new section features two more brain scans. The left scan is labeled \"Non responder < Tx responder amygdala,\" and the right scan is labeled \"Non responder < Tx responder ACC,\" with both attributed to \"Bryant et al., 2008\". The frames show the gradual layering of medical data and text onto the screen next to the creature image."
+}

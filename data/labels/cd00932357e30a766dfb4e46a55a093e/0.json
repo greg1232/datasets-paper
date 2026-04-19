@@ -1,0 +1,15 @@
+{
+  "video_id": "cd00932357e30a766dfb4e46a55a093e",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.204,
+    0.612,
+    1.021,
+    1.429
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man dressed in a blue long-sleeved shirt and matching blue trousers performs a martial arts routine with a long wooden staff in an indoor ballroom setting. He is positioned on a blue carpeted floor, with a seated audience watching from the background. The room features tan walls, recessed ceiling lighting, and ornate chandeliers. In the initial sequence, the man holds the staff diagonally across his body, shifting his weight forward. As the action progresses, he swings the staff in a wide arc, extending his arm fully to propel the weapon outward. By the final stages of the sequence, he pivots his body and steps backward, maintaining his grip on the staff as he completes a sweeping motion. The audience remains seated and observant throughout the performance, while the background environment remains static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "23db5a1ee2e20c8713520f3e5364e701",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-273.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.312,
+    0.521,
+    0.729
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played on a green grass field under bright stadium lights, with players wearing dark jerseys and white helmets facing off against players in white jerseys. In the foreground of each scene, a small inset window displays a man with blonde hair wearing a dark navy t-shirt. The game interface at the top of the screen shows the team logos for the Atlanta Falcons and another team, along with text including \"1st & 10\" and a clock reading \"1:25 27 :09\" in the initial stages, which later changes to \"1:24 27 :09\". As the action progresses, the player with the ball advances forward, weaving through the opposing defense. Other players engage in blocking and tackling maneuvers across the field. The background is filled with blurred crowds of spectators in the stands, while the man in the inset remains stationary, observing the gameplay."
+}

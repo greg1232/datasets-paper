@@ -1,0 +1,15 @@
+{
+  "video_id": "93f7711d238b1514bbff040d7fc5243d",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-174.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.681,
+    5.043,
+    8.404,
+    11.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with gray hair, wearing a black long-sleeved shirt, is captured in a medium close-up shot against a plain, light-colored wall. In the background, a small blue and white object rests on a surface. The text \"Tiger-TV\" is visible in the upper right corner of each scene. Throughout the sequence, the man is speaking, with his facial expressions and mouth movements shifting as he talks. He begins by looking slightly to the side, then turns his head to face the camera more directly. He maintains a steady position, with only his head and facial features moving as he articulates his words. The lighting remains consistent, and there are no other people or significant changes in the environment as the clip progresses."
+}

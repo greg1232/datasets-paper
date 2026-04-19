@@ -1,0 +1,15 @@
+{
+  "video_id": "4753e71707e3cb1ee642f2448d20c708",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-415.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.141,
+    0.422,
+    0.704,
+    0.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, over-ear headphones, and a green t-shirt with the text \"I CON NEVER Z\" and \"SMI\" printed in white sits in a room filled with framed photographs on the wall and a clothing rack in the background. A white mannequin stands beside him. He is positioned in front of a black professional microphone. In the beginning, he has his hand near his chin and is looking slightly off-camera with a thoughtful expression. As the sequence progresses, he begins to speak and smile, moving his hand away from his face. Two logos are visible on screen: one on the left containing the text \"THE\" and one on the right featuring the text \"THE REAL\" and \"TROT\". The background setting remains static while the man's facial expressions and posture shift slightly as he talks."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a8f9bcb547c3079554767d0e9cd623ba",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.338,
+    1.014,
+    1.689,
+    2.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static graphic on a black background. Centered in the frame is a white rectangular badge with rounded corners. Inside this badge, the text \"ORCA Media\" is displayed, with \"ORCA\" in black capital letters and \"Media\" in red. Below this, the phrase \"ONION RIVER COMMUNITY ACCESS\" appears in smaller black capital letters. Above the white badge, the word \"An\" is written in white, and below the badge, the word \"Presentation\" is written in white. The graphic remains completely unchanged across all frames, with no people, movement, or changes in lighting or positioning. The composition is identical from the first frame to the last, maintaining the same arrangement of text and logos against the solid black backdrop."
+}

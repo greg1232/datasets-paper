@@ -1,0 +1,15 @@
+{
+  "video_id": "0f39dcb8e0aaa24e7c2e2c36e3065fd1",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.51,
+    4.53,
+    7.549,
+    10.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair and glasses, wearing a black jacket, is seated at a desk during a government proceeding. He is viewed from the side and appears to be speaking. Behind him, another person in a dark jacket stands, with their hand visible near the top of the frame. On the desk, there is a silver thermal bottle, a box of tissues, and a laptop being operated by another person whose hands are visible on the right. A red tote bag with a cartoon character is resting on a surface in the background. A green banner across the lower portion of the scene displays the logo \"ORCA\" and the text \"April 12, 2019 House Committee on General, Housing, and Military Affairs S.23 Increasing the Minimum Wage\". Across the sequence, the man with grey hair remains in a similar position, speaking, while the person behind him shifts their hand slightly."
+}

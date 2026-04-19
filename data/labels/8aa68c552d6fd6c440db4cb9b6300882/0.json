@@ -1,0 +1,15 @@
+{
+  "video_id": "8aa68c552d6fd6c440db4cb9b6300882",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-103.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.321,
+    0.963,
+    1.604,
+    2.246
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black long-sleeved shirt is seated in a room with shelves and equipment in the background. He is positioned behind a table covered with a black and orange promotional mat that features the logo \"JASPYS CASEBREAKS.COM\" and the word \"JASPYS\" in a stylized orange font. On the table, there are several stacks of black boxes labeled \"OBSIDIAN.\" The man remains seated and relatively still throughout the sequence, looking toward the camera. The camera angle is a fixed medium shot that captures the man from the chest up, alongside the branded mat and products on the table. No significant movement or changes occur between the frames, as the man maintains his position and expression while the surrounding objects and on-screen text remain static."
+}

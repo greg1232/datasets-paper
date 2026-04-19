@@ -1,0 +1,15 @@
+{
+  "video_id": "2478ca65e63e76f677165598149fbf52",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    9.505,
+    28.516,
+    47.527,
+    66.537
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black hooded jacket over a grey shirt is positioned in a recording studio against a dark, vertically ribbed acoustic foam wall. He is wearing large black over-ear headphones and is speaking into a professional condenser microphone attached to a boom arm. Throughout the sequence, the man's facial expressions shift as he speaks; he begins with his eyes open, looks slightly upward and closes his eyes in the subsequent frames, and briefly raises his left hand with a ring on his finger in the second frame. The camera remains in a steady close-up shot, focusing on the man from the chest up. No on-screen text or logos are visible. The scene transitions smoothly as the man continues his delivery, with the lighting and background remaining constant."
+}

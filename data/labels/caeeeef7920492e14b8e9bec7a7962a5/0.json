@@ -1,0 +1,15 @@
+{
+  "video_id": "caeeeef7920492e14b8e9bec7a7962a5",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.563,
+    1.689,
+    2.815,
+    3.941
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey baseball cap with a circular logo, and black over-ear headphones is speaking into a professional microphone. The microphone is held by a black boom arm with the text \"BlueMicrophone Studio USB\" printed on the side. He is positioned in front of a dark grey wall consisting of sound-dampening acoustic panels. The man has a tattoo on his upper right arm and is gesturing with his right hand as he speaks. Across the sequence, his facial expression shifts from a neutral, focused look to a wide smile and open-mouthed laugh, while his head tilts slightly back. His posture remains consistent as he leans toward the microphone, maintaining a close distance throughout the brief interaction."
+}

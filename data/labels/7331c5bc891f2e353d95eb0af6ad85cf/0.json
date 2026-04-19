@@ -1,0 +1,15 @@
+{
+  "video_id": "7331c5bc891f2e353d95eb0af6ad85cf",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.538,
+    10.613,
+    17.688,
+    24.762
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short hair is seen in a small picture-in-picture window in the bottom left corner of a screen sharing a financial trading platform. He wears a dark shirt and speaks toward the camera. The main part of the screen displays a trading chart for the EURGBP currency pair, featuring a black candlestick graph with horizontal red and green support and resistance levels. The top left of the screen prominently displays the \"TICKMILL\" logo in red and black. German text is visible, including the phrase \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN\" and a list of features such as \"FIX API\" and \"Keine Requotes.\" Across the sequence, the man continues talking while a vertical cursor moves across the chart, and the price action updates slightly, shifting the candlestick pattern to the right as new data points are plotted on the timeline."
+}

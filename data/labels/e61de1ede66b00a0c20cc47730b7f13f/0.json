@@ -1,0 +1,15 @@
+{
+  "video_id": "e61de1ede66b00a0c20cc47730b7f13f",
+  "url": "./data/segments/3tXiKB90OM0-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.504,
+    4.512,
+    7.521,
+    10.529
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A line of personnel in dark uniforms stands at attention along the deck of a large gray ship against a clear sky. The ship's hull features a prominent gold anchor and the number \"44\" painted in a large, light-colored font. To the right, a white structure on the ship's upper deck displays the letters \"W.P.\" and a small blue and white flag flies from a mast on the left. The personnel remain stationary and facing forward throughout the sequence, maintaining their formation. There is very little movement between the frames, as the camera angle and the positions of the people and the ship's equipment remain consistent. The overall scene depicts a formal military or coast guard assembly on the bow of a vessel."
+}

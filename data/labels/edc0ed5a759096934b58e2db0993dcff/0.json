@@ -1,0 +1,15 @@
+{
+  "video_id": "edc0ed5a759096934b58e2db0993dcff",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.271,
+    0.813,
+    1.354,
+    1.896
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a bright setting, a person's hands are shown preparing food in a large gray bowl. The person is mixing a pale, textured substance that resembles grains or chopped nuts. To the right of the bowl, a small white plate and a small red bowl both contain portions of the same pale food mixture. The logo \"UCAR CENTER FOR SCIENCE EDUCATION\" is visible in the top left corner of every scene. Across the sequence, the person's hands move rapidly through the bowl, stirring and tossing the mixture to ensure it is well-combined. The movement is captured with motion blur, indicating a quick stirring action. The contents of the gray bowl shift and tumble as the hands work, while the small red bowl and white plate remain stationary on the light-colored wooden surface."
+}

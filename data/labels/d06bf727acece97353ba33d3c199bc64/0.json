@@ -1,0 +1,15 @@
+{
+  "video_id": "d06bf727acece97353ba33d3c199bc64",
+  "url": "./data/segments/3E6ctN22V7k-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman and a man are loading or unloading cardboard boxes from the back of a white van parked outdoors near a building. The woman wears a long black coat and grey pants, while the man wears a black jacket with a blue collar. The white van features a logo on the upper back that reads \"Bibli Sans\". Inside the van, several brown cardboard boxes are visible; some have \"AMAZON\" printed on the sides. In the initial sequence, the woman stands to the left of the open rear doors, reaching inside toward the boxes, while the man stands to the right, facing away from the camera. As the sequence progresses, the woman continues to shift her position and interact with the cargo, while the man moves closer to the van's opening, eventually reaching in to handle a box. The outdoor setting includes a leafless tree and a grey building in the background."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "be8ef0e783eb4d6ba401352a312d8bf0",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-241.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.565,
+    7.695,
+    12.825,
+    17.955
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark baseball cap and dark clothing is visible in a small video inset in the upper right corner of a screen recording. The main screen displays a digital presentation titled \"Rural Community Food System\" with a section titled \"Introduction\" that asks, \"What constitutes a sustainable localized food system for a rural community?\" Below this, a \"Session Videos\" list contains several dated entries. The text explains that users can contribute to the model by \"adding communities\" or \"drawing a member to evolve the map.\" To the right of the text is a complex circular diagram consisting of concentric rings and intersecting lines with various labels. A legend at the bottom explains markers for \"Large Corporate Farm Systems\" and \"Community Based and Means of Production.\" Across the sequence, the presenter remains mostly stationary in the inset while the screen recording persists, showing the static presentation slide."
+}

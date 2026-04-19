@@ -1,0 +1,15 @@
+{
+  "video_id": "6773d8720e8048f74cc9147cbc61a6bc",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.345,
+    1.035,
+    1.725,
+    2.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of video conference windows displays several participants in various indoor settings. The participants include men and women, some wearing glasses, in casual attire like t-shirts and button-down shirts. On-screen labels identify some individuals as \"Jerry McHugh,\" \"Roland Zimmerman,\" \"Patrick Matzyn,\" \"Gael Laje,\" \"Susan MHCky,\" \"Charles Mass,\" \"Jim Bate,\" and \"Doug Cola.\" One participant is seen in a vehicle. The screens show people listening and speaking, with some resting their chin on their hand. The scene remains static across the frames, showing the same group of participants in the same grid layout, with only minor movements in their facial expressions and posture. The background environments vary, including home offices with bookshelves and plain walls. No logos are visible, and the layout of the video call remains consistent throughout."
+}

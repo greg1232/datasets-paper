@@ -1,0 +1,15 @@
+{
+  "video_id": "ca3106f66a60079c523f8f17f394aea5",
+  "url": "./data/segments/3F2rz23IKUk-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.1,
+    3.3,
+    5.5,
+    7.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a black t-shirt stands at the front of a lecture hall or presentation room, positioned next to a white screen. He is facing a seated audience of approximately a dozen people, mostly men, wearing casual clothing like t-shirts. In the foreground, several audience members are seen from behind; one man wears a grey shirt with a white logo on the back featuring a stylized graphic and the text \"C++\". Other attendees wear yellow, black, and grey shirts. The room features grey brick walls, a concrete ceiling beam, and a table with electronic equipment and a laptop. As the sequence progresses, the man at the front remains standing while slightly shifting his weight and gesturing with his arms. The audience members remain largely stationary in their seats, watching the presenter. The lighting is consistent throughout the scene, and no significant movement occurs among the attendees."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "202b51e1a6494b11c25c766d4930421b",
+  "url": "./data/segments/3QD9oO6sRns-Scene-097.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.202,
+    0.606,
+    1.01,
+    1.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is shown unboxing a product in a studio setting. In the initial frames, a pair of hands opens a white and grey box labeled \"CLEARLY,\" while a man wearing a black t-shirt is visible in a small inset video feed in the bottom right. The background features a surface with a large orange and black logo that reads \"JASPYS CASEBREAKS.\" The inset feed also contains a smaller version of this logo and the text \"CASEBREAKS.COM.\" As the sequence progresses, the person removes a clear plastic sleeve from the inner packaging. The motion becomes blurred as they shift the box, eventually revealing more of the white interior. Throughout the clip, several other boxed items are stacked in the background, and a small red and white object sits on the table."
+}

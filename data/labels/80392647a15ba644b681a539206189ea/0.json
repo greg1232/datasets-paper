@@ -1,0 +1,15 @@
+{
+  "video_id": "80392647a15ba644b681a539206189ea",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-127.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.114,
+    3.341,
+    5.568,
+    7.795
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a promotional screen for a trading seminar. The screen is split vertically; the left side features a man wearing a white dress shirt and glasses, positioned against a backdrop of trading charts. Above him, text reads \"Tom O'Brien Timing the Trade All Day Webinar,\" and below him, it says \"Friday, June 10th Live from 9 a.m. - 2 p.m. ET.\" To the right of the man is a graphic that says \"THE ART OF TIMING THE TRADE.\" The right side of the screen contains a white background with black text titled \"TOM O'BRIEN TIMING THE TRADE ALL DAY SEMINAR JUNE 10TH, 2022.\" This section includes a \"Checkout\" link and details for a two-part session titled \"Timing the Trade, Your Ultimate Trading Mastery System,\" listing specific times and a numbered list of topics covered, such as \"1. Quality Volume\" and \"2. ABC Structures.\" The scene remains completely static across all frames."
+}

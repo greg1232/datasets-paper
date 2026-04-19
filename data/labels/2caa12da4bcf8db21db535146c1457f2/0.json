@@ -1,0 +1,15 @@
+{
+  "video_id": "2caa12da4bcf8db21db535146c1457f2",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.692,
+    5.075,
+    8.458,
+    11.842
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head is visible in a small picture-in-picture window in the bottom left of a screen recording. He is wearing a dark blue shirt and is speaking while looking toward the camera. The main part of the screen displays a financial trading platform featuring a candlestick chart for \"EURGBP (M5)\". The chart shows a price line fluctuating, with a large green highlighted rectangular area covering a section of the price action. In the top left corner of the interface, a red and white \"TICKMILL\" logo is prominent, accompanied by German text that reads \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN\". Below this, a list of features includes \"PCK-Konto\", \"Niedrige Spreads ab 0.1 Pips\", and \"Keine Requotes\". Across the frames, the man continues to speak as the chart remains static, although the cursor moves slightly near the bottom of the screen."
+}

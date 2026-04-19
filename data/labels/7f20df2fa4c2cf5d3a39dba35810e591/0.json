@@ -1,0 +1,15 @@
+{
+  "video_id": "7f20df2fa4c2cf5d3a39dba35810e591",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-482.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.087,
+    0.262,
+    0.438,
+    0.612
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair, wearing a dark navy blue t-shirt, appears in a small inset video window on the left side of the screen. He is seen laughing and smiling broadly, with his mouth open. Behind him is a room featuring a white brick wall, a framed picture, and a decorated Christmas tree. The rest of the screen is filled with a dark, blurry purple and blue gradient background. At the top of the screen, a game interface displays several statistics: \"129,529\", \"0\", \"14,600\", \"1,787,969\", \"21\", and \"91\". A small circular icon is visible in the bottom right corner. Throughout the clip, the man's facial expression shifts slightly as he continues to laugh, but the overall setting, the game interface text, and the background remain static."
+}

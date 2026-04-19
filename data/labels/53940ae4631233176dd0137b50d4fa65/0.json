@@ -1,0 +1,15 @@
+{
+  "video_id": "53940ae4631233176dd0137b50d4fa65",
+  "url": "./data/segments/3phuyH7Y05U-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.158,
+    0.475,
+    0.792,
+    1.108
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A stylized, cartoonish male figure stands on a white sandy beach against a backdrop of bright turquoise water and a clear blue sky. He wears a black t-shirt and black pants; the shirt features the text \"Business Owners\" and \"flock\" in yellow. To his right, a thatched beach umbrella shades two dark brown lounge chairs. Tropical vegetation, including palm trees and smaller green plants, surrounds the scene. The figure remains static in a neutral standing pose throughout the sequence. There is no movement or change in the environment, the positioning of the objects, or the expression of the character across the frames, resulting in a completely still visual sequence."
+}

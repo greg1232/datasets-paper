@@ -1,0 +1,15 @@
+{
+  "video_id": "427cfb326953d3860d32907faa2860e8",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-206.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.215,
+    0.645,
+    1.075,
+    1.505
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey baseball cap and a dark shirt is visible in a small video inset in the upper right corner of a screen recording. He appears to be speaking, though his expression remains relatively consistent across the sequence. The main area of the screen displays a complex causal loop diagram on a black background, featuring various white and green text labels connected by blue and red curved arrows. Legible text includes \"Attractiveness of Garden,\" \"Bird Poop,\" \"Unsightly Goutts,\" and \"Buy Bird Deter.\" In the top left, a browser tab reads \"That & Learning by Systemantics,\" while a URL begins with \"https://systemantics.com/\". As the sequence progresses, the man continues to speak in his inset window, while the diagram remains static, serving as a visual aid for his presentation."
+}

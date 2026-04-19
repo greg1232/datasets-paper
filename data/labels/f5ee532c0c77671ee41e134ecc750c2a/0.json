@@ -1,0 +1,15 @@
+{
+  "video_id": "f5ee532c0c77671ee41e134ecc750c2a",
+  "url": "./data/segments/3i5-ZukC--g-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a series of abstract, glitchy digital visuals dominated by dark purples, deep reds, and horizontal streaks of green and blue. The scene resembles a corrupted data stream or a stylized computer interface. No people are present. The imagery consists of fragmented geometric shapes, small white pixels, and glowing red points of light that shift across the screen. Subtle numerical text appears in the lower center of the frames, including the strings \"44.0334\" and \"51.4244\". As the video progresses, the horizontal bands of color shift and shimmer, while the red glowing points move and multiply. The visual texture changes from a denser, linearly streaked pattern to a more open, starry arrangement of dots against a deep red and purple background, suggesting a digital transition or a scanning effect."
+}

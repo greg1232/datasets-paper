@@ -1,0 +1,15 @@
+{
+  "video_id": "0dbd4749a37a69d28dc852929cfee556",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-314.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.342,
+    1.026,
+    1.71,
+    2.394
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a short beard and a buzzed haircut sits in a studio setting in front of a dark gray, ribbed acoustic foam wall. He wears a plain white t-shirt and large black over-ear headphones. A professional silver microphone on a boom arm is positioned directly in front of his face. The boom arm features the white text \"Rode PSA1+\". In the initial sequence, the man has his eyes closed and his mouth slightly open. As time progresses, he opens his eyes and begins speaking, his mouth moving to form words. He briefly raises his right hand, gesturing with his index finger pointed upward. Throughout the sequence, he remains in a seated position, focusing his attention forward toward the microphone while talking."
+}

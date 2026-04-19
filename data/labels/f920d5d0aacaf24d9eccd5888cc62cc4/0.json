@@ -1,0 +1,15 @@
+{
+  "video_id": "f920d5d0aacaf24d9eccd5888cc62cc4",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.826,
+    1.376,
+    1.927
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A point-of-view perspective from the hood of a car shows a highway scene under a bright, clear sky. The car's hood is silver with two wide, dark racing stripes and a small black scoop featuring the text \"SNC NOMAX\". In the first frame, the vehicle is following a white pickup truck on a multi-lane road lined with green trees and utility poles. As the sequence progresses, the driver accelerates and maneuvers to the left, passing the white pickup truck. By the final frame, the silver car has pulled ahead of the truck, which is now positioned to the right and slightly behind. Other distant vehicles are visible further down the road, and a circular speed limit sign reading \"SPEED LIMIT 65\" appears on the right shoulder. No people are visible inside or outside the vehicles."
+}

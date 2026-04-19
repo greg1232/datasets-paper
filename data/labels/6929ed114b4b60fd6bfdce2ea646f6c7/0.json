@@ -1,0 +1,15 @@
+{
+  "video_id": "6929ed114b4b60fd6bfdce2ea646f6c7",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.901,
+    1.502,
+    2.102
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An aerial view captures a construction or mining site characterized by vast expanses of grey gravel and soil. A large yellow dump truck is positioned at the top of the scene, while a yellow excavator operates beside it. The excavator's arm is extended, moving material toward the truck's bed. A logo consisting of the letters \"VG\" in a stylized gold font appears in the upper right corner of the footage. Throughout the sequence, the excavator continues its loading process, with small movements of its arm and bucket. The dump truck remains stationary as it is filled. No people are visible in the frames. The lighting is bright and consistent, highlighting the textures of the rocky terrain and the vibrant yellow paint of the heavy machinery."
+}

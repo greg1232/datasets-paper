@@ -1,0 +1,15 @@
+{
+  "video_id": "43ed1513ac08069c239637008fa0343c",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.751,
+    1.051
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view captures the mechanical components of an engine and chassis, likely from a motorcycle or small motorized vehicle. The scene is dominated by metallic parts, including a light-colored exhaust pipe running horizontally across the top and various engine casings. A gold-toned carburetor is centrally located, connected by hoses and cables. To the right, a silver engine cover features an embossed logo, though the exact text is partially obscured. A dark metal frame and a drive chain are also visible beneath the carburetor. Throughout the sequence, the camera remains static, and there is no movement or change in the scene; the mechanical components, including the nuts, bolts, and wires, remain in identical positions across all frames. No people are present in the view."
+}

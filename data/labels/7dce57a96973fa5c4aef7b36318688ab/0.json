@@ -1,0 +1,15 @@
+{
+  "video_id": "7dce57a96973fa5c4aef7b36318688ab",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-088.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.586,
+    7.758,
+    12.93,
+    18.101
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting, a person wearing a white garment and a black stole or sash stands behind a podium, partially visible on the right side of the scene. A black microphone on a stand is positioned in front of them. In the foreground, the backs of several people's heads are visible, suggesting an audience. The background consists of brown horizontal window blinds. A white logo with the text \"ORCA\" is overlaid on the lower right side of the frame. Across the sequence, the person behind the podium remains in a similar position, with very subtle movements of their arm and shoulder, while the audience members in the foreground remain stationary. The lighting and camera angle are consistent throughout the clip, focusing on the speaker from a perspective behind the listeners."
+}

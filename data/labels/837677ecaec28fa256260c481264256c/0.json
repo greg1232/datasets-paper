@@ -1,0 +1,15 @@
+{
+  "video_id": "837677ecaec28fa256260c481264256c",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-104.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.57,
+    1.71,
+    2.85,
+    3.99
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser displaying a complex visual map on a black background, featuring various circular nodes connected by lines. Some nodes contain small icons, including a red figure and a blue symbol, with accompanying labels such as \"play\" and \"starting.\" The browser tabs at the top list titles like \"Trust & Learning by Synergetic,\" \"Future of Society by Synergetic,\" and \"Insights | Introduction | Kumu.\" A video call overlay in the upper right corner shows a man wearing a blue shirt and a headset, while a smaller inset video displays two people sitting in a room with red and gold decor. Throughout the sequence, the content of the screen remains static, showing no movement in the visual map, the browser interface, or the participants in the video windows."
+}

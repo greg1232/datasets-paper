@@ -1,0 +1,15 @@
+{
+  "video_id": "49d95295113c615673c57994b28fc857",
+  "url": "./data/segments/3E6ctN22V7k-Scene-090.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.565,
+    1.695,
+    2.825,
+    3.955
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a room with brick walls and large windows, several people are organizing equipment. The space contains multiple blue and lime green modular units, some of which feature a yellow logo with a stylized \"a\". One man, wearing a white t-shirt, white pants, and a white cap, moves across the room, while another individual in a black shirt assists in positioning the equipment. In the beginning, people are seen leaning over and shifting the blue and green units, including one that holds a flat-screen television. A white folding table and chairs are positioned in the center of the room. As the scene progresses, the people move the modular units into different configurations, shifting a blue cart with a screen towards the center of the room. A man in a black shirt and white cap eventually stands behind the television unit as others move around him."
+}

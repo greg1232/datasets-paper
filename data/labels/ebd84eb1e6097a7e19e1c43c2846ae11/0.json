@@ -1,0 +1,15 @@
+{
+  "video_id": "ebd84eb1e6097a7e19e1c43c2846ae11",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-243.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.723,
+    2.169,
+    3.615,
+    5.06
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a white storage box on a colorful table, with a small inset video window appearing in each frame showing a man with a beard wearing a black shirt. The scene begins with a yellow envelope resting on top of the white box. As the sequence progresses, the person reaches for the envelope and lifts it upward. By the final frame, a sports trading card featuring a baseball player is revealed as it is pulled out of the envelope. Throughout the frames, an orange and white logo reading \"JASPYS\" is visible, accompanied by the text \"CASEBREAKS.COM\". The background includes stacks of graded trading cards in plastic cases, and the inset video displays a man sitting in a room with equipment and a similar \"JASPYS\" logo."
+}

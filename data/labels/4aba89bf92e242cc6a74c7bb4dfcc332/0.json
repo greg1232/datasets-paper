@@ -1,0 +1,15 @@
+{
+  "video_id": "4aba89bf92e242cc6a74c7bb4dfcc332",
+  "url": "./data/segments/3Sq594WkayE-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.391,
+    1.172,
+    1.953,
+    2.734
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grainy, monochromatic video depicts a view through a glass surface covered in water droplets, likely a window during rain. The scene overlooks the blurred silhouette of a tree with thin branches and leaves against a pale, overcast sky. As time progresses, the camera subtly shifts, and the water droplets on the glass move and merge, creating distorted, refractive patterns that warp the view of the foliage behind them. The lighting remains consistent throughout the sequence, maintaining a high-contrast, desaturated look. There are no people, objects, or text visible in the frames; the focus remains entirely on the interaction between the water on the surface and the out-of-focus natural landscape in the background."
+}

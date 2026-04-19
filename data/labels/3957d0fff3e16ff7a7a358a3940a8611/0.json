@@ -1,0 +1,15 @@
+{
+  "video_id": "3957d0fff3e16ff7a7a358a3940a8611",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-201.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.588,
+    1.764,
+    2.94,
+    4.117
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static black screen featuring consistent graphic overlays. At the top of the screen, a white logo reads \"TFNN\" followed by a vertical divider and the text \"EDUCATING INVESTORS\" in a smaller, sans-serif font. Below this, a blue, glossy horizontal banner contains the name \"Basil Chapman\" in white text. Underneath the name, a smaller line of text reads \"The Tiger Technicians Hour | June 8th, 2022\". There are no people, clothing, or physical settings visible, as the scene consists entirely of these digital graphic elements against a solid black background. Across all frames, there is no movement or change in the layout, text, or imagery, maintaining a completely static visual presentation throughout the sequence."
+}

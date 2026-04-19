@@ -1,0 +1,15 @@
+{
+  "video_id": "3ee38c4fb72ecd1a7a81d07a5b62da38",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-398.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, black headphones, and a black hoodie with \"BOSS\" printed in gold lettering sits in a studio. He is positioned behind a desk equipped with a professional microphone on a boom arm and a black gear box. To his right sits a black mug with red and white text that reads \"BOSS TALK ON GEAR\". Behind him, a white backdrop features a repeating logo with five gold stars and the text \"UNIQUE HUSTLE\". A blue sign on the wall reads \"Where BOSSES Talk!\". Across the sequence, the man is speaking and gesturing; he starts by pointing his right index finger forward, then lowers his hand slightly while continuing to talk. He wears a gold watch on his left wrist, which rests on the desk. The scene remains static in terms of camera angle and setting while the man's facial expression and hand movements shift."
+}

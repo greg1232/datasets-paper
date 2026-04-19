@@ -1,0 +1,15 @@
+{
+  "video_id": "dc755c4e23b79e14f4959342b3ceba36",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.46,
+    4.379,
+    7.299,
+    10.219
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit side-by-side in an indoor setting in front of a television screen displaying the text \"STUPID REACTION\". The man on the left wears a dark green t-shirt, and the man on the right wears a grey t-shirt and a necklace with a pendant. A shelf filled with DVDs or media cases is visible behind them. In the beginning, both men maintain relatively neutral facial expressions while looking toward the camera. As the sequence progresses, the man on the left begins to speak and gestures with his right hand, raising his index finger for emphasis. The man on the right remains largely still, though his expression shifts slightly from a neutral look to a slight smile with his teeth visible, and finally back to a neutral expression. The background and their seating positions remain constant throughout the clip."
+}

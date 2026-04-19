@@ -1,0 +1,15 @@
+{
+  "video_id": "951910525c26df6a34035440d7584c21",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.254,
+    0.762,
+    1.271,
+    1.779
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A handheld camera captures a wide, slightly tilted view of an indoor basketball gymnasium. The room features a polished hardwood floor with court markings, blue padded walls, and blue bleachers on the right side. At the far end of the court, a basketball hoop is mounted against a white wall, flanked by a flag and a black rectangular panel. The ceiling is white with several rectangular recessed lights. As the camera moves, it tilts slightly and pans across the empty court, shifting the perspective of the floor, walls, and ceiling fixtures. No people are present in the scene. A blue vertical banner is visible on the wall, but the text on it is illegible. The lighting remains consistent across the sequence, emphasizing the reflective surface of the gymnasium floor."
+}

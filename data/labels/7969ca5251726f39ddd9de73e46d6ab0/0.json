@@ -1,0 +1,15 @@
+{
+  "video_id": "7969ca5251726f39ddd9de73e46d6ab0",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-239.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.135,
+    0.405,
+    0.675,
+    0.945
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and a light-colored shirt is seen in a video conference call, appearing in a small window in the upper right corner of a screen share. The screen share displays a presentation titled \"Rural Community Food System\" with a section header labeled \"Introduction.\" The text asks, \"What constitutes a sustainable localized food system for a rural community?\" and lists several \"Session Videos\" with dates such as \"10.07.2020\" and \"10.14.2020.\" The slide also states, \"You can contribute to the development of this model by adding community or by hosting a meetup to evolve the map.\" A complex circular diagram with various nodes and connecting lines is visible on the right side of the presentation. A \"Legend\" at the bottom identifies categories like \"Large Corporate Farm Systems\" and \"Community-Based and Mixed-form Systems.\" The man remains relatively still, looking toward the camera across the sequence."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7969fceb91d8c55deb823c71591629c9",
+  "url": "./data/segments/3QD9oO6sRns-Scene-164.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.256,
+    0.427,
+    0.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown holding and manipulating a clear protective plastic case containing a trading card. In a home or studio setting, the hands hold the case against a background featuring a white box and a desk surface. A small picture-in-picture window in the lower right shows a man wearing a black t-shirt and a black baseball cap. The scene includes a large orange logo and text that reads \"CASEBREAKS\" and \"CASEBREAKS.COM\", as well as partial text reading \"SEBREAK\" and \"REAKS\". As the sequence progresses, the person tilts and rotates the plastic card case, causing light to reflect off the surface and showing different angles of the contained card. The background remains static while the hands move the object across the center of the frame to display the card's holographic or reflective qualities."
+}

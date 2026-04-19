@@ -1,0 +1,15 @@
+{
+  "video_id": "9b006a736a6857dc05e5674670e9a655",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    11.325,
+    33.975,
+    56.625,
+    79.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a dark beard, wearing a grey button-down shirt and a lapel microphone, speaks directly to the camera against a dark blue background featuring repeating grey text that reads \"DAILY ROUND-UP\". The \"peoples dispatch\" logo is visible in the top left corner of each scene. As the video progresses, different white text overlays appear beside him. Initially, a box lists \"7.6 Million Infections\", \"3.3 Million Active Cases\", and \"424,000 Fatalities\" above the header \"COVID - 19 UPDATES\". The overlay then changes to show \"300,000 Reported Cases\", \"30,000 New Cases\", and \"1,000 Fatalities every day\" under the truncated text \"VID - 19\". Later, the text shifts to state, \"The total number of cases is expected to cross the 300,000 mark over the weekend\", accompanied by the fragmented text \"D - 19\". Finally, the on-screen text overlays disappear entirely as the man continues speaking."
+}

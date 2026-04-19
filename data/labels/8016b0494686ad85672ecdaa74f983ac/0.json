@@ -1,0 +1,15 @@
+{
+  "video_id": "8016b0494686ad85672ecdaa74f983ac",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-123.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.398,
+    1.194,
+    1.99,
+    2.785
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair wearing a dark blue shirt is seen in a small video overlay in the bottom left corner of a gaming screen. He is positioned in front of a background featuring a decorated Christmas tree and a monitor. The main screen displays a menu titled \"UNOPENED PACKS\" from a video game, showing three digital card packs. The leftmost pack is labeled \"PRESENT\", while the others are labeled \"WELCOME\". Below these, text reads \"S LOGIN PACK x1\" and \"GHOST OF MUT LOGIN PACK x1\". The top right of the screen shows various currency values and \"LV 19 (90)\". Across the sequence, the man reacts with varying facial expressions, moving from a wide smile and laugh to a more neutral look, and finally to an open-mouthed expression of surprise. A yellow selection box moves from the leftmost pack to the rightmost pack, highlighting \"GHOST OF MUT LOGIN PACK x1\"."
+}

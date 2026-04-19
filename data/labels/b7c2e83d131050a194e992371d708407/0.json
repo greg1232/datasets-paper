@@ -1,0 +1,15 @@
+{
+  "video_id": "b7c2e83d131050a194e992371d708407",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-504.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt and a matching green baseball cap sits at a table, speaking into a black microphone. He is positioned in a room that appears to be a studio or storefront, with a banner in the background that reads \"UNIQUE FASHIONS\" and \"BOSSES TALK\". Another person, wearing a blue sweatshirt and a white head covering, stands behind him to the right. Two professional microphones on stands are visible on the table. To the left, clothing items hang on a rack. A small logo that reads \"VIBE\" is visible in the lower-left corner of the scene. Across the frames, the man remains in a seated position, speaking and gesturing slightly with his hands, while the person in the blue sweatshirt remains standing in the background. The scene remains static with minimal movement, focusing on the man's conversation."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ff6ace9e023cce79c345c7ab7a444efc",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-212.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.825,
+    1.375,
+    1.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video call and a digital mind map. A man wearing a grey t-shirt and a baseball cap is visible in a small video feed in the upper right corner. The main area of the screen displays a complex network of interconnected nodes on a black background. These nodes contain various icons and text labels, such as \"Local food,\" \"Food Hubs,\" \"Food systems,\" and \"Local food systems.\" Blue lines connect these nodes, forming a web of relationships. The browser window is open with several tabs, including one titled \"That's Learning by Systemantics\" and another titled \"Future of Society by Systemantics.\" To the right of the mind map, a sidebar lists \"Saved Settings.\" Throughout the sequence, the screen remains static, showing the same layout of the network diagram and the man in the video call without any visible movement or changes to the content."
+}

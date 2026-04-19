@@ -1,0 +1,15 @@
+{
+  "video_id": "f328081d0825606c6e642f79865c70ff",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.475,
+    1.425,
+    2.375,
+    3.325
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a dark-themed computer interface showing server log files. The logs consist of multiple lines of white and light grey text on a black background, documenting HTTP requests with timestamps and IP addresses. Phrases such as \"GET /rapidpage HTTP/1.0\" and \"GET /index.php HTTP/1.0\" are visible throughout the logs. In the top right corner, a small profile picture of a man is visible. As the recording progresses, a cursor moves across the screen, and a red rectangular selection box appears, highlighting several lines of the log text. A small pop-up menu appears near the bottom of the screen with the text \"u-substr!!!\" and \"0-back!\". The interface includes a top menu bar with the text \"Activities\", \"Documents\", and \"Oct 28 0021\". The view remains centered on the scrolling text logs as the user interacts with the file."
+}

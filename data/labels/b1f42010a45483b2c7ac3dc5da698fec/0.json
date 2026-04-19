@@ -1,0 +1,15 @@
+{
+  "video_id": "b1f42010a45483b2c7ac3dc5da698fec",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.385,
+    1.155,
+    1.925,
+    2.695
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Viewed from a darkened interior tunnel or corridor, the scene opens onto a large sports stadium with tiers of red seating. The white logo of Real Madrid is visible in the upper right corner of each frame. In the distance, white banners draped over the red seats display the text \"N A D\". A green playing field is visible beyond the seating area under a bright sky. In the foreground, several black stadium seats are positioned in the shadows of the tunnel. As the sequence progresses, the camera moves forward, shifting the perspective and bringing the red seats and the \"N A D\" text into a more central view while the dark architectural edges of the tunnel frame the shot. No people are visible in the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "79e0b7c509273edbcc3cf9b6b15ba795",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-190.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.203,
+    0.61,
+    1.017,
+    1.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark green t-shirt, a matching green baseball cap, and black over-ear headphones sits in a room filled with framed photos and clothing. His t-shirt features the text \"ION NEVER DO SHIT\" in white lettering. He is positioned in front of a professional black microphone, speaking as he looks slightly to the left of the camera. In the background, a white mannequin wears a white t-shirt, and racks of clothing are visible. Two logos appear on screen: a circular black and white logo on the left and a red \"BOOSTED BY TOT\" logo on the right. Across the sequence, the man remains in the same position, with slight movements of his mouth and facial expressions as he continues talking. The setting and the placement of objects remain static throughout the scene."
+}

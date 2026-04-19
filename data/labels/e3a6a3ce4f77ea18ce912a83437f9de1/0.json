@@ -1,0 +1,15 @@
+{
+  "video_id": "e3a6a3ce4f77ea18ce912a83437f9de1",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.99,
+    1.385
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video captures a man with blonde hair wearing a dark blue t-shirt reacting to a screen. He is positioned in the lower left of the interface, situated in a room with a decorated Christmas tree and a wall featuring a framed \"20\" jersey. The screen displays a purple-themed digital sports card interface for a player named \"TROY POLAMALU\" with a rating of \"95\" and a position of \"SS\". Text on the screen reads \"Team Chemistry And Ability Slot\" with a checkbox and \"REFUND: 5\". Another section notes \"Add Training to unlock the Team Chemistry and Ability Slots\" and \"NO ATTRIBUTE BOOSTS\". Across the sequence, the man\u2019s expression shifts from a wide-mouthed, excited shout to a joyful smile. The interface elements shift slightly in perspective and framing, cropping different portions of the purple background and the player card as the view alternates."
+}

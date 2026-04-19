@@ -1,0 +1,15 @@
+{
+  "video_id": "43ac766848067e086fc4ba869f4ee7cc",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.133,
+    15.4,
+    25.667,
+    35.933
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a light complexion is seen in a small inset video window in the lower-left corner of a screen recording. He is shirtless and appears to be speaking, though his expression remains relatively neutral across the sequence. The primary focus of the screen is a trading platform interface featuring a financial candlestick chart with green and red bars. A large advertisement overlay is present on the left side of the chart, displaying the \"TICKMILL\" logo and German text that reads \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN\". The ad lists several features, including \"Tight Spreads,\" \"Niedrige Spreads ab 0.1 Pips,\" and \"Schnelle Orderausf\u00fchrung ab 0.1 Sek.\" A watermark reading \"Gold KAUSSUS\" is visible in the center of the chart. Between the frames, the man's facial expressions shift slightly as he speaks, but the overall layout of the trading interface and the advertisement remains static."
+}

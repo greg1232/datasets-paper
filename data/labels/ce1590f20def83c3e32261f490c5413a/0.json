@@ -1,0 +1,15 @@
+{
+  "video_id": "ce1590f20def83c3e32261f490c5413a",
+  "url": "./data/segments/3mmDnftP1M8-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    24.177,
+    72.531,
+    120.885,
+    169.24
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a dark complexion, wearing a black suit jacket over a light-colored shirt and a dark tie, is centered within a circular frame against a black background. He maintains a steady, forward-facing gaze with a neutral expression across the entire sequence. To the left and right of the circular portrait, the text \"Lubega S. Collins\" appears in a small, white, sans-serif font. The scene remains static throughout the video, with no movement from the man, no change in his posture, and no alterations to the background or the on-screen text. The lighting on his face is consistent, and the overall composition stays perfectly still, creating a frozen image effect."
+}

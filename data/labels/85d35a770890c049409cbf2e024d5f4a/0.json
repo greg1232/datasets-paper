@@ -1,0 +1,15 @@
+{
+  "video_id": "85d35a770890c049409cbf2e024d5f4a",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.99,
+    5.97,
+    9.95,
+    13.93
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A television news broadcast features a man wearing a light blue traditional garment and a red cap. He appears in a main video feed on the left and in a smaller inset portrait on the right. The inset is framed by a purple background with the text \"ON THE PHONE,\" \"OLUSOLA OYEKANMI,\" \"POLITICAL ANALYST,\" and \"LAGOS.\" At the top left, a \"plustv\" logo is visible. A white banner across the bottom displays the text \"PLUS POLITICS\" and \"NIGERIA NEEDS ME \u2013 BOLA TINUBU.\" In the top frames, a lower banner provides a link to \"WWW.PLUSTVAFRICA.COM/LIVE-TV\" and a \"WATCH ONLINE\" prompt. In the bottom frames, this banner changes to \"SUBSCRIBE\" with a link to \"WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE\" and a \"FOLLOW US\" section featuring social media icons and \"PLUSTVAFRICA.\" The man remains in the same pose and attire across all frames, with only the bottom information banners shifting text."
+}

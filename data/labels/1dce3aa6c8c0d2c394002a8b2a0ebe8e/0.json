@@ -1,0 +1,15 @@
+{
+  "video_id": "1dce3aa6c8c0d2c394002a8b2a0ebe8e",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-167.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.516,
+    22.548,
+    37.579,
+    52.611
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static shot features a black background with a blue and white company logo and text. The word \"Direxion\" is written in a blue serif font, with the letter \"x\" stylized as a cursive script. Directly beneath the logo, the text \"ETFs | Funds\" is written in a smaller, white, sans-serif font. Below that, the website address \"www.direxion.com\" is displayed in a similar white font. There are no people or physical objects present in the scene. Across the sequence of frames, the image remains entirely still, with no changes to the position, color, or content of the text and logo."
+}

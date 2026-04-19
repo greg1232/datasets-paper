@@ -1,0 +1,15 @@
+{
+  "video_id": "bdc7fefaa1fbbb81f277686b890f42bd",
+  "url": "./data/segments/3Z229_lKLpk-Scene-179.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.145,
+    0.435,
+    0.725,
+    1.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of men are seated in an assembly hall with green seating and light brown wooden desks. The men are dressed in traditional Indian attire, mostly wearing white kurtas, with some wearing vests in colors such as maroon, light grey, and lime green. In the upper rows, several men sit attentively, while in the foreground, a man in a lime green vest sits next to a man in a white kurta. Across the sequence of frames, there is very little movement. The men remain seated in their positions, maintaining relatively static poses with slight shifts in head orientation and facial expressions. The lighting is consistent throughout, and there are no visible on-screen texts, logos, or equipment other than the built-in furniture of the assembly hall. The scene remains focused on the assembly of men as they listen or observe."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "aa8399d4aeb5c97b1bf4e7d411848f65",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.976,
+    1.627,
+    2.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green and black all-terrain vehicle (ATV) is parked inside a garage or workshop. The ATV features a front black brush guard, a front storage box, and large, treaded tires. Legible text on the side of the front storage box includes \"SUZUKI\" and \"500\". The vehicle is positioned diagonally, facing towards the right of the frame. In the background, other vehicles and tool storage are partially visible. Throughout the sequence, the camera remains stationary and the scene is static, with no people present and no movement occurring between the frames. The lighting is consistent across the shot, illuminating the glossy green finish of the vehicle's bodywork and the matte black of its fenders and accessories."
+}

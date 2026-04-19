@@ -1,0 +1,15 @@
+{
+  "video_id": "ef2207024c4f7ead7cef471f7d780290",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.342,
+    1.025,
+    1.708,
+    2.392
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, wearing round glasses, silver over-ear headphones, and a dark blue textured shirt, is speaking into a black microphone. He is positioned in a room with light-colored walls, a decorated Christmas tree with multicolored lights to his left, and a framed piece of blue art behind him that displays the text \"20\". As the sequence progresses, the man's facial expressions and gestures shift; he begins with an open-mouthed, excited expression and a raised hand, then transitions into a more focused speaking posture, and finally closes his mouth slightly while continuing to talk. The background remains static throughout the clip, with the festive lights and the framed \"20\" logo remaining in the same position as the man animates his speech."
+}

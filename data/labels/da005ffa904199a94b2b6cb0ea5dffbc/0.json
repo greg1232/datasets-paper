@@ -1,0 +1,15 @@
+{
+  "video_id": "da005ffa904199a94b2b6cb0ea5dffbc",
+  "url": "./data/segments/3F2rz23IKUk-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.54,
+    16.62,
+    27.7,
+    38.78
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide with a white background and black text is shown throughout the clip. The slide is titled \"Compliance should be easy\" in a large, centered font. Below the title, two main bullet points are listed. The first states, \"For BSD-style licenses, it only requires keeping track of notices,\" and the second states, \"For LGPL and GPL licenses, you must have the appropriate source code.\" Indented beneath the second point is a sub-bullet that reads, \"But someone built the binaries, so that should be easy...\". The scene remains completely static across all frames, with no movement, people, or changes to the on-screen text. The visual content consists entirely of this single, unchanging slide."
+}

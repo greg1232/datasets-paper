@@ -1,0 +1,15 @@
+{
+  "video_id": "ed51e0cd2837276ca31374c8de4a1180",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-093.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.84
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video news segment features footage of people gathered around a vehicle in an outdoor setting. Several men are visible, including one in a dark uniform and cap standing on the right and others in traditional Indian attire, such as Nehru jackets and skullcaps. On-screen graphics include a red banner at the bottom with the white text \"RJD \u092a\u0930 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930 \u0915\u093e \u092a\u0932\u091f\u0935\u093e\u0930\" and a timestamp of \"10:05 PM\". A top banner reads \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\". The right side of the screen displays headshots of men labeled \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\" and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930\" under the heading \"\u092e\u0902\u0924\u094d\u0930\u0940\". The left side contains a headshot of a man identified as \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\". As the scene progresses, the camera angle shifts slightly, and a man in a dark sweater moves across the frame toward the center, interacting with the others. The news graphics remain consistent across the sequence."
+}

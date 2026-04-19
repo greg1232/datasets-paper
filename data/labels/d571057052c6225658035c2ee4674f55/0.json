@@ -1,0 +1,15 @@
+{
+  "video_id": "d571057052c6225658035c2ee4674f55",
+  "url": "./data/segments/3szCdVKgMug-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.634,
+    1.902,
+    3.17,
+    4.438
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing glasses, a wide-brimmed straw hat, and a light-colored striped button-down shirt, stands in a lush garden setting with green foliage and trees. A dark, stone pedestal topped with a spherical ornament stands behind him. The first three scenes feature large white text overlaid on the left side that reads, \"WHAT ACCOUNTS FOR CHANGE ACCORDING TO THE ATOMISTS?\". As the sequence progresses, the camera angle shifts, moving from a medium shot focusing on the stone pedestal and surrounding plants to a closer shot that reveals the man. By the final scene, the text disappears, and the man is positioned in the center of the frame, appearing to speak while gesturing slightly with his hand. A paved stone path is visible behind him to the right, winding through the greenery."
+}

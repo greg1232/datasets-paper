@@ -1,0 +1,15 @@
+{
+  "video_id": "ff1c49b06302d169fd83142afc026212",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-450.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.637,
+    1.912,
+    3.188,
+    4.462
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair wearing a black shirt appears in a small inset window over a video game interface for \"ULTIMATE TEAM.\" The game screen displays a \"LINEUP\" menu with various football player cards and navigation options such as \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS.\" Numerical values are visible at the top right, including \"159,529,\" \"0,\" \"14,600,\" and \"1,787,369.\" The man is positioned in front of a background featuring a decorated Christmas tree and a grey wall. As the sequence progresses, he reacts with expressive facial movements and hand gestures, shifting from a neutral look to a wide-mouthed smile and open palms. The gaming interface remains static throughout the clip, while the man's animation in the inset window provides the primary movement, capturing his emotional reaction to the game screen."
+}

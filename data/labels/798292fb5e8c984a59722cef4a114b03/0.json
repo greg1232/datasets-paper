@@ -1,0 +1,15 @@
+{
+  "video_id": "798292fb5e8c984a59722cef4a114b03",
+  "url": "./data/segments/3Z229_lKLpk-Scene-154.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.315,
+    0.945,
+    1.575,
+    2.205
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a large, ornate wooden chair against a backdrop of vertical wood paneling. He is wearing a light-colored, long-sleeved shirt under a beige Nehru jacket, with a white pocket square visible in the chest pocket. He has a slight smile on his face and is looking toward his right, away from the camera. In front of him is a desk equipped with a thin microphone and a dark object, possibly a tablet or folder. A small red light is visible on the desk surface. To his left, a portion of a green cushioned seating area is visible. Throughout the sequence of frames, the man remains in the same position, maintaining his gaze and smiling expression with minimal movement, while the background and surroundings stay static."
+}

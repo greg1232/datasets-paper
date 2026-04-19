@@ -1,0 +1,15 @@
+{
+  "video_id": "6a8c28047df9874bc25c48a7d4c64960",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.52,
+    4.56,
+    7.6,
+    10.64
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a soccer stadium with red seating and a green pitch, several players in blue training shirts and bright green shorts practice with soccer balls. The background features a perimeter board with repeated white text on a green background reading \"COVIRAN\" and blue banners with \"CaixaBank\" and \"CONTIGO MI\". A white Real Madrid club crest is visible in the upper center of the scene. A player in a blue shirt and green shorts kicks a ball forward, moving from the center toward the right side of the field. In subsequent moments, the player continues his stride and controls the ball. Other players in matching attire are scattered across the field, some standing still and others moving. The scene transitions from a wide view of the practice area to a closer shot of a player sprinting toward a ball on the grass."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c2e8863d80d09dd92eb6e47c372c9c31",
+  "url": "./data/segments/3F2rz23IKUk-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.33,
+    0.55,
+    0.77
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and brown hair stands indoors against a plain, light-colored wall. He wears a black t-shirt featuring a picture of a person's face and the text \"Knuth\", along with a blue lanyard around his neck that reads \"Dobbone\". He is looking downward and holding a white object in his hands. Across the sequence, his head tilts slightly further down and to the right as he focuses on the object. His posture remains relatively static, though there is a slight shift in his shoulders and the positioning of his arms as he manipulates the item in his hands. The background and his clothing remain consistent throughout the duration of the clip."
+}

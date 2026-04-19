@@ -1,0 +1,15 @@
+{
+  "video_id": "284441fe26b81ae33221ccc37b20bd9c",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.242,
+    0.726,
+    1.21,
+    1.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A surgical simulation takes place on a medical mannequin, with several individuals wearing blue gloves performing a procedure. In the initial stages, a person uses metal forceps to hold open a surgical incision on the torso, while another person uses a surgical tool to work within the opening. As the sequence progresses, the hands adjust their positioning, with the person on the left manipulating a piece of gauze or fabric near the incision site. A surgical scalpel is visible, held by a person on the right. Throughout the sequence, the hands move dynamically to manage the wound and the tools. The text \"Sim Week\" appears in the bottom right corner of each frame, accompanied by a small icon of a medical device. The background consists of a sterile medical environment with blue draping covering the simulated patient."
+}

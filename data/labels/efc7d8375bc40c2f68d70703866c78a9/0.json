@@ -1,0 +1,15 @@
+{
+  "video_id": "efc7d8375bc40c2f68d70703866c78a9",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.144,
+    0.431,
+    0.719,
+    1.006
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip shows a screen capture of a sports video game menu featuring a player card for \"TROY POLAMALU\" with an overall rating of \"96.\" The interface displays various stats, including \"DEFENSE\" and numerical values like \"77,\" \"31,\" \"16,\" \"31,\" and \"18\" across the top, and \"90,\" \"60,\" \"77,\" \"87,\" \"95,\" \"94,\" \"88,\" and \"99\" in a middle row. The background is a vibrant purple and pink gradient. A small inset window in the lower-left area shows a young man with blonde hair wearing a black shirt, who appears to be reacting to the screen. He looks surprised, with his mouth slightly open in a gasp. Throughout the sequence, the game interface remains static, while the man's expression shifts slightly as he continues to react with a look of disbelief or excitement."
+}

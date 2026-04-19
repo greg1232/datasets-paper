@@ -1,0 +1,15 @@
+{
+  "video_id": "2abf72887ca5c987b56fd94b96ca51e3",
+  "url": "./data/segments/3dN_F08u-KE-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.335,
+    1.005,
+    1.675,
+    2.345
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grayscale video sequence captured through a targeting reticle shows a bright, glowing object moving across a hazy, clouded landscape. In the top-left corner of each frame, a trident emblem is accompanied by the text \"\u0413\u041e\u041b\u041e\u0412\u041d\u0415 \u0423\u041f\u0420\u0410\u0412\u041b\u0406\u041d\u041d\u042f \u0420\u041e\u0417\u0412\u0406\u0414\u041a\u0418\". A red and white logo featuring the number \"13\" appears in the top right, and a circular logo containing a bird and the words \"GROUP 13\" is positioned in the bottom right. The scene is obscured by smoke or clouds, with the bright light source shifting positions and changing in intensity across the sequence. In the first frame, the light is a soft glow; by the third frame, it becomes a sharp, brilliant white orb; and in the final frame, it expands into a larger, diffused glare. The crosshair remains centered throughout the movement of the light."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f60d696daf763524d11a222aae125587",
+  "url": "./data/segments/3Z229_lKLpk-Scene-098.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.46,
+    1.38,
+    2.3,
+    3.22
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An overhead, wide-angle view captures a large, circular assembly hall filled with people seated in tiered, radiating rows of desks. The attendees are predominantly dressed in light-colored clothing, with many wearing white shirts. The seating area is divided into several wedge-shaped sections by green carpeted aisles. In the background, elevated galleries are filled with more people overlooking the main floor. The scene remains static across the frames, showing the assembly in a state of attentive stillness. No individuals are seen moving or interacting; they remain seated behind their desks, facing toward the center of the room. There is no visible on-screen text, logos, or specialized equipment beyond the desks and seating arrangements. The lighting is consistent and bright throughout the entire space, illuminating the repetitive pattern of the seating and the large crowd."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "852c6b526b43ee13f078ca4570e0ead0",
+  "url": "./data/segments/3rrLMM3eyQc-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.458,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a dark suit, white shirt, and maroon tie speaks at a podium in a room featuring light-colored wood paneling and the Israeli flag. He is positioned behind microphones with water bottles visible on the table beside him. Across the frames, he shifts his posture, looking down at his notes and gesturing slightly with his right hand. The screen is overlaid with several graphics, including the \"plustv\" logo and a news banner. The banner contains the text \"FOREIGN NEWS\" and \"NUCLEAR PROGRAMME\" in large letters, followed by the headline \"ISRAEL EXPECTS I.A.E.A. TO GIVE IRAN CLEAR WARNING AHEAD\". At the bottom of the screen, a subscription bar reads \"SUBSCRIBE WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE\". In the first frame, a translucent graphic reading \"NEWS UPDATE\" partially obscures the man's face, which disappears in the subsequent frames."
+}

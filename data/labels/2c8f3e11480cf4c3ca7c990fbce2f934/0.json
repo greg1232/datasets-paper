@@ -1,0 +1,15 @@
+{
+  "video_id": "2c8f3e11480cf4c3ca7c990fbce2f934",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.525,
+    0.875,
+    1.225
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dynamic animated logo for \"CDEEP IIT BOMBAY\" unfolds against a dark blue, radial-burst background. The animation features a blue crescent-like shape and a bright green oval ring that orbits and rotates around the central text. In the early stages, the text \"CDEEP\" is prominently displayed in a bold, white font, with \"IIT BOMBAY\" written in smaller white letters directly beneath it. As the sequence progresses, the green ring expands and rotates, partially obscuring the text. In the final phase, the green ring and blue crescent sweep across the screen in a fast motion, causing the text to fade and disappear as the graphic elements accelerate toward the right side of the frame, leaving behind streaks of light."
+}

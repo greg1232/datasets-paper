@@ -1,0 +1,15 @@
+{
+  "video_id": "96da38435787aa6666b64d6a58fbe633",
+  "url": "./data/segments/3cfugv0xNbU-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.976,
+    1.627,
+    2.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor corridor, several individuals are gathered near the back of a white van. A man in camouflage fatigues and a black face mask stands prominently in the foreground, facing a man in similar camouflage gear who is gesturing with his hands while speaking. Nearby, another person in camouflage and two others\u2014one in a black jacket and pants and another in a black top and teal pants\u2014stand watching. All individuals are wearing face masks. The interior of the white van is open, revealing various pieces of equipment and supplies. A small blue hexagonal logo is visible in the bottom right corner of each scene. Across the sequence, the group remains stationary in their positions, with the only significant change being the slight movements and gestures of the man in camouflage on the right as he continues to communicate with the others."
+}

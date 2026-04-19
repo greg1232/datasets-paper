@@ -1,0 +1,15 @@
+{
+  "video_id": "864b2c583d140575a2c410d8d962ebb6",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-129.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.706,
+    1.177,
+    1.648
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video captures a gaming screen displaying a player profile for \"JASON PIERRE-PAUL\" in a sports video game. The interface features a dark purple and black theme with a photo of the athlete in a white and black uniform. On-screen text includes \"ROLB 90,\" \"Team Name: Ravens,\" and \"College: UP.\" Menu options such as \"Compare,\" \"Promote to starter,\" \"Add to sets,\" \"Auction,\" and \"Trade\" are visible. In the bottom-left corner, a small webcam overlay shows a young man with blond hair wearing a dark shirt. As the sequence progresses, the man\u2019s facial expression changes; he starts with a neutral look, then opens his mouth in a surprised or excited expression, and finally smiles broadly while looking toward the screen. The game interface remains static throughout the clip, focusing on the player's \"HISTORY,\" \"DESCRIPTION,\" and \"ARCHETYPE\" sections."
+}

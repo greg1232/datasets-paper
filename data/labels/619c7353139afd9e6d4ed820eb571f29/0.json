@@ -1,0 +1,15 @@
+{
+  "video_id": "619c7353139afd9e6d4ed820eb571f29",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.246,
+    0.738,
+    1.23,
+    1.723
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, three healthcare professionals in blue scrubs and black jackets or lab coats attend to a patient mannequin lying in a hospital bed. One person, seen from the back with dark hair, stands in the foreground, while two others stand behind the bed. One professional wears a black face mask and blue gloves, holding a white paper, while another also wears a mask and gloves, looking toward the patient. A monitor in the background displays vitals, including the number \"108\". On-screen text includes a purple circle containing \"Day 2\" and the phrase \"Sim Week\" accompanied by a bar graph icon. As the sequence progresses, the professional on the left shifts their position slightly, and the person holding the paper remains focused on the mannequin, while the medical equipment and room layout stay consistent throughout the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5b0028f28e0e4ee3af53b415f2727f4c",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-379.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt, a green baseball cap, and black over-ear headphones sits in a room that appears to be a clothing store or studio. He is positioned in front of a black professional microphone. The background features walls adorned with numerous framed photographs and a mannequin wearing a white t-shirt. Clothing racks and a black chair are also visible. In the lower corners of the scene, logos for \"THE\" and \"HOTEL\" appear. As the sequence progresses, the man shifts his position and expression; initially facing slightly away and appearing focused, he then turns toward the camera and smiles. The text on his shirt, partially visible and stylistically rendered, reads \"IVY LEAGUE\" and \"SUIT\" over \"DRK\". The setting and equipment remain constant while the man's facial expression and head orientation change."
+}

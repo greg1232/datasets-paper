@@ -1,0 +1,15 @@
+{
+  "video_id": "d1c4e4dc68ec9ea102ab664eb0287e0c",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.225,
+    0.676,
+    1.126,
+    1.577
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view reveals the internal mechanical components of a motorized vehicle, likely a snowmobile, focusing on the engine and drive system. The scene is dominated by a metallic engine block and frame, showing signs of wear and dirt. A drive chain is visible, running horizontally across the middle of the frame, connected to various gears and shafts. Above the engine, a rusted exhaust pipe extends across the top. A white sticker with a barcode is attached to one of the engine components. The word \"POLARIS\" is embossed into the metal of the engine casing on the right side. Throughout the sequence, the camera remains stationary, and there is no movement from any people or equipment; the scene remains static across all four frames, showing a fixed perspective of the machinery."
+}

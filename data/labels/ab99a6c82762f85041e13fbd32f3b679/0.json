@@ -1,0 +1,15 @@
+{
+  "video_id": "ab99a6c82762f85041e13fbd32f3b679",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-130.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.396,
+    1.189,
+    1.981,
+    2.774
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a full dark beard is situated in a recording studio against a backdrop of grey acoustic foam panels. He wears black over-ear headphones and a white t-shirt featuring a small logo on the left chest that reads \"Sloppy Cinematic\" above \"VIDEO PROD\". He is positioned behind a professional silver condenser microphone mounted on a boom arm. Throughout the sequence, the man is engaged in a conversation, transitioning from a wide smile with his eyes open to a laugh where his eyes close. He leans slightly closer to the microphone as he speaks and laughs, with his facial expressions shifting from a smirk to a joyful, open-mouthed laugh. The lighting remains consistent across the scene, highlighting his features and the metallic surface of the recording equipment."
+}

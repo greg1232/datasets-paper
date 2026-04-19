@@ -1,0 +1,15 @@
+{
+  "video_id": "36fb29fa65860052a2bf90c16703ce5e",
+  "url": "./data/segments/3Smz5pevbI4-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting that appears to be a formal meeting or presentation, a man and a woman are seated. The man wears a light brown suit jacket over a white shirt and a brown tie, while the woman wears a dark jacket over a dark top and glasses. Both individuals have identification badges pinned to their jackets. The man holds a microphone in his left hand and gestures outward with his right arm. In the initial sequence, he extends his right arm fully toward someone off-camera. As the scene progresses, he brings his right hand back toward his chest, gesturing near the microphone while continuing to speak. The woman sits beside him, looking toward the man with a neutral expression. A white folder or set of papers rests on the table in front of her. The background consists of dark-colored seating and other partially visible attendees."
+}

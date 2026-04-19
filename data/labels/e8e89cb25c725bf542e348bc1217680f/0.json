@@ -1,0 +1,15 @@
+{
+  "video_id": "e8e89cb25c725bf542e348bc1217680f",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.237,
+    0.712,
+    1.188,
+    1.662
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is seen interacting with stacks of trading card packs on a black mat featuring a red and orange logo that reads \"JASPYS CASEBREAKS.COM\". The packs are dark with the word \"OBSIDIAN\" visible on the packaging. As the sequence progresses, the hand points toward the packs and then shifts positions, with a finger touching the side of the stack. In the upper right corner of the scene, a small inset video shows a man with a beard and dark clothing sitting at a desk with equipment, appearing to monitor the activity. The background of the main scene consists of the branded mat, while the inset video reveals a room with shelving and electronics. The action focuses on the tactile handling of the card packs, with the hand moving across the surface of the mat."
+}

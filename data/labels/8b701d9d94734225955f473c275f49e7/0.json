@@ -1,0 +1,15 @@
+{
+  "video_id": "8b701d9d94734225955f473c275f49e7",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-416.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football player wearing a white jersey with the number \"24\" and a white helmet stands on a green field during a game. He is positioned near a red boundary line and a white yard marker. A red circular indicator with a white \"X\" is centered beneath him on the grass. In the background, there is a red end zone area with yellow lettering, stadium seating filled with spectators, and banners displaying the text \"CHAMPIONS 1937 1942\". A person wearing red clothing stands in the distance near the red boundary. As the sequence progresses, the player shifts his posture, moving from a standing position to leaning slightly forward and adjusting his arms, while remaining within the red circular marker. The camera angle remains static, capturing the player from a side profile as he prepares for a play."
+}

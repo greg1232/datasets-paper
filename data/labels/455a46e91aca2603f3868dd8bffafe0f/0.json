@@ -1,0 +1,15 @@
+{
+  "video_id": "455a46e91aca2603f3868dd8bffafe0f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-309.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.66,
+    16.98,
+    28.3,
+    39.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grid-style video conference call features twelve participants in individual tiles. The participants, a mix of men and women, are in various indoor settings, including home offices with bookshelves and curtains. Most are dressed casually in shirts or sweaters. Several participants' tiles include labels at the bottom, such as \"Patricy\", \"Howard\", \"Jen Bartle\", \"Saymour Herli\", \"Prisca Pitton\", and \"Julie Bedford\". Throughout the sequence, the participants remain in their respective tiles, mostly looking toward their cameras and listening. One man in a blue shirt in the bottom left corner of the grid speaks, moving his head and gesturing slightly. As the sequence progresses, the overall composition of the call remains stable, with the same people in the same positions, though small changes in facial expressions and head movements occur as the conversation continues."
+}

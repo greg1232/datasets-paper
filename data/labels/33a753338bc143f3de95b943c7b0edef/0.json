@@ -1,0 +1,15 @@
+{
+  "video_id": "33a753338bc143f3de95b943c7b0edef",
+  "url": "./data/segments/3QD9oO6sRns-Scene-117.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.385,
+    1.156,
+    1.927,
+    2.698
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a graded trading card encased in a clear plastic slab, rotating it to show different angles. The background is a blurred room with various boxes and a small red helmet figurine. In each frame, a small inset video window in the lower right shows a man wearing a black t-shirt sitting at a desk. A logo for \"JASPRO\" and the website \"CASEBREAKS.COM\" are overlaid on the screen. As the card is tilted, light reflects off the plastic surface, and the card's dark face with purple borders becomes visible. The bottom of the frame contains a partial white logo that reads \"REA\" and \"EAY.\" The scene progresses as the person adjusts their grip and angle on the slab to better display the card and its grading label at the top, which includes the text \"2020.\""
+}

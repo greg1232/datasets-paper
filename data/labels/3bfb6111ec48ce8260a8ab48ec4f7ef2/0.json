@@ -1,0 +1,15 @@
+{
+  "video_id": "3bfb6111ec48ce8260a8ab48ec4f7ef2",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-087.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.359,
+    1.076,
+    1.793,
+    2.511
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video takes place indoors against a backdrop of closed brown horizontal blinds. A person wearing a white garment is partially visible on the right side of the frame, standing behind a black microphone stand. The back of the heads of several other people are seen in the foreground, including one person with light brown hair centrally positioned. The text \"ORCA\" appears in white capital letters on the right side of the scene. Throughout the sequence, the camera remains stationary and there is very little movement. The person in white stays in a similar position, and the individuals in the foreground remain still, with only minor shifts in posture visible across the frames."
+}

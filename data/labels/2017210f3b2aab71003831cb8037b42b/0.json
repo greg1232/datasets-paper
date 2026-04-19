@@ -1,0 +1,15 @@
+{
+  "video_id": "2017210f3b2aab71003831cb8037b42b",
+  "url": "./data/segments/3mmDnftP1M8-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.604,
+    4.812,
+    8.021,
+    11.229
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light blue button-down shirt and a black headset with a microphone is centered against a plain, light-colored wall. In the initial sequence, he looks downward with his eyes closed. As the scene progresses, he lifts his head and closes his eyes, bringing his hands together in a prayer-like gesture in front of his chest. In the final moment, he opens his eyes and raises both hands outward to his sides with palms facing forward. The text \"Ashish Raichur\" appears in the bottom left corner of each shot. The lighting remains consistent throughout, and the man remains in the same position while his facial expression and hand gestures evolve."
+}

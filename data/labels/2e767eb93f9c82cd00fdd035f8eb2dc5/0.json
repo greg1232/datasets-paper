@@ -1,0 +1,15 @@
+{
+  "video_id": "2e767eb93f9c82cd00fdd035f8eb2dc5",
+  "url": "./data/segments/3dN_F08u-KE-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.635,
+    1.905,
+    3.175,
+    4.445
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This video sequence displays a map and footage of a maritime event. The top and bottom portions of the screen feature a dark blue map showing coastal areas, including locations labeled \"Yevpatoriya,\" \"Simferopol,\" and \"Sevastopol.\" A red circle highlights a specific area of the water, and a white arrow points toward a splash of white water. On-screen text at the top reads \"Successful Ukrainian GUR Maritime Drone (USV) Attack On Russian Navy TARANTUL Class Missile Corvette Ivanovets, Jan 31, 2024,\" while other text identifies the \"Rough area of attack on night on Jan 31, Lake Donuzlov.\" A \"COVERT SHORES\" logo with a white ship silhouette appears at the bottom of the map. To the right of the map, a separate video window shows a bright white explosion of water erupting from a dark sea. The scene remains largely static across the frames, with only slight shifts in the water's movement within the video window."
+}

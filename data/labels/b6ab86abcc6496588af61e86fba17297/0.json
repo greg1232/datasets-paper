@@ -1,0 +1,15 @@
+{
+  "video_id": "b6ab86abcc6496588af61e86fba17297",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-181.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.5,
+    0.833,
+    1.167
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a sports card, which features a signature and the name \"JIM RICE,\" above a table covered with a palm tree patterned cloth. The background includes a white stand holding other items and a computer monitor. On the screen, a man wearing a blue shirt and a headset is visible in a smaller window. Overlaid text includes the logo \"JASPYS\" and the URL \"CASEBREAKS.COM.\" As the scene progresses, the person moves the card toward a clear plastic protective sleeve. By the end of the sequence, the card is partially inserted into the sleeve, obscuring some of the view of the table and the on-screen content. The man in the inset window remains in the same position, watching the process."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1bb9c087198b177915521cd8b9f8701c",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-222.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.459,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a room with wood-paneled walls, several people are seated in rows, facing a podium where a woman stands. She wears a white blouse and a dark vest, looking down at papers on the podium. In the foreground, a woman in a bright yellow shirt and a man in a maroon hoodie sit with their backs to the viewer. Other attendees, including a man in a light-colored shirt and a woman in a white sweater, are also present. On the right side of the image, the text \"ORCA\" is displayed in white letters on a dark background. Across the sequence, the scene remains largely static; the people remain in their seats, and the woman at the podium continues her presentation with minimal movement, maintaining her focus on the documents before her."
+}

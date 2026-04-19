@@ -1,0 +1,15 @@
+{
+  "video_id": "4895fc0815b727b389307e5d518acf0b",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-068.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.43,
+    1.289,
+    2.148,
+    3.007
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a static graphic set against a vibrant, swirling background of bright green and yellow tones that resemble flowing paint or liquid. Centered in the frame is a square grey album art cover depicting a geometric pattern of lines and circles. The text \"Fibonacci 24/7\" is written in white across the center of this square, with the name \"Larry Pesavento\" printed in a smaller white font below it. Directly beneath the album art, the words \"FIBONACCI 24/7\" appear in bold white capital letters. At the bottom of the screen, a blue rectangular button contains the word \"SUBSCRIBE\" in white capital letters. There are no people or movement present in the scene; the visual elements remain completely identical and stationary across all frames."
+}

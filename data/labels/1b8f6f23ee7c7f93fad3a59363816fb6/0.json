@@ -1,0 +1,15 @@
+{
+  "video_id": "1b8f6f23ee7c7f93fad3a59363816fb6",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.651,
+    1.952,
+    3.253,
+    4.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with reddish-blonde hair, wearing a black patterned blouse, sits at a white table in front of a bright yellow wall. She is gesturing with her hands while speaking, with a laptop open before her. Behind her is a screen displaying a man in a light-colored shirt sitting in an office with multiple monitors. Text on the screen reads \"ZURICH, SWITZERLAND\", and the \"COINTELEGRAPH\" logo appears in the upper corners of the scene. As the sequence progresses, the woman continues to talk, moving her hands dynamically to emphasize her points. In the initial frames, her hands are closer to her chest, but as time passes, she expands her gestures, extending her arms outward. The background environment and the image of the man on the screen remain static throughout the clip, while the woman's facial expressions and hand positions shift."
+}

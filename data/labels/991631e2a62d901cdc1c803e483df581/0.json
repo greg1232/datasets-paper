@@ -1,0 +1,15 @@
+{
+  "video_id": "991631e2a62d901cdc1c803e483df581",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-074.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.442,
+    1.325,
+    2.208,
+    3.092
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short blonde hair wearing a black top is seen in a small circular inset window, appearing to provide commentary. The main scene takes place in a kitchen, where a large metal bowl filled with a green and white mixture sits atop a wooden cutting board. The text \"UCAR CENTER FOR SCIENCE EDUCATION\" and a logo appear in the upper-left corner of each frame. As the sequence progresses, a hand reaches into the frame to lift the metal bowl. By the final frame, the bowl has been moved, and the hand is seen transferring the food mixture from the bowl onto a rectangular metal baking sheet. The background remains consistent, showing a domestic kitchen setting with a wooden countertop and a glimpse of a refrigerator."
+}

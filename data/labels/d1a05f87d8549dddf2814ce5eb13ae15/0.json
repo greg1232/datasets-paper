@@ -1,0 +1,15 @@
+{
+  "video_id": "d1a05f87d8549dddf2814ce5eb13ae15",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.188,
+    0.563,
+    0.938,
+    1.314
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey and white baseball cap, and large black over-ear headphones is positioned in front of a professional microphone. He is situated in a room with dark, textured acoustic foam panels covering the walls behind him. The microphone is mounted on a black boom arm that features the white text \"manfrotto nano clamp\". Throughout the sequence, the man is speaking into the microphone, his facial expressions shifting slightly as he talks. He remains in a static seated position, and the camera angle remains constant. The lighting is focused on the man, creating a contrast with the dark, sound-treated background. There are no other people visible, and the scene focuses entirely on the man's upper body as he engages in a recording or broadcast session."
+}

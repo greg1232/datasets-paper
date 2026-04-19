@@ -1,0 +1,15 @@
+{
+  "video_id": "c8cb3326b38c00fa7a68bfd01153011c",
+  "url": "./data/segments/3sJ5OX75erw-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.65,
+    1.95,
+    3.25,
+    4.55
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video capture shows a presentation titled \"The DARPA OPS-5G Program: A Collaboration between Government and the Open Source Community.\" The presentation slide, which features a dark background with a network diagram of nodes and lines, is displayed on a computer screen within a software interface. The slide attributes the presentation to \"Michael August\" of the \"United States Department of the Navy\" and lists the date \"April 12th, 2022.\" Logos for the \"OPEN NETWORKING EXECUTIVE FORUM\" and \"THE LINUX FOUNDATION\" are visible, along with the text \"DISTRIBUTION STATEMENT A. Approved for public release: distribution unlimited.\" In a small webcam feed at the top of the screen, a man wearing a light-blue button-down shirt is visible. Across the sequence of frames, the visual content remains static, showing no movement or changes in the presenter's pose or the on-screen text."
+}

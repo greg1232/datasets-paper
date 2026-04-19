@@ -1,0 +1,15 @@
+{
+  "video_id": "b7c2f06b6c9fc742c6d41896af73fb24",
+  "url": "./data/segments/3Kxl1O310k8-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    9.545,
+    28.635,
+    47.725,
+    66.815
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"Three Final Things\" is shown, featuring a numbered list of three points. Point 1, encircled in a white circle, reads \"Consider the local infrastructure \u2013 needs and resources.\" Point 2, in a green stylized font, says \"Develop goals that reflect identified needs.\" Point 3, in a gold stylized font, states \"Be real about your capacity.\" In the upper right corner, a small inset video shows a person with dark hair wearing a blue garment. A yellow bar runs across the bottom of the screen, containing the acronym \"MHP\" on the left side. The scene remains static across all frames, with no visible changes to the text, the layout of the slide, or the person in the small video window."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c41e2c9169f8568a83e7e2861befb834",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-200.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.4,
+    1.2,
+    2.0,
+    2.8
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a screen recording of a digital presentation. In the beginning, a browser window is displayed, showing a complex system diagram with various labels and interconnected arrows. The diagram includes phrases such as \"Birds Outside,\" \"Attractiveness of Garden,\" \"Bird Poop,\" and \"Unsightly Goals.\" A man with a beard, wearing a dark shirt and a blue baseball cap, is visible in a small video call window in the upper right corner. The screen then transitions to a stark black background with large green text centered in the middle that asks, \"What's the real problem?\". The man remains visible in his small video window throughout the transition, maintaining a steady gaze toward the camera. The scene shifts from the detailed systemic mapping to a provocative, singular question displayed on the screen."
+}

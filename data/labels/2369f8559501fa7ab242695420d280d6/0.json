@@ -1,0 +1,15 @@
+{
+  "video_id": "2369f8559501fa7ab242695420d280d6",
+  "url": "./data/segments/3a0FD1177FA-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is working on a craft project on a white wooden table surface. The individual, wearing a white watch and a blue and white patterned sleeve, holds a square piece of green and yellow floral patterned paper over a grey cutting mat equipped with a paper trimmer. In the top-left frame, the person grips the paper by its top corners. As the sequence progresses through the top-right and bottom-left frames, the person shifts their hands and moves the paper across the mat. By the final frame, the person is positioning the paper horizontally over the trimmer's guide. A watermark reading \"Stamping Jill\" with a heart icon appears in the bottom-left of each scene. Other craft supplies, including a small stamped card and a white ink pad, are visible on the table beside the cutting equipment."
+}

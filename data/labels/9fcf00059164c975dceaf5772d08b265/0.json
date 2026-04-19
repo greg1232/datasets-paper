@@ -1,0 +1,15 @@
+{
+  "video_id": "9fcf00059164c975dceaf5772d08b265",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-258.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.265,
+    0.794,
+    1.323,
+    1.852
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair wearing headphones and a dark blue shirt appears in a small overlay window in the bottom left of a football game broadcast. He is positioned in front of a decorated Christmas tree. The main screen shows an American football game played on a green field with white yard lines and \"COMMANDERS\" written in red. Players in white uniforms and players in black and red uniforms are positioned for a play. On-screen text at the top reads \"3rd & G\", \"EXO 0\", \"1st\", \"2:32\", and \"28\", while a banner says \"LET'S GO DEFEN!\". As the sequence progresses, the players engage in a snap, with the offensive line in white clashing with the defensive line in black. The man in the overlay remains relatively still, watching the action. The clock changes slightly to \"2:31\" as the play unfolds."
+}

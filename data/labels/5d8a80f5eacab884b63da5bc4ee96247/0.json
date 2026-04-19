@@ -1,0 +1,15 @@
+{
+  "video_id": "5d8a80f5eacab884b63da5bc4ee96247",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-164.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.439,
+    4.317,
+    7.195,
+    10.073
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A motion graphic video features a dark, stylized digital background with glowing cyan network nodes and lines. The sequence begins with the text \"THE TECHNOLOGY INSIDER\" centered against this digital backdrop. The scene then transitions to a plain white screen featuring a small, central logo, followed by a return to the digital background with \"THE TECHNOLOGY INSIDER\" again. This is followed by a white screen displaying \"TFNN.com EDUCATING INVESTORS\" above a large, cyan-colored price of \"$37.50\". The visual pattern repeats, showing \"THE TECHNOLOGY INSIDER\" on the digital background, followed by the white screen with \"TFNN.com EDUCATING INVESTORS\" and \"$37.50\". In the later iterations of the digital background scenes, a bright cyan \"SIGN UP\" button appears below the main text. No people or physical locations are present in the video."
+}

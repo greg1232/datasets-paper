@@ -1,0 +1,15 @@
+{
+  "video_id": "14cc1a2df1a557a06ba1126d26038f24",
+  "url": "./data/segments/3L_uHTClWfk-Scene-062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.654,
+    7.962,
+    13.271,
+    18.579
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static webpage from the Internal Revenue Service (IRS) website. The IRS logo is visible in the top left corner, accompanied by a navigation menu with the options \"SEARCH,\" \"HELP,\" and \"MENU.\" The text discusses Required Minimum Distributions (RMDs), stating, \"An RMD may be required for an IRA, retirement plan account or Roth IRA inherited from the original owner.\" It references \"Retirement Topics - Beneficiary\" and \"Publication 559, Survivors, Executors and Administrators.\" A section titled \"2020 coronavirus-related distribution\" explains that since 2020 RMDs were waived, account owners or beneficiaries who received an RMD had the option of returning it to avoid paying taxes. The scene remains identical across all frames, showing the same text and layout without any changes in content, movement, or visible actors."
+}

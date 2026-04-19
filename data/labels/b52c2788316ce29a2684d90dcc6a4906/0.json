@@ -1,0 +1,15 @@
+{
+  "video_id": "b52c2788316ce29a2684d90dcc6a4906",
+  "url": "./data/segments/3hcAJKLX-Ps-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a maroon button-down shirt and glasses stands on a stage, speaking into a handheld microphone. He is positioned in profile, facing toward the right side of the scene. To his left, another man in a white short-sleeved shirt and a black lanyard stands still. In the background, a person wearing a white garment and a gold-colored sash is partially visible. The backdrop is bright green and yellow with white text, including the numbers \"021\" and a word in a non-Latin script ending in \"\u0ba4\u0bbf\u0bae\u0bcd!\". Between the frames, the man in the maroon shirt continues to speak, shifting the position of the microphone closer to his mouth. His right hand, which was raised in a gesture in the first frame, lowers toward the microphone as the sequence progresses. The other individuals in the scene remain relatively stationary."
+}

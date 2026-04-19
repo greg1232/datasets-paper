@@ -1,0 +1,15 @@
+{
+  "video_id": "661bd7d8721d6db450dae7d05067c198",
+  "url": "./data/segments/3szCdVKgMug-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.634,
+    1.902,
+    3.17,
+    4.438
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a static outdoor scene in a lush, green garden filled with various plants, foliage, and drooping willow branches. A dark, ornate stone pedestal topped with a spherical ornament stands centrally in the frame. White, capitalized text is superimposed over the left side of the scene, reading, \"WHAT ACCOUNTS FOR CHANGE ACCORDING TO THE ATOMISTS?\". There are no people visible in the shot. Throughout the sequence, the scene remains entirely still, with no movement in the greenery or the pedestal, and the on-screen text stays fixed in position. The visual elements remain identical across all frames, presenting a consistent, unchanging view of the garden setting and the philosophical question posed in the text."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "3e9e7e60f1d12cb69c9e982bb9e6915b",
+  "url": "./data/segments/3QD9oO6sRns-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.358,
+    1.075,
+    1.792,
+    2.508
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand interacts with stacks of \"Clearly Authentic\" product boxes on a dark surface. The boxes are arranged in several neat columns, featuring white, black, and red text. In the background, a man wearing a black t-shirt and a baseball cap is visible in a small picture-in-picture window. He is seated in an office setting with a computer monitor and a white chair behind him. Overlaid on the scene is a large logo that reads \"JASPYS CASEBREAKS.\" The logo is orange and white with a black outline. Additionally, smaller text in the inset window reads \"CASEBREAKS.COM\". Across the sequence, the camera angle shifts slightly, moving from a focused view of the boxed products to a wider shot that includes more of the table and the man in the overlay, while the hand continues to adjust the boxes."
+}

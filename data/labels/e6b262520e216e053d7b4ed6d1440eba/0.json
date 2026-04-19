@@ -1,0 +1,15 @@
+{
+  "video_id": "e6b262520e216e053d7b4ed6d1440eba",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.018,
+    3.053,
+    5.088,
+    7.124
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A driver's perspective from a dark-colored car with grey racing stripes on the hood shows a vehicle traveling along a wide multi-lane road. The setting is an urban or suburban area under a clear blue sky with green trees lining the roadside. In the distance, other vehicles are visible, including a white car and a red car traveling in the same direction. On the right side of the road, a black sign with white text reads \"TREAT TO GET,\" and further down, a white speed limit sign is visible. As the car progresses forward, the perspective shifts closer to the vehicles ahead. The scenery changes from an open road with various parked and moving cars to a view passing by a large white building on the right. The grey stripes on the hood remain a constant foreground element as the car continues its forward motion."
+}

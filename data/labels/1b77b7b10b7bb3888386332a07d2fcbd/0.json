@@ -1,0 +1,15 @@
+{
+  "video_id": "1b77b7b10b7bb3888386332a07d2fcbd",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-281.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.708,
+    0.992
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football video game interface displays a defensive play-selection screen during a game. The top of the screen shows game stats, including \"3rd & 4\" and a clock at \"0:54 33 .29\". A banner reads \"HOLD-THE LINE ENABLED!\". A man with blonde hair wearing a blue shirt and a headset is visible in a small picture-in-picture window on the left. The main screen features a \"SELECT A PLAY\" menu with options like \"COACH SUGGESTIONS\", \"FORMATION\", and \"RECENT PLAYS\". As the sequence progresses, the user navigates through defensive schemes. Initial frames highlight \"COVER 4 QUARTERS\" with a diagram of player positions. Later frames show the selection shifting to other plays, including \"PINCH BUCK 0\" and \"COVER 1 HOLE\". The background shows a virtual stadium filled with spectators under a dark sky, and a \"PREVIOUS PLAY\" summary mentions \"COVER 4 QUARTERS\" and \"FK SLOT CROSS\"."
+}

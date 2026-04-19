@@ -1,0 +1,15 @@
+{
+  "video_id": "b64fe14c9a87a8a032d8b5b5540410a3",
+  "url": "./data/segments/3hLeTO8SC3U-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.185,
+    3.554,
+    5.923,
+    8.292
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men in suits are seated and engaged in a conversation within a large, modern convention hall with high ceilings and a neutral-toned interior. The man on the left wears a dark grey suit, a white shirt, and a blue tie, while the man on the right wears a dark suit and a light-colored shirt without a tie. They sit at a small round table holding a laptop and some papers. The man on the right is gesturing with his hands while speaking, and as the sequence progresses, his hand movements shift and he eventually rests his hands in his lap. A graphic overlay at the bottom of the scene features the text \"MONGODB WORLD 2022\", \"#MDW22 | #theCUBE\", and \"theCUBE From the Javits Center, New York, NY\", alongside a \"Sponsored By MongoDB\" logo."
+}

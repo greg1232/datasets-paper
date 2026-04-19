@@ -1,0 +1,15 @@
+{
+  "video_id": "503d6e8f46148a3b25dff11276336e89",
+  "url": "./data/segments/3sJ5OX75erw-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.185,
+    15.555,
+    25.925,
+    36.295
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair wearing a dark suit jacket and a light-colored collared shirt appears in a small inset video window in the upper right corner of a presentation slide. The main portion of the screen displays a dark blue \"Agenda\" slide with a white bulleted list. The text includes \"DARPA's Mission,\" \"DARPA OPS-5G Program Overview,\" and \"OPS-5G Technical Areas,\" which is further broken down into \"TA1: Standards Meet Software,\" \"TA2: Cross-Scale 5G Node and Network Security,\" \"TA3: Secure Slices,\" and \"TA4: Principled Programmable Defenses.\" Other agenda items listed are \"DARPA / Linux Foundation Collaboration for Open 5G Software,\" \"LFN 5G Super Blueprint,\" \"MOJITO Overview,\" and \"Challenges.\" Logos for #open\u0e13atenedge, THE LINUX FOUNDATION, LFN NETWORKING, and LFX EDGE appear along the bottom. Throughout the sequence, the slide remains static while the man in the inset window slightly shifts his posture and facial expression."
+}

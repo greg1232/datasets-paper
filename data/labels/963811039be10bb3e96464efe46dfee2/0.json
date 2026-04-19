@@ -1,0 +1,15 @@
+{
+  "video_id": "963811039be10bb3e96464efe46dfee2",
+  "url": "./data/segments/3a0FD1177FA-Scene-073.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.032,
+    3.097,
+    5.161,
+    7.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A pair of hands works on a crafting project atop a translucent cutting mat with grid lines and measurement markings. The person wears a white smartwatch on their left wrist and a ring on their left ring finger. In the initial sequence, they carefully position and press down a strip of decorative paper with a purple-blue leaf pattern onto a dark cardstock base. Adjacent to the workspace are several strips of green and yellow foliage-patterned paper and a black ink pad. A logo featuring a heart and the text \"Stamping\" is visible in the bottom left corner of the scene. As the sequence progresses, the person finishes smoothing the purple-blue paper into place and then moves their hand across the card to secure it. The background remains static, while the focus is on the precise manual placement of the patterned paper strips."
+}

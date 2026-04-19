@@ -1,0 +1,15 @@
+{
+  "video_id": "1b16887b0bb7900e56e371c2882a33dd",
+  "url": "./data/segments/3E6ctN22V7k-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.255,
+    0.765,
+    1.275,
+    1.785
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark skin and hair pulled back is centered in the frame against a light-brown brick wall. She is wearing a white collared shirt under a dark blue blazer. In the first frame, she looks directly at the camera with a neutral expression. As the sequence progresses, her eyes slowly close, and her head tilts slightly downward. By the final frame, her eyes are closed, and her expression appears somber. The on-screen text \"I am a political refugee.\" is positioned across the bottom of the frame and remains constant throughout the clip. No other people, objects, or logos are visible in the scene."
+}

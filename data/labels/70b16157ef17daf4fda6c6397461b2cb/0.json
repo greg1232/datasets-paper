@@ -1,0 +1,15 @@
+{
+  "video_id": "70b16157ef17daf4fda6c6397461b2cb",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-333.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.688,
+    2.065,
+    3.441,
+    4.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is recording audio in a studio featuring dark gray acoustic foam walls. He wears over-ear black headphones and a plain white t-shirt, with tattoos visible on his right arm. Positioned directly in front of him is a professional silver microphone mounted on a boom arm; the arm displays the text \"rode\" and \"Professional Studio Microphone.\" Across the sequence, the man is speaking into the microphone, his mouth opening and closing as he talks. He maintains a focused expression, shifting his gaze slightly as he speaks. In the final moments, he begins to gesture with his right hand, lifting it slightly while continuing to speak into the microphone. The background and equipment remain static throughout the scene."
+}

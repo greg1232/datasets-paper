@@ -1,0 +1,15 @@
+{
+  "video_id": "798fd90f1882cce46b082b457b46d126",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-410.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.604,
+    0.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game simulation of an American football game takes place in a crowded stadium. Players in white uniforms and players in dark uniforms are scattered across a green field marked with white yard lines and a large yellow and red logo. At the bottom left of the screen, a small window shows a blonde man in a dark blue shirt watching the action. Across the top, a scoreboard displays \"ULTIMATE TEAM\" and indicates the game is in the \"3rd\" quarter with \"0:12\" remaining, showing a score of \"14\" and \"7\". As the play unfolds, a player in white throws a pass. In the later stages of the clip, the text \"PERFECT ACCURACY\" and \"BULLET PASS\" appears in yellow on the field. The man in the window looks on with a surprised expression as the play progresses toward the end zone."
+}

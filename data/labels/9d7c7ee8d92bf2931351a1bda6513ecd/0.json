@@ -1,0 +1,15 @@
+{
+  "video_id": "9d7c7ee8d92bf2931351a1bda6513ecd",
+  "url": "./data/segments/3Smz5pevbI4-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.711,
+    8.133,
+    13.555,
+    18.977
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands before a grey backdrop featuring repeating \"UNITED STATES INSTITUTE OF PEACE\" logos. He is dressed in a grey blazer over a light-colored collared shirt and wears a lanyard with an identification badge. He speaks while using hand gestures to emphasize his points, moving his hands together and then apart as he talks. In the lower portion of the scene, a blue graphic bar appears containing white text that identifies him as \"Dr. Emile Bruneau,\" followed by \"Research Scientist, Saxelab\" and \"Massachusetts Institute of Technology.\" The camera remains in a medium shot, focusing on the man from the waist up. As the sequence progresses, he continues his presentation, with his hand positions shifting slightly as he maintains a steady gaze toward the audience."
+}

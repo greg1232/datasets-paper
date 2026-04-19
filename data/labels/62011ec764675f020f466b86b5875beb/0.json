@@ -1,0 +1,15 @@
+{
+  "video_id": "62011ec764675f020f466b86b5875beb",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-265.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.511,
+    1.533,
+    2.555,
+    3.576
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt and a matching green baseball cap sits in a recording studio, speaking into a microphone. He is positioned in front of a backdrop featuring the text \"UNIQUE FASHIONS\" and a logo for \"VEM VIRTUAL REALITY\". To his left, clothing racks display various apparel, including a pink garment. He speaks while gesturing slightly with his hand on the table. A black microphone on a stand is positioned directly in front of him, and another is visible further to the right. On the table, a smaller microphone features a circular logo that reads \"BOSSES TALK\". In the lower corners of the scene, red and white graphic overlays are visible, with the one on the right containing the text \"BOSSES TALK\". Across the sequence, the man remains in the same position, his mouth moving as he continues speaking and his expression shifting slightly."
+}

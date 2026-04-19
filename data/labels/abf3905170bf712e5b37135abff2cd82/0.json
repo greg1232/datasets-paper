@@ -1,0 +1,15 @@
+{
+  "video_id": "abf3905170bf712e5b37135abff2cd82",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.096,
+    3.288,
+    5.479,
+    7.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser transitioning between different pages and windows. The sequence begins with a list of names, including \"Dr Presmyer,\" \"Scott Eckert,\" and \"Michael Loguericio,\" followed by a window showing a random number generator on the website \"RANDOM.ORG\" displaying \"Dice Roller\" and \"You rolled 2 dice: 2\". A small inset video in the corner shows a man with dark hair and a beard wearing a black shirt, with a \"CASEBREAKS.COM\" logo below him. The view then switches back to the \"RANDOM.ORG\" page, then to a list of names including \"Simon Hayez\" and \"Nancy Rippoll,\" and finally back to the \"RANDOM.ORG\" page. Throughout the sequence, a chat window is visible on the side with messages from \"glowbug27\" saying \"turning\" and \"Nightbot\" saying \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE!!! https://bit.ly/NzGeS6K9\"."
+}

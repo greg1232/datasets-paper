@@ -1,0 +1,15 @@
+{
+  "video_id": "039a2d8f3193b9f5a765c4857fc27d53",
+  "url": "./data/segments/3Kxl1O310k8-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.64,
+    37.92,
+    63.2,
+    88.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide describes how a Community Production Account (CPA) can be used, featuring the header text \"CPA can fund housing trusts.\" Below the header, a series of three ascending blue-bordered boxes illustrate different funding applications. The first box states \"Applies for specific program/project,\" the second says \"Applies for no specific purpose,\" and the third indicates \"Transfers set % each year.\" A yellow horizontal bar runs across the bottom of the frame, containing small profile icons of participants and the initials \"MHP.\" In the upper right corner, a small video feed shows a man wearing a dark suit and white shirt. The scene remains static across all frames, with the same text, graphics, and video feed appearing consistently, indicating a pause or a slow transition during a digital presentation."
+}

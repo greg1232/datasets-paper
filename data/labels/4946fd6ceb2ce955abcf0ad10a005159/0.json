@@ -1,0 +1,15 @@
+{
+  "video_id": "4946fd6ceb2ce955abcf0ad10a005159",
+  "url": "./data/segments/3QD9oO6sRns-Scene-136.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.298,
+    0.894,
+    1.49,
+    2.085
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person stands behind a table covered with a black and white surface featuring the orange and blue logo \"JASPYS CASEBREAKS\" and the text \"Sports Cards & Collectibles HERMOSA BEACH CA\". On the table, several sealed boxes of \"ULTIMATUM\" trading cards are stacked. A small inset video window in the corner shows a man wearing a black t-shirt and a white baseball cap. As the sequence progresses, a hand enters the frame from the left and reaches toward the stacked boxes. The hand eventually grasps one of the boxes and begins to move it across the table. Throughout the scene, a white cardboard backdrop is visible behind the items, also displaying the \"JASPYS CASEBREAKS\" logo. A small red and white object sits on the table to the left of the card boxes."
+}

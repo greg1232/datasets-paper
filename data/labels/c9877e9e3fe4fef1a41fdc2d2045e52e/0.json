@@ -1,0 +1,15 @@
+{
+  "video_id": "c9877e9e3fe4fef1a41fdc2d2045e52e",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    14.606,
+    43.819,
+    73.031,
+    102.244
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A security camera captures a dimly lit indoor storage area or garage. In the center of the space, a ladder leans against a structure, and a long, narrow object rests on a support. A bright light source on the right side of the scene creates a strong glare. In the upper-left and upper-right frames, a small, light-colored object moves quickly across the floor from left to right. By the bottom frames, the object has moved further right and partially disappears from view. Each frame contains the text \"Cam 04\" in the bottom-left corner. Timestamps in the top-right of each frame indicate the sequence: \"05-13-2022 11:29:02PM\", \"05-13-2022 11:29:35PM\", \"05-13-2022 11:30:08PM\", and \"05-13-2022 11:30:40PM\". No people are visible in any of the frames."
+}

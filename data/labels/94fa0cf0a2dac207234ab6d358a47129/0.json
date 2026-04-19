@@ -1,0 +1,15 @@
+{
+  "video_id": "94fa0cf0a2dac207234ab6d358a47129",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-706.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.417,
+    1.251,
+    2.085,
+    2.92
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt and a matching green baseball cap speaks into a professional microphone in a retail clothing store. He wears black headphones and is seated at a table with two microphones and a small white circular object. In the background, clothing racks, mannequins wearing white t-shirts, and framed pictures adorn the walls. A sign reads \"UNIQUE FASHIONS\" and another says \"RE BOSSES TALK IT'S TALK ABOUT IT\". Small logos, including one that says \"BODILY\", appear in the lower corners of the scene. The man transitions from a side profile view, facing right, to a front-facing view as he speaks. Throughout the sequence, he maintains a consistent expression while gesturing slightly with his head, remaining in the same seated position within the store environment."
+}

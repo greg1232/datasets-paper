@@ -1,0 +1,15 @@
+{
+  "video_id": "6e014ddd374a44c9effdb4bd26c90f36",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.965,
+    11.895,
+    19.825,
+    27.755
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a studio setting with a digital backdrop and a presenter. The presenter, a woman wearing a yellow suit, stands centrally, gesturing with her hands as she speaks. Behind her, a large screen displays images of three men: one in a white shirt, another with a beard also in white, and a third man wearing glasses and a white garment. On-screen Hindi text reads \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908\" and \"\u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948!\". A red ticker at the bottom of the screen states, \"\u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e: \u0928\u0940\u0924\u0940\u0936 \u0915\u093e \u0935\u093e\u092a\u0938 \u0906\u0928\u093e \u0938\u0941\u0916\u0926 \u0938\u092e\u093e\u091a\u093e\u0930 \u0939\u0948\". The News18 India logo is visible in the top right corner. As the sequence progresses, the presenter continues her report, and the timestamp in the bottom right corner changes from \"10:00 PM\" to \"10:01 PM\". The visual composition remains consistent across the frames, focusing on the presenter and the graphic backdrop."
+}

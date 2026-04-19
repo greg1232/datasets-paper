@@ -1,0 +1,15 @@
+{
+  "video_id": "4432e95c00d889aed1a4939a3f249a06",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.33,
+    0.99,
+    1.65,
+    2.31
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A short video captures scenes from a sports stadium and its entrance, featuring the Real Madrid logo in the upper right of each shot. The sequence begins with an exterior view of a stadium wall and a tall light pole beneath a cloudy sky. The perspective then shifts to an empty stadium with red tiered seating and a green grass field. A large electronic scoreboard displays \"IDEAL\" and a red-and-white graphic, while the words \"GRANADA\" and \"IDEAL\" are visible on the stadium walls. In the final scene, the setting moves to a covered outdoor area with red pillars and brick walls. A man in a grey tank top and dark pants walks toward a white team bus labeled \"Real Madrid.\" He is accompanied by two men in dark suits; one stands near the bus entrance and another stands by a red pillar."
+}

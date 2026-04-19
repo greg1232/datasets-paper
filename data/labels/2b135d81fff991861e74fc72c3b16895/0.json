@@ -1,0 +1,15 @@
+{
+  "video_id": "2b135d81fff991861e74fc72c3b16895",
+  "url": "./data/segments/3U065Ox-1uA-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.313,
+    0.938,
+    1.564,
+    2.19
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large crowd of people stands in a queue outdoors in an urban setting, separated by white metal barricades. Many individuals are wearing winter clothing, such as heavy coats and jackets, and several are wearing face masks. The people are standing close together, mostly facing away from the camera, while some use their phones. In the background, modern tall buildings and a white tent are visible under an overcast sky. Each frame features a \"REUTERS\" watermark and a \"VOA(60) LEARNING ENGLISH\" logo in the upper left and right corners. Across the bottom of every frame, the text \"are limited in parts of Asia because of COVID-19.\" is displayed. As the sequence progresses, there is minimal movement, with a few people shifting their positions slightly within the line, maintaining the overall static composition of the scene."
+}

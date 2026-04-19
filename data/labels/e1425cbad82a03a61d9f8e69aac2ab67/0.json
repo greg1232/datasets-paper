@@ -1,0 +1,15 @@
+{
+  "video_id": "e1425cbad82a03a61d9f8e69aac2ab67",
+  "url": "./data/segments/3Smz5pevbI4-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    14.806,
+    44.419,
+    74.032,
+    103.645
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"Test intuitive psych interventions: Roma\" displays data concerning \"economic self-interest (World Bank).\" The slide features two population pyramids comparing Budapest (99.2% Magyar) and Als\u00f3szentm\u00e1rton (100% Roma), with the x-axis labeled \"number of people\" and the y-axis labeled \"age.\" In the first frame, the pyramids show red and blue population distributions. As the video progresses, a red highlighting box moves across the population pyramids, first covering the Budapest chart and then shifting to the Als\u00f3szentm\u00e1rton chart. In the final frames, additional text appears at the bottom of the slide: \"Intended: economic self-interest\" and \"Unintended: threat prime.\" A red arrow then appears, pointing from the intended text toward the phrase \"for whom?\" which is positioned above a small graphic depicting a group of stylized human figures."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b922784a1ed4839af20e1fb07a1d81f5",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-880.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a dark complexion wears a green baseball cap, black headphones, and a dark green t-shirt with the white text \"YOU NEVER DO SHIT AT WORK\" printed on the front. He is positioned in front of a professional black microphone, speaking and reacting with slight changes in facial expression. The setting is a room decorated with numerous framed photographs on the wall and a white mannequin wearing a white shirt in the background. Clothing racks are visible further back in the room. A small red and white logo featuring the text \"BORELLY\" appears in the bottom right corner, and a circular logo is visible on the bottom left. Across the sequence, the man remains seated in the same position, with his mouth moving as he talks, while the background and equipment stay stationary."
+}

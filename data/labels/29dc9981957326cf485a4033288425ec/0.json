@@ -1,0 +1,15 @@
+{
+  "video_id": "29dc9981957326cf485a4033288425ec",
+  "url": "./data/segments/3E6ctN22V7k-Scene-099.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.255,
+    0.425,
+    0.595
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand and arm enter the frame from the left, interacting with a white tablet mounted on a silver metal arm. The tablet displays a map of the Americas with accompanying text and data. In the initial sequence, the person points toward the screen, and then moves their hand upward and across the display in a sweeping motion. The scene concludes with the hand moving out of view, revealing the full screen of the tablet again. The text \"Just like the children where you are from.\" is superimposed at the bottom of every frame. The background is a blur of neutral-toned walls and structural elements, focusing the attention on the interaction with the digital device."
+}

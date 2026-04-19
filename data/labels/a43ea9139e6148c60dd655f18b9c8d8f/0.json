@@ -1,0 +1,15 @@
+{
+  "video_id": "a43ea9139e6148c60dd655f18b9c8d8f",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.145,
+    0.435,
+    0.725,
+    1.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a man with a mustache wearing a white shirt and a dark grey vest with an \"ANI\" logo on it. He is positioned inside a vehicle, speaking while gesturing with his right hand. To his left is a portrait of an older man with glasses and white hair, identified by the text \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\". To the right, smaller portraits of two other men are labeled \"\u092e\u0902\u0924\u094d\u0930\u0940 \u0935\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\" and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930\". A red banner at the top reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". A large yellow and red banner at the bottom displays \"BREAKING NEWS\" and \"10:04 PM\", alongside a small logo for \"MAHAGOW\". As the scene progresses, the man in the vest continues to speak, moving his hand from a slight open-palm gesture to touching his forehead with his fingertips. The background elements, including the portraits and text banners, remain static across the frames."
+}

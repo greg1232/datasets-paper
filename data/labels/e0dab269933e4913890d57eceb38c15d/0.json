@@ -1,0 +1,15 @@
+{
+  "video_id": "e0dab269933e4913890d57eceb38c15d",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.555,
+    4.665,
+    7.775,
+    10.885
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair, wearing a dark blue blazer over a black shirt, stands behind a podium against a plain white wall. In the top left, he is gesturing with his right hand as he speaks. In the subsequent frames, his hand lowers, and he continues to speak while looking toward the right side of the frame. A thin black microphone and a clear plastic water bottle with a blue cap and a white label are visible on the podium in front of him. The logo \"mediasite by cornerstone ondemand\" appears in the top left corner of every scene. The man's expression remains serious and focused as he delivers his presentation, with minimal movement aside from his speaking gestures."
+}

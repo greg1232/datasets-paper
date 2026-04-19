@@ -1,0 +1,15 @@
+{
+  "video_id": "4c002d0e0ed981a0c362564b3b61ba2b",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.947,
+    2.84,
+    4.734,
+    6.627
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a soft, golden-beige background with out-of-focus white light circles. A glittery red heart outline is positioned on the left side of the screen, containing a smaller solid red heart inside. Across the frames, script text evolves and transforms in the center and right side of the scene. Initially, the text reads \"Stamping Jill\" with \"ALWAYS CREATING\" written in small capital letters below it. As the sequence progresses, the text shifts to read \"Watch it Weekly,\" with the words overlapping in a stylized, flowing black font. In the final visible frames, the text changes again to read \"Watch it Weekly Wednesday,\" stacking the words vertically while maintaining the elegant script style. The final frame transitions into a dark, blurred version of the background, obscuring the text and the glittery heart."
+}

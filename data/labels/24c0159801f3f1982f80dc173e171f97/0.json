@@ -1,0 +1,15 @@
+{
+  "video_id": "24c0159801f3f1982f80dc173e171f97",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-467.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.14,
+    0.419,
+    0.698,
+    0.977
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, wearing a dark blue shirt and white headphones, is positioned in a small inset window in the lower left of a purple-tinted screen. He is speaking with an open mouth and animated facial expression. In the background of his inset window, a decorated Christmas tree is visible to the left. The main screen is dominated by a purple gradient, with a status bar across the top containing various icons and numerical values, including \"149,529\", \"0\", \"14,600\", \"1,787,969\", and \"21 (S1)\". In the middle of the right side of the screen, the word \"STORE\" appears faintly. Across the sequence, the man's facial expression shifts slightly as he continues to talk, but the overall setting and the information in the top status bar remain constant."
+}

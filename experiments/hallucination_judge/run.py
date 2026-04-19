@@ -44,17 +44,28 @@ DEFAULT_CACHE_DIR = REPO_ROOT / "results" / "visual_grounding" / "_comparator_ca
 
 VALID_DATASETS = {"ours", "openvid", "internvid"}
 
-JUDGE_PROMPT = """You are a strict caption auditor. I will show you three frames sampled from a short video clip (begin, middle, end) and a caption auto-generated to describe the clip. Your job is to flag claims in the caption that are NOT supported by what is visible in the frames.
+JUDGE_PROMPT = """You are a factual-contradiction auditor for video captions. I will show you three frames from a short video clip (begin, middle, end) and a caption describing the clip. Your job is to identify ONLY factual CONTENT hallucinations — concrete assertions that directly contradict what is visible, or that name specific entities/objects that are demonstrably absent from all three frames.
 
-Guidance:
-- Flag only claims that are directly CONTRADICTED by the frames, or that refer to concrete entities or actions that are NOT visible in any of the three frames.
-- Do NOT flag reasonable inferences from visible evidence (e.g., inferring "a podcast recording" when microphones and headphones are visible, or inferring activity purpose from props).
-- Do NOT flag claims that could plausibly be true but simply cannot be confirmed from static frames (e.g., audio content, off-screen context).
+ONLY flag a claim if it meets this high bar:
+  1. A specific visual attribute that directly contradicts the frames (e.g., "blue shirt" when the shirt is clearly red; "7:30 on the clock" when the clock reads 9:00).
+  2. A specific named person, object, text overlay, or concrete action that the caption says is in the video but that is absent from every one of the three frames (e.g., "a baseball card" when no card is visible anywhere).
+  3. A structural claim about the scene that is directly contradicted by what is visible (e.g., "four people at a table" when only one person is visible).
+
+DO NOT flag any of the following (these are NOT hallucinations for our purposes):
+  - Inferential, epistemic, or hedged language: "suggesting", "suggests", "appears", "appears to be", "likely", "possibly", "seems", "indicating", "indicates", "probably", "implies", "apparent", "evident", "reflecting", "reflects". These are interpretation, not factual content claims.
+  - Mood, atmosphere, or style descriptors: "casual", "professional", "relaxed", "elegant", "minimalist", "lively", "cozy", "formal".
+  - Purpose or activity inferences drawn from visible props (e.g., "podcast recording" when microphones + headphones are visible; "tutorial" when slides and a presenter are visible; "live stream" when a chat overlay is visible).
+  - Claims about audio, dialogue, speech content, or off-screen context — you cannot verify these from frames, so do not flag them.
+  - Plausible activity or intent descriptions consistent with the visible setting.
+  - Temporal or sequential narration (e.g., "the scene progresses from X to Y") when X and Y are both individually plausible from the sampled frames.
+  - Subjective or continuous attributes roughly consistent with the frames ("well-lit", "crowded", "bright", "dimly lit").
+
+When in doubt, DO NOT flag. False positives (flagging interpretation or plausible inference) are worse than false negatives (missing a real factual contradiction).
 
 Respond with a single JSON object and nothing else, in this exact schema:
-{"hallucinations": ["<short phrase describing unsupported claim>", ...], "has_hallucination": true | false}
+{"hallucinations": ["<concretely contradicted or absent factual claim>", ...], "has_hallucination": true | false}
 
-If every claim in the caption is supported or reasonable, return {"hallucinations": [], "has_hallucination": false}.
+If the caption contains no factual content hallucinations as defined above, return {"hallucinations": [], "has_hallucination": false}.
 
 Caption:
 \"\"\"

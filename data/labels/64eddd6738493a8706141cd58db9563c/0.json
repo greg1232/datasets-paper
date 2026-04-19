@@ -1,0 +1,15 @@
+{
+  "video_id": "64eddd6738493a8706141cd58db9563c",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.143,
+    3.428,
+    5.714,
+    8.0
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses, wearing a grey cardigan over a floral blouse, is seated at a white craft desk in a studio. Behind her are shelves organized with colorful ink pads, tools, and a heat gun. The text \"CHRI ST\" is visible on a sign in the background, and a \"Camping Jill\" logo appears in the lower left corner of the scene. Throughout the sequence, she is demonstrating items from a catalog. Initially, she looks toward the camera while gesturing with her right hand toward a book open on the desk. As the sequence progresses, she shifts her focus downward, pointing to a specific page and then physically turning a page of the catalog with her right hand while her left hand rests on the desk. The environment remains static as she focuses her attention on the printed materials in front of her."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e3a2b0623626a320f164e6ddc218674f",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.86,
+    5.581,
+    9.301,
+    13.021
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a close-up view inside the footwell of a vehicle. The setting is characterized by brown carpet and tan interior panels. A small white plastic bin containing pieces of clear broken glass sits in the passenger footwell, near a metal pedal. In the initial sequence, the camera focuses on the bin and the surrounding interior. As the scene progresses, a person's hand reaches into the frame from the right, grasping the white bin and pulling it toward the center. Inside the bin, alongside the glass fragments, is a white electronic component with a label that includes the word \"PUMP\". A yellow and black handled tool is also visible resting on the floor of the vehicle behind the bin. The sequence depicts the process of removing debris and a component from the vehicle's interior."
+}

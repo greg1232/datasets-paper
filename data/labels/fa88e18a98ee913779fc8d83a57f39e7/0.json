@@ -1,0 +1,15 @@
+{
+  "video_id": "fa88e18a98ee913779fc8d83a57f39e7",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-486.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.172,
+    0.516,
+    0.86,
+    1.204
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, black headphones, and a black hoodie sits in a studio setting. He is looking down and interacting with a smartphone held in both hands. A professional microphone on a boom arm is positioned directly in front of him. Behind him is a white wall featuring yellow stars and the text \"UNIQUE HUSTLE\" repeated twice. A large red and blue sign reads \"BOSS TALK 101\" with the phrase \"Where BOSSES Talk!\" written in a blue script above it. On the table to his left is a black box with a logo, and to his right is a blue and red mug that says \"BOSS TALK 101\". Throughout the sequence, the man remains in a stationary position, continuing to focus on his device with minimal movement, while the camera angle and scene composition remain constant."
+}

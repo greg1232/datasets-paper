@@ -1,0 +1,15 @@
+{
+  "video_id": "9fff58d238857a69b1c46182dd124708",
+  "url": "./data/segments/3JGRt3BFYrM-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.354,
+    1.062,
+    1.771,
+    2.479
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a digital interface of a complex technical schematic, likely a circuit diagram or a logic flow, within a software application. The screen is filled with a dense network of interconnected blocks, lines, and labels. Legible on-screen text includes technical identifiers such as \"RT_Clock_Main,\" \"PLL_Clock_Main,\" and \"SRAM_Clock_Main,\" along with various signal names like \"clk_core_apb_clk\" and \"clk_core_ahb_clk.\" The application's menu bar at the top includes options such as \"File,\" \"Project,\" \"Clock,\" \"Configuration,\" \"Window,\" and \"Help.\" Across the sequence of frames, the visual state of the schematic remains completely static, with no movement of the cursor, no changes to the highlighted components, and no updates to the text or layout. The image depicts a still view of a hardware design environment."
+}

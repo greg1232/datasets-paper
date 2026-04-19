@@ -1,0 +1,15 @@
+{
+  "video_id": "8423caa77180ec22113cf5df10731497",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A professional television camera on a tripod is positioned in a stadium, overlooking a lush green soccer pitch. In the background, red stadium seating rises under a bright sky, with a banner reading \"GRANADA CF\" visible along the stands and the word \"PULL\" appearing on a red sign. The logo of Real Madrid CF is visible in the upper right of the view. A few people are seen on the field in the distance, including one individual wearing a white shirt. The camera equipment dominates the foreground, including a large monitor and a heavy-duty tripod. Across the frames, there is very little movement; the camera remains stationary, and the figures on the field shift only slightly, maintaining a steady wide shot of the athletic venue."
+}

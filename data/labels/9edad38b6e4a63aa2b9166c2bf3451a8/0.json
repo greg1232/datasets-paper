@@ -1,0 +1,15 @@
+{
+  "video_id": "9edad38b6e4a63aa2b9166c2bf3451a8",
+  "url": "./data/segments/3dN_F08u-KE-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.36,
+    1.08,
+    1.8,
+    2.52
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a grayscale thermal imaging perspective of an explosion in a desolate, open area. In the initial scene, several bright, vertical plumes of fire and smoke erupt from the ground, creating a jagged white silhouette against the darker landscape. As the sequence progresses, these plumes merge into a single, larger column of intense heat and debris that rises higher into the air. The environment appears barren, with a hazy, textured terrain. Various overlays are present on the screen, including a logo in the top left corner with the text \"\u0413\u041e\u041b\u041e\u0412\u041d\u0415 \u0423\u041f\u0420\u0410\u0412\u041b\u0406\u041d\u041d\u042f \u0420\u041e\u0417\u0412\u0406\u0414\u041a\u0418,\" a red \"13\" logo in the top right, and a circular \"GROUP 13\" emblem in the bottom right. Crosshair markers are centered in the view, indicating the camera is likely attached to a targeting system or drone. No people are visible in the footage."
+}

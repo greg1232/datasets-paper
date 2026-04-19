@@ -1,0 +1,15 @@
+{
+  "video_id": "d3e8637a8ce2a39089dca2f2919e0b2e",
+  "url": "./data/segments/3P1vSUbet40-Scene-0732.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.688,
+    1.147,
+    1.606
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde-highlighted hair tied up in a bun wears black headphones and a black t-shirt while sitting in a studio setting. She is positioned in front of a black microphone and a yellow wall. Behind her is a dark screen displaying the word \"Johnson\" in red text, with smaller white text above it that reads \"Employee Only\". A logo is visible on the screen and repeated as an overlay on the right side of the scene, featuring a microphone icon and the text \"BOSS TALK 101\" with \"Vol. 11 logo slide\" underneath. Another overlay on the left shows \"BOSS TALK 101\" and \"PODCAST\". Across the sequence, the woman maintains a smile and looks slightly off-camera to the left, shifting her gaze and slightly tilting her head while continuing to smile throughout the short clip."
+}

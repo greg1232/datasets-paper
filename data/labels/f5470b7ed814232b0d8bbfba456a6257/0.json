@@ -1,0 +1,15 @@
+{
+  "video_id": "f5470b7ed814232b0d8bbfba456a6257",
+  "url": "./data/segments/3hcAJKLX-Ps-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.38,
+    1.14,
+    1.9,
+    2.66
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large group of people is gathered in a bright, open-sided hall with white curtains and a high ceiling. Most of the attendees are men wearing light-colored button-down shirts, some in blue and others in white, while some wear face masks. A man in a red shirt sits among them. In the foreground, a man with glasses and a white shirt is seated, while others are arranged in rows of white chairs. In the background, a man in a white outfit stands at a podium, addressing the crowd. As the sequence progresses, a man in a red shirt raises his hands in a gesture, and a man in a white shirt in the foreground also raises his hand and arm, appearing to react or signal to someone. Water bottles and small tables are scattered throughout the seating area. A small, illegible logo appears in the bottom right corner of the frames."
+}

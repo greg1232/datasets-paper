@@ -1,0 +1,15 @@
+{
+  "video_id": "e15be1a845c3ac832bc464065151f3b5",
+  "url": "./data/segments/3Ma0wGTm5QQ-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.458,
+    4.375,
+    7.292,
+    10.208
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands against a vibrant pink background featuring bold, stylized graphics. To his left, large light-blue text reads \"ELECTRIFY ANY LESSON\" with \"ANY\" appearing in a smaller font. A thick, yellow lightning bolt graphic strikes horizontally across the lower half of the screen behind the text. The man wears a maroon t-shirt with a white logo that reads \"Learning in Hand with TONY VINCENT.\" He is positioned on the right side of the frame, gesturing with his hands as he speaks. Across the sequence, the background, text, and his clothing remain constant. The only change is in the man's posture and hand movements; he begins with his hands slightly raised, shifts his grip, and concludes by bringing his hands closer together in a conversational gesture."
+}

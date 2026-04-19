@@ -1,0 +1,15 @@
+{
+  "video_id": "ffc3555abd62b9a473dad776fca562b0",
+  "url": "./data/segments/3l84m5pRmyk-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.221,
+    0.663,
+    1.105,
+    1.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a professional studio setting, two men in suits are seated behind a black table. The man on the left wears a dark blazer over a light-colored shirt, while the man on the right wears a grey suit with a light blue tie. Between them sits an open silver laptop featuring an Apple logo. In the background, a light-colored wall displays a blue hexagonal logo with the text \"theCUBE\" and the hashtag \"#BigDataSV\". A smaller red and white logo at the bottom left also reads \"#BigDataSV\". Throughout the sequence, the man on the left remains relatively still, with his hands clasped on the table. The man on the right is actively speaking, gesturing with his hands to emphasize his points. He begins with his right hand raised, brings his hands closer together, and then opens his arms wide in a broad gesture. On the table, a white notebook and a blue pen are visible."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "22c000ca378992fb280909c7f77e5545",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.546,
+    1.639,
+    2.732,
+    3.825
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey baseball cap, and black over-ear headphones is speaking into a professional condenser microphone. The microphone is mounted on a black boom arm and features the text \"BlueBird\" and \"Blue Microphones\" on its body. He is positioned against a backdrop of dark grey, ribbed acoustic foam panels. The man has a tattoo on his right upper arm and is gesturing with his right hand as he speaks. Across the sequence, he maintains a consistent position, though his facial expression shifts slightly and his mouth opens and closes as he talks. The lighting is soft, focusing on the subject and the recording equipment, creating a studio environment dedicated to audio recording."
+}

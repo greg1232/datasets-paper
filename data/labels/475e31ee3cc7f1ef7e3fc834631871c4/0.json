@@ -1,0 +1,15 @@
+{
+  "video_id": "475e31ee3cc7f1ef7e3fc834631871c4",
+  "url": "./data/segments/3mmDnftP1M8-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.401,
+    13.203,
+    22.005,
+    30.807
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a light blue button-down shirt is seen against a plain, light-colored background. He wears a black headset with a microphone extending toward his mouth. In the first instance, he looks forward with a neutral expression. He then raises his right hand, holding up two fingers in a peace or \"V\" sign while speaking. Later, he is seen looking downward with his eyes partially closed. Finally, he looks forward again, bringing his hands together in a prayer-like gesture in front of his chest. The text \"Ashish Raichur\" appears in the bottom left corner of each scene. The lighting remains consistent throughout the sequence, and the camera remains in a fixed medium shot of the man."
+}

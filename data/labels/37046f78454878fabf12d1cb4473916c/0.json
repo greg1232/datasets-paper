@@ -1,0 +1,15 @@
+{
+  "video_id": "37046f78454878fabf12d1cb4473916c",
+  "url": "./data/segments/3Sq594WkayE-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.141,
+    0.422,
+    0.703,
+    0.984
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A desolate stretch of two-lane asphalt road winds through a coastal landscape shrouded in dense, grey fog. The road is marked with double yellow lines and reflective white markers along the shoulder. To the left, a shoreline is partially visible through the mist, with waves crashing against the coast. Low, dark shrubs and rolling hills rise on the right side of the road, with a single silhouette of a tree perched atop a distant ridge. A rectangular brown sign stands by the roadside, though no text on it is legible. As the perspective moves forward along the roadway, the fog remains thick and oppressive, obscuring the horizon and limiting visibility. No people, vehicles, or other equipment are present in the scene, leaving a sense of isolation and stillness."
+}

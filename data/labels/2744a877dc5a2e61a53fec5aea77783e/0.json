@@ -1,0 +1,15 @@
+{
+  "video_id": "2744a877dc5a2e61a53fec5aea77783e",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-136.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.34,
+    7.02,
+    11.699,
+    16.379
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a financial trading interface showing multiple technical analysis charts. The screen is divided into several panels, featuring candlestick price charts with green and red bars, trend lines, and indicator panels for MACD and Stochastic oscillators. Legible on-screen text includes \"Genko Shipping & Trading,\" and various technical labels such as \"MACD(12,26,9,1.1,UpColorDefault...)\" and \"Stochastic Slow (High,Low,Close,14,3,3,1,20,80)\". Green labels marking wave points, such as \"A\", \"B\", \"C\", \"D\", and \"E\", are plotted across the price action. Across the frames, the visual data remains static, showing a consistent snapshot of the market analysis. The charts display a general upward trend in price, with a green moving average line curving upwards. The interface is dense with numerical data and time-axis labels along the bottom, ranging from \"Nov 11\" through \"Jul '22\"."
+}

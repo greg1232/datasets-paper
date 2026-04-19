@@ -1,0 +1,15 @@
+{
+  "video_id": "94a09d8a9101bfae3b99b707f6eefebc",
+  "url": "./data/segments/3QD9oO6sRns-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.081,
+    0.244,
+    0.406,
+    0.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Stacks of cardboard boxes, appearing to be trading card products, dominate the scene. The boxes are black and grey with the \"Topps\" logo and the words \"CLEARLY AUTHENTIC\" printed on the sides. A person's hand is visible, interacting with the boxes. In the upper right corner of each frame, a small picture-in-picture overlay shows a man with a beard wearing a dark blue t-shirt, sitting in a room with various items in the background. Text within this overlay reads \"JASPYS\" and \"CASEBREAKS.COM\". As the video progresses, the camera perspective shifts slightly, moving from a close-up of the stacked boxes to a slightly wider angle that reveals more of the surrounding environment and the person's hand moving toward the boxes. The \"Topps\" branding remains a prominent visual element throughout the sequence."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5c61c766c7eca0b231d571670be0c924",
+  "url": "./data/segments/3Z229_lKLpk-Scene-101.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.6,
+    1.0,
+    1.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a formal assembly hall with tiered wooden seating and green-colored walls, a group of people are seated, primarily facing forward. The attendees are dressed in a variety of professional and traditional Indian attire, including white kurtas, some paired with vests in colors like pink, black, and grey, and women wearing colorful sarees. The people remain largely stationary across the scene, seated behind long wooden desks equipped with small black monitors or microphones. A man in a black vest and white kurta is centrally positioned, looking towards the front. To his left, a man in a pink vest and white kurta sits attentively. As the scene progresses, there is minimal movement; the individuals maintain their positions and expressions, with slight shifts in posture, suggesting a formal meeting or legislative session in progress. No on-screen text or logos are visible."
+}

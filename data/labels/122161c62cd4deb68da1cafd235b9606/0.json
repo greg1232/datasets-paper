@@ -1,0 +1,15 @@
+{
+  "video_id": "122161c62cd4deb68da1cafd235b9606",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.855,
+    2.565,
+    4.275,
+    5.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A mechanic's workbench serves as the backdrop for this sequence, filled with various tools, an orange extension cord, and mechanical parts. The video begins with a close-up view of an open engine casing, revealing internal gears and a splined shaft. As the scene progresses, the camera shifts slightly, maintaining a focus on the intricate metal components of the engine. The view then transitions to a wider shot of the workspace, showing a red tool chest and a green equipment bag on the floor. In the final frame, the camera pans further back to reveal a large, knobby off-road tire and the engine assembly resting on the ground. No people are visible throughout the sequence, and the focus remains entirely on the mechanical parts and the workshop environment. Legible text on a piece of paper in the background reads \"917-1\"."
+}

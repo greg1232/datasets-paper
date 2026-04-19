@@ -1,0 +1,15 @@
+{
+  "video_id": "d343a4f1515e73b1eae586aebb3b4a95",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-341.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.99,
+    1.385
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played on a bright green turf field with white yard markers and a red end zone featuring the word \"COMMANDERS\" in yellow letters. Players from two opposing teams are positioned for a play; one team wears white jerseys and pants, while the other wears black. A player in white labeled \"Pofamalu\" stands near the line of scrimmage, and another labeled \"Smith\" is visible in the foreground. Digital overlays appear on the field, including a blue line marking the line of scrimmage, yellow circles containing letters like \"M,\" \"A,\" \"Y,\" and \"RB,\" and small name tags such as \"Hill\" and \"Waddle.\" As the sequence progresses, the players shift their positions, and a purple arrow extends from the line of scrimmage toward the offensive backfield. Banners at the top and bottom of the screen read \"WORLD CHAMPIONSHIP 1937 1942.\""
+}

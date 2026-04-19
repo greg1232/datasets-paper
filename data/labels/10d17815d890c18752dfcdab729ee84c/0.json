@@ -1,0 +1,15 @@
+{
+  "video_id": "10d17815d890c18752dfcdab729ee84c",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-263.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.785,
+    2.356,
+    3.927,
+    5.498
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a protected trading card featuring \"Derek Jeter\" and the text \"Hall Of Fame Co-Signers Autograph Card.\" The card is encased in a clear plastic slab. In the background, a man wearing a dark blue sweatshirt sits behind a desk with various equipment, including a microphone and a black case. The scene is set against a backdrop featuring a tablecloth with green palm tree patterns. On-screen graphics display the logo \"JASPYS\" with a red flame and the website \"CASEBREAKS.COM\" in the upper right of the frames. As the sequence progresses, the hand holding the card remains steady while another hand enters the frame from the right to touch and adjust the card slab. The man in the background remains seated, observing the card being handled."
+}

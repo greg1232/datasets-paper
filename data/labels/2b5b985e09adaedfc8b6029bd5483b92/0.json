@@ -1,0 +1,15 @@
+{
+  "video_id": "2b5b985e09adaedfc8b6029bd5483b92",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.479,
+    0.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting that appears to be a lab or classroom with white shelves and cabinets, a woman with blonde hair wearing a white lab coat over a light-colored top is seated at a table. She is interacting with a small, blue-and-red piece of equipment on the table. In the initial sequence, she looks toward the camera with a smile while keeping her hands on the device. As the scene progresses, she shifts her focus downward toward the equipment and leans forward. By the end of the clip, she is partially cropped out of the frame as she continues to manipulate the object on the table. A small blue logo is visible on the left chest area of her white coat, though the text is not legible. The background remains consistent throughout the sequence, showing a white cabinet and a brown door."
+}

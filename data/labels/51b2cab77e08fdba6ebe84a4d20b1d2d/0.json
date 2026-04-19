@@ -1,0 +1,15 @@
+{
+  "video_id": "51b2cab77e08fdba6ebe84a4d20b1d2d",
+  "url": "./data/segments/3EO0YIxkle8-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.247,
+    6.741,
+    11.235,
+    15.729
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older woman with grey hair and glasses, wearing a red short-sleeved button-down shirt and a necklace, sits in an office chair behind a desk. She is positioned in front of a window showing greenery and next to a beige filing cabinet topped with several folders and books. On the desk in front of her are stacks of papers, a laptop, and a folder with documents. The woman is speaking and gesturing with her hands; she starts with her hands slightly apart and moving, then brings them closer together and rests them on the desk. Throughout the sequence, her facial expressions and mouth movements change as she continues to talk, while the background and the objects on her desk remain stationary."
+}

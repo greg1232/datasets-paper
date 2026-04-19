@@ -1,0 +1,15 @@
+{
+  "video_id": "efb5d4c2cb0d46ddd8959f01d7a1043b",
+  "url": "./data/segments/3iUTkJy84EY-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.33,
+    0.55,
+    0.77
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a digital presentation slide against a dark background, featuring a 3D perspective shift. The slide contains a logo on the left and text that reads \"National Programme on Technology Enhanced Learning.\" Above this, the phrase \"Maternal Infant Young Child Nutrition\" appears, while below it, the text \"Prof. Rupal Dalal\" and \"Health and Nutrition\" are visible. The background of the slide consists of a blurred montage of human faces in soft, yellow-toned lighting. As the sequence progresses, the camera angle shifts from a three-quarter perspective to a front-facing view. The text and graphics appear to glitch or jitter slightly, with overlapping characters and fragmented lines appearing across the phrases \"Maternal Infant Young Child Nutrition\" and \"National Programme on Technology Enhanced Learning.\" The overall scene maintains a dark aesthetic with the luminous, shifting presentation slide as the central focus."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "aa001b5e982b6175c38ed8beb28aed8c",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.192,
+    0.576,
+    0.959,
+    1.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot displays the mechanical components of a vehicle's engine and drivetrain, featuring metallic parts covered in grime and dirt. A prominent copper-colored exhaust pipe runs horizontally across the top of the frame. Below the pipe, a series of gears, a drive chain, and a silver-colored casing are visible. The casing is embossed with the logo \"POLARIS.\" Small wires and connectors, including one with a red cap, are attached to the engine components. The scene remains static across the frames, with no people present and no movement occurring. The lighting is consistent, highlighting the textures of the worn metal and the accumulated debris on the black frame and machinery. No on-screen text is visible other than the brand logo on the engine casing."
+}

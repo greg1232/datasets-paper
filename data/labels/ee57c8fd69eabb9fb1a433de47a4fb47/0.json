@@ -1,0 +1,15 @@
+{
+  "video_id": "ee57c8fd69eabb9fb1a433de47a4fb47",
+  "url": "./data/segments/3F2rz23IKUk-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.665,
+    7.995,
+    13.325,
+    18.655
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with glasses and medium-length brown hair stands in a room with plain gray walls and a whiteboard in the background. He is wearing a black t-shirt featuring a graphic of a face and the text \"K n th\", along with a blue lanyard and a white identification badge clipped to his shirt. He maintains a posture with his left hand resting on his hip throughout the sequence. He is speaking and gesturing with his right hand; initially, his palm is open and facing upward. As time progresses, he closes his hand into a loose fist and then brings his fingers up to touch his right cheek and temple. A black chair is partially visible in the lower foreground of the scene. The setting remains static as the man continues his explanation, with only his facial expressions and right-hand movements changing."
+}

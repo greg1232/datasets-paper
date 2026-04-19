@@ -1,0 +1,15 @@
+{
+  "video_id": "d4bbfc0bb8fd122bdafaf3e2ecafb424",
+  "url": "./data/segments/3Z229_lKLpk-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.59,
+    1.77,
+    2.95,
+    4.13
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large group of men are seated in rows in a tiered auditorium or gallery, appearing as an audience at a formal event. The men are dressed in a variety of attire, including dark western-style business suits and traditional white Middle Eastern robes with ghutras. They are mostly seated still, facing forward, with some turning slightly to talk to neighbors. A decorative floral border of yellow, white, and red flowers lines the front railing of the seating area. Small monitors are mounted on the walls in the background, displaying images of the event. Throughout the sequence, the scene remains static with very little movement; the audience members maintain their positions, and there are no significant changes in lighting or camera angle, resulting in a nearly identical appearance across all frames."
+}

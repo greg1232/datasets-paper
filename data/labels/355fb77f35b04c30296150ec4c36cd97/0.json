@@ -1,0 +1,15 @@
+{
+  "video_id": "355fb77f35b04c30296150ec4c36cd97",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.098,
+    18.293,
+    30.489,
+    42.684
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a professional committee room setting, several individuals in formal business attire are present. A man in a dark suit and glasses stands in the foreground, gesturing with his hand while speaking. Behind him, another man in a dark suit and a woman wearing a beige cardigan over a dark top stand observing. On the desk, there are silver thermoses and other office equipment. A green banner at the bottom of the scene contains the white text \"ORCA\" and the legible on-screen text \"April 12, 2019 House Committee on General, Housing, and Military Affairs S.23 Increasing the Minimum Wage\". Throughout the sequence, the speaking man shifts his posture and hand gestures, moving his arm to point and then bringing his hands closer together as he continues to address the room, while the others remain largely stationary in the background."
+}

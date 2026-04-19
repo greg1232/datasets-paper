@@ -1,0 +1,15 @@
+{
+  "video_id": "5d244a422ff7026d5e7498954268a611",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-364.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.642,
+    1.927,
+    3.212,
+    4.496
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a full beard is recorded in a studio setting against a wall of grey acoustic foam panels. He wears black over-ear headphones and a white t-shirt, with tattoos visible on his right arm. He is positioned behind a professional microphone mounted on a boom arm. Legible text on the microphone's mounting arm reads \"Shure SM7B\". Throughout the sequence, the man is speaking, with his mouth opening and closing and his facial expression shifting slightly. In the first frame, he gestures with his right hand, which is partially visible. As the sequence progresses, his head shifts slightly, and he continues to speak into the microphone while maintaining a focused expression. The lighting remains consistent across all frames, highlighting the textures of the acoustic wall and the man's features."
+}

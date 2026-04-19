@@ -1,0 +1,15 @@
+{
+  "video_id": "8fa0e56cf1bb6a518452865668dd70b9",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-314.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    14.695,
+    44.085,
+    73.475,
+    102.865
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large-scale video conference displays a grid of participants in various home offices and indoor settings. Many individuals are seen wearing casual attire, such as t-shirts and button-down shirts. Some participants wear glasses, while others are seen talking or listening attentively. Legible on-screen names including \"Jerry Mc Shallow,\" \"Bernard Silverman,\" \"Brian Borthan,\" \"Am Burko,\" \"Patrice Murzyn,\" \"Era_collaboration,\" \"Seymour Neray,\" \"Rajesh Jagannath,\" \"Ali_Amer,\" \"Rafi Sefly,\" \"Tatyana Shadrina,\" \"Santi Modeling,\" and \"Oyall Layao\" appear beneath several video feeds. The background settings vary, showing bookshelves, curtains, and plain walls. Across the sequence, the layout remains static, but the participants' facial expressions and head positions shift slightly as they engage in the virtual meeting. The scene captures a professional yet remote collaborative environment with multiple people participating simultaneously."
+}

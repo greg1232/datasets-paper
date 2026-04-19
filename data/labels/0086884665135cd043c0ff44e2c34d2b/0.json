@@ -1,0 +1,15 @@
+{
+  "video_id": "0086884665135cd043c0ff44e2c34d2b",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-096.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.848,
+    5.543,
+    9.238,
+    12.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a white long-sleeved shirt, a dark embroidered vest, and a beaded necklace, performs while playing an acoustic guitar. He stands in front of a wall of vertical wooden slats, singing into a microphone mounted on a black stand. The back of the heads of several audience members are visible in the foreground. In each frame, the man's mouth is open as he sings, and his expression remains relatively constant. The word \"ORCA\" is visible as a logo on the right side of the scene. Between frames, there is minimal movement, with the man shifting slightly in his posture while continuing to sing and hold his guitar. The scene maintains a consistent indoor setting and lighting throughout the sequence."
+}

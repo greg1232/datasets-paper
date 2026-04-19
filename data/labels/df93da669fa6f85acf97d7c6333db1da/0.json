@@ -1,0 +1,15 @@
+{
+  "video_id": "df93da669fa6f85acf97d7c6333db1da",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view focuses on a textured black surface, likely part of a vehicle's interior or equipment, featuring the embossed text \"CORVETTE\" in all capital letters. The word is debossed into the matte material, accompanied by a small circular emblem to its right. The lighting shifts across the sequence, with a bright highlight moving across the top edge of the surface, suggesting a change in the angle of light or a slow camera pan. In the background, blurred mechanical components are visible, including a metallic silver hose fitting with a braided line and a dark, perforated grill-like structure. The composition remains nearly static, with only subtle changes in light reflection and perspective as the camera slightly shifts, maintaining a tight focus on the \"CORVETTE\" branding."
+}

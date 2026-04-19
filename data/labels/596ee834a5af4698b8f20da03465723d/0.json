@@ -1,0 +1,15 @@
+{
+  "video_id": "596ee834a5af4698b8f20da03465723d",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-224.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.119,
+    0.356,
+    0.594,
+    0.831
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blond hair wearing a dark t-shirt and a headset is visible in a small inset window in the lower-left corner, speaking against a white background. The main screen displays a football stadium background with digital player cards from a video game overlaid on the field. One card features \"CEEDEE LAMB\" with a \"96\" rating and \"WR\" position, and another features \"HAROLD CARMICHAEL\" with a \"97\" rating and \"CB\" position. Text such as \"LINEUP\" and \"TEAM\" is visible near the cards. The person in the inset window maintains a similar position but changes their facial expression and mouth position as they speak. The background and the digital cards remain static across the sequence, while the person's subtle movements indicate they are talking."
+}

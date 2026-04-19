@@ -1,0 +1,15 @@
+{
+  "video_id": "4a2769cd765366c346d4f227185ace7e",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.192,
+    0.576,
+    0.959,
+    1.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows the mechanical components of a Polaris vehicle's engine and drivetrain. A brown exhaust pipe runs horizontally across the top of the scene, positioned above a complex assembly of metal parts, gears, and a drive chain. A metallic casing features the embossed \"POLARIS\" logo. A small white sticker with a barcode and the text \"0010381039\" is attached to a component near the center. A black metal frame bracket with a large silver bolt is visible in the foreground. The scene remains static across the frames, with no people present and no movement of the machinery or camera, maintaining a consistent focus on the oily, metallic surfaces of the engine assembly."
+}

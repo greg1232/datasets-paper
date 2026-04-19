@@ -1,0 +1,15 @@
+{
+  "video_id": "7ba3a0e5c9e09d35a020d90d44cd9ffd",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.535,
+    1.606,
+    2.677,
+    3.748
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a black t-shirt, is seen in a room filled with sports memorabilia and trading card equipment. He sits behind a table featuring a red \"CASEBREAKS\" logo and a \"JASPYS\" banner. A red baseball sits on the table near a white surface. Overlaying the video is a live chat feed with messages from users like \"glowbug07\" and \"NightOwl.\" One repeated message reads, \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/2SdeSXY.\" As the sequence progresses, a digital spreadsheet appears on the screen, listing various NBA teams such as \"BROOKLYN NETS,\" \"CHARLOTTE HORNETS,\" and \"CLEVELAND CAVALIERS,\" along with corresponding names. The man remains seated, looking toward the camera and the equipment on the table as the interface on the screen shifts to display this organizational list."
+}

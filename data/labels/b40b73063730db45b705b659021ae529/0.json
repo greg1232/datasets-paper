@@ -1,0 +1,15 @@
+{
+  "video_id": "b40b73063730db45b705b659021ae529",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-180.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.396,
+    1.189,
+    1.981,
+    2.774
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a light blue shirt stands behind a wooden podium at the front of a room, addressing an audience seated in rows of chairs. The setting is a lecture hall or meeting room with deep red walls, light-colored ceilings, and large windows with closed blinds in the background. The audience consists of several people seen from behind, including a woman in a yellow sweater and another in a red and blue garment. A projector is mounted on the ceiling, and small framed pictures hang on the red wall. In the lower right of the scene, the text \"ORCA\" is visible. Throughout the sequence, the man remains at the podium and the audience stays seated, with very little movement occurring between the frames, suggesting a steady shot of the presentation in progress."
+}

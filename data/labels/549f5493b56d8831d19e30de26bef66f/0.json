@@ -1,0 +1,15 @@
+{
+  "video_id": "549f5493b56d8831d19e30de26bef66f",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-288.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.699,
+    2.096,
+    3.493,
+    4.89
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt with the white text \"ION NEVER DO SHIT\" sits in a room that resembles a studio or a clothing shop. He is positioned behind a black professional microphone. Behind him are walls adorned with framed photographs and several white mannequins dressed in white shirts. Clothing racks and furniture are also visible in the background. Two logos appear on the screen: one on the left side and one on the right side that reads \"ROD WEAVE TOT\". Across the sequence, the man is speaking and shifting his facial expressions, moving from a neutral look to an open-mouthed expression while talking, and finally to a slight smile. The camera remains stationary, capturing the man from the chest up as he interacts with someone off-screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "30560d19315176cca81ef9b0c7ad115b",
+  "url": "./data/segments/3phuyH7Y05U-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.212,
+    0.637,
+    1.062,
+    1.488
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A muscular man wearing a yellow short-sleeved shirt, a black belt, sunglasses, and a yellow cap with the word \"TAXI\" on it stands in a doorway. On the right side of the doorway is a green sign that reads \"Smartist Bros Taxi Company\". The man is facing right, looking toward another man who is partially visible in profile, wearing a white shirt and sunglasses. To the left of the doorway, a room contains shelving units holding various red and grey objects. Across the sequence of frames, the man in the yellow shirt remains largely stationary in his posture, though there are slight shifts in his facial expression and the positioning of his arm as he interacts with the other individual. The scene is a still shot from an animation, with no significant movement or change in the environment."
+}

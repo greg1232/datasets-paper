@@ -1,0 +1,15 @@
+{
+  "video_id": "370ad64c4c5db09fb2ee36ff2dc3f816",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.38,
+    1.14,
+    1.9,
+    2.66
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video conference call occurring within a web browser. A person wearing a dark baseball cap is visible in a small video feed in the upper right corner, appearing stationary throughout the sequence. The main area of the screen displays a complex conceptual map or diagram on a dark background. This diagram features various nodes with icons and text connected by curved blue lines. On the left side, two prominent rectangular cards are displayed; the top one contains the text \"SPRING BEER\" and the bottom one reads \"PLATFORM FOR CHANGE.\" Other smaller circular nodes contain text such as \"Insights,\" \"Interventions,\" and \"Future State.\" The browser tabs at the top indicate a series of open pages, including \"Trust & Learning by Systemantics\" and \"Rural Community Food System.\" The visual content remains constant across the frames, with no significant movement or changes in the layout."
+}

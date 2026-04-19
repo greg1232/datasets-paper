@@ -1,0 +1,15 @@
+{
+  "video_id": "ab714384d6a5619db81a85685e4bbcf2",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.344,
+    1.031,
+    1.719,
+    2.406
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a graded sports card in a clear protective case, showcasing it to the camera. The card features a player named \"ECKERSLEY\" and an autograph, marked as \"4/5.\" The scene takes place in a room with a backdrop featuring palm tree silhouettes and the logo \"JASPYS CASEBREAKS.COM\" appearing in the top right. In the background, a man wearing a dark navy blue shirt sits at a desk with a microphone and various pieces of equipment, including a small yellow case. As the sequence progresses, the person holding the card tilts it, causing light to reflect off the plastic surface of the case. The man in the background remains seated, looking toward the camera or the person holding the card. The framing stays focused on the hand holding the collectible card while keeping the room's branded environment visible."
+}

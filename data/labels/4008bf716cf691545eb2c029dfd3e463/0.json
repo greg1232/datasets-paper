@@ -1,0 +1,15 @@
+{
+  "video_id": "4008bf716cf691545eb2c029dfd3e463",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a professional indoor setting, two people sit at a white table. A person with short brown hair is seen from behind, and another person wears a white long-sleeved shirt. They are reviewing documents and using a laptop. Blue and grey graphic overlays slide across the screen, obscuring more of the image in each subsequent frame. In the initial scene, light blue text is overlaid on the image, asking, \"TO CONSISTENTLY ADD WINNING TRADES TO YOUR PORTFOLIO?\". As the sequence progresses, the blue and grey geometric shapes expand and shift, eventually covering most of the visual field. By the final stage, the original scene of the people and the table is almost entirely hidden by a large, dark grey area and a sliver of blue and white at the top."
+}

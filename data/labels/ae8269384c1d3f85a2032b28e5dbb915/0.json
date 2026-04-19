@@ -1,0 +1,15 @@
+{
+  "video_id": "ae8269384c1d3f85a2032b28e5dbb915",
+  "url": "./data/segments/3P1vSUbet40-Scene-0753.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing glasses, a white dress shirt, and a red bowtie sits in a studio setting, sporting a tall, stylized gray wig that resembles a crown or a stylized hairstyle. He wears black over-ear headphones and speaks into a black professional microphone positioned in front of him. Behind him, the wall is decorated with several framed photographs and a yellow poster with the word \"LEE\" visible. The scene is overlaid with logos on the left and right sides of the frame; the left logo features a microphone icon and reads \"BOSS TALK 101 PODCAST\" while the right logo says \"BOSS TALK 101\". Throughout the clip, the man remains in the same position, gesturing slightly with his left hand as he speaks, with his facial expression shifting as he delivers his words."
+}

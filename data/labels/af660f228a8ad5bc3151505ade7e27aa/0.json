@@ -1,0 +1,15 @@
+{
+  "video_id": "af660f228a8ad5bc3151505ade7e27aa",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.171,
+    0.513,
+    0.854,
+    1.196
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a Linux environment with several terminal windows open, showing a sequence of technical logs and commands. The interface features a dark theme with various colors of text, including white, green, and yellow. In the initial stages, a terminal window on the left shows logs with repeated entries such as \"level=info msg=\"started\" and specific timestamps like \"2020-10-28T08:36:21.274598462Z\". On the right, another terminal window displays a long list of \"msg=\"tail routine starter\" logs and \"msg=\"tail routine starter\" entries. As the sequence progresses, the focus shifts, and the window on the right expands to fill more of the screen, showing detailed output from a command involving \"kubectl create -f rfluent-oct-configmap.yaml\". The text reveals a series of \"level=info\" messages and mentions of \"component=tail\", \"path=/var/log/syslog\", and \"msg=\"downloaded file\"."
+}

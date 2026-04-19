@@ -1,0 +1,15 @@
+{
+  "video_id": "cdd2f3b953042ca7abbaae66b6902196",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-157.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.4,
+    1.201,
+    2.002,
+    2.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a smartphone on a tripod, recording a scene in what appears to be a medical simulation or clinic room. Two women are visible in the background; one wears a blue blazer and a stethoscope around her neck, while the other, partially seen from the side, wears a dark blazer. A third person, wearing a blue scrub top and a light blue surgical mask, stands further back. A light-colored table and a medical bed are present in the room. Overlaying the video frames are two identical QR codes and the white text \"lbuchanan@som.umaryland.edu\". At the top left of the first frame, the name \"Walter Braxton, BA\" is partially visible. Across the sequence, the handheld camera remains relatively steady, though there is a slight shift in the angle of the recording device and the position of the hand holding it."
+}

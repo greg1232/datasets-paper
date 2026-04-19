@@ -1,0 +1,15 @@
+{
+  "video_id": "f04d8e8b1e30eb3b7601b2af1ec563dc",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.077,
+    0.231,
+    0.385,
+    0.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is seen interacting with a stack of trading card boxes on a surface featuring a large orange and white logo. The boxes are black with green accents and the word \"OBSIDIAN\" printed on the side, featuring an image of a basketball player. The person's hand moves toward and touches the top box. In the background, a small inset video window shows a man with short brown hair wearing a black shirt sitting at a desk with a computer monitor and more card boxes. The surface also displays a website address, \"CASEBREAKS.COM\", and the text \"JASPYS\" above it. Along the bottom of the card box, the text \"ULTRA-RARE VIRTUOUS INSERTS\" is visible. Across the sequence, the person's hand shifts slightly as they adjust or prepare to open the top box, while the man in the inset remains seated."
+}

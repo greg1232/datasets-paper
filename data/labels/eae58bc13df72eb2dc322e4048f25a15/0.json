@@ -1,0 +1,15 @@
+{
+  "video_id": "eae58bc13df72eb2dc322e4048f25a15",
+  "url": "./data/segments/3EOkyr653jg-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.388,
+    0.646,
+    0.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark-colored jacket with light-colored cuffs is sitting at a table, holding a yellow pencil in their right hand. They are interacting with a set of white documents that contain printed text and small portrait photographs. The person uses the pencil to point toward specific sections of the paper. As the sequence progresses, the person shifts the pencil, moving it from pointing at the top document to pointing toward the bottom document. The text on the forms is mostly illegible, though a small section of a header on the lower document reads \"FX NVT\". The table surface is dark with light-colored grid lines. The focus remains tightly on the person's hands and the documents, showing the movement of the pencil as they review the materials."
+}

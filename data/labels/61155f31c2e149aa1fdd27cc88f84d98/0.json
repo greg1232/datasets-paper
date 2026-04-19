@@ -1,0 +1,15 @@
+{
+  "video_id": "61155f31c2e149aa1fdd27cc88f84d98",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.934,
+    2.803,
+    4.671,
+    6.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands work on a craft project set atop a white gridded cutting mat on a light-colored wooden surface. To the left, a card is visible with the printed text \"D YOU LITTLE letide Cheer\" and \"You warm my heart\". In the first frame, the person holds a small white container of white ink or paint in their left hand while their right hand rests near a blue rectangular piece of paper. By the second frame, the person begins to dip their fingers into the container. In the third frame, they use their fingertips to dab white spots onto the blue paper, creating a speckled effect. Finally, the person holds the open container above the paper to view the result. The person wears a dark long-sleeved shirt and a ring on their right hand, with a black smartwatch visible on their left wrist in the final shot."
+}

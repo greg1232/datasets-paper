@@ -1,0 +1,15 @@
+{
+  "video_id": "33b485952659501e65c0e2e97eb444f5",
+  "url": "./data/segments/3EO0YIxkle8-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.412,
+    1.236,
+    2.059,
+    2.883
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An elderly woman with curly grey hair, wearing dark-rimmed glasses, gold hoop earrings, a gold necklace, and a red blazer, is seated in a black leather office chair. She is positioned in an office setting, with a white filing cabinet and some papers visible in the background. Across the sequence of frames, the woman is speaking, her expression remaining focused and composed as her mouth opens and closes to articulate words. Her gaze is directed slightly to the right of the camera. The background remains static, and there are no other people, on-screen text, or logos visible in the scene. The only change between the frames is the subtle movement of her facial features and lips as she continues her conversation."
+}

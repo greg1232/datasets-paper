@@ -1,0 +1,15 @@
+{
+  "video_id": "32b35c0994e2793844de16be0e01af73",
+  "url": "./data/segments/3jaAcpqJEbg-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.738,
+    2.213,
+    3.688,
+    5.163
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a blue t-shirt with a white design on the chest stands on a stage in front of a large blue backdrop. The backdrop features repeating logos and text, including \"### rootconf\" and \"has geek,\" alongside golden hashtag symbols. A dark podium stands to the right of the man. Throughout the sequence, the man remains in the same position on the stage, facing slightly toward the podium. He raises his right hand to his head, touching his forehead or hair in a consistent gesture across the frames. The lighting is dim, with the bright blue illumination from the screen behind him creating a strong contrast. There are no other people visible, and the scene remains static with only minimal movement from the man's arm."
+}

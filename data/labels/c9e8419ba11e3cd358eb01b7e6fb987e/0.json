@@ -1,0 +1,15 @@
+{
+  "video_id": "c9e8419ba11e3cd358eb01b7e6fb987e",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-085.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.203,
+    0.609,
+    1.016,
+    1.422
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman wearing a striped shirt and large over-ear headphones sits in a room with light-colored walls. To her left, a sheer yellow curtain hangs, partially revealing a blue curtain behind it. A neutral-toned piece of furniture is visible behind her on the right. The text \"Nancy Ramya\" appears in the bottom left corner of the scene. Throughout the sequence, the woman remains in a stationary, forward-facing position. Her facial expression is neutral and steady, with very subtle shifts in her gaze and mouth as she looks slightly downward and then back toward the center. There are no interactions with other people or objects, and the background remains static, capturing a consistent, quiet indoor environment."
+}

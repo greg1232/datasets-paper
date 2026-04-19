@@ -1,0 +1,15 @@
+{
+  "video_id": "5f4e31e2a8de729e67c71ce8a09fed96",
+  "url": "./data/segments/3Smz5pevbI4-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and glasses, wearing a dark suit, white shirt, and striped tie, speaks into a handheld microphone in an indoor auditorium setting. He is gesturing with his left hand as he speaks. Seated around him are other individuals, including a woman to his left wearing a light-colored blazer and glasses, and several women behind him in dark blazers. A laptop with a glowing white Apple logo is visible on a table in front of the woman in the light blazer. The man remains the central focus across the sequence, maintaining his position while his mouth moves and his left hand shifts slightly in a speaking gesture. The background people remain largely stationary, and the overall lighting and composition of the scene are consistent throughout the sequence."
+}

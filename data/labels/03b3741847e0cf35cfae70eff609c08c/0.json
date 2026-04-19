@@ -1,0 +1,15 @@
+{
+  "video_id": "03b3741847e0cf35cfae70eff609c08c",
+  "url": "./data/segments/3E6ctN22V7k-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.41,
+    1.23,
+    2.05,
+    2.87
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide outdoor landscape is shown under a heavily overcast, grey sky. The horizon consists of rolling hills and a distant tree line beneath thick clouds. The scene is static, with no people, animals, or moving objects visible. Throughout the sequence, the lighting shifts slightly as the clouds move, becoming marginally brighter in the later stages. Centered in the lower half of the screen, white sans-serif text remains constant across all frames, reading \"it crushes us down where anxiety triumphs over our hopes.\" The camera remains stationary, capturing a somber, desolate atmosphere as the grey clouds drift slowly across the sky over the rural terrain."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6b4f02345f0e17ceba200509e10c94f8",
+  "url": "./data/segments/3sJ5OX75erw-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    15.71,
+    47.13,
+    78.55,
+    109.97
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"LF Networking 5G Super Blueprint\" is displayed, featuring a complex technical diagram of a network architecture. The diagram is divided into four main vertical sections: \"User Edge,\" \"Service Provider Edge,\" \"Cloud / Core,\" and \"Management & Orchestration.\" Within these sections, various components are mapped out, including \"Wireless Devices,\" \"Smart Edge Apps,\" \"RAN,\" \"magma,\" and \"ONAP.\" Logos for companies and projects such as \"AKRAINO,\" \"KVM,\" \"DPDK,\" and \"Android\" are visible throughout the blueprint. At the bottom, a footer reads \"#openetnedge\" and \"THE LINUX FOUNDATION | LF NETWORKING | LF EDGE DISTRIBUTION TREATMENT A. Approved for public release; distribution unlimited.\" In the upper right corner, a small circular inset shows a person with dark hair and glasses. Across all frames, the image remains completely static, with no changes to the text, the diagram, or the person in the inset."
+}

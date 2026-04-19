@@ -1,0 +1,15 @@
+{
+  "video_id": "67588be0b7b5084d3ad1c1e13867fb1a",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.175,
+    21.525,
+    35.875,
+    50.225
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a series of educational slides titled \"CRYOGENIC ENGINEERING\" under the heading \"Linde \u2013 Hampson System.\" Each frame displays a mathematical formula for yield $y$ as a fraction involving terms like $(h_1 - h_2)$ and $(1 - \\varepsilon)$. Below the formula, bullet points state, \"The second term being negative, it should be minimum to maximize the yield $\\mathbf{y}$.\" and \"All other parameters being constant for a given cycle, the effectiveness $\\varepsilon$ should be very close to 1.\" The slide features a logo for \"NPTEL\" in the bottom left and a footer identifying \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" As the sequence progresses, a red circle appears and moves to highlight different instances of the symbol $\\varepsilon$ within the formula, first appearing around the $\\varepsilon$ in the numerator and then shifting to the $\\varepsilon$ in the denominator."
+}

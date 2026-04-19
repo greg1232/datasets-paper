@@ -1,0 +1,15 @@
+{
+  "video_id": "e3afb3c8903c09ac54eeff987cc8eea0",
+  "url": "./data/segments/3QD9oO6sRns-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.113,
+    3.338,
+    5.562,
+    7.788
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is seen interacting with a table covered in a black and white mat featuring the \"JASPYS Sports Cards & Collectibles HERMOSA BEACH\" logo. Several stacks of black and white boxes labeled \"CLEARLY AUTHENTIC\" are arranged on the table, alongside a red die. In the upper sequence, a hand reaches toward a white piece of paper on the mat. Below this, a small inset video window shows a man wearing a black t-shirt and a black and white baseball cap. Throughout the scene, a large orange and white banner across the bottom reads \"JASPYS CASEBREAKS\". As the sequence progresses, the man in the inset video is seen speaking, and the hand on the main table moves a white paper. In the final segments, a red die sits near the \"CLEARLY AUTHENTIC\" boxes, and the man in the inset continues to be visible."
+}

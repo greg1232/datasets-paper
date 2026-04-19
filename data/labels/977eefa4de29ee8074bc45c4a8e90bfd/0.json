@@ -1,0 +1,15 @@
+{
+  "video_id": "977eefa4de29ee8074bc45c4a8e90bfd",
+  "url": "./data/segments/3L_uHTClWfk-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.458,
+    4.375,
+    7.292,
+    10.208
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a screen recording of a webpage from the Internal Revenue Service (IRS) website. The IRS logo is visible in the top left corner, alongside a navigation menu with options for \"SEARCH,\" \"HELP,\" and \"MENU.\" The page contains instructional text regarding retirement distributions. One section, titled \"RMD Calculations and 50% tax on missed distributions,\" explains that \"An IRA trustee, or plan administrator, must either report the amount of the RMD to the IRA owner or offer to calculate it.\" The text further notes that \"Not taking a required distribution, or not withdrawing enough, could mean a 50% excise tax on the amount not distributed.\" A blue hyperlink for \"worksheets\" is visible within the text. Across the frames, the view remains static on the same section of the webpage, with no movement or changes in the content."
+}

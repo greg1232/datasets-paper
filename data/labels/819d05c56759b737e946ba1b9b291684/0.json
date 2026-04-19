@@ -1,0 +1,15 @@
+{
+  "video_id": "819d05c56759b737e946ba1b9b291684",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.709,
+    2.127,
+    3.545,
+    4.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white police-style vehicle with a red light bar on its roof drives along a dusty road in an arid environment. The setting includes beige, modular buildings and tents, with tall, brown textured walls bordering the path. Another dark vehicle is parked in the distance. As the scene progresses, the white vehicle moves closer to the camera, kicking up a cloud of dust that partially obscures the background. By the end of the sequence, the vehicle has passed the foreground, leaving a lingering haze of dust in the air. Throughout all the frames, the on-screen text \"but to help the Syrian refugees it's worth it\" appears centered at the bottom of the image. No people are visible in the frames."
+}

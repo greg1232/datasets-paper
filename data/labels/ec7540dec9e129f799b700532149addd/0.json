@@ -1,0 +1,15 @@
+{
+  "video_id": "ec7540dec9e129f799b700532149addd",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.203,
+    0.61,
+    1.017,
+    1.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men are seated in a room, positioned in front of a television displaying the text \"OUR STUPID REACTIONS\" in a stylized, glowing yellow font. The man on the left wears a dark green t-shirt, while the man on the right wears a grey t-shirt and a necklace with a pendant. Between them, a smaller inset video window shows a person in silver armor on a dark horse in a rugged, outdoor landscape. The caption at the bottom of this inset reads, \"have been cheating death since i was 14.\" In the background, a shelf filled with various DVDs or games is visible beneath the television. Throughout the sequence, the men remain mostly still, though the man on the right maintains a pensive expression with his hand resting on his chin. The scene is static, with only minor shifts in the men's facial expressions as they watch the content."
+}

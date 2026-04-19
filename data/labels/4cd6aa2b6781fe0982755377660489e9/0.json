@@ -1,0 +1,15 @@
+{
+  "video_id": "4cd6aa2b6781fe0982755377660489e9",
+  "url": "./data/segments/3L_uHTClWfk-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.212,
+    0.637,
+    1.062,
+    1.488
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man dressed in a grey military-style uniform, consisting of a peaked cap and a dark high-collared jacket with silver buttons on the shoulders, is shown against a solid black background. In the initial stages, his mouth is open and his expression is one of shock or surprise, with wide eyes looking slightly upward and to the side. As the sequence progresses, his facial expression shifts; his mouth closes and his gaze becomes more neutral and focused forward. The lighting is dramatic, highlighting the side of his face and the structure of his cap while leaving the background entirely dark. There are no other people, objects, or text visible in the scene. The only movement occurs in the man's facial muscles as he transitions from a state of alarm to a more composed, blank expression."
+}

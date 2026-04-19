@@ -1,0 +1,15 @@
+{
+  "video_id": "c4aef35e5a8fbd1f5f8f6214ad7f79ee",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-205.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.304,
+    0.912,
+    1.521,
+    2.129
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip shows a gaming interface for \"ULTIMATE TEAM\" overlaid with a webcam feed of a man. The man, appearing in the bottom-left corner, has blond hair and is wearing a dark blue shirt while speaking into a microphone. The game menu features a deep red and purple color scheme with sections titled \"ADJUST LINEUP,\" \"ITEM MANAGER,\" \"SETS,\" \"RENAME TEAM,\" and \"GAME OPTIONS.\" Three circular icons display a \"91\" rating for \"OVR,\" \"OFF,\" and \"DEF.\" To the right, player cards are visible, including one for \"K. Conley.\" The top navigation bar includes options like \"PLAY,\" \"MISSIONS,\" \"MARKETPLACE,\" \"MY TEAM,\" and \"COMPETITIVE,\" alongside currency values and \"LVL 19.\" Across the sequence, the man\u2019s facial expressions and gestures change as he speaks, while the game menu remains static, showing no changes in the selected options or player data."
+}

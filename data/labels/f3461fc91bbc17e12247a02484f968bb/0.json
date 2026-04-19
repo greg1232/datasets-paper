@@ -1,0 +1,15 @@
+{
+  "video_id": "f3461fc91bbc17e12247a02484f968bb",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.224,
+    0.672,
+    1.12,
+    1.568
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and a brown complexion is seen in a close-up shot, wearing a brown and white striped shirt and a black over-ear headset with an attached microphone. She is positioned indoors against a background featuring light-colored curtains with a subtle blue edge. The text \"Nancy Ramya\" appears in the bottom left corner of the scene. Throughout the sequence, the woman remains relatively still, facing forward with a neutral expression. She blinks slightly and makes small, subtle movements with her head and eyes, while her gaze remains directed toward the camera. No other people or objects are visible, and the setting remains constant across the frames, with no significant changes in lighting or position."
+}

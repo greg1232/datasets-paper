@@ -1,0 +1,15 @@
+{
+  "video_id": "95bf8a7be66b72d3181f764a65e7a4b9",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-255.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.633,
+    1.9,
+    3.167,
+    4.433
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card featuring Derek Jeter and Ken Griffey Jr. over a white plastic case. The card displays photographs of the players and their signatures. The setting appears to be a sports card breaking station, with stacks of card holders in the background and a colorful tabletop. In the lower portion of the screen, a smaller inset video shows a man with a beard wearing a dark blue shirt and a yellow lanyard, seated in front of a computer monitor. The \"JASPYS\" logo and the text \"CASEBREAKS.COM\" are prominently displayed on the screen. As the sequence progresses, the hand moves the trading card, tilting it to show the reflective surface and the signatures before sliding it down toward the open white case. The man in the inset video remains stationary, observing the action."
+}

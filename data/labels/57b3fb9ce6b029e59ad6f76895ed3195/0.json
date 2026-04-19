@@ -1,0 +1,15 @@
+{
+  "video_id": "57b3fb9ce6b029e59ad6f76895ed3195",
+  "url": "./data/segments/3IrHmvnGXTc-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.673,
+    20.02,
+    33.367,
+    46.713
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair, wearing a white and light-blue checkered button-down shirt, sits in a brown leather chair against a backdrop featuring a teal and blue geometric design. A professional black microphone on a boom arm is positioned directly in front of him. In the first frame, a graphic overlay appears across the center of the screen with the text \"AdWords OPTIMIZATIONS\" written in blue and white lettering. As the sequence progresses, the graphic disappears, and the man speaks, gesturing with his hands in the second frame before returning to a relatively still position in the final two frames. He maintains a neutral expression while looking directly forward toward the camera. The lighting remains consistent throughout the clip, and the camera angle stays fixed in a medium shot."
+}

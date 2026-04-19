@@ -1,0 +1,15 @@
+{
+  "video_id": "485cef5e3d3ae9c94e436ec3d1d438e4",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-141.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.21,
+    0.63,
+    1.05,
+    1.47
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a split-screen presentation discussing political developments. The layout includes portrait images of various politicians alongside a central image of a man in a white shirt standing before a large building. A graphic displays \"2019 \u0932\u094b\u0915 \u0938\u092d\u093e\" and \"\u0915\u0941\u0932 \u0938\u0940\u091f\u0947\u0902 42,\" with a \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938\" logo and the number \"02.\" The header text transitions from \"2024 \u092e\u0947\u0902\" in the first frame to \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\" and then \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\" across subsequent frames. Politicians listed in side panels include \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930,\" \"\u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930,\" \"\u0935\u093f\u091c\u092f \u091a\u094c\u0927\u0930\u0940,\" \"\u0921\u093f\u092a\u094d\u091f\u0940 CM \u0938\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940,\" \"\u0935\u093f\u091c\u092f \u0938\u093f\u0902\u0926\u093e,\" \"\u092c\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935,\" and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930.\" A red ticker at the bottom eventually displays the text \"\u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930 \u0928\u0947 9\u0935\u0940\u0902 \u092c\u093e\u0930 CM \u092a\u0926 \u0915\u0940 \u0936\u092a\u0925.\" The time \"10:08 PM\" is visible in the bottom right corner of every frame, alongside a news channel logo."
+}

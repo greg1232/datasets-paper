@@ -1,0 +1,15 @@
+{
+  "video_id": "fb4bec35b3a5551ca674624cd6292cdd",
+  "url": "./data/segments/3tXiKB90OM0-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.921,
+    5.763,
+    9.604,
+    13.446
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, grey naval transport ship is being maneuvered into a dock by a small tugboat in a harbor under a clear blue sky. The tugboat, positioned to the left of the ship's bow, is connected to the vessel by a tow line. On the forward deck of the naval ship, a group of personnel in light-colored uniforms are standing in formation, facing forward. To the right of the ship is a concrete pier with vertical wooden pilings. In the background, a low-lying shoreline with sparse vegetation is visible. Throughout the sequence, the scene remains largely static, with the naval ship and tugboat maintaining their relative positions as they slowly drift closer to the pier. No on-screen text or logos are visible in the frames."
+}

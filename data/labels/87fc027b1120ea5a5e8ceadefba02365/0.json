@@ -1,0 +1,15 @@
+{
+  "video_id": "87fc027b1120ea5a5e8ceadefba02365",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-363.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.098,
+    0.294,
+    0.49,
+    0.685
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is taking place in a large stadium under bright lights at night. Players from two teams, one wearing white jerseys and the other in dark jerseys, are lined up on a green grass field marked with white yard lines and a large red \"W\" logo. In the foreground, a small inset window shows a man with blond hair wearing a dark blue shirt. On-screen graphics at the top display the game status, including \"3rd & 8\", \"14\", \"7\", \"3rd 3:29 28\", and \":11\", alongside the text \"LET'S GO DEFENSE!\". As the action progresses, the players engage at the line of scrimmage, with the offensive line pushing forward and players moving toward the center of the field. The man in the inset window remains visible, his expression neutral as he watches the play unfold."
+}

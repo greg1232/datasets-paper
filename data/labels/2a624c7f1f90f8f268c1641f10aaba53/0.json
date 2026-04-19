@@ -1,0 +1,15 @@
+{
+  "video_id": "2a624c7f1f90f8f268c1641f10aaba53",
+  "url": "./data/segments/3QD9oO6sRns-Scene-165.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.387,
+    0.646,
+    0.904
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a graded sports card encased in a clear plastic protector, showcasing a baseball player in a Houston Astros uniform. The person's hands grip the edges of the case, rotating it slightly to catch the light across the frames. In the background, a white box sits on a surface, partially obscured by a red and blue logo that reads \"BREAKS\". A small inset video window in the bottom right corner shows a man wearing a black t-shirt and a black baseball cap, watching the action. On-screen graphics overlay the image, including a logo for \"CASEBREAKS.COM\" and text that reads \"CASEBREAKS\". The scene remains largely consistent throughout the clip, with only minor adjustments in the positioning and angle of the graded card as it is presented to the camera."
+}

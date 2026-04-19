@@ -1,0 +1,15 @@
+{
+  "video_id": "cb2cc83ad79a3f49a2af4d5b55141af6",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-343.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.188,
+    0.563,
+    0.938,
+    1.314
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman and a man are recording a podcast in a studio setting. The woman, seen in the first frame, wears a dark green t-shirt with a red Greek key pattern and has her hair in a high bun. She sits behind a professional microphone on a boom arm. The man, appearing in the remaining frames, wears a white baseball cap, a black hoodie with the word \"BOSS\" in gold lettering, and a gold watch. He also sits before a microphone. The background features a white banner with blue stars and the text \"HUSTLE\" repeated vertically, along with the phrase \"Where BOSSES Talk!\". A logo for \"BOSS TALK 101\" is visible on the banner and as an on-screen overlay. The scene transitions from a medium shot of the woman to a medium shot of the man, who remains relatively still, looking slightly off-camera."
+}

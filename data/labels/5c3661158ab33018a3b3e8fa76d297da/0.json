@@ -1,0 +1,15 @@
+{
+  "video_id": "5c3661158ab33018a3b3e8fa76d297da",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.242,
+    3.725,
+    6.208,
+    8.692
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair tied back, wearing a light-colored, long-sleeved button-down shirt, sits at a desk in a brightly lit indoor setting. She is positioned in profile, facing a computer monitor and a black keyboard. The monitor displays a light grey interface with a central graphic of a three-dimensional object. As the sequence progresses, the object on the screen changes color, transitioning from a dark grey in the first instance to a vibrant blue in the subsequent frames. The woman remains still, observing the screen with her right arm extended toward the desk. The background consists of a plain white wall with a vertical shelving track. No legible text or logos are visible on the screen or surrounding equipment."
+}

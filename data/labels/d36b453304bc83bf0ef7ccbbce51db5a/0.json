@@ -1,0 +1,15 @@
+{
+  "video_id": "d36b453304bc83bf0ef7ccbbce51db5a",
+  "url": "./data/segments/3E6ctN22V7k-Scene-097.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.975,
+    1.625,
+    2.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting with a brick wall background, two women are positioned closely together, looking at a white laptop screen. One woman, with fair skin and dark hair, wears a black short-sleeved shirt and a red lanyard around her neck. Beside her, a woman with dark skin and hair tied back in a bun wears a dark blue garment. Throughout the sequence, both women focus their attention on the laptop, with the fair-skinned woman leaning in toward the other. The fair-skinned woman's expression shifts from a serious look to a slight smile. On-screen text appears at the bottom of each frame, reading \"Our children will become intelligent with this!\". The camera remains stationary, capturing the subtle movements and changing facial expressions of the two women as they interact with the device."
+}

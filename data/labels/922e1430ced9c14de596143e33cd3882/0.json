@@ -1,0 +1,15 @@
+{
+  "video_id": "922e1430ced9c14de596143e33cd3882",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-165.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.459,
+    1.376,
+    2.294,
+    3.212
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A promotional video for a service called \"THE TECHNOLOGY INSIDER\" alternates between two distinct visual screens. One screen features a dark, teal-colored background with an abstract, glowing network of lines and dots, overlaid with the text \"THE TECHNOLOGY INSIDER\" and a blue \"SIGN UP\" button. The second screen is a plain white background displaying \"$37.50\" in blue, \"RISK FREE\" in red, and \"30 DAY\" in red. As the video progresses, the text on the white screen evolves to include more information, eventually reading \"$37.50 RISK FREE 30 DAY MONEY BACK GUARANTEE.\" The video rapidly cuts back and forth between the branded dark background and the offer on the white background, with the promotional text on the white screen becoming more complete over time. No people or physical locations are visible."
+}

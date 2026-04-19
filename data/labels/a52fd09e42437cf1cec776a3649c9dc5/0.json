@@ -1,0 +1,15 @@
+{
+  "video_id": "a52fd09e42437cf1cec776a3649c9dc5",
+  "url": "./data/segments/3Ma0wGTm5QQ-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.875,
+    2.625,
+    4.375,
+    6.125
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair, wearing a red t-shirt with the logo \"Learning In Hand with TONY VINCENT,\" stands against a dark blue background. Large, colorful graphic text is overlaid on the screen, reading \"ELECTRIFY ANY LESSON\" in cyan, followed by a large \"2.0\" in pink, underscored by a bold yellow lightning bolt. The man is positioned to the right of the text, facing the camera and speaking. Across the sequence of frames, his facial expressions and mouth movements change as he talks, and his posture shifts slightly. While the background and on-screen graphics remain static, the lighting on the man's face subtly shifts, and in the final frame, a light blue gradient appears on the far left side of the screen, partially overlapping the background."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "66bab0134ba6f4e0742c81d20f4cb4c9",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-244.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.102,
+    0.306,
+    0.51,
+    0.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a small, colorful trading card over a white box with a yellow label. The person is wearing a ring on their finger and is carefully maneuvering the card. In the background, a split-screen view shows a man with a beard wearing a dark blue t-shirt with a yellow circular logo sitting at a desk with a computer monitor and microphone. The on-screen text displays the logo \"JASPYS LIVE\" and the website \"CASEBREAKS.COM\" in white and orange letters. As the scene progresses, the person's hands shift the position of the trading card, tilting it to show its reflective surface. The man in the background remains seated at his workstation, observing the action. The environment appears to be a dedicated streaming or recording setup for sports card collecting."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "810f2f1742bad4fe196840ab47dded4d",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-101.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.538,
+    0.897,
+    1.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a grey t-shirt and headphones sits in a studio setting, partially obscured by a large computer monitor, speaking into a professional microphone. In front of him, a smaller screen displays a video of three people outdoors in a park-like setting with autumn foliage. In this embedded video, a man in a mustard-colored shirt and a person in a brown top raise glasses for a toast with a man wearing a red sweater. The embedded video features three circular icons at the bottom with accompanying text: \"Herbal Powder Cost\", \"BPH Free\", and \"Urins Not Smeel\". Across the sequence, the man in the studio maintains a focused expression while speaking, with slight shifts in his facial muscles and lip position. The embedded video remains static, showing the same moment of the toast in every frame."
+}

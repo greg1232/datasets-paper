@@ -1,0 +1,15 @@
+{
+  "video_id": "f4ab5b523ee8a3010ef1d6ae6363d711",
+  "url": "./data/segments/3a0FD1177FA-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.162,
+    0.485,
+    0.808,
+    1.131
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is crafting a card on a white gridded cutting mat. They are working with olive green cardstock and pieces of patterned scrap paper featuring green, brown, and yellow tones. A white ink pad labeled \"MEMEN\" and a small white rectangle of paper are nearby. A decorative logo for \"Amazing Jill\" is visible in the bottom left. In the upper frames, the person\u2019s left hand holds a patterned strip while their right hand rests on a square of olive green cardstock. As the sequence progresses, the person uses both hands to carefully align and place a rectangular piece of the patterned paper onto the green cardstock. In the background, a small printed card is partially visible with the text \"BIRTHDAY\" and \"best things!\". The person's hands are the primary focus, moving the decorative paper from the side of the mat to the center of the card."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0537e5f5e905c263e8759378f4adfc38",
+  "url": "./data/segments/3E6ctN22V7k-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.27,
+    0.81,
+    1.35,
+    1.89
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand rests on top of a yellow suitcase, positioned near the metal latch. The scene then shifts to reveal the interior of several grey plastic storage bins. In these bins, various items are stored, including books with reddish-brown covers. The camera angle moves closer to the contents of the bins, showing more of the stored materials. Throughout all the frames, the on-screen text \"And inside each suitcase there is wonder.\" remains consistent at the bottom of the image. The transition moves from an exterior view of a suitcase to the internal contents of storage containers, emphasizing the items kept inside."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "389e693f9df7af3da7a4562d641b1d6e",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.425,
+    1.276,
+    2.127,
+    2.978
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video captures a perspective from the side of a dark grey car driving along a multi-lane asphalt road under a bright blue sky with scattered white clouds. In the first frame, a silver sedan is seen driving ahead in the same direction. As the scene progresses, the camera car continues forward, while the silver sedan moves further ahead in the distance. By the final frame, a white sports car with red brake calipers enters the view from the left, passing alongside the camera car. The camera car's dark metallic surface reflects the surrounding environment, including a badge on the side panel. The setting is a suburban road bordered by green grass, utility poles, and low-profile commercial buildings in the background. No people or on-screen text are visible throughout the sequence."
+}

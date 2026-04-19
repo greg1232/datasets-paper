@@ -1,0 +1,15 @@
+{
+  "video_id": "66aa1ace359195eda40e74a75fcb9b04",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.825,
+    2.475,
+    4.125,
+    5.775
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey traditional robe, glasses, and a patterned purple cap is speaking in an indoor setting. He is positioned against a bright, blurred background with hints of green foliage. The screen features several graphical overlays, including the \"plustv\" logo in the upper left and a purple banner that reads \"PLUS POLITICS\". A prominent white text banner across the center of the screen states \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\". At the bottom, a white bar provides viewing information, including \"WATCH ON\", \"DStv CH 408\", and \"StarTimes CH 308\". In the final frame, the bottom text changes to \"WATCH ONLINE\" and \"WWW.PLUSTVAFRICA.COM/LIVE-TV\". Throughout the sequence, the man remains in a medium shot, gesturing slightly and speaking, while the on-screen graphics remain largely static until the final change to the website URL."
+}

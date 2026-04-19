@@ -1,0 +1,15 @@
+{
+  "video_id": "cd38053c9299f758fbc7d6a6fb6c48e5",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, receding hair, wearing a dark navy blue blazer over a dark button-down shirt, stands behind a podium delivering a presentation. The setting is a minimalist space with a plain, light-colored background. A thin black microphone and a clear plastic water bottle are positioned on the podium in front of him. At the top of the scene, the text \"mediasite\" accompanied by a logo is visible. Throughout the sequence, the man speaks, shifting his posture and gesturing with his hands. Initially, he has his hands raised in front of his chest, gesturing as he talks. As time progresses, he lowers his arms and shifts his gaze slightly, maintaining a serious expression. The background and equipment remain static while only the man's movements and facial expressions change across the frames."
+}

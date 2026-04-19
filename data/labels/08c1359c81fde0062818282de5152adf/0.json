@@ -1,0 +1,15 @@
+{
+  "video_id": "08c1359c81fde0062818282de5152adf",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.84,
+    2.52,
+    4.2,
+    5.88
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call features a gallery of participants in their respective home or office settings. Several individuals appear multiple times in the grid, including a man in a blue shirt, a man in a gray shirt, a man wearing headphones, and a woman with long dark hair. Other participants include a man in a white shirt, a man in a blue t-shirt, a woman with glasses, and a man in a green shirt. On-screen text identifies some participants as \"Jerry McKay\", \"David Borman\", \"Clark Quinn\", \"Susan Merck\", \"Dylan Labo\", and \"charles Mass\". One person's background features a circular yellow and black logo. As the video progresses, the arrangement of the video tiles shifts. A man with a beard and gray hair appears in one frame, and a man in a blue shirt is seen talking and gesturing with his hand in the final sequence."
+}

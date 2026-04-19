@@ -1,0 +1,15 @@
+{
+  "video_id": "233f42ab06f097b2c8c282dbd7ed57ec",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-261.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.254,
+    0.763,
+    1.272,
+    1.781
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a beard is recorded in a studio setting against a dark grey, ribbed acoustic foam wall. He is wearing a white t-shirt and large black over-ear headphones. In front of him is a silver professional microphone mounted on a boom arm, which features the text \"Nano Studio Mic 2024\". Across the sequence, the man is speaking with an expressive facial expression and using his hands to gesture. He begins with his hands raised and open, moving them toward the microphone. As the scene progresses, his mouth opens wider as he speaks, and his hands shift positions, moving across his chest and toward the side of the frame. His movements are fluid, indicating an active and animated conversation or recording session."
+}

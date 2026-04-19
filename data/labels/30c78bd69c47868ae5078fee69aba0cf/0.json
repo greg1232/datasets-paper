@@ -1,0 +1,15 @@
+{
+  "video_id": "30c78bd69c47868ae5078fee69aba0cf",
+  "url": "./data/segments/3Kxl1O310k8-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.15,
+    3.45,
+    5.75,
+    8.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a presentation slide titled \"MHP Online Resources.\" On the left side of the slide, there is a graphic of a manual with a photo of a house, accompanied by the handwritten-style text \"Newly updated Operations Manual\" and the printed text \"MUNICIPAL AFFORDABLE HOUSING TRUST FUND OPERATIONS MANUAL.\" To the right, the slide features the \"data town\" logo with the tagline \"COMMUNITY INFO, ONE PLACE,\" followed by a description stating, \"Relevant data for every community in the Commonwealth to help make the case for housing.\" Below this is a section for the \"HOUSING TOOLBOX for Massachusetts Communities,\" which offers \"Strategies and best practices for the creation and preservation of affordable housing.\" Small inset video windows show a person speaking in the top corners. The scene remains static across all frames, with no visible changes in the on-screen content, logos, or the speaker's position."
+}

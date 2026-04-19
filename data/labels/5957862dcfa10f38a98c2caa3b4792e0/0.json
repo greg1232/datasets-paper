@@ -1,0 +1,15 @@
+{
+  "video_id": "5957862dcfa10f38a98c2caa3b4792e0",
+  "url": "./data/segments/3Z229_lKLpk-Scene-160.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.28,
+    0.84,
+    1.4,
+    1.96
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a formal assembly setting, likely a parliamentary chamber, with people seated in tiered rows of wooden benches. Many of the attendees are men wearing traditional Indian attire, including white kurtas, some paired with dark vests or light pink jackets. A few women are also present, wearing colorful sarees. In the center of the scene, a man in a white kurta and a dark vest is gesturing with his hand while speaking. As the clip progresses, he continues to speak and move his arm, while the people around him remain seated and attentive, some looking toward him and others looking ahead. The background features green upholstered walls and rows of tiered seating. There is no visible on-screen text, equipment, or logos. The scene remains static in composition, with only the subtle movements of the speaker and a few nearby individuals."
+}

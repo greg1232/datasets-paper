@@ -1,0 +1,15 @@
+{
+  "video_id": "38df7e1e3b6fb2bd8e3c18d43d377ef4",
+  "url": "./data/segments/3F2rz23IKUk-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.105,
+    0.315,
+    0.525,
+    0.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with brown hair and glasses stands in an indoor setting against a plain white wall. He is wearing a black t-shirt featuring a yellow square graphic of a person's face and the text \"Knuth\". He also wears a blue lanyard around his neck with an identification badge attached. Throughout the sequence, the man is holding a small white device or booklet in his hands. Initially, he looks down toward the object with a slight smile. As time progresses, he raises his head, looks forward, and begins to speak. He shifts his grip on the white object, eventually tilting it slightly upward. The background remains static, and the man's position remains centered in the frame as his facial expressions and head posture transition from downward-focused to engaged with an audience."
+}

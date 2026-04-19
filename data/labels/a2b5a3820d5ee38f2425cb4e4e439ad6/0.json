@@ -1,0 +1,15 @@
+{
+  "video_id": "a2b5a3820d5ee38f2425cb4e4e439ad6",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.852,
+    5.556,
+    9.259,
+    12.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman stands in a room giving a presentation in front of a projected slide. She has short dark hair and is wearing a white shirt under a dark blazer. To her right, a person wearing a green beanie and a light-colored jacket is seen from behind, listening to the presentation. Behind them, a black chair sits against a plain wall. The projected slide features an image of turbulent water and the text \"data as a deluge\". Throughout the sequence, the woman gestures with her hands while holding a tablet or folder. She shifts her position slightly and moves her arms as she speaks, while the listener remains relatively still. The lighting is consistent, and the focus remains on the presenter and the projected image on the wall."
+}

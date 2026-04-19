@@ -1,0 +1,15 @@
+{
+  "video_id": "e5f0407d735bccf82a0f903ca7f42c5a",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.095,
+    3.285,
+    5.475,
+    7.665
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An educational presentation slide for a course in \"CRYOGENIC ENGINEERING\" is shown. The slide is titled \"Tutorial \u2013 2\" and focuses on the \"Figure of Merit (FOM).\" A thermodynamic T-S diagram is displayed on the right, featuring a cyclic process with labeled paths including \"T=const\", \"p=const\", \"D=const\", and \"h=const\". The NPTEL logo is visible in the bottom-left corner, and the footer identifies the instructor as \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\". A mathematical equation, \"W/\u1e41_r = 6265.22\", is highlighted in a blue box on the left side of the screen. As the sequence progresses, a second equation, \"W/\u1e41_r = 767\", appears in a similar blue box next to the first one. A mouse cursor is seen moving across the screen, appearing near the first equation before the second one manifests."
+}

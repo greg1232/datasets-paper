@@ -1,0 +1,15 @@
+{
+  "video_id": "c62b5d6490154f50b61f135598a3af39",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen mixing ingredients in a large metal bowl on a wooden surface. The bowl contains a grainy, brown mixture, which is stirred using a red spatula. Beside the bowl, there is a small white plate and a small red bowl, both containing portions of the same brown, grainy substance. The person's hands move rapidly, stirring the mixture with the spatula and blending it together. Throughout the sequence, the logo \"UCAR CENTER FOR SCIENCE EDUCATION\" is visible in the top-left corner of each frame. The scene remains consistent in setting, focusing on the manual process of mixing the food ingredients, with the person's hands being the primary source of motion as they work the mixture within the bowl."
+}

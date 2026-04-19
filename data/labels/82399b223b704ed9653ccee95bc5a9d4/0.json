@@ -1,0 +1,15 @@
+{
+  "video_id": "82399b223b704ed9653ccee95bc5a9d4",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.537,
+    1.612,
+    2.688,
+    3.762
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an open, grassy field under a hazy sky, military tanks maneuver through the landscape. The vehicles are painted in camouflage patterns and are equipped with large cannons. In some frames, crew members are visible atop the tanks; one individual is shirtless. A yellow and blue flag is mounted on one of the tanks, fluttering in the wind. The phrase \"Hero Ukraine\" is superimposed in white text across the center of the scene, and a red and white circular logo containing the number \"13\" appears in the upper right. As the sequence progresses, the tanks move across the terrain, kicking up dust and smoke that obscures the background. The camera angle shifts from a side view of two tanks to a closer perspective focusing on one tank as it traverses the dry grass."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2af43c9b32226414532e38d7303183fe",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-294.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.39,
+    1.17,
+    1.95,
+    2.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark cap and shirt is visible in a small video conferencing window at the top of a screen. The main portion of the display shows a digital concept map on a black background. This map consists of various circular icons connected by blue lines, representing a network of ideas. Some icons feature illustrations of trees, people, and nature, while others contain text labels such as \"Healthy Soil,\" \"Biodiversity,\" and \"Resilience.\" The map is accessed via a web browser with multiple open tabs, including ones titled \"True & Learning by Syr,\" \"Moments by Systemini,\" \"Pulse of Society by Syr,\" and \"Rural Community Fibers.\" In the browser's address bar, the URL \"blackboard.frui learning\" is partially visible. Across the sequence of frames, the scene remains static, with the man in the video window and the layout of the digital concept map staying unchanged."
+}

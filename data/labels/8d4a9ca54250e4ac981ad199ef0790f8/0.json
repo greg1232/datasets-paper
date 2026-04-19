@@ -1,0 +1,15 @@
+{
+  "video_id": "8d4a9ca54250e4ac981ad199ef0790f8",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-171.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.338,
+    1.014,
+    1.689,
+    2.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with grey hair and glasses, wearing a blue short-sleeved button-down shirt, stands behind a wooden lectern, delivering a presentation. The setting appears to be a room with vertical wooden slats and brown blinds in the background. A small group of people is seated in the foreground, facing the speaker; one person wears a red shirt, and another wears a blue and white plaid shirt. The lectern features a logo with a stylized red tree and the word \"LIBRARY\" beneath it. To the right of the scene, the text \"ORCA\" is displayed on the screen. A black speaker is visible on a stand behind the presenter. As the sequence progresses, the man gestures with his hands and speaks, shifting his posture and facial expression while maintaining his position at the lectern."
+}

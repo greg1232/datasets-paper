@@ -1,0 +1,15 @@
+{
+  "video_id": "36c4c679bd674127f7dd2321776875a2",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.265,
+    0.795,
+    1.325,
+    1.855
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Inside a brightly lit indoor hallway with beige walls and tiled floors, four men are seen moving through the space. Three of the men wear matching light-colored short-sleeved polo shirts and dark trousers, while one man in the background wears a dark face mask. In the sequence, the men are walking toward the right side of the frame. One man in the foreground walks steadily forward, while another follows slightly behind him. In the background, the man with the face mask also walks in the same direction. Spherical, copper-colored decorative ornaments hang from the ceiling, reflecting the environment. A white circular logo is visible in the top corners of the scene. The timestamp \"14:05\" is displayed in white text in the bottom-left corner of each frame. As the sequence progresses, the men move further across the room, shifting their positions relative to the wall and the hanging ornaments."
+}

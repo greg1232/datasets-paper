@@ -1,0 +1,15 @@
+{
+  "video_id": "a0309228d363f6db6ec052923215747c",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-092.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.812,
+    1.137
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a plastic-encased sports card featuring NBA player Steven Adams. The card is titled \"MATRIX NO. MM-SAG\" and prominently displays \"STEVEN ADAMS\" above a photo of him in a basketball uniform. The card is set against a background with \"JASPYS\" and \"CASEBREAKS.com\" printed in red and white text. In the background, a man wearing a black shirt is visible through a small inset screen, sitting in a room with computer equipment. Throughout the sequence, the person's fingers gently shift their grip on the edges of the protective plastic case, tilting the card slightly to show its reflective surface. The \"PANINI\" logo is visible at the bottom of the card. The camera remains focused on the card and the hands, while the background elements and the inset video of the man remain constant."
+}

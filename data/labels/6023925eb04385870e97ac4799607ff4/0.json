@@ -1,0 +1,15 @@
+{
+  "video_id": "6023925eb04385870e97ac4799607ff4",
+  "url": "./data/segments/3P1vSUbet40-Scene-0668.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.485,
+    1.455,
+    2.424,
+    3.394
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black baseball cap, grey over-ear headphones, and a black t-shirt with the text \"CHECK IT MAN\" sits in a studio setting. He is positioned behind a professional microphone on a stand. Behind him is a white backdrop featuring gold stars and the words \"EMPIRE HUSTLE\" repeated vertically. To his right, a blurred background shows the red and white text \"BOSS TALK 101\". On-screen graphics include a logo on the left that says \"PODCAST\" and a red graphic on the right that reads \"BOSS TALK 101\". Across the sequence, the man remains seated and facing slightly to his left, with very minimal movement in his head and facial expression, maintaining a steady gaze as if listening or speaking during a podcast recording."
+}

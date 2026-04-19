@@ -1,0 +1,15 @@
+{
+  "video_id": "2f4deefe4f643f12aa5b9f8aaea6356b",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.467,
+    1.4,
+    2.333,
+    3.267
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man appears in a small video inset in the lower-left corner of a screen displaying a financial trading interface. The interface features a candlestick chart with blue and red trend lines, a price list, and various menus. The \"TICKMILL\" logo is prominent, accompanied by German text that reads, \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN,\" followed by a list of features including \"PICK-UP Spreads ab 0.1 Pips\" and \"www.tickmill.com/de.\" The man in the inset has fair skin and short light-colored hair. As the sequence progresses, he transitions from a neutral expression to speaking and eventually opening his mouth wide in an excited or surprised expression. The background trading software remains static, while the man's facial movements are the primary change across the frames."
+}

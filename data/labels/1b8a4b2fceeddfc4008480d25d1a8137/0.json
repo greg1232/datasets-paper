@@ -1,0 +1,15 @@
+{
+  "video_id": "1b8a4b2fceeddfc4008480d25d1a8137",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-273.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.083,
+    3.25,
+    5.417,
+    7.583
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seen in a room with stacks of boxes in the background, appearing in a small inset window alongside a larger view of a textured, dark grey surface. The man wears a dark blue shirt; in the initial sequence, he is seen from behind, and later, he is visible from the front, sitting in a chair. The scene is branded with a logo that reads \"JASPYS\" and the website \"CASEBREAKS.COM\" displayed in the upper right. As the sequence progresses, the inset window shifts to show a close-up of the man's face and upper body as he looks toward the camera. A small black box and a yellow box are visible on the table in front of him within the inset view. The primary focus remains on the large, shimmering grey surface, which stays static throughout the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "10e24e398eda4ac941bf23d287180d35",
+  "url": "./data/segments/3fokLGPK15Q-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white collared shirt stands on a dark stage, positioned in front of a large circular screen. The screen displays the text \"SLUSH 1\" in a stylized, bold white font. The environment is illuminated by a complex arrangement of purple and blue laser beams and spotlights that crisscross the stage, creating a dynamic light show. In the background, several people are seated at a table, though they remain mostly in silhouette against the bright lighting. Across the sequence, the man remains in a similar position, smiling and looking toward the audience. The laser patterns shift slightly in their angles and intensity, and the lighting on the stage fluctuates, while the \"SLUSH 1\" text and the man's white shirt remain constant visual anchors in the scene."
+}

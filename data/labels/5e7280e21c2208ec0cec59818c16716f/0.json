@@ -1,0 +1,15 @@
+{
+  "video_id": "5e7280e21c2208ec0cec59818c16716f",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.53,
+    1.589,
+    2.648,
+    3.708
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black zip-up hoodie and large black over-ear headphones sits in a recording studio against a background of grey acoustic foam panels. A professional silver microphone on a boom arm is positioned directly in front of his face. The man gestures with his hands while speaking. He begins by pointing his index finger toward his temple, then closes his hand into a fist. He subsequently moves his right arm across his field of vision and concludes by holding both hands up near his head, palms facing inward and fingers slightly curved, as if framing a thought or space. Throughout the sequence, his expression remains focused and animated as he communicates. No text or logos are visible in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7c4b7a20ccc966eb20cde0487dcaac8d",
+  "url": "./data/segments/3E6ctN22V7k-Scene-112.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.575,
+    1.725,
+    2.875,
+    4.025
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man wearing a light-colored, patterned button-down shirt sits at a white desk in front of a brick wall and a window. He is focused on several open books and notebooks, using his hand to flip through the pages of an orange-covered book. To his left sits a thick, white spiral-bound notebook. Throughout the sequence, he remains in the same position, continuing to examine the materials on the desk. White subtitles appear at the bottom of the frames; the first three frames display the text, \"This can really help me, it must.\" In the final frame, the text changes to, \"Because I work a lot and I am proud of it.\" The lighting is bright, and the scene maintains a consistent, studious atmosphere as he interacts with his study materials."
+}

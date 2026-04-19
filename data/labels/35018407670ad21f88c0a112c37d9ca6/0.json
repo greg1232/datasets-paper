@@ -1,0 +1,15 @@
+{
+  "video_id": "35018407670ad21f88c0a112c37d9ca6",
+  "url": "./data/segments/3HgCF6yVXko-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.654,
+    1.962,
+    3.271,
+    4.579
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static shot captures the exterior of a modern, two-story beige house with a grey tiled roof. The home features a paved driveway and a manicured green lawn with several small, rounded shrubs and a sago palm. A dark red front door is visible, set back within an arched entryway next to a large glass window. To the right, a garage with a red door is partially visible. In the background, other residential houses and palm trees are seen under a bright, overcast sky. Throughout the sequence, the camera remains stationary, and there is no movement from people or animals. The lighting remains consistent across the frames, and there is no on-screen text or logos. The scene is entirely still, showing a quiet suburban residential setting."
+}

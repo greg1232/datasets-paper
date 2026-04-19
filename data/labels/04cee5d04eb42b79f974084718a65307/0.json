@@ -1,0 +1,15 @@
+{
+  "video_id": "04cee5d04eb42b79f974084718a65307",
+  "url": "./data/segments/3sJ5OX75erw-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    15.36,
+    46.08,
+    76.8,
+    107.52
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"DARPA Open Programmable Secure 5G (OPS-5G)\" is displayed, with a small video inset of a man in a dark shirt speaking in the upper right corner. The slide outlines an objective to \"Pursue research leading to development of a portable standards-compliant network stack for 5g mobile that is open source and secure by design.\" It compares \"Proprietary: Easier, Faster\" with \"Open Systems: Portable, slower.\" On the right, a diagram shows a layered architecture with \"Portable Common Open Source SW elements for OPS-5G\" at the top, followed by a \"Hardware Abstraction Layer.\" The bottom layer is split into \"Untrusted HW,\" \"Trusted HW,\" and \"Open Source HW.\" A yellow highlight box moves across the slide, first focusing on the \"Untrusted HW\" block and then shifting slightly to the right. Logos for \"#opennetledge,\" \"THE LINUX FOUNDATION,\" \"LF NETWORKING,\" and \"LF EDGE\" appear at the bottom."
+}

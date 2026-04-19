@@ -1,0 +1,15 @@
+{
+  "video_id": "82e2e20ef4ca84cdf1f0959eaadcf298",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-294.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.106,
+    0.319,
+    0.531,
+    0.744
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football simulation game is displayed on a screen, featuring a field with players in black and white uniforms. The top section of the interface shows game stats, including \"2nd & 10\", \"1st\", and a timer at \"0:16 43 :11\". Below the main game action, a split-screen layout includes a video feed of a man with blond hair wearing a dark blue shirt. To the right of the man, a graphic displays \"MOMENTUM LEGEND\" above a logo with the letters \"VP\". Other visible logos include \"FACTOR\" and \"NIKE\". The field is overlaid with strategic markers and text, such as \"DEEP ZONE\", \"QUARTER FLAT\", \"HARD FLAT\", and \"3REC HOOK\". Across the sequence of frames, the scene remains static, with the players, the man in the video feed, and the on-screen text and graphics remaining in the same positions."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4d4ee65d5f955f7b44ff6aa8709f731c",
+  "url": "./data/segments/3P1vSUbet40-Scene-0747.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video takes place in a recording studio setting. In the initial scene, a man wearing glasses, a white shirt with a bowtie, and a tall, spiked grey wig is speaking into a professional microphone. He wears headphones and is positioned in front of a wall decorated with several framed photographs. A logo reading \"BOSS TALK 101 PODCAST\" is visible on the screen. The scene then shifts to a different man wearing a black t-shirt with \"CHECK IT\" printed on it, a black baseball cap with \"BOSS\" text, and headphones. He is also speaking into a professional microphone while resting his chin on his hand. He wears a gold watch and necklace. Behind him, a white wall features the text \"HUSTLE\" and several gold stars. The logo \"BOSS TALK 101 PODCAST\" remains present throughout the subsequent shots of this man."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "188f157587125547c7ffcb0db179c11e",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.438,
+    1.314,
+    2.19,
+    3.066
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man's reflection is visible in a car's rearview mirror, with the mirror positioned to show both the road behind the vehicle and the driver's face. The man has short, dark hair and a serious expression, gazing forward. The scenery reflected in the mirror's left side consists of a blurred outdoor environment with trees and a light-colored road. The reflection of the man occupies the right portion of the mirror. Throughout the sequence, the man remains relatively still, though there are subtle shifts in his head position and the movement of the background reflected in the glass, suggesting the car is in motion. The on-screen text \"We have seen the injuries\" appears in a small, white, semi-transparent box at the bottom center of the view across all frames."
+}

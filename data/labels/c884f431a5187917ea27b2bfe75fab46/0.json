@@ -1,0 +1,15 @@
+{
+  "video_id": "c884f431a5187917ea27b2bfe75fab46",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-907.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with braided hair is recorded in a studio setting, appearing first in a profile view and then facing the camera while gesturing with her hands. She wears a green t-shirt and a watch on her left wrist. In the studio, professional recording equipment is visible, including a microphone on a boom arm and a mixing console. The background features dark, textured walls with a logo that partially reads \"DCAST.\" As the scene progresses, the focus shifts to a man wearing a black jacket and headphones, positioned in front of a microphone. Metallic, stylized on-screen text appears over the footage, reading \"BOSS TALK 101\". The clip concludes with a black screen where the \"BOSS TALK 101\" text is centered and prominently displayed, with a red glow emanating from the middle of the phrase."
+}

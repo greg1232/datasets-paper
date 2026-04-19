@@ -1,0 +1,15 @@
+{
+  "video_id": "ddd5774c6d1ec24dcba1f32c2ef2e66a",
+  "url": "./data/segments/3QD9oO6sRns-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.312,
+    0.521,
+    0.729
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand enters the frame from the left, moving toward the center across a black surface. In the background, several stacks of trading card boxes are visible, accompanied by a promotional mat. A large orange and white logo with the text \"JASPYS BREAKS\" is prominently displayed on the surface. A small picture-in-picture overlay in the bottom right corner shows a man wearing a black baseball cap and a black t-shirt sitting at a desk. Another small overlay above him displays the \"JASPYS\" logo and the word \"breaks\". Throughout the sequence, the hand subtly shifts its position and finger orientation as it approaches the center of the scene, while the background elements and the man in the overlay remain stationary."
+}

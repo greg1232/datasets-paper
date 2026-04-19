@@ -1,0 +1,15 @@
+{
+  "video_id": "c8da65cd42ad158380dec2cba8bd2b0e",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-076.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.04,
+    3.12,
+    5.2,
+    7.28
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser with multiple open tabs, including \"True & Learning by SystemSynthesis\", \"Prompts by SystemSynthesis\", and \"Future of Society by SystemSynthesis\". The main window displays a complex conceptual map with various colored circular icons connected by blue lines. A white rectangular table is overlaid on the map, containing columns titled \"Systems\", \"Problem\", and \"Cause\", with text such as \"just balancing\" and \"fragile\" written inside. In the upper right corner of the browser window, a small video call window shows a man wearing a black baseball cap. As the sequence progresses, the user interacts with the browser; the white table is briefly hidden and then reappears in a slightly different position on the map. The man in the video call remains stationary, looking toward the camera throughout the duration of the clip."
+}

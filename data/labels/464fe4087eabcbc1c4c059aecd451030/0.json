@@ -1,0 +1,15 @@
+{
+  "video_id": "464fe4087eabcbc1c4c059aecd451030",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-196.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.826,
+    2.477,
+    4.129,
+    5.781
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man named Basil Chapman is speaking in a professional studio setting. He is dressed in a dark blue short-sleeved polo shirt and sits behind a desk with his hands clasped in front of him. Behind him, several large monitors display complex financial charts and green line graphs against dark backgrounds. A blue graphic overlay at the bottom of the screen identifies him with the text \"Basil Chapman\" and the program details \"The Tiger Technicians Hour | June 8th, 2022\". As the sequence progresses, the man remains in a static position, though his facial expressions shift slightly as he speaks, including a subtle opening of his mouth and changes in his gaze. The background and on-screen text remain constant across all frames, focusing the scene on his presentation."
+}

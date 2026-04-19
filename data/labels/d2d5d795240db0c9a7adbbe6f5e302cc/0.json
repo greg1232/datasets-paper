@@ -1,0 +1,15 @@
+{
+  "video_id": "d2d5d795240db0c9a7adbbe6f5e302cc",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.213,
+    0.638,
+    1.064,
+    1.489
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot inside a vehicle focuses on a red fabric car seat with black leather trim and a black floor mat. A bright, angled beam of sunlight cuts across the red upholstery, creating a high-contrast stripe of light. In the initial view, a hand enters from the left side, reaching toward the lower edge of the seat. As the sequence progresses, the hand pulls a lever or handle located on the side of the seat, causing the seat to shift slightly. The movement of the hand is brief, and by the final views, the hand has retracted, leaving the red seat stationary under the same harsh lighting. The interior of the car remains dark, emphasizing the vivid red color of the seat fabric and the linear pattern of the rubber floor mat."
+}

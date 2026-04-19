@@ -1,0 +1,15 @@
+{
+  "video_id": "f702ea029aec4a58a1b0b6de7e150049",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-272.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.338,
+    1.013,
+    1.688,
+    2.363
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark blue polo shirt sits in a room equipped with computer monitors and stacks of collectibles. A large, grey, textured rectangular box dominates the foreground. In the upper left, a hand enters the frame to touch the top of the box. As the sequence progresses, the man remains seated in the background, looking toward the camera. The scene features repeating logos and text that read \"JASPYS\" and \"CASEBREAKS.COM\" appearing in multiple locations across the screen, including atop the grey box and on the walls. In the lower right, the man reaches toward the box. The background includes white shelving and various electronic equipment. The overall environment appears to be a dedicated space for unboxing or reviewing items, with the focus shifting from the top of the large grey container to the person operating within the space."
+}

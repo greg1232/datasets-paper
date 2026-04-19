@@ -1,0 +1,15 @@
+{
+  "video_id": "e44e6054d2eea0b60866a035ea11f7b9",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.215,
+    0.645,
+    1.075,
+    1.505
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an outdoor setting with palm trees and manicured hedges, members of a sports team are arriving at a location. The individuals are dressed in casual athletic wear, including grey polo shirts, dark trousers, and sneakers, with some wearing black face masks. Several men are walking toward the right, carrying black travel bags. In the background, a white bus is parked near a white lattice structure. A circular white logo is visible in the upper center of the scene. The on-screen text \"TEAM HOTEL 12:47\" appears in the bottom left corner of each frame. As the sequence progresses, the men move forward through the space, with the lead individual walking closer to the foreground, transitioning from the left side of the frame to the center and eventually the right."
+}

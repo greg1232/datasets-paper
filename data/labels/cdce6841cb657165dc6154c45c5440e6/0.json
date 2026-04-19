@@ -1,0 +1,15 @@
+{
+  "video_id": "cdce6841cb657165dc6154c45c5440e6",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.405,
+    1.214,
+    2.023,
+    2.832
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows the interior of a vehicle, focusing on a section of the steering wheel and dashboard. The image highlights a textured, dark grey plastic component of the steering wheel, where the word \"CORVETTE\" is embossed in capital letters. To the left of the embossed text, a silver metal connector with a braided hose is visible, attached to a steering component. The background shows a blurred view of the instrument cluster and the dashboard's upper edge. As the sequence progresses, the camera angle shifts slightly, moving closer to the embossed \"CORVETTE\" logo and adjusting the lighting, which causes subtle changes in the reflections and highlights on the matte plastic surface. No people are present in the scene."
+}

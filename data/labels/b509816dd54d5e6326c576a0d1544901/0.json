@@ -1,0 +1,15 @@
+{
+  "video_id": "b509816dd54d5e6326c576a0d1544901",
+  "url": "./data/segments/3QD9oO6sRns-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.713,
+    2.138,
+    3.562,
+    4.987
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand uses a white marker with a green cap to mark several stacked boxes of trading cards. The boxes are black and feature the words \"CLEARLY AUTHENTIC\" and \"2020\" in various colors. A large logo reading \"CASEBREAKS.\" in white text over a red and black stylized \"CASPYS\" graphic is prominently displayed across the bottom of the scene. In the top frames, the hand holds the marker upright, touching the top of the stack. As the sequence progresses, the hand moves the marker downward, writing on the sides of the boxes. A small picture-in-picture window in the lower right corner shows a man wearing a black baseball cap and a black shirt, appearing to watch the process. The background is a dark, indistinct setting, focusing the viewer's attention on the systematic marking of the product."
+}

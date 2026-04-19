@@ -1,0 +1,15 @@
+{
+  "video_id": "75bb5e07bc75c71dccf95f9a59ed495c",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.087,
+    0.262,
+    0.438,
+    0.612
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A side-view shot shows a large white aircraft with a red and blue stripe running along its fuselage. The word \"\u0420\u041e\u0421\u0421\u0418\u042f\" is printed in large red Cyrillic letters across the upper section of the plane. A red circular logo containing the number \"13\" appears in the upper right and center of the frames. The aircraft is positioned on a runway or tarmac under an overcast sky. A large jet engine is prominent in the foreground, and the landing gear is visible beneath the fuselage. As the sequence progresses, the aircraft moves slowly from right to left, causing the perspective of the engine and the fuselage to shift slightly. The background remains a blurred, neutral-toned landscape, and no people are visible in the scene."
+}

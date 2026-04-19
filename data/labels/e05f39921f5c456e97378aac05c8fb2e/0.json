@@ -1,0 +1,15 @@
+{
+  "video_id": "e05f39921f5c456e97378aac05c8fb2e",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-074.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.384,
+    1.151,
+    1.919,
+    2.686
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is recorded in a studio setting against a wall of gray acoustic foam panels. He wears a white t-shirt and large black over-ear headphones. A professional microphone, mounted on a silver arm labeled \"R\u00d8DE\", is positioned directly in front of him. Throughout the sequence, the man is speaking and gesturing with his hands. He begins by looking slightly to his left with an open mouth, then shifts his gaze more toward the center while continuing to talk. In the final moments, he looks toward the right and raises his hands in an expressive gesture, palms open, as he continues speaking. The camera remains stationary, capturing his upper body and the studio equipment in a medium shot."
+}

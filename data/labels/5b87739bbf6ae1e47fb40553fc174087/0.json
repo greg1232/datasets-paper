@@ -1,0 +1,15 @@
+{
+  "video_id": "5b87739bbf6ae1e47fb40553fc174087",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.365,
+    1.095,
+    1.825,
+    2.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of men gather in what appears to be a corridor or official building. Several men are dressed in casual button-down shirts and trousers, while others wear uniforms, including a man in a khaki police uniform. In the initial scene, a man in a grey shirt is seen in a close-up, surrounded by others. As the sequence progresses, the view widens to show the men walking and interacting in the hallway. The screen is overlaid with news graphics, including a red banner at the bottom and a red header. The header text reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u093e \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". The bottom banner states \"JDU \u0915\u094b\u091f\u0947 \u0938\u0947 \u092e\u0902\u0924\u094d\u0930\u0940 \u092c\u0928\u0947 \u0935\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\". To the left, a portrait of a man is labeled \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930,\" and on the right, smaller portraits are labeled \"\u092e\u0902\u0924\u094d\u0930\u0940 \u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930\" and \"\u0935\u093f\u091c\u092f \u091a\u094c\u0927\u0930\u0940.\" A \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo is visible in the top right corner, and the timestamp \"10:03 PM\" appears at the bottom."
+}

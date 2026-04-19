@@ -1,0 +1,15 @@
+{
+  "video_id": "66610cf6e0325261a7404dc59683ba9e",
+  "url": "./data/segments/3P5zYKAFzh4-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.13,
+    3.391,
+    5.651,
+    7.912
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static graphic against a blue background. On the left side of the image, a book cover is displayed for \"No More Time\" by \"GREG DELANTY,\" featuring a grayscale illustration of a small animal, possibly a lemur, clinging to a white surface. To the right of the book cover, large white text reads \"FOCUS,\" followed by \"with Margaret Harrington\" and \"Greg Delanty Reads from His Latest Book.\" A small inset photograph shows a man in a dark shirt standing outdoors. At the bottom of the image, text reads \"Recorded December 14, 2020 via zoom.\" Across all frames, the composition, text, and imagery remain completely stationary and unchanged, creating a still image effect."
+}

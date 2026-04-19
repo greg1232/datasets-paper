@@ -1,0 +1,15 @@
+{
+  "video_id": "603c13f4930d50360cb50edec09b9755",
+  "url": "./data/segments/3QD9oO6sRns-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.388,
+    1.163,
+    1.938,
+    2.712
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand interacts with a stack of sports card boxes in a studio setting. The hand pushes a black box toward the center of the frame, which features the text \"CLEARLY AUTHENTIC\" and the year \"2020\" in red. In the background, several identical boxes are stacked behind the main one. The scene is overlaid with a large red and white logo that reads \"JASPYS CASEBREAKS.\" A small picture-in-picture window in the lower right shows a man wearing a black t-shirt and a baseball cap, appearing to monitor the action. As the sequence progresses, the hand slides the box further forward, shifting its position slightly across the table. The background remains a neutral white wall with fragmented logos, while the overall composition emphasizes the product being handled for the broadcast."
+}

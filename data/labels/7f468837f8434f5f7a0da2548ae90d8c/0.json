@@ -1,0 +1,15 @@
+{
+  "video_id": "7f468837f8434f5f7a0da2548ae90d8c",
+  "url": "./data/segments/3QD9oO6sRns-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.125,
+    1.875,
+    2.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown handling a transparent plastic card protector against a background of various product boxes. In the first frame, a hand holds the protector vertically. As the sequence progresses, the person uses their fingers to carefully slide an object into the top of the sleeve. In the final frames, the protector is held upright, showing the contents partially inserted. A man wearing a black t-shirt and a black baseball cap is visible in a small inset window in the lower right, appearing to watch or host the activity. The foreground features a large orange and white logo that reads \"JASPYS CASEBREAKS\". Additionally, a smaller graphic overlay displays a computer monitor and the text \"CASEBREAKS.COM\". The background contains several stacked boxes, some of which have the word \"CLEARLY\" printed on them."
+}

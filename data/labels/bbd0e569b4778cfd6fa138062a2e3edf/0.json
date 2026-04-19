@@ -1,0 +1,15 @@
+{
+  "video_id": "bbd0e569b4778cfd6fa138062a2e3edf",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.135,
+    0.405,
+    0.675,
+    0.945
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Professional soccer players train on a grass pitch in front of red stadium seating. They wear matching blue patterned training shirts, green shorts, and green socks. In the background, banners display several logos and text, including the Nike swoosh, \"CAJA RURAL GRANADA\", \"PULEVA\", and \"WINAMAX\". The Real Madrid club crest is visible on the center of the banners. Throughout the sequence, the players move across the field, shifting their positions. Several players stand in a loose group, while one player on the left moves toward the center. The players shift their stances and adjust their positions relative to one another, with some appearing to jog lightly or pivot on the grass. The background remains static, while the players' coordinated movements suggest a drill or a tactical setup during a practice session."
+}

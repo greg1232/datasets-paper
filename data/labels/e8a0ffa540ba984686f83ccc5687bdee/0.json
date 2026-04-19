@@ -1,0 +1,15 @@
+{
+  "video_id": "e8a0ffa540ba984686f83ccc5687bdee",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.726,
+    2.177,
+    3.629,
+    5.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with brown hair tied back, wearing a light-colored blazer over a white top, is sitting at a table in a modern, bright indoor setting. In front of her sits a white disposable coffee cup. She is looking down at a black smartwatch on her left wrist and interacts with it using her right hand. Across the sequence, white capitalized text appears on the screen; initially, it reads \"EXPECT NOTIFICATIONS\", and in the subsequent frames, it changes to \"EXPECT NOTIFICATIONS ON MARKET MOVEMENT\". The woman remains in a similar position throughout, subtly shifting her gaze and hand movement as she engages with the device. The background shows a blurred architectural space with neutral tones and a hint of greenery, maintaining a consistent professional atmosphere as the text overlay completes."
+}

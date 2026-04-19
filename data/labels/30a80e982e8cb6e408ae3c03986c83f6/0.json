@@ -1,0 +1,15 @@
+{
+  "video_id": "30a80e982e8cb6e408ae3c03986c83f6",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-360.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.521,
+    1.563,
+    2.604,
+    3.646
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a website for a \"List Randomizer\" from RANDOM.ORG. The page features a numbered list of sports memorabilia items, including names like \"FRANK THOMAS,\" \"KEN GRIFFEY JR,\" and \"KIRBY POCHETT.\" To the right of the list is an image of a man in a black t-shirt wearing a baseball cap, sitting in front of a backdrop with \"YascaleBreaks.com\" logos. On-screen text indicates \"There were 48 items in your list. Here they are in random order.\" A red \"Subscribe\" button for YouTube is visible at the bottom. In the later frames, the interface changes to a result screen stating \"You have randomized this list 2 times,\" with buttons labeled \"Again\" and \"Go Back.\" The IP address \"IP: 47.144.140.232\" and a timestamp of \"2021-05-01 14:07:14 UTC\" are displayed."
+}

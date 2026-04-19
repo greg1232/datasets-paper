@@ -1,0 +1,15 @@
+{
+  "video_id": "c527573eedfa146745d9cbc76d71c334",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A low-angle, wide-angle camera view captures a dark, outdoor setting at night, focusing on a patch of rough, brownish-grey soil and sparse patches of green grass. A bright, concentrated light source originates from the bottom center of the view, illuminating the ground directly in front of the lens and creating a strong glow that fades into darkness at the edges. As the scene progresses, the camera moves forward, causing the texture of the earth and the small clumps of vegetation to shift and drift toward the edges of the frame. The lighting remains constant, casting a stark white light on the uneven terrain while the surrounding environment stays completely black. There are no people, text, or logos visible in the footage."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a1c3db1c4a9a9c1f00f91da7d9f12669",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-100.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser displaying several open tabs, including \"Trust & Learning by Systemic\", \"Resonance, by SystemicWiki\", \"Future of Society by Systemic\", \"Insights \u2192 Introduction | Kumu\", and \"Road Community Feed Spotter\". The main window shows a digital mind map or node-based diagram with circular icons and connecting lines on a dark background. Within this interface, a small video window shows a person in a red shirt and another person sitting in a room with a wooden cabinet and a lamp. To the right of the main screen, a separate video feed displays a man wearing a black baseball cap and a black shirt. As the sequence progresses, the man in the cap moves slightly, and the browser tabs remain static. On-screen text includes labels such as \"starting\" and \"play\" next to the circular nodes of the diagram."
+}

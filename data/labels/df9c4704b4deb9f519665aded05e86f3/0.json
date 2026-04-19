@@ -1,0 +1,15 @@
+{
+  "video_id": "df9c4704b4deb9f519665aded05e86f3",
+  "url": "./data/segments/3P1vSUbet40-Scene-0425.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.089,
+    0.266,
+    0.443,
+    0.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a room filled with framed photos on the wall and clothing on racks in the background. He wears a white long-sleeved shirt, a red bow tie, glasses, and a tall, grey, stylized wig. He also wears black over-ear headphones. A black microphone is positioned in front of him on the left side of the screen. A logo featuring a microphone and the text \"BOSS TALK JOY PODCAST\" appears in the lower-left corner, and the text \"BOSS TALK JOY\" is visible on the right. Across the sequence, the man is speaking, with his mouth opening and closing and his head shifting slightly. He remains seated and focused forward, while the background and equipment stay stationary."
+}

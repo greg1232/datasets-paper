@@ -1,0 +1,15 @@
+{
+  "video_id": "6084850af43707a67cbb0abed96d7e1e",
+  "url": "./data/segments/3l84m5pRmyk-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey suit jacket, a white dress shirt, and a blue patterned tie speaks while standing behind a podium. He wears a thin headset microphone that extends across his cheek. In the background, a white wall features the hashtag \"#BigDataSV\" and the year \"2015\" repeated twice. A blue geometric cube logo is visible on the left side of the screen. A grey laptop is positioned in front of him on the podium. Throughout the sequence, the man remains in a similar position, facing toward the left of the frame. He maintains a serious expression, with slight variations in his facial muscles and gaze as he speaks, while his posture and the surrounding environment remain static."
+}

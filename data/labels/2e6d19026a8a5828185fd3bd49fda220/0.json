@@ -1,0 +1,15 @@
+{
+  "video_id": "2e6d19026a8a5828185fd3bd49fda220",
+  "url": "./data/segments/3diuEKaigCA-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.395,
+    1.185,
+    1.975,
+    2.765
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video consists of a static white background featuring the corporate branding for Manipal Hospitals. The logo, consisting of the text \"manipalhospitals\" in a sans-serif font, is positioned in two different locations on the screen. To the right of each main logo, the phrase \"LIFE'S ON\" is written in smaller, uppercase letters, followed by a small red cross icon. Across the frames, the visibility of these logos shifts. Initially, a blue-toned logo appears in the upper-left and lower-left areas of the screen. As the sequence progresses, the logo in the upper-left fades out while a blue-toned logo appears in the upper-right. Simultaneously, the logo in the lower-left fades out and is replaced by a grey-toned version of the logo in the lower-right. The overall effect is a transition of the branding elements across the white space."
+}

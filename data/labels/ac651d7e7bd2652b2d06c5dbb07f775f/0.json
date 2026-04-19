@@ -1,0 +1,15 @@
+{
+  "video_id": "ac651d7e7bd2652b2d06c5dbb07f775f",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.204,
+    0.613,
+    1.022,
+    1.431
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view focuses on the mechanical components of a vehicle's engine and drivetrain. The scene is dominated by metallic parts, including a chain drive, gears, and a cast metal housing. A thick, rusted brown pipe runs horizontally across the top of the frame. The engine housing features embossed lettering that reads \"pclas\". Various wires, connectors, and bolts are visible, with some parts showing signs of grime and wear. The machinery is framed by a black metal chassis. Across the frames, the scene remains static; there are no people present, and there is no observable movement or change in the positioning of the components, suggesting a still shot or a video with no action. The lighting is consistent, highlighting the textures of the weathered metal and the intricacies of the mechanical assembly."
+}

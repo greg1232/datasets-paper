@@ -1,0 +1,15 @@
+{
+  "video_id": "55bd1e069a8a21dde80a6c875fd1b98a",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-319.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    17.04,
+    51.12,
+    85.2,
+    119.28
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call interface displays a grid of participants in various home or office settings. The participants, mostly men wearing casual attire like t-shirts and button-downs, are seen in their respective video tiles. Some individuals wear glasses, while others are seen gesturing or leaning toward their cameras. Legible text labels under several tiles include \"Jeffrey Mullins,\" \"Bernard Silverman,\" \"Jen Burke,\" \"Faith Jackson,\" and \"Justin Bedson.\" The scene remains largely static across the frames, as the same group of people remains on screen. Subtle changes occur in the facial expressions and postures of the participants, with some shifting their gaze or moving slightly within their frames. The backgrounds vary from bookshelves and plain walls to home office setups, creating a diverse visual tapestry of remote participants engaged in a virtual meeting."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "75f0bb747ecdc7e6196159c93e927083",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.458,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is mixing a large batch of popcorn in a light-colored bowl. A woman with short blonde hair wearing a dark long-sleeved shirt appears in a circular inset in the lower left of the scene. The text \"UCAR CENTER FOR SCIENCE EDUCATION\" is displayed in the upper left corner of the images, accompanied by a logo. Throughout the sequence, a hand is seen stirring and tossing the popcorn, which is mixed with green and blue-colored pieces. The hand moves across the bowl from left to right and then back, shifting the popcorn as it stirs. The background behind the woman in the inset shows a glimpse of a room with a blue curtain. The focus remains on the action of mixing the popcorn within the bowl while the woman watches from the inset."
+}

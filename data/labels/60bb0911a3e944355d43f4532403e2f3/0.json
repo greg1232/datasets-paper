@@ -1,0 +1,15 @@
+{
+  "video_id": "60bb0911a3e944355d43f4532403e2f3",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-296.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.354,
+    1.062,
+    1.771,
+    2.479
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played in a stadium on a bright green field with white yard markers and a red yard line. Players wearing black and white uniforms are positioned across the field. A player identified by the on-screen text \"Bledsoe\" stands in the center, holding a football. An overlay at the bottom of the screen indicates it is \"2nd & 10\" with \"0:11\" remaining on the game clock and \"43\" seconds on the play clock. The text \"ULTIMATE TEAM\" is visible in the bottom banner. As the sequence progresses, the camera angle shifts from a high wide shot to a low-angle perspective. A small inset window in the bottom left shows a man with blond hair watching the game. By the final scene, the players have moved forward, and the perspective has zoomed in on the offensive and defensive lines clashing near the yard markers."
+}

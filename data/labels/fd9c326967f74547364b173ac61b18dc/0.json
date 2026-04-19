@@ -1,0 +1,15 @@
+{
+  "video_id": "fd9c326967f74547364b173ac61b18dc",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.584,
+    1.752,
+    2.92,
+    4.087
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Against a solid yellow background, the video begins with a logo featuring a stylized cartoon face of a man wearing sunglasses and a red Santa hat, with a Bitcoin symbol on the hat's pompom, next to the lowercase text \"tradesanta\". As the scene transitions, a cartoon robot character appears, also wearing a red Santa hat with horns. The robot is dressed in a business suit with a tie and a name tag that reads \"Ludo\". It possesses multiple mechanical arms, which it uses to multitask: one arm holds a blue telephone receiver to its ear, another holds a white document, and a third holds a blue folder. In front of the robot is a white laptop. In the final stage of the sequence, two speech bubbles appear above the robot's head; the left bubble contains the word \"BUY\" and the right bubble contains the word \"SELL\"."
+}

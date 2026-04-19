@@ -1,0 +1,15 @@
+{
+  "video_id": "e6506a352c2a7b619c7788f088b17876",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.563,
+    0.788
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up, static shot of a black plastic car dashboard, specifically focusing on a rectangular ventilation grille. The grille consists of vertical and horizontal slats forming a grid of openings. To the left, a small section of a cupholder is visible. The texture of the dashboard is matte and slightly grainy. Throughout the frames, there is no movement from any people, and no text or logos are present. The lighting remains consistent, although subtle shifts in reflection and shadow occur across the surface of the plastic as the camera captures the scene. The view remains fixed on the vent and the surrounding dashboard trim, with no significant changes in the composition or the position of the objects between the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "eb64985136de0dc6404d0cde5ceabe09",
+  "url": "./data/segments/3L_uHTClWfk-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.35,
+    1.05,
+    1.75,
+    2.45
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows the Statue of Liberty standing against a dark, overcast sky. In the initial scene, the statue holds its torch high in its right hand. As the sequence progresses, the torch begins to disintegrate and transform into a flurry of flying banknotes. These bills scatter rapidly around the statue's head and raised arm, billowing outwards in different directions. By the end of the sequence, the torch has completely vanished, replaced by a dense cloud of cash that swirls through the air. The statue remains stationary throughout the clip, while the movement is centered on the transformation and dispersal of the currency. No people, text, or logos are visible in the scene."
+}

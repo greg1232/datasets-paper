@@ -1,0 +1,15 @@
+{
+  "video_id": "219324383cf70cb0afefeb445bf06715",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-228.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.869,
+    2.606,
+    4.344,
+    6.081
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen opening a white cardboard box on a patterned surface. Inside the box is a small yellow envelope. In the background, a man wearing a black t-shirt with a yellow logo is visible on a small screen, and stacks of cards are seen to the left. The text \"JASPYS\" and \"CASEBREAKS.COM\" is superimposed on the scene. As the video progresses, the person reaches into the box, removes the yellow envelope, and opens it to reveal a sports trading card. The card features a photo of a baseball player and the name \"JOHN SMOLTZ\" printed at the bottom. The background screen continues to show the man in the black t-shirt throughout the sequence."
+}

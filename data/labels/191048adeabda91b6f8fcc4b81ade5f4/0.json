@@ -1,0 +1,15 @@
+{
+  "video_id": "191048adeabda91b6f8fcc4b81ade5f4",
+  "url": "./data/segments/3szCdVKgMug-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.315,
+    0.945,
+    1.574,
+    2.204
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A lush garden setting is captured in these frames, featuring dense green foliage, weeping willow branches hanging from above, and various plants, including clusters of red flowers. A dark, ornate stone pedestal topped with a spherical ornament stands prominently in the foreground. A thin lamp post is visible in the background among the greenery. The scene is initially very dark, appearing almost underexposed, but quickly brightens in the subsequent frames, revealing the vibrant colors of the garden and the detailed textures of the stone pedestal and surrounding leaves. No people, text, or logos are present in the frames. The only change across the sequence is the significant increase in brightness and exposure, transitioning the scene from a dim, shadowy environment to a well-lit daylight setting."
+}

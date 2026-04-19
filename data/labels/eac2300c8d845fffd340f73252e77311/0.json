@@ -1,0 +1,15 @@
+{
+  "video_id": "eac2300c8d845fffd340f73252e77311",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser with multiple open tabs, including ones titled \"Trail Learning by Systemini,\" \"Florients by Systemini,\" and \"Rural Community Food System.\" A video conferencing window is active on the right side of the screen, showing a man wearing a dark blue baseball cap and a dark shirt. The main area of the screen displays a dark-themed interactive concept map with various nodes and connecting lines. A white rectangular overlay containing a diagram with blue boxes and arrows is positioned over the map. In the upper left, a search bar contains the text \"blackbox.ai free learning.\" Throughout the sequence, the visual elements remain static, with no movement or changes in the man's expression or the layout of the screen, indicating a paused or still state across the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a7b7edd1001397709172e807596dfe30",
+  "url": "./data/segments/3QD9oO6sRns-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.317,
+    0.95,
+    1.583,
+    2.217
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a split-screen view featuring a Google Sheets spreadsheet on the left and a video player on the right. The spreadsheet contains a list of names, such as \"David Chang\" and \"Nicholas Kastner,\" under a file titled \"Fr. 06.26.20 10Box (1/2) RT #11 2020 Topps Clearly Authentic Baseball (...\" The right side of the screen shows a man wearing a black baseball cap and a black t-shirt, with a red banner below him that says \"Hit the SUBSCRIBE button down below!\" alongside a red \"Subscribe\" button and the logo \"JASPYS CASEBREAKS.\" As the video progresses, a cursor moves within the spreadsheet, right-clicking a cell to open a context menu with options like \"Insert row\" and \"Delete row.\" In the final frame, the spreadsheet is updated to include team names next to the individuals, such as \"SAN DIEGO PADRES\" for David Chang and \"DETROIT TIGERS\" for Phillip Mejia."
+}

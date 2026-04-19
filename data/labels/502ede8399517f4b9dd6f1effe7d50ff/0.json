@@ -1,0 +1,15 @@
+{
+  "video_id": "502ede8399517f4b9dd6f1effe7d50ff",
+  "url": "./data/segments/3QD9oO6sRns-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.319,
+    0.956,
+    1.594,
+    2.231
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A hand holds a printed list of names and baseball teams, such as \"ARIZONA DIAMONDBACKS - MIAMI MARLINS\" and \"ATLANTA BRAVES,\" against a background of various collectibles and a \"CLEARLY\" branded surface. The list is a checklist of players and their teams. A small inset window in the corner shows a man wearing a black baseball cap and a black shirt with a red logo, appearing to speak. To the right of the inset, a red logo reads \"CLEARLYHEADS.COM\" accompanied by the text \"CLEARLY HEADS.\" Throughout the sequence, the hand moves the piece of paper, shifting its position and angle, which causes the lighting and focus on the text to change. The background remains constant, featuring the man in the inset and the surrounding sports memorabilia and branded surfaces."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9103a80d776a682b560d25f93e7f4191",
+  "url": "./data/segments/3r9Dh8YKpLU-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.978,
+    20.933,
+    34.889,
+    48.845
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair, wearing a pink top, stands at the bottom right of a presentation screen in a classroom or lecture hall setting. She is positioned next to a large white display showing a lesson titled \"Factorial with Recursion.\" The screen contains detailed text under an \"Analysis\" section, including the mathematical formula \"n! = n* (n-1)* (n-2)* (n-3)* (n-4)........ * 1\" and the statement \"n! could be rewritten as n * (n-1)!\". An example is provided: \"5! = 5* 4* 3* 2* 1 = 5* (4)!, where n = 5,\" followed by the fact that \"0! Or 1! is equal to 1.\" The bottom of the slide mentions \"Walchand Institute of Technology, Solapur.\" A blue and white logo is visible in the bottom left corner. Across the frames, the woman remains in the same position, and the on-screen content remains identical, showing no visible changes in the scene."
+}

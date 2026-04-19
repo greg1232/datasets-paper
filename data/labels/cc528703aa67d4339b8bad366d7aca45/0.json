@@ -1,0 +1,15 @@
+{
+  "video_id": "cc528703aa67d4339b8bad366d7aca45",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-219.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.388,
+    1.164,
+    1.939,
+    2.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands at a wooden podium in a room with wood-paneled walls and horizontal blinds, addressing a seated audience. He wears a white shirt, a dark vest with red accents, and glasses. The audience, seen from behind, includes individuals wearing maroon and dark-colored clothing. In the initial sequence, the man is seen from the chest up, looking down at papers on the podium. As the sequence progresses, the camera view widens to a long shot, revealing more of the room and additional audience members. A second man in a grey shirt is visible seated to the left of the podium in the later frames. The text \"ORCA\" appears in white letters inside a white box on the right side of every frame. The man at the podium remains centered, continuing his presentation as the perspective shifts."
+}

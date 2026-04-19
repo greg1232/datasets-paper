@@ -1,0 +1,15 @@
+{
+  "video_id": "36725ca4c5e90236814ffa6633502ed5",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-358.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.483,
+    4.45,
+    7.417,
+    10.383
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt with a yellow circular logo sits at a desk in a room featuring \"Jersey Caybreaks\" signage and boxes of collectibles. He is positioned in front of a computer monitor and speaks toward the camera. The video transitions between a live-action shot of the man and screen captures of a website. The website displays a numbered list of names, including \"Paul Jon McNealy\" and \"Jason Frack\", with several entries marked as \"HOLIDAYS\". Visible text on the site includes \"Don't use this service for giveaways! use the Multi Round Giveaways instead!\" and \"You have randomized this list 8 times\" which later updates to \"9 times\". The bottom of the screen features a red YouTube banner that reads \"Hit the SUBSCRIBE button down below!\" next to a \"Subscribe\" button. The scene alternates between the man's presentation and the randomization results on the screen."
+}

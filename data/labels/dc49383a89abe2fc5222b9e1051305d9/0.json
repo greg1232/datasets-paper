@@ -1,0 +1,15 @@
+{
+  "video_id": "dc49383a89abe2fc5222b9e1051305d9",
+  "url": "./data/segments/3r714PCt5mU-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.646,
+    1.938,
+    3.229,
+    4.521
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video sequence features a white screen with a teal border that transitions into a grey screen with the same border. Centered at the top is a logo consisting of a stylized monitor and speech bubble with the text \"EDUcharlas\" beneath it. As the sequence progresses, additional text appears in orange and grey. The text \"#\" appears first, followed by the phrase \"RECURSOS EDUCATIVOS ABIERTOS: \u00a1TODO UN MUNDO A TU ALCANCE!\" and \"Realizado por intef\" accompanied by a small circular logo. Small print at the bottom states, \"Obra publicada con Licencia Creative Commons Reconocimiento-Compartir Igual 4.0,\" alongside Creative Commons icons. The text changes from \"#\" to \"#6\" in the latter half of the sequence. The final transition shows the background changing from white to a solid light grey, while all the logos and text remain centered and static."
+}

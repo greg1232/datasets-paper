@@ -1,0 +1,15 @@
+{
+  "video_id": "53011aa9025a8f522d46cd92084cbec6",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.245,
+    0.735,
+    1.225,
+    1.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video recording of a computer screen displays a web browser with multiple open tabs. In the main window, a complex conceptual map is shown against a dark background, featuring various circular icons connected by curved lines. Two prominent rectangular banners are visible on the left side: one reads \"IMAGINING BEER\" and the other reads \"ACTIVISM FOR CHANGE.\" Other icons include small illustrations of people and greenery, with text labels like \"play,\" \"interdisciplinary,\" and \"invisible labor.\" In the upper right corner, a small video call window shows a man wearing a dark baseball cap and a dark shirt. Throughout the sequence, the screen content remains static; the conceptual map and the man in the video call window do not change their positions or actions, maintaining a consistent view of the digital interface and the participant."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b46987ba360db47f2b00d38aa879a877",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-202.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.626,
+    1.877,
+    3.128,
+    4.379
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation takes place in a room with red walls, wood-paneled accents, and a rows of chairs occupied by an audience. A man in a blue button-down shirt stands at a podium at the front of the room, addressing a seated group of people. Among the audience members are individuals wearing a red and blue jacket, a yellow shirt, and a grey shirt. A person standing to the right of the speaker appears to be adjusting a camera or recording device. A black screen and various framed documents are mounted on the red wall. The text \"ORCA\" is visible as a white logo in the lower right area of the scene. As the sequence progresses, the camera angle shifts from a wide shot of the entire room to a closer view of the speaker and the front rows of the audience, focusing more on the man at the podium and the people nearby."
+}

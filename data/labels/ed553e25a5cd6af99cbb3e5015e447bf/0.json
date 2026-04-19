@@ -1,0 +1,15 @@
+{
+  "video_id": "ed553e25a5cd6af99cbb3e5015e447bf",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.177,
+    0.532,
+    0.886,
+    1.241
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit in a room in front of a television screen that displays the text \"OUR STUPID REACTIONS\" in glowing yellow letters. The man on the left has short graying hair and wears a dark green t-shirt, while the man on the right has reddish hair and a beard, wearing a gray t-shirt and a necklace. Behind them is a shelf filled with numerous DVD or game cases. Overlaid on the image is a smaller video window showing various cinematic scenes. In the first scene, a figure in red clothing is visible in a dimly lit environment. The second scene shows a group of silhouetted figures standing in a desolate, gray landscape. The third scene features a close-up of a character in red facing a dark, armored figure. In the final scene, the dark armored figure is shown more clearly against a yellow-toned background. The men's facial expressions remain mostly neutral and contemplative throughout."
+}

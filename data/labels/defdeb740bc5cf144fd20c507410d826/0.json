@@ -1,0 +1,15 @@
+{
+  "video_id": "defdeb740bc5cf144fd20c507410d826",
+  "url": "./data/segments/3sJ5OX75erw-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.195,
+    0.585,
+    0.975,
+    1.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and glasses, wearing a light-colored blazer over a grey collared shirt, is speaking against a dark blue background featuring a network of connected dots and lines. In the upper left corner, the text \"OPEN NETWORKING & EVENTS EXECUTIVE FORUM\" is visible. The man is centered in the frame, wearing wired earphones. As the sequence progresses, he becomes more animated with his hand gestures to emphasize his speech. Initially, his hands are low and relatively still, but he soon raises both hands, opening them wide and moving them in a rhythmic motion in front of his chest. His facial expression remains focused as he continues talking, with his mouth open and eyes directed toward the camera throughout the clip."
+}

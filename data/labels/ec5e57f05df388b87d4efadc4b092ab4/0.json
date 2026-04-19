@@ -1,0 +1,15 @@
+{
+  "video_id": "ec5e57f05df388b87d4efadc4b092ab4",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-258.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.144,
+    0.431,
+    0.719,
+    1.006
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a clear plastic protective sleeve in the foreground, shifting their grip slightly as the scene progresses. In the background, a man with a beard wears a dark blue shirt with a small yellow logo on the chest and sits at a desk equipped with a microphone and computer monitors. The setting appears to be an indoor office or studio with various items on the desk, including boxes and electronic equipment. On-screen graphics prominently display the text \"JASPYS\" in a stylized orange and white font, accompanied by the URL \"CASEBREAKS.COM\" in a white rectangular box. A smaller version of the \"JASPYS\" logo and \"Sports Cards & More\" text appears in a picture-in-picture window showing the man at his desk. Across the sequence, the person in the foreground adjusts the position of the plastic sleeve, while the man in the background remains seated, looking toward the camera."
+}

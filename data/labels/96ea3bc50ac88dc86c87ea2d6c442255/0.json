@@ -1,0 +1,15 @@
+{
+  "video_id": "96ea3bc50ac88dc86c87ea2d6c442255",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-346.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.245,
+    0.735,
+    1.225,
+    1.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call features a grid of participants in various home settings. Several people appear multiple times in different positions across the screen. A man in a blue plaid shirt, identified by text as \"Jerry McHugh,\" is seen in multiple tiles, alongside a woman in a brown top labeled \"Rada T\" and a man in a green shirt labeled \"Sal.\" Other participants include a woman in a blue shirt, a man in a black shirt with a white logo, and a man with glasses in a dark shirt. The backgrounds vary from home offices with bookshelves to a bright room with a television and white furniture. A blue and white logo is visible in several tiles. As the sequence progresses, the arrangement of the participants' video feeds shifts, with different individuals appearing or disappearing from the visible grid."
+}

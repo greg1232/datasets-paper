@@ -1,0 +1,15 @@
+{
+  "video_id": "c6cfd68ba716f4f866954e44d37f6dee",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.9,
+    2.7,
+    4.5,
+    6.3
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman dressed in light beige scrubs, consisting of a short-sleeved shirt and flared pants, stands in a bright hospital or clinic hallway. The setting features white walls, a grey floor, a row of blue chairs along the left wall, and several closed brown doors. A blue name tag is visible on her left chest, though the text is illegible. In the beginning, she stands facing the camera with her hands held together in front of her waist, smiling slightly. As the sequence progresses, she maintains her position and expression until she eventually begins to turn and walk away from the camera toward the right side of the hallway, her arms moving naturally as she walks. The background remains static, showing the long corridor extending into the distance with recessed ceiling lights."
+}

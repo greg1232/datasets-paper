@@ -1,0 +1,15 @@
+{
+  "video_id": "702abbf20346c3db69473846cfbf0ca0",
+  "url": "./data/segments/3P1vSUbet40-Scene-0503.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.203,
+    0.61,
+    1.017,
+    1.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a large, spiked grey wig, glasses, and a white long-sleeved shirt with a red bowtie speaks into a professional microphone. He is wearing black over-ear headphones and is positioned in a room decorated with framed photographs on the wall and clothing racks in the background. A white box and a black bag are visible behind him. Throughout the sequence, the man remains in the same position, slightly shifting his head and opening his mouth as he speaks. Two different logos appear on screen; one is a circular emblem containing the text \"PODCAST\" and \"TOS TALK JOY\", and the other is a graphic reading \"TOS TALK JOY PODCAST\". The scene remains static in terms of camera angle and lighting, focusing on the man's facial expressions and movements as he talks."
+}

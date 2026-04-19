@@ -1,0 +1,15 @@
+{
+  "video_id": "f2d8d8ff9b4bcce134486523d822ff74",
+  "url": "./data/segments/3Z229_lKLpk-Scene-135.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.705,
+    1.175,
+    1.645
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide shot captures a large assembly hall filled with people seated in tiered rows of wooden desks. The attendees are predominantly men dressed in traditional Indian attire, such as white kurtas and pajamas, with some wearing colorful vests or sashes. Many of the people are seated and looking forward, while others are engaged in quiet conversation with neighbors. The room is decorated with yellow and white striped drapery hanging from the upper balcony. Across the sequence, the scene remains largely static, showing a high-angle view of the crowded hall. Subtle movements occur as a few individuals shift in their seats or turn their heads, but the overall composition and the positions of the people remain consistent throughout the clip. There is no visible on-screen text, logos, or specialized equipment beyond the built-in desks of the assembly."
+}

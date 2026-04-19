@@ -1,0 +1,15 @@
+{
+  "video_id": "2450684d1648bbfe5f61ae71123b0be8",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-160.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.256,
+    0.769,
+    1.281,
+    1.794
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a dark t-shirt and a white headset, is seen in a small inset window at the bottom left of a screen. He sits in a room featuring a decorated Christmas tree and a monitor in the background. The main area of the screen displays a purple interface for a football video game, showing several player cards. Legible text on these cards includes \"K 1\" for \"MONROE BADGLEY,\" \"KR 1\" for \"JAYLEN WADDLE,\" and \"PR 1\" for \"JUSTIN JEFFERSON,\" who wears a jersey with the number \"18.\" Below the \"KR 1\" card, there are options for \"CHUBB\" and \"NOT REQUIRED.\" Throughout the sequence, the man maintains a similar position and expression, and the layout of the player cards and on-screen text remains static, with no visible changes occurring across the scenes."
+}

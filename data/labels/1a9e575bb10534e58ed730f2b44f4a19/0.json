@@ -1,0 +1,15 @@
+{
+  "video_id": "1a9e575bb10534e58ed730f2b44f4a19",
+  "url": "./data/segments/3P1vSUbet40-Scene-0403.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.782,
+    1.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a distinct, tall, light-colored hairstyle wears black headphones, glasses, a white shirt, a red bow tie, and light-colored suspenders. He is seated in what appears to be a studio setting, positioned in front of a black microphone. Behind him, a wall features a framed picture and text that reads \"UNIQUE FASHION\". On-screen graphics include a logo on the left with the word \"PODCAST\" and text on the right that reads \"BE TALK 101\". Throughout the sequence, the man remains in a profile view, speaking into the microphone. While his overall position and the background remain static, his mouth and facial expressions shift slightly as he talks, and he makes subtle movements with his head and torso. He appears to be gesturing or adjusting himself slightly as he continues his conversation."
+}

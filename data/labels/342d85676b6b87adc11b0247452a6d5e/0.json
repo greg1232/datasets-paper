@@ -1,0 +1,15 @@
+{
+  "video_id": "342d85676b6b87adc11b0247452a6d5e",
+  "url": "./data/segments/3fokLGPK15Q-Scene-109.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.69,
+    5.07,
+    8.45,
+    11.83
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people are seated on a stage during a presentation. On the left, a man with dark curly hair wears a white long-sleeved shirt and grey trousers. In the center, a woman with blonde hair tied back wears a black t-shirt and black trousers. On the right, a man wears a light blue shirt under a grey suit. They are seated in light-colored wooden chairs. In front of each person is a white, textured architectural model. The background is a dark stage with purple lighting and vertical neon tubes. In the lower right of the scene, a red logo reads \"SL\". Throughout the sequence, the three individuals remain seated and engage in conversation. The man on the right speaks while the others listen, with subtle shifts in their posture and facial expressions. The camera remains static, capturing the group from a medium distance as they interact."
+}

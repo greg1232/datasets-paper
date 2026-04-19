@@ -1,0 +1,15 @@
+{
+  "video_id": "28f3da2a300fcda5af7d4f9405918059",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-309.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.025,
+    3.075,
+    5.125,
+    7.175
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, glasses, and a thin mustache wearing a dark blue shirt and white headphones sits in a room decorated with a Christmas tree. He is reacting to an American football game being broadcast on his screen. The game features players in dark jerseys facing off against the \"COMMANDERS\" on a green field, with on-screen text indicating it is \"3rd & Goal\" during the \"2nd\" quarter with \"3:31\" remaining. Banners in the stadium read \"SUPER BOWL CHAMPIONS XVII XXVIII XXXIV\" and \"WORLD CHAMPIONS 1837 1942\". The man's expressions shift from a slight smile to a focused, open-mouthed look of surprise or intensity. In some views, a picture-in-picture window shows the man's reaction overlaid on the football game, while other views focus solely on his face as he watches the action unfold."
+}

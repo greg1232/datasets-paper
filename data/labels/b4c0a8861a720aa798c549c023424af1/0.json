@@ -1,0 +1,15 @@
+{
+  "video_id": "b4c0a8861a720aa798c549c023424af1",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.346,
+    1.038,
+    1.729,
+    2.421
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Inside a large aircraft hangar with red structural beams, a white airplane is viewed from the front. The nose of the aircraft is the central focus, featuring a black band across the cockpit area. Two engines are visible on each wing. In the background, a few people in light-colored clothing stand near the wings, though they are small and distant. A red and white logo with the text \"13\" is visible in the top right corner of the scene. As the sequence progresses, the camera zooms in and tilts upward, shifting the perspective from the cockpit windows to a close-up of the smooth, white rounded nose of the plane. By the final frame, the cockpit windows have moved out of view, and the curved surface of the aircraft's nose fills most of the screen."
+}

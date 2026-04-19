@@ -1,0 +1,15 @@
+{
+  "video_id": "f6cb19f6d4ed434bb233563285ab0292",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-177.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    19.857,
+    59.572,
+    99.287,
+    139.001
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of technical stock market analysis charts for \"Caterpillar Inc.\" and a \"Semiconductor ETF\" are displayed across multiple panels. The interface features candlestick charts with various trend lines, price levels, and indicator windows for MACD and Stochastic Slow. Legible on-screen text includes labels such as \"Caterpillar Inc. heavy duty equip\" and \"Semiconductor ETF,\" along with numerical data like \"194.04,\" \"87.50,\" and \"318.69.\" As the sequence progresses, the view shifts and updates, focusing on different timeframes and price action. In the final stages, the display expands to include more complex wave projections and labels like \"A,\" \"B,\" \"C,\" \"D,\" and \"E\" to mark specific price targets. Green and red candles indicate price movements, while a blue trend line tracks the overall trajectory across the grids."
+}

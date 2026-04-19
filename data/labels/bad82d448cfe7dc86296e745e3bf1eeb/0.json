@@ -1,0 +1,15 @@
+{
+  "video_id": "bad82d448cfe7dc86296e745e3bf1eeb",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.185,
+    0.555,
+    0.925,
+    1.295
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of men are gathered outdoors in front of a building, as seen in a sequence of frames from a news report. A man in a light blue button-down shirt stands centrally, gesturing with his hand while speaking to another man wearing a white shirt. Other men stand nearby, including one older man in a white shirt and glasses on the left. The scene remains static across the frames, with only slight shifts in the men's postures. The video is overlaid with news graphics from \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\". A red banner at the top reads \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091b\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\", while a red banner at the bottom states \"BJP \u0938\u0947 \u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930 \u0928\u0940\u0924\u0940\u0936 \u0938\u0930\u0915\u093e\u0930 \u092e\u0947\u0902 \u092e\u0902\u0924\u094d\u0930\u0940 \u092c\u0928\u0947\". On the left, text identifies \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930,\" and on the right, labels name \"\u0935\u093f\u091c\u0947\u0902\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\" and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930\" as \"\u092e\u0902\u0924\u094d\u0930\u0940\". A timestamp in the bottom right reads \"10:03 PM\"."
+}

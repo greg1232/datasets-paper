@@ -1,0 +1,15 @@
+{
+  "video_id": "2cbe5184e9540ba16c6880a6cc5285d1",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.408,
+    10.223,
+    17.038,
+    23.853
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a sequence of close-up shots of the mechanical undercarriage of an all-terrain vehicle (ATV) inside a garage or workshop setting. The first two frames focus on the rear chassis, highlighting a rusted exhaust pipe and a drive chain running alongside large, knobby tires. The camera shifts perspective in the third frame to a top-down view of the vehicle's internal frame, revealing various wires, springs, and the extension of the exhaust pipe. The final frame transitions to a darker, lower angle showing the underside of the black metal frame against a concrete floor. No people are visible in any of the frames, and there is no on-screen text or logos. The sequence progresses by moving the camera around the vehicle's mechanical components to provide a detailed view of its construction and wear."
+}

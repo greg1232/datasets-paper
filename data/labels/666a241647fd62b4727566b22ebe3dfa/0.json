@@ -1,0 +1,15 @@
+{
+  "video_id": "666a241647fd62b4727566b22ebe3dfa",
+  "url": "./data/segments/3Z229_lKLpk-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.77,
+    2.31,
+    3.85,
+    5.39
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Narendra Modi stands at a podium against a textured green wall with geometric patterns and vertical decorative columns containing floral arrangements. He is dressed in a light-colored, long-sleeved shirt under a matching sleeveless jacket and wears glasses. Two microphones are positioned on the podium in front of him. Across the sequence, he is speaking and gesturing with his hands. He begins by looking slightly to his left with his arms down. He then raises his left hand in a sweeping motion across his body while continuing to speak. He shifts his gaze and posture, leaning slightly forward. Finally, he raises his right arm high in a broad gesture, extending it toward the side as he concludes his speech. The background and attire remain consistent throughout the action."
+}

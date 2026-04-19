@@ -1,0 +1,15 @@
+{
+  "video_id": "2eaadd7796cc8df8da294baf5e2c769a",
+  "url": "./data/segments/3Z229_lKLpk-Scene-127.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.605,
+    1.815,
+    3.025,
+    4.235
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a large, formal assembly hall characterized by a high, ornate ceiling with circular light fixtures and a textured green accent wall at the front. A vast audience of people, predominantly wearing white or light-colored shirts, is seated in tiered rows facing a central podium area. Flanking the green wall are two large digital screens displaying a broadcast of the event. The setting is a static wide shot, and there is virtually no movement across the frames. The people remain seated and attentive, facing forward toward the speakers at the podium. No legible text, logos, or specific interactions are visible. The composition remains constant, capturing the scale of the gathering and the formal architectural design of the venue, with the lighting and positioning of the crowd remaining unchanged throughout the sequence."
+}

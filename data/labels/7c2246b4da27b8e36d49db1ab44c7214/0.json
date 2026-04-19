@@ -1,0 +1,15 @@
+{
+  "video_id": "7c2246b4da27b8e36d49db1ab44c7214",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-097.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing blue nitrile gloves holds a smartphone over a printed medical document. The phone's screen displays a chest X-ray image, which is positioned over a section of the paper containing handwritten notes and printed text. The document includes various medical abbreviations and phrases such as \"NPO,\" \"CLD,\" \"Sim Week,\" and \"Day 3.\" On the bottom left and right corners of the view, circular purple icons with white silhouettes and the text \"Day 3\" and \"Sim Week\" are visible. As the sequence progresses, the gloved hand holding the phone shifts slightly, moving the device across the page to align the X-ray image with different parts of the clinical notes. The background consists of a light-colored wooden surface. The lighting is bright and consistent throughout the frames, focusing on the interaction between the digital image and the physical record."
+}

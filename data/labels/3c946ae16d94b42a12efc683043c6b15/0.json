@@ -1,0 +1,15 @@
+{
+  "video_id": "3c946ae16d94b42a12efc683043c6b15",
+  "url": "./data/segments/3P1vSUbet40-Scene-0349.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a tall, light-colored hairstyle, wearing glasses, headphones, a white long-sleeved shirt, a bowtie, and suspenders, speaks into a black microphone in an indoor studio setting. In the background, a sign reads \"UNIQUE FASHIONS\" and a framed picture of a yellow shield is mounted on the wall. Two logos appear on screen: a circular logo on the left containing the text \"#REAL TALK PODCAST\" and red text on the right stating \"REAL TALK 101\". Throughout the sequence, the man remains in the same position, speaking and gesturing. Between the initial frames and the final frames, he begins to move his right hand, raising it toward the microphone while continuing to talk. The camera angle and the surrounding equipment and decor remain static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e437ebf522a1694d8cf10bd77359e7c4",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-840.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.109,
+    0.328,
+    0.547,
+    0.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated at a desk in what appears to be a recording studio or podcast set. He wears a white baseball cap, a black hooded sweatshirt with \"BOSS TALK\" printed in gold and white, a gold chain, and a gold watch on his left wrist. He is wearing large over-ear headphones and speaks into a professional microphone mounted on a boom arm. The background features a white wall with yellow stars and the text \"UNION MUSTLE\" repeated, alongside a blue sign that reads \"Where BOSSES Talk!\". To his right, there is a black container with a red and white label that says \"TALK OUT\". Small logos, including one that says \"T-Talk\", appear in the corners of the scene. Across the sequence, the man remains in the same position, slightly shifting his head and facial expression as he speaks."
+}

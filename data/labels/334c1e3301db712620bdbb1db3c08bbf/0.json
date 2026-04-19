@@ -1,0 +1,15 @@
+{
+  "video_id": "334c1e3301db712620bdbb1db3c08bbf",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.063,
+    0.188,
+    0.313,
+    0.438
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An animated scene features two men standing in front of a dark background that displays the white text \"Our Stunid Reons\". The man on the left wears a blue t-shirt and points toward a red \"Subscribe\" button positioned in the center of the screen. The man on the right wears a black t-shirt, has a brown beard, and holds up his index finger. The background is decorated with small, colorful geometric shapes, including squares and circles. Across the sequence, a white mouse cursor moves across the screen, hovering over the \"Subscribe\" button. By the final moments, the button disappears entirely, and the cursor continues to move toward the right side of the frame. The men remain in their static poses throughout the animation, with no changes to their positions or clothing."
+}

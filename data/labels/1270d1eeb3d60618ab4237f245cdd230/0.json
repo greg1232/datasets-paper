@@ -1,0 +1,15 @@
+{
+  "video_id": "1270d1eeb3d60618ab4237f245cdd230",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.19,
+    3.57,
+    5.95,
+    8.33
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A recording of a computer screen shows a web browser open to a video presentation. The primary focus of the screen is a black background featuring green text that reads \"Trial & Learning\" and \"An Insightful Journey\" positioned beneath it. In the upper right corner, a small video feed shows a man wearing a dark baseball cap and a dark shirt, looking toward the camera. The browser tabs at the top of the screen are visible, with titles such as \"Trial & Learning by Syntenik,\" \"Future of Society by Syntenik,\" and \"Insights Introduction Kuma.\" A small white mouse cursor is visible on the right side of the black screen. Throughout the sequence, the scene remains static; the text, the man in the video feed, and the browser layout do not change position or content."
+}

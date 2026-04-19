@@ -1,0 +1,15 @@
+{
+  "video_id": "e850325b5fc126fe746dda34e8e4ff4c",
+  "url": "./data/segments/3mmDnftP1M8-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.786,
+    26.359,
+    43.932,
+    61.505
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light blue button-down shirt and a black over-ear headset with a microphone is positioned against a plain, light-colored wall. In the initial sequence, he has his eyes closed and hands clasped together in front of his chest. He then opens his eyes and raises his right hand, gesturing with his index finger as he speaks. As the sequence progresses, he lowers his head and looks downward, with his mouth slightly open. The text \"Ashish Raichur\" is visible in the bottom left corner of the scene throughout the clip. The background remains static and unchanging as the man shifts his posture and facial expressions."
+}

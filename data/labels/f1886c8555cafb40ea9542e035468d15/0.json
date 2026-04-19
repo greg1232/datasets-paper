@@ -1,0 +1,15 @@
+{
+  "video_id": "f1886c8555cafb40ea9542e035468d15",
+  "url": "./data/segments/3VCwl-aQ_oQ-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.537,
+    0.896,
+    1.254
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a sequence of screen captures from a web browser. The browser displays the website RANDOM.ORG, which features a \"List Randomizer\" tool. In the first two frames, a numbered list of names, including \"Ron Winter\" and \"Ron Winter,\" has already been randomized, with a notice stating \"There were 10 items in your list. Here they are in random order:\". An advisory warning is visible, stating \"Advisory: We only operate services from the RANDOM.ORG domain.\" Below the randomizer, a warning reads \"Don't use this service for giveaways!\" Beside the main browser window is a chat interface where a user named \"ngopped\" says, \"i think if you are a team signing Ohani, you are going all in on her everyone you can\". At the bottom of the screen, a banner for \"CASEBREAKS.COM\" is visible. In the final two frames, the page has refreshed to the initial \"List Randomizer\" input screen, showing an empty numbered list for the user to \"Enter your items in the field below\"."
+}

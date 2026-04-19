@@ -1,0 +1,15 @@
+{
+  "video_id": "175f98a0617b0675f9c4b1a7e5b4e606",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-342.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.583,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A televised American football game takes place in a large stadium with a crowd in the background and \"COMMANDERS\" written in large red letters on the green field. Players in white uniforms and players in green uniforms are positioned on the line of scrimmage. A small inset window shows a man with blond hair wearing headphones and a dark shirt, looking downward. A scoreboard banner across the top and middle displays \"2nd & 4\", \"7\", \"2nd 0:14 19 :12\" in the first frame, which changes to \"2nd 0:13 19 :12\" in the later frames. The banner also features logos for \"NIKE\" and \"EXO\". As the sequence progresses, the football is snapped, and the players engage in a play, moving forward toward the 30-yard line. The man in the inset window remains relatively still, watching the game unfold."
+}

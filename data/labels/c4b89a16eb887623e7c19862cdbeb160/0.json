@@ -1,0 +1,15 @@
+{
+  "video_id": "c4b89a16eb887623e7c19862cdbeb160",
+  "url": "./data/segments/3pLMflJEGQ4-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.75,
+    2.25,
+    3.75,
+    5.25
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with white hair, a white beard, and glasses is positioned in front of a dense green hedge. He is wearing a grey turtleneck sweater underneath a dark grey jacket with a textured collar and a small metallic fastener on the shoulder. He maintains a steady, neutral gaze toward the camera throughout the sequence. The background consists entirely of lush green foliage, creating a natural outdoor setting. As the video progresses, there is very little movement; the man remains stationary, and his expression stays consistent. The lighting is bright and even, illuminating his face and the details of his clothing. No other people, objects, or text are visible in the scene, and the composition remains tightly focused on the man from the chest up."
+}

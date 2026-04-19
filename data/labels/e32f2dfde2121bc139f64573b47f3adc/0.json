@@ -1,0 +1,15 @@
+{
+  "video_id": "e32f2dfde2121bc139f64573b47f3adc",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.339,
+    1.017,
+    1.694,
+    2.372
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long, dark dreadlocks tied up in a bun is seated in a podcast studio, speaking into a professional black microphone. She is wearing a dark green t-shirt featuring a red and white circular graphic on the chest. To her left is a black laptop and a couple of drinking glasses. Behind her is a black backdrop with white and red text that includes \"BOSS TALK 101\", \"By A League Hustle\", \"CAST\", and \"About It!\". A framed picture of a person's hand and arm is visible on the wall to the left. Small logos reading \"BOSS TALK 101\" and \"GEN\" appear as overlays on the screen. Across the sequence, the woman remains in the same position, gesturing slightly with her head and shifting her facial expression as she talks, while the background and equipment remain static."
+}

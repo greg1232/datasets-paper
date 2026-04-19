@@ -1,0 +1,15 @@
+{
+  "video_id": "9a9a267d57ee2e14e6e326ac1a2c14f7",
+  "url": "./data/segments/3fokLGPK15Q-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.84
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The provided image is entirely black and contains no visible content, people, objects, or text. There are no identifiable settings or actions to describe, as no visual information is present across the frames."
+}

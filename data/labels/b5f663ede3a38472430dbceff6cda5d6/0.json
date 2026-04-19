@@ -1,0 +1,15 @@
+{
+  "video_id": "b5f663ede3a38472430dbceff6cda5d6",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.601,
+    1.001,
+    1.401
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen from the side and slightly from behind, looking toward a screen. On the screen, a small, rectangular portrait of a smiling man in a black suit and a striped tie appears. This portrait is positioned over a background that features a blurred financial chart with jagged red and green lines against a dark blue backdrop. In the first frame, the portrait is partially visible and out of focus on the right side of the screen. As the sequence progresses, the portrait becomes clear and centrally positioned relative to the right side of the screen, while the person viewing the screen remains visible in the foreground. The person in the foreground is wearing a light-colored shirt. No text, logos, or other equipment are legible on the screen beyond the graphical chart and the portrait."
+}

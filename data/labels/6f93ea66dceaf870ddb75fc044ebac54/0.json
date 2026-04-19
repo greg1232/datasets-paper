@@ -1,0 +1,15 @@
+{
+  "video_id": "6f93ea66dceaf870ddb75fc044ebac54",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.46,
+    4.379,
+    7.299,
+    10.219
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A shirtless man wearing dark shorts is in a living room equipped with a large television on a white media console, a white modern chair, and a tall dark vase. In the first frame, the man stands with his back to the camera, facing the television. By the second frame, he has jumped high into the air, his body elevated above the floor. In the third frame, he is landing back on the ground, though his motion is blurred. By the final frame, the man has completely exited the scene, leaving the room empty. The room contains various decorative items, including a geometric wall piece and several smaller objects on the console. The footage is captured in grayscale, and there is no visible on-screen text or logos."
+}

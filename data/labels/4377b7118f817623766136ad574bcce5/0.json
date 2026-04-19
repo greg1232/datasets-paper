@@ -1,0 +1,15 @@
+{
+  "video_id": "4377b7118f817623766136ad574bcce5",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.23,
+    0.69,
+    1.15,
+    1.61
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "On a green soccer field in a stadium with red seating, a group of men in blue training shirts and green shorts practice dynamic movements. The shirts feature the \"Fly Emirates\" logo. In the background, red banners display white text including \"Coca-Cola\" and \"LaLiga Santander\". The athletes are performing synchronized stretching or agility drills, transitioning from a crouched, lunging position to a more upright stance. One man in the center-right of the group lunges forward with one leg extended back, while others mirror the movement at slightly different intervals. As the sequence progresses, the men shift their weight and move their limbs, maintaining their formation on the grass. The backdrop remains constant, with the red seating and corporate logos providing a steady environment for the athletes' coordinated physical activity."
+}

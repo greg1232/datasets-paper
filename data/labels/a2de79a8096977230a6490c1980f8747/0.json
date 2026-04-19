@@ -1,0 +1,15 @@
+{
+  "video_id": "a2de79a8096977230a6490c1980f8747",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.13,
+    12.39,
+    20.65,
+    28.91
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of presentation slides for a course on \"CRYOGENIC ENGINEERING\" are shown. Each slide contains a blue header with the text \"Tutorial \u2013 1\" and a footer indicating the instructor, \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay,\" alongside an NPTEL logo. The central focus of the slides is a mathematical equation for y, expressed as a fraction: y = ((h\u2081 - h\u2082) - (1 - \u03b5)(h\u2081 - h_g)) / ((h\u2081 - h_\u03b3) - (1 - \u03b5)(h\u2081 - h_g)). The visuals remain static across the first three frames. In the final frame, the text \"\u03b5\u2081 = 1\" appears to the right of the main equation, indicating a specific condition or substitution being introduced into the problem. The background of the slides is a plain white, and the overall appearance is that of a digital lecture presentation."
+}

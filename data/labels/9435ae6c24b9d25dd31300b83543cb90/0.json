@@ -1,0 +1,15 @@
+{
+  "video_id": "9435ae6c24b9d25dd31300b83543cb90",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.625,
+    1.875,
+    3.125,
+    4.375
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A panel discussion takes place on a stage in a lecture hall filled with rows of blue and grey seating. Five people are present: a man in a black suit standing on the left, a woman in a dark top seated at a white table, a man in military camouflage standing near a blue banner, a woman in a teal blazer, and a man in a grey suit seated at a white table on the right. A blue banner featuring an image of two hands shaking is positioned behind the panel. At the top of the image, the \"mediasite\" logo is visible. Throughout the clip, the man in the black suit remains standing. The woman in the teal blazer begins by gesturing with her arm while speaking, then slowly lowers it and settles into a seated position. The man in the grey suit remains seated, leaning slightly forward over his table."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d652875cb89591e955119c3d64909ecf",
+  "url": "./data/segments/3EOkyr653jg-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting with a large mural of a solar farm on the wall, a woman and a man sit side-by-side at a table. The woman, on the left, wears a white shirt under a brown leather jacket and is focused on writing on a document with a pen. To her right, the man wears a blue checkered shirt under a dark gray winter parka with a fur-lined hood and glasses. He is also writing on a set of papers using a blue pen. On the table before them are several white documents and folders. Throughout the sequence, both individuals remain seated and concentrated on their respective paperwork, their heads tilted downward as they write. The scene is static, with only the subtle movements of their hands and pens changing as they fill out the forms."
+}

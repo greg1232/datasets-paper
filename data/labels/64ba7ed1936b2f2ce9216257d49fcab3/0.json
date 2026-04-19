@@ -1,0 +1,15 @@
+{
+  "video_id": "64ba7ed1936b2f2ce9216257d49fcab3",
+  "url": "./data/segments/3JYDT8lap5U-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.655,
+    1.965,
+    3.275,
+    4.585
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard, wearing a dark blazer over a dark shirt, stands on a stage giving a presentation. He is positioned to the right of a large projector screen that displays a slide titled \"CODE TO BUILD THE LSTM\". The screen contains a block of Python code using Keras, followed by the text \"A linear dense layer to aggregate the data into a single value Compile with mean sq. error & gradient descent as optimizer Simple!\". The bottom of the slide includes the \"europython\" logo and the text \"Edinburgh 23 29 July 2018\". As the sequence progresses, the man gestures with his hands while speaking, shifting his posture and arm positions. He remains the sole person visible on stage, and the presentation slide remains static throughout the frames while he continues his explanation."
+}

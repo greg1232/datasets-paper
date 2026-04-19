@@ -1,0 +1,15 @@
+{
+  "video_id": "730a59b297f06830c68caf4ed5f18c19",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-134.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    28.921,
+    86.762,
+    144.603,
+    202.444
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a financial trading chart interface, focusing on price action and technical indicators. The screen features multiple panels: a main candlestick chart at the top and two indicator panels below, labeled \"MACD(12,26,9,1,1,UpColorDefault_,DnColorDefault_)\" and \"Stochastic Slow (High,Low,Close,14,3,3,1,20,80)\". The main chart shows green and red candlesticks with a trend line and labels such as \"B,\" \"C,\" \"D,\" and \"E,\" alongside the text \"Genko Shipping & Trading.\" On-screen data includes values like \"L=24.61,\" \"H=28.47,\" and \"V=24.14.\" Text at the bottom reads \"CW projections (0.9,BLACK,RE,\" while the top left mentions \"L=24.61 -2.33 -0.63%\". Across the sequence, the visual data remains static, with no movement in the candlesticks, indicator lines, or numerical values, indicating a still image or a frozen screen capture of a trading platform."
+}

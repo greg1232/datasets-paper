@@ -1,0 +1,15 @@
+{
+  "video_id": "7c29395d1a6dab56bfd13fe30e3d41f3",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.45,
+    1.35,
+    2.25,
+    3.15
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast depicts a group of men in a formal indoor setting, seated on white sofas. The men are dressed in traditional Indian attire and western suits. In the initial frames, a man in a dark suit stands and points towards others, while several men sit and observe. The on-screen text at the top asks \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\" and the ticker at the bottom reads \"\u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e: \u0928\u0940\u0924\u0940\u0936 \u0915\u093e \u0935\u093e\u092a\u0938 \u0906\u0928\u093e \u0938\u0941\u0916\u0926 \u0938\u092e\u093e\u091a\u093e\u0930 \u0939\u0948\". Various names like \"\u0921\u093f\u092a\u094d\u091f\u0940 CM\", \"\u0938\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940\", \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\", \"\u0935\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\", and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930\" appear in red and white boxes beside the figures. As the sequence progresses, a news anchor appears in a circular inset on the left, and the top headline changes to \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\", while the bottom ticker remains the same. A \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo is visible in the upper right corner of the final frame."
+}

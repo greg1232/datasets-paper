@@ -1,0 +1,15 @@
+{
+  "video_id": "bad28cd4fa71c7e4ca979f4f58b166c5",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.455,
+    1.365,
+    2.275,
+    3.185
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair, glasses, and a mustache is seated in front of a colorful, abstract blue and purple background. He is wearing a light-blue button-down shirt tucked under a dark grey or black suit jacket. He maintains a steady posture and a neutral facial expression, looking slightly to his left across the sequence of images. In the bottom left corner of the scene, a circular logo featuring a gear is visible next to the text \"NPTEL\". The man is positioned centrally in the frame, with a small portion of a white table or surface visible at the bottom edge. There are no significant changes in his position, clothing, or the background across the frames, as he remains still while slightly adjusting his gaze."
+}

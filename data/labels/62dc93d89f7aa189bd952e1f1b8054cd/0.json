@@ -1,0 +1,15 @@
+{
+  "video_id": "62dc93d89f7aa189bd952e1f1b8054cd",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-263.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.923,
+    2.769,
+    4.615,
+    6.46
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game takes place in a stadium with a grass field and cheering crowds in the stands. Players in white uniforms face off against players in dark uniforms under a banner that reads \"COMMANDERS\". A small picture-in-picture window shows a blonde man in a navy blue shirt watching the game. In the early stages, the players line up for a play, with the screen displaying \"1st & 10\" and a game clock at \"1:58\". As the action unfolds, the focus shifts to a close-up of the line of scrimmage where players collide. A player's name, \"Chubb\", appears briefly on screen. The scene transitions to a dynamic shot of a player in a red jersey with the number \"17\" and a player in a blue jersey with the number \"29\" engaged in a play on the field, while the blonde man in the inset window reacts with a surprised facial expression."
+}

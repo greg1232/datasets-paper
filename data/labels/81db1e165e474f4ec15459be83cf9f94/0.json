@@ -1,0 +1,15 @@
+{
+  "video_id": "81db1e165e474f4ec15459be83cf9f94",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.822,
+    2.465,
+    4.108,
+    5.752
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a short haircut, a dark beard, and tattoos on his right arm is situated in a recording studio with a black acoustic foam wall background. He wears a white t-shirt and large black over-ear headphones. A professional condenser microphone, mounted on a boom arm, is positioned directly in front of his face. The boom arm features legible white text that reads \"Rode\". Throughout the sequence, the man remains in a fixed position, looking slightly to his left. His facial expression shifts slightly as he speaks; his mouth is closed in the first frame, opens wider to speak in the second and third frames, and returns to a slightly open, expectant expression in the final frame. The camera angle and lighting remain constant, capturing only the subtle movements of his jaw and lips as he interacts with the microphone."
+}

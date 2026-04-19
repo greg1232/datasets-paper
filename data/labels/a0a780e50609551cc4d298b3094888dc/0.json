@@ -1,0 +1,15 @@
+{
+  "video_id": "a0a780e50609551cc4d298b3094888dc",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.459,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows a vehicle's fuse box integrated into a black plastic housing. Several colored fuses are seated in slots, with labels printed on the plastic housing beneath them. Legible text includes \"L.C.D.\", \"RADIO 20\", \"BRAKE 20\", \"RAZ\", and \"STOP\". A red wire is visible extending from the top right of the fuse box. The scene is static across the sequence, with no people present. Small white particles of dust or debris are scattered across the black textured plastic surfaces surrounding the fuse box. The lighting remains consistent, casting slight shadows in the crevices of the plastic molding, and there is no movement or change in the position of the components between the frames."
+}

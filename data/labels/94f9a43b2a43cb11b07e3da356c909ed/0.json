@@ -1,0 +1,15 @@
+{
+  "video_id": "94f9a43b2a43cb11b07e3da356c909ed",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-279.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.371,
+    1.114,
+    1.856,
+    2.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair and glasses is speaking into a microphone against a background of tan horizontal blinds. He is wearing a blue-grey patterned button-down shirt with a bright blue and green horizontal stripe across the chest, and a necklace with a white pendant. The white text \"ORCA\" is visible on the right side of the screen across all frames. As the sequence progresses, the man shifts his gaze and posture. He begins by looking down and slightly to his right, then looks straight ahead with a neutral expression. In the final frames, he raises his head and begins to speak, gesturing with his right hand by clenching it into a fist near his chest. The microphone remains stationary in front of him throughout the scene."
+}

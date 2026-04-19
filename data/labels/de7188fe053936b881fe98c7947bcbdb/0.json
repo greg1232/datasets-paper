@@ -1,0 +1,15 @@
+{
+  "video_id": "de7188fe053936b881fe98c7947bcbdb",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-313.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.502,
+    1.506,
+    2.51,
+    3.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played in a large stadium filled with spectators. The players are divided into two teams: one wearing white jerseys and pants, and another wearing black jerseys and pants. In an initial wide shot, the white team is lined up for a play against the black team near the end zone, which features the \"COMMANDERS\" logo. A small inset window shows a man with blonde hair wearing a dark blue shirt. As the action progresses, the view shifts to a closer angle of the line of scrimmage, where text appears on the screen stating, \"HOLD THE LINE\" and \"Enemy Team has improved blocking.\" The man in the inset window is now seen touching his ear. Finally, the action moves into the play, showing the players colliding and pushing against each other. The game interface at the top shows the score as \"0\" for both teams during the \"2nd\" quarter with \"2:57\" remaining."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5257f02d2ea474e7ff8761ff040f25fc",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-183.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.196,
+    0.588,
+    0.979,
+    1.371
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and a beard is seen from the chest up, wearing a white football jersey with red and yellow accents on the sleeves. The jersey features a red NFL shield logo on the collar and a circular patch on the left chest that reads \"NFL 100\". He is positioned in an outdoor stadium setting with a blurred background of other people and a blue sky. Throughout the sequence, the man remains relatively stationary, facing forward with a neutral to solemn facial expression. He does not speak or move his head significantly. The scene is consistent across the frames, with only slight shifts in his gaze and posture, while the background elements and his attire remain unchanged."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b070972bd9ca646faae2f417161f108e",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-640.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.117,
+    6.35,
+    10.583,
+    14.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a dark green t-shirt with the white text \"ION NEVER DO SHIT\" sits before a professional black microphone in a room filled with framed photos and clothing racks. In the background, a white mannequin is visible alongside racks of colorful clothing. To the left and right of the lower screen, circular logos containing the text \"TAPE\" and \"RED VELVET\" are displayed. As the scene progresses, the man speaks, his facial expressions shifting from a serious, focused look to a slight smile. He remains seated in the same position throughout the clip, with the background and equipment remaining stationary while he interacts with an unseen person or audience."
+}

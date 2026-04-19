@@ -1,0 +1,15 @@
+{
+  "video_id": "de7bceca3960b4a2ebca9f144eb0b41f",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.246,
+    0.738,
+    1.229,
+    1.721
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static computer screen displaying a dark-themed terminal window with white and green text. The screen is filled with scrolling system logs and command-line output. Legible on-screen text includes repeated entries such as \"[28/06/2020] 6:21:16 +0000\" and references to \"GET /favicon.ico HTTP/1.1 404\". Other visible strings include \"mgail tail\", \"rootine router\", and paths like \"/var/log/syslog\". The top of the window displays \"Activities > Terminal\" on the left and \"Oct 28 00:21\" in the center. A small \"e-python\" label is visible at the bottom. Throughout the sequence, the content of the terminal remains virtually identical, showing a long list of network logs and system processes without any movement, people, or changes in the visual environment. The scene is entirely consistent across all frames, depicting a frozen snapshot of a technical log file."
+}

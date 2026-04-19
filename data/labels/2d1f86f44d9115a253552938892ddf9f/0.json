@@ -1,0 +1,15 @@
+{
+  "video_id": "2d1f86f44d9115a253552938892ddf9f",
+  "url": "./data/segments/3fokLGPK15Q-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.105,
+    0.315,
+    0.525,
+    0.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A panel discussion takes place on a dimly lit stage characterized by a dark, reflective floor and a backdrop of blue and purple lighting with geometric neon lines. Three people are seated in light-colored wooden chairs: a man on the left wearing a white shirt, a woman in the middle wearing a dark dress, and a man on the right wearing a grey suit. They are positioned behind a small, white textured side table. To their right, the text \"SLUSH\" is visible, with a mirrored reflection beneath it reading \"HSLUS\". A white electric guitar stands upright in the background. Across the frames, the participants remain seated and engaged in conversation, with the woman and the man in the suit shifting their postures slightly as they speak and listen. The camera remains static, capturing the same wide shot of the stage throughout the sequence."
+}

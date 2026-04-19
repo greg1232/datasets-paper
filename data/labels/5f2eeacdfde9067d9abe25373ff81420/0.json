@@ -1,0 +1,15 @@
+{
+  "video_id": "5f2eeacdfde9067d9abe25373ff81420",
+  "url": "./data/segments/3hcAJKLX-Ps-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.19,
+    0.57,
+    0.95,
+    1.33
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a white long-sleeved tunic stands and speaks into a handheld microphone, holding it close to his mouth. To his left, another man stands attentively, wearing a pink shirt layered with a black sleeveless vest and a blue lanyard with a white identification badge. In the background, a third individual wearing a mask is partially visible behind them. The scene takes place indoors against a pale yellow wall and white curtains. Across the sequence, the speakers remain in the same positions with minimal movement; the man in white continues to address the audience while the man in the vest maintains a steady, focused gaze. There are no logos, on-screen text, or other equipment visible in the frames, and the composition remains consistent throughout the clip."
+}

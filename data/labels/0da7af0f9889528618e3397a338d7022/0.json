@@ -1,0 +1,15 @@
+{
+  "video_id": "0da7af0f9889528618e3397a338d7022",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.189,
+    3.566,
+    5.943,
+    8.321
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A black screen features the white text \"MIEMSSmedia production\" appearing in different positions. In the first frame, the text \"MIEMSSmedia\" is prominent in the upper right quadrant, with the word \"production\" appearing in a smaller font immediately below and to the right. In the second frame, the entire screen is black and devoid of any text. By the third frame, the text \"MIEMSSmedia\" reappears in the lower left quadrant, with \"production\" written in a smaller font directly underneath it. In the final frame, the text in the lower left quadrant becomes heavily blurred and fades, appearing as faint, indistinct gray smudges against the black background. No people, objects, or other locations are visible throughout the sequence."
+}

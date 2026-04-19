@@ -1,0 +1,15 @@
+{
+  "video_id": "0bfe81a287af122b4e69cc66914d1779",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-225.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.425,
+    1.275,
+    2.125,
+    2.975
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call interface is displayed, featuring a screen-shared diagram and a small video feed of a man in the top right corner. The man wears a grey baseball cap and a dark shirt, appearing stationary throughout the sequence. The shared screen shows a complex conceptual map on a black background, consisting of several circular icons connected by blue curved lines. Legible text labels associated with the icons include \"Insects,\" \"Amphibians,\" \"Birds,\" \"Mammals,\" \"Reptiles,\" \"Decomposers,\" and \"Producers.\" The top of the browser window displays several open tabs, including one titled \"True Learning by Systemantics\" and another titled \"Future of Society by Systemantics.\" A small chat or participant window on the right lists \"David Bedding.\" The scene remains static across the frames, with no visible movement from the man or changes to the conceptual diagram."
+}

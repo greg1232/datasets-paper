@@ -1,0 +1,15 @@
+{
+  "video_id": "1e8619fdfb82e02ceabc4ec94f048a9d",
+  "url": "./data/segments/3Smz5pevbI4-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.271,
+    0.813,
+    1.356,
+    1.898
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people are seated in a lecture hall or conference room, facing forward. In the foreground, a woman with blonde hair wears a white blazer and sits behind a laptop featuring a glowing Apple logo. Next to her, a man wearing glasses, a white shirt, a striped tie, and a dark blazer sits with his hand resting on his chin in a contemplative pose. Both have name tags pinned to their clothing, though the text is illegible. Behind them, two other women are visible: one in a dark blazer and another in a dark blazer over a floral-patterned shirt. The scene remains virtually static across the sequence, with the individuals maintaining their seated positions and facial expressions, indicating a moment of focused listening or observation during a presentation."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "08989b2fc1b9024b845bf01d47e19ca3",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-354.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.181,
+    0.544,
+    0.906,
+    1.269
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a headset, wearing a dark t-shirt, appears in a small inset window over gameplay footage from the video game \"MADDEN 23\". The game takes place in a crowded football stadium at night. On-screen text at the top displays \"MADDEN 23\", a score of \"14\" and \"7\", and a game clock at \"3rd 4:00 35\". Banners in the background feature the \"UT\" logo and \"ULTIMATE TEAM\". Several American football players in dark jerseys and pants are positioned on the green grass field. As the sequence progresses, the players move forward, with one player in the center of the field carrying the ball. The man in the inset window remains relatively stationary, observing the action with a neutral expression, while the players shift their positions across the turf toward the right side of the screen."
+}

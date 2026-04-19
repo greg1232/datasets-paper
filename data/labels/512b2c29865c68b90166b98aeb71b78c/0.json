@@ -1,0 +1,15 @@
+{
+  "video_id": "512b2c29865c68b90166b98aeb71b78c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-381.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.256,
+    0.427,
+    0.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played on a green turf field marked with white yard lines and numbers. Players in white uniforms and players in dark blue uniforms are scattered across the field. A red horizontal line extends across the grass, with the word \"Smith\" appearing above it in white text. In the background, a yellow border features the repeating text \"COMMANDER\". As the action progresses, the players move dynamically; several dark-uniformed players advance toward the center of the field, while players in white attempt to block or tackle them. A player in a dark uniform, identified by the number 73, moves forward in the foreground. Circular green indicators appear on the field around specific players. The scene captures a sequence of a play, showing the shifting positions of the athletes as they compete for territory on the field."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c34a20ff7589792aed1f203fa928ad4e",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-138.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.141,
+    0.422,
+    0.704,
+    0.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, black headphones, and a black hoodie with \"BOSS TALK\" printed in gold lettering sits in a recording studio. He is positioned in front of a professional microphone mounted on a boom arm. Behind him is a white backdrop featuring a logo with five gold stars and the words \"UNION HUSTLE\" repeated vertically. A blue banner above him reads \"Where BOSSES Talk!\". On the table in front of him sits a black mug with red and white text that says \"BOSS TALK OUT LOUD\". Throughout the sequence, the man is speaking and gesturing with his facial expressions, shifting from a slightly strained look to a smile. To his left, a small logo with the text \"BOSS TALK\" is visible on the screen. The setting and equipment remain static as the man continues his conversation."
+}

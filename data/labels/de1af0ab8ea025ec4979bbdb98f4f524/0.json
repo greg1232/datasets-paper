@@ -1,0 +1,15 @@
+{
+  "video_id": "de1af0ab8ea025ec4979bbdb98f4f524",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-159.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.672,
+    2.015,
+    3.358,
+    4.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white lab coat over pink scrubs and a dark lanyard sits in a chair, resting his head on his right hand in a gesture of frustration or exhaustion. He is positioned in an indoor setting with light-colored walls and a neutral-toned surface behind him. To his left, a black screen displays white text stating, \"This video was produced and edited by MIEMSS Media Services in partnership with the University of Maryland Department of Surgery and the R Adams Cowley Shock Trauma Center.\" Below this text is a large QR code and the email address \"lbuchanan@som.umaryland.edu\". Across the sequence, the man remains in a nearly identical pose, with only slight movements in his posture and expression, while the static text and QR code remain constant on the left side of the scene."
+}

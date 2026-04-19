@@ -1,0 +1,15 @@
+{
+  "video_id": "ef9ff0795dd4b8745d87f8a71749d0a5",
+  "url": "./data/segments/3VCwl-aQ_oQ-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.4,
+    1.2,
+    2.0,
+    2.8
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a Google Sheets spreadsheet titled \"10/22/23 - 2023 Topps Museum Collection Baseball 6-Box 1/2 Case #2\". The spreadsheet contains columns with team names and rows labeled \"Rookie Wonder\" and \"Case Wonder.\" A chat window on the right displays messages from \"engaged\" and \"Nightbot,\" including the text, \"I think if you are a team signing Ohtani, you are going all in on everyone you can\" and \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/3ezSkG0\". The bottom of the screen features a website banner for \"WWW.JAESPYSCASEBREAKS.COM\" and a logo for \"CASEBREAKS.COM\". As the recording progresses, a user interacts with the sheet, adding numbers to the \"Rookie Wonder\" and \"Case Wonder\" columns. By the final frame, the \"Count\" at the bottom right changes to \"Sum: 48,\" indicating entries have been totaled."
+}

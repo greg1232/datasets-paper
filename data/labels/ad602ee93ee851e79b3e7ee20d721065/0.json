@@ -1,0 +1,15 @@
+{
+  "video_id": "ad602ee93ee851e79b3e7ee20d721065",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-335.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.102,
+    0.306,
+    0.51,
+    0.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game takes place on a green turf field within a stadium, featuring players in white uniforms and opponents in dark uniforms. In the initial scene, the quarterback in white prepares to throw as teammates and opponents converge around the line of scrimmage. As the sequence progresses, the quarterback releases the ball, and the players move toward the right side of the field to contest the play. An on-screen interface displays game statistics, including the text \"1st & 10\", a clock showing \"0:43\", and a score of \"6\" versus \"7\". The words \"ULTIMATE TEAM\" and \"COMMANDERS\" are visible on the field and overlay. A small inset window in the corner shows a man with blonde hair wearing headphones and a dark shirt, watching the action. Finally, the text \"PERFECT ACCURACY\" and \"BULLET PASS\" appears on the screen as the play unfolds."
+}

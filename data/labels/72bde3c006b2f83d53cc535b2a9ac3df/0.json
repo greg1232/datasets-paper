@@ -1,0 +1,15 @@
+{
+  "video_id": "72bde3c006b2f83d53cc535b2a9ac3df",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-126.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.242,
+    0.726,
+    1.21,
+    1.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A simulation medical training session takes place in a room featuring hospital beds with white linens, bedside tables, and medical monitoring equipment. Five individuals are seated in a circle for a debriefing. One woman wears a dark blue scrub top and pants, holding a white piece of paper. Opposite her, a woman in pink scrubs sits with her hands clasped. Another woman wears a dark navy blue zip-up jacket over blue pants, and a fourth person is seen from behind wearing a blue scrub top. A fifth person in dark scrubs sits slightly behind the first woman. Throughout the sequence, the individuals remain seated, primarily listening or looking toward one another, with subtle shifts in posture. The bottom of the frames contains a purple graphic with a silhouette and the text \"Day 5\" inside a circle, and the text \"Sim Week\" accompanied by a small logo on the right."
+}

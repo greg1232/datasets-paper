@@ -1,0 +1,15 @@
+{
+  "video_id": "b4e01e217f6984804d2c1d8aeb33b0f5",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.234,
+    3.703,
+    6.172,
+    8.641
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and wearing black over-ear headphones is centered in the video, appearing as if in a video call. She is dressed in a striped button-down shirt and stands before a plain white wall and a light-colored curtain. To her right, a neutral-toned piece of furniture is partially visible. The text \"Nancy Ramya\" is displayed in the lower left corner of each frame. Across the sequence, she is speaking, with her facial expressions and mouth movements shifting as she talks. Her gaze remains generally fixed toward the camera, though her eyes move slightly. The background and her positioning remain consistent throughout the clip, with only the subtle movements of her face and mouth indicating the passage of time."
+}

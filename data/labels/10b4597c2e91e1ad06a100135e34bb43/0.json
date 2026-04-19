@@ -1,0 +1,15 @@
+{
+  "video_id": "10b4597c2e91e1ad06a100135e34bb43",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    38.685,
+    116.055,
+    193.425,
+    270.795
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This educational presentation on \"CRYOGENIC ENGINEERING\" by Prof. M D Atrey from the Department of Mechanical Engineering, IIT Bombay, explains the Linde-Hampson System using T-s diagrams. The slides feature a plot of temperature (T) versus entropy (s), depicting various thermodynamic processes with labeled points and paths. The first frame describes the isothermal compression from $1 \\rightarrow 2$ and isenthalpic expansion from $3 \\rightarrow 4$, noting that gas and liquid states are given by \"g\" and \"f\". The second frame addresses real-world imperfections where heat exchange is not perfect, changing processes to $2 \\rightarrow 3'$ and $g \\rightarrow 1'$. The third frame highlights that gas is compressed from state $1'$ to state $2$, with expansion occurring from $3' \\rightarrow 4'$. The final frame concludes that in an ideal system, enthalpy changes on isobaric lines are equal, providing the formula for effectiveness as $\\varepsilon = \\frac{h_1 - h_2}{h_1 - h_g}$. The \"NPTEL\" logo appears in the corner of each plot."
+}

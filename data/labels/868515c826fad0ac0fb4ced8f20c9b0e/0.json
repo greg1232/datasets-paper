@@ -1,0 +1,15 @@
+{
+  "video_id": "868515c826fad0ac0fb4ced8f20c9b0e",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.933
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with short blonde hair, wearing a dark blue top, appears in a small circular inset window in the bottom left of the scene. The main view shows a large metal bowl filled with popcorn, some of which is white and some of which is tinted green. In the top frames, the popcorn is being tossed or shifted within the bowl. As the sequence progresses into the bottom frames, a person's hand reaches into the bowl to mix the white and green popcorn together. Each frame features the logo and text \"UCAR CENTER FOR SCIENCE EDUCATION\" in the top left corner, set against a background of a blue sky with white clouds. The action focuses on the physical mixing of the colored popcorn within the metallic container while the person in the inset window observes."
+}

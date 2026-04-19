@@ -1,0 +1,15 @@
+{
+  "video_id": "24c93c603072b56cdb2da7053cd37d59",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.088,
+    0.263,
+    0.438,
+    0.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is shown holding a small, yellow electrical fuse with two silver metallic prongs. The scene takes place in a cluttered environment, with a brown fabric surface visible in the upper background and a white plastic bin containing small, translucent objects in the lower-left foreground. The hand, consisting of a thumb and fingers, holds the fuse between the tips of the thumb and index finger. Across the sequence of frames, the person slightly rotates and shifts the fuse to examine its details. The background remains relatively static, though the angle of the hand and the fuse changes slightly as the person manipulates the small object. No text, logos, or other people are visible in the frames."
+}

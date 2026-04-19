@@ -1,0 +1,15 @@
+{
+  "video_id": "ff4aa73c61bb75e0e9f8daee57bc0e61",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.334,
+    1.001,
+    1.668,
+    2.336
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A small spider with a dark body and reddish markings is positioned in the center of its web, set against a soft, out-of-focus background of green foliage. As the sequence progresses, yellow text appears and expands across the screen. Initially, the word \"RESPONSIBLE\" is displayed to the left of the spider. In the next stage, the phrase \"RESPONSIBLE FOR\" appears. By the final stages, the text completes to read \"RESPONSIBLE FOR EVERYTHING,\" spanning across the center of the frame. Throughout the clip, the spider remains relatively stationary in its web, while the text builds up around it. The lighting is bright and natural, suggesting an outdoor setting during the day."
+}

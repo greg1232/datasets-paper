@@ -1,0 +1,15 @@
+{
+  "video_id": "3f16fc6f4d691e370ad8f66861b0974e",
+  "url": "./data/segments/3Z229_lKLpk-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.415,
+    4.245,
+    7.075,
+    9.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a grey beard and glasses, wearing a light-colored long-sleeved shirt and a matching sleeveless Nehru jacket, stands behind a podium. The setting features a textured, green stone wall with a repeating geometric pattern and tall, slender glass vases containing red flowers on wooden stands. Two microphones are positioned on the podium in front of him. As the sequence progresses, the man speaks and uses hand gestures to emphasize his points. Initially, he raises his right index finger, then lowers his hands, and subsequently gestures with his right hand again. He maintains a focused expression, looking towards his audience while speaking. The background and equipment remain static throughout the clip, while only the man's facial expressions and hand movements change."
+}

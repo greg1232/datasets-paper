@@ -1,0 +1,15 @@
+{
+  "video_id": "f2d35d1258c4cc5fba7f54ed85a1cab1",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.08,
+    0.24,
+    0.4,
+    0.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a man in a white shirt and glasses, identified as \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\" by on-screen text, being interviewed by multiple people holding microphones. He is surrounded by other men, including one wearing a dark jacket and glasses. The scene takes place indoors with a neutral background. A red banner at the top of the screen displays the text \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\" and the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo. Smaller text identifies other individuals as \"\u092e\u0902\u0924\u094d\u0930\u0940 \u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930\" and \"\u0935\u093f\u091c\u092f \u091a\u094c\u0927\u0930\u0940.\" A timer at the bottom right indicates the time is \"10:04 PM.\" As the sequence progresses, the camera slightly shifts, and the man in the white shirt continues to speak into the microphones, gesturing slightly with his hand. A small red text box with the word \"\u0938\u093e\" appears in the bottom left corner during the final segment."
+}

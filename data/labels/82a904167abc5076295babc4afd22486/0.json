@@ -1,0 +1,15 @@
+{
+  "video_id": "82a904167abc5076295babc4afd22486",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-260.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.33,
+    0.55,
+    0.77
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video presentation is displayed on a computer screen, featuring a slide titled \"Introduction\" within a \"Rural Community Food System\" presentation. The slide explores the question, \"What constitutes a sustainable localized food system for a rural community source as local as possible from locally owned and operated to benefit the community.\" Below the text, a \"Session Videos\" section contains several links. A conceptual diagram on the right side of the slide shows arrows connecting \"Availability,\" \"Retailers willing to source local,\" \"Product Cost/Price,\" and \"Local Sustainable Consumption,\" with \"26R Enriched system\" positioned centrally. In the top right corner of the screen, a man with short brown hair and a beard, wearing a dark shirt, is visible in a small webcam window. The screen remains static throughout the frames, showing no changes in the slide's content or the man's appearance."
+}

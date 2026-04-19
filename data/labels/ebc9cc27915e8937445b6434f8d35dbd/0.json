@@ -1,0 +1,15 @@
+{
+  "video_id": "ebc9cc27915e8937445b6434f8d35dbd",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.967,
+    2.9,
+    4.833,
+    6.767
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen opening a box of trading cards on a table decorated with a palm tree design. In the first frame, the hands hold a white box with a yellow lid. The lid is lifted in the second frame, and by the third, the yellow lid is being moved aside to reveal the contents. In the final frame, the person holds up a single trading card. In the background, a man wearing a navy blue t-shirt sits behind a desk with computer equipment. A logo and website address appear repeatedly on the screen, reading \"JASPYS\" and \"CASEBREAKS.COM\". The man in the background remains seated throughout the sequence while the foreground focus shifts from the closed box to the individual card."
+}

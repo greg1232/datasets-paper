@@ -1,0 +1,15 @@
+{
+  "video_id": "0fbec5d99343257134815a80b5aeaafa",
+  "url": "./data/segments/3E6ctN22V7k-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.145,
+    0.435,
+    0.725,
+    1.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot captures a white cloth with colorful striped edges draped over a textured brown post. Behind the cloth, a person wearing a white shirt is partially visible, though their face remains out of frame. As the scene progresses, the person's arm and hand enter the frame, holding a blue folder or notebook. The background remains dark and out of focus. White subtitles appear at the bottom of the scene, stating, \"I like reading, I like writing, I am a slam artist, and I am also a journalist.\" The camera remains stationary throughout the sequence, with the only movement being the introduction of the blue object and the shifting of the person's position behind the draped fabric."
+}

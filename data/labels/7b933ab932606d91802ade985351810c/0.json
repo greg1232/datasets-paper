@@ -1,0 +1,15 @@
+{
+  "video_id": "7b933ab932606d91802ade985351810c",
+  "url": "./data/segments/3a0FD1177FA-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.506,
+    1.517,
+    2.529,
+    3.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with a white wristband on their left arm is crafting a greeting card on a white gridded cutting mat. The person uses both hands to position a decorative piece of patterned green and yellow paper onto a brown card base. A white circular label is attached to the card, featuring the text \"Wishing your BIRTHDAY is filled with all the best things\". Around the workspace are various crafting tools, including a clear tape dispenser, a red stamp, and a black ink pad. In the sequence, the person's hands adjust the placement of the patterned paper, moving it slightly to align it with the brown card base. The background remains a consistent white table surface with a white textured paper sheet nearby. A small logo reading \"The Stamping\" is visible in the bottom left corner of the scene."
+}

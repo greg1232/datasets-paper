@@ -1,0 +1,15 @@
+{
+  "video_id": "6a56dfabd2b7b1cb01374d0a7be67ec9",
+  "url": "./data/segments/3QD9oO6sRns-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.4,
+    10.2,
+    17.0,
+    23.8
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video presents a split-screen view showing a spreadsheet on the left and a recording of a man on the right. The man wears a black t-shirt, a black baseball cap, and glasses, standing in a room filled with sports memorabilia and card supplies. Above him, a banner reads \"JASPYS CASEBREAKS.com\" alongside a logo featuring a red and blue stylized \"J\". The spreadsheet contains a long list of names and baseball teams, such as \"David Cheng\" and \"LOS ANGELES DODGERS.\" A red subscription banner at the bottom of the video feed reads \"Hit the SUBSCRIBE button down below!\" and includes a red \"Subscribe\" button. Across the frames, the scene remains mostly static, with the man maintaining his position and the spreadsheet visible, while a white mouse cursor moves slightly across the screen, indicating navigation through the document."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2e800d7194a9adfc1b13997a9295c52b",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-250.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.444,
+    4.332,
+    7.221,
+    10.109
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black over-ear headphones, and a dark green t-shirt sits in a room filled with clothing and framed pictures. His t-shirt features white text that reads \"ION NEVER DO SHIT AT WORK\". He is positioned in front of a professional black microphone on a stand and is speaking, with his facial expressions and mouth movements shifting slightly across the sequence. Behind him, a white mannequin wears a white garment, and racks of clothing are visible alongside various framed photographs on the wall. Two logos appear on the screen: a circular black and white logo on the left and a red text logo on the right that reads \"BOOK IT REALLY TOT\". The scene remains static in terms of camera angle and location, capturing only the man's subtle movements as he speaks."
+}

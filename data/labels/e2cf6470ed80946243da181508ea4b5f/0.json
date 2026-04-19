@@ -1,0 +1,15 @@
+{
+  "video_id": "e2cf6470ed80946243da181508ea4b5f",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-714.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.203,
+    0.61,
+    1.017,
+    1.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a green t-shirt that reads \"ION NEVER DO SHIT AT WORK\" sits in a studio setting. He is positioned behind a professional black microphone. The background features a wall adorned with various framed photographs and a mannequin wearing a white t-shirt, alongside racks of clothing. Two logos are visible on the screen: a circular logo on the left and a red text logo on the right that reads \"BODY FLEX\". Throughout the sequence, the man is laughing and smiling, shifting his expression from a wide-mouthed laugh to a more closed-mouth smile with his eyes squinting. His head moves slightly as he reacts, though his seated position remains constant. The environment and objects in the background remain static while his facial expressions and posture change slightly across the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a668e453e8fd7b51b302a1e646b6deb3",
+  "url": "./data/segments/3E6ctN22V7k-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.255,
+    0.425,
+    0.595
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen interacting with a blue piece of furniture, likely a drawer or a cabinet. In the initial sequence, a hand is positioned on top of the blue surface, while another hand reaches for a small, dark handle or peg inserted into a circular hole on the front panel. As the action progresses, the hand firmly grips the handle to pull the drawer open. The background is a neutral, light-colored wall. Overlaying the center of the scene is the white text, \"carrying colorful suitcases, raising up tents.\" throughout the sequence. The focus remains tight on the hands and the furniture, capturing the physical motion of opening the drawer as the fingers wrap around the small handle."
+}

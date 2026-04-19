@@ -1,0 +1,15 @@
+{
+  "video_id": "5046faec2d332f841d2b21ee8fb3c594",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-409.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.102,
+    0.306,
+    0.51,
+    0.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is captured from an elevated perspective on a green field with white yard markers and a red end zone featuring the text \"COMMANDERS\" in yellow. Players in white uniforms and players in dark uniforms are positioned across the field. On-screen indicators identify specific players; one white-clad player is labeled \"Smith\" and another is labeled \"Polamalu,\" while other icons include \"RB,\" \"A,\" \"Y,\" and \"B.\" In the early frames, the player labeled \"Smith\" stands behind the line of scrimmage, while other offensive and defensive players clash near the center. As the sequence progresses, \"Smith\" moves forward, and the players' positions shift as the play unfolds. The defensive players in dark uniforms attempt to tackle the offensive players in white. The labels and indicators move along with the corresponding players across the turf."
+}

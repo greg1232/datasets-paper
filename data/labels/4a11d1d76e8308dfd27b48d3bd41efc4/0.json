@@ -1,0 +1,15 @@
+{
+  "video_id": "4a11d1d76e8308dfd27b48d3bd41efc4",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-102.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.115,
+    3.344,
+    5.573,
+    7.802
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a stack of items on a table covered with a colorful mat featuring palm tree designs. In the initial sequence, the person's hands move a yellow rectangular box resting atop a white stack. A small inset video window in the bottom right corner shows a man with a beard wearing a dark blue t-shirt sitting in a chair. The background features a white wall and a black piece of equipment. The text \"JASPYS LIVE\" and \"CASEBREAKS.COM\" appears as a watermark on the screen. As the sequence progresses, the person reveals a sports trading card featuring a baseball player. The card displays a photo of the player and a signature, with the name \"DEREK JETER\" printed clearly at the bottom. The hands hold the card up to the camera, showcasing it against the patterned surface of the table."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "eab80081826dce21484db79577909463",
+  "url": "./data/segments/3Xr-czqAfSc-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.75,
+    2.25,
+    3.75,
+    5.25
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static white screen featuring the logo for the \"MERCATUS CENTER\" at \"George Mason University.\" The logo consists of a stylized black geometric emblem on the left, followed by the center's name in bold uppercase letters and the university's name in a lighter font below it. A thin black horizontal line separates this main logo from the text \"ACADEMIC & STUDENT PROGRAMS,\" which is written in all uppercase letters across the bottom. The scene remains completely motionless throughout the clip, with no people, objects, or changes in the visual composition. The lighting is uniform and the background remains a solid, bright white across all frames, maintaining a consistent professional and academic appearance."
+}

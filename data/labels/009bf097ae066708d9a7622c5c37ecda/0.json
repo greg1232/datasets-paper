@@ -1,0 +1,15 @@
+{
+  "video_id": "009bf097ae066708d9a7622c5c37ecda",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-141.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.292,
+    0.875,
+    1.458,
+    2.042
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a clear plastic slab over a surface decorated with teal palm trees. In the background, a man wearing a navy blue shirt sits in a gaming chair before a computer monitor and microphone. The screen displays a promotional overlay featuring the text \"JASPYS\" in orange and white, alongside the website \"CASEBREAKS.COM\" and \"Sports Cards & More.\" As the sequence progresses, the hand tilts and moves the plastic slab, bringing it closer to the camera to reveal a signed card inside. The man in the background remains seated, watching the process. The slab's movement creates shifts in light and reflection across its surface, eventually providing a clearer view of a signature on the card within the protective casing."
+}

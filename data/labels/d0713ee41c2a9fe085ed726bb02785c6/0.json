@@ -1,0 +1,15 @@
+{
+  "video_id": "d0713ee41c2a9fe085ed726bb02785c6",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-223.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.209,
+    0.626,
+    1.043,
+    1.46
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black hoodie with \"BOSS TALK\" in gold lettering and a white baseball cap is seated in a studio setting. Behind him is a white backdrop featuring stars and the words \"ORIGINAL HUSTLE,\" along with a blue sign that reads \"Where BOSSES Talk!\". He is positioned in front of a professional microphone on a black boom arm, and a blue mug with \"BOSS TALK\" text sits on the table to his right. Across the sequence, the man adjusts his white cap with both hands, pulling it down slightly over his head. He then lowers his hands, gesturing with his palms open while looking forward toward an off-screen presence. A small logo featuring a microphone and the text \"BOSS TALK\" is visible in the bottom left corner of each scene."
+}

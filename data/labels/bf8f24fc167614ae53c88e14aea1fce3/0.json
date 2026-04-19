@@ -1,0 +1,15 @@
+{
+  "video_id": "bf8f24fc167614ae53c88e14aea1fce3",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-154.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital representation of Earth, composed of glowing blue dots and lines forming a network over dark continents, appears against varying backgrounds. Initially, the globe is overlaid on a landscape of dark, rugged mountains under a cloudy, golden-lit sky. The text \"TECHNOLOGY\" appears centered over the globe. As the scene progresses, the mountain background disappears, replaced by a deep black void filled with small, distant specks of light. The on-screen text evolves sequentially, first changing to \"TECHNOLOGY AROUND\", then to \"TECHNOLOGY AROUND US\", and finally adding a second line beneath to read \"TECHNOLOGY AROUND US IS\". Throughout the sequence, the glowing globe remains the central focus, subtly shifting and rotating as the phrases build upon one another. No people or physical equipment are visible in the scenes."
+}

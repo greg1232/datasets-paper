@@ -1,0 +1,15 @@
+{
+  "video_id": "642c09351bb8a2d3a5cbd26e4ebe2c35",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-090.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.759
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A tall, white cylindrical bottle and a smaller, white tapered cup are positioned side-by-side against a solid teal background. Both items are made of a matte white material and feature the logo \"MiiR\" printed in grey, sans-serif capital letters. The bottle stands vertically on the left, with the logo oriented horizontally. To its right, the shorter cup sits with its open, metallic rim facing upward and its logo printed vertically along its side. The scene remains completely static across the frames; there are no people present, and neither the bottle nor the cup moves. The lighting is consistent and soft, casting subtle shadows on the teal surface beneath the objects. The composition remains identical from the beginning to the end of the sequence."
+}

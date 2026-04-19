@@ -1,0 +1,15 @@
+{
+  "video_id": "5d4ecf0237835195bf396d093df4aa88",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-136.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.173,
+    0.519,
+    0.865,
+    1.21
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A gameplay screen from a sports video game is shown, specifically a \"SUBSTITUTION\" menu for the \"Current Position\" of \"ROLB1,\" which notes \"No other positions.\" The interface displays \"AVAILABLE PLAYERS\" and lists various athlete cards with associated ratings. The screen tracks currency and resources, including numbers such as \"170,397,\" \"14,660,\" and \"2,343,543.\" Key attributes for the selected players, including \"HEIGHT,\" \"SPEED,\" \"ACCELERATION,\" \"STRENGTH,\" \"TACKLE,\" \"PLAY RECOGNITION,\" \"BLOCK SHEDDING,\" and \"HIT POWER,\" are visible on the right side. Between the top and bottom frames, the selected player changes from \"MICAH PARSONS\" to \"JASON PIERRE-PAUL.\" Additionally, a small video overlay in the bottom left corner shows a man with short brown hair wearing a dark shirt, who remains present and relatively still throughout the sequence."
+}

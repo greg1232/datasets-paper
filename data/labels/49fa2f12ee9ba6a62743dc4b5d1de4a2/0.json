@@ -1,0 +1,15 @@
+{
+  "video_id": "49fa2f12ee9ba6a62743dc4b5d1de4a2",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-082.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.256,
+    0.427,
+    0.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A hand is shown in a close-up view, positioned over a colorful play mat with palm tree motifs. The hand is partially curled, with the thumb extended and fingers slightly bent, moving slightly across the frames. In the background, a small inset video displays a man with a beard wearing a dark blue shirt, sitting in front of a computer setup. On-screen text in red and white reads \"JASPYS\" above \"CASEBREAKS.COM\" in the upper portion of the scene. The same logos and text are repeated in the inset video. Various objects are visible on the table, including a yellow rectangular block and a dark electronic device. As the sequence progresses, the hand shifts its position slightly to the right, while the man in the inset video remains in a similar seated posture, looking toward the camera."
+}

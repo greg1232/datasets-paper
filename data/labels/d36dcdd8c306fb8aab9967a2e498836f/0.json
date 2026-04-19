@@ -1,0 +1,15 @@
+{
+  "video_id": "d36dcdd8c306fb8aab9967a2e498836f",
+  "url": "./data/segments/3phuyH7Y05U-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.875,
+    2.625,
+    4.375,
+    6.125
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static screen capture of a website. At the top of the page, a blue header contains the IRS logo and the capitalized navigation links \"SEARCH\", \"HELP\", and \"MENU\". Below the header, a white background features the bold, black text \"News Releases for Current Month\". The screen is framed by a browser interface, including a series of open tabs at the very top and a taskbar at the bottom with various application icons. Throughout the sequence, the scene remains entirely stationary; there are no people present, no movement, and no changes to the on-screen text or layout. Each frame shows the exact same view of the webpage, maintaining a consistent composition and visual state."
+}

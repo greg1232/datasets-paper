@@ -1,0 +1,15 @@
+{
+  "video_id": "d9acd9756a01a271957e3571780709e6",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-203.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.256,
+    0.427,
+    0.598
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a clear plastic protective case in front of a camera, partially obscuring the view. In the background, a man wearing a dark blue shirt and a headset is seated at a desk, facing forward. The setting includes a desk area with a colorful blue and green patterned surface and a piece of equipment that appears to be a card-breaking station. On-screen graphics feature the text \"JASPYS\" in bold red and white letters, accompanied by the website \"CASEBREAKS.COM\". Smaller inset windows show different angles of the man and the workspace. As the sequence progresses, the person holding the clear case shifts their hand and the case slightly, changing the reflections and the amount of the background visible through the plastic. The man in the background remains seated, looking toward the camera or his equipment."
+}

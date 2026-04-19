@@ -1,0 +1,15 @@
+{
+  "video_id": "4838750acf3eacee7ad1d7096f2a305f",
+  "url": "./data/segments/3Sq594WkayE-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.339,
+    1.016,
+    1.693,
+    2.37
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A coastal scene unfolds under a cloudy, yellowish sky during sunset or sunrise. The landscape features a dark, grassy shoreline in the foreground and a wide expanse of the ocean with white-capped waves breaking near the coast. A single vertical wooden post stands on the grassy embankment. Several birds are visible in flight against the sky and over the water, shifting their positions across the sequence. In the first frame, one bird is seen to the left and another to the right. As the sequence progresses, the birds move across the frame; one bird flies further left and eventually disappears from view, while others glide over the ocean toward the right. The lighting remains consistent throughout, casting a muted, golden glow across the clouds and the horizon. No people, text, or logos are present in the scene."
+}

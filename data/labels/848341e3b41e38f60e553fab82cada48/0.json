@@ -1,0 +1,15 @@
+{
+  "video_id": "848341e3b41e38f60e553fab82cada48",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The provided image consists of a black background featuring several white, rounded rectangular speech bubbles. In the upper right, a small, dark grey rectangle appears against the black void. Below this, two larger, bright white speech bubbles are positioned side-by-side. Each bubble has a slight gradient, giving it a three-dimensional appearance, and features a small triangular tail pointing downwards and to the right. There are no people, clothing, equipment, or legible text present in the image. The scene remains static across the frames, with the arrangement of the speech bubbles and the single dark rectangle remaining constant throughout the sequence."
+}

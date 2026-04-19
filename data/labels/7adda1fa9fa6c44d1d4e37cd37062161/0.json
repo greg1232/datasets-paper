@@ -1,0 +1,15 @@
+{
+  "video_id": "7adda1fa9fa6c44d1d4e37cd37062161",
+  "url": "./data/segments/3INb3jiuu6g-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.22,
+    0.66,
+    1.1,
+    1.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a clean, white background with purple text that appears in a sequence. Initially, only the top line \"HOPE YOU\" is visible on the left side of the screen. As the sequence progresses, the text expands to include \"ENJOY\" and \"THE NEWS\" below it, completing the phrase \"HOPE YOU ENJOY THE NEWS.\" This full block of text then shifts position, appearing first in the upper right and later moving to the lower left and lower right of the screen. In the final stages, a light gray diagonal shape slides across the lower right portion of the frame, partially overlapping the text. Faint, oversized, semi-transparent white letters that spell \"ENJOY\" are also visible in the background, creating a layered typographic effect. No people, clothing, or physical objects are present in the scene."
+}

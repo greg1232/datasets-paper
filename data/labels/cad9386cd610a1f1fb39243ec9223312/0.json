@@ -1,0 +1,15 @@
+{
+  "video_id": "cad9386cd610a1f1fb39243ec9223312",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-105.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.526,
+    0.876,
+    1.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A speaker stands at a podium in a room with brown wooden paneled walls, addressing an audience. He is a man wearing glasses, a white shirt, and a black vest with traditional embroidered detailing. To his left, another person is partially visible behind a second podium. In the foreground, the backs of several audience members are visible, including individuals wearing a red top, a blue and red patterned shirt, and a yellow shirt. A person on the right is seen raising their hand. The on-screen text \"ORCA\" appears in white capital letters on the right side of the scene. Across the sequence, the speaker continues to talk and gesture with his hand, while the audience remains seated and attentive. The camera angle and composition remain consistent throughout the frames, capturing the interaction between the speaker and the listeners in the room."
+}

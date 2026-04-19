@@ -1,0 +1,15 @@
+{
+  "video_id": "f72b21fab52c7c03e25f5c55086a9740",
+  "url": "./data/segments/3iUTkJy84EY-Scene-302.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.35,
+    1.05,
+    1.75,
+    2.45
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is speaking against a solid dark background. She is wearing a light green tunic with an embroidered floral pattern around the neckline and a dark beaded necklace. She is positioned in the center of the frame, facing forward, and speaks with animated facial expressions, her mouth opening and closing as she talks. In the lower-left corners of the frames, a small circular logo is visible next to the text \"NPTEL\". Across the sequence, the woman's head tilts slightly and her expression shifts, moving from a focused look with her eyes nearly closed to a more open-eyed, engaging expression. The lighting remains consistent, and the setting is minimalist, with no other objects or people present."
+}

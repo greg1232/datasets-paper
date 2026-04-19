@@ -1,0 +1,15 @@
+{
+  "video_id": "4e363a03a69eca597f10de1eb49f1af2",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.655,
+    19.965,
+    33.275,
+    46.585
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"CRYOGENIC ENGINEERING\" and \"Tutorial \u2013 1\" is shown, featuring a graph with axes labeled \"$\\epsilon$\" and \"$\\eta$\". The slide specifies the \"Working Fluid : Air\", \"Pressure : 1 bar $\\rightarrow$ 200 bar\", \"Temperature : 300 K\", and the \"Linde \u2013 Hampson System\". In the first frame, the graph is empty. In the second frame, a table appears on the right with four rows of data for $\\epsilon$ and $\\eta$ values. In the third frame, the first two rows of the table are highlighted with red boxes, and two corresponding data points are plotted on the graph. In the final frame, the fourth row is also highlighted in red, and two more points are plotted, completing a trend of four data points. On-screen text at the bottom reads \"Plotting the values for the above conditions, we have the trend as shown.\" The slide footer includes \"NPTEL\" and \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\"."
+}

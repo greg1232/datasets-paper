@@ -1,0 +1,15 @@
+{
+  "video_id": "d8218d7fd8ceb96cf37353efcb81e264",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.27,
+    0.45,
+    0.63
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of men, several wearing face masks, are gathered under a concrete overhang next to a white bus branded with the \"Real Madrid\" logo. On the left, a man in a yellow high-visibility vest and dark trousers stands near a metal stanchion. Next to him, a man in a grey t-shirt and dark pants walks toward the right. Several other men in dark suits and dress shoes are scattered throughout the scene, some walking toward the bus and others standing still. In the background, the white bus features a large logo and the text \"Real Madrid\" across its front. As the sequence progresses, the men shift positions slightly; the man in the grey shirt continues his stride, and the men in suits move further toward the bus entrance. The architectural setting consists of white walls, a red structural pillar, and a grey concrete ceiling."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "fa20438e7c94ac8ef840531a5bf1ca69",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-242.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.976,
+    1.627,
+    2.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a white button-down shirt and a dark blue embroidered vest with a red and white decorative element on the chest, is singing into a microphone. He stands before a background of horizontal wooden slats. In the foreground, the backs of several people's heads are visible, suggesting an audience. To the right of the performer, the word \"ORCA\" appears in white capital letters on a dark background. As the sequence progresses, the man's facial expression shifts slightly, and his mouth moves in synchronization with his singing. He holds a guitar, though only a portion of the instrument is visible. The camera remains stationary, capturing the performer from the chest up as he delivers his performance."
+}

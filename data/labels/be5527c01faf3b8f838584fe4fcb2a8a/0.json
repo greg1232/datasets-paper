@@ -1,0 +1,15 @@
+{
+  "video_id": "be5527c01faf3b8f838584fe4fcb2a8a",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-297.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair and round-rimmed glasses wearing large over-ear headphones appears in a grayscale video. He is positioned in a close-up shot, facing slightly to the right with a focused expression. Overlaid across the image is a semi-transparent graphic consisting of a horizontal bar and a green-tinted section that shows a blurred scene of people in an indoor environment. The text \"Polamalulu\" is visible next to a small circular icon on the right side of the screen. As the sequence progresses, the man's facial expression remains relatively steady, though his mouth shifts slightly as he speaks. The background remains a dark, blurred interior, and the graphical overlays stay consistent across the scene, maintaining the same placement and transparency throughout the clip."
+}

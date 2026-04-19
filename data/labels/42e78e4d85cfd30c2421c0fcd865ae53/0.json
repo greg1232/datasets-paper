@@ -1,0 +1,15 @@
+{
+  "video_id": "42e78e4d85cfd30c2421c0fcd865ae53",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-162.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.155,
+    0.465,
+    0.775,
+    1.085
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser open to a digital mapping tool, with multiple tabs visible at the top, including \"Trust & Learning by SystemDynamics\" and \"Future of Society by SystemDynamics.\" The main window displays a dark background with a network of interconnected circular icons and labels such as \"Human-Centric,\" \"Regenerative,\" and \"Holistic.\" Each icon is linked by curved blue lines, creating a complex web of relationships. In the upper right corner of the browser, a small video inset shows a man wearing a dark baseball cap and a dark shirt, appearing to speak. Across the sequence, a white mouse cursor moves across the screen, navigating through the nodes of the diagram. The layout of the map remains static while the cursor shifts position, indicating an interactive presentation or walkthrough of the visualized system."
+}

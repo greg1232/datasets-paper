@@ -1,0 +1,15 @@
+{
+  "video_id": "2c48c4c90ef270a307ccd4cd45e1ffe9",
+  "url": "./data/segments/3QD9oO6sRns-Scene-089.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.579,
+    1.737,
+    2.896,
+    4.054
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen opening a box of trading cards on a surface featuring a red and black banner that reads \"JASPYS CASEBREAKS\". In the background, multiple stacks of product boxes are visible, some labeled \"CLEARLY AUTHENTIC\". A small inset video window in the bottom right shows a man wearing a black t-shirt and a baseball cap, who appears to be the host. The person's hands first grip the white top of a box and then peel back the adhesive seal to open it. Once open, the person reaches inside to retrieve a pack of cards wrapped in clear plastic. As the pack is lifted from the box, the \"JASPYS CASEBREAKS\" logo remains prominent in the foreground. The sequence captures the process of unboxing the product, moving from the sealed exterior to the retrieval of the card packs."
+}

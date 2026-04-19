@@ -1,0 +1,15 @@
+{
+  "video_id": "215d2ff53b8a5c3d7961ea8f9403a85d",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-125.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.459,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a white long-sleeved shirt, a dark vest with white embroidery, and a red and white patterned tie, stands and sings into a microphone while playing an acoustic guitar. He is positioned in front of a wall with horizontal wooden slats. In the foreground, the backs of several people's heads are visible, including two women with long brown hair and one person with short white hair. The white-haired person is wearing a purple garment. The text \"ORCA\" appears in white capital letters on the right side of the scene. Across the sequence of frames, the man remains in a consistent position, continuing to sing and play his instrument, while the people in the foreground stay relatively still. The lighting and composition remain constant throughout the short duration of the clip."
+}

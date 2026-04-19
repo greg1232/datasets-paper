@@ -1,0 +1,15 @@
+{
+  "video_id": "e4137f744bb2d7cb9f28e9eb4f0cb3af",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-399.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.081,
+    0.244,
+    0.406,
+    0.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football video game interface is displayed over a field of green grass where a player in a black uniform stands. The screen features a complex playbook menu titled \"SELECT A PLAY,\" featuring categories like \"COACH SUGGESTIONS,\" \"PLAYER,\" \"FORMATION,\" and \"CONCEPT.\" The top banner shows a game clock at \"1:04\" and a play clock at \":30\" during the \"3rd\" down of an \"EXO\" game. A small inset video shows a blonde man in a black shirt. As the sequence progresses, the user navigates through different play options. Initially, \"VERTICALS\" and \"TE ATTACK\" are highlighted with corresponding route diagrams. In the later frames, the selection shifts to \"POWER\" and \"PA DEEP CROSS.\" Other visible text includes \"HOLD THE LINE\" and \"SAVE HANDS.\" Logos for Nike and the NFL are visible in the top interface bar."
+}

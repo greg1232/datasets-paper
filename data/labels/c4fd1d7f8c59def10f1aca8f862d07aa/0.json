@@ -1,0 +1,15 @@
+{
+  "video_id": "c4fd1d7f8c59def10f1aca8f862d07aa",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-196.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.954,
+    2.862,
+    4.771,
+    6.679
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with blonde hair and glasses, wearing a dark blue t-shirt and white over-ear headphones, sits in front of a computer monitor in an indoor setting. A professional microphone is positioned in front of him. To the left of the man, a graphic overlay features a circular \"Height Wheel!\" with various height measurements. In the first frame, the wheel displays \"6\\\"4\". As the sequence progresses, the wheel spins and the text updates to \"6\\\"7\", then \"6\\\"3\", and finally \"6\\\"2\". The man reacts to the changing numbers with various facial expressions, shifting from a wide-mouthed smile to a more neutral, observant look. Behind him, a computer monitor is visible, displaying a blue screen with the number \"20\" and other indiscernible graphics. The background is a simple, neutral-colored wall."
+}

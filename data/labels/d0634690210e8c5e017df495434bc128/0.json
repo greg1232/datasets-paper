@@ -1,0 +1,15 @@
+{
+  "video_id": "d0634690210e8c5e017df495434bc128",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.181,
+    0.544,
+    0.907,
+    1.27
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A small, dark brown rectangular electronic component, resembling an integrated circuit or sensor, moves across a plain, light gray surface. The object is square-shaped with several gold-colored metallic contact points lining its bottom edge and a grid of small holes on its top surface. As the sequence progresses, the component glides smoothly from the upper left portion of the frame toward the center and then moves down toward the bottom right. The lighting is soft and diffuse, casting a faint shadow beneath the object. There are no people, text, or other objects visible in the scene, focusing entirely on the steady, linear motion of the small electronic part across the neutral background."
+}

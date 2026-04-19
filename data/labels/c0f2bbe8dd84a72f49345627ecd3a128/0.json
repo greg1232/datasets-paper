@@ -1,0 +1,15 @@
+{
+  "video_id": "c0f2bbe8dd84a72f49345627ecd3a128",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.425,
+    4.275,
+    7.125,
+    9.975
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is preparing snacks in a kitchen setting, with a wooden butcher block countertop serving as the workspace. In the top-left frame, a person's hand is seen reaching into a red bowl, while a circular inset shows a woman with blonde hair wearing a dark shirt. On the counter, there is a metal baking tray filled with cereal treats, a small white plate with several treats, and a silver scoop. The text \"UCAR CENTER FOR SCIENCE EDUCATION\" is visible in the top-left corner. As the scene progresses, the hand leaves the frame, and the red bowl, now filled with popcorn, becomes more prominent. The woman in the inset remains visible but her position shifts slightly. By the final frames, the hand is gone, and the focus remains on the array of snacks\u2014the treats on the tray and plate and the popcorn in the red bowl\u2014with the \"UCAR CENTER FOR SCIENCE EDUCATION\" logo consistently appearing in the top-left of each segment."
+}

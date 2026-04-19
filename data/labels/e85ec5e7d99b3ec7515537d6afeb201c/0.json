@@ -1,0 +1,15 @@
+{
+  "video_id": "e85ec5e7d99b3ec7515537d6afeb201c",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video presentation is shown through a screen recording of a web browser. The central focus of the screen is a black background with green text that reads \"Trial & Learning\" followed by a smaller line below it stating \"An Insightful Journey\". A man wearing a blue shirt and a headset is visible in a small video call window in the upper right corner of the browser view. Across the frames, the presentation slide remains static. The man in the video call window is present in some frames and absent in others, appearing to toggle his camera on and off. At the top of the browser, several open tabs are visible, including one titled \"Trial & Learning by Synergetic\". The overall scene depicts a remote presentation or online meeting taking place within a browser interface."
+}

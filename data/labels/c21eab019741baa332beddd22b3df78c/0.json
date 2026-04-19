@@ -1,0 +1,15 @@
+{
+  "video_id": "c21eab019741baa332beddd22b3df78c",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.33,
+    0.55,
+    0.77
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A black and white animated sequence depicts two people against a gridded background. On the left, a person wearing a simple shirt raises their right arm with a clenched fist. To their right, another person in a light-colored garment raises both arms high in the air, their mouth open as if singing or shouting. Both figures appear joyful and triumphant. A black banner runs across the bottom of the screen containing white text that reads, \"Arise sing. We are going to win. Flags of unity are now advancing .\" Just above this banner on the right side, smaller text reads, \"Music: \u0160vic mikrofona 036\". Throughout the sequence, the figures and text remain static, while the image gradually fades toward a lighter, washed-out grey tone, reducing the contrast of the drawings and text over time."
+}

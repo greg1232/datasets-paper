@@ -1,0 +1,15 @@
+{
+  "video_id": "50a6d444d312112621c2d41100a04b93",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-288.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.6,
+    1.0,
+    1.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An American football game takes place on a green turf field with white yard markers, where the word \"COMMANDERS\" is visible in the distance on a red boundary. Players in white and dark uniforms are positioned for a play. A player in a dark jersey, labeled with the name \"Bledsoe\" and a circular icon, stands behind the line of scrimmage. Nearby, another player is identified by the text \"Smith\" near a red and yellow end zone marker. As the play progresses, the offensive and defensive lines clash in the center of the field. A player in a white uniform catches a pass and runs toward the left side of the frame, while opposing players in dark uniforms pursue him. The camera maintains a wide, high-angle perspective, capturing the movement of the players across the field against the backdrop of a crowded stadium."
+}

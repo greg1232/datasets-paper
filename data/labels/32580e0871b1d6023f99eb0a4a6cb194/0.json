@@ -1,0 +1,15 @@
+{
+  "video_id": "32580e0871b1d6023f99eb0a4a6cb194",
+  "url": "./data/segments/3i5-ZukC--g-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A promotional screen for VirtualShield is displayed, featuring a woman with curly red hair and glasses looking at a laptop. The layout remains static across the sequence, presenting a dark-themed advertisement. The top left corner displays the VirtualShield logo. Prominent white text reads \"Stay Home, Stay Protected.\" followed by \"Extra 50% OFF\" in a larger font. To the right, a large price tag shows \"$2.50/month\". Below the main headings is a block of smaller text discussing COVID-19 and the need for online security. A red button contains the text \"Start Now for FREE\", and a final line of text at the bottom instructs users to \"Click the button above to claim your 50% discount!\". The image is a composite of four identical frames, showing no movement or changes in the visuals, text, or the subject's expression throughout the clip."
+}

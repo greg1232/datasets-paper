@@ -1,0 +1,15 @@
+{
+  "video_id": "67a9e4f8f4267d88d8e2ff725fbec2a1",
+  "url": "./data/segments/3hLeTO8SC3U-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.475,
+    1.426,
+    2.377,
+    3.328
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a bald head, wearing a white collared shirt and a black blazer, speaks while gesturing with his right hand. He is positioned in front of a blurred background showing other people in a professional setting. An on-screen graphic overlay spans the bottom of the frame, featuring a blue diamond logo and the text \"MONGODB WORLD 2022\", \"#MDW22 | #theCUBE\", and \"theCUBE From the Javits Center, New York, NY\". On the right side of the overlay, it says \"Sponsored By\" above a \"MongoDB\" logo. Across the sequence, the man's facial expression shifts slightly and his right hand moves from a cupped gesture with fingers slightly bent to pointing his index finger upward, and eventually settling into a neutral position. The background figures remain out of focus and relatively stationary, while the text and logos on the overlay remain constant."
+}

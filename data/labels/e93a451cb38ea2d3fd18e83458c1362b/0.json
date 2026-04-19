@@ -1,0 +1,15 @@
+{
+  "video_id": "e93a451cb38ea2d3fd18e83458c1362b",
+  "url": "./data/segments/3phuyH7Y05U-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.608,
+    1.825,
+    3.042,
+    4.258
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a dark business suit, a light blue shirt, and a light blue tie stands before a blurred city backdrop featuring tall buildings. He holds a dark folder or tablet under his left arm. Throughout the sequence, he is speaking and gesturing with his right hand to emphasize his points. In the beginning, his hand is slightly raised and blurred from movement. As time progresses, he raises his hand further, eventually extending his index finger in a pointing gesture. His facial expressions shift from a neutral, focused look to a slight smile while speaking, then back to a more serious expression. The background remains static and out of focus, keeping the visual emphasis entirely on the man's delivery and gestures. No text or logos are visible on the screen."
+}

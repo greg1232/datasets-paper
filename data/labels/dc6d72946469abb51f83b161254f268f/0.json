@@ -1,0 +1,15 @@
+{
+  "video_id": "dc6d72946469abb51f83b161254f268f",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.254,
+    0.763,
+    1.272,
+    1.781
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A handheld light illuminates a dark, earthy surface scattered with small green plants and organic debris. The beam of light creates a bright, circular focal point in the center of the frame, casting the surrounding edges into deep shadow. As the sequence progresses, the light source shifts slightly, altering the highlights on the dirt and the shadows cast by the sparse vegetation. The camera remains pointed downward, capturing a close-up view of the ground, which consists of brown soil mixed with small pebbles and scattered green leaves. There are no people, text, or logos visible in the scene. The movement of the light suggests someone is scanning the ground in a dark environment, with the subtle shifts in perspective revealing different textures of the terrain across the duration of the clip."
+}

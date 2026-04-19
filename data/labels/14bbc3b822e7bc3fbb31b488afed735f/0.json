@@ -1,0 +1,15 @@
+{
+  "video_id": "14bbc3b822e7bc3fbb31b488afed735f",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.48,
+    1.439,
+    2.398,
+    3.358
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing dark clothing rides an all-terrain vehicle (ATV) across a desolate, brown field during a cold season. The setting consists of a flat landscape covered in dry, yellowish grass and patches of white snow, with a dense line of leafless trees bordering the background under a pale, overcast sky. As the rider moves from left to right, the ATV kicks up a large cloud of dust and dirt behind it, creating a hazy trail that obscures the vehicle's rear. Between the frames, the ATV progresses further across the field, with the dust cloud expanding and shifting as the vehicle continues its forward motion. No on-screen text, logos, or other people are visible in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d403855a5125bab24147a9eea8d126d0",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.177,
+    0.531,
+    0.885,
+    1.24
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair, wearing a purple and white striped button-down shirt and a black over-ear headset with a microphone, is speaking while facing the camera. She is positioned indoors in front of a plain wall and light-colored curtains. A white surface, possibly a table or desk, is visible to her right. The woman is the only person present and remains in the same position throughout the sequence, with her mouth moving as she speaks. The text \"Nancy Ramya\" appears in the lower-left corner of each scene. Across the frames, the only significant changes are the subtle shifts in her facial expression and the movement of her lips as she continues talking."
+}

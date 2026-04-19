@@ -1,0 +1,15 @@
+{
+  "video_id": "8a0ac194c93c7e638e17cd958a15926e",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-151.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.26,
+    0.781,
+    1.302,
+    1.823
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card featuring a player in a baseball uniform, showing the card to the camera. The card is autographed and identifies the player as \"PHIL MOLITOR.\" In the background, a man wearing a black t-shirt and a headset sits at a desk with various items, including what appears to be a small electronic device. The setting is a room with a decorative surface featuring palm tree illustrations and a logo that reads \"JASPYS\" with the website \"CASEBREAKS.com\" displayed as an overlay in the upper right. As the sequence progresses, the hand tilts the card, causing light to reflect off its gold-bordered surface. The person eventually shifts the card to the side, revealing more of the background. Stacks of other cards are visible on the left and right edges of the scene."
+}

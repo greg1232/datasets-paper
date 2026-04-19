@@ -1,0 +1,15 @@
+{
+  "video_id": "2be781393a78530b8836253443d1196c",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.267,
+    0.801,
+    1.335,
+    1.869
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and headphones is sitting in a recording studio against a dark, ribbed acoustic foam wall. He wears a white t-shirt with a black circular logo that contains the text \"Stan Pettelette\". A professional microphone on a silver boom arm is positioned directly in front of his face. As the sequence progresses, the man maintains a joyful expression, smiling and laughing while looking slightly to his right. His head shifts subtly, tilting further back and to the side as his smile widens, showing his teeth. He remains in the same position throughout the clip, with his right arm visible and showing tattoos on the forearm. The lighting is consistent, and the background and equipment remain stationary as he reacts with amusement."
+}

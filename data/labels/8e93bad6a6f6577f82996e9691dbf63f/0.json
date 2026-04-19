@@ -1,0 +1,15 @@
+{
+  "video_id": "8e93bad6a6f6577f82996e9691dbf63f",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-206.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.288,
+    0.863,
+    1.439,
+    2.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of shimmering, multifaceted crystal ornaments hang from the ceiling, reflecting light and blurring in the background. As the scene progresses, the camera focuses on these ornaments while white, capitalized text overlays the center of the screen, incrementally building a sentence. It begins with \"YOU,\" then expands to \"YOU NEED,\" and finally completes the phrase \"YOU NEED A CRYSTAL BALL.\" A consistent blue graphic banner runs along the bottom of the screen, featuring the name \"Basil Chapman\" in white text above a smaller line that reads \"The Tiger Technicians Hour | June 8th, 2022.\" The background remains a soft-focus environment with hanging crystals, while the text animations provide the primary movement across the sequence."
+}

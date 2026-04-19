@@ -1,0 +1,15 @@
+{
+  "video_id": "c673f10a8542f7b7ff2287e491a31646",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.463,
+    0.772,
+    1.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dark grey background features the Cointelegraph logo, consisting of stylized yellow concentric curves and a lightning bolt. In the initial frames, a vertical yellow and white bar transitions across the screen, momentarily obscuring the logo. As the bars move, the text \"COINTELEGRAPH\" and the tagline \"The Future of Money\" appear in yellow and white font to the right of the graphic icon. Beams of light emanate from behind the logo, creating a glowing effect against the dark backdrop. In the final segment, the vertical bars shift again, revealing a glimpse of a cartoon illustration of a person wearing a black headpiece and glasses, with a Bitcoin symbol visible on their clothing. The sequence focuses on the presentation of the company's branding through a sliding motion of colored panels."
+}

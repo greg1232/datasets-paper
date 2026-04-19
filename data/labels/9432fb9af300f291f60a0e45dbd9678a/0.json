@@ -1,0 +1,15 @@
+{
+  "video_id": "9432fb9af300f291f60a0e45dbd9678a",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.371,
+    1.113,
+    1.854,
+    2.596
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large white aircraft with a red stripe along its fuselage and the word \"\u0420\u041e\u0421\u0421\u0418\u042f\" written in Cyrillic on its side is parked on a concrete airport tarmac. In the background, airport terminal buildings with large glass windows and a sign that partially reads \"GENEVE\" are visible. Other aircraft are parked nearby, including a smaller white plane situated behind the main aircraft. A dark vehicle, possibly a bus, is partially visible in the foreground, with the word \"PASSAGERS\" written on its side. A red and white circular logo containing the number \"13\" appears in the upper corners of the scene. Throughout the sequence, the camera pans slightly to the right, causing the aircraft and the surrounding airport infrastructure to shift position across the field of view. No people are visible in the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "67f12369c2edd0151ab301e1dca32ebc",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-225.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.359,
+    1.076,
+    1.793,
+    2.511
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static graphic against a vibrant green and yellow abstract swirling background. A centered image depicts a book cover featuring a grey background with a geometric line drawing and the text \"Fibonacci 24/7\" and \"Larry Pesavento\". Below this image, the text \"FIBONACCI 24/7\" is written in a bold white font. A dark blue horizontal banner stretches across the lower third of the screen, containing the name \"Basil Chapman\" in a large white font. Underneath the name, smaller white text reads \"The Tiger Technicians Hour | June 8th, 2022\". There are no people or physical movements present in the scene; the visual composition remains identical across all frames, indicating a still title card or a stationary informational slide."
+}

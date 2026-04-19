@@ -1,0 +1,15 @@
+{
+  "video_id": "b286c164c3bd99da0141ab501ca23eee",
+  "url": "./data/segments/3P1vSUbet40-Scene-0624.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a silver-grey, spiked wig, glasses, and a white button-down shirt with a bow tie and suspenders sits in a studio setting. He wears headphones and speaks into a microphone. The background consists of a wall covered in framed photographs and shelves holding various items, including a garment with the word \"LEE\" visible. The logo \"TALK PODCAST\" appears repeatedly on the left side of the scene, while the red text \"SS TALK 101\" is visible on the right. Across the sequence, the man is captured mid-conversation; he begins by speaking with a neutral expression, then transitions into a smile, and finally opens his mouth wider while gesturing with his right hand, which rises into the frame. The camera remains static, focusing on the man from the chest up as his facial expressions and hand movements evolve."
+}

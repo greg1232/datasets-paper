@@ -1,0 +1,15 @@
+{
+  "video_id": "56529f1a56ac45d03dc3355de452b09a",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-446.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.225,
+    0.675,
+    1.125,
+    1.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video showcases a digital sports game interface featuring a player card for \"DEXTER LAWRENCE II,\" identified as a \"R#97 TE\" with an overall rating of \"90.\" The screen displays a detailed table of offensive attributes, including numbers like \"81,\" \"10,\" \"91,\" and \"95.\" To the right of the statistics is a visual representation of the player card, showing a football player in a white jersey with the number \"97,\" along with the word \"Naughty\" and a \"LINEUP\" button. In the top right corner, numbers such as \"159,529,\" \"14,600,\" and \"1,787,369\" are visible. As the video progresses, a small video overlay of a man appears in the lower-left quadrant. He has short brown hair and is wearing a black shirt. He is seen reacting with a surprised facial expression, looking toward the screen while gesturing with his hand."
+}

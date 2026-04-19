@@ -1,0 +1,15 @@
+{
+  "video_id": "9d000f8d7348bbded775052f3a1479e1",
+  "url": "./data/segments/3fokLGPK15Q-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.03,
+    3.09,
+    5.15,
+    7.21
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people sit on light-colored wooden chairs on a stage with a dark blue background. On the left, a man with dark hair and a beard wears a white button-down shirt and dark trousers. In the middle, a woman with blonde hair wears a black top. On the right, a man wears a grey suit over a light blue shirt. Between the man on the left and the woman is a white, cube-shaped object with an intricate, mechanical appearance. Throughout the sequence, the man in the white shirt is speaking and gesturing with his hands, while the woman and the man in the suit listen. The man in the suit sits with his legs crossed. The lighting remains consistent, casting shadows on the stage floor. There are no visible logos or on-screen text. The only changes across the frames are the subtle shifts in the man in the white shirt's hand gestures and facial expressions as he speaks."
+}

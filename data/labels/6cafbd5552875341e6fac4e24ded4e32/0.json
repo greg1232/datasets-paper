@@ -1,0 +1,15 @@
+{
+  "video_id": "6cafbd5552875341e6fac4e24ded4e32",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-227.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.346,
+    1.039,
+    1.731,
+    2.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a recording studio against a dark, textured acoustic foam wall. He wears a grey t-shirt and a grey baseball cap featuring a shark-mouth logo. He is positioned in front of a Blue brand microphone mounted on a boom arm. Across the sequence, the man is speaking and gesturing with his hands. Initially, his right arm is raised and moving outward, and as the sequence progresses, his left arm begins to move into the frame from the side. His facial expression remains focused as he speaks into the microphone. The equipment remains stationary throughout the clip, while the man's physical movements provide the primary action within the scene."
+}

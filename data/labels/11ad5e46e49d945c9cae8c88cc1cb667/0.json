@@ -1,0 +1,15 @@
+{
+  "video_id": "11ad5e46e49d945c9cae8c88cc1cb667",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.71,
+    2.131,
+    3.552,
+    4.973
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a baseball card featuring a player named ALOMAR, which includes an autograph and the numbering \"03/20.\" The scene is set in a room with a table featuring a tropical design with palm trees and a logo that reads \"JASPYS\" and \"CASEBREAKS.COM.\" A man wearing a dark shirt and glasses is visible in a smaller inset window, appearing to be broadcasting or recording the event. As the sequence progresses, the card is held up for the camera before being moved away. In the latter part of the clip, the card is shifted, and a yellow box resting on a white stand becomes more prominent in the center of the frame. The \"JASPYS\" and \"CASEBREAKS.COM\" logos remain visible throughout the sequence, marking the branding of the activity."
+}

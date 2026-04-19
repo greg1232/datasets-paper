@@ -1,0 +1,15 @@
+{
+  "video_id": "0aefd62cbc28cd78267c2a4887c18d6a",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.083,
+    3.25,
+    5.417,
+    7.583
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a pink tank top and black shorts is in an indoor basketball gym featuring a polished wooden court, blue walls, and blue bleachers. In the first frame, he is captured mid-air, leaping toward a basketball hoop with a ball floating above him. In the second frame, he has landed and is walking toward the camera while holding the basketball. In the third frame, he is positioned closer to the camera, looking slightly to the side with a neutral expression. In the final frame, he is in a close-up shot, looking directly into the camera. The background remains consistent throughout the sequence, showing the basketball court and the blue tiered seating, while the focus shifts from his athletic action to a close-up of his face."
+}

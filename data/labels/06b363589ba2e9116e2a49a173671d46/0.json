@@ -1,0 +1,15 @@
+{
+  "video_id": "06b363589ba2e9116e2a49a173671d46",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-251.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen in a small video inset in the top right corner of a screen share, wearing a dark shirt and gesturing with their hands while speaking. The main screen displays a digital document titled \"Rural Community Food System\" with a large header reading \"Introduction.\" The text asks, \"What constitutes a sustainable localized food system for a rural community?\" and lists several \"Session Videos\" with dates ranging from \"02.07.22\" to \"03.22.22.\" A complex mind map with green interconnected nodes and lines is visible below the text. As the video progresses, the user navigates through the document, scrolling down to reveal a \"Legend\" and then transitioning to a different page. This new page contains a \"List of Logos\" and a list of project components, including \"Now Prosumation System Businessness Through Comm...\" and \"Tidomorden,\" each accompanied by brief descriptions and links."
+}

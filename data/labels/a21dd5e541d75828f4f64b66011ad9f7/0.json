@@ -1,0 +1,15 @@
+{
+  "video_id": "a21dd5e541d75828f4f64b66011ad9f7",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.351,
+    4.054,
+    6.757,
+    9.459
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is working on a light-colored vehicle outdoors, with the hood open to reveal the engine bay and a red fuel canister resting nearby on the ground. The scene shifts from a wide view of the vehicle's interior and exterior to a close-up focus on the electrical system. Inside the car, a red wire is routed through the passenger-side dashboard area, leading into a fuse box. The fuse box contains several labeled slots with colorful fuses; visible labels include \"L.C.D.\", \"BRAKE\", \"STOP\", \"INT MR\", \"RADIO\", and \"AIR BAG\". The progression of shots moves from the overall setting of the car and surrounding equipment to a detailed view of the red wiring and the specific arrangement of the fuses within the plastic housing."
+}

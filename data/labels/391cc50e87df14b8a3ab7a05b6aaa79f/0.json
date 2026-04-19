@@ -1,0 +1,15 @@
+{
+  "video_id": "391cc50e87df14b8a3ab7a05b6aaa79f",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video provides a static, close-up view of a mechanical engine and drivetrain assembly, likely from a vehicle. The engine casing is light gray and prominently features the embossed logo \"POLARIS.\" The surrounding components consist of various metal pipes, bolts, and a drive chain running horizontally across the midsection. A yellow sticker with a barcode and the text \"W1211121008\" is visible on a golden-brown metal part of the engine. The equipment appears used, with visible dirt and grime accumulated on the surfaces. There are no people present in the scene. Across the frames, the camera remains completely still, and there is no visible movement or change in the position of the mechanical parts, resulting in a sequence of virtually identical images."
+}

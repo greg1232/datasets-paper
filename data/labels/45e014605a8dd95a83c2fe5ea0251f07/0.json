@@ -1,0 +1,15 @@
+{
+  "video_id": "45e014605a8dd95a83c2fe5ea0251f07",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-283.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.459,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a beard, wearing a white t-shirt and large black over-ear headphones, sits in a recording studio in front of a dark, ribbed acoustic foam wall. A silver professional microphone, mounted on a boom arm with the text \" Rode NT1-A\" visible on the stand, is positioned close to his face. Throughout the sequence, the man is speaking, his facial expression shifting from an open-mouthed look of surprise or emphasis to a more concentrated expression. In the later frames, he begins to gesture with his right arm, which is tattooed, moving his hand across the lower part of the frame in a blurring motion. The background and equipment remain stationary while the man's head moves slightly and his hand enters the foreground."
+}

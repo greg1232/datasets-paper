@@ -1,0 +1,15 @@
+{
+  "video_id": "0a2bb3e535028389a6df3cc21d1f450f",
+  "url": "./data/segments/3mmDnftP1M8-Scene-085.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.208,
+    0.625,
+    1.042,
+    1.458
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light blue button-down shirt and a black over-ear headset with a boom microphone is positioned against a plain, light-colored wall. He is speaking and gesturing throughout the sequence. Initially, he is seen with his right hand raised and slightly blurred, appearing to be in motion. As the scene progresses, he continues to talk with an expressive facial expression, occasionally smiling and looking slightly off-camera. His movements are subtle, involving shifts in his head position and hand gestures. In the bottom left of each shot, the text \"Ashish Raichur\" is visible. By the final frame, his right hand is again visible, moving across the lower left of the frame. The lighting remains consistent, and the background stays static while the man's facial expressions and hand gestures evolve over time."
+}

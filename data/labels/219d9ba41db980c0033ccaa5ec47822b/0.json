@@ -1,0 +1,15 @@
+{
+  "video_id": "219d9ba41db980c0033ccaa5ec47822b",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a dark outdoor setting at night, a spotlight illuminates a small patch of ground covered in dirt and sparse green vegetation. Above this lit area, the lower portion of a metallic structure, possibly a vehicle or piece of equipment, is partially visible, featuring a triangular support brace and a horizontal beam. The scene remains largely static across the frames, with no people or animals present. The only discernible movement is a slight shift in the lighting and a subtle change in the angle of the camera's perspective, which causes the illuminated area of ground and the overhead structure to shift marginally. No text or logos are visible in the frames."
+}

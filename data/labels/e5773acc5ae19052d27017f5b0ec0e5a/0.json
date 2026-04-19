@@ -1,0 +1,15 @@
+{
+  "video_id": "e5773acc5ae19052d27017f5b0ec0e5a",
+  "url": "./data/segments/3P1vSUbet40-Scene-1062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.188,
+    0.563,
+    0.938,
+    1.314
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark skin, wearing glasses and a distinctive, tall, grey spiked wig, sits in a studio setting. He is dressed in a white long-sleeved shirt with a red bow tie and tan suspenders, wearing black over-ear headphones. He is positioned in front of a black microphone on a boom arm. The background consists of a white wall decorated with numerous framed photographs and some clothing items. On-screen text and logos are visible, including \"BOSS TALK 101\" and \"PODCAST.\" As the sequence progresses, the man remains seated in the same position, slightly shifting his head and changing his facial expression while speaking, though his overall posture and the surrounding environment remain constant."
+}

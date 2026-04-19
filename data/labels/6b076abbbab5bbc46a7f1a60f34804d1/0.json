@@ -1,0 +1,15 @@
+{
+  "video_id": "6b076abbbab5bbc46a7f1a60f34804d1",
+  "url": "./data/segments/3P1vSUbet40-Scene-0122.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.182,
+    0.547,
+    0.912,
+    1.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a distinctive tall, grey, textured hairstyle and glasses is seated in a studio for a podcast. He wears a white button-down shirt with gold suspenders and a small bow tie. He is wearing black over-ear headphones and speaks into a professional microphone on a boom arm. The background is a retail-like setting with clothing racks, a mannequin, and framed photos on the wall. A woman in a green top is partially visible behind him. On-screen graphics appear in the lower corners, including a logo that reads \"#REAL TALK 101 PODCAST\" on the left and \"REAL TALK 101\" on the right. As the scene progresses, the man shifts his head position, turning from facing forward toward the right side of the frame while continuing to speak."
+}

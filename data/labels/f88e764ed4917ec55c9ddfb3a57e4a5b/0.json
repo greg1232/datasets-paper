@@ -1,0 +1,15 @@
+{
+  "video_id": "f88e764ed4917ec55c9ddfb3a57e4a5b",
+  "url": "./data/segments/3F2rz23IKUk-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.38,
+    4.14,
+    6.9,
+    9.66
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with long brown hair and glasses, wearing a black t-shirt with a graphic and the text \"Kurt\" on the chest, stands in a presentation setting. He wears a lanyard with an identification badge around his neck. He is positioned in front of a plain wall next to a computer monitor and a table holding a water bottle and white electronic equipment. In the beginning, he stands upright, looking toward his right. As the scene progresses, he shifts his gaze and posture, eventually looking down and gesturing with his hands toward his chest. The background remains a neutral, indoor environment with a projection screen partially visible above him. The man's movements are subtle, shifting from a poised standing position to a more active, gesturing posture as he speaks or presents."
+}

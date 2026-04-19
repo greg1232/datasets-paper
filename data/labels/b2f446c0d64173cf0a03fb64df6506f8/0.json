@@ -1,0 +1,15 @@
+{
+  "video_id": "b2f446c0d64173cf0a03fb64df6506f8",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.042,
+    3.125,
+    5.208,
+    7.292
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark shirt and dark pants is cooking in a kitchen, using a metal potato masher to stir a thick, pale yellow substance in a stainless steel pot on an electric stove. The pot is placed over one of the black heating elements. A small red measuring cup sits on the stove surface nearby. In the lower-left corner of the scene, a picture-in-picture window shows a woman with short hair wearing a dark shirt, who appears to be the person cooking. As the sequence progresses, the person continues to mash and stir the yellow mixture, moving the masher up and down within the pot. The camera angle remains consistent, focusing on the pot and the person's hand and arm, while the woman in the inset window remains visible throughout the process."
+}

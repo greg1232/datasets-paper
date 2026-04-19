@@ -1,0 +1,15 @@
+{
+  "video_id": "8ce326250c3ae944d42866bb03cf8f5b",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-086.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.479,
+    0.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person\u2019s hands are seen manipulating a clear plastic protective case over a stack of white and yellow items resting on a surface decorated with a tropical palm tree design. In the upper right, a small video inset shows a man with a beard wearing a dark blue t-shirt with a yellow logo, sitting in front of a computer monitor and keyboard. The logo \"JASPYS\" in red and white text and the website \"CASEBREAKS.COM\" are prominently displayed as overlays. As the sequence progresses, the hands carefully lower and position the transparent case over the stacked items. The background remains consistent, featuring a workspace with a computer and peripheral equipment visible in the inset. The action focuses on the precise placement of the plastic casing to secure the items beneath it."
+}

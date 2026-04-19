@@ -1,0 +1,15 @@
+{
+  "video_id": "914830a71af9ed1b315b94595d45de65",
+  "url": "./data/segments/3QD9oO6sRns-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.202,
+    0.606,
+    1.01,
+    1.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen opening a trading card box on a table in a room with more boxes in the background. The person is wearing a dark-colored shirt. In the first frame, their hand reaches for a blue box. In the second frame, the hand lifts the lid of a white and blue box that says \"CLEARLY AUTHENTIC\" and \"2020\". The third frame shows the hand continuing to open the box. In the final frame, the box is open, revealing the contents inside. A smaller screen in the corner shows a person wearing a black shirt and a baseball cap. The table has a black mat with the logo \"JASPYS CASEBREAKS\" and the text \"JASPYS\" in large red letters. The words \"CLEARLY AUTHENTIC\" are printed on the side of the box."
+}

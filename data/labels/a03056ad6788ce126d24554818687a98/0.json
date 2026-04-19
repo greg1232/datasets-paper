@@ -1,0 +1,15 @@
+{
+  "video_id": "a03056ad6788ce126d24554818687a98",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with glasses, wearing a white long-sleeved shirt and a dark vest with red and white decorative embroidery, stands in front of a wooden slatted wall. They are positioned behind a microphone and hold a light-colored acoustic guitar. The person maintains a steady gaze forward throughout the sequence. In the foreground, the backs of several people's heads are visible, indicating an audience. On the right side of the scene, the text \"ORCA\" is displayed in white uppercase letters. Between the frames, the person's head and torso shift slightly, and their hand moves slightly over the guitar, suggesting a subtle movement while performing or preparing to play. The lighting and setting remain consistent across the entire clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a78383214f50a0710e95e7c01dc15d68",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.463,
+    1.388,
+    2.312,
+    3.238
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with light-colored hair wearing a dark t-shirt is shown in a small webcam overlay in the bottom-left corner of a video game interface. The main screen displays a menu titled \"UNOPENED PACKS\" featuring a row of stylized, dark, crystalline gift boxes. Legible text under these boxes includes \"LOVELY PRESENT x1\", \"BLITZ PRESENT x1\", and \"KRAMPUS LOGIN PACK\". The top of the screen displays numerical values and stats, including \"LV 19\" and \"90\". Across the sequence, the person in the webcam remains in a similar position, speaking while looking toward the camera. The game interface remains mostly static, though a small white cursor or selection highlight shifts across the gift packs, moving from left to right as the person interacts with the menu. The background behind the person in the webcam includes a glimpse of a green Christmas tree."
+}

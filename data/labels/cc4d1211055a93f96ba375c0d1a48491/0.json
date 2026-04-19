@@ -1,0 +1,15 @@
+{
+  "video_id": "cc4d1211055a93f96ba375c0d1a48491",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.713,
+    2.138,
+    3.562,
+    4.987
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a dark-themed software interface, likely a log viewer or developer tool, with a man visible in a small webcam overlay in the top right corner. The interface features various panels, including a top search bar containing the text \"Southeastern-Southeastern-Foregon-Leforge-1\" and a central timeline with markers. Below the timeline, a table displays rows of system logs with timestamps and technical strings like \"HTTP/1.1 200 OK\" and \"Fluent-ol1\". In the top left, the browser tab reads \"Activities - Google Chrome\". Throughout the sequence, the screen remains mostly static, showing the same log data and layout. The man in the webcam overlay wears a white shirt and maintains a neutral expression, looking toward the screen. No significant changes in content, navigation, or movement occur between the frames, indicating a still view of the software interface."
+}

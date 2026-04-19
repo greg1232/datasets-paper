@@ -1,0 +1,15 @@
+{
+  "video_id": "cb4fa307e1b3d44f11899c4ea6ddf834",
+  "url": "./data/segments/3Z229_lKLpk-Scene-189.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.26,
+    6.78,
+    11.3,
+    15.82
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with white hair and a beard, wearing a light-colored Nehru jacket over a white shirt, stands behind a wooden podium giving a speech. He is positioned in front of a decorative green stone wall featuring a cross-like geometric pattern. Two microphones are attached to the podium and pointed toward him. In the initial scenes, he speaks with a neutral posture, occasionally looking slightly to his right. As the sequence progresses, he becomes more animated, raising his left hand with fingers spread to emphasize a point. In the final scene, he brings his right hand up, gesturing with a raised index finger while continuing to speak. The background and equipment remain static throughout the sequence, while only the man's facial expressions and hand gestures change as he delivers his address."
+}

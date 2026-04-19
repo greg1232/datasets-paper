@@ -1,0 +1,15 @@
+{
+  "video_id": "b8846e0cbb10df8dbf83d00f57e93284",
+  "url": "./data/segments/3P1vSUbet40-Scene-1058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.991,
+    1.387
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits in a podcast studio, wearing a black t-shirt with the words \"CHECK IT!\" printed on the chest and a dark baseball cap. He is equipped with over-ear headphones and sits behind a professional microphone on a stand. Behind him is a white banner featuring the words \"GRIND HUSTLE\" and several gold stars. To the right, a red and black sign reads \"BOSS TALK 101.\" On-screen graphics include a logo that says \"T STUDIO PODCAST\" on the left and \"BOSS TALK 101\" on the right. The man remains in a static seated position throughout the clip, looking slightly to the side with a neutral expression. There is virtually no movement between the frames, as he maintains his posture and gaze, and the camera angle remains fixed on him."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d8d8fde161c64565fbf9cba570ef0c9a",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.204,
+    3.612,
+    6.021,
+    8.429
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is preparing food in a kitchen setting, using a large stainless steel mixing bowl. In the initial stages, a light-colored liquid is poured into the bowl, which already contains a large amount of light-brown, grainy mixture. Beside the bowl, there is a white plate with a portion of the same grainy mixture and a red bowl filled with pale nuts. Each frame features the logo \"UCAR CENTER FOR SCIENCE EDUCATION\" in the upper-left corner. As the sequence progresses, the liquid fills more of the bowl, and the person begins stirring the contents together with a red utensil. The focus remains on the bowl and its surrounding ingredients on a light-colored wooden surface, capturing the process of mixing the liquid into the grain and nut mixture."
+}

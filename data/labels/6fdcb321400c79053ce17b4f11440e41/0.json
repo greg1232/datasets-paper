@@ -1,0 +1,15 @@
+{
+  "video_id": "6fdcb321400c79053ce17b4f11440e41",
+  "url": "./data/segments/3E6ctN22V7k-Scene-089.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.105,
+    0.315,
+    0.525,
+    0.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a spacious room with brick walls and a high ceiling, several individuals are managing large, colorful equipment cases. A person in a white shirt and light-colored pants bends over a lime-green case, while another person in dark clothing crouches beside a blue case featuring a white stylized logo. As the scene progresses, more people enter the frame, including a man in a dark jacket and another in a white shirt. The equipment consists of multiple lime-green and blue hard-shell transport cases, some of which are open. In the background, a person sits at a table near a window. The individuals move around the room, adjusting the cases and interacting with the equipment. The lighting is bright, casting shadows on the light-colored floor, while the overall activity suggests a process of unpacking or organizing technical gear in a studio or warehouse setting."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7eb5a6989ee0e4c1606548d3d0188abf",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-267.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.252,
+    0.756,
+    1.26,
+    1.765
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A simulated football game takes place on a green field marked with white yard lines and numbers. In the initial scene, players in white and black uniforms line up across the center of the field. On-screen text at the top displays \"1st & 10\", \"EXO\", and a game clock at \"1:54 15 :17\". A small inset video window in the lower-left corner shows a man with blonde hair wearing a dark shirt. As the play begins, the offensive and defensive lines clash in a scrum near the center. A player labeled \"Bledsoe\" with a green marker stands behind the line of scrimmage, while another player is labeled \"Smith\". The perspective then shifts to a closer angle, showing the black-clad quarterback dropping back to pass. He is positioned near the \"0\" yard marker, while white-clad defenders rush toward him from the opposite side of the field."
+}

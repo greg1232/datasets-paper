@@ -1,0 +1,15 @@
+{
+  "video_id": "f7a6d4b5be891f73cede43bc969f2bee",
+  "url": "./data/segments/3MlPpqgmbYA-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.338,
+    1.013,
+    1.688,
+    2.363
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and glasses, wearing a dark blue button-down shirt, speaks directly to the camera in an indoor setting. Behind him is a light-colored wall featuring a piece of art depicting a large, patterned brown vessel against a textured background. As he speaks, his facial expressions shift slightly, and his mouth opens and closes to articulate words. He uses hand gestures to emphasize his points, starting with both hands raised and open in front of him, then lowering them. By the end of the sequence, his hands move closer together in a gesturing motion. The background and his attire remain constant throughout the clip, with the only changes being his subtle facial movements and the motion of his hands. No on-screen text, logos, or other people are visible."
+}

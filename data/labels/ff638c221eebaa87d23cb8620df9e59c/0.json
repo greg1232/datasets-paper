@@ -1,0 +1,15 @@
+{
+  "video_id": "ff638c221eebaa87d23cb8620df9e59c",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-252.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.088,
+    0.263,
+    0.438,
+    0.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a room with wood-paneled walls, a man stands behind a podium addressing a seated audience. He is wearing a white shirt, a dark vest, and glasses. To his left, another person is seated at a table, though their face is partially obscured. The audience consists of several people viewed from behind, including a person in a maroon shirt, others in patterned sweaters, and a person in a yellow shirt. Some audience members are wearing plaid shirts. A white text overlay reading \"ORCA\" appears on the right side of the scene. Across the sequence, the man at the podium remains in a similar position, gesturing slightly with his hands as he speaks. The audience members remain seated and attentive, with very little movement between the frames, maintaining a static composition as the presentation continues."
+}

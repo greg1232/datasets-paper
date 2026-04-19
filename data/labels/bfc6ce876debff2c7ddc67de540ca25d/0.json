@@ -1,0 +1,15 @@
+{
+  "video_id": "bfc6ce876debff2c7ddc67de540ca25d",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.365,
+    1.095,
+    1.825,
+    2.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene depicts an outdoor stadium setting during the day, featuring a large digital billboard situated above rows of red stadium seating. The screen displays a red and white graphic with a central logo and the text \"NUEVO LOS CARMENES\" at the bottom. To the left of the screen is a vertical red banner with a white \"W\" and the word \"WINAMAX,\" and to the right is a green panel featuring a leaf logo and the text \"CAJA RURAL GRANADA.\" A white circular logo is visible in the sky above the screen. Throughout the sequence, the camera remains static, and no people are visible. The only change across the frames is the content of the digital screen, which flickers or shifts slightly in its visual display of the red and white graphic and logo, while the rest of the surroundings remain still."
+}

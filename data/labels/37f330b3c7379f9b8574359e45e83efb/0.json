@@ -1,0 +1,15 @@
+{
+  "video_id": "37f330b3c7379f9b8574359e45e83efb",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-445.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.876,
+    2.628,
+    4.379,
+    6.131
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, over-ear headphones, and a green t-shirt that reads \"ION NEVER DO SHIT AT WORK\" sits in a room filled with framed photos and clothing racks. He is positioned in front of a professional black microphone. In the background, a white mannequin wears a white shirt, and various garments hang on racks. The man is speaking and gesturing with his right hand, which moves across the frame. A small red and white logo is visible in the bottom left and bottom center of the scene. As the sequence progresses, the man continues talking, shifting his head and hand positions while remaining seated in the same spot. The camera angle remains static, capturing him from the waist up against the backdrop of the decorated wall and apparel store environment."
+}

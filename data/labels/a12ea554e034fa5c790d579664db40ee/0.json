@@ -1,0 +1,15 @@
+{
+  "video_id": "a12ea554e034fa5c790d579664db40ee",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.54,
+    1.62,
+    2.7,
+    3.78
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair tied back is seated in front of a plain, light-colored wall. She is wearing a dark blazer over a red top. In each frame, she rests her chin on her hand, with her index finger pointing upward toward her cheek. A clear plastic water bottle sits on a table in front of her to her left. The logo \"mediasite by corrective\" is visible in the top left corner of the scene. Throughout the sequence, the woman remains in a similar seated position, but her head shifts slightly. She begins by looking toward the left, then turns her gaze forward and slightly to the right in the subsequent frames. Her facial expression remains neutral and attentive as she observes something off-camera."
+}

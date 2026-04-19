@@ -1,0 +1,15 @@
+{
+  "video_id": "32a0fdc7bde98e9178eae2c0fc6c6436",
+  "url": "./data/segments/3TQScsCOS2k-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.705,
+    1.175,
+    1.645
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long brown hair, wearing a black top with a light-colored animal print pattern, stands before a green jungle-themed backdrop. To her right, large orange and yellow text reads \"JUMANJI,\" with smaller text underneath that says \"WELCOME TO THE JUNGLE.\" The woman holds a black piece of paper or tablet with a white \"MTV\" logo on it. Initially, she looks toward someone off-screen with a smile, holding the paper close to her body. She then extends her left arm in a gesturing motion toward the right side of the frame while maintaining her smile. After returning her arm to her side, she shifts her gaze and gestures slightly with her right hand. Throughout the sequence, the background and her attire remain constant while she engages in conversation with an unseen person."
+}

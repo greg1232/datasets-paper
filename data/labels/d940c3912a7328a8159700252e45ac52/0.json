@@ -1,0 +1,15 @@
+{
+  "video_id": "d940c3912a7328a8159700252e45ac52",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical setting, three people are gathered around a table. A person wearing a brown wig, glasses, a black face mask, and a white patterned hospital gown sits on the left, cradling a baby doll. Beside them is a person wearing a white surgical cap, a light blue face mask, and a black hoodie with a graphic design on the chest. On the right, a person wearing glasses, a light blue face mask, and a black long-sleeved shirt with a yellow and red logo on the sleeve interacts with the others. They are holding white papers and gesturing with their hands toward the person in the hospital gown. The background consists of plain walls and some medical supplies on a shelf. The text \"Sim Week\" appears in the bottom right corner of each scene. Across the sequence, the person on the right shifts their posture and hand positions while continuing to speak and gesture toward the group."
+}

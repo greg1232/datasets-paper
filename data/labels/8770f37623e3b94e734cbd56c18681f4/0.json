@@ -1,0 +1,15 @@
+{
+  "video_id": "8770f37623e3b94e734cbd56c18681f4",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-342.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.038,
+    3.113,
+    5.188,
+    7.263
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card up to a camera, displaying it in front of a man sitting at a desk. The card features a photo of a stadium and text that reads \"A 'RIVERBOAT' WORLD TWIN CITIES, WHERE BLASTED TO ST. L GAME 1. DAN GLAD\" and \"KIRBY PUCKETT MINNESOTA TWINS.\" Below the name, the card says \"ONE-OF-ONE.\" The man in the background wears a blue t-shirt and sits before a computer setup with various items on the desk, including another card in a protective case. A recurring logo in the upper right corner reads \"JASPYS CASEBREAKS.COM\". As the video progresses, the person holding the card tilts it, causing a bright golden reflection to sweep across the surface of the card. The man in the background remains seated and looking toward the camera throughout the sequence."
+}

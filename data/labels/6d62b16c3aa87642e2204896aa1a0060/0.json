@@ -1,0 +1,15 @@
+{
+  "video_id": "6d62b16c3aa87642e2204896aa1a0060",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.08,
+    36.24,
+    60.4,
+    84.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents educational slides for a course on \"CRYOGENIC ENGINEERING\" delivered by Prof. M D Atrey from the Department of Mechanical Engineering, IIT Bombay. The NPTEL logo appears in the bottom left corner of each frame. The initial sequence introduces the \"Figure of Merit (FOM),\" noting that \"the ideal cycle is used as a benchmark to compare various liquefaction systems.\" The text then defines the FOM as the \"ratio of the ideal work input to the actual work input of the system per unit mass of gas liquefied,\" represented by the mathematical formula $W_i/W_a$. The presentation then shifts to \"Tutorial \u2013 2,\" which asks the viewer to determine specific values for a \"Linde \u2013 Hampson system with Nitrogen as working fluid\" operated between 1.013 bar and 202.6 bar at 300 K, with \"the effectiveness of HX is 100%.\" The requested determinations include \"Ideal Work requirement,\" \"Liquid yield,\" and \"Work/unit mass compressed.\""
+}

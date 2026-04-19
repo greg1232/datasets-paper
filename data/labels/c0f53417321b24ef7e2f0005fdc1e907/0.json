@@ -1,0 +1,15 @@
+{
+  "video_id": "c0f53417321b24ef7e2f0005fdc1e907",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.356,
+    1.069,
+    1.781,
+    2.494
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a sports trading card featuring a baseball player in a white jersey and red cap, identified by text on the card as \"STEVE CARLTON.\" The card is autographed and numbered \"15/30.\" The scene takes place on a surface decorated with a tropical theme, including blue and green palm tree patterns. In the background, a computer monitor displays a live stream with the logo \"JASPYS CASEBREAKS.COM\" and a small inset video of a man with a beard wearing a navy blue t-shirt. As the sequence progresses, the hand tilts the card slightly to showcase its holographic sheen and reflective surface. A stack of other trading cards is visible to the left. The \"JASPYS\" logo and website address appear repeatedly in the background on the screen, while the hand remains the primary focus, manipulating the card for the viewer."
+}

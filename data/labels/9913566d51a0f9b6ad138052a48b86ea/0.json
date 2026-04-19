@@ -1,0 +1,15 @@
+{
+  "video_id": "9913566d51a0f9b6ad138052a48b86ea",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.565,
+    1.695,
+    2.825,
+    3.955
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser with several open tabs, including \"Truth & Learning by Systemantics\" and \"Insights > Introduction > Kumu.\" The main window shows a digital mind map on a black background, consisting of various circular icons connected by blue lines. Centrally, a rectangular graphic contains the text \"IMPACT BEER\" above \"ACTIVATION FOR CHANGE.\" Surrounding this are icons depicting people, nature, and abstract symbols, some accompanied by labels such as \"joy,\" \"Interdependence,\" and \"Humble Story.\" A small inset video in the top right corner shows a man with a beard wearing a dark shirt, looking toward the camera. As the sequence progresses, the browser window remains static, and the man in the video continues to gaze forward, with no significant movement or changes occurring in the visual layout or the digital map between the frames."
+}

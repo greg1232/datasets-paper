@@ -1,0 +1,15 @@
+{
+  "video_id": "0b1c7db483f8106a9d1c6bea846c9bae",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.704,
+    2.112,
+    3.521,
+    4.929
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a sports trading card featuring a man in a baseball uniform, with the name \"WADE BOGGS\" printed at the bottom and a signature across the center. The card is held against a background that includes a surface with palm tree graphics and a logo that reads \"JASPYS LIVE CASEBREAKS.COM\". In the lower portion of the frame, a small inset video shows a man with a beard wearing a dark blue shirt, sitting in front of computer equipment. As the sequence progresses, the person's hands move the trading card away from the center of the view. By the final moments, the card is gone, and a small, rectangular tan object is placed on top of a grey stepped platform. Throughout the scene, the background logos and the inset video of the man remain visible."
+}

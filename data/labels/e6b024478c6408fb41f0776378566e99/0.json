@@ -1,0 +1,15 @@
+{
+  "video_id": "e6b024478c6408fb41f0776378566e99",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-340.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.523,
+    1.569,
+    2.615,
+    3.66
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a baseball card featuring Kirby Puckett of the Minnesota Twins up to the camera. The card includes a photograph of a stadium, an autograph, and text that reads \"KIRBY PUCKETT MINNESOTA TWINS\" and \"ONE-OF-ONE\". In the background, a man wearing a dark blue shirt sits at a desk with computer monitors and other equipment. A digital overlay is present on the screen, featuring the logo \"JASPYS CASEBREAKS.COM\" and a small inset video showing the man at the desk. Throughout the sequence, the person holding the card shifts it slightly, changing the angle and the way light reflects off the card's golden metallic border. The man in the background remains seated, looking down toward the surface in front of him."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4b85e6de52abe07f10fb632aa5ac9298",
+  "url": "./data/segments/3Smz5pevbI4-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.846,
+    11.537,
+    19.228,
+    26.919
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"Overview\" is displayed against a red header. The slide features a complex diagram connecting several visual elements. On the left, an image of an elephant is shown, with an arrow pointing from a small photo of a classroom toward it. Above the elephant is a bar chart titled \"Additional school years gained per $100 spent\" and a histogram labeled \"Absolute returns (Unit: Korea)\" and \"number of people.\" Below the elephant, a curved arrow leads to a list of terms: \"Indirect social psych,\" \"Norms,\" \"Sacred Values,\" \"Empathy,\" and \"Dehumanization.\" At the bottom, a small image of a face is connected by an arrow to the text \"Retrospective: measure\" and \"Prospective: predict.\" As the sequence progresses, a black arrow appears, pointing upward from the \"Retrospective: measure\" text toward the list of social psychological terms."
+}

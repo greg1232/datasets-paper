@@ -1,0 +1,15 @@
+{
+  "video_id": "e46281635ab2f246791041c41a211901",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-292.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.642,
+    7.925,
+    13.208,
+    18.492
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a room with a desk and shelving, a person's hand is visible in the foreground, interacting with a black box resting on a colorful mat featuring green palm trees and the text \"JASPYS\". The mat also displays the website \"CASEBREAKS.COM\". In the background, a man with a beard wearing a dark blue shirt is seated behind the desk. The scene is presented as a main shot with a smaller picture-in-picture inset showing the man and the desk from a wider angle. As the sequence progresses, the person's hand moves from the left side of the frame, reaching toward the top of the black box. By the end, the index finger is extended, pressing down on the top surface of the box. The on-screen logos \"JASPYS\" and \"CASEBREAKS.COM\" remain constant throughout the sequence."
+}

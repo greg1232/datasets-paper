@@ -1,0 +1,15 @@
+{
+  "video_id": "1fe9331457d6c0bca1ff8b22f4fe7b91",
+  "url": "./data/segments/3UTYZnr_9PQ-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.423,
+    1.27,
+    2.117,
+    2.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An aerial view shows a line of military aircraft taxiing on a wide runway at an airfield under a cloudy sky. The aircraft are gray jets, arranged in a long queue that stretches toward the horizon. The runway is bordered by expansive green grassy areas and concrete pads. As time progresses, the aircraft move slowly forward along the taxiway. In the foreground, a single jet leads the line, moving from the left side of the frame toward the center. The background reveals a flat landscape with distant structures and more paved airfield sections. No people, legible text, or logos are visible in the frames. The scene remains consistent in its composition, with the only change being the incremental forward movement of the fleet of jets along the concrete path."
+}

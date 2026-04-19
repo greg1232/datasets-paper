@@ -1,0 +1,15 @@
+{
+  "video_id": "ed2113368e0e4c04e0ca256459348b51",
+  "url": "./data/segments/3hGuLEduWLM-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.885,
+    2.656,
+    4.427,
+    6.198
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Against a dark, starry background, a glowing blue silhouette of a small child appears. The child is depicted holding a large, translucent blue balloon that looks like a planet. Over the course of the sequence, the child fades in from the dark. Vibrant, multicolored text appears in the center of the frame reading \"Early age learning\", followed by a smaller line of white cursive text below it that says \"Future Looks Bright\". The child and the text remain stationary as the scene stabilizes, with the glowing blue figure and the colorful lettering contrasting sharply against the deep black of the cosmic setting."
+}

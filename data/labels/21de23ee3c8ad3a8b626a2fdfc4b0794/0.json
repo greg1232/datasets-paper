@@ -1,0 +1,15 @@
+{
+  "video_id": "21de23ee3c8ad3a8b626a2fdfc4b0794",
+  "url": "./data/segments/3o6LBa7ZAp0-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    11.532,
+    34.597,
+    57.662,
+    80.726
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a professional conference setting with a gray textured background, two men sit behind a long table. The man on the left wears a dark blazer and a tan scarf, while the man on the right wears a dark suit, a blue tie, and has white hair. On the table are microphones, several clear water bottles, and small potted green plants. On-screen text identifies the men as \"Bertrand BAADRE\" and \"Jean-Claude TRICHET,\" and a logo in the upper right corners reads \"POLICY.\" Throughout the sequence, the man on the left shifts his posture, moving from holding a water bottle to resting his chin on his hand. Simultaneously, the man on the right is actively speaking and gesturing with his left hand. As the scene progresses, the men's expressions and hand placements shift slightly, while the background and table objects remain static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "3a54fc60448e8ca9ccc7c148b5bbc1ed",
+  "url": "./data/segments/3P1vSUbet40-Scene-0862.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.334,
+    1.001,
+    1.668,
+    2.336
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a black baseball cap, a black t-shirt with \"CHECK IT\" printed on it, and over-ear headphones, is recording a podcast. He sits in a studio with a white background featuring a repeating logo that reads \"HUSTLE\" beneath a crown. A professional microphone is positioned in front of him. On-screen graphics include a logo for \"BOSS TALK PODCAST\" and the text \"BOSS TALK 101\". Throughout the sequence, the man is speaking and gesturing. He starts by raising his left hand and gesturing with his right, then rests his chin on his hand while looking thoughtfully to the side. Finally, he raises his right hand in an open-palm gesture while continuing to speak. He wears a gold chain around his neck and a bracelet on his right wrist."
+}

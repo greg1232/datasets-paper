@@ -1,0 +1,15 @@
+{
+  "video_id": "2b3700d343eca9393bba07c2c4df61ee",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-088.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, a group of healthcare professionals wearing scrubs, masks, and gloves attend to a patient lying in a hospital bed. A person in a black shirt stands in the foreground, while others in blue and pink scrubs move around the bed, some appearing to perform medical interventions. The room contains medical equipment, including shelves with supplies, a red crash cart, and a small table with a blue object on it. A purple banner across the bottom of the screen displays the text \"Day 3\", \"Code on Post OP Floor\", and \"Sim Week\". Between the frames, the staff shift positions; the person in the black shirt moves closer to the bed, and a person in blue scrubs transitions from the center to the right side of the frame. The scene depicts a coordinated emergency response drill in a clinical environment."
+}

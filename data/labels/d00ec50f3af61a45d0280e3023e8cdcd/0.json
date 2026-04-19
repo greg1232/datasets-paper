@@ -1,0 +1,15 @@
+{
+  "video_id": "d00ec50f3af61a45d0280e3023e8cdcd",
+  "url": "./data/segments/3a0FD1177FA-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.162,
+    0.485,
+    0.808,
+    1.131
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen from a top-down perspective working on a craft project on a white gridded cutting mat. They are wearing a white smartwatch on their left wrist and rings on their fingers. In the scene, there are various pieces of patterned green and yellow paper cut into shapes, including Christmas trees, a rectangular card base with a brown stripe, and smaller rectangles. Tools like a stamping kit and a black tool are also present. The person uses their hands to manipulate a white piece of fabric or foam and a light-colored rectangular piece of paper. Across the sequence, they move the white material toward the paper, eventually positioning the paper over the workspace. A watermark that reads \"Stamping\" is visible in the bottom left corner of the scene."
+}

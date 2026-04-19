@@ -1,0 +1,15 @@
+{
+  "video_id": "8b3a6f52f810fd9bb204b7bdd75124ad",
+  "url": "./data/segments/3r714PCt5mU-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.679,
+    2.037,
+    3.396,
+    4.754
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a series of white title cards against a teal background. Each card features the \"EDUcharlas\" logo, consisting of a blue stylized signal icon next to a red speech bubble. Over time, more text appears on the screen. Initially, only the logo is visible. Subsequent frames introduce the orange text \"RECURSOS EDUCATIVOS ABIERTOS: \u00a1TODO UN MUNDO A TU ALCANCE!\" and the designation \"#6\" in orange. At the bottom of the cards, several logos appear, including the Spanish government crest and the \"intef\" logo, accompanied by the text \"INSTITUTO NACIONAL DE TECNOLOG\u00cdAS EDUCATIVAS Y DE FORMACI\u00d3N DEL PROFESORADO\". The transition between frames shows the gradual addition of these textual elements and logos until the final card is fully populated with the title, number, and institutional credits."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b68c284369236814afe17c41b4ac8390",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-096.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.088,
+    0.263,
+    0.438,
+    0.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a dark screen showing a newsletter titled \"The Gold Report\" and \"GOLD REPORT NEWSLETTER BY TOM O'BRIEN,\" which appears as a digital document with a purple header and blocks of text. As the scene transitions, the view shifts to a dimly lit financial trading room or operations center. Several people are present, including men in light-colored button-down shirts and a woman with red hair, all seated at workstations facing multiple computer monitors. In the background, a large wall-mounted screen displays a financial candlestick chart with red and green markers against a dark backdrop. The traders are focused on their screens, and the environment is filled with technical equipment and professional workstations. The transition moves from a static digital document to a dynamic professional setting where financial data is being monitored."
+}

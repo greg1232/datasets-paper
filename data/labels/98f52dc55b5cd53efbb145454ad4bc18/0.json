@@ -1,0 +1,15 @@
+{
+  "video_id": "98f52dc55b5cd53efbb145454ad4bc18",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.562,
+    0.787
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video segment features a large metal bowl filled with popcorn, some of which is white and some of which is tinged with green and yellow. A hand enters from the top left, stirring and moving the popcorn. In the lower-left corner of the scene, a circular inset shows a woman with short blonde hair wearing a dark blue shirt, who appears to be speaking. Each frame displays the text \"UCAR CENTER FOR SCIENCE EDUCATION\" in the upper left corner, accompanied by a logo. Across the sequence, the hand continues to shift the colored popcorn around the bowl, altering the distribution of the white, green, and yellow pieces. The background consists of a soft-focus blue sky with white clouds, which serves as a backdrop for the overall presentation."
+}

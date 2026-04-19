@@ -1,0 +1,15 @@
+{
+  "video_id": "e694712dffa23c2c3e8fb21731d5958f",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-365.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.463,
+    0.772,
+    1.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is recording in a studio setting against a grey, sound-absorbing foam wall. He is wearing a white t-shirt and large black over-ear headphones. Positioned in front of him is a professional silver microphone attached to a boom arm, which features the text \"Rode\" on its side. The man is speaking, his facial expressions shifting slightly as he talks. In the first frame, he gestures with his right hand, which appears blurred due to motion. As the sequence progresses, his hand moves out of view, and he continues speaking with a focused expression. A tattoo is partially visible on his right arm throughout the sequence. The lighting is consistent, and the man remains in a static position relative to the microphone and background."
+}

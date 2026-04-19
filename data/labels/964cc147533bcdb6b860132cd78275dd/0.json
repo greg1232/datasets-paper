@@ -1,0 +1,15 @@
+{
+  "video_id": "964cc147533bcdb6b860132cd78275dd",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-095.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Four people perform a choreographed sequence on a blue carpeted stage in a large, ornate room featuring high ceilings and crystal chandeliers. The group consists of two men and two women. One man wears a black t-shirt and white pants, and another wears a black t-shirt and blue jeans. One woman is dressed in a white t-shirt and white pants, while the other wears a light green outfit. In the background, a large crowd of people sits in rows, observing the performance. Across the sequence, the performers move in synchronization. The man in the white pants and the woman in the white attire move toward the left, while the woman in green and the man in jeans move toward the right. They transition through a series of controlled, martial-arts-style postures, shifting their weight and extending their arms in a coordinated display of movement."
+}

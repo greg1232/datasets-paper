@@ -1,0 +1,15 @@
+{
+  "video_id": "254415f61d6e2a1a23d1c37dab9aa3ae",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.195,
+    6.585,
+    10.975,
+    15.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call features a grid of participants in various domestic settings. The screen is divided into multiple small windows showing different individuals, many of whom appear in repeating patterns across the sequence. Some participants wear glasses and casual shirts, while others wear hats or headsets. One window displays a cartoon character of a white animal with a red collar, while another shows a blue circle containing the text \"Meeting\". The participants remain relatively still, looking toward their cameras, with some occasionally blinking or shifting their posture. The background of the windows includes home interiors with walls, shelves, and doors. Throughout the clip, the arrangement of the participants in the grid remains constant, and the visual content of each individual window is identical across the sequence, indicating a static screen capture of a virtual meeting."
+}

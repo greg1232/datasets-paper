@@ -1,0 +1,15 @@
+{
+  "video_id": "b5282c8eb4b37c0a92c853f9b9c1a282",
+  "url": "./data/segments/3sJ5OX75erw-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    9.045,
+    27.135,
+    45.225,
+    63.315
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"OPS-5G TA2 \u2013 Cross-scale 5G Node and Network Security\" is displayed. The slide outlines an objective to \"Achieve a usable, scalable \u201czero-trust\u201d security architecture for devices ranging from IoT sensors to servers,\" adding that the architecture \"should have a minimal impact on size, weight and power (SWaP) and price.\" Logos for Xcybvrise, Peraton, and AT&T appear in the upper right. A technical diagram illustrates a network flow from \"IoT Devices\" through \"Radio Access Networks (RAN),\" \"Edge,\" \"Core Network,\" and \"Internet\" to a \"Data Center,\" with various connections to \"Mobile Edge Cloud\" and \"External Network.\" Text at the bottom references \"THE LINUX FOUNDATION,\" \"LF NETWORKING,\" and \"LF EDGE,\" noting \"DISTRIBUTION STATEMENT A. Approved for public release; distribution unlimited.\" A small image of a person's head is visible in the top right corner. The scene remains static across all frames."
+}

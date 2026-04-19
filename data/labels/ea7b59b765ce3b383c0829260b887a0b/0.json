@@ -1,0 +1,15 @@
+{
+  "video_id": "ea7b59b765ce3b383c0829260b887a0b",
+  "url": "./data/segments/3L_uHTClWfk-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.467,
+    25.4,
+    42.333,
+    59.267
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a webpage from the Internal Revenue Service (IRS) website. The top of the page features a blue header with the white IRS logo on the left and navigation options for \"SEARCH | HELP | MENU\" on the right. Below the header, large black text on a white background reads, \"IRS reminds those over age 72 to start withdrawals from IRAs and retirement plans to avoid penalties.\" A white mouse cursor is visible, hovering over the text. The bottom of the image displays a Windows taskbar with various application icons, including a web browser and system settings. Across the sequence of frames, the scene remains static, with no movement from the cursor or changes to the displayed text or page layout."
+}

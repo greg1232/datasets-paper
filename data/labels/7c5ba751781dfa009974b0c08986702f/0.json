@@ -1,0 +1,15 @@
+{
+  "video_id": "7c5ba751781dfa009974b0c08986702f",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.954,
+    8.862,
+    14.771,
+    20.679
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video presentation features a background of a dark, abstract digital environment with green glowing lines and grid-like structures. Centered on the screen is the white text, \"Understanding the Workflow,\" with a yellow underline beneath the word \"Workflow.\" In the top right corner, a small inset video shows a person with glasses wearing a light-colored shirt. The person remains in this inset window, looking toward the camera throughout the sequence. The background imagery and the central text remain static across the frames, with no visible movement or changes in the content or the person's position. The scene remains consistent, presenting a stable slide during a lecture or presentation."
+}

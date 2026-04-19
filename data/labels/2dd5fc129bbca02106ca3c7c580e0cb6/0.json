@@ -1,0 +1,15 @@
+{
+  "video_id": "2dd5fc129bbca02106ca3c7c580e0cb6",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-600.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.488,
+    10.464,
+    17.439,
+    24.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a green t-shirt that reads \"ION NEVER DO SHIT AT WORK\" sits in a studio setting. He is positioned behind a professional black microphone on a boom arm. The background features walls adorned with framed photos and clothing racks with various garments, including a white t-shirt on a mannequin. In the bottom corners of the scene, logos for \"BOLLY\" and \"TOTT\" are visible. As the sequence progresses, the man speaks and gesticulates with his right arm, moving it from his side to an outward position. His facial expression shifts from a focused look to a more relaxed or contemplative expression with his eyes partially closed. The camera remains stationary, keeping the man centered in the frame throughout the brief interaction."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "59845ba282211a489dd69b4402aa2aef",
+  "url": "./data/segments/3TQScsCOS2k-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.155,
+    0.465,
+    0.775,
+    1.085
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair is seated in front of a backdrop depicting a lush jungle landscape with a waterfall. She wears a black short-sleeved shirt patterned with small white animal figures. In the background, a large logo reads \"JUMANJI\" in red and gold lettering, with the subtitle \"WELCOME TO THE JUNGLE\" written in smaller yellow text below it. The woman holds a small black rectangular object featuring a white \"M\" logo. Throughout the sequence, she is speaking and gesturing with her hands. Initially, she looks toward someone off-camera to her right while holding the object with both hands. As the scene progresses, she lifts her right hand in a gesture and smiles, continuing to hold the object. By the end, she remains in a similar seated position, glancing toward the right and maintaining her smile."
+}

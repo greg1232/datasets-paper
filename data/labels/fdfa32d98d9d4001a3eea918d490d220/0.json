@@ -1,0 +1,15 @@
+{
+  "video_id": "fdfa32d98d9d4001a3eea918d490d220",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.242,
+    0.726,
+    1.21,
+    1.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is working on a craft project atop a light-colored wooden surface with visible grain and dark seams. In the upper left, a piece of light blue paper is visible. Next to it is a small packaged item with a floral illustration and the text \"m heart\" visible. In the initial moments, only the person's fingertips and a portion of their arm are visible on the left side. As the sequence progresses, the person's right arm enters the frame from the right, wearing a grey long-sleeved sweater and a black wristwatch. The person reaches across the wooden surface toward the blue paper and the packaged item. Their hand, adorned with a ring, moves quickly, creating a slight motion blur as they interact with the materials on the table."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "74419980124539760405db0a56c4c761",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-119.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.49,
+    1.469,
+    2.448,
+    3.427
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair is seated indoors, wearing a striped purple and white button-down shirt and large black over-ear headphones with an attached microphone. She is positioned in front of a plain white wall, with light-colored curtains visible to her left. In the lower-left corner of each frame, the text \"Penny Barney\" is visible. Across the sequence, the woman remains in a stationary position, looking toward the camera. She is speaking, with her mouth slightly open and shifting positions as she talks. Her expression remains relatively neutral throughout the clip, and her gaze stays focused forward. No other people or objects are visible in the scene, and the lighting and background remain constant as the woman continues to speak."
+}

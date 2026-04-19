@@ -1,0 +1,15 @@
+{
+  "video_id": "df8a8d78014a7864e7eb01cb71d4e4df",
+  "url": "./data/segments/3Kxl1O310k8-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.86,
+    17.58,
+    29.3,
+    41.02
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide is displayed over a blurred green background, featuring small wooden toy houses of varying sizes arranged in a row. The slide contains the heading \"What can a housing trust fund do?\" followed by a bulleted list: \"Address affordable housing needs\", \"Support local control of housing initiatives\", \"Engage in real estate activity\", \"Make timely decisions\", and \"Collect $ from variety of sources\". A small \"MHP\" logo appears in the bottom left corner of each frame. In the upper corners of the screen, small video call windows show participants. A man in a light-colored shirt is visible in the top center of the first frame and the top right of the last frame. A woman is seen in the top right of the second frame and the top center of the third frame. The layout of the slide remains static across all frames, while the positions of the people in the video call windows shift."
+}

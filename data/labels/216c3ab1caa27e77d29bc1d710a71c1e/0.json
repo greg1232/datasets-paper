@@ -1,0 +1,15 @@
+{
+  "video_id": "216c3ab1caa27e77d29bc1d710a71c1e",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.204,
+    0.613,
+    1.022,
+    1.431
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video focuses on a car's digital instrument cluster. A circular gauge with red markings is partially visible on the left, showing a reading of \"5500\" and a red needle. In the center of the display, white text reads \"BRAKE\" next to a red indicator light, followed by the instructions \"Press Brake and Push Button to Start\". Below this prompt, the odometer reads \"20434 mi\". As the sequence progresses, the image quality shifts, with the second and third frames appearing blurred or out of focus. In the final frame, the display returns to clarity, showing the same text and odometer reading. No people or other interior car elements are visible throughout the clip."
+}

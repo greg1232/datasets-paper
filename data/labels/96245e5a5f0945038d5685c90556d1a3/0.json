@@ -1,0 +1,15 @@
+{
+  "video_id": "96245e5a5f0945038d5685c90556d1a3",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.625,
+    1.875,
+    3.125,
+    4.375
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static dark purple screen with white text appearing in two rows. In the top half of the screen, the phrase \"S\u00e5 g\u00e5r turen videre til laboratoriet\" is written across two lines, with the first line saying \"S\u00e5 g\u00e5r turen videre\" and the second line saying \"til laboratoriet\". In the bottom half of the screen, the exact same phrase, \"S\u00e5 g\u00e5r turen videre til laboratoriet\", is repeated in the same two-line format. There are no people, objects, or equipment visible in the scenes. Across the frames, the scene remains completely still, with the text and the dark background remaining unchanged in position and appearance. No other logos or graphics are present on the screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "908e361900bd90794baa0540b120901a",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-224.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.537,
+    0.896,
+    1.254
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a collectible sports card protected by a clear plastic sleeve, positioning it over a yellow box inside a white tray. In the background, a man with a beard, wearing a dark blue t-shirt with a small yellow circular logo, sits at a desk with a computer setup, appearing as a smaller inset window. The setting is a professional streaming or recording space, featuring a surface covered in branded mats. Prominent orange and white logos and text appear on the screen, including \"JASPYS\" and \"CASEBREAKS.COM\". As the sequence progresses, the hand moves the card downward, gradually lowering it until it is positioned directly above and then partially inside the yellow box. The background scene remains consistent, with the man in the inset window observing the action."
+}

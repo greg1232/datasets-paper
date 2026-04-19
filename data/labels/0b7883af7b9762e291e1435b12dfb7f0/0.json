@@ -1,0 +1,15 @@
+{
+  "video_id": "0b7883af7b9762e291e1435b12dfb7f0",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.158,
+    0.475,
+    0.792,
+    1.108
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a computer screen displaying a terminal window with lines of log data against a dark background. The text consists of timestamps, IP addresses, and HTTP request methods. Legible phrases include \"GET /rapageHTTP/1.1 404 2218\", \"GET /favicon.ico HTTP/1.1 404 2218\", and \"GET /shell.php HTTP/1.1 404 2218\". The top of the window contains tabs and menu options, including \"Activities\", \"Documents\", and \"Terminal\". At the bottom of the screen, a taskbar is visible with a \"e-pussycat\" label and several icons. Throughout the sequence, the screen remains static, with the same block of white and green text filling the terminal window. There are no people or physical objects present, and the scene does not change between the frames."
+}

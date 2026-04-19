@@ -1,0 +1,15 @@
+{
+  "video_id": "3439045e8fb596be3a62f6dd9196cc72",
+  "url": "./data/segments/3P1vSUbet40-Scene-0010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black baseball cap, black headphones, and a black t-shirt with a gold chain around his neck is speaking into a professional microphone. He is seated in a studio setting in front of a white wall decorated with stars and a large red and black logo that reads \"BOSS TALK 101\". On the left side of the screen, a graphic overlay reads \"BOSS TALK PODCAST\", and on the right side, another overlay reads \"BOSS TALK 101\". His t-shirt features the text \"CHECK IT!\". Across the sequence, the man is actively talking and gesturing with his hands. He maintains a smiling expression and looks slightly off-camera to his left. While his head and hand positions shift slightly as he speaks, the background, his clothing, and the on-screen graphics remain constant throughout the clip."
+}

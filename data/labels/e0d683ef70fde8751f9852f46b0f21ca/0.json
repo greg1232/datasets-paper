@@ -1,0 +1,15 @@
+{
+  "video_id": "e0d683ef70fde8751f9852f46b0f21ca",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-332.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.444,
+    1.331,
+    2.219,
+    3.106
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played on a green turf field, with players from two opposing teams lined up at the line of scrimmage. The team in white jerseys and helmets faces the team in dark jerseys. On-screen overlays provide game statistics, including the score, a game clock showing \"0:49\", and a play clock counting down from \":16\" to \":13\". Text labels such as \"MOMENTUM LEGEND\", \"X FACTOR\", and \"HOLD THE LINE\" are visible across the bottom of the display. A small inset video in the bottom left corner shows a man with blond hair wearing a dark blue shirt, observing the game. As the sequence progresses, the players remain in their starting positions, and the on-screen clocks tick down. The scene remains static except for the changing timers and subtle movements of the players as they prepare for the snap."
+}

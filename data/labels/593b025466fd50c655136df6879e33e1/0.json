@@ -1,0 +1,15 @@
+{
+  "video_id": "593b025466fd50c655136df6879e33e1",
+  "url": "./data/segments/3JYDT8lap5U-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    29.935,
+    89.805,
+    149.675,
+    209.545
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark blazer over a white shirt stands at a podium, presenting at a conference. He gestures with his hands while speaking in front of a large projection screen. The bottom of each frame features the \"europython\" logo and the text \"Edinburgh 23 29 July 2018\". The content on the projection screen changes over time. Initially, the screen displays \"MACHINE LEARNING PIPELINES are a subset of DATA PIPELINES\". The screen then transitions to \"WHAT AIRFLOW IS NOT\". This is followed by a slide that maintains \"WHAT AIRFLOW IS NOT\" but adds a red \"X\" and the text \"IT'S NOT FULLY STABLE ...version 2.0 is being developed\". Finally, the presentation shifts to a slide titled \"DAGS ARE AIRFLOW'S CORE\", which includes a diagram of a workflow and the text \"DAG = DIRECTED ACYCLIC GRAPHS These are ETL operations that are executed in order and only execute if the previous ones are succesful\"."
+}

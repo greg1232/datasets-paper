@@ -1,0 +1,15 @@
+{
+  "video_id": "81f933e75aec3cfad7854855decb3a22",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.688,
+    1.147,
+    1.606
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey and black baseball cap, and over-ear headphones is speaking into a professional microphone. He has a tattoo on his right upper arm and is positioned in front of a dark grey, textured acoustic foam wall. The microphone is held by a black shock mount and boom arm, which features the text \"BlueWave Studio USA\". The man is captured from the waist up, facing slightly to the right. Across the sequence, the man remains in the same position and continues speaking into the microphone, with subtle changes in his facial expression and head tilt as he talks. There is no other person visible in the scene, and the lighting remains consistent throughout."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e0698d687492679139c3f29fc49ae717",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.53,
+    1.589,
+    2.648,
+    3.708
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing light-colored pants and a dark top is positioned behind a green all-terrain vehicle (ATV) inside a garage or workshop. The ATV features a large green cargo box on the front rack and a black metal brush guard. The word \"POLARIS\" is embossed on the front plastic body of the vehicle, behind the brush guard. As the scene progresses, the person moves from standing behind the ATV to sitting on it, leaning forward over the cargo box. Their clothing appears to shift from light-colored pants to dark-colored clothing as they move into a seated position. The background shows white walls and various tools or equipment typical of a garage setting. The vehicle remains stationary throughout the sequence, while the person's position changes as they mount the ATV."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d46a632e0499a9fc9347a2a7eb3cfc44",
+  "url": "./data/segments/3L_uHTClWfk-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.708,
+    0.992
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a screen recording of a web browser displaying an IRS website page about Inherited IRAs. The page features a blue header with the \"IRS\" logo and links for \"SEARCH,\" \"HELP,\" and \"MENU.\" The main body of the text discusses Required Minimum Distributions (RMDs) and provides guidance for inherited retirement accounts. Legible text includes \"Inherited IRAs\" as a section header and a sentence stating, \"Not taking a required distribution, or not withdrawing enough, could mean a 50% excise tax on the amount not distributed.\" The content mentions \"Retirement Topics - Beneficiary\" and \"Publication 559, Survivors, Executors and Administrators.\" As the video progresses, a cursor scrolls down the page, moving the text upward. By the end of the sequence, the view reaches a new section titled \"2020 coronavirus-related distribution,\" and a blue notification bar appears at the bottom of the screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c7ade499ed1847c75f26631631e0912a",
+  "url": "./data/segments/3r9Dh8YKpLU-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    20.312,
+    60.936,
+    101.56,
+    142.184
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presenter with long dark hair, wearing a pink top, is positioned in the bottom right of a series of instructional screens. The background is a white digital slide titled \"Factorial with Recursion.\" The slides feature a blue logo in the bottom left corner and text identifying the \"Walchand Institute of Technology, Solapur.\" The frames visualize the process of a recursive factorial function call. Starting with a single blue block of code for \"factorial( 5 )\", subsequent frames add additional blocks of code for \"factorial( 4 )\", \"factorial( 3 )\", \"factorial( 2 )\", and finally \"factorial( 1 )\", each appearing in a different shade of orange or blue. By the final frame, numerical results appear below the blocks, showing \"120\", \"24\", \"6\", \"2\", and \"1\" corresponding to the recursive returns. The presenter remains stationary while the on-screen code and numbers evolve to illustrate the calculation steps."
+}

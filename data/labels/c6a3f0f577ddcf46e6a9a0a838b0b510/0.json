@@ -1,0 +1,15 @@
+{
+  "video_id": "c6a3f0f577ddcf46e6a9a0a838b0b510",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.203,
+    0.61,
+    1.017,
+    1.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men are seated in front of a television, reacting to a video. The man on the left wears a dark green t-shirt, and the man on the right wears a grey t-shirt and a necklace. Behind them is a shelf filled with media cases. Glowing orange text at the top of the screen reads \"OUR STUPID REACTIONS\". In the center of the image is a smaller screen displaying a scene from another video. In the first half of the sequence, the smaller screen shows a group of people in traditional clothing, with a subtitle that reads \"Samarkand chose you.\" The men's expressions remain neutral and focused as they watch. As the sequence progresses, the scene on the smaller screen changes to a wide shot of several people in a courtyard area with blue arched architecture. The two men continue to watch the video with similar expressions."
+}

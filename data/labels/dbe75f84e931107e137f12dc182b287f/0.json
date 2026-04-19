@@ -1,0 +1,15 @@
+{
+  "video_id": "dbe75f84e931107e137f12dc182b287f",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-134.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.339,
+    1.016,
+    1.693,
+    2.37
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and a striped button-down shirt is centered in the frame, wearing a black headset with a microphone. She is positioned in a room with light-colored walls and a pale green curtain to her left, with a blue fabric edge visible at the far left. The woman is speaking, and her facial expressions shift slightly as she talks, with her mouth opening and closing across the sequence. In the bottom left corner of each image, the text \"Nancy Denny\" is partially visible. She remains in a static position throughout the clip, facing the camera directly. The background remains consistent, featuring a simple wall and a neutral-toned ledge behind her. No other people or significant objects are present in the scene."
+}

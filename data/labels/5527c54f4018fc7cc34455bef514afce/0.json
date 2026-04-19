@@ -1,0 +1,15 @@
+{
+  "video_id": "5527c54f4018fc7cc34455bef514afce",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.669,
+    8.008,
+    13.347,
+    18.685
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short grey hair and glasses, wearing a light-colored shirt, is seated at a desk in an indoor setting. In the background, another individual is visible from the chest down, wearing a dark suit jacket and a tie, standing next to a red tote bag featuring a cartoon character. On the desk, there is a laptop and a small blue box. A green banner across the lower portion of the screen displays the logo \"ORCA\" and the text \"April 12, 2019 House Committee on General, Housing, and Military Affairs S.23 Increasing the Minimum Wage\". As the sequence progresses, the man in the foreground shifts his position, moving his hand toward his face and then gesturing with his hand in the air. Simultaneously, the person standing in the background moves their arm, reaching toward the desk area."
+}

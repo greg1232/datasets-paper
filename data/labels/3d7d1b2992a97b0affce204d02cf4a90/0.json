@@ -1,0 +1,15 @@
+{
+  "video_id": "3d7d1b2992a97b0affce204d02cf4a90",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-125.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.501,
+    2.502,
+    3.503
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation room, a woman in pink scrubs, a leopard-print surgical cap, and a face mask sits next to a patient bed. A second woman, wearing a black blazer and a light blue face mask, stands beside her, holding papers. The room contains various medical equipment, including a monitor on a stand, a white patient bed with blue accents, and a sign on the wall that reads \"SHOCK TRAUMA CENTER\". The woman in scrubs looks toward the woman in the blazer, who appears to be reviewing documents with her. Throughout the sequence, the woman in the blazer slightly shifts her position while looking down at the papers. Purple text overlays appear in the lower corners of the frames, stating \"Day 5\" on the left and \"Sim Week\" on the right."
+}

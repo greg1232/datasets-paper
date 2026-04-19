@@ -1,0 +1,15 @@
+{
+  "video_id": "39111455d05c34847fde4cd845fdc546",
+  "url": "./data/segments/3E6ctN22V7k-Scene-091.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.23,
+    0.69,
+    1.15,
+    1.61
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of young people are gathered indoors under a structural ceiling. A young man with a focused expression, wearing a black jacket, looks upward and slightly to the side. Behind him, other individuals are partially visible, including a person in a blue garment. In the foreground, the side of a person's head wearing a light blue cap is visible on the left, while another person wearing an orange shirt and dark pants stands on the right, partially obscuring the view. As the sequence progresses, the young man in the black jacket subtly shifts his gaze and mouth position, maintaining his attentive look upward. The composition remains tight on the subjects, with the surrounding group remaining largely static in the background while the central figure's facial expression evolves slightly across the timeline."
+}

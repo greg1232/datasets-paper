@@ -1,0 +1,15 @@
+{
+  "video_id": "8df3aad4247501747fdc53ce8eee66e5",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-231.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.203,
+    0.61,
+    1.017,
+    1.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hoodie, and headphones sits in a studio setting for a broadcast. He is positioned behind a dark desk with a professional microphone on a boom arm in front of him. Behind him is a white wall featuring several logos and the blue text \"Where BOSSES Talk!\". To his left, a vertical column of stars accompanies the text \"UNION HUSTLE\". In the foreground, a small black monitor displays a logo with \"TALK\" in red and a separate blue graphic that says \"BOSS TALK OUT LOUD\". Throughout the sequence, the man is speaking and gesturing. He begins with his right hand raised and palm open, then gradually lowers his arm and shifts his hand position toward his chest as he continues to talk, while his facial expression remains focused and engaged."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e29c8ee54ef47dd03e67bc21e2a0a645",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-210.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, headphones, and a black hoodie with the words \"BOSS\" and \"THE\" visible on the front sits at a desk in a studio setting. He is positioned behind a professional microphone mounted on a black boom arm. To his left, a white banner features the word \"HUSTLE\" repeated several times with gold stars. Behind him is a blue sign that reads \"Where BOSSES Talk!\". On the desk, there is a black box and a container labeled \"THE TALK OUT BOX\". The man is speaking, and his facial expression shifts slightly from a neutral, attentive look to a more active speaking posture, with his mouth opening and his gaze moving slightly. The background, equipment, and his clothing remain constant throughout the sequence as he continues to communicate."
+}

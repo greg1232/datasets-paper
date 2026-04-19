@@ -1,0 +1,15 @@
+{
+  "video_id": "31c59fc25c7278157089b27d833c96f2",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-265.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.706,
+    1.177,
+    1.648
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blond hair and a navy blue shirt is seen in a small inset window, speaking while navigating a football game menu on a screen. The game interface features a stadium background with \"SUPER BOWL CHAMPIONS\" displayed on a large banner. Text at the top reads \"MMG\" and \"HOLD THE LINE ENABLED!\". A play-selection menu is visible, containing options such as \"COACH SUGGESTIONS,\" \"FORMATION,\" \"CONCEPT,\" and specific plays like \"WHEEL POST DRAG\" and \"FOUR VERTICALS.\" A football player in a white uniform and helmet is positioned on the field in the background. As the scene progresses, the menu disappears, and the view transitions to a live gameplay sequence. Players in white and black uniforms are lined up at the scrimmage line on a green grass field. The top HUD now shows \"MADDEN 23,\" the game clock at \"1:57,\" and the play clock at \":23.\""
+}

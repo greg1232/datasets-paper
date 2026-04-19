@@ -1,0 +1,15 @@
+{
+  "video_id": "5912a787c25272bce88939fb4344ff58",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.583,
+    1.75,
+    2.917,
+    4.083
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white private jet is seen taxiing on a runway adjacent to a grassy field under an overcast sky. A red circular logo containing the number \"13\" is visible in the upper right corner of each scene. In the initial view, the plane is in the distance, appearing small against the horizon. As the sequence progresses, the aircraft moves closer toward the foreground, revealing its T-tail design and rear-mounted engines. A red flag is positioned on the grass near the runway, fluttering as the plane passes by. Small white markers and equipment are spaced along the edge of the pavement. The plane continues its forward motion, eventually filling a larger portion of the view as it approaches the camera's position, while the background remains a flat, green landscape under a gray sky."
+}

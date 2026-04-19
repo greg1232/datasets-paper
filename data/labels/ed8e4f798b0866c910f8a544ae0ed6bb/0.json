@@ -1,0 +1,15 @@
+{
+  "video_id": "ed8e4f798b0866c910f8a544ae0ed6bb",
+  "url": "./data/segments/3Z229_lKLpk-Scene-157.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with white hair and a white beard, wearing glasses and a traditional light-colored Indian outfit consisting of a white kurta and a beige vest, speaks at a wooden podium. He is positioned in front of a textured, dark green wall with geometric patterns and decorative pillars adorned with small pink flowers. Two microphones are attached to the podium. Throughout the sequence, the man uses expressive hand gestures to emphasize his points. He starts by gesturing with his left hand, then raises his right index finger pointed upward. He then raises both index fingers toward the ceiling before finally pointing his right index finger upward while gesturing with his left hand near his face. The background and his position remain constant as his arm and hand movements shift dynamically across the frames."
+}

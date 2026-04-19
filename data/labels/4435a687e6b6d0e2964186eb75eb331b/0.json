@@ -1,0 +1,15 @@
+{
+  "video_id": "4435a687e6b6d0e2964186eb75eb331b",
+  "url": "./data/segments/3P1vSUbet40-Scene-0555.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a dark complexion is seated in a studio, wearing a black t-shirt with the text \"C\u00d8ECK IT\" on the chest, a dark blue baseball cap, and large over-ear headphones. He is positioned in front of a professional microphone and is speaking with a smile. The background consists of a white wall featuring a vertical banner with stars and the words \"GRIND\" and \"HUSTLE,\" alongside a dark screen displaying the word \"BOSS.\" Two graphic overlays are present: a logo on the left that reads \"PODCAST\" below a stylized image, and text on the right that reads \"BOSS TALK 101.\" Across the sequence of frames, the man remains in the same position and maintains his expression, though his mouth movements indicate he is in the middle of speaking. The setting and equipment remain static throughout the clip."
+}

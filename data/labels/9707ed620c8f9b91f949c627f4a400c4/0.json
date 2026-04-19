@@ -1,0 +1,15 @@
+{
+  "video_id": "9707ed620c8f9b91f949c627f4a400c4",
+  "url": "./data/segments/3Z229_lKLpk-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.435,
+    1.305,
+    2.175,
+    3.045
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with white hair and a white beard, wearing glasses, a light-colored long-sleeved shirt, and a matching Nehru vest, stands behind a wooden podium. He is positioned in front of a textured, dark green wall with a geometric pattern of raised blocks. To his side is a tall, narrow glass display case containing decorative floral elements. Two microphones are mounted on the podium in front of him. In the initial sequence, the man is actively gesturing with both hands raised, his fingers pointed upward. As time progresses, he lowers his arms and shifts his gaze toward his left, maintaining a steady expression. The background and equipment remain stationary throughout the scene, with the only movement being the man's gestures and head position."
+}

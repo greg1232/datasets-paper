@@ -1,0 +1,15 @@
+{
+  "video_id": "54bfa1e8a93fbf7fc879a6f1714df2cd",
+  "url": "./data/segments/3fokLGPK15Q-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.77,
+    8.31,
+    13.85,
+    19.39
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people are seated on a stage in a dimly lit room with purple neon lights in the background. On the left, a man wearing a white button-down shirt and dark trousers is gesturing with his hands while speaking. In the center, a woman wearing a black t-shirt and dark trousers sits and listens. On the right, a man wearing a grey blazer over a white shirt and dark trousers sits with his legs crossed. In front of the first man is a white, textured, blocky pedestal. Behind the seated individuals are large, glowing pink letters that spell \"SLS\". Throughout the sequence, the man in the white shirt continues to talk and gesture, shifting his posture and hand movements. The woman remains relatively still, looking toward the speaker, while the man in the grey blazer leans back and listens, occasionally shifting his position."
+}

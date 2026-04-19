@@ -1,0 +1,15 @@
+{
+  "video_id": "5e2272ef5737af2a1d177e2ddf91f286",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-223.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.184,
+    0.551,
+    0.918,
+    1.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A blurred background displays a computer screen showing financial data and stock market charts with red and green indicators. Centered on the screen, bold white text progressively appears. It begins as \"TO PATTERNS\", then changes to \"TO PATTERNS IN STOCK\", and finally settles on \"TO PATTERNS IN STOCK MARKET\" in the last two frames. Across the bottom of every frame, a blue banner contains the name \"Basil Chapman\" in a larger white font, with the subtext \"The Tiger Technicians Hour | June 8th, 2022\" appearing below it. No people are visible in the scene. The only movement is the sequential addition of words to the central title, while the background imagery and the bottom banner remain static throughout the sequence."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c6060af39ffb6dab1297d8acbce83774",
+  "url": "./data/segments/3hLeTO8SC3U-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.553,
+    7.658,
+    12.763,
+    17.868
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a modern, open indoor venue with high ceilings and grey flooring, two men are seated across from one another at a white table. One man on the left wears a dark navy suit with a blue tie and glasses, while the man on the right is dressed in a dark blazer over a light blue button-down shirt. A laptop sits on the table between them. The man on the right is actively gesturing with his hands while speaking, shifting his posture and hand positions slightly as the sequence progresses. A white graphic overlay at the bottom of the scene includes the text \"MONGODB WORLD 2022\", \"#MDW22 | #theCUBE\", and \"From the Javits Center, New York, NY\". The logo \"theCUBE\" appears on the left of this bar, and the text \"Sponsored By MongoDB.\" with its corresponding leaf logo appears on the right."
+}

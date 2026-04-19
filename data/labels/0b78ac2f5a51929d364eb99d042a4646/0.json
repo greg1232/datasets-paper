@@ -1,0 +1,15 @@
+{
+  "video_id": "0b78ac2f5a51929d364eb99d042a4646",
+  "url": "./data/segments/3Kxl1O310k8-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.165,
+    24.495,
+    40.825,
+    57.155
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call interface displays a grid of participants in various home environments. A man with glasses and a dark jacket, a man with dark-rimmed glasses in a dark shirt, a woman with a headset and dark jacket, and another man with glasses in a dark jacket are visible. A woman with blonde hair, a woman in a blue and white striped shirt, and a man with glasses in a dark jacket also appear. In some instances, a man with a beard and dark clothing is seen. As the video progresses, the grid arrangement shifts, cycling through different combinations of these participants. Some individuals remain stationary, looking at their cameras, while others shift slightly. No logos or legible on-screen text are visible, though some small, indistinguishable timestamps appear in the black spaces of the grid. The participants' backgrounds include plain walls and domestic interiors."
+}

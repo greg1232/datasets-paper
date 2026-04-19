@@ -1,0 +1,15 @@
+{
+  "video_id": "1846d2ccc2b4394ed96eebfcdc787fa6",
+  "url": "./data/segments/3iUTkJy84EY-Scene-308.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.46,
+    1.38,
+    2.3,
+    3.22
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is centered against a plain dark grey background. She wears a light green, long-sleeved top with small red floral patterns and a decorative dark embroidered neckline, complemented by a dark beaded necklace and a small clip-on microphone. In the first three frames, she is speaking, with her mouth open and facial expressions shifting slightly. In the final frame, she closes her eyes and brings her palms together in front of her chest in a namaste gesture. A small circular gold logo with the text \"NPTEL\" is visible in the bottom left corner of the first and third frames, and in the bottom center of the second and fourth frames. The setting remains static, focusing entirely on the woman's upper body as she transitions from speaking to a traditional greeting."
+}

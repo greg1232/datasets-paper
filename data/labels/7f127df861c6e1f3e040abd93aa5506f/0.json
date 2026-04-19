@@ -1,0 +1,15 @@
+{
+  "video_id": "7f127df861c6e1f3e040abd93aa5506f",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-209.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.425,
+    1.276,
+    2.127,
+    2.978
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long brown hair, wearing a brown striped jacket, sits on a beige sofa in a room decorated with potted plants and a desk lamp. Behind her, a window reveals a city skyline with a tall building. A blue lower-third graphic across the bottom of the screen displays the text \"Basil Chapman\" and \"The Tiger Technicians Hour | June 8th, 2022\". As the clip progresses, white text appears centrally over the image. Initially, the words \"IT'S NOT\" appear, which then expand to read \"IT'S NOT SO IMPOSSIBLE\" in the subsequent frames. The woman remains seated in a similar position, looking slightly downward, as the text evolves on the screen. The background elements, including the plants and the lamp, remain static throughout the sequence."
+}

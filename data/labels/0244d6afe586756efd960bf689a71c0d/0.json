@@ -1,0 +1,15 @@
+{
+  "video_id": "0244d6afe586756efd960bf689a71c0d",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-247.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.509,
+    1.527,
+    2.544,
+    3.562
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a white collared shirt and a dark vest with blue embroidery and red detailing, stands behind a microphone and performs. He holds a light-colored stringed instrument, though only a portion of it is visible. He is positioned in front of a wall with horizontal light-brown slats. In the foreground, the backs of several people's heads are visible, including individuals with brown and white hair. The text \"ORCA\" appears on the right side of the scene, positioned near the head of one of the audience members. Across the sequence, the man remains in the same position, singing into the microphone with slight changes in his facial expression and mouth movement as he performs. The camera angle and the positions of the people in the room remain static throughout the frames."
+}

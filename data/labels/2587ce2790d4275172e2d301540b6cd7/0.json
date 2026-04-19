@@ -1,0 +1,15 @@
+{
+  "video_id": "2587ce2790d4275172e2d301540b6cd7",
+  "url": "./data/segments/3Z229_lKLpk-Scene-192.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.49,
+    1.47,
+    2.45,
+    3.43
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An expansive auditorium with a distinctive gold-patterned, coffered ceiling is filled with a large crowd of people seated in rows. At the front of the room, a central raised platform features a podium and a large, light-colored textured wall adorned with a gold emblem. Four large screens are mounted on the walls, two on each side of the central wall, displaying a bright, white image of what appears to be another group of people. The attendees are dressed in a variety of casual and formal attire, with many wearing light-colored shirts. Throughout the sequence, the people remain seated, facing the front of the room. The camera position remains static, and there are no discernible changes in movement or action between the frames, capturing a still moment of an assembly in a grand hall."
+}

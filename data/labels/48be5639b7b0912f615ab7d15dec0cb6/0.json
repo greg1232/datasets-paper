@@ -1,0 +1,15 @@
+{
+  "video_id": "48be5639b7b0912f615ab7d15dec0cb6",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-213.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.352,
+    1.056,
+    1.76,
+    2.465
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair wearing a grey t-shirt is seen in a video overlay on the left side of a screen showing a Madden NFL video game interface. The interface displays a player card for \"TAYSOM HILL\" with an overall rating of \"95\" and a position of \"TE\". On-screen text includes \"AUCTION DETAILS,\" \"Max Value: 2,181,500,\" and \"Current Bid: 424,300.\" The card's description states \"MUT 2s Zero Old Champion. This player comes with 2 Custom Abilities...\" and identifies the archetype as \"Vertical Threat.\" The man's facial expression changes from a wide, open-mouthed smile and laughter in the first two frames to a more neutral, closed-mouth expression in the final two frames. The game screen remains static, showing the same auction details and player statistics, while the man's head moves slightly within his video frame."
+}

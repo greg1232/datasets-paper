@@ -1,0 +1,15 @@
+{
+  "video_id": "3c729d955376688c1d6919a011f759d1",
+  "url": "./data/segments/3P1vSUbet40-Scene-0831.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.255,
+    0.766,
+    1.277,
+    1.788
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black baseball cap with a gold emblem, a black t-shirt that reads \"CHECK IT MAN,\" and headphones sits in a studio setting. He is positioned behind a professional microphone. The background includes a white wall with \"HUSTLE\" and stars, and a dark screen displaying \"BOSS TALK 101.\" On-screen logos for \"BOSS TALK 101 PODCAST\" are visible in the lower corners. Throughout the sequence, the man is speaking and gesturing. He begins with his right hand extended, then raises both hands to adjust his headphones and cap. He wears a gold chain and a watch on his left wrist. The scene remains static in terms of location and equipment, with the only changes being the man's facial expressions and the movement of his arms and hands as he speaks."
+}

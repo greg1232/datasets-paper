@@ -1,0 +1,15 @@
+{
+  "video_id": "964ae6be6827bdc7147d75f71516d9a8",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-152.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.284,
+    0.851,
+    1.418,
+    1.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A healthcare professional wearing blue scrubs, a surgical mask, and a hair cover is working in a medical simulation setting. She is focused on treating a medical mannequin, which is partially visible and dressed in a hospital gown. The professional is using a handheld device, possibly a syringe or a small medical tool, to perform a procedure on the mannequin's torso. Throughout the sequence, she remains in the same position, carefully manipulating the equipment. The scene is overlaid with extensive text, including names like \"Mr. Tony Christiani,\" \"Mr. Dan Goodman,\" and \"Maj. Erika Nova,\" as well as \"CSTARS Simulation Lab\" and \"University of Maryland School of Medicine, Maryland Advanced Simulation, Training, Research and Innovation (MASTRI) Center.\" A QR code is visible in the lower right portion of the scene. The action is subtle, showing only slight movements of the provider's hands and head as she works."
+}

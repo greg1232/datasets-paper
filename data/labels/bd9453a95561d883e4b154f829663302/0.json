@@ -1,0 +1,15 @@
+{
+  "video_id": "bd9453a95561d883e4b154f829663302",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-414.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.462,
+    0.771,
+    1.079
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An American football game is played in a large stadium under bright lights, with \"COMMANDERS\" written across the turf. Players in white uniforms and players in black uniforms engage in a play on the field, marked with numbers such as \"60\" and \"50.\" An overlay at the top shows game statistics including \"1st & 10\", \"14\", \"7\", \"4th 3:58 21\", and \":20\". A small inset window in the corner features a blonde man wearing headphones and a dark blue shirt. As the sequence progresses, players collide and fall toward the ground while others continue running. A red circular graphic with a white \"X\" appears and moves across the field, tracking a player in a white uniform. In the final stages of the sequence, players are scattered across the turf, and the man in the inset window is speaking."
+}

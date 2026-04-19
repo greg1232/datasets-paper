@@ -1,0 +1,15 @@
+{
+  "video_id": "845a74334fc3293e0a2cc97098d8ab30",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.213,
+    0.638,
+    1.064,
+    1.489
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up sequence shows the rear bumper of a white Corvette. The vehicle features a prominent \"CORVETTE\" emblem in silver letters and a license plate that reads \"192 WTR\" with \"SUNSHINE STATE\" printed along the bottom edge. The license plate also contains a small graphic of a strawberry. Two dark, oval-shaped vents are located on either side of the emblem area. The camera angle shifts across the frames, starting with a close-up of the left side of the bumper, then panning slightly to center the license plate, and finally moving further to the right and tilting slightly. In the final view, a small red and white sticker is partially visible on the lower left side of the bumper. No people are present in the scene."
+}

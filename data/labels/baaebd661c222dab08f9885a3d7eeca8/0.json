@@ -1,0 +1,15 @@
+{
+  "video_id": "baaebd661c222dab08f9885a3d7eeca8",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-231.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.63,
+    1.89,
+    3.15,
+    4.41
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser displaying a complex conceptual map on a dark background. The map consists of various circular icons linked by curved blue lines, with labels such as \"Insights,\" \"Humanizing,\" and \"Invisible\" appearing next to the nodes. A browser tab is titled \"Trust & Learning by Systemenith,\" and another reads \"Future of Society by Systemenith.\" In the upper right corner, a small video inset features a man wearing a black baseball cap and a dark shirt, sitting in a room with a wall and a door visible behind him. As the sequence progresses, the man's expression remains relatively neutral while he looks toward the screen. The primary visual focus remains on the network map, which stays static across the frames, while the man in the video inset continues to observe the presentation."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0ea0c98b9f1c8d17d20377195b642778",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.55,
+    4.65,
+    7.75,
+    10.85
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, dressed in a dark suit, white shirt, and light-colored tie, speaks in a news studio. He is positioned in front of a blue background featuring a world map graphic and the text \"PLUS POLITICS.\" To his left is a red vertical banner containing a logo. A news ticker at the bottom of the screen displays the text \"PLUS POLITICS\" and \"NIGERIA NEEDS ME \u2013 BOLA TINUBU.\" Below this, the frames show different call-to-action text: \"FOLLOW US\" with social media icons and \"PLUSTVAFRICA,\" \"WATCH ON\" with \"DStv CH 408\" and \"StarTimes CH 308,\" \"WATCH ONLINE\" with \"WWW.PLUSTVAFRICA.COM/LIVE-TV,\" and \"SUBSCRIBE\" with \"WWW.YOUTUBE.COM/PLUSTVAFRICA.\" As the sequence progresses, the man maintains his position, though his facial expressions and hand gestures change slightly as he speaks, while the informational text at the very bottom of the screen cycles through different platforms."
+}

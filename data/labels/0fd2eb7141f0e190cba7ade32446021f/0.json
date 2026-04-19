@@ -1,0 +1,15 @@
+{
+  "video_id": "0fd2eb7141f0e190cba7ade32446021f",
+  "url": "./data/segments/3VCwl-aQ_oQ-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.583
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen capture shows a browser window displaying a \"List Randomizer\" page from RANDOM.ORG. The page lists numbers 1 through 10 in a randomized sequence: \"1. 9\", \"2. 5\", \"3. 9\", \"4. 6\", \"5. 4\", \"6. 6\", \"7. 4\", \"8. 7\", \"9. 2\", and \"10. 1\". An advisory banner at the top states, \"Advisory: We only operate services from the RANDOM.ORG domain.\" Below the list, a timestamp reads \"2023-11-23 03:24:00 UTC\". Overlaid on the right side of the browser is a Twitch chat window. One message from \"nogest\" reads, \"i think if you are a team signing Ohtani, you are going all in on everyone you can everyone you can,\" and a message from \"Nightbot\" says, \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE >>> https://rb.gy/Nze6eK9\". A small webcam feed in the bottom right shows a man with a beard wearing a black shirt. At the bottom of the screen, a red banner for \"CASEBREAKS.COM\" is visible. The scene remains static across the frames."
+}

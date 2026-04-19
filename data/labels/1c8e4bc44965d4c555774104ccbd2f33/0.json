@@ -1,0 +1,15 @@
+{
+  "video_id": "1c8e4bc44965d4c555774104ccbd2f33",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-095.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.584,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is pouring a liquid from a white, matte-finished water bottle into a small white cup. The scene takes place indoors, likely inside a vehicle, as a car interior and a window showing greenery are visible in the background. The person uses their left hand to hold and tilt the bottle and their right hand to steady the cup, which features the logo \"MIR\" printed in a simple, sans-serif font. The person is wearing a gold ring on their right ring finger. Across the sequence of frames, the bottle remains tilted in a consistent position, and a thin stream of clear liquid flows steadily into the cup. There is very little movement between the frames, with the primary action being the continuous pour of the liquid into the vessel."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "062addf602b4fde0102f716c31e46162",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-117.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.42,
+    7.26,
+    12.1,
+    16.94
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording of a video conference call shows a man with glasses and a blue shirt in a small overlay window in the top right. The main screen displays a digital concept map with various circular icons connected by blue lines on a dark background. Text labels accompany the connections, including \"Develops,\" \"Influences,\" and \"Informs.\" Specific labels within the map include \"Individual,\" \"Interpersonal,\" \"Institutional,\" and \"Societal.\" The web browser at the top shows multiple open tabs, including one titled \"Trust & Learning by Systemency\" and another titled \"Rural Community Food System.\" A mouse cursor moves across the concept map, drifting toward the center. As the sequence progresses, the man in the video feed remains largely stationary, while the cursor continues to shift slightly across the dark interface, navigating through the interconnected nodes of the diagram."
+}

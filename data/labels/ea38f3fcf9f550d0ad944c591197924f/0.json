@@ -1,0 +1,15 @@
+{
+  "video_id": "ea38f3fcf9f550d0ad944c591197924f",
+  "url": "./data/segments/3a0FD1177FA-Scene-074.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.328,
+    0.985,
+    1.642,
+    2.299
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown working on a craft project atop a white gridded cutting mat. In the first frame, the person holds a plain brown rectangular strip of cardstock. As the sequence progresses, they replace the brown strip with a floral-patterned strip featuring yellow, white, and green tones. In the second frame, the person holds the floral strip horizontally across the mat. In the third frame, the strip is tilted diagonally as they position it. By the final frame, they are aligning the floral strip vertically on the mat. Nearby objects include a purple floral patterned piece of paper, a black ink pad, and a white piece of paper. The logo \"Stamping Jill\" is visible in the bottom left corner of the frames. The person is wearing a white watch on their left wrist."
+}

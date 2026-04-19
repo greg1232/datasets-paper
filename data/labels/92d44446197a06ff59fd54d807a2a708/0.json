@@ -1,0 +1,15 @@
+{
+  "video_id": "92d44446197a06ff59fd54d807a2a708",
+  "url": "./data/segments/3Smz5pevbI4-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    40.812,
+    122.435,
+    204.058,
+    285.681
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short grey hair and glasses, wearing a dark suit, light-colored shirt, and a dark tie, is speaking at a podium. He is positioned in front of a neutral-colored backdrop featuring the repeated text \"INSTITUTE OF PEACE\" and a circular logo depicting a stylized tree. In the early stages of the clip, he looks down at notes on the podium. As the scene progresses, he looks up and speaks, with his mouth open and his expression shifting. A name tag is visible on his lapel. Toward the end of the sequence, a blue graphic overlay appears at the bottom of the screen containing the text \"Timothy Phillips\" and \"Co-Founder and Chairman of the Board Beyond Conflict\". The man continues to speak and begins to gesture with his left hand."
+}

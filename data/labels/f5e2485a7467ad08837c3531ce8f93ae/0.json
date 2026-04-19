@@ -1,0 +1,15 @@
+{
+  "video_id": "f5e2485a7467ad08837c3531ce8f93ae",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-557.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits in a recording studio, wearing a white baseball cap, a black hoodie with \"BOSS TALK\" printed in gold across the chest, and a gold chain and watch. He is wearing large headphones and is positioned in front of a professional microphone on a boom arm. To his right, a black mug is visible with red and white text that reads \"BOSS TALK 101\". The background features a white wall with a recurring logo consisting of five stars and the text \"UNIQUE HUSTLE\". Above him, a blue and red sign reads \"BOSS TALK 101\" and \"Where BOSSES Talk!\". Throughout the sequence, the man remains seated, looking slightly to his left with a focused expression. His posture and position remain largely static, with only minor shifts in his head tilt as he listens or prepares to speak."
+}

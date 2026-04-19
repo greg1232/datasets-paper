@@ -1,0 +1,15 @@
+{
+  "video_id": "37caada603ebf2fea1504c59cc3dfd22",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.42,
+    1.26,
+    2.1,
+    2.94
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a dark blue background featuring white text. The text is centered in four distinct areas, with each area containing the exact same phrasing: \"Lecture No. 11\" on the top line, and \"Gas Liquefaction and Refrigeration Systems\" on the two lines below it. There are no people, clothing, actions, or physical objects visible in the scene. There are no logos present. Throughout the duration of the clip, the image remains completely static, with the text and the background color showing no changes in position, size, or appearance across all frames."
+}

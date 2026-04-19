@@ -1,0 +1,15 @@
+{
+  "video_id": "a82371c5f9ea638b8dba128b3c5b405d",
+  "url": "./data/segments/3F2rz23IKUk-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.33,
+    0.55,
+    0.77
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a classroom or lecture hall, two men stand at the front of the room before a projection screen. One man wears a black t-shirt with a yellow logo and glasses, while the other wears a black polo shirt and khaki pants. The man in the polo shirt holds a handheld remote and gestures toward a projection screen that displays a list of points, including a line of text that reads \"1. Linear Feedforward Control\". In front of them is a long table cluttered with papers, a laptop, and a water bottle. As the sequence progresses, the man in the polo shirt shifts his position, moving across the stage toward the right. In the foreground, the backs of several audience members' heads are visible, including a woman in a pink shirt. The lighting is bright and consistent throughout the scene."
+}

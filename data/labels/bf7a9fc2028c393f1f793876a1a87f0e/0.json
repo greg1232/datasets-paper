@@ -1,0 +1,15 @@
+{
+  "video_id": "bf7a9fc2028c393f1f793876a1a87f0e",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.709,
+    0.993
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot captures the corner of a red and black automotive seat. The seat features a vibrant red fabric upper section and a black leather or synthetic material lower bolster, separated by a red stitched seam. The camera remains nearly stationary, though it shifts slightly in perspective across the sequence. The lighting creates a soft sheen on the black material, highlighting its smooth texture and the precision of the red stitching along the bottom edge. No people, text, or logos are visible in the scene. The only change between the frames is a subtle movement of the camera angle, which slightly alters the reflection of light on the curved surface of the black bolster and the depth of field on the red fabric."
+}

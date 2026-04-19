@@ -1,0 +1,15 @@
+{
+  "video_id": "d2d944dd128cdd3c4a31a6e556e95d3e",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.526
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A security camera captures a grainy, low-light view of an outdoor ground surface, likely gravel or dirt, leading toward a paved area. In the background, a small white object, possibly a bottle, sits next to a thin metallic structure resembling a stool or stand. A dark figure partially enters the frame from the left edge, though only a portion of their body is visible. The scene remains largely static across the sequence, with minimal movement from the figure. In the bottom-left corner of each view, a small red and white overlay displays the text \"Cam 04\" next to a muted microphone icon. The overall image quality is blurry and muted in color, characteristic of a nighttime surveillance feed."
+}

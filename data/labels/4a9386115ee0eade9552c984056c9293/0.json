@@ -1,0 +1,15 @@
+{
+  "video_id": "4a9386115ee0eade9552c984056c9293",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-153.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a light-colored shirt is featured in a screen-sharing presentation. The main part of the screen displays a dark background with a network diagram consisting of several circular nodes connected by thin lines. One node contains a portrait of the man, while others contain smaller icons. Blue and green lines connect some nodes, with legible text labels such as \"Positive\" and \"Negative\" appearing alongside the connections. In the top right corner, a small video feed shows the man speaking, wearing a dark cap. Browser tabs are visible at the top of the screen, including titles like \"Trust & Learning by Systemic,\" \"Future of Society by Systemic,\" and \"Rural Community Food Spot.\" Across the sequence, the man in the small video feed continues to speak and gesture slightly, while the main presentation screen remains static, showing the same conceptual map."
+}

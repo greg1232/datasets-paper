@@ -1,0 +1,15 @@
+{
+  "video_id": "633388d2f61260c297386522c4f7652d",
+  "url": "./data/segments/3Z229_lKLpk-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.705,
+    1.175,
+    1.645
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people are seated in a tiered assembly hall with wood-paneled walls and long benches. The attendees are predominantly men dressed in a variety of attire, including white button-down shirts, traditional Indian kurtas, and occasional jackets or vests in blue and black. Some individuals are wearing glasses. The people are seated in rows, facing forward, and remain largely stationary throughout the sequence. There is very little movement between the frames, with some minor shifts in posture and head positions among the participants. No on-screen text, logos, or specific equipment are visible in the scene, which focuses entirely on the crowd within the structured seating of the hall."
+}

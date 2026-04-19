@@ -1,0 +1,15 @@
+{
+  "video_id": "fb0b967ab83eb2ebb6bffb5736cc454f",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-387.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.24,
+    0.719,
+    1.198,
+    1.677
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game simulation of an American football game takes place in a large stadium filled with spectators. On a green field marked with white lines and yard markers, players in white and blue uniforms face off against players in red and black uniforms. In the foreground, a small inset window shows a blond man wearing a dark blue shirt and white headphones. Across the top of the screen, a scoreboard displays \"2nd & 8\", the score \"14\" and \"7\", and the time \"2:03\" and \"3rd\", with a clock reading \":13\" in the first frame and \":30\" in the final frame. As the play progresses, the players move across the field, and a red banner appears at the bottom with the text \"THROW AWAY\". The scene shifts from a wide view of the field to a closer perspective of the players in action, while the man in the inset continues to observe the game."
+}

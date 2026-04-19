@@ -1,0 +1,15 @@
+{
+  "video_id": "4bd3187a9b111cc8b228a0a7dc140b19",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.877,
+    5.631,
+    9.384,
+    13.138
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man named Basil Chapman appears in a video recording against a plain, light-colored wall. He has grey hair and wears a black t-shirt and a headset with a thin wire running down his side. He is speaking, with his facial expressions and mouth position shifting slightly across the sequence. A blue graphic banner spans the lower portion of the screen. In the first two frames, the banner contains the text \"Basil Chapman\" and \"The Tiger Technicians Hour | June 8th, 2022\". In the latter two frames, the banner updates to display \"Basil Chapman\" and a phone number, \"1-877-927-6648\". The logo \"Tiger-TV\" is visible in the upper right and middle right sections of the screen. To the right of the man, a small portion of a desk with some blue folders or papers is partially visible."
+}

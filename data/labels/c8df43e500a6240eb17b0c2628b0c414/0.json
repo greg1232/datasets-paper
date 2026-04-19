@@ -1,0 +1,15 @@
+{
+  "video_id": "c8df43e500a6240eb17b0c2628b0c414",
+  "url": "./data/segments/3Kxl1O310k8-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    50.03,
+    150.09,
+    250.15,
+    350.21
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation video focuses on affordable housing finance for Massachusetts Communities. In the top-left frame, a slide titled \"Learn about affordable housing finance\" displays a \"HOUSING TOOLBOX\" logo and suggests that users \"Engage a developer\" by inviting one to walk through a \"real development pro forma.\" The top-right frame transitions to a \"planning framework\" under the heading \"What do you want to accomplish?\" which lists \"GOALS,\" \"STRATEGIES,\" and \"TASKS\" alongside simple black icons. Moving to the bottom-left, the slide provides an \"Example of (measurable) goals,\" listing targets such as creating \"100 units of low/moderate income rental and homeownership housing units over the next five years\" and raising \"$1 million annually from 2022 \u2013 2027 for a total of $5M.\" Finally, the bottom-right frame discusses \"Determining how the trust will function,\" showing a document titled \"BEVERLY AFFORDABLE HOUSING TRUST\" and a list of \"Common elements of guidelines.\" A small video inset of a man in a blue shirt appears in the upper right of each frame."
+}

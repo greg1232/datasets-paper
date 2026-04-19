@@ -1,0 +1,15 @@
+{
+  "video_id": "e8cea213b0f61a55f5a231fd402a10bf",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-307.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.005,
+    6.015,
+    10.025,
+    14.035
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This image is a composite of a video conference call featuring multiple participants in a grid layout. The participants are predominantly men in casual attire, such as t-shirts and button-downs, appearing in various home office settings with bookshelves and neutral walls in the background. Throughout the sequence, the people remain in their respective video tiles, showing slight changes in posture and facial expressions as they listen and interact. Legible on-screen text identifying participants includes \"Jerry McHally,\" \"Howard Silverman,\" \"Reggie Billups,\" \"Patrice Murzyn,\" \"Era_collaborate,\" and \"Am Burke.\" Some individuals are wearing headsets or glasses. The scene is static in terms of location and composition, with the primary motion being the subtle movements of the people talking and listening within their individual video frames."
+}

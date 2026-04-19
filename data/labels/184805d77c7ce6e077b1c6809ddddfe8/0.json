@@ -1,0 +1,15 @@
+{
+  "video_id": "184805d77c7ce6e077b1c6809ddddfe8",
+  "url": "./data/segments/3jaAcpqJEbg-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.546,
+    4.638,
+    7.729,
+    10.821
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is giving a presentation in a dark setting, appearing in a small inset window on the left side of the screen. He is wearing a dark suit jacket and a light-colored shirt. Behind him is a blue backdrop with the logo \"hasgeek\" and \"rootconf.\" The main portion of the screen displays a presentation slide with a dark background and the \"exotel\" logo at the top. The central text on the slide reads \"Handling Logs, Events and Metrics Using Heka,\" followed by the presenter's name, \"Siddharth Ramesh,\" and his contact information, \"sid@exotel.in / @sidramesh.\" Small copyright text at the bottom states, \"All rights reserved. Exotel Techcom Pvt. Ltd. \u00a9 2016.\" Throughout the sequence, the slide remains static while the man in the inset window shifts his posture and gestures slightly, indicating he is speaking during the presentation."
+}

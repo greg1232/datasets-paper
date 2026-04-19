@@ -1,0 +1,15 @@
+{
+  "video_id": "77a9021a3a312e699d48995d0493be97",
+  "url": "./data/segments/3F2rz23IKUk-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.33,
+    0.99,
+    1.65,
+    2.31
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with brown hair and glasses, wearing a black t-shirt with a yellow graphic and the word \"Keith\" printed on it, stands in an indoor setting with neutral-colored walls. He wears a blue lanyard around his neck. In the initial sequence, he holds a white rectangular box in his right hand while gesturing with his left hand. As the scene progresses, he brings the box closer to his body and tilts it downward, eventually holding it with both hands to show the front of the packaging to the camera. The box features a blue and white design with an image of a device on its face. The background remains consistent, showing a portion of a black chair and a light-colored wall, as the man focuses his attention on the object he is presenting."
+}

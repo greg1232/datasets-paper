@@ -1,0 +1,15 @@
+{
+  "video_id": "cdc120cabe92eadadedf423f9d760ff4",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-139.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.26,
+    0.781,
+    1.302,
+    1.823
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair, wearing round glasses, a gold chain, and a dark blue patterned shirt, is seated in a room with light-colored wooden walls. He wears large silver headphones and speaks into a black microphone positioned in front of him. To his left is a decorated Christmas tree with colorful lights. Behind him is a framed blue display that features the number \"20\" and several smaller images. As the sequence progresses, the man continues to speak, with his facial expressions and mouth movements shifting slightly across the frames. He maintains a steady gaze forward while talking. The background remains static throughout the clip, with the lighting and positioning of the objects remaining consistent as the man's head moves slightly while he speaks."
+}

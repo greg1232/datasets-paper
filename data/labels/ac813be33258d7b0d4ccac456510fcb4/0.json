@@ -1,0 +1,15 @@
+{
+  "video_id": "ac813be33258d7b0d4ccac456510fcb4",
+  "url": "./data/segments/3hLeTO8SC3U-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.939,
+    5.818,
+    9.697,
+    13.576
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing glasses, a light-colored shirt, a tie, and a dark blue suit jacket stands in a professional indoor setting with a blurred white and gray background. In the initial frames, a graphic overlay appears at the bottom of the screen containing the text \"MONGODB WORLD 2022\", \"#MDW22 | #theCUBE\", and \"theCUBE From the Javits Center, New York, NY\", alongside a blue cube logo. A separate \"Sponsored By MongoDB\" logo is visible on the right. The man is speaking and smiling towards the camera. The scene then transitions to a dark blue digital background featuring circuit-like patterns. This screen displays a blue cube logo with the text \"go to theCUBE.net\" and a red YouTube play button icon next to the text \"Subscribe to iconANGLE theCUBE\"."
+}

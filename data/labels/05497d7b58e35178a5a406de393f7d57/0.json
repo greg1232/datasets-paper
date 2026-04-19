@@ -1,0 +1,15 @@
+{
+  "video_id": "05497d7b58e35178a5a406de393f7d57",
+  "url": "./data/segments/3QD9oO6sRns-Scene-138.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.123,
+    0.369,
+    0.615,
+    0.86
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand reaches out to touch a white cardboard box featuring several logos and a barcode. The box sits on a white surface next to another, smaller, wrapped box. In the background, a white banner displays the logo \"JASPRO\" and the phrase \"Sports Cards & Collectibles.\" A small inset video in the lower right corner shows a man wearing a white baseball cap and a black t-shirt, watching the action. The word \"CLEARLY\" is printed in large, bold letters on the side of the main box, alongside the words \"AUTHENTIC\" and \"HEAKS.\" As the sequence progresses, the hand moves across the top of the white box, eventually gripping the corner to lift or shift the packaging. The scene remains focused on the hands interacting with the sports card boxes while the man in the inset window remains a passive observer."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "67b7bea1f3c798b44434f3877d0f4991",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-146.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.131,
+    0.394,
+    0.656,
+    0.919
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, wearing glasses, white headphones, and a navy blue sweater, sits in front of a microphone in an indoor setting. He is positioned in front of a light-colored wall and a screen displaying a blue interface with the number \"20\" clearly visible. To his left, a green Christmas tree decorated with colorful blue, red, and yellow lights is partially visible. Across the sequence, the man is speaking, with his mouth opening and closing and his facial expression shifting slightly. His hands are positioned near the microphone, and he appears to be adjusting the equipment or gesturing as he talks. The background, including the decorated tree and the screen, remains static throughout the clip while the man's subtle movements and changing expressions provide the only motion in the scene."
+}

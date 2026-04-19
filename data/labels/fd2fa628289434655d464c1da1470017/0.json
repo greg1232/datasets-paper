@@ -1,0 +1,15 @@
+{
+  "video_id": "fd2fa628289434655d464c1da1470017",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-151.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.296,
+    0.888,
+    1.479,
+    2.071
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a video game menu for a football team \"LINEUP\" with various player cards arranged in a formation. The top of the interface shows several numerical values and indicators, including \"173,037,\" \"0,\" \"14,659,\" \"2,343,543,\" \"LVL 19,\" and \"S1.\" The menu options \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS\" are listed across the top left. In the bottom left corner, a small video overlay shows a blonde man wearing a black t-shirt and headphones, sitting in a room with a decorated Christmas tree in the background. Across the frames, the man's facial expression shifts from a neutral look to an open-mouthed expression of excitement or surprise. The game menu remains static, showing player cards with various ratings and positions, while the \"BEST LINEUP\" and \"HELP\" prompts are visible at the bottom."
+}

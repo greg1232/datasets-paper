@@ -1,0 +1,15 @@
+{
+  "video_id": "9a79a318c7bc3122fe0b93e60fc8cdcb",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-119.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.605,
+    1.814,
+    3.024,
+    4.233
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a neutral-toned indoor setting, three people are seated in chairs against a plain wall. A woman on the left wears a black long-sleeved shirt with a yellow \"M\" logo and blue pants; she holds a piece of paper and looks toward a man seated in the center. This man wears blue scrubs, a blue face mask, and an ID badge, resting his arm on the chair's back. To the right, another man in a black t-shirt and pink pants sits with his hand to his face. A woman's head is partially visible on the far right. The purple text \"Day 5\" appears in the bottom left, and the text \"Sim Week\" with a small icon appears in the bottom right of each frame. Across the sequence, the woman on the left remains engaged with the man in blue, while the man in pink remains in a contemplative pose, and the woman on the far right shifts her gaze."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "fa679c829b3ed1f4cb972517745e78cd",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-240.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.975,
+    1.625,
+    2.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a sports trading card featuring a baseball player and a signature, positioning it above a white storage box. The card is predominantly white and green with gold borders. In the background, a smaller inset window shows a man with a beard wearing a blue t-shirt with a yellow logo, sitting at a desk. On-screen text includes the logos \"JASPYS\" and \"CASEBREAKS.COM\". As the sequence progresses, the hand moves the card, eventually placing it onto a yellow sleeve resting atop the white box. The background remains consistent, showing a colorful patterned surface beneath the box and the man in the inset window continuing to observe the action. By the final scene, the card is fully resting on the yellow surface, and the hand has moved away."
+}

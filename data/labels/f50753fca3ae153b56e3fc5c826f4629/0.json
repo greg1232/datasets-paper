@@ -1,0 +1,15 @@
+{
+  "video_id": "f50753fca3ae153b56e3fc5c826f4629",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-684.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt and a matching green baseball cap is seated at a desk in what appears to be a clothing store or studio. He is positioned in front of two microphones on boom arms and is speaking, with his mouth open and hands gesturing. In the background, clothing racks are visible, along with large posters featuring a man in a blue sweatshirt. One poster clearly displays the text \"UNIQUE FASHIONS\" and \"VISUAL REALITY\". A desk in front of him has text that reads \"ERE BOSSES TA\" and \"T'S TAI\". A small red and white logo is visible in the lower-left corner of the scene. Across the sequence of frames, the man remains in the same position, continuing to speak and gesture with his hands, while the background and equipment remain static."
+}

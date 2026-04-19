@@ -1,0 +1,15 @@
+{
+  "video_id": "96f014966e5550541fcd318e929437f2",
+  "url": "./data/segments/3Smz5pevbI4-Scene-072.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    13.609,
+    40.828,
+    68.047,
+    95.266
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands at a podium in a professional setting, delivering a presentation. He is dressed in a light-colored button-down shirt, a gray blazer, and dark brown trousers, with an identification badge hanging around his neck. Behind him are two flags: the American flag and a blue flag with an emblem. The background features a wall displaying the repeated text \"UNITED STATES INSTITUTE OF PEACE\". As the sequence progresses, the man uses active hand gestures to emphasize his points, shifting his arms from an open, welcoming posture to a more focused, explanatory motion. He remains standing in the same position throughout the clip, speaking to an unseen audience. The lighting is bright and consistent, highlighting the corporate branding and the speaker's professional attire as he interacts with the space."
+}

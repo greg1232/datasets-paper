@@ -1,0 +1,15 @@
+{
+  "video_id": "42a8f60701c5c6726e412b58069df784",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-087.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.25,
+    3.75,
+    6.25,
+    8.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a brown jacket over a light-colored shirt, speaks into a microphone labeled \"ANI\" while standing outdoors against a blurred backdrop of trees and a building. The scene is overlaid with news graphics including the logo for \"NEWS 18\" and various headshots of political figures. Across the top of the frames, red banners display the text \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\". Other text boxes identify people as \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\", \"\u092e\u0902\u0924\u094d\u0930\u0940\", and \"\u0921\u093f\u092a\u094d\u091f\u0940 CM\". The lower third of the screen features a red ticker; it initially reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930: BJP \u0915\u0947 \u0938\u093e\u0925 \u092a\u0939\u0932\u0947 \u092d\u0940 \u0925\u0947\" and later changes to \"\u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930: \u0939\u092e \u091c\u0939\u093e\u0901 \u0925\u0947 \u092b\u093f\u0930 \u0935\u0939\u0940\u0902 \u0906 \u0917\u090f\". The time stamp in the corner progresses from \"10:04 PM\" to \"10:05 PM\". Throughout the sequence, the man remains in the same position, gesturing with his hands as he speaks."
+}

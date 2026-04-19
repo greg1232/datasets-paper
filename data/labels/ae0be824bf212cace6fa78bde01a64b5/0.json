@@ -1,0 +1,15 @@
+{
+  "video_id": "ae0be824bf212cace6fa78bde01a64b5",
+  "url": "./data/segments/3JYDT8lap5U-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.28,
+    3.84,
+    6.4,
+    8.96
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard, wearing a white shirt and a dark blazer, stands on a stage during a presentation. He is positioned to the left of a large projection screen that displays a dark blue background with a white geometric network pattern. The screen contains white text that reads \"TODAY: INDUSTRY-READY ML,\" followed by a list including \"Overview & caveats in scaling data pipelines,\" \"Airflow components (Celery, ML models, etc.),\" \"Introducing difference between ML & Data Pipelines,\" \"Overview of Airflow + Usecase,\" and \"THE BIG PICTURE.\" At the bottom of the presentation area, a logo for \"europython\" is visible next to the text \"Edinburgh 23-29 July 2018.\" Throughout the sequence, the man remains in the same position, gesturing with his hands as he speaks. The content on the screen and the man's position remain constant, with only subtle changes in his posture and hand movements."
+}

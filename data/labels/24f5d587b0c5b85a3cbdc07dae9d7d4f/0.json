@@ -1,0 +1,15 @@
+{
+  "video_id": "24f5d587b0c5b85a3cbdc07dae9d7d4f",
+  "url": "./data/segments/3Z229_lKLpk-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.825,
+    1.375,
+    1.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large assembly hall with high ceilings and ornate lighting fixtures is filled with a crowd of people seated in rows. The attendees are predominantly dressed in white clothing, and they are seated in a tiered arrangement facing a raised podium at the front. The room's architecture features a light-colored, patterned wall behind the podium and large screens flanking the stage that display images of the event. Between the frames, the scene remains virtually static; the crowd remains seated and attentive, and there are no significant changes in position or action among the participants. The overall atmosphere is formal and structured, with the audience oriented toward the front of the hall. No legible text or logos are visible on the screens or within the setting."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1fef6de379f2548a7715c2747253dff6",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-525.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.136,
+    0.407,
+    0.678,
+    0.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, over-ear headphones, and a dark green t-shirt sits in front of a professional microphone. His t-shirt features the text \"ION NEVER DO SHIT\" in white lettering. He is speaking, with his mouth open and expression shifting slightly as he talks. The setting appears to be a clothing store or studio, with framed photos on the wall behind him and a white mannequin wearing a garment to his right. Clothing racks are visible in the background. In the bottom left corner, a logo reads \"REAL TALK,\" and in the bottom right, text says \"REAL TALK 101.\" Across the sequence, the man remains in the same position, and the background elements stay static, while his facial movements and slight shifts in posture indicate he is in the middle of a conversation."
+}

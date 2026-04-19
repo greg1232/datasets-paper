@@ -1,0 +1,15 @@
+{
+  "video_id": "3d897ccd6f42b556fc096aecfb0ab26a",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark skin and a shaved head is shown in a close-up shot, wearing a light-colored collared shirt. He is positioned in front of a dark background that appears to be a sports stadium, with blurred lights and red seating visible. The logo of Real Madrid is displayed in the upper right corner. Across the bottom of the screen, subtitles in two languages are present: \"haber marcado mi primer gol con el Real Madrid,\" and \"I scored my first goal with Real Madrid.\" As the video progresses, the man maintains a steady gaze toward the camera. His facial expression shifts slightly; while he initially appears solemn with his lips closed, he eventually opens his mouth as if speaking. The lighting on his face remains consistent, highlighting his features against the dim background."
+}

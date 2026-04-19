@@ -1,0 +1,15 @@
+{
+  "video_id": "e623c1466b2c11f2077e6ab2c66f2564",
+  "url": "./data/segments/3Kxl1O310k8-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    14.405,
+    43.215,
+    72.025,
+    100.835
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide is displayed on a screen, featuring a white background with a yellow banner at the top and bottom. At the top, the text \"Decide critical elements upfront\" is written in black, accompanied by a large yellow square containing the number \"4\". Below this header, three columns each feature a yellow icon and a corresponding question. The first column shows an icon of three people and asks, \"How will the boards work together?\". The second column displays a hierarchical organizational icon and asks, \"What does each need from the other?\". The third column shows an icon of money and asks, \"Can CPA funds pay for administrative costs of the trust?\". In the corners of the screen, small video windows show a person in a dark shirt speaking. The image remains static across the sequence, with no changes in the content, layout, or the person visible in the small video windows."
+}

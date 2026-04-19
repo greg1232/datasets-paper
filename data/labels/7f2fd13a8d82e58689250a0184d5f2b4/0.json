@@ -1,0 +1,15 @@
+{
+  "video_id": "7f2fd13a8d82e58689250a0184d5f2b4",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.358,
+    1.075,
+    1.792,
+    2.508
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser open to a Grafana dashboard featuring a \"Loki Cheat Sheet.\" The interface is in dark mode, displaying various sections of documentation including \"See your logs,\" \"Combine stream selectors,\" \"Filtering for search terms,\" \"Count over time,\" and \"Rate.\" Legible text includes headers such as \"Loki Cheat Sheet\" and instructions like \"See your logs\" and \"Alternatively, you can write a stream selector into the query field.\" A query bar at the top contains a complex LogQL query string. In the top right corner of the browser window, a small video call inset shows a man with short dark hair wearing a white shirt. Throughout the sequence, the user scrolls down the page, shifting the view from the top of the cheat sheet to the lower sections, while the man in the video inset remains visible and largely stationary."
+}

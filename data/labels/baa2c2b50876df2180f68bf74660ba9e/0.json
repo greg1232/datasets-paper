@@ -1,0 +1,15 @@
+{
+  "video_id": "baa2c2b50876df2180f68bf74660ba9e",
+  "url": "./data/segments/3fokLGPK15Q-Scene-062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large stage is set up for an event, featuring a massive circular screen in the center displaying the white text \"SLUSH\". A smaller circular screen to the left shows a woman with blonde hair. The stage is illuminated by dynamic, intersecting beams of purple and blue light that crisscross the space. On the stage, a small group of people stands behind a podium and some equipment, though they are small in the frame and their clothing is not clearly detailed. A curved, gold-colored railing borders the front of the performance area. Across the sequence, the lighting beams shift and sweep across the stage, and the image on the smaller screen changes slightly, but the overall composition of the scene remains consistent."
+}

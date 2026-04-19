@@ -1,0 +1,15 @@
+{
+  "video_id": "3b21816464cd9abe0939881633fab53d",
+  "url": "./data/segments/3HgCF6yVXko-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.863,
+    2.588,
+    4.312,
+    6.038
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a camera panning across the upper hallway of a residential home with light yellow walls and polished beige floor tiles. The scene features a wooden door on the left and a black wrought-iron railing that borders a staircase leading downstairs. In the initial frames, the camera is positioned further back, showing more of the hallway and a second open doorway in the distance. As the sequence progresses, the camera moves forward and slightly to the right, creating a closer view of the decorative swirls of the iron railing. The lighting is bright and consistent across the space, originating from ceiling fixtures. No people, text, or logos are visible throughout the sequence; the focus remains entirely on the architectural details of the empty interior space as the perspective shifts."
+}

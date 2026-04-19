@@ -1,0 +1,15 @@
+{
+  "video_id": "bb2c0a05bb26120fce84cb3a67161529",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-307.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.5,
+    2.5,
+    3.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is being played in a large stadium with a crowd in the background. The players on the field wear white, black, and red uniforms. In the early frames, the players are clustered together at the line of scrimmage, while in the later frames, they disperse as a play unfolds. The field features yellow end zones with the text \"COMMANDERS\" and \"WORLD CHAMPIONS\" written in red. A digital scoreboard at the top shows the time as \"4:00\" then \"3:59\" in the second quarter, and displays the text \"1st & Goal\". A smaller inset window shows a man with blond hair wearing headphones and a dark shirt; his expression shifts from a neutral look to an open-mouthed, surprised expression. On-screen overlays in the final frames show the usernames \"Weaponz\" and \"Bludsoe\"."
+}

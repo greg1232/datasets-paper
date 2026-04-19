@@ -1,0 +1,15 @@
+{
+  "video_id": "6191cf2c66a0ee4e15c5045af31bdd12",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.742,
+    2.225,
+    3.708,
+    5.192
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large, well-lit indoor hall with high ceilings, elegant chandeliers, and a blue carpeted floor, a group of people are practicing martial arts. Several practitioners are dressed in traditional uniforms: some wear bright yellow outfits, while others are in deep blue. They are engaged in a choreographed sequence using long, thin staffs. A practitioner in yellow leads the movement, wielding a staff with fluid motions, while those in blue move in synchronization or opposition around them. In the background, a crowd of spectators is seated at tables, watching the demonstration. As the sequence progresses, the practitioners shift their stances and positions across the blue floor, with the person in yellow transitioning from a standing posture into a deep, lunging stride while continuing to maneuver the staff. The background remains static, focusing the action on the dynamic movement of the martial artists."
+}

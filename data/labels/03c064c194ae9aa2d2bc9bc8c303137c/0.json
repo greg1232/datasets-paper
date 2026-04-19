@@ -1,0 +1,15 @@
+{
+  "video_id": "03c064c194ae9aa2d2bc9bc8c303137c",
+  "url": "./data/segments/3MlPpqgmbYA-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.537,
+    1.612,
+    2.688,
+    3.762
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and glasses, wearing a black button-down shirt, speaks directly to the camera in an indoor setting. Behind him hangs a piece of artwork depicting a brown, patterned vessel against a wooden background. In the beginning, he gestures with both hands open and raised to emphasize his speech. As the scene progresses, he lowers his hands and remains centered in the frame, continuing to talk with an expressive facial expression. His mouth opens and closes as he speaks, and his eyes remain focused forward. There are no other people, objects, equipment, on-screen text, or logos visible in the scene. The only changes across the sequence are the man's hand movements and the shifting expressions on his face as he delivers his message."
+}

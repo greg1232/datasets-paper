@@ -1,0 +1,15 @@
+{
+  "video_id": "884e842092b0330449262d2ec6b6174d",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.546,
+    1.639,
+    2.732,
+    3.825
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view of a car's digital instrument cluster shows a tachometer on the left and a central information display. The tachometer features a red needle and white numbering, with \"RPM x1000\" printed at the bottom. The central display is black with white text that reads, \"BRAKE Press Brake and Push Button to Start,\" accompanied by a red brake icon and the odometer reading \"20434 mi\". Across the sequence, the scene remains largely static, showing the dashboard in a state of readiness before the engine is started. Small red light reflections or indicators appear intermittently at the top of the display. The lighting remains consistent, and no people, clothing, or movements are visible, focusing entirely on the vehicle's internal electronic interface."
+}

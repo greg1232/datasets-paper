@@ -1,0 +1,15 @@
+{
+  "video_id": "a6b17595e71f73903b1f5745cdd98a46",
+  "url": "./data/segments/3QD9oO6sRns-Scene-140.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.26,
+    0.781,
+    1.302,
+    1.823
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen interacting with Topps sports card boxes on a table. The scene takes place in a room where the table is covered with a mat featuring the \"JASPYS CASEBREAKS\" logo. In the foreground, a person's hands move a dark blue box that reads \"Topps CLEARLY AUTHENTIC 2020\". The box also features text stating \"ONE ENCASED AUTOGRAPH CARD PER BOX\". Other similar blue and white boxes are visible in the background. A small inset video in the corner shows a man wearing a black t-shirt and a baseball cap, who appears to be the presenter. As the sequence progresses, the hands shift the \"CLEARLY AUTHENTIC\" box across the surface of the \"JASPYS CASEBREAKS\" mat, moving it from the left side of the frame toward the right. The background remains constant, showing white walls and additional card packaging."
+}

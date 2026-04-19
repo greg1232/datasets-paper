@@ -1,0 +1,15 @@
+{
+  "video_id": "2e8f50589329d29ccf961a5c16fcc2e4",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.685,
+    8.055,
+    13.425,
+    18.795
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call interface displays a grid of twelve participants across four repeating sets of frames. The layout consists of three rows of four people. Notable participants include \"Jerry Michalak,\" a man in a blue shirt and glasses; \"Roland Sorensen,\" a man in a gray shirt; and \"Daan,\" a woman in a black top. Other labels include \"Susan Bucky,\" \"Charles Mass,\" \"Patrick Martyn,\" \"Dirk Lajan,\" \"Era_unstablebore,\" \"Jim Burke,\" and \"Jean-Jean van de Vyver.\" Some participants wear headsets, and one person's feed is replaced by a blue and white graphic of a stylized bird. Throughout the sequence, the participants remain in their respective frames, though some shift their posture or gaze slightly. The scene is static, representing a virtual meeting where the participants are seen in their home or office environments."
+}

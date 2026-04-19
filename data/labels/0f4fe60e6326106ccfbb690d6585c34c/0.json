@@ -1,0 +1,15 @@
+{
+  "video_id": "0f4fe60e6326106ccfbb690d6585c34c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-454.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.498,
+    1.494,
+    2.49,
+    3.485
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a smartphone in their hand, showcasing a screen with a gaming-related application. The background is softly blurred, featuring colorful, out-of-focus lights resembling a decorated tree. The phone screen displays a spinning prize wheel titled \"Rage Quit Wheel\" with a small trophy icon. In the first frame, the text \"89 Jackpot\" is visible on the left side of the screen. As the video progresses, the wheel stops spinning, and the text changes to \"Two of ANY Pack.\" The wheel itself is red with various white text segments, and a blue and cyan indicator points to the winning slice. A white charging cable is plugged into the right side of the phone. The person's hand remains steady throughout the sequence, maintaining a firm grip on the device."
+}

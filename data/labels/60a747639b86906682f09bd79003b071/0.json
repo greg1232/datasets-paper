@@ -1,0 +1,15 @@
+{
+  "video_id": "60a747639b86906682f09bd79003b071",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-106.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.188,
+    0.563,
+    0.938,
+    1.314
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light skin and short brown hair, wearing a black shirt, is seen in a close-up shot. In the background, another man with glasses and a headset, wearing an orange shirt, sits in front of a professional microphone. The setting appears to be a studio with soft, warm lighting. Large, bold yellow text reads \"TOM O'BRIEN\" across the center of the scene, with the white text \"LOOK OVER\" above it and \"SHOULDERS\" below it. As the sequence progresses, the man in the black shirt speaks and gestures with his hand, his facial expression shifting from a neutral look to a slight smile. The man in the orange shirt remains relatively still in the background, facing forward. Small, faint text and dates are visible at the bottom of the frame, though most are obscured by the main text overlays."
+}

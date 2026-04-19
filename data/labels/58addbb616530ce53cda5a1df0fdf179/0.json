@@ -1,0 +1,15 @@
+{
+  "video_id": "58addbb616530ce53cda5a1df0fdf179",
+  "url": "./data/segments/3l84m5pRmyk-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.102,
+    6.306,
+    10.511,
+    14.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with brown hair, wearing a light-colored button-down shirt and a dark blazer, is seated at a white table in an indoor setting. He is speaking and gesturing with his hands, moving his right hand from an open position toward the table and then lifting it again. To his right sits a white laptop with a blue cube logo on the lid and a clear plastic water bottle. The background is a white wall featuring recurring logos and text, including \"DataSV 2015\", \"theCUBE\", and the hashtag \"#BigDataSV\". In the lower-left corner, a yellow sponsorship badge is visible that reads \"SPONSORED BY\" above \"NFO-OBJECTS\" next to a small orange logo. The man's facial expression shifts slightly as he talks, and his hand movements create a sense of active communication throughout the sequence."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5ea55975a11a64cc9c4caf7ecd934a3f",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-172.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.797,
+    2.39,
+    3.983,
+    5.576
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and short hair wearing a white t-shirt and black headphones sits in a room with grey acoustic foam walls. He has a tattoo on his right arm. He is positioned in front of a professional microphone mounted on a silver boom arm. On the left side of his shirt, a logo contains the text \"Stay Humble\". Throughout the sequence, the man keeps his right hand raised to his head, touching his headphones. He looks slightly to the side with a neutral expression, and his mouth opens slightly as if he is speaking. The camera angle and the man's position remain static, with only subtle movements in his facial expression and lips as the clip progresses."
+}

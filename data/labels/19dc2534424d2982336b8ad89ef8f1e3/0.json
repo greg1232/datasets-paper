@@ -1,0 +1,15 @@
+{
+  "video_id": "19dc2534424d2982336b8ad89ef8f1e3",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.469,
+    10.406,
+    17.344,
+    24.281
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with pale skin is seen interacting with a stack of gold-colored cards resting on a white rectangular base. In the background, a man wearing a dark blue t-shirt sits at a desk with computer equipment, appearing in a smaller inset window. This inset features the logo \"JASPYS\" and the website \"CASEBREAKS.COM\". The main scene takes place on a table with a light-colored surface decorated with green palm tree graphics. As the sequence progresses, a hand enters from the right and reaches toward the top of the gold card stack. The hand then transitions to pointing a finger directly at the side of the gold cards. The person's other hand is visible resting on the table surface to the left. The camera angle remains consistent, focusing on the interaction between the hand and the cards."
+}

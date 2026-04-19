@@ -1,0 +1,15 @@
+{
+  "video_id": "7cc88f8f2f321c213ee6e0cbcc9a2a56",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-393.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.843,
+    2.528,
+    4.213,
+    5.898
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a recording studio, positioned in front of a professional microphone and wearing large over-ear headphones. He is dressed in a black jacket over a gray shirt, and he sits against a dark, sound-dampening wall with a ribbed texture. As the sequence progresses, the man exhibits a series of facial expressions while remaining seated. Initially, he looks forward with a neutral, attentive expression. He then shifts his gaze upward and rolls his eyes, suggesting a sense of disbelief or exasperation. He momentarily returns to a neutral gaze, looking straight ahead. Finally, he glances sharply to his right with a slight pout, his eyes widening in a reactive expression. Throughout these shifts in expression, he remains stationary behind the microphone, which is held in place by a black boom arm."
+}

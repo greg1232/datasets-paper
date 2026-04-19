@@ -1,0 +1,15 @@
+{
+  "video_id": "635f1b8e8a202d1d3ffd2d8d9f53ba8f",
+  "url": "./data/segments/3a0FD1177FA-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.835,
+    20.505,
+    34.175,
+    47.845
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is working at a white wooden tabletop, using a paper trimmer to cut patterned floral paper. They are wearing a white smartwatch on their left wrist and a ring on their left hand. In the initial frames, the person positions a rectangular piece of green and yellow floral paper against the guide of the trimmer. As the sequence progresses, they use their right hand to slide the cutting blade across the paper, slicing a narrow strip from the edge. The workspace includes various crafting supplies, such as ink pads, stamps, and clear acrylic rulers. Legible text on the table includes \"Thank You\" and \"BIRTHDAY\" on small cards, and a logo on a white ink pad that reads \"MEMENTO\". A watermark in the bottom left corner of the scene says \"Stamping Jill\". The sequence ends with the person removing the small cut strip from the trimmer."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "46c3fd0002c9482b27891feb05300aa3",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.421,
+    1.264,
+    2.106,
+    2.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A recorded meeting takes place in a professional setting with wood-paneled walls and desks. A group of people, mostly dressed in business attire such as suits and blazers, are seated around a table. In the initial scene, a man with a grey beard in a dark suit sits next to others, including a man in a vest and a woman with blonde hair. As the sequence progresses, the camera angle shifts, focusing on a man with glasses in a dark suit who is gesturing with his hand while speaking. A woman in a beige cardigan and a man in a suit are seated behind him. Various items like water bottles, mugs, and a silver thermos are on the table. Each frame contains a banner with the \"ORCA\" logo and the text \"April 12, 2019 House Committee on General, Housing, and Military Affairs S.23 Increasing the Minimum Wage\"."
+}

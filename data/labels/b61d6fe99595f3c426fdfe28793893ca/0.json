@@ -1,0 +1,15 @@
+{
+  "video_id": "b61d6fe99595f3c426fdfe28793893ca",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-386.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.028,
+    6.084,
+    10.14,
+    14.196
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and glasses wears a white baseball cap, over-ear headphones, and a black hoodie with gold text that reads \"BOSS TALK\". He sits in a studio setting before a white backdrop featuring the \"UNICORN HUSTLE\" logo and a blue sign that says \"Where BOSSES Talk!\". A professional microphone on a boom arm is positioned in front of him. Throughout the sequence, the man is speaking and gesturing. He begins with his hands resting on the table, then raises them to clasp his fingers together, and later moves his hands apart to emphasize his points. A black equipment box with a \"BOSS TALK\" logo is visible on the table to his left, and a black mug with red and white text reading \"BOSS TALK 101\" sits to his right. The camera angle remains constant as he speaks and gestures."
+}

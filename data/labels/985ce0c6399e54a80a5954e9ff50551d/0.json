@@ -1,0 +1,15 @@
+{
+  "video_id": "985ce0c6399e54a80a5954e9ff50551d",
+  "url": "./data/segments/3Ma0wGTm5QQ-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.312,
+    0.521,
+    0.729
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair is positioned in front of a colorful graphic background featuring a white picket fence, green foliage, and a blue section with a white rectangular icon. He is wearing a red t-shirt that displays the logo \"Learning in Hand with TONY VINCENT,\" which includes a small white hand icon. Above him, the partial text \"gle Sites\" is visible on both the left and right sides of the scene. Across the sequence, the man remains centered in the shot, speaking directly toward the camera. His facial expressions shift slightly as he talks, with his mouth opening and closing to form words. The background and his clothing remain static throughout the duration of the clip, with no changes in the environment or the appearance of new objects."
+}

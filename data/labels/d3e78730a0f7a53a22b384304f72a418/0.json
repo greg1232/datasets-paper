@@ -1,0 +1,15 @@
+{
+  "video_id": "d3e78730a0f7a53a22b384304f72a418",
+  "url": "./data/segments/3fokLGPK15Q-Scene-089.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.18,
+    0.54,
+    0.9,
+    1.26
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A high-energy event takes place on a stage illuminated by a dense network of purple and blue laser beams that crisscross the air. In the background, a large circular screen prominently displays the text \"SLUSH\". A few people are on the stage, including individuals dressed in light-colored clothing who are standing near a table and some equipment. The lighting is dramatic, with spotlights and laser arrays creating a futuristic atmosphere. Across the frames, the scene remains largely static in composition, though the laser beams shift slightly in angle and intensity, and the people on stage move subtly as they interact with their equipment. The dark surroundings contrast sharply with the vibrant purple and blue light, focusing all attention on the central performance area and the branded screen."
+}

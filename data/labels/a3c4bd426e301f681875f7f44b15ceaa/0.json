@@ -1,0 +1,15 @@
+{
+  "video_id": "a3c4bd426e301f681875f7f44b15ceaa",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.58,
+    4.74,
+    7.9,
+    11.06
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference displays a grid of multiple participants in various home settings. One man wears a blue checkered shirt and glasses, another wears a grey t-shirt, and a third wears a blue t-shirt and headphones. A woman with dark hair is seen in a neutral-toned top. Another man wears a light grey shirt and glasses, and another man wears a black shirt. Some participants are seen in rooms with bookshelves or artwork on the walls. On-screen text identifies individuals as \"Jerry McKully,\" \"Shawn Shiman,\" \"Sara_collaboration,\" \"Susan Starky,\" \"charles maso,\" \"Clark Quinn,\" and \"Patrick Mullyn.\" As the video progresses, the layout of the participants shifts and repeats, with some faces appearing in different positions across the screen. The individuals remain mostly stationary, looking toward their cameras."
+}

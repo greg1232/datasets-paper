@@ -1,0 +1,15 @@
+{
+  "video_id": "9259a76c8bdd81b47b2d91824bf95ed1",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-210.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.758
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a clear plastic card protector over a small, tiered white display stand topped with a yellow object. The scene is set against a patterned fabric surface featuring orange shapes and green palm trees. In the upper right of each frame, a logo reads \"JASPYS\" with \"CASEBREAKS.COM\" written beneath it. A smaller inset window shows a man wearing a dark blue t-shirt sitting in a chair in front of a computer setup, with the \"JASPYS\" logo appearing again nearby. Throughout the sequence, the hand moves the plastic protector, shifting its position from the top left toward the center and then slightly downward. The man in the inset window remains seated, observing the action. The background and the display stand remain stationary as the protector is adjusted across the frames."
+}

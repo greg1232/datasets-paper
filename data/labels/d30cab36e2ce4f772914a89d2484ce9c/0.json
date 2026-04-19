@@ -1,0 +1,15 @@
+{
+  "video_id": "d30cab36e2ce4f772914a89d2484ce9c",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.571,
+    4.713,
+    7.854,
+    10.996
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a web browser open to a page titled \"Activities\" and \"Google Chrome,\" showing a sequence of system logs. The browser window contains a dark-themed interface with technical data, including IP addresses, timestamps, and lines of code. Legible on-screen text includes \"Log entries,\" \"Filter,\" and \"Filters applied: 'url'='*.js' 'url'='*.css'\". A small, circular profile picture of a man is visible in the top right corner of the browser window. The scene remains static across the frames, with no movement or changes to the content on the screen. The layout consists of a header bar, a search and filter section, and a large area filled with chronological log entries against a dark grey background. The date \"Oct 28 00:23\" is visible in the system tray at the top of the screen."
+}

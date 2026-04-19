@@ -1,0 +1,15 @@
+{
+  "video_id": "dfdba5af8410ce16c7d445150d500d90",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-114.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.722,
+    2.165,
+    3.608,
+    5.051
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, several individuals are gathered around a patient bed. A man in blue scrubs, wearing a face mask and blue gloves, stands on the left, holding a container. Another person in blue scrubs, facing away from the camera, stands in the center, while a woman in blue scrubs works with IV bags and equipment in the background. A woman wearing a black blazer, blue scrubs underneath, and a face mask stands on the right. As the scene progresses, the woman in the black blazer shifts her weight and adjusts her position. The room contains various medical supplies, including IV bags hanging from poles and equipment on shelving. Purple graphics appear in the lower corners of the frames, with the text \"Day 4\" on the left and \"Sim Week\" on the right."
+}

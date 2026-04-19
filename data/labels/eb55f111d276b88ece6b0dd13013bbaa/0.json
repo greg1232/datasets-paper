@@ -1,0 +1,15 @@
+{
+  "video_id": "eb55f111d276b88ece6b0dd13013bbaa",
+  "url": "./data/segments/3E6ctN22V7k-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.01,
+    3.03,
+    5.05,
+    7.07
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an outdoor setting with corrugated metal fencing and a dirt ground, a group of children walk past a large white sign. The sign features logos for UNHCR and another organization, and it reads \"PROT\u00c9GEONS LES ENFANTS contre TOUTE FORME DE VIOLENCE !!\". The children, wearing a variety of colorful clothing including pink and white shirts, walk away from the camera. White text overlays the scene, stating, \"After the failure, take control of your life and rewrite your future.\" As the scene progresses, the camera cuts to a different angle of the children walking by the same sign. The final shot shifts to a close-up of a hand using white chalk to write on a dark chalkboard. Text at the bottom of this frame reads \"[The professor talks to the students]\"."
+}

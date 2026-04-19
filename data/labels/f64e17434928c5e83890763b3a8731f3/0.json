@@ -1,0 +1,15 @@
+{
+  "video_id": "f64e17434928c5e83890763b3a8731f3",
+  "url": "./data/segments/3Smz5pevbI4-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.993,
+    2.978,
+    4.963,
+    6.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white screen displays a numbered list of three items in black text. The first item reads \"1. Characterize (unconscious) bias,\" the second is \"2. Neural Focus Groups,\" and the third is \"3. Neuro-diagnostics.\" As the sequence progresses, the color of the text for the second item, \"2. Neural Focus Groups,\" changes from black to a light red hue. This color shift occurs and remains consistent across the subsequent frames. No people, locations, or logos are visible, and the layout of the text remains static throughout the clip."
+}

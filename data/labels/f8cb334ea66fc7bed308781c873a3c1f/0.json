@@ -1,0 +1,15 @@
+{
+  "video_id": "f8cb334ea66fc7bed308781c873a3c1f",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A silver car is parked outdoors under a bright sky with clouds reflected in its windows. In the background, green foliage and a large white truck are visible. Inside the vehicle, a person wearing a red garment is seated in the driver's seat. As the sequence progresses, the camera subtly shifts its angle, causing the reflections on the car's body and glass to shift slightly. The person inside remains stationary, though their visibility fluctuates slightly due to the changing angle and reflections. The car features a sleek, modern design with a door handle and a side mirror that comes into clearer view toward the end of the clip. No legible text or logos are visible on the vehicles or in the surrounding environment."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9baa956d013e75fd10fecc06ab199689",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-359.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.271,
+    0.813,
+    1.356,
+    1.898
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is recorded in a studio setting, wearing a dark green t-shirt with the white text \"ION NEVADA SHIT\" and a matching dark green baseball cap. He wears black over-ear headphones and speaks into a black professional microphone on a boom arm. The background features a wall decorated with numerous framed photographs and a clothing rack with several garments. A white male mannequin wearing a white long-sleeved shirt stands behind him. Two logos are visible on screen: a circular black and white logo containing the word \"RADIO\" on the left and a red text logo reading \"RADIO FREE\" on the right. As the sequence progresses, the man's facial expression shifts from a neutral look to a slight smile and finally a broad grin, while his head tilts slightly. The background elements, including the mannequin and clothing, remain static throughout the scene."
+}

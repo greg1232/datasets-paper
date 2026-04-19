@@ -1,0 +1,15 @@
+{
+  "video_id": "e51eee48cda45c10ac6973cb31956f69",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-175.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.463,
+    0.772,
+    1.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey baseball cap with a red and white logo, and black headphones sits in a recording studio. The room is lined with dark, sound-absorbing foam panels. He is positioned in front of a professional microphone on a boom arm, which features a pop filter with the text \"Bloodhound Mayor Josh\" printed on it. In the first frame, the man\u2019s right arm is extended in a sweeping motion across his chest. By the second frame, he has raised his right arm high above his head. In the third frame, his arm begins to descend, bending at the elbow. In the final frame, his arm is lowered and moving across his body again. Throughout the sequence, he remains focused forward, speaking into the microphone."
+}

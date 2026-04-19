@@ -1,0 +1,15 @@
+{
+  "video_id": "649aaadd8d7a3be1195e24a3685a3c3b",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-312.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.69,
+    11.07,
+    18.45,
+    25.83
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grid of multiple video call participants is shown, with the same sequence of people repeating vertically. The participants include men and women in various domestic settings. Some wear glasses, and their clothing ranges from casual t-shirts to button-down shirts. Notable individuals include a man with a beard in a grey shirt labeled \"Patrice-Neryan,\" a man in a green shirt labeled \"Era_collaborateur,\" and a woman labeled \"Sajid Shady.\" Other labels include \"Seymour-Mbonane,\" \"Iris-Jean-Claude-Yvan,\" and \"Bill Sedy.\" Some participants are speaking or looking at their screens, while others remain still. One man is seen in a close-up view, appearing to lean toward his camera. The visual layout remains static across the frames, with the arrangement of participants and their respective labels staying consistent, indicating a paused or steady state in a virtual meeting environment."
+}

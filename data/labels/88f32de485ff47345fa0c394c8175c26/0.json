@@ -1,0 +1,15 @@
+{
+  "video_id": "88f32de485ff47345fa0c394c8175c26",
+  "url": "./data/segments/3P1vSUbet40-Scene-0676.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.673,
+    2.018,
+    3.363,
+    4.708
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt that says \"CHECK IT\" and a black baseball cap with a logo is seated in a podcast studio. He is wearing over-ear headphones and speaking into a professional microphone mounted on a stand. The background is a white wall featuring a repeating logo that says \"EMBRACE HUSTLE\" above several gold stars. To the man's right, red text reads \"BOSS TALK 101.\" The lower portion of the screen displays two overlays: one on the left that says \"BOSS TALK PODCAST\" and one on the right that says \"BOSS TALK 101.\" As the sequence progresses, the man remains in a similar position, talking and slightly shifting his posture. By the final frame, his right arm is slightly raised and his hand is visible as he gestures while speaking."
+}

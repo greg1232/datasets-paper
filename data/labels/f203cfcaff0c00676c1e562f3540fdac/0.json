@@ -1,0 +1,15 @@
+{
+  "video_id": "f203cfcaff0c00676c1e562f3540fdac",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-452.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.185,
+    0.556,
+    0.927,
+    1.298
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, wearing round glasses, white headphones, and a navy blue t-shirt, is seated in a room decorated for the holidays. To his left is a green Christmas tree adorned with colorful lights. Behind him, a framed picture contains the text \"S 20\". In front of him is a professional microphone on a stand. Initially, the man looks toward the camera with an open-mouthed, excited expression. He then raises a smartphone, holding it up to the camera. The screen of the phone displays a dark red background with white vertical lines and a bright, circular glowing icon in the center. As the sequence progresses, the phone moves closer to the lens, becoming the primary focus of the shot and partially obscuring the man's face and the background as it fills more of the frame."
+}

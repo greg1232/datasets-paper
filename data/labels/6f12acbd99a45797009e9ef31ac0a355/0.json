@@ -1,0 +1,15 @@
+{
+  "video_id": "6f12acbd99a45797009e9ef31ac0a355",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-109.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.975,
+    1.625,
+    2.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a digital workspace with a black background featuring a conceptual map of connected nodes. Various icons and text labels are visible, including \"Muscle,\" \"Cooking,\" \"Knowledge,\" and \"Flexible Thinking,\" with an illustration of a shopping cart labeled \"SALT.\" A browser window is open at the top, showing several tabs such as \"Trial & Learning by Systemic,\" \"Knowledge by SystemicBio,\" and \"Future of Society by Systemic.\" In the upper right corner, a small video feed displays a man wearing a dark hat and a dark shirt, who remains relatively still throughout the sequence. A sidebar on the right lists names including \"Sarah Bedding\" and \"Sarah.\" Between the frames, there is very little movement; the layout of the conceptual map and the browser tabs remain static, while the man in the video feed makes slight adjustments to his position."
+}

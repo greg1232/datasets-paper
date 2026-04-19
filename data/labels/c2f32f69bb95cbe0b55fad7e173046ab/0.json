@@ -1,0 +1,15 @@
+{
+  "video_id": "c2f32f69bb95cbe0b55fad7e173046ab",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.438,
+    1.314,
+    2.19,
+    3.066
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A small, brown, rectangular electronic component sits centered against a plain, light gray background. The object features a grid of small holes on its top surface and gold-colored metallic contacts along its bottom edge. As the sequence progresses, the component remains stationary in the center of the frame, though there are subtle shifts in lighting and perspective across the frames. No people, text, or other equipment are visible in the scene. The environment is minimalist and sterile, focusing entirely on the small hardware piece, which remains the sole subject throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "013d8a153415e064cbea6d456364f8b1",
+  "url": "./data/segments/3sJ5OX75erw-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.68,
+    8.04,
+    13.4,
+    18.76
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and earphones, wearing a light gray blazer over a collared shirt, is speaking against a dark blue background featuring a network graphic of connected dots. The logo \"OPEN NETWORKING & EVERGE\" and the text \"EXECUTIVE FORUM\" are visible in the upper left corner of the screen. Throughout the clip, the man remains centered in the frame, gesturing with his hands as he speaks. He begins with his hands clasped in front of him, then opens them to gesture, bringing his palms closer together as if emphasizing a point. His facial expressions shift slightly as he talks, and his gaze remains directed toward the camera. The background and his attire remain constant, while his hand movements and mouth positions change across the sequence to reflect his speech."
+}

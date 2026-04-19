@@ -1,0 +1,15 @@
+{
+  "video_id": "e7b8d02d42040a58ce42a79402e77e84",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-114.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.526,
+    0.876,
+    1.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A textured, dark yellow and black background serves as the backdrop for a series of appearing text elements and a logo. A blue and white Discord icon is positioned next to the white text \"TFNN.com\", with the smaller white phrase \"EDUCATING INVESTORS\" written directly beneath it. In the first frame, the yellow text \"SIGN UP\" appears centrally below the logo. By the second frame, the text updates to \"SIGN UP TODAY\". In the third frame, additional white text emerges at the bottom, stating \"BECOME A PART OF THIS EDUCATIONAL COMMUNITY\". The final frame shows the complete arrangement of text and the logo remaining static against the blurred, gritty background. No people or physical objects are present in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5dac71a85c64bb304d7166f5df73300b",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-157.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.238,
+    0.396,
+    0.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A city highway is shown with cars moving rapidly in both directions, creating a motion blur effect. The road is flanked by a concrete wall and a bridge railing, with large urban buildings and a tall lattice tower visible in the background under a cloudy, overcast sky. Centered on the screen is the white text, \"IT CAN SEEM IMPOSSIBLE TO KEEP UP WITH ALL OF THE INFORMATION\". As the scene progresses, the cars continue to flow across the bridge, shifting positions slightly from frame to frame, while the camera remains stationary. The urban environment remains constant, characterized by grey tones and the repetitive architecture of the surrounding buildings."
+}

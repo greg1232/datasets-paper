@@ -1,0 +1,15 @@
+{
+  "video_id": "657ec8da224ad587cb664b1c8e958c7a",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.193,
+    0.578,
+    0.964,
+    1.349
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman wearing a striped button-down shirt and a black headset with a microphone is captured in a sequence of close-up shots. She is positioned indoors against a light-colored wall, with pale yellow and blue curtains visible to her left. The text \"Nancy Ramya\" appears in the bottom left corner of each shot. Initially, the woman maintains a relatively neutral facial expression with her mouth closed. As the sequence progresses, she begins to speak, her mouth opening and her expression becoming more animated. Her head shifts slightly as she talks, and her eyes move, suggesting she is engaged in a conversation or presentation. The lighting remains consistent across the scenes, and the background remains static, focusing the attention entirely on her speaking movements."
+}

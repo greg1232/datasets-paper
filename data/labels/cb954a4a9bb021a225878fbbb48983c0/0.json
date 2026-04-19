@@ -1,0 +1,15 @@
+{
+  "video_id": "cb954a4a9bb021a225878fbbb48983c0",
+  "url": "./data/segments/3F2rz23IKUk-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.425,
+    4.275,
+    7.125,
+    9.975
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"Compliance resolution\" is displayed across all frames. The slide contains a bulleted list of text detailing a timeline. The first bullet point states, \"Barnes and Noble Nook released December 09,\" followed by \"Android-derived platform.\" The third bullet point reads, \"Documentation indicated that source available on request,\" and the final bullet point says, \"Request made,\" with a nested sub-bullet that reads, \"Time passes...\" The background of the slide is a plain, off-white color with black text. There are no people, objects, or logos visible in the scene. Across the frames, the content and appearance of the slide remain completely static, with no visible changes in text, layout, or lighting."
+}

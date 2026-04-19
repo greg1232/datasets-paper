@@ -1,0 +1,15 @@
+{
+  "video_id": "5c9a306e71cc8a6febafea872d33b431",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.5,
+    2.5,
+    3.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a promotional website for \"INSTANT MADDEN COINS,\" featuring a bright yellow and black color scheme. The layout is consistent across all frames, displaying a navigation menu at the top with options like \"PLAYER STORE,\" \"SELL COINS,\" and \"SPONSORS.\" A prominent section asks the user to \"SELECT YOUR PLATFORM!\" with options for \"MUT 23 PS,\" \"MUT 23 XBOX,\" and \"MUT 23 PC,\" each accompanied by their respective console or OS logos and yellow buttons. Below this, a banner announces \"*NEW* INTRODUCING... MADDEN 23 CARDS\" with a \"PURCHASE PLAYERS\" button. The frames capture a repeating pattern of the same website interface, likely as part of a scrolling effect or a page transition, as the identical header, platform selection area, and \"MADDEN 23 CARDS\" advertisement appear multiple times in a vertical sequence."
+}

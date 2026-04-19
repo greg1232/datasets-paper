@@ -1,0 +1,15 @@
+{
+  "video_id": "4777fad0cba8df2f3d01744952b44e06",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-157.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.089,
+    0.266,
+    0.443,
+    0.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and a smile, wearing a striped button-down shirt and large black over-ear headphones, is captured in a video call. She is positioned in front of a light-colored wall and a yellow curtain with a blue edge. The text \"Nancy Ramya\" is visible in the lower-left corner of the screen. In the first two frames, she is smiling and looking slightly off-camera. As the sequence progresses into the final two frames, her expression shifts to a more neutral or serious look, and her gaze lowers slightly, though she remains in the same position and setting. The background and her attire remain consistent throughout the clip, with the only movement being the subtle changes in her facial expressions."
+}

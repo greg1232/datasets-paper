@@ -1,0 +1,15 @@
+{
+  "video_id": "7f14114222a1546b5fd9500ff11fb951",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-353.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.544,
+    1.631,
+    2.719,
+    3.806
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blond hair wearing a dark blue t-shirt is seen in a picture-in-picture window while playing a football video game. The gameplay occurs in a large stadium with a green field and crowds in the stands. On-screen text includes \"MADDEN 23\", a score of \"14\" and \"7\", and the clock showing \"3rd 4:00 35\". In the early part of the sequence, the screen displays a \"SPECIAL TEAMS\" menu with options for \"RETURN MIDDLE\" and \"RETURN RIGHT\", while a \"PREVIOUS PLAY\" replay shows players on the field. As the scene progresses, the menu disappears, and the view shifts to a wide shot of the field where several football players in dark uniforms stand in formation. A large purple and white \"ULTIMATE TEAM\" logo appears prominently across the top of the screen during the latter half of the sequence."
+}

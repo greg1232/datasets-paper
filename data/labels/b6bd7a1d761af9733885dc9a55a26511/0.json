@@ -1,0 +1,15 @@
+{
+  "video_id": "b6bd7a1d761af9733885dc9a55a26511",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-852.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.13,
+    0.391,
+    0.652,
+    0.912
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a recording studio, wearing a white baseball cap, a black hooded sweatshirt with \"BOSS\" written in gold lettering on the chest, a gold chain, and a gold watch. He wears blue over-ear headphones and is positioned behind a professional microphone mounted on a black boom arm. In the background, a white banner displays a logo featuring stars and the text \"UNIQUE HUSTLE,\" while a blue screen reads \"Where BOSSES Talk!\". A black mug with red and white text that includes \"TALK OUT\" sits on the table to his right. A small logo with a microphone icon is visible in the bottom left corner. Throughout the sequence, the man remains in a seated position, looking slightly to his left with a serious expression, while the scene remains static with no significant movement or changes in the environment."
+}

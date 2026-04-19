@@ -1,0 +1,15 @@
+{
+  "video_id": "4244fc2d2af6cf3cd7a77f09e1afe7b7",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-137.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.388,
+    0.646,
+    0.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a classroom or training center, three individuals are gathered around a white table. Two women wear blue medical scrubs and face masks, while a man wears a blue and white checkered short-sleeved shirt and a blue face mask. One woman is seated on the left, and the man is seated on the right, facing her. In the first two frames, a pink overlay appears on the left containing the text \"Day 5\" and a pink overlay on the right containing \"Sim Week.\" As the sequence progresses, the view shifts from the people to a detailed schedule displayed on a screen. The schedule is organized by days of the week, including \"Monday,\" \"Tuesday,\" \"Wednesday,\" \"Thursday,\" and \"Friday.\" Legible text on the schedule includes \"TRAUMA CASE (LEADING TO EXLAP),\" \"ADMISSION ORDERS,\" and \"DIFFICULTY BREATHING.\" The \"Sim Week\" logo remains visible in the bottom right corner."
+}

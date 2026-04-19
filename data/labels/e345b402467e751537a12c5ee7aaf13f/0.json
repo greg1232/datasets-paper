@@ -1,0 +1,15 @@
+{
+  "video_id": "e345b402467e751537a12c5ee7aaf13f",
+  "url": "./data/segments/3P5zYKAFzh4-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a static shot of a dense forest filled with slender, leafless trees under a clear, pale blue sky. The trees are tall and thin, with greyish-brown bark, creating a vertical pattern that dominates the scene. The ground is covered in a layer of brown, dried leaves and forest debris. There are no people, animals, equipment, or on-screen text present in the scene. Throughout the sequence, the camera remains completely stationary, and there is no visible movement among the trees or the environment. The lighting remains consistent, suggesting a still day in late autumn or winter, with a slight variation in exposure across the frames, but the overall composition and content of the landscape remain unchanged."
+}

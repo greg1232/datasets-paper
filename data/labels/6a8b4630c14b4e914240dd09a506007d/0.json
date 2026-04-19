@@ -1,0 +1,15 @@
+{
+  "video_id": "6a8b4630c14b4e914240dd09a506007d",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-163.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.334,
+    1.001,
+    1.668,
+    2.336
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a dark green t-shirt with the text \"I ONLY NEVER DO\" and \"SU7\" on it is speaking into a professional microphone. He is positioned in a room that appears to be a clothing studio or shop, with a white mannequin wearing a white shirt behind him and racks of clothing in the background. The wall behind him is decorated with several framed photographs. In the bottom corners of the scene, logos are visible, including one that says \"THE\" and another that says \"HOT\". Across the sequence, the man maintains his position, shifting his facial expressions and mouth movements as he speaks, while the background and equipment remain static."
+}

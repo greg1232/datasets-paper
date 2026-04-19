@@ -1,0 +1,15 @@
+{
+  "video_id": "e954667d920788c9490640a7d9f6380a",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-650.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.109,
+    0.328,
+    0.547,
+    0.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt with the text \"I ON NEVER DO SHIT\" and a green baseball cap with black headphones sits in a studio setting. He is positioned behind a black professional microphone. In the background, the wall is adorned with numerous framed photographs, and a white mannequin wearing a white garment stands to the right. A clothing rack with various garments is visible further back. Small logos are overlaid on the scene, including one on the left that says \"TOP TIER\" and one on the right that reads \"BODILY\". Throughout the sequence, the man is speaking and gesturing with his head, shifting his gaze and mouth movements as he talks into the microphone. The background remains static while the man's facial expressions and head position change slightly as he continues his speech."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0766a5a61803d7762ffeb1a3653c7813",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.505,
+    1.514,
+    2.523,
+    3.533
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video consists of a static graphic divided into four quadrants of different colors: red, yellow, and purple. In the top-left red section, there is a black silhouette of a laptop. To its right, in the yellow section, is a large black question mark. Below these, a horizontal purple bar contains the white text \"Digital Problem-Solving Initiative\". The bottom-left quadrant is red and features a black silhouette of a glowing light bulb, while the bottom-right quadrant is purple and displays a black silhouette of three people grouped together. This graphic remains completely still and unchanged across all frames, with no movement, people, or transitions. The colors, icons, and the text \"Digital Problem-Solving Initiative\" stay constant throughout the sequence."
+}

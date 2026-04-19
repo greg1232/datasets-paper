@@ -1,0 +1,15 @@
+{
+  "video_id": "93cc9f2ab7a6a19a6866701f806d01c1",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.215,
+    9.645,
+    16.075,
+    22.505
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a presentation slide titled \"CRYOGENIC ENGINEERING\" and \"Tutorial \u2013 2\". The slide features a section on \"Figure of Merit (FOM)\" accompanied by a thermodynamic diagram with a plotted cycle showing paths labeled \"T=const\", \"p=const\", \"D=const\", and \"h=const\". Numerical values are provided in boxes: \"W/m_f = 6265.22\" and \"W/m_f = 767\". At the bottom, the text \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" is visible alongside a small logo. As the video progresses, an equation for \"FOM = W/m_f\" is written on the blue background. In the final stages, the formula is expanded to show the calculation \"FOM = W/m_f = 767 / 6265.22 = 0.1225\", with a white line striking through the initial \"W/m_f\" term to show the substitution of the specific values."
+}

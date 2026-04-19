@@ -1,0 +1,15 @@
+{
+  "video_id": "c3fe9a217c84ec8130424e7342c21509",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-147.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.583,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blond hair wearing a black t-shirt is seen in a small video overlay in the bottom left corner of a screen displaying a sports gaming interface. The background of the interface is purple, featuring several player cards for tight ends (TE). Text on the left side of the screen reads \"TE2\" and \"No other positions.\" A card for \"CHIGOZIEM OKONKWO\" shows a rating of \"89,\" while a card for \"JEREMY SHOCKELY\" shows a rating of \"84.\" Another card displays \"TYLER HIGBEE.\" The name \"LASINGAME\" appears next to a rating of \"82.\" A large stylized \"LN\" logo is visible in the center of the display. Across the frames, the scene remains static, with the person in the overlay maintaining a similar surprised expression and the on-screen gaming elements remaining in the same position."
+}

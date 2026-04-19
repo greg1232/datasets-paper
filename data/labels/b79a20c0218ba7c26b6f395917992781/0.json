@@ -1,0 +1,15 @@
+{
+  "video_id": "b79a20c0218ba7c26b6f395917992781",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.19,
+    0.57,
+    0.95,
+    1.33
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a dark suit and black face mask walks across a paved area toward a white tour bus, which features a logo and the text \"Real Madrid\" on its side. He is accompanied by other men, including some wearing casual athletic attire with backpacks and one man in a bright yellow safety vest. The setting is an outdoor area with brick walls and a prominent red architectural pillar. In the beginning, the man in the suit moves forward while others stand or walk behind him; as the sequence progresses, he continues his trajectory across the frame. Another man in a suit is also visible, walking toward the bus in the background. The background includes several people standing near the bus and a metal barrier. The movement is linear, with the subjects shifting from the left side of the scene toward the right as they approach the vehicle."
+}

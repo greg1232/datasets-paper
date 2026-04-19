@@ -1,0 +1,15 @@
+{
+  "video_id": "84a01174732bb62cf79e9bab7c85cd64",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-221.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.334,
+    1.001,
+    1.668,
+    2.336
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A small, dark spider sits on a delicate spiderweb against a blurred green foliage background. A blue and black graphic banner across the bottom of the scene contains the name \"Basil Chapman\" in a large white font, and below it, the text \"The Tiger Technicians Hour | June 8th, 2022\" in a smaller white font. Yellow text overlays the scene above the banner. Initially, the word \"RESPONSIBLE\" appears. As the sequence progresses, the phrase expands to \"RESPONSIBLE FOR,\" and finally, it completes as \"RESPONSIBLE FOR EVERYTHING.\" Throughout the duration, the spider remains relatively still on its web, and the background and lower banner stay constant, while only the yellow text on the screen changes to complete the full phrase."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4f8fc1ca645299f9b03baa3484f299db",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.13,
+    0.391,
+    0.652,
+    0.912
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a dark, blurred shot filled with small white particles. It quickly transitions to a brightly lit studio where three people are gathered around a long black table. A woman with blonde curly hair, wearing a black t-shirt with a white circular logo, sits in the foreground with her back to the camera. Opposite her is a man in a black suit and white shirt, who is gesturing with his hands while speaking. To the right, another man wearing a black t-shirt and red and white athletic pants sits facing the man in the suit. Professional microphones on stands are positioned on the table in front of them. A large black banner on the wall features a white circular logo with a stylized image. The scene remains consistent across the remaining frames, focusing on the conversation between the individuals in the studio setting."
+}

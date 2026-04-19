@@ -1,0 +1,15 @@
+{
+  "video_id": "959d5b8238a1e3b719be702ea8f061fb",
+  "url": "./data/segments/3jaAcpqJEbg-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.258,
+    30.775,
+    51.292,
+    71.808
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands in a darkened conference room, positioned in front of a blue background featuring the white text \"### rootconf\" and \"has geek\". He is wearing a blue t-shirt with a white logo and a red lanyard around his neck. In the background, other attendees are seated in rows of light-colored chairs. The man begins by standing still, then raises his right arm to touch his forehead. He eventually lowers his arm and begins gesturing with both hands while speaking. To his left and right, other people are visible in the audience, some sitting quietly and others partially obscured by the darkness. Throughout the sequence, the man remains the central focus, shifting from a reflective posture to an active speaking stance against the branded backdrop."
+}

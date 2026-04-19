@@ -1,0 +1,15 @@
+{
+  "video_id": "29b2dd8a0fca5fdd6f565efbfb15ca28",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.087,
+    0.262,
+    0.438,
+    0.612
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a screen capture of a Google Chrome browser window. A small video feed in the upper right corner shows a man with short dark hair wearing a blue collared shirt. The main browser window is predominantly black. At the top of the interface, a search bar contains a URL starting with \"ScalaHost\" and ending with \"name: '%20%20'\". To the left of the main dark area is a vertical toolbar with icons for a magnifying glass, a plus sign, a minus sign, and other utility tools. Above the black area, the word \"Explore\" is visible next to a search field containing the text \"Enter documents\". In the top right of the browser interface, buttons for \"Split\", \"Last 1 hour\", and \"Close All\" are visible, alongside a blue button that reads \"Run Query\". The scene remains virtually static across the sequence, with no significant movement or changes in the interface."
+}

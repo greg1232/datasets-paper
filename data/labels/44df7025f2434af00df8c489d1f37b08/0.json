@@ -1,0 +1,15 @@
+{
+  "video_id": "44df7025f2434af00df8c489d1f37b08",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.845,
+    14.535,
+    24.225,
+    33.915
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a split-screen display with two men. On the left, a man wearing a red traditional cap and a grey patterned garment speaks. To the right, another man wearing a grey cap, glasses, and a grey garment listens, resting his chin on his hand. The background is a neutral, indoor setting. Overlaid on the bottom of the screen is a magenta bar with the text \"PLUS POLITICS\" and a larger white headline that reads \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\". A white footer contains social media icons and the text \"FOLLOW US\", \"LUSTVAFRICA\", and \"SUBSCRIBE\" along with the URL \"WWW.YOUTUBE.COM/PLUSTVAFRICA\". A \"plustv\" logo appears in the top left corners of the video feeds. Across the frames, the man on the left continues to speak while the man on the right remains in a listening posture, with the on-screen text remaining constant except for the footer, which changes to \"WATCH ONLINE\" and \"WWW.PLUSTVAFRICA.COM/LIVE-TV\"."
+}

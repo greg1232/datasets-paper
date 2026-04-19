@@ -1,0 +1,15 @@
+{
+  "video_id": "c6802c65da569b7baf881f1a0d361616",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.079,
+    3.238,
+    5.396,
+    7.554
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static white screen featuring a consistent set of logos and text. At the top, the phrase \"This project is implemented by IOM Jordan with the support and funds of the European Union\" is centered in a blue font. Below this text are two side-by-side logos. On the left is the International Organization for Migration (IOM) logo, consisting of a stylized blue globe with human silhouettes inside and the text \"IOM \u2022 OIM\" underneath. To the right is the European Union flag, a blue rectangle with a circle of twelve yellow stars. There are no people, settings, or equipment present in the frames. Throughout the duration of the clip, the image remains entirely motionless, with no changes in text, positioning, or graphics between the frames."
+}

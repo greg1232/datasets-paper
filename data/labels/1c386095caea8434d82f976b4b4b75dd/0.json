@@ -1,0 +1,15 @@
+{
+  "video_id": "1c386095caea8434d82f976b4b4b75dd",
+  "url": "./data/segments/3P1vSUbet40-Scene-0763.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.276,
+    0.829,
+    1.382,
+    1.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing glasses, a white collared shirt, a red bow tie, brown suspenders, and a large grey wig with a pointed top is recording a podcast. He is seated in a room with walls decorated with numerous framed photographs and a yellow \"LEE\" shirt. He wears black over-ear headphones and speaks into a professional microphone positioned in front of him. The \"BOSS TALK 101 PODCAST\" logo appears on the left and right sides of the screen. As the sequence progresses, the man maintains his position and continues speaking, with subtle movements in his facial expression and mouth, while the background and equipment remain static."
+}

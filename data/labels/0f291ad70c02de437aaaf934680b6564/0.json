@@ -1,0 +1,15 @@
+{
+  "video_id": "0f291ad70c02de437aaaf934680b6564",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-170.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.135,
+    0.406,
+    0.677,
+    0.948
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light hair, wearing a dark shirt and a white gaming headset, appears in a small video overlay in the lower-left corner of each frame. He is positioned in front of a computer monitor, with a decorated Christmas tree visible in the background. The main screen displays a dark red and black interface featuring the words \"ULTIMATE TEAM\" at the top. In each frame, an input box labeled \"ITEM NAME\" is visible. While the first three frames show the box empty, the final frame displays a virtual QWERTY keyboard overlaying the bottom half of the screen to facilitate typing. This keyboard includes function keys such as \"EXIT,\" \"BACK,\" \"CAPS,\" \"CLEAR,\" and \"DONE.\" The man maintains a similar neutral expression and position throughout the sequence, while the on-screen interface shifts from a blank text field to an active keyboard input menu."
+}

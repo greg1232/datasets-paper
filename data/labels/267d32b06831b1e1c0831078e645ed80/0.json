@@ -1,0 +1,15 @@
+{
+  "video_id": "267d32b06831b1e1c0831078e645ed80",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-091.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.313,
+    0.938,
+    1.564,
+    2.19
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up, slightly angled view of the underside of a vehicle's hood, which is held open. The metal surface is dark, matte black, and features structural ridges and recessed areas. A black support rod extends diagonally across the frame to prop the hood open. In the background, visible through the gap between the hood and the engine bay, is a lush green hedge and a portion of a white object, possibly a piece of outdoor equipment or furniture. A white plastic container is partially visible near the base of the hood's hinge mechanism. Throughout the sequence, the camera remains mostly stationary with very subtle shifts in angle, and there is no movement from any people or significant change in the environment, maintaining a consistent view of the mechanical components and the surrounding outdoor setting."
+}

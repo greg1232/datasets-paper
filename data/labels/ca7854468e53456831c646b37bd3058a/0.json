@@ -1,0 +1,15 @@
+{
+  "video_id": "ca7854468e53456831c646b37bd3058a",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-071.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.479,
+    0.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a small, rectangular yellow package over a table decorated with a palm tree pattern. In the background, a man wearing a dark blue shirt and glasses sits behind a desk with a computer monitor and a small green box. The text \"JASPYS LIVE\" and \"CASEBREAKS.COM\" appears as a watermark in the upper right of the scene. As the sequence progresses, the person's fingers grip the edges of the yellow package, gradually peeling back the outer wrapping to reveal a silver, reflective object inside. The movements are slow and deliberate, shifting the angle of the package to better display the contents. The background elements, including the seated man and the electronic equipment, remain static while the focus stays on the unfolding of the yellow packaging in the foreground."
+}

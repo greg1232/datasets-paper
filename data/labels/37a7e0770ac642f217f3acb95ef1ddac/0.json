@@ -1,0 +1,15 @@
+{
+  "video_id": "37a7e0770ac642f217f3acb95ef1ddac",
+  "url": "./data/segments/3hLeTO8SC3U-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.668,
+    17.004,
+    28.341,
+    39.677
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair and glasses, wearing a dark blue suit and a patterned tie, is speaking during a presentation. He is positioned in front of a blurred office background with glass partitions and a door handle. He gestures with his hands while speaking, moving his right arm and hand as he talks. At the bottom of the screen, a graphic overlay includes the \"theCUBE\" logo and the text \"From the Javits Center, New York, NY\". A \"Sponsored By MongoDB\" logo appears on the right side. The lower-left text changes between frames; it initially reads \"MONGODB WORLD 2022 #MDW22 | #theCUBE\", then switches to \"DAVE VELLANTE Co-Founder & Co-CEO, SiliconANGLE Media, Inc. | @dvellante\", and finally returns to \"MONGODB WORLD 2022 #MDW22 | #theCUBE\". The man's facial expressions and hand positions shift slightly throughout the sequence as he continues his address."
+}

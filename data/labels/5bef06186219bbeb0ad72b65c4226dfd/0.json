@@ -1,0 +1,15 @@
+{
+  "video_id": "5bef06186219bbeb0ad72b65c4226dfd",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-096.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.131,
+    0.394,
+    0.656,
+    0.919
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is positioned in the foreground, moving across a tabletop surface in a setting that appears to be for opening collectible card packs. The hand reaches toward the center of the screen, with fingers extending and then curling slightly. In the background, several black boxes featuring green graphics and the text \"OBSIDIAN\" are stacked. A logo for \"JASPYS CASEBREAKS.COM\" is prominently displayed in the center of the screen. Small inset video windows show a man wearing a black shirt sitting at a desk with various electronics and equipment. The sequence shows the hand shifting its position as it moves across the foreground, while the static elements like the boxes, the logo, and the man in the inset window remain consistent throughout the action."
+}

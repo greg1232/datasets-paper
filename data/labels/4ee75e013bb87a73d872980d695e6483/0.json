@@ -1,0 +1,15 @@
+{
+  "video_id": "4ee75e013bb87a73d872980d695e6483",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows the interior of a disassembled mechanical engine casing resting on a weathered workbench. Inside the silver-colored metal housing, several interlocking gears are visible, including a large, dark circular gear at the center and smaller gears positioned above and to the right. The surrounding workspace is cluttered with various mechanical tools, including a set of blue-handled sockets in a tray, a yellow tool handle, and several metal pliers and screwdrivers scattered across the brown surface. In the background, orange components and a red storage bin are partially visible. Across the sequence of images, the scene remains static; there are no people present, and the position of the gears, tools, and equipment does not change, depicting a still moment of a mechanical assembly or repair process."
+}

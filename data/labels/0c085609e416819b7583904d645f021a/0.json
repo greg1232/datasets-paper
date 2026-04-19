@@ -1,0 +1,15 @@
+{
+  "video_id": "0c085609e416819b7583904d645f021a",
+  "url": "./data/segments/3P1vSUbet40-Scene-0608.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.13,
+    0.391,
+    0.652,
+    0.912
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a large, spiky grey wig, glasses, and headphones sits in a studio setting. He is dressed in a white button-down shirt with a red bow tie and brown suspenders. He is positioned behind a black microphone, with a wall of small framed photographs behind him. On the left side of the scene, a logo reads \"\ud83c\udf99\ufe0f STUDIO PODCAST\", and on the right, text reads \"BOSS TALK 101\". The man is speaking, and his facial expressions and mouth movements shift slightly as the sequence progresses. The background remains static throughout the clip, while the man's slight head movements and talking are the only changes. The environment is filled with equipment and decor typical of a podcast recording space."
+}

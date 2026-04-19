@@ -1,0 +1,15 @@
+{
+  "video_id": "e9478eaef0f1fe1cf12eecd562519625",
+  "url": "./data/segments/3L_uHTClWfk-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.687,
+    1.146,
+    1.604
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video sequence shows Joe Biden, dressed in a dark suit, white shirt, and a blue and white patterned tie, appearing in a split-screen composition against an outdoor backdrop of the White House and a blue sky with white clouds. Beside him, the scene features close-up shots of two large burgers served with golden-brown potato wedges. The foreground burger is a multi-layered stack with patties, melted cheese, and a sesame seed bun, held together by a wooden skewer. To its left, a smaller burger and a bowl of potato wedges are visible. As the sequence progresses, the images remain static, maintaining the same composition and framing. The White House stands in the background with a flagpole visible, and the lighting is bright and consistent across all frames. No on-screen text or logos are present."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "8fbc0d99c1fa186b8ff6046c8ba3e585",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men are seated in a room, reacting to a video playing on a screen in front of them. The man on the left wears a green t-shirt, and the man on the right wears a grey t-shirt and a necklace. Behind them is a shelf filled with CDs and a large monitor displaying the text \"STUPID REACTIONS\" with a logo to the left. A smaller inset video shows a woman in traditional attire standing in a dusty outdoor setting with other people and structures in the background; text at the bottom of this inset reads, \"My life doesn't have more value than my family.\" As the sequence progresses, the man in the green shirt transitions from a neutral expression to smiling and talking, while the man in the grey shirt maintains a contemplative, slightly downward-looking gaze. The background environment remains static throughout the sequence."
+}

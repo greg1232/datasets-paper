@@ -1,0 +1,15 @@
+{
+  "video_id": "daddd5455f8a758f1ce1df1987159cba",
+  "url": "./data/segments/3i5-ZukC--g-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.186,
+    6.557,
+    10.928,
+    15.299
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video features a static-filled, dark grainy background with a greenish-grey tint. In each frame, identical white text and yellow arrows appear in two pairs. On the left side, the word \"SUBSCRIBE!\" is written in all caps, with a yellow arrow pointing to the right positioned directly beneath it. On the right side, the word \"PATREON\" is written in all caps, with a yellow arrow pointing to the left positioned directly beneath it. These elements remain in the same positions throughout the sequence. The only change between frames is the shifting pattern of the digital noise and grain in the background, which creates a flickering effect across the entire screen. No people, clothing, or physical objects are present in the scene."
+}

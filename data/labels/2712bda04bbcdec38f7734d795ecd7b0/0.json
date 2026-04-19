@@ -1,0 +1,15 @@
+{
+  "video_id": "2712bda04bbcdec38f7734d795ecd7b0",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-102.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.434,
+    1.301,
+    2.169,
+    3.036
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a brightly lit indoor training facility, a group of people are gathered for a simulation. A person wearing a maroon and grey baseball cap and a black hoodie with \"PROTECT THE HOUSE\" on the back faces three other individuals. Across from them, a woman in a black jacket and a blue face mask engages in conversation, while another woman in a grey zip-up hoodie over blue scrubs, also wearing a blue face mask, sits beside her holding papers. A third person, seen from the back with brown hair, is positioned in the foreground. On-screen graphics include a pink icon and a purple circle with the text \"Day 3\", as well as a logo and the text \"Sim Week\". As the scene progresses, the person in the black jacket leans slightly forward, and the woman in scrubs shifts the papers in her hand, while the others remain in their positions."
+}

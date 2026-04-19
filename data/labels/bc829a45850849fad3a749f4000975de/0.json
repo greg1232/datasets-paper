@@ -1,0 +1,15 @@
+{
+  "video_id": "bc829a45850849fad3a749f4000975de",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-216.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.61,
+    1.831,
+    3.052,
+    4.273
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds up a sports card featuring an athlete and the name \"RYNE SANDBERG,\" which includes a signature and the numbering \"99/29.\" The background shows a room with a desk, equipment, and a person wearing a dark blue t-shirt with a yellow circular logo. On-screen text and logos for \"JASPYS CASEBREAKS.COM\" appear in the upper right and middle of the frames. In the initial sequence, the card is held prominently in the foreground, partially obscuring the view. As the sequence progresses, the hand moves the card out of the frame, revealing a white plastic bin containing a yellow rectangular object. The man in the blue shirt remains seated at the desk, looking toward the camera. The setting appears to be a dedicated space for card breaking, with various organizational tools and branded graphics overlaid on the video feed."
+}

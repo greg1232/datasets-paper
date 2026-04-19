@@ -1,0 +1,15 @@
+{
+  "video_id": "bef05a202ae1a065d3fd8fc8f868f258",
+  "url": "./data/segments/3fokLGPK15Q-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.02,
+    6.06,
+    10.1,
+    14.14
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "On a dark, modern stage with purple and blue linear light patterns, three people are seated for a panel discussion. To the left, a man wears a white shirt; in the center, a woman wears a dark top; and to the right, a man wears a grey suit. They sit in light-colored wooden armchairs. Between the speakers are white, textured rectangular blocks that resemble stacks of paper. To the right of the group, the word \"SLUSH\" is visible in white text on a dark background. As the scene progresses, the camera angle shifts slightly. In the first frame, the camera is positioned further back and to the left, showing a large white textured pillar on the right. In subsequent frames, the camera moves closer and pans to the right, providing a clearer view of the panel. The speakers remain seated, engaged in a conversation, with their body language shifting subtly as they listen and speak."
+}

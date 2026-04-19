@@ -1,0 +1,15 @@
+{
+  "video_id": "e053e85b5a32b65e4a25f88ec19c222d",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.872,
+    2.615,
+    4.359,
+    6.102
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with curly reddish-brown hair, wearing a black patterned blouse, speaks while gesturing with her hands in front of a laptop in a room with a bright yellow wall. Behind her, a screen displays a man in a white button-down shirt sitting in an office with multiple monitors. The \"COINTELEGRAPH\" logo appears in the top center and right of the scene, and the text \"ZURICH, SWITZERLAND\" is visible on the screen behind her. As the sequence progresses, the woman moves her hands to emphasize her speech, shifting from a closed position to an open, expressive gesture with her palms facing upward. The man on the screen remains seated, though his expression and posture shift slightly. The laptop in the foreground remains stationary throughout the clip, featuring a purple-toned sticker on its lid."
+}

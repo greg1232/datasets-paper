@@ -1,0 +1,15 @@
+{
+  "video_id": "91218db5e3b08b069ce7d09a8ff20f7e",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-140.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.536,
+    1.609,
+    2.682,
+    3.755
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a virtual meeting interface with black backgrounds and multiple participants. In the upper portions of the screen, a small circular inset shows a man with dark hair and a smile, wearing a dark, patterned shirt. The text \"Seyi Adebola\" appears in white font beneath these views. As the sequence progresses, a larger video feed appears in the lower right, featuring a woman with dark hair wearing black over-ear headphones and a light-colored, striped button-down shirt. She is positioned in front of a light-colored curtain and a wall. The text \"Nancy Ramya\" is visible in white font in the bottom left corner of her feed. The man remains in his circular inset throughout the sequence, while the woman appears in the latter half of the clip, looking toward the camera."
+}

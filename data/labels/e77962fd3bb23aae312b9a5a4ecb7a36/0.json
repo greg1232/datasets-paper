@@ -1,0 +1,15 @@
+{
+  "video_id": "e77962fd3bb23aae312b9a5a4ecb7a36",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.211,
+    6.632,
+    11.053,
+    15.474
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short brown hair, wearing a black blazer over a white shirt, stands in a room giving a presentation. She holds a small notebook or tablet and gestures with her hand while facing a person wearing a yellow shirt and a green beanie, who is seen from behind. Behind the woman, a projector displays a grid of various images and diagrams on a tan wall. Legible text on the screen includes the words \"experience\" and \"data\". To the right of the group, a black chair sits against the wall. As the sequence progresses, the woman shifts her stance and continues speaking, gesturing toward the projected screen and the person in front of her. The lighting is soft, and the overall scene depicts a professional or educational presentation setting."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "564e1b46ae4a4758a254594ec5a2580d",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.315,
+    0.945,
+    1.575,
+    2.205
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white shirt speaks into a microphone, positioned in front of a blurred crowd. The scene is presented as a news broadcast from \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e,\" with a red and blue graphical overlay containing various portraits of men and Hindi text. The top banner of the first two frames reads \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948,\" while the bottom two frames change this text to \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". A persistent ticker at the bottom states \"BJP \u0938\u0947 \u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930 \u0928\u0940\u0924\u0940\u0936 \u0938\u0930\u0915\u093e\u0930 \u092e\u0947\u0902 \u092e\u0902\u0924\u094d\u0930\u0940 \u092c\u0928\u0947,\" accompanied by a timestamp of \"10:03 PM.\" Smaller labels like \"\u0921\u093f\u092a\u094d\u091f\u0940 CM\" and \"\u092e\u0902\u0924\u094d\u0930\u0940\" appear next to the inset portraits, identifying figures such as \"\u0938\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940,\" \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e,\" \"\u0935\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935,\" and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930.\" Throughout the sequence, the speaker remains in a similar profile position, talking consistently as the headlines change."
+}

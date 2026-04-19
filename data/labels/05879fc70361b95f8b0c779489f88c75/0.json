@@ -1,0 +1,15 @@
+{
+  "video_id": "05879fc70361b95f8b0c779489f88c75",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white jet aircraft with a T-tail and rear-mounted engines is positioned on a paved runway. The plane is facing left, with its landing lights illuminated. The surrounding environment consists of a flat, green grassy landscape under an overcast grey sky. A small white and red marker stands on the grass near the edge of the runway. A red and white circular logo containing the number \"13\" is visible in the upper right corner of each frame. Across the sequence, the aircraft remains stationary or moves very slightly, while the camera angle shifts slightly, moving from a higher vantage point to a lower one. No people are visible in the frames."
+}

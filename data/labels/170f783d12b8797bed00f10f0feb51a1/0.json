@@ -1,0 +1,15 @@
+{
+  "video_id": "170f783d12b8797bed00f10f0feb51a1",
+  "url": "./data/segments/3pBY6Wurnqw-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.358,
+    1.075,
+    1.792,
+    2.508
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The provided image is completely black and contains no visual information. There are no visible settings, people, objects, or text. As such, there is no discernible action or change occurring across the frames."
+}

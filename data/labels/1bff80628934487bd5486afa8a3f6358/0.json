@@ -1,0 +1,15 @@
+{
+  "video_id": "1bff80628934487bd5486afa8a3f6358",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-314.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.098,
+    0.294,
+    0.49,
+    0.685
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played on a green grass field under bright lights. Players in white uniforms face off against players in black uniforms. In the center of the action, offensive and defensive players clash at the line of scrimmage. One player in a black jersey with the number \"94\" engages with an opponent in a white jersey with the number \"77\". A small inset window in the corner shows a man with blonde hair wearing a dark blue shirt, reacting with an open-mouthed expression. On-screen graphics at the top include the words \"ULTIMATE TEAM\", \"1st & 10\", and a game clock showing \"2nd 2:57\" and later \"2nd 2:56\". Logos for the \"Madden\" series and team insignias are visible. As the sequence progresses, the players push against each other, with the man in the inset window remaining visible and reactive throughout the play."
+}

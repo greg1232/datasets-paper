@@ -1,0 +1,15 @@
+{
+  "video_id": "b8d2419ce0eb45614fde5010365b10f6",
+  "url": "./data/segments/3Z229_lKLpk-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.975,
+    1.625,
+    2.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a large, formal assembly hall filled with rows of people seated in tiered galleries. Most of the attendees are men dressed in traditional white Indian clothing, such as kurtas and Nehru jackets, while others wear suits or colorful traditional attire. They are seated behind long wooden desks that separate the rows. A few individuals stand in the aisles, including a person in a blue shirt and others in darker uniforms. The hall features a light-colored wall in the background and teal-colored carpeting in the aisles. Across the frames, the scene remains static, with the people mostly seated and facing forward. There is no significant movement, no on-screen text, and no logos visible, as the frames appear nearly identical, capturing a moment of stillness within the crowded legislative environment."
+}

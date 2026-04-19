@@ -1,0 +1,15 @@
+{
+  "video_id": "d1e02143cf38b3e4a6883e8a7b520528",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.901,
+    1.502,
+    2.102
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white Corvette is parked outdoors on a grassy area next to a paved surface. The rear of the car is visible, featuring two red taillights on the left and \"CORVETTE\" text in two different styles on the right. A Florida license plate reads \"192 WTR\" with \"SUNSHINE STATE\" printed along the bottom. A small red, white, and blue logo is centered on the lower bumper. To the left, a golden-brown car door is open. Across the sequence, the camera angle shifts slightly, moving from a closer, higher perspective to a slightly lower and wider view. This shift reveals more of the car's lower bumper and the tow hitch attached to the rear. No people are visible in the frames."
+}

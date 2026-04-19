@@ -1,0 +1,15 @@
+{
+  "video_id": "c727701cd9363e9b31a1d9dcde53cf00",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-173.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.049,
+    9.147,
+    15.244,
+    21.342
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black zip-up hoodie and over-ear headphones sits in a recording studio, positioned in front of a professional microphone mounted on a boom arm. The background consists of dark grey acoustic foam panels. Initially, the man looks toward the side with a neutral expression. He then raises his right hand toward his face, gesturing with his fingers near the microphone. In the subsequent moments, his expression shifts as he closes his eyes and tilts his head slightly. Finally, he opens his eyes and looks upward and to the side, breaking into a wide smile. Throughout the sequence, the man remains centered in the frame, with the microphone consistently positioned in the foreground between him and the camera."
+}

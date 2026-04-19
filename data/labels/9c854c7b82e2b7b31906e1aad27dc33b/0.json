@@ -1,0 +1,15 @@
+{
+  "video_id": "9c854c7b82e2b7b31906e1aad27dc33b",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-068.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.096,
+    3.288,
+    5.479,
+    7.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a browser window open to a Google Chrome tab titled \"Activities.\" The main view is filled with a dark-themed code editor displaying multiple lines of log data, including timestamps, IP addresses, and JSON-formatted strings containing phrases such as \"method\":\"GET\", \"status\":200, and \"userId\":\"user123\". At the top of the browser, the date \"Oct 28 2023\" is visible. In the upper right corner, a small circular profile picture shows a man wearing a white collared shirt and a dark jacket. Throughout the sequence, the screen remains static, with no movement, cursor activity, or changes in the displayed text. The layout consists of the code editor occupying the majority of the screen, framed by the standard browser interface and navigation tabs."
+}

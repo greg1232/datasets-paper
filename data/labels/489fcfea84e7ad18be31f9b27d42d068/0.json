@@ -1,0 +1,15 @@
+{
+  "video_id": "489fcfea84e7ad18be31f9b27d42d068",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.0,
+    3.0,
+    5.0,
+    7.0
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation screen displays a blue background with white text and logos, while a video inset shows a speaker. The text on the screen reads \"In gesprek met: Prof. dr. Roland Blonk, bijzonder hoogleraar Arbeidseconomiekundigheid en Inclusieve Innovatie van Arbeid\" and \"Jolan Lambregts, deelnemer aan het Vertrouwensexperiment.\" Logos for \"mediasite,\" \"TILBURG UNIVERSITY,\" and \"tranzo\" are visible. In the initial frames, the video inset shows a wide shot of a room with a long table, chairs, and several people seated, including a man in a dark suit and a woman in a light-colored top. As the sequence progresses, the video inset transitions to a medium close-up of a man with short brown hair, wearing a dark blazer and blue shirt, who is gesturing with his hands while speaking. The layout of the presentation screen remains constant throughout the clip."
+}

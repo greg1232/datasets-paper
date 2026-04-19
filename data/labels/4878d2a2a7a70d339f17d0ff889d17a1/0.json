@@ -1,0 +1,15 @@
+{
+  "video_id": "4878d2a2a7a70d339f17d0ff889d17a1",
+  "url": "./data/segments/3P1vSUbet40-Scene-0103.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.193,
+    0.579,
+    0.965,
+    1.35
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a distinctive, tall, grey-and-white wig, glasses, and black headphones speaks into a professional microphone in a room filled with clothing and accessories. He is dressed in a white button-down shirt, a red-and-white patterned bow tie, and tan suspenders. Behind him is a wall decorated with various photographs and retail items, including apparel branded with \"LEE\". A white mannequin wearing a black vest is also visible in the background. On the screen, there are two recurring logos: one on the left featuring a microphone icon with the text \"PODCAST\" and \"ESTALIBO\", and another on the right with a red microphone icon and the text \"SS TALK JOY\". Across the frames, the man remains in the same position, his facial expression shifting slightly as he speaks, while the surrounding setting and equipment remain static."
+}

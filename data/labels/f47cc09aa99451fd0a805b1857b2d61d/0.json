@@ -1,0 +1,15 @@
+{
+  "video_id": "f47cc09aa99451fd0a805b1857b2d61d",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    18.121,
+    54.363,
+    90.604,
+    126.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presenter is visible in a small inset window in the top right corner of a presentation about \"Stream Processing.\" In the first frame, the slide defines the topic as \"It's the ability to perform Data Processing while it Still in Motion\". The second frame transitions to a slide explaining that events are \"structured messages,\" featuring a JSON-like data object: {\"ts\": 1565905315, \"temp\": 53 }. The third frame expands on this by listing several event examples, including the previous temperature data, {\"ts\": 1565905315, \"cpu\": 3.15 }, and {\"ts\": 1565905315, \"host\": \"fluentbit.io\", \"access\" : 30, \"errors\": 12 }. Finally, the fourth frame outlines the \"General Goals\" of stream processing, which are listed as \"Fast Data Processing\", \"No Tables\", and \"No Indexing / Index-Free\". Throughout the clip, the presenter remains in the inset window, wearing a light-colored shirt and glasses."
+}

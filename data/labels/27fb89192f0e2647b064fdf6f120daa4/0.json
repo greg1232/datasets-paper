@@ -1,0 +1,15 @@
+{
+  "video_id": "27fb89192f0e2647b064fdf6f120daa4",
+  "url": "./data/segments/3l84m5pRmyk-Scene-041.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.608,
+    4.824,
+    8.039,
+    11.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with brown hair, wearing a light-colored button-down shirt and a dark blazer, sits behind a white laptop at an event. He is positioned in front of a white backdrop featuring repeating logos of a blue cube, the text \"theCUBE\", \"BigDataSV\", and the year \"2015\". A clear plastic water bottle sits on the table to the right of his laptop. Across the sequence, the man is speaking, shifting his facial expressions and head position. He initially looks slightly to his left with a focused expression, then turns his gaze further to the right. As the clip progresses, he begins to gesture with his left hand, moving it upward and toward his chest while continuing to speak. The camera remains static throughout the sequence, capturing him from the chest up in a medium shot."
+}

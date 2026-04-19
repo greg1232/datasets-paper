@@ -1,0 +1,15 @@
+{
+  "video_id": "54b276e78d31f16134da45713531d957",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-102.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.215,
+    0.645,
+    1.075,
+    1.505
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing glasses, a white shirt, a red tie, and a dark navy blue suit jacket is speaking into a microphone. He is gesturing with his right arm extended to the side, and another person's hand is partially visible behind him. The scene is set outdoors against a plain, neutral-colored background. In the upper-left corner of each frame, a colorful logo appears above the text \"plustv\". A purple banner across the center of the screen reads \"PLUS POLITICS\" followed by a larger white text block that states \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\". Below this, a white bar contains the word \"SUBSCRIBE\" on the left and the URL \"WWW.YOUTUBE.COM/PLUSTVAFRICA\" on the right, though the URL is slightly fragmented in some frames. As the sequence progresses, the man remains in a similar pose, with slight shifts in his facial expression and the position of his gesturing arm."
+}

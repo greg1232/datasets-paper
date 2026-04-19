@@ -1,0 +1,15 @@
+{
+  "video_id": "cf2f423657c2f7a57a8e921bb170e666",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.813,
+    1.139
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene is a close-up view from inside a vehicle, focusing on the driver's side instrument cluster and steering column. The dashboard features several gauges and a digital display screen. Legible text on the dashboard includes \"UNLEADED FUEL ONLY\" and buttons labeled \"INST/AVER\" and \"RANGE\". A set of keys is inserted into the ignition. A person's arm and shoulder, clothed in a light-colored garment, are partially visible in the foreground on the left side of the frame. As the sequence progresses, the camera shifts slightly, and the person's arm moves further into the field of view, partially obscuring the digital display and the lower portion of the instrument panel. The gauges and the steering wheel remain stationary throughout the brief sequence."
+}

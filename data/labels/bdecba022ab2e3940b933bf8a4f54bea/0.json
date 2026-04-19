@@ -1,0 +1,15 @@
+{
+  "video_id": "bdecba022ab2e3940b933bf8a4f54bea",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.221,
+    0.663,
+    1.105,
+    1.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A medical simulation takes place in a clinical setting featuring a medical mannequin with red hair lying in a hospital bed. The mannequin is covered with a grey blanket decorated with small red and blue crescent moons. A person wearing blue gloves is visible on the right side of the frame, holding a white piece of paper above the mannequin. In the background, a black computer monitor and a white equipment stand with red bottles are visible. On-screen text in the bottom left corner reads \"Day 1\" inside a purple circle, and text in the bottom right corner reads \"Sim Week\" next to a purple logo. Across the sequence of frames, there is very little movement; the person's hand and the piece of paper shift slightly, and the overall scene remains static."
+}

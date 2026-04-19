@@ -1,0 +1,15 @@
+{
+  "video_id": "a4db2653555264b50e94b3ed14cd4356",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-213.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.813,
+    2.44,
+    4.067,
+    5.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with grey hair, Basil Chapman, is seen from the chest up in a video clip. He is wearing a dark garment and an earpiece in his right ear. To his right, a graphic overlay displays a smartphone screen and the text \"The Opening Call\" above a green bar that reads \"Basil Chapman\". A blue banner across the bottom of the screen identifies the speaker as \"Basil Chapman\" and specifies the program as \"The Tiger Technicians Hour | June 8th, 2022\". As the sequence progresses, Basil maintains a steady gaze toward the camera with a neutral expression. In the later frames, a large white text overlay appears across the center of the image, reading \"CREATOR THE CHAPMAN WAVE (THE OPENING METHOD)\". This text partially obscures Basil and the existing graphics, though the original banners and the side graphic remain visible throughout."
+}

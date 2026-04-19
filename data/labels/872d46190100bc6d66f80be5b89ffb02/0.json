@@ -1,0 +1,15 @@
+{
+  "video_id": "872d46190100bc6d66f80be5b89ffb02",
+  "url": "./data/segments/3PlNaEZzZg0-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.158,
+    3.475,
+    5.792,
+    8.108
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard and glasses, wearing a yellow long-sleeved tunic and a red, white, and yellow striped scarf, stands behind a podium draped in yellow fabric. He is positioned in front of a decorative backdrop featuring stylized red building silhouettes and green foliage against a pale pink and white background. The man's hands rest on the edges of the podium as he speaks, with his head slightly turned and his mouth open in mid-speech. Throughout the sequence, his posture and position remain consistent, with only minor shifts in his facial expression and head tilt as he continues to address an audience. No text or logos are visible in the scene."
+}

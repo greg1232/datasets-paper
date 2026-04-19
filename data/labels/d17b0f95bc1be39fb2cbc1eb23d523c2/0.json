@@ -1,0 +1,15 @@
+{
+  "video_id": "d17b0f95bc1be39fb2cbc1eb23d523c2",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-471.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.245,
+    0.735,
+    1.225,
+    1.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt with the text \"ICON NEVER DO SHIT\" is speaking into a black professional microphone in a room that looks like a studio or boutique. Behind him, there are several framed pictures on the wall, a white mannequin wearing a white garment, and racks of clothing. To his left, a red and black circular logo is visible on the screen, and smaller red text is visible to his right. The man is gesturing with his right hand as he talks. Across the frames, his expression shifts from a serious look with a pointed finger to an open-mouthed speaking posture with a more open hand gesture, while his body remains mostly stationary in front of the microphone."
+}

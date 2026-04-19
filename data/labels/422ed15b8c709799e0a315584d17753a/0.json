@@ -1,0 +1,15 @@
+{
+  "video_id": "422ed15b8c709799e0a315584d17753a",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-116.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.78,
+    2.34,
+    3.9,
+    5.46
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen capture displays a video conferencing call and a digital mind map. A man with a headset, wearing a dark shirt, is visible in a small video window at the top right of the screen. The main area shows a complex network of interconnected nodes with lines and text on a black background. Legible labels on the nodes include \"Imagination,\" \"Deep Learning,\" \"Insight,\" and \"Intuitive Thinking.\" Several icons, including an image of a brain and various abstract symbols, are distributed throughout the map. At the top of the browser window, several tabs are open, with text such as \"Trust & Learning by Systemantics,\" \"Future of Society by Systemantics,\" and \"Insights Introduction | Kumu.\" A side panel on the right contains a list of participants, including \"Kevin Bedding.\" Throughout the sequence, the scene remains static, with no significant changes in the layout or the man's position."
+}

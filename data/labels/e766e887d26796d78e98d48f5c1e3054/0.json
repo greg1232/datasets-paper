@@ -1,0 +1,15 @@
+{
+  "video_id": "e766e887d26796d78e98d48f5c1e3054",
+  "url": "./data/segments/3l84m5pRmyk-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.069,
+    6.206,
+    10.344,
+    14.481
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with brown hair, wearing a dark blazer over a light-colored button-down shirt, stands behind a white podium in a studio or event space. The background is a light gray wall featuring repeating logos for \"theCUBE\" and \"#BigDataSV 2015\" alongside blue cubic icons. On the podium sits a white laptop adorned with a blue cube sticker and a clear water bottle. Throughout the sequence, the man is speaking and gesturing with his right hand. In the final frames, a blue information bar appears at the bottom of the screen, displaying the text \"#theCUBE LIVE at #BigDataSV 2015\" in large white letters, followed by smaller text that reads \"Fairmont Hotel - Valley Room San Jose, CA\". The man's expression and head position shift slightly as he talks, while the background and equipment remain stationary."
+}

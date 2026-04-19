@@ -1,0 +1,15 @@
+{
+  "video_id": "d689fbdb3a3538702bcf9531b6a1014f",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.462,
+    0.771,
+    1.079
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is shown interacting with a white box topped with a yellow triangular object, resting on a surface featuring a palm tree pattern. A small inset video window in the lower right shows a man with a beard and a dark t-shirt sitting at a desk with equipment. The text \"JASPYS CASEBREAKS.COM\" appears prominently in red and white across the top center of the scene. As the sequence progresses, a clear plastic sleeve is moved over the white box and yellow object. The hand slides the sleeve downward, partially covering the objects. The man in the inset video remains seated, observing the action. The background remains consistent throughout, showing a table with a printed graphic of orange suns and green palm trees."
+}

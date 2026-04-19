@@ -1,0 +1,15 @@
+{
+  "video_id": "c90269314e3649cb69cc3d030e84f5a1",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-086.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.16,
+    0.48,
+    0.8,
+    1.12
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a stadium filled with rows of red seats, several individuals wearing blue and red athletic gear are seen moving about. A few people in blue uniforms stand at the top of the seating area, while others in athletic wear are scattered throughout the middle section, some standing and some sitting. In the background, there is a wall with logos and text, including the word \"FUERTE\" and the crest of Real Madrid. As the scene progresses, the people in the seating area shift their positions; for example, an individual in a blue and red kit moves across the seats, and another person transitions from a standing to a sitting position. The overall environment remains static, with the red seating and branding providing a consistent backdrop to the movements of the personnel."
+}

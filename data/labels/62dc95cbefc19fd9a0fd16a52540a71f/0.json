@@ -1,0 +1,15 @@
+{
+  "video_id": "62dc95cbefc19fd9a0fd16a52540a71f",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-807.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt, a black baseball cap, and headphones speaks into a professional microphone in an indoor setting. His t-shirt features the text \"ION NEVER DO SHIT AT WORK\" in a stylized white font. He is positioned in front of a wall decorated with several framed photographs. Behind him, a white mannequin wearing a white garment stands near clothing racks filled with various garments. A logo reading \"REALLY TOT\" is visible in the lower right of each scene, and a circular logo is in the lower left. Throughout the sequence, the man gestures with his hands while talking, shifting from an open-armed pose to more focused hand movements. The camera angle remains constant, capturing him from the chest up as he interacts with someone off-screen."
+}

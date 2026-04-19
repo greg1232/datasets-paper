@@ -1,0 +1,15 @@
+{
+  "video_id": "f1ce68e7728db7972a19987529f80468",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-192.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.234,
+    0.701,
+    1.168,
+    1.635
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing glasses, a dark suit jacket, and a white dress shirt sits behind a dark desk in a studio setting. He rests his chin on his hand in a thoughtful pose. In the background, a large screen displays financial data, including columns of numbers and a line graph showing market trends. A logo for \"Tiger-TV\" is visible in the top right corner of the scene. A blue graphic banner at the bottom of the screen identifies the man as \"Basil Chapman\" and notes the program as \"The Tiger Technicians Hour | June 8th, 2022\". Across the sequence of frames, the man remains seated in the same position with a consistent expression, and the background elements, including the financial data and on-screen text, remain static. There is no significant movement or change in the scene between the frames."
+}

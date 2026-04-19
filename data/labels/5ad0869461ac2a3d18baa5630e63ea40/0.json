@@ -1,0 +1,15 @@
+{
+  "video_id": "5ad0869461ac2a3d18baa5630e63ea40",
+  "url": "./data/segments/3hcAJKLX-Ps-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.64,
+    37.92,
+    63.2,
+    88.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a mustache, wearing a dark maroon button-down shirt and an ID badge around his neck, stands before a green and white backdrop. He holds a black microphone in his right hand, speaking and gesturing with his left hand. Standing behind him to the right is another man in a white button-down shirt. In the foreground, several people are partially visible, including one man who appears to be recording the speaker with a mobile phone. As the sequence progresses, the man in the maroon shirt continues to speak, shifting his posture slightly and moving his hand while maintaining his grip on the microphone. The background and the positioning of the other people remain relatively constant, capturing a candid moment of a presentation or public address."
+}

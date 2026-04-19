@@ -1,0 +1,15 @@
+{
+  "video_id": "e324ccb052837c9dc66d1b26836a7a32",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-097.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.182,
+    0.547,
+    0.911,
+    1.276
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair is positioned in front of a neutral-colored wall and light-colored curtains. She wears a striped blue and white shirt and a black headset with over-ear headphones and a microphone. In the initial moment, she is smiling broadly with her mouth open. As time progresses, her expression shifts, and she begins speaking, her mouth opening and closing. The woman remains centered in the frame throughout the sequence, and the background remains static. Small, barely legible white text reading \"Penny Danny!!\" is visible in the bottom left corner of the scene. There are no other people or significant objects present in the environment."
+}

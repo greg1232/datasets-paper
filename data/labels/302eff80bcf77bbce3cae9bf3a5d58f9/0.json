@@ -1,0 +1,15 @@
+{
+  "video_id": "302eff80bcf77bbce3cae9bf3a5d58f9",
+  "url": "./data/segments/3Z229_lKLpk-Scene-129.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.84
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, formal hall with a curved, tiered ceiling and golden-brown wooden panels serves as the setting. In the background, multiple rows of people sit in balconies, facing forward. Many individuals are dressed in dark formal attire, with some wearing white shirts. Above the seating areas, several large, bright, rectangular light panels are installed, casting a strong glow across the room. In the foreground, a curved metallic architectural element arcs across the top of the view. Throughout the sequence, the camera remains stationary, and the scene is static; there is no visible movement among the people or the environment, and no on-screen text or logos are present. The lighting and positions of all elements remain constant across the frames."
+}

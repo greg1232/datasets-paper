@@ -1,0 +1,15 @@
+{
+  "video_id": "b6bb0a0b159d513b4a92a1e57df47d0c",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-100.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hoodie with \"BOSSES TALK\" printed on the front, and headphones sits in a studio setting. He is positioned behind a dark table, facing right and speaking into a professional microphone attached to a boom arm. In the background, a white wall features the phrase \"URBAN HUSTLE\" accompanied by five gold stars. Above him, a blue banner reads \"Where BOSSES Talk!\" next to a red and white \"BOSS\" logo and \"TALK 101\" text. A black mug with red and white text that reads \"BOSS TALK 101\" sits on the table to his right. A small logo with a microphone icon and \"BOSS TALK\" is visible in the bottom left corner of the scene. Across the sequence, the man remains in a consistent position, with only slight changes in his facial expression and head tilt as he continues speaking."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e5aade15c5b74d0c5c4fe9007279a04a",
+  "url": "./data/segments/3g8tiPycwPo-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.592,
+    1.777,
+    2.961,
+    4.146
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a dark suit and light-colored shirt stands at a podium in a dimly lit room, presenting to a large audience. He is positioned in front of a large white projection screen, with windows on either side. The audience consists of many people, mostly men, seen from behind; they are wearing a variety of casual and business-casual attire, including button-down shirts in colors like white, light blue, and green. In the foreground, a semi-transparent blue banner spans the width of the scene containing the white text \"14 APRIL 2018 \u00b7 NASHVILLE, TN\" and \"Trump's Economy: Boom Times or Dangerous Bubble?\". The scene remains static across the sequence, with the speaker and the audience members remaining in their respective positions, maintaining a consistent view of the presentation setting."
+}

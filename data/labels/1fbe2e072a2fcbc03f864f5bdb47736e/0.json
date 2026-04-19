@@ -1,0 +1,15 @@
+{
+  "video_id": "1fbe2e072a2fcbc03f864f5bdb47736e",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.902,
+    5.706,
+    9.509,
+    13.313
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dimly lit interior space is shown, initially focusing on two tan-colored bar stools with silver bases positioned in front of a counter illuminated by a blue light strip. As the scene progresses, the view shifts away from the stools into a very dark area, eventually revealing a doorway leading to another room. In the final sequence, a person wearing dark clothing is visible standing in the doorway, facing away from the camera and looking into the adjacent room. The lighting remains low throughout the clip, with most of the environment shrouded in deep shadow, making the blue accent light and the brightly lit doorway the primary sources of visibility. No text or logos are present in the frames."
+}

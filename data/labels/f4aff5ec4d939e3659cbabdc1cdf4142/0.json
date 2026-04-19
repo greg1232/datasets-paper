@@ -1,0 +1,15 @@
+{
+  "video_id": "f4aff5ec4d939e3659cbabdc1cdf4142",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.601,
+    1.001,
+    1.401
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot shows a fuel pump display as numbers increase. The dark gray interface features three labels: \"Purchase $\", \"Gallons\", and \"Price per Gallon $\". Two digital readouts with orange backgrounds track the fueling progress. Across the sequence, the \"Purchase $\" value climbs from \"2.14\" to \"2.22\", then \"2.29\", and finally \"2.36\". Simultaneously, the \"Gallons\" display increases from \"0.739\" to \"0.766\", then \"0.790\", and finishes at \"0.815\". A small yellow and white \"VG\" logo is present in the top right corner of each frame. No people are visible, and the camera remains stationary, focusing entirely on the changing numeric values of the pump's digital counter."
+}

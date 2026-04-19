@@ -1,0 +1,15 @@
+{
+  "video_id": "f10a98c1c08ed7e4b8657a20eea38240",
+  "url": "./data/segments/3iUTkJy84EY-Scene-306.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.305,
+    0.915,
+    1.525,
+    2.135
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses speaks against a solid black background. She wears a light green top featuring small red floral patterns and a decorative embroidered neckline, paired with a dark necklace. A small lapel microphone is clipped to the front of her garment. In the bottom left corner of each scene, a circular logo and the text \"NPTEL\" are visible. As the sequence progresses, the woman continues to talk, her facial expressions shifting slightly with the movement of her mouth and the tilting of her head. Her gaze remains focused forward, and her posture remains steady throughout the clip. No other people or objects are present in the scene, keeping the focus entirely on the speaker."
+}

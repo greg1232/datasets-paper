@@ -1,0 +1,15 @@
+{
+  "video_id": "4d27d037da276b09cd30b152a2195709",
+  "url": "./data/segments/3Kxl1O310k8-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.16,
+    0.48,
+    0.8,
+    1.12
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of five people are participating in a video call, with their feeds displayed in a gallery view. The participants include two men in plaid shirts, a woman with blonde hair wearing headphones and glasses, a man in a black shirt and glasses, and another man in a black shirt and glasses. The backgrounds vary, showing interior room settings with walls, doors, and framed art. Throughout the sequence, some participants wave their hands towards their cameras. The layout of the video feeds shifts, with some participants moving to different positions on the screen. A small timestamp \"2021-03-12 00:47:18\" is visible in the center of the interface. The people remain engaged in the call, alternating between speaking and listening while maintaining a casual demeanor in their home environments."
+}

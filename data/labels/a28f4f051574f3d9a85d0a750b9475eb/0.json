@@ -1,0 +1,15 @@
+{
+  "video_id": "a28f4f051574f3d9a85d0a750b9475eb",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey button-down shirt and a blue name tag is presenting information in an indoor setting. In the background, a white poster is displayed with several images and blue text boxes; one section reads, \"For More Information, please contact\". The man gestures with his right arm, pointing toward an object off-screen to the left before moving his hand across the field of view. As the sequence progresses, the man's arm moves downward and toward the right, eventually pointing toward a digital screen or tablet that displays a bright white and blue interface. A dark jacket or piece of clothing is draped over a surface next to the screen. The man\u2019s expression remains focused as he guides the viewer's attention toward the device, shifting the visual focus from the informational poster to the interactive screen."
+}

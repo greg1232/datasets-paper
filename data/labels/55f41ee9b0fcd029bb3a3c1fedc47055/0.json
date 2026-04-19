@@ -1,0 +1,15 @@
+{
+  "video_id": "55f41ee9b0fcd029bb3a3c1fedc47055",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.538,
+    0.897,
+    1.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation room, three women are present around a medical manikin lying on a bed. One woman wears a grey zip-up jacket, blue gloves, and a blue surgical mask; she stands by a table, handling a blue package. Another woman wears blue scrubs, a grey cardigan, and a black mask, standing beside her. A third woman in pink scrubs and a blue mask stands in the background. The room contains medical equipment, including a crash cart and monitoring devices. Each frame displays the on-screen text \"Day 2\" in a pink bubble and \"Sim Week\" next to a purple icon. Across the sequence, the woman in the grey jacket moves the blue package across the table and then adjusts her position. The woman in blue scrubs watches her closely, while the woman in pink remains stationary in the background."
+}

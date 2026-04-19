@@ -1,0 +1,15 @@
+{
+  "video_id": "02125eb2836b371d132262007c7c7477",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-204.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.709,
+    2.127,
+    3.545,
+    4.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits in a studio setting, wearing a green baseball cap, black headphones, and a dark green t-shirt featuring the white text \"ION NEV\u00c8R DO SHIT\". He is positioned in front of a professional black microphone on a stand. Behind him, the room contains several framed photos on the wall and a white mannequin wearing a white shirt. To the right, a rack of clothing is visible. On-screen graphics include a logo on the left that reads \"SIT DOWN\" and a red logo on the right that reads \"REALLY TOT\". As the scene progresses, the man shifts his expression and head position, moving from a downward gaze with closed eyes to looking forward and speaking, with his mouth open in the final frames. The background and equipment remain static throughout the sequence."
+}

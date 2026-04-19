@@ -1,0 +1,15 @@
+{
+  "video_id": "4b0fa3b8de76fbd2bb539bcd66420440",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.192,
+    0.575,
+    0.958,
+    1.342
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is preparing a meal in a kitchen setting, using a red spatula to stir a mixture of cooked grains and vegetables inside a large metal bowl. A small white plate containing a portion of the same mixture and a small red bowl filled with corn kernels are placed on the wooden surface next to the main bowl. The person's hand is visible as they move the spatula through the food to mix it. The scene remains consistent across the frames, showing the continuous action of stirring. Each frame contains the logo and text \"UCAR CENTER FOR SCIENCE EDUCATION\" in the top-left corner against a blue and white cloudy background. The lighting is bright and natural, highlighting the textures of the food and the metallic sheen of the mixing bowl."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1394114f73e0c5fb3ace47b2ccb04044",
+  "url": "./data/segments/3a0FD1177FA-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person works on a crafting project atop a white gridded cutting mat. The person wears a white watch and, in the lower frames, a white long-sleeved shirt with a blue patterned cuff. On the mat are various materials, including floral-patterned paper scraps, a tape runner, an ink pad, and a stamp. Small brown tags are visible, one of which features the text \"for ALL THE best things\". A clear ruler spans the width of the workspace. A logo for \"Stamping Jill\" is superimposed on the left side of the scene. The video captures the person's hand moving across the workspace; initially, the hand is open and hovering, then it closes slightly into a pinch, and finally, the arm moves downward and out of the frame as the person reaches toward the materials."
+}

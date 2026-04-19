@@ -1,0 +1,15 @@
+{
+  "video_id": "1026ed67721436b364d03295b67d4bcd",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.193,
+    3.579,
+    5.964,
+    8.35
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An aerial shot showcases a vast open-pit mine carved into a reddish-brown landscape under a clear blue sky. The site features deep excavation terraces and a small, turquoise body of water at the bottom of the pit. A yellow logo consisting of the letters \"VG\" is positioned in the upper right corner throughout the sequence. As the scene progresses, bold white text appears across the center reading \"Large-Scale, Low-Cost Project,\" followed by a yellow bar below it containing the text \"politically safe and friendly mining jurisdiction.\" While the camera remains stationary, the text overlays fade into view and remain constant across the subsequent frames. No people, vehicles, or active machinery are visible in the wide shot, focusing entirely on the scale of the industrial mining operation and the accompanying descriptive text."
+}

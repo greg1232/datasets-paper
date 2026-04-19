@@ -1,0 +1,15 @@
+{
+  "video_id": "dcca5b2dfe437dddc5737bb0b07dfa2c",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-690.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.151,
+    0.454,
+    0.756,
+    1.058
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a studio setting, wearing a white baseball cap, a black hoodie with \"BOSS\" written in gold letters on the chest, a gold chain, and a silver watch. He is wearing over-ear headphones and sits behind a desk with a professional microphone on a boom arm positioned in front of him. In the background, a white wall features a repeating logo with five gold stars and the text \"UNICORN HUSTLE.\" Above him, a sign reads \"'Where BOSSES Talk!'\" and another partial sign reads \"K 101.\" On the desk, there is a black container and a smaller white object. Throughout the sequence, the man remains in a similar pose, looking slightly to his left with a subtle smile, though his facial expression shifts slightly as he appears to be speaking or reacting. The scene remains static with no significant movement or change in location."
+}

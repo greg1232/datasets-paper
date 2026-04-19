@@ -1,0 +1,15 @@
+{
+  "video_id": "9b07ea8f1cae2ef477173303c39b36b8",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-230.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.596,
+    1.789,
+    2.982,
+    4.175
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A promotional video displays a green and white graphic layout featuring information about a financial service. A green panel on the left contains a logo for \"Fibonacci 24/7\" and the name \"Larry Pesavento.\" Below this, a dark banner lists \"Basil Chapman\" and \"The Tiger Technicians Hour | June 8th, 2022,\" topped by a bright green stripe that reads \"FIBONACCI 24/7.\" The right side of the screen starts as a plain white void but transitions to show the website \"TFNN.com\" with the tagline \"EDUCATING INVESTORS.\" Large red text appears stating \"30 DAY\" followed by \"MONEY BACK GUARANTEE FOR FIRST TIME SUBSCRIBERS\" in smaller red letters. As the sequence progresses, the white background and the guarantee text fade in and stabilize, while the left-side informational panels remain constant throughout the duration of the clip."
+}

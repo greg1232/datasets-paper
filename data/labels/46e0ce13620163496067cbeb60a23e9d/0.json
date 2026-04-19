@@ -1,0 +1,15 @@
+{
+  "video_id": "46e0ce13620163496067cbeb60a23e9d",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.896,
+    17.688,
+    29.479,
+    41.271
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A recording of a computer screen shows a spreadsheet and a video player. The spreadsheet lists names and regions, including \"BRIAN FRANK ATLANTIC,\" \"BRIAN FRANK* CENTRAL,\" \"Kennard Bolt NORTHWEST,\" \"BRIAN FRANK PACIFIC,\" \"Kyle Barber SOUTHEAST,\" and \"BRIAN FRANK SOUTHWEST.\" To the right, a video window displays a man with glasses and a beard wearing a black shirt, positioned below a banner for \"JASPYS CASEBREAKS.COM\" and several \"JASPYSBREAKS\" logos. A red \"Subscribe\" button with the text \"Hit the SUBSCRIBE button down below!\" appears at the bottom of the video player. Along the bottom of the screen, a red and white banner repeats \"WWW.JASPYSCASEBREAKS.COM\". Across the sequence, the content remains static, with no visible changes in the text, the man's position, or the overall interface."
+}

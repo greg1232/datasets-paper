@@ -1,0 +1,15 @@
+{
+  "video_id": "9c9c60c9b7130822a0a0a2668e2b3da6",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.401,
+    4.204,
+    7.007,
+    9.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand interacts with the engine of a vehicle, focusing on a rusted exhaust pipe and a silver engine component branded with the logo \"POLARIS\". In the initial scene, the exhaust pipe runs horizontally across the top of the engine assembly, which includes various wires and mechanical parts. The person's hand then enters the frame, gripping and moving the exhaust pipe. As the sequence progresses, the person's hand reaches down toward the lower section of the engine, near a metal shaft and various fasteners. The engine is weathered and covered in grime, with a visible barcode sticker on one of the components. The perspective shifts slightly between frames, alternating between a wide view of the engine block and a closer look at the exhaust pipe as the person manipulates the parts."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5ea2a375ef73188fd0e7d4325e988e66",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.797,
+    2.39,
+    3.983,
+    5.576
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A committee meeting takes place in an office setting featuring several individuals seated around tables. In the initial scenes, a woman in a brown blazer and a man in a dark suit are seen amidst other attendees, some wearing casual attire like a red jacket or a light-colored vest. Laptops, water bottles, and papers are scattered across the tables. A consistent green banner across the bottom of each frame displays the logo \"ORCA\" and the text \"April 12, 2019 House Committee on General, Housing, and Military Affairs S.23 Increasing the Minimum Wage\". As the sequence progresses, the camera shifts perspective, moving from a wide shot of the room to closer views of a man with grey hair wearing a grey suit jacket. He is seen sitting at a table with a laptop open in front of him and a coffee cup nearby, while others in the room remain engaged in the proceedings."
+}

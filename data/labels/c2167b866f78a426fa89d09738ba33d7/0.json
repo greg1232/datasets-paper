@@ -1,0 +1,15 @@
+{
+  "video_id": "c2167b866f78a426fa89d09738ba33d7",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.26,
+    0.78,
+    1.3,
+    1.82
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen-recording shows a video conference or presentation interface. In the upper portion of the screen, a man with glasses wearing a dark blue button-down shirt appears in a small video window on the right side. The main content area features a black background with centered green text that reads \"Trial & Learning\" and \"An Insightful Journey\" underneath. The top of the screen displays multiple open browser tabs, some of which include the text \"Trial & Learning by Syternity\". As the sequence progresses, the man in the video window remains visible, occasionally shifting his posture or expression. The central presentation slide remains static throughout the frames, maintaining the same text and layout. A small label identifying the speaker as \"Jetty Michael\" is visible beneath his video feed."
+}

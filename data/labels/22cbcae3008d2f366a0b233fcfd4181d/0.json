@@ -1,0 +1,15 @@
+{
+  "video_id": "22cbcae3008d2f366a0b233fcfd4181d",
+  "url": "./data/segments/3EOkyr653jg-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.421,
+    1.264,
+    2.106,
+    2.949
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people are seated at a table in an indoor setting with a wooden wall and a landscape picture in the background. On the left, a person wears a black beanie, glasses, and a brown jacket over a white shirt. In the center, a person wears a brown leather jacket over a white shirt. On the right, a person wears glasses and a grey jacket over a blue checkered shirt. They are all focused on papers spread across the table, which also holds a red thermos and a clear water bottle. A blue graphic bar appears across the middle of the scene featuring a white logo and the text \"Backus/Today\". As the sequence progresses, the person on the left reads the documents and occasionally looks down, while the person in the center and the person on the right continue to flip through and review the papers on the table."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5b683a1b858b88798ecad415fcede297",
+  "url": "./data/segments/3Kxl1O310k8-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.205,
+    30.615,
+    51.025,
+    71.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide is displayed, featuring the heading \"Ensure transparency\" and an image of two open hands with the word \"TRUST\" written across the palms. Below this, a yellow header labeled \"Communicate\" tops a white table with four columns of text: \"Consider joint board appointment\", \"Report back regularly\", \"Promote efforts\", and \"Use webpage and social media\". In the top right corners of the scene, small inset video windows show a person with short dark hair wearing a dark blue garment. At the bottom left and right corners, the letters \"MHP\" are visible. Throughout the sequence, the content of the slide remains static, and the person in the video windows remains in a similar pose, with only slight movements in their expression and posture, indicating a steady presentation of the slide's content."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d21c1faba0037d096644ad297077d9d5",
+  "url": "./data/segments/3rHRnfTOnJQ-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.458,
+    1.375,
+    2.292,
+    3.208
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a blue long-sleeved button-down shirt sits at a keyboard in a studio setting with a purple backdrop. He is positioned in a small inset window at the top of the screen, where a microphone on a stand is visible in front of him. The main portion of the screen displays a close-up view of a piano keyboard and musical notation on a staff. As the sequence progresses, the man's hands press different keys on the keyboard, and the accompanying text and notes change. In the first instance, the text reads \"Bb Major 3rd\" with two notes on the staff. This changes to \"D Perfect 5th\" with two notes in the second instance. In the third instance, the text reads \"G Perfect 5th\" with two notes, and in the final instance, the text disappears while the notes remain on the staff."
+}

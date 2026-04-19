@@ -1,0 +1,15 @@
+{
+  "video_id": "fe6408b466cadb73612d825e3061c2d5",
+  "url": "./data/segments/3P1vSUbet40-Scene-0807.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt with \"CHECK IT\" printed on the front and a black baseball cap with a logo sits in a studio setting. He is wearing headphones and speaks into a professional microphone on a stand. In the background, a white banner features the text \"UNIQUE HUSTLE\" and several stars, while a screen displays the word \"BOSS\" and \"TALK 101\". On-screen overlays include a logo that says \"PODCAST\" and red text reading \"BOSS TALK 101\". Throughout the sequence, the man is gesturing with his hands while speaking; he begins with his right arm extended outward and then brings his hand closer to his chest. He maintains a consistent position in front of the microphone, with his head tilted slightly as he continues to talk."
+}

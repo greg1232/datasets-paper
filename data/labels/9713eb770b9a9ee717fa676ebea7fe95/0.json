@@ -1,0 +1,15 @@
+{
+  "video_id": "9713eb770b9a9ee717fa676ebea7fe95",
+  "url": "./data/segments/3a0FD1177FA-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.7,
+    5.099,
+    8.498,
+    11.897
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands work on a crafting project atop a white gridded cutting mat. The person wears a white smartwatch on their left wrist and a ring on their left ring finger. They manipulate pieces of green and brown patterned paper and a white rectangular piece. A clear acrylic stamp block is visible, bearing the text \"BIRTHDAY is filled with all the Best things!\". A white ink pad labeled \"MEMEN\" is also present on the mat. Initially, the person positions a patterned green piece over a brown background. As the sequence progresses, they adjust the placement of the patterned strips and the white rectangle. Finally, the person uses the acrylic stamp block to apply a stamp to the center of the card. A watermark reading \"Amazing Jill\" is visible at the bottom of the scene."
+}

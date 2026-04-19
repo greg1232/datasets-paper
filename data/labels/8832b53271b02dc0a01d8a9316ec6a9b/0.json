@@ -1,0 +1,15 @@
+{
+  "video_id": "8832b53271b02dc0a01d8a9316ec6a9b",
+  "url": "./data/segments/3TQScsCOS2k-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.145,
+    0.435,
+    0.725,
+    1.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A stylized composite image features a white cat wearing a silver conical party hat adorned with small gems. The scene is layered with overlapping graphics, including palm trees on the left and a pinkish background. Bold white letters, appearing to spell \"MEME,\" are layered across the center. In the upper left corner, a bright blue banner displays the text \"CLICK HERE TO SUBSCRIBE\" in white capital letters. The cat's face remains centered, but its eye color shifts from blue to green and then to pink as the sequence progresses. Small, fragmented graphics, including a cursor-like arrow and an abstract red shape, appear intermittently around the cat. The overall composition is a fast-paced collage of colorful, surreal elements that shift in color and layering throughout the clip."
+}

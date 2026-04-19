@@ -1,0 +1,15 @@
+{
+  "video_id": "f7a02062c19280001478ffdebe23a65f",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.192,
+    0.576,
+    0.959,
+    1.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of frames depicts a golden, three-dimensional geometric landscape composed of hexagonal pillars and recessed honeycomb patterns. The scene features a metallic, gold-colored surface where some hexagonal cells are raised into prisms of varying heights, creating a textured, undulating terrain. A small logo consisting of the letters \"VG\" inside a square border is visible in the top right corner of every frame. As the sequence progresses, the height of the hexagonal pillars shifts dynamically; pillars in the mid-ground rise and fall, altering the topography of the golden surface. The lighting creates highlights and shadows across the metallic edges, emphasizing the depth and movement of the structure. No people or other objects are present in the scene."
+}

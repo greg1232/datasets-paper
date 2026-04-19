@@ -1,0 +1,15 @@
+{
+  "video_id": "cc913e22148a3f3ede583b303f29d15b",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.6,
+    1.0,
+    1.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white team bus is parked in front of a modern building featuring the \"Real Madrid\" logo and text on its exterior wall. The bus is white with dark windows and a sleek design, positioned on a paved surface next to a grassy area with manicured shrubbery in large grey planters. A white logo of the club is also visible in the top right corner of the scene. On-screen text in the lower-left area identifies the location and date as \"CIUDAD REAL MADRID MONDAY 13TH\" with a timestamp of \"10:07\". Throughout the sequence, the scene remains static, with no movement of people or vehicles, and no changes in the lighting or composition. The frames show a consistent view of the bus and the architectural backdrop of the training facility."
+}

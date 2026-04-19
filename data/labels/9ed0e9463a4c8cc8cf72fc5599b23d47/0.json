@@ -1,0 +1,15 @@
+{
+  "video_id": "9ed0e9463a4c8cc8cf72fc5599b23d47",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.758
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital screen displays a command-line interface with a dark background and white and green text, showing logs and terminal commands. The text includes commands such as \"kubectl create -f ./fluent-bit-configmap.yaml\" and \"less fluent-bit-configmap.yaml,\" along with detailed log entries featuring timestamps and system paths like \"/var/log/faillog\" and \"/var/log/kern.log.\" The interface is divided into multiple panes, with a status bar at the bottom showing \"edisiper\" and \"monoxs.\" As the sequence progresses, the screen remains static, but a white cursor moves across the bottom edge of the display. The cursor travels from the left side, across the center, and toward the right, eventually resting near the bottom right corner. The overall layout persists throughout, with the technical logs and configuration commands remaining visible as the cursor navigates the lower portion of the screen."
+}

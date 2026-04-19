@@ -1,0 +1,15 @@
+{
+  "video_id": "7d555fed8cd976fe52a4667e1f5284fc",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-169.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.536,
+    4.609,
+    7.682,
+    10.755
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair, identified by the on-screen text \"Nancy Ramya,\" is captured in a medium close-up shot against a plain, light-colored wall. She is wearing a striped, dark-colored shirt and large black over-ear headphones. To her left, a sheer gold-colored curtain with a blue border hangs vertically. Behind her to the right is a light-colored horizontal surface. Across the sequence of frames, she is speaking, and her facial expressions shift as she talks. In the initial frames, her mouth is open mid-sentence with a focused expression. As the sequence progresses, her expression softens into a smile, revealing her teeth. Her head remains relatively centered, and her gaze shifts slightly as she communicates. The lighting remains consistent throughout, and the background remains static."
+}

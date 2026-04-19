@@ -1,0 +1,15 @@
+{
+  "video_id": "b6285e7a3d1e23ea66ea28b869a7bf1b",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot captures a mobile device screen displaying a scientific application titled \"Alpha Szenzsor eNose v1.0.14\". The screen shows a line graph plotting \"Current (\u00b5A)\" on the y-axis against \"Time (s)\" on the x-axis. Several colored lines represent different data channels, including \"Channel 2\", with a legend visible at the bottom. The graph displays a series of sharp vertical spikes followed by gradual decay curves. Below the graph, on-screen text reads \"Acquiring 5/200 (20s)\" next to a \"STOP\" button. The device's status bar shows a battery level of \"54%\" and a time of \"4:39 PM\". Across the sequence of frames, the graph updates in real-time as the time axis advances from 240 toward 360 seconds, and new data points are plotted, causing the lines to shift slightly to the right. No people or other settings are visible beyond the device screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f1b6d38d52ad6ead8ddfd2c57d725d8d",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-249.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.5,
+    0.833,
+    1.167
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen handling a trading card encased in a clear protective plastic slab. The scene is set in a room where a man wearing a dark blue t-shirt with a yellow logo on the chest is visible in a smaller picture-in-picture window, sitting in front of various boxes and equipment. The main view focuses on the card, which features a signature and is being moved over a white rectangular box. The logos \"JASPYS\" and \"CASEBREAKS.COM\" are prominently displayed in the upper and middle sections of the frame. As the sequence progresses, the hands tilt and shift the encased card, revealing different angles of the item and the surrounding surface, which includes a colorful patterned mat. The man in the inset window remains seated, observing the process while the card is carefully manipulated in the foreground."
+}

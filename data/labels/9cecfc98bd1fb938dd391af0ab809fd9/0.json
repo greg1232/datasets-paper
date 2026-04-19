@@ -1,0 +1,15 @@
+{
+  "video_id": "9cecfc98bd1fb938dd391af0ab809fd9",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-105.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head, wearing a light-colored collared shirt, is filmed in a close-up shot against the backdrop of a stadium with dimly lit seating. The Real Madrid club crest is visible in the top center of several frames. The man is speaking, and his facial expressions shift slightly as his mouth opens and closes across the sequence. At the bottom of the frames, bilingual subtitles appear in white text. The Spanish text reads, \"haber marcado mi primer gol con el Real Madrid y\", while the English translation below it reads, \"I scored my first goal with Real Madrid and\". The lighting focuses on the man's face, creating a contrast with the dark, blurred background of the arena. The scene remains static in terms of location and subject, capturing only the subtle movements of his speech."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "be80dc92ea31bd3afeaa41196459dbb8",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.426,
+    4.279,
+    7.132,
+    9.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A surreal, red-toned environment features textured, rocky terrain and drifting clouds of red smoke. Centered in the scene is large, three-dimensional white text that reads \"SHABEAR 1000\". As the sequence progresses, the red smoke becomes increasingly dense, swirling around the text and partially obscuring it. In the third stage, a bright white flash erupts from the center, momentarily washing out the text and the surrounding landscape. Finally, the light fades and the smoke clears slightly, revealing the \"SHABEAR 1000\" text once again, though it appears more illuminated and distinct against the dark, red-hued background. No people or other objects are visible in the scene."
+}

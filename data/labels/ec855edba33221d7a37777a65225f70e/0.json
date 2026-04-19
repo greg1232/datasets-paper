@@ -1,0 +1,15 @@
+{
+  "video_id": "ec855edba33221d7a37777a65225f70e",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-071.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.315,
+    6.945,
+    11.575,
+    16.205
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide for a \"CRYOGENIC ENGINEERING\" course, titled \"Tutorial \u2013 4,\" is displayed. The slide is authored by \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay,\" and features the NPTEL logo in the bottom-left corner. The initial frames focus on the section \"Location of $h_1$ and Additional Work,\" featuring a mathematical formula for $\\varepsilon$. As the sequence progresses, the formula for $\\varepsilon$ is rearranged into an expression for $h_1$: $h_1 = \\varepsilon(h_i - h_g) + h_g$. In the final frame, a data table is introduced containing columns for indices 1, 2, f, and g, with rows for pressure (p), temperature (T), enthalpy (h), and entropy (s). A final calculation is shown at the bottom of the slide: $h_1 = 0.9(462 - 230) + 230 = 438.8 \\text{ J/g}$."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "fecb5c81162b41f0d3bfbbb26e2e7b2c",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an animated scene, a man with dark hair and a blue shirt enters a room through a doorway. A bright green circle highlights the man's head as he moves forward. A white speech bubble appears beneath him, which initially is blank but then displays the text \"Rick Segall\" in a stylized black font. Below the name, a small green button appears with the text \"Old\" written in white. As the man continues to walk into the room, a soft blue glow emanates from his chest and face, illuminating his features. The background is a simple interior with neutral-colored walls, decorated with floating colorful geometric shapes, including small stars, triangles, and pentagons, which drift across the scene as the man advances."
+}

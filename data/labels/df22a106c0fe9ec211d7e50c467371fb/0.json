@@ -1,0 +1,15 @@
+{
+  "video_id": "df22a106c0fe9ec211d7e50c467371fb",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-148.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.527,
+    1.58,
+    2.633,
+    3.686
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair in a high bun and braids wears a dark green t-shirt featuring a red circular graphic and the text \"S TALK 101.\" She is seated in a podcast studio, speaking into a black professional microphone mounted on a boom arm. Behind her is a dark backdrop with white and red text that includes \"S TALK 101,\" \"It's A Unique Hustle,\" and \"DCAST.\" To her left, a framed image of hands is visible on the wall, and several small containers sit on the table in front of her. As she speaks, she gestures animatedly with her hands, moving them outward and palms up to emphasize her points. Red and white logos with the text \"S TALK 101\" appear in the bottom corners of the scene. The camera remains static as her facial expressions and hand movements shift across the sequence."
+}

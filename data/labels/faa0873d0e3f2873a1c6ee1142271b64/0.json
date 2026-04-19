@@ -1,0 +1,15 @@
+{
+  "video_id": "faa0873d0e3f2873a1c6ee1142271b64",
+  "url": "./data/segments/3EO0YIxkle8-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.688,
+    1.147,
+    1.606
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A map of the island of Hispaniola displays the nations of Haiti and the Dominican Republic. On the Haitian side, various city names are labeled, including \"Cap-Haitien,\" \"Saint-Marc,\" \"Jeremie,\" and \"Les Caves.\" On the Dominican side, labels include \"Santiago,\" \"Bonao,\" and \"Santo Domingo.\" A red star marker is positioned in the southern region of Haiti, over an area shaded with yellow, orange, and red colors, indicating a focal point or hazard zone. As the sequence progresses, a semi-transparent white light or glare sweeps across the map from right to left, partially obscuring the visibility of the landmasses and text in the latter frames. No people, clothing, or equipment are present in the imagery."
+}

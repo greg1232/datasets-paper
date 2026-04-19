@@ -1,0 +1,15 @@
+{
+  "video_id": "e64824ee5dde0c41535e563506048fbe",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.355,
+    1.065,
+    1.775,
+    2.485
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a dark grey vest over a light-colored shirt, is speaking into a microphone labeled \"ANI\" in an outdoor setting with green trees and a white fence in the background. News overlays occupy the top and bottom of the screen. The top banner features the text \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\" alongside the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo. Small portrait photos of other men, labeled \"\u092e\u0902\u0924\u094d\u0930\u0940 \u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\" and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930,\" appear on the right side, while a photo of \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\" is on the left. A bright yellow and red \"BREAKING NEWS\" banner runs across the bottom, accompanied by a time stamp of \"10:02 PM.\" Throughout the sequence, the man continues to speak, with slight variations in his facial expression and head posture as he addresses the interviewer."
+}

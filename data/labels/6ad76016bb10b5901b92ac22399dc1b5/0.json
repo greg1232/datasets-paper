@@ -1,0 +1,15 @@
+{
+  "video_id": "6ad76016bb10b5901b92ac22399dc1b5",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-380.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is broadcast from a stadium, featuring players in white and dark uniforms facing off on a green grass field. The word \"COMMANDERS\" is printed in large white letters across the turf. An on-screen scoreboard displays the game state, including \"3rd & 4\", the score \"14\" and \"7\", and a game clock at \"2:33\". The top of the screen features a banner with the phrase \"OFFENSE AT WORK\". In the bottom left corner, a small inset window shows a man with blond hair wearing a dark shirt, appearing to commentate on the action. As the sequence progresses, the players on the field shift positions slightly as they prepare for a play, and the man in the inset window speaks, though his expression remains relatively neutral. The overall scene captures a momentary pause in professional football action."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "27a9d43afc67b3d331dd6f6745c80a1d",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand points toward a mechanical assembly, likely part of a vehicle's engine or drive system. The focal point is a circular, metallic cooling fan or pulley with radiating fins, centered around a bolt. A dark belt runs across the top and left side of this component. To the left, a smaller pulley is visible, and to the right is a large, smooth metallic shield. The person's finger remains in a relatively constant position, pointing toward the area where the belt meets the main pulley. Across the sequence, there is minimal movement; the hand and the mechanical components stay virtually static, with only slight shifts in lighting and a tiny amount of motion in the finger as it presses against the machinery. There is no on-screen text or logos visible in the scene."
+}

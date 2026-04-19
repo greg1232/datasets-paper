@@ -1,0 +1,15 @@
+{
+  "video_id": "a152f768be039b43b34b09f3a727c221",
+  "url": "./data/segments/3P5zYKAFzh4-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.311,
+    6.932,
+    11.553,
+    16.174
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grayscale illustration depicts a small, furry, creature-like animal with prominent red eyes. The creature has large, rounded ears and long, thin fingers with sharp claws, one of which is extended upward as it clings to a pale, vertical surface that resembles the bark of a tree. The creature's fur is rendered with fine, dense lines, and its gaze is directed forward. To the left of the creature, a stylized, swirling organic shape is visible on the surface. The background consists of muted, sketch-like architectural or natural forms. Throughout the sequence, the image remains static; the creature's position, its facial expression, and the surrounding elements do not change, resulting in a still scene across all frames."
+}

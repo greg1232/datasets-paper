@@ -1,0 +1,15 @@
+{
+  "video_id": "c5f637c6a32bf16bbb56772506a6c77a",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-169.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.4,
+    1.2,
+    2.0,
+    2.8
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video conference call interface. At the top of the screen, a browser window displays multiple open tabs, including \"True Learning by Systemic,\" \"Future of Society by Systemic,\" and \"Insights | Introduction to Alums.\" A small video feed in the upper right corner shows a man wearing a grey baseball cap and a dark shirt. The main area of the screen features a dark background with a network diagram of interconnected circles and lines. Within this diagram, there are smaller inset videos: one showing a person in a red dress and another person in a grey shirt and blue jeans standing together, and another showing a person in a red shirt. Small text labels such as \"play\" and \"scrolling\" appear near some of the nodes. Throughout the sequence, the scene remains static with no visible changes in movement or content."
+}

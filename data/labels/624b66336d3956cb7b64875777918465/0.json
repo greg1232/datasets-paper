@@ -1,0 +1,15 @@
+{
+  "video_id": "624b66336d3956cb7b64875777918465",
+  "url": "./data/segments/3a0FD1177FA-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.991,
+    2.972,
+    4.953,
+    6.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen from a top-down perspective working on a cutting mat with a ruler. The person wears a white Apple Watch on their left wrist and uses both hands to interact with a sheet of paper titled \"DESIGNER SERIES PAPER\". This document displays images of various patterned papers and contains text including \"Your stampin-up.com\" and \"\u00a9 Stampin' Up!\". The person's left hand is positioned near the top of the page, and their right hand rests on the right side. As the sequence progresses, the person's left hand moves slightly downward, while the right hand remains mostly stationary on the paper. The cutting mat features a grid pattern and measurement markings, and a metal ruler is aligned vertically on the left side of the paper. A small red heart-shaped logo is visible in the lower left corner of the scene."
+}

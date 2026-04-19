@@ -1,0 +1,15 @@
+{
+  "video_id": "375ea1e8a1979ebe98f196617d2086ae",
+  "url": "./data/segments/3P1vSUbet40-Scene-0609.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.141,
+    0.422,
+    0.704,
+    0.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with distinctive tall, greyish hair, glasses, and headphones is speaking into a black professional microphone in a studio setting. He wears a white collared shirt paired with a bow tie and light-colored suspenders. In the background, a woman with pink hair and a green dress is visible, as is a sign that reads \"UNIQUE FASHIONS\" and a framed logo featuring a shield. Across the bottom of the scene, a logo on the left reads \"BOSS TALK PODCAST\" and text on the right reads \"BOSS TALK 101\". Throughout the sequence, the man remains the focal point, slightly shifting his head and facial expression as he speaks, while the background and equipment remain stationary. The lighting is bright and consistent, emphasizing the interior studio environment."
+}

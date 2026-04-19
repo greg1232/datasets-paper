@@ -1,0 +1,15 @@
+{
+  "video_id": "dce73d82fb226ed8aa7aa854c618197f",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.237,
+    0.396,
+    0.554
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a screen recording of a computer interface featuring print settings and a promotional overlay. The left side of the screen displays a list of names and regions, including \"BRIAN FRANK ATLANTIC,\" \"BRIAN FRANK CENTRAL,\" \"Kennard Bolt NORTHWEST,\" \"BRIAN FRANK PACIFIC,\" \"Kyle Barber SOUTHEAST,\" and \"BRIAN FRANK SOUTHWEST.\" To the right of this list are print configuration options for \"Curved sheet\" and \"Letter (8.5\" X 11\")\". A large logo for \"JASPYS CASEBREAKS.COM\" is visible at the top right. Overlaid on the right side is a video window showing a man with a beard wearing a dark shirt, appearing to speak. Below him, a red call-to-action reads, \"Hit the SUBSCRIBE button down below!\" with a \"Subscribe\" button. A website URL, \"WWW.JASPYSCASEBREAKS.COM,\" runs along the bottom. Across the frames, the visual elements remain static, with only minor variations in the man's facial expressions and posture."
+}

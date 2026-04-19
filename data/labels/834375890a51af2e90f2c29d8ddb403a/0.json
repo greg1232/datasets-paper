@@ -1,0 +1,15 @@
+{
+  "video_id": "834375890a51af2e90f2c29d8ddb403a",
+  "url": "./data/segments/3a0FD1177FA-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is using a paper trimmer to cut floral-patterned cardstock on a white wooden table surface. The scene features a gray cutting mat with measurement grids and a metal sliding blade mechanism. In the initial frames, the person's hands, one wearing a white wristband, are positioned around a strip of green and yellow floral paper and a piece of blue textured paper. As the sequence progresses, the person moves their hands away from the center of the trimmer, leaving a diagonal strip of the floral paper resting across the mat. A second, smaller strip of the same floral paper lies vertically to the right of the cutting area. The logo \"Stamping Jill\" is visible in the bottom left corner of each scene. The action focuses on the precise placement and trimming of crafting materials for a project."
+}

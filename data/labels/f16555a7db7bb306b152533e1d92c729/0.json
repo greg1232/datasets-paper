@@ -1,0 +1,15 @@
+{
+  "video_id": "f16555a7db7bb306b152533e1d92c729",
+  "url": "./data/segments/3phuyH7Y05U-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.242,
+    0.725,
+    1.208,
+    1.692
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a dark navy blue business suit, a light blue tie, and a white dress shirt stands in a bright indoor setting with a blurred cityscape visible through large windows in the background. He holds a dark folder or tablet in his left arm. Throughout the sequence, he speaks and gestures with his right hand to emphasize his points. In the beginning, he has a slight smile and holds his right hand close to his chest. As the scene progresses, he opens his mouth wider while speaking and extends his right arm outward, gesturing toward the side before bringing his hand back inward. His facial expressions are active and engaging as he maintains a professional posture. There are no visible logos, equipment, or on-screen text present in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "936329261c53b42cb81b02d4b81c31db",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-124.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.458,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a graded sports card in a clear plastic protector, featuring an image of Barry Larkin and his signature. The card is positioned centrally in the foreground, and the hands slightly shift its angle across the sequence. In the background, a man wearing a dark blue t-shirt sits at a desk with a microphone and computer equipment. A red and white logo reading \"JASPYS\" with \"CASEBREAKS.COM\" underneath is prominently displayed on the screen, along with a smaller version of the same logo and the phrase \"Sports Cards & More\" near the man. A black case of cards sits on the desk. The background also includes a decorative blue surface featuring green palm tree silhouettes. The scene remains mostly static, with only slight movements of the hands holding the card and the man in the background."
+}

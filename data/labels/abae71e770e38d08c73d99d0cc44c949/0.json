@@ -1,0 +1,15 @@
+{
+  "video_id": "abae71e770e38d08c73d99d0cc44c949",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.28,
+    0.84,
+    1.4,
+    1.96
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A soccer player in a light blue \"Fly Emirates\" jersey and bright green shorts and socks stands on a lush green field in a large stadium. In the background, red seating is visible behind a low wall featuring white text that reads \"CASTOR\" and \"JUNTOS POR UN MA\u00d1ANA M\u00c1S LIMPIO\". A white crest logo is positioned in the upper center of the scene. In the initial sequence, the player is walking forward, while another person in dark training gear is visible further back on the field. As the scene progresses, the main player comes to a stop and raises his hands toward his face in a celebratory or reflective gesture. Other figures in dark training gear appear in the background near the wall. By the end of the sequence, the player turns his body away from the camera, walking toward the right side of the field."
+}

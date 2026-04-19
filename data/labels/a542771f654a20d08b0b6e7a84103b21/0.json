@@ -1,0 +1,15 @@
+{
+  "video_id": "a542771f654a20d08b0b6e7a84103b21",
+  "url": "./data/segments/3pLMflJEGQ4-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.5,
+    4.5,
+    7.5,
+    10.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with a white beard and glasses is positioned in front of a lush green hedge. He is wearing a dark grey jacket with a fleece-lined collar over a matching grey turtleneck sweater. Throughout the sequence, he remains centered in the frame, looking directly at the camera. As the video progresses, he subtly shifts his posture and adjusts his facial expression, slightly opening his mouth as if beginning to speak. The background of dense green foliage remains static, providing a consistent natural backdrop. There is no on-screen text, logos, or additional equipment visible. The only movement is the man's slight head shift and the changing expression on his face, maintaining a close-up shot that focuses on his upper body and head."
+}

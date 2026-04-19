@@ -1,0 +1,15 @@
+{
+  "video_id": "85ce3f8a52e67d97008cee3514091ec9",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-092.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark, plaid, long-sleeved shirt stands in a kitchen setting, pouring a dark liquid from a glass bottle into a white, opaque bottle. The person's right hand holds the dark bottle tilted downwards, while their left hand steadies the white bottle from below. The dark bottle has a gold-colored neck band. A thin stream of dark liquid flows steadily from the mouth of the dark bottle into the opening of the white bottle throughout the sequence. The background is softly blurred, showing what appears to be kitchen cabinetry and a wall. Across the sequence, the action remains consistent, with the liquid continuously flowing and the person maintaining their grip and position, resulting in very little movement between the frames other than the fluid motion of the pouring liquid."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7073d9fd79fc0f97d758c03362892d02",
+  "url": "./data/segments/3a0FD1177FA-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.245,
+    0.735,
+    1.225,
+    1.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with a white smartwatch and a ring on their finger is working at a crafting table, using a paper trimmer to cut patterned paper. The table holds several pieces of floral-patterned paper, stamp blocks with the words \"Thank You\" and \"best things,\" and a white ink pad labeled \"MEMENTO\". In the first frame, the person's hands are positioned near the floral paper and the trimmer. By the second frame, they move a piece of floral paper toward the trimmer. In the third frame, the person aligns a strip of floral paper under the trimmer's blade, holding it steady. In the final frame, they apply pressure to the trimmer's sliding arm to cut the paper. The logo \"Stamping Jill\" is visible in the bottom left corner of each frame. The background consists of a white surface with grid markings."
+}

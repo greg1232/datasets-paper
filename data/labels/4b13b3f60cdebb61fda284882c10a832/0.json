@@ -1,0 +1,15 @@
+{
+  "video_id": "4b13b3f60cdebb61fda284882c10a832",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.425,
+    1.275,
+    2.125,
+    2.975
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call interface shows a man in a room with windows in the background. In the initial frames, he is centered in the view, wearing a dark shirt. A small text label reading \"Bill Sety\" appears at the bottom left of his video feed. As the sequence progresses, a second person enters the call on the right side of the screen. This second individual is a man wearing glasses and a blue button-down shirt. His video feed is accompanied by a text label at the bottom that reads \"Jerry Michael\". The scene transitions from a single-person view to a split-screen view, showing both participants simultaneously in their respective remote locations. The lighting remains consistent, and the participants appear to be sitting still while engaging in the digital meeting."
+}

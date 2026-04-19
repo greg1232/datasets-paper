@@ -1,0 +1,15 @@
+{
+  "video_id": "4e44a39089a7da0ea324fe990a2fe8a6",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-180.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.192,
+    0.576,
+    0.959,
+    1.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey baseball cap with a circular logo, and large black over-ear headphones is speaking into a professional microphone. He is positioned in a recording studio against a background of dark grey acoustic foam panels. The microphone, which has \"Blue\" printed on its arm, is mounted on a boom arm and positioned closely in front of his face. A tattoo is visible on the man's right upper arm. Across the sequence, the man remains in the same position, speaking and gesturing slightly with his hands. He appears to be engaged in a conversation or recording a podcast, with his facial expressions shifting slightly as he speaks. No other people are present, and there is no on-screen text beyond the brand name on the equipment."
+}

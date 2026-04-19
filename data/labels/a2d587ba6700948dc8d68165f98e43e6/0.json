@@ -1,0 +1,15 @@
+{
+  "video_id": "a2d587ba6700948dc8d68165f98e43e6",
+  "url": "./data/segments/3a0FD1177FA-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.975,
+    2.925,
+    4.875,
+    6.825
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is crafting a handmade card on a white gridded workspace. The person, wearing a ring on their left hand and a white smartwatch on their left wrist, is seen using their hands to position a narrow brown strip of paper onto a green floral patterned card base. In the initial stages, they hold the brown strip at the top while pressing the bottom down with their other hand. As the sequence progresses, they carefully align the strip on the left side of the floral card. Surrounding the central project are various crafting supplies, including additional floral paper scraps, clear stamping seals, and an ink pad labeled \"MEMEN\". A small tag in the upper right contains the text \"BIRTHDAY is filled with all the best things!\". A stylized logo that reads \"Stamping Jill\" is visible in the bottom left corner."
+}

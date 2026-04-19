@@ -1,0 +1,15 @@
+{
+  "video_id": "6adf246ba0a6eca886e249816ba77b34",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-118.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.875,
+    5.625,
+    9.375,
+    13.125
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a split-screen layout with Bola Tinubu on the left and a smaller inset video of Olusola Oyekanmi on the right. Tinubu wears a light blue traditional garment and a blue and white patterned cap, looking toward the camera. Oyekanmi, appearing \"ON THE PHONE,\" wears a red cap and a dark outfit, positioned against a purple background with the text \"OLUSOLA OYEKANMI\" and \"POLITICAL ANALYST\" above the location \"LAGOS.\" The screen is branded with the \"plusTV\" logo in the upper left corner. A white banner at the bottom displays \"PLUS POLITICS\" followed by the headline \"NIGERIA NEEDS ME \u2013 BOLA TINUBU.\" Across the frames, the visuals remain static, but the lower ticker changes; it initially shows \"WATCH ON\" with \"DStv CH 408\" and \"StarTimes CH 308\" logos, then shifts to \"WATCH ONLINE\" with the URL \"WWW.PLUSTVAFRICA.COM/LIVE-TV,\" and finally \"SUBSCRIBE\" with \"WWW.YOUTUBE.COM/PLUSTVAFRICA LIFESTYLE.\""
+}

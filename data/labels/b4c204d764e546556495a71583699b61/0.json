@@ -1,0 +1,15 @@
+{
+  "video_id": "b4c204d764e546556495a71583699b61",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.755,
+    5.265,
+    8.775,
+    12.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair tied back is seated at a table against a plain white background, speaking into a thin microphone. She is wearing a dark navy blazer over a maroon top. A clear plastic bottle of water sits on the table to her left. In the top left of each frame, the logo \"mediasite\" is visible. Throughout the sequence, the woman is talking, her expression shifting as she looks slightly to her left. Her hands, which are initially resting on the table, move to clasp together in front of her by the second frame and remain in that position through the end of the sequence. The camera remains stationary, capturing her from the waist up in a medium shot."
+}

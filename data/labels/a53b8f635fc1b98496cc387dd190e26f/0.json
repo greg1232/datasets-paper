@@ -1,0 +1,15 @@
+{
+  "video_id": "a53b8f635fc1b98496cc387dd190e26f",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-357.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played on a green grass field with white yard markers. Players wearing white jerseys and black jerseys compete, with one player in white being tackled by an opponent in black. The screen features a game overlay indicating \"2nd & 10\", a score of \"14\" versus \"7\", and a game clock at \"3:54\" with \"27\" seconds remaining in the quarter. In several shots, a wide view of the stadium shows players positioned across the field under bright lights. An inset window displays a man with blonde hair wearing a dark navy blue shirt. Text overlays in this window include \"MOMENTUM LEGEND\", \"X FACTOR\", and \"HOLD THE LINE\". As the scene progresses, the camera shifts from a close-up action shot of the tackle to a wide view of the field, while the game clock ticks down from \"27\" to \"22\" seconds."
+}

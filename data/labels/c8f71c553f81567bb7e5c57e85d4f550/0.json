@@ -1,0 +1,15 @@
+{
+  "video_id": "c8f71c553f81567bb7e5c57e85d4f550",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    13.459,
+    40.378,
+    67.296,
+    94.215
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light pink long-sleeved button-down shirt and a watch on his left wrist is speaking in an office setting. He is positioned in front of several computer monitors displaying financial charts and data. To his right, a window lets in bright daylight. The \"COINTELEGRAPH\" logo is visible in the top right corner of each scene. As he speaks, he gestures slightly with his hands, which are clasped in front of him. Behind him, more monitors are visible on a desk. In the final sequence, another man wearing a blue long-sleeved shirt briefly enters the scene from the right side, partially obscured as he interacts with the computer equipment. The speaker remains the central focus, maintaining his position and expression while talking throughout the clip."
+}

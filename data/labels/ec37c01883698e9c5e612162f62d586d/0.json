@@ -1,0 +1,15 @@
+{
+  "video_id": "ec37c01883698e9c5e612162f62d586d",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.33,
+    0.55,
+    0.77
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men in dark suits and white shirts are being interviewed on a grassy field within a large stadium, with red seating visible in the background. The man on the left holds a blue microphone with a white logo, while the man on the right holds a similar microphone. A professional video camera is partially visible in the left foreground. The Real Madrid club crest appears in the upper right corner of each scene. Throughout the sequence, the men remain stationary and continue their conversation, with only minor changes in their facial expressions. A blue graphic bar appears at the bottom of the frame, accompanied by a yellow circular icon. This icon evolves over time, starting as a simple circle, then transforming into a clock face, and finally becoming a stylized logo. The background features signage with the word \"WELCOME\" visible in the distance."
+}

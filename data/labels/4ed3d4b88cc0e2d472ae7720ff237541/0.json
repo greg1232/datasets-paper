@@ -1,0 +1,15 @@
+{
+  "video_id": "4ed3d4b88cc0e2d472ae7720ff237541",
+  "url": "./data/segments/3a0FD1177FA-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.109,
+    0.328,
+    0.547,
+    0.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's arms and hands are shown working on a white table covered with a gridded cutting mat. The person wears a white smartwatch on their left wrist and a ring on their left hand. They are interacting with a white flyer featuring the title \"DESIGNER SERIES PAPER,\" which displays images of various patterned papers. The flyer includes the text \"Visit stampingsoo.com and more for more designer series paper.\" In the beginning, the person's hands rest on either side of the paper. As the sequence progresses, the person lifts their left hand and points with their index finger toward the top right corner of the flyer. A metal ruler and a cutting tool are visible on the table next to the paper. A watermark reading \"Stamping\" is partially visible in the lower left of the scene."
+}

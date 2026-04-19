@@ -1,0 +1,15 @@
+{
+  "video_id": "f7390397e84b4ef023f23946a877fcbc",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-233.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.39,
+    1.17,
+    1.95,
+    2.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video call interface with a participant appearing in a small window in the upper right corner. The person wears a dark baseball cap and a dark shirt. The main area of the screen displays a complex digital mind map or conceptual diagram against a black background. This diagram consists of various colorful circular icons connected by curved blue lines. Several icons are labeled with green text, including \"Interdependence,\" \"Interconnectivity,\" and \"Invisible Ties.\" Other icons feature images, such as a lightbulb, a tree, and a silhouette of a person. At the top of the screen, multiple browser tabs are open, with legible text including \"Trust & Learning by Systemenics,\" \"Future of Society by Systemenics,\" and \"Rural Community Food System.\" The scene remains static across the frames, with no visible movement or changes in the diagram or the person's position."
+}

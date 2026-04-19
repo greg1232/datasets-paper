@@ -1,0 +1,15 @@
+{
+  "video_id": "3a2f73e8c7a313f80d2d254c8ae0398b",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-102.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.604,
+    0.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with blond hair and a dark shirt is visible in a small inset video window in the bottom-left corner, appearing to speak while sitting in a room with a decorated Christmas tree. The primary screen displays a video game menu titled \"UNOPENED PACKS,\" featuring a series of five stylized black and silver digital packs. Some of the packs are labeled with text such as \"PRESENT,\" \"BLITZ PRESENT,\" and \"KRAMPUS LOGIN PACK,\" with corresponding counts like \"x1\" listed below them. At the top of the screen, game statistics are visible, including the number \"173,037,\" \"14,600,\" \"2,943,543,\" and \"LV 19 (90).\" Throughout the sequence of frames, the scene remains static; the man continues his expression and posture in the inset window, and the menu layout, including the highlighted gold border around the first pack, remains unchanged."
+}

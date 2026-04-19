@@ -1,0 +1,15 @@
+{
+  "video_id": "6856b46c3faeba8cbe3cb2781484083b",
+  "url": "./data/segments/3rrLMM3eyQc-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene takes place in a formal meeting room where several men are seated at a long table. Two men in the foreground are prominently featured: one wearing a white button-down shirt and another in a dark suit with a red tie. An Israeli flag stands behind them. Throughout the sequence, the man in the white shirt interacts with a black folder on the table, first leaning over it and then lifting it. The man in the suit looks down at the table, occasionally adjusting his position. On the far left, another man in a khaki shirt is partially visible. A news ticker overlays the bottom of the screen with the headers \"FOREIGN NEWS\" and \"NUCLEAR PROGRAMME,\" followed by the text \"ISRAEL EXPECTS I.A.E.A. TO GIVE IRAN CLEAR WARNING AHEAD.\" A red \"SUBSCRIBE\" button and the URL \"WWW.YOUTUBE.COM/PLUSTVAFRICA\" are also displayed."
+}

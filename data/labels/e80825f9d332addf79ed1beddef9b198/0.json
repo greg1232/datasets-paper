@@ -1,0 +1,15 @@
+{
+  "video_id": "e80825f9d332addf79ed1beddef9b198",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-127.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A blue, glowing circular portal effect appears centered against a dark background. Within the center of this glowing blue ring, a rectangular white light begins to form and solidify. As the sequence progresses, the white light transforms into a clear blue banner containing bold, white text. The text on the banner reads \"PLUS POLITICS\". Below the text, a white semicircular arc is visible. A thin, light-blue curved line briefly arcs over the top of the text before disappearing. The animation moves from a blurred, glitchy light effect to a sharp, legible logo, while the surrounding blue energy of the portal continues to pulse and shimmer."
+}

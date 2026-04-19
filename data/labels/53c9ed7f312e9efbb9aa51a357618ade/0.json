@@ -1,0 +1,15 @@
+{
+  "video_id": "53c9ed7f312e9efbb9aa51a357618ade",
+  "url": "./data/segments/3tUAO4YGuKY-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.405,
+    1.215,
+    2.025,
+    2.835
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video transitions from a close-up shot of a blue banner featuring yellow stars and partial black text on a white background to a centered logo on a white screen. The logo consists of a blue rectangular emblem with a circle of yellow stars, positioned above the capitalized text \"IIEA\". Below this, the website \"iiea.com\" is listed, followed by the tagline \"Sharing Ideas Shaping Policy\". As the sequence progresses, the logo and accompanying text remain stationary and centrally positioned, but the background shifts from white to a solid dark grey. There are no people, equipment, or other objects visible in the frames."
+}

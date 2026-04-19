@@ -1,0 +1,15 @@
+{
+  "video_id": "676aa7c1258152ea0fab83ca3f1dad55",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.83,
+    2.49,
+    4.15,
+    5.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a simulated medical setting, three people are seated together. To the left, a man wears blue scrubs, a patterned surgical cap, and a face mask while looking down at a white piece of paper. In the center, a woman wears a grey jacket over blue scrubs and a face mask; she begins by looking toward the others, then raises her right hand to gesture and touches her forehead. To the right, a woman wears a pink scrub top, a blue patterned surgical cap, and a face mask, holding a white paper in her lap. All three are positioned in front of a light-colored wall with a screen visible in the background. Each frame features the logo and text \"Sim Week\" in the bottom right corner. As the sequence progresses, the woman in the center becomes more animated with her hand movements while the others remain relatively still."
+}

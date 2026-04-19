@@ -1,0 +1,15 @@
+{
+  "video_id": "a4df1903518aa186634df3c5862c553a",
+  "url": "./data/segments/3L_uHTClWfk-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.429,
+    1.287,
+    2.146,
+    3.004
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a screen recording of an official IRS website page detailing \"Required minimum distributions, or RMDs.\" The page features a blue header with the IRS logo and links for \"SEARCH | HELP | MENU.\" The text explains that retirement plan and IRA account owners must generally withdraw funds annually after reaching age 72. It specifies that \"The RMD rules require traditional IRA, and SEP, SERP, and SIMPLE IRA account holders to begin taking distributions at age 72, even if they're still working.\" The scene progresses as a cursor scrolls down the page, moving through a section on \"Retirement Plans\" involving 401(k), 403(b), and 457(b) plans. As the page scrolls, the text shifts upward, and a small vertical line cursor is visible on the screen, indicating the user's focus as they read through the regulatory requirements for distributions."
+}

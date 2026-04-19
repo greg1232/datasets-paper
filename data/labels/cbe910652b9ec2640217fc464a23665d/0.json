@@ -1,0 +1,15 @@
+{
+  "video_id": "cbe910652b9ec2640217fc464a23665d",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-129.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.45,
+    1.351,
+    2.252,
+    3.153
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A medical professional wearing blue surgical scrubs and light-colored gloves performs a procedure on a red, fleshy anatomical model. Using a pair of metal forceps, the person manipulates a thin white suture thread that is looped through the tissue. A metal retractor holds the surgical incision open to expose the interior of the simulated body part. Across the sequence, the forceps slightly shift and pull on the suture to tighten or adjust the stitch. In the bottom-left corner of each scene, a purple silhouette of a human figure appears next to a purple circle containing the text \"Day 5\". In the bottom-right corner, a logo consisting of three vertical lines is paired with the text \"Sim Week\". The background remains a consistent blue fabric, and the lighting is focused directly on the surgical site."
+}

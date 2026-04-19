@@ -1,0 +1,15 @@
+{
+  "video_id": "9d163314f028b75073a366e878b1dd2f",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-098.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.102,
+    0.306,
+    0.51,
+    0.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a stack of sports cards in their hand, displaying a card of Mike Conley. The card is encased in a clear protective sleeve and features a holographic, silver design. The person's hand remains steady across the sequence, holding the cards in front of a background featuring red and black patterns. To the right of the main action, a smaller inset video window shows a man with short dark hair wearing a black jacket, sitting at a table with more trading cards and supplies. On-screen text reads \"JASPYS\" and \"CASEBREAKS.COM\" in red and white. The scene remains largely static across the frames, with minimal movement in the person's grip and the man in the inset window, maintaining the focus on the Mike Conley card being showcased for a broadcast."
+}

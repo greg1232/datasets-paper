@@ -1,0 +1,15 @@
+{
+  "video_id": "a8fbbd29ace58aa958ee13ecc0878d31",
+  "url": "./data/segments/3l84m5pRmyk-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.55,
+    37.65,
+    62.75,
+    87.85
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair, wearing a blue button-down shirt with an \"INFOOBJECTS\" logo on the chest and a headset microphone, is speaking in a studio setting. Behind him is a light-colored backdrop featuring the text \"theCUBE\" and \"siliconANGLE\". In the first frame, he looks to his right and speaks. By the second frame, he turns his head toward the center, and a small \"SPONSORED BY INFOOBJECTS\" graphic appears on the screen. In the third frame, he gestures with his right hand while continuing to talk, and a blue 3D cube graphic appears in the bottom left corner along with a tag that reads \"#BigDataSV 2015\". In the final frame, he remains facing forward, speaking, while the \"#BigDataSV 2015\" tag persists. A dark folder or binder sits on the table in front of him throughout the sequence."
+}

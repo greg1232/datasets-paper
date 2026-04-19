@@ -1,0 +1,15 @@
+{
+  "video_id": "c3d6ea2a5eefa4568741ed1e44c45b93",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-224.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.48,
+    1.439,
+    2.398,
+    3.358
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey baseball cap with a circular logo, and large black headphones sits in front of a professional microphone. He is positioned against a dark grey background featuring textured acoustic foam panels. The microphone is mounted on a black boom arm and is positioned directly in front of his face. As the scene progresses, the man is speaking, his mouth moving and facial expressions shifting slightly. He maintains a consistent posture, leaning back slightly in his chair. The logo on the microphone is partially visible as \"Blue\". Across the frames, the only significant change is the subtle movement of his lips and jaw as he continues to talk, while the camera angle and the surrounding equipment remain static."
+}

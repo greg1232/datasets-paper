@@ -1,0 +1,15 @@
+{
+  "video_id": "9d5395aa1462d6aca4e5ca4f0cfeec72",
+  "url": "./data/segments/3P1vSUbet40-Scene-0846.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a distinctive tall, grey, textured hairstyle wears black glasses, over-ear headphones, a white button-down shirt, and a red and white patterned bowtie. He sits in a studio setting, positioned behind a professional microphone on a boom arm. In the background, walls are decorated with framed photos and various articles of clothing. On-screen text and logos are visible, including \"BOSS TALK 101\" and a logo that reads \"BOSS TALK PODCAST.\" Throughout the sequence, the man remains relatively still, looking slightly to the side with a neutral expression. The scene remains consistent across the frames, showing minimal movement as the man maintains his posture and gaze, with the background equipment and decor remaining stationary."
+}

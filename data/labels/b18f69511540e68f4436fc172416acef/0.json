@@ -1,0 +1,15 @@
+{
+  "video_id": "b18f69511540e68f4436fc172416acef",
+  "url": "./data/segments/3L_uHTClWfk-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.479,
+    0.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair is seen in a profile view, facing left and speaking. He is wearing a dark jacket over a white shirt with a dark tie. Behind him is a light-colored wall with a series of vertical bars or slats, creating a window-like effect. Through these slats, the blurred figure of another person wearing dark clothing is partially visible in the background. The scene remains static across the frames, with the only movement being the man's mouth as he continues to speak, his expression remaining serious and focused. No text, logos, or other equipment are visible in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ef4adce534e0273b4a078a036d68e7d2",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.35,
+    16.05,
+    26.75,
+    37.45
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide for a course on \"CRYOGENIC ENGINEERING\" is displayed, featuring a graph with axes labeled \"y\" and \"$\\epsilon$\". The graph shows a positive correlation where a line connects several data points, ascending as $\\epsilon$ increases from 0.75 to 1.0. Text in a box on the graph specifies the parameters: \"Working Fluid : Air\", \"Pressure : 1 bar $\\rightarrow$ 200 bar\", \"Temperature : 300 K\", and \"Linde \u2013 Hampson System\". The slide is titled \"Tutorial \u2013 1\" and includes the footer \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" alongside an \"NPTEL\" logo. Across the sequence, new text bullet points appear to the right of the graph. First, it states, \"Joining the points, we have the trend as shown in the figure.\" Then, a second bullet point is added: \"It is clear that as the effectiveness decreases, the yield y decreases drastically.\""
+}

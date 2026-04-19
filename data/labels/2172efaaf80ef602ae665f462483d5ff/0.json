@@ -1,0 +1,15 @@
+{
+  "video_id": "2172efaaf80ef602ae665f462483d5ff",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.252,
+    0.756,
+    1.26,
+    1.765
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with short blond hair and a blue shirt is featured in a small video overlay at the bottom left of a screen displaying a video game menu for \"TROY POLAMALU\". The menu shows a player card with an \"OVR\" rating of \"96\" and various statistics including a \"KEY\" section with ratings like \"94\", \"97\", and \"90\", and a \"GENERAL\" section listing \"5' 10\"\", \"207\", and \"75\". A digital image of a football player in a white and purple uniform stands to the right of the stats. The person in the video overlay is speaking and reacting, with his mouth open in an expression of surprise or excitement. Across the sequence, the screen content remains largely static, while the person in the overlay shifts his head and changes his facial expression slightly as he continues to react. On-screen text includes \"ATTRIBUTES\" and \"UPGRADES\" along a navigation bar."
+}

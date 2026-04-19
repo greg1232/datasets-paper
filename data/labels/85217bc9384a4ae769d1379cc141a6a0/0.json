@@ -1,0 +1,15 @@
+{
+  "video_id": "85217bc9384a4ae769d1379cc141a6a0",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-169.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.459,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An elderly man with white hair, wearing a blue short-sleeved button-down shirt, stands behind a brown wooden podium in a room with brown walls and window blinds. He appears to be giving a presentation, as he looks toward a small group of people seated in front of him. The audience consists of several individuals seen from the back, including a woman with long brown hair wearing a multicolored shawl, a person in a maroon shirt, and another person with white hair. Black speakers are visible on stands to the left of the speaker. The text \"ORCA\" is displayed on the right side of the screen. Across the sequence of frames, the man remains at the podium, shifting his posture slightly as he speaks, while the seated audience remains still, listening to the presentation."
+}

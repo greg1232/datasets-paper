@@ -1,0 +1,15 @@
+{
+  "video_id": "cb8e4ccba9a047121ec74ecadf38986e",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-335.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.94,
+    38.82,
+    64.7,
+    90.58
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a series of screenshots from a large-scale video conferencing call, featuring a grid of numerous participants in various indoor settings. The participants are primarily adults wearing casual clothing, such as t-shirts and button-down shirts, and many are wearing glasses. Some individuals appear to be listening attentively, while others are speaking or adjusting their positions. Legible on-screen names beneath some video feeds include \"Jerry Michalski,\" \"Edward J. Lawrence,\" \"Jerry Ballinger,\" \"Sander van Vyve,\" and \"Ryan Lageman.\" The background environments vary, showing home offices with bookshelves, curtains, and neutral-colored walls. As the video progresses, the arrangement of the video feeds remains consistent, but the facial expressions and postures of the participants shift slightly as they interact throughout the meeting. No significant changes in location or equipment occur across the frames."
+}

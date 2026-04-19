@@ -1,0 +1,15 @@
+{
+  "video_id": "e4e1cb81b6c5beb3573ee9b2bd67800d",
+  "url": "./data/segments/3L_uHTClWfk-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.258,
+    0.775,
+    1.292,
+    1.808
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor office setting, a man in a dark grey suit with a patterned red tie stands centrally, positioned in front of a flat-screen television and a framed picture on the wall. To his left, another man wearing a white dress shirt is visible, and to his right, a woman with blonde hair wearing a dark turtleneck is partially seen. As the sequence progresses, the man in the suit shifts his expression from a focused, neutral look to an open-mouthed speaking gesture, while his right hand begins to move slightly. The man in the white shirt remains in the lower-left foreground, his expression shifting as he speaks or reacts. The woman on the right remains relatively still, looking toward the center. The background remains constant, showing a neutral-colored wall and the edge of the electronic equipment."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "8b03c9399c3d9a80544d1d2a1228f2f3",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.392,
+    1.176,
+    1.96,
+    2.744
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A camera positioned low on the side of a dark-colored car captures a view of a road and its surroundings. A silver emblem is visible on the car's fender in the foreground. In the distance, a white car drives away from the camera along the asphalt road, which is marked with white lines. The surrounding area includes green trees, grassy patches, and several light-colored buildings under a blue sky with scattered white clouds. As the scene progresses, the camera's perspective shifts, showing more of the road and the distant landscape. The white car continues to move further away, eventually disappearing from view. The lighting remains consistent, with bright daylight illuminating the scene, while the dark surface of the car reflects the surrounding environment."
+}

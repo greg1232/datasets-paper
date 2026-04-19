@@ -1,0 +1,15 @@
+{
+  "video_id": "b30f1c251636cc6cc1b36112b33394e5",
+  "url": "./data/segments/3P1vSUbet40-Scene-0620.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a tall, spiked grey wig is recording a podcast in a room decorated with many framed photographs on the wall. He wears a white collared shirt, a brown bowtie, and brown suspenders, with black headphones over his ears. A professional microphone is positioned in front of him. On the left side of the screen, a logo reads \"BOSS TALK JOY PODCAST,\" and on the right, the text \"BOSS TALK JOY\" appears. As the sequence progresses, the man is seen speaking and gesturing; in one moment, he raises his right hand to adjust his sleeve or wrist. His expression remains focused as he speaks into the microphone, while the background and equipment remain static throughout the scene."
+}

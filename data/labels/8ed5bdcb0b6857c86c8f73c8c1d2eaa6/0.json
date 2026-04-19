@@ -1,0 +1,15 @@
+{
+  "video_id": "8ed5bdcb0b6857c86c8f73c8c1d2eaa6",
+  "url": "./data/segments/3F2rz23IKUk-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.545,
+    4.635,
+    7.725,
+    10.815
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide with a white background and black text is displayed. The slide features the heading \"Open Source is business friendly\" followed by a bulleted list of four points. The text reads: \"No Open Source licenses prohibit commercial reuse\", \"Trademark restrictions are rare\", \"Cost is difficult to beat\", and \"Easy to modify to suit individual requirements\". Throughout the sequence of frames, the image remains completely static; there are no people, objects, or movements. The text and layout do not change, showing the same information across all moments of the clip."
+}

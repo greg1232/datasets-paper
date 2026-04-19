@@ -1,0 +1,15 @@
+{
+  "video_id": "6faa58f4e5b7957f4dfa9b57e87dacaf",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-169.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.204,
+    0.612,
+    1.021,
+    1.429
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person\u2019s hands are shown opening a gold trading card pack over a table decorated with a palm tree pattern. In the initial frames, the hands slide a gold card out of a foil wrapper. As the action progresses, a trading card is revealed, featuring a player's image and a signature. The card is held up to the camera, showing the text \"CASEBREAKS.COM\" and a \"JASPYS\" logo on the screen. In the background, a man wearing a black t-shirt with a yellow logo is visible in a small picture-in-picture window, appearing to watch the process. The setting includes a white box and other trading card equipment on the table. Throughout the sequence, the \"JASPYS\" and \"CASEBREAKS.COM\" logos remain consistently visible on the screen as the card is extracted and displayed."
+}

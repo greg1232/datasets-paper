@@ -1,0 +1,15 @@
+{
+  "video_id": "033831760698468c9cb8e8775881ded6",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-136.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.355,
+    1.064,
+    1.773,
+    2.482
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a brightly lit indoor room, three individuals are seated and engaged in a discussion. Two women are dressed in blue medical scrubs and face masks; one sits to the left, while the other is seated center, holding papers. A man, wearing a grey checkered shirt and a face mask, sits to the right with his back partially to the viewer. Between the women and the man is a small white table. As the sequence progresses, the woman in the center shifts her posture and looks toward the man, who remains relatively still. To the left, the first woman continues to hold papers in her lap. The scene includes a white board and a large dark screen in the background. On-screen graphics appear in each frame: a purple icon with the text \"Day 5\" on the left and the text \"Sim Week\" next to a small icon on the right."
+}

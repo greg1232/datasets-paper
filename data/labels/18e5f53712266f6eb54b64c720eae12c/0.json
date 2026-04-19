@@ -1,0 +1,15 @@
+{
+  "video_id": "18e5f53712266f6eb54b64c720eae12c",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-074.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.238,
+    0.713,
+    1.189,
+    1.664
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A surfer wearing a dark wetsuit rides inside the barrel of a large, crashing ocean wave. The scene is dominated by the dark blue water of the wave's face and the white, churning foam of the crest. Across the center of the frames, stylized white text animates into view. Initially, the text appears as swirling, abstract shapes that gradually resolve into legible words. As the sequence progresses, the text stabilizes and becomes fully clear, reading \"the Tiger Technicians Hour\". The surfer remains in a consistent position relative to the wave, gliding forward as the text transitions from a distorted, flowing form into a static title overlaying the action."
+}

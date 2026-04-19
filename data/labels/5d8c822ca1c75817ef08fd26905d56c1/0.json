@@ -1,0 +1,15 @@
+{
+  "video_id": "5d8c822ca1c75817ef08fd26905d56c1",
+  "url": "./data/segments/3QD9oO6sRns-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.702,
+    14.106,
+    23.51,
+    32.915
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser displaying a document titled \"Fr. 06.26.20 10Box (1/2) RT #11 2020 Topps Clearly Authentic Baseball ( L...\". The page features the \"JASPYS\" logo and the text \"CASEBREAKS.COM\" at the top, along with red banners that say \"Hit the SUBSCRIBE button down below!\". A list of names and baseball teams is visible on the left side, including \"David Chang\" for \"SAN DIEGO PADRES\" and \"Nicholas Kaebig\" for \"BALTIMORE ORIOLES\". On the right side, a video player shows a man wearing a black t-shirt and a baseball cap, gesturing with his hands while speaking. As the video progresses, the browser window is scrolled down, causing the list of names and teams to shift upward, revealing further entries such as \"Steve Wong\" for \"LOS ANGELES ANGELS\" and \"Matt More\" for \"TAMPA BAY RAYS\"."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7873c8c0deb89b7c4b2fa6548a59ddd7",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-073.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.781,
+    1.094
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair, wearing a grey and black plaid suit jacket, a white dress shirt, and a dark tie, is centered within a white circular frame against a solid black background. He is smiling and facing forward. The text \"Samuel Khaiba\" appears in a small white font on the black background, positioned to the left and center of the circular portrait. Throughout the sequence, the man's expression and posture remain static, and the positioning of the circular frame and the text \"Samuel Khaiba\" does not change. The scene remains completely still across all frames, with no visible movement or changes in the setting or the subject."
+}

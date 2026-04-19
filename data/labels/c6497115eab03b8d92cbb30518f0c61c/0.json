@@ -1,0 +1,15 @@
+{
+  "video_id": "c6497115eab03b8d92cbb30518f0c61c",
+  "url": "./data/segments/3QD9oO6sRns-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.633,
+    1.9,
+    3.167,
+    4.433
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen from a first-person perspective during a card-breaking event. The setting is a table covered with a black mat featuring the \"JASPYS CASEBREAKS\" logo in red, white, and orange. Numerous boxes of \"Clearly Authentic 2020\" trading cards are stacked in the background. In the distance, a man wearing a black t-shirt and a black baseball cap is visible. A person's hands interact with the table, moving colored dice across the surface. A blue die and a red die are initially present, and the person's right hand enters the frame to adjust them. Small digital overlays in the corner include the text \"JASPYS CASEBREAKS.COM\". As the sequence progresses, the person's hand moves the dice and eventually introduces a translucent orange die onto the mat near the \"JASPYS\" logo."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "995fed126349363cbebc9a60bb7a2148",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-574.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.344,
+    1.032,
+    1.72,
+    2.409
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt with the text \"I NEED DO SL7 ORK\" and a black baseball cap with headphones is speaking into a professional microphone. He is seated in a room that appears to be a studio or a retail space, with framed pictures on the wall behind him and a white mannequin dressed in a white shirt in the background. The man rests his chin on his hand, maintaining a serious expression as he speaks. Two logos are visible on the screen: a circular logo on the left and a red text logo on the right that reads \"Silly Fox\". Throughout the sequence, the man remains in the same position, with very slight movements in his facial expression and head posture as he continues to talk."
+}

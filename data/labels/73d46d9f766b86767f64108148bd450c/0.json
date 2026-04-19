@@ -1,0 +1,15 @@
+{
+  "video_id": "73d46d9f766b86767f64108148bd450c",
+  "url": "./data/segments/3P1vSUbet40-Scene-0744.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black baseball cap, black headphones, and a black t-shirt with \"CHECK IT\" printed on it sits in a podcast studio. He is positioned in front of a professional microphone and has his hand resting against his chin, looking off-camera with a thoughtful expression. He wears a gold watch on his left wrist and a gold necklace. The background features a white wall adorned with gold stars and the words \"GRINDED HUSTLE\" repeated vertically. To the right, a dark wall displays the \"BOSS TALK 101\" logo. Overlaid on the scene are graphic elements, including a circular logo that says \"BOSS TALK 101 PODCAST\" and a red banner that reads \"BOSS TALK 101\". Across all four frames, the man remains in a nearly static position, with only slight, subtle shifts in his gaze and posture."
+}

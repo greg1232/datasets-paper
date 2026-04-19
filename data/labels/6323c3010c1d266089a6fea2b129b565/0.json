@@ -1,0 +1,15 @@
+{
+  "video_id": "6323c3010c1d266089a6fea2b129b565",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-164.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, black headphones, and a black sweatshirt sits in a studio setting. His sweatshirt features gold lettering that reads \"BOSS TALK\" and a small circular logo. He is positioned behind a desk with a professional microphone on a boom arm in front of him. In the background, a white wall displays the repeated gold text \"ORIGINAL HUSTLE\" accompanied by stars. A blue sign above the man reads \"Where BOSSES Talk!\". On the desk to the right, a container is visible with a red and white label that reads \"BOSS TALK OUT\". To the left, a smaller logo featuring a microphone and \"BOSS TALK\" is partially visible. Across the frames, the man remains in a seated position, slightly turning his head and shifting his facial expression while looking toward someone off-screen to his right."
+}

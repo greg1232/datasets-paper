@@ -1,0 +1,15 @@
+{
+  "video_id": "3468a85d60f445d3556a74a415c6c1de",
+  "url": "./data/segments/3Z229_lKLpk-Scene-177.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.285,
+    0.855,
+    1.425,
+    1.995
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide-angle shot captures a large assembly hall filled with people seated in tiered, curved rows. Many individuals are dressed in light-colored or white traditional attire, while others wear diverse colorful clothing. People are seated behind desks equipped with small blue screens and microphones. Throughout the sequence, the crowd remains largely stationary, though some subtle shifts in posture and slight movements of heads and hands occur as individuals interact or listen. The lighting is bright and consistent across the spacious room, highlighting the repetitive pattern of the seating arrangement and the density of the gathering. No legible on-screen text or logos are visible in the frames. The scene remains visually stable, depicting a formal gathering in a large legislative or conference-style setting."
+}

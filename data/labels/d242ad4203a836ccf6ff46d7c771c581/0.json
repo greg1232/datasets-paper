@@ -1,0 +1,15 @@
+{
+  "video_id": "d242ad4203a836ccf6ff46d7c771c581",
+  "url": "./data/segments/3QD9oO6sRns-Scene-101.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.298,
+    0.894,
+    1.49,
+    2.085
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a box of Topps \"CLEARLY AUTHENTIC 2020\" sports cards. The box sits on a green surface, and multiple other identical boxes are stacked in the background. Throughout the sequence, the person handles the packaging, removing a clear plastic wrapper. The scene is framed with a graphic overlay featuring the \"JASPYS CASEBREAKS\" logo in orange and white, accompanied by the URL \"CASEBREAKS.com\". In the bottom right corner, a small inset video shows a man wearing a black t-shirt with red text, watching the process. As the action progresses, the hands pull the plastic away from the box and shift the box's position. The background remains a consistent indoor setting with a white wall and a red and white object partially visible on the left side of the table."
+}

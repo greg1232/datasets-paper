@@ -1,0 +1,15 @@
+{
+  "video_id": "a9462e905d6a46b4ec009c4c3bd44bfe",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.562,
+    0.787
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a screen recording of a computer interface, featuring a web browser window open to \"localhost:3000\". At the top of the screen, a system taskbar is visible with text including \"Activities\", \"Google Chrome\", and a date and time stamp reading \"Oct 28 00:21\". In the upper right corner, a small inset video feed displays a man with short dark hair wearing a light-colored collared shirt, looking directly at the camera. The main content area of the browser window is almost entirely black, except for a very small, faint white character or symbol positioned near the top left. Across all frames, the visual content remains static, with no discernible change in the man's expression, the system clock, or the contents of the black browser window."
+}

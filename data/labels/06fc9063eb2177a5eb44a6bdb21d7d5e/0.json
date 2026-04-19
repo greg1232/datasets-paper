@@ -1,0 +1,15 @@
+{
+  "video_id": "06fc9063eb2177a5eb44a6bdb21d7d5e",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.246,
+    0.738,
+    1.23,
+    1.723
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black long-sleeved garment and a dark beaded bracelet on their left wrist is seated at a light-colored wooden desk. They are using both hands to count through a thick stack of US dollar bills, including twenties. The desk is cluttered with various white papers, documents, and a black calculator. A small, square gold logo containing the letters \"VG\" is visible in the upper right corner of the scene. As the sequence progresses, the person\u2019s fingers meticulously flip through the currency, shifting the bills and adjusting their grip to count them. The background remains static, with the calculator and papers staying in the same positions while the hands and the money are the only elements in motion."
+}

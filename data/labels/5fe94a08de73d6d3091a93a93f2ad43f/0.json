@@ -1,0 +1,15 @@
+{
+  "video_id": "5fe94a08de73d6d3091a93a93f2ad43f",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.683,
+    23.05,
+    38.417,
+    53.783
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair is seen in a small picture-in-picture window in the lower-left corner of a computer screen, appearing to present a financial trading platform. He wears a dark blue shirt and speaks directly to the camera, with his facial expression changing slightly across the frames. The main screen displays a trading interface featuring a price chart for the EURGBP currency pair, marked with red, yellow, and green horizontal zones. The \"TICKMILL\" logo is prominently visible in the top-left corner. On-screen German text reads, \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN,\" followed by a list of platform features and the website \"www.tickmill.com/de/\". The chart shows price fluctuations over time with various vertical indicators. As the sequence progresses, the man continues speaking while the trading software remains open on the monitor."
+}

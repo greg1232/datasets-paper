@@ -1,0 +1,15 @@
+{
+  "video_id": "36eee7ae3852152e8fc8ccf717c85dbd",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.085,
+    0.255,
+    0.425,
+    0.595
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of men are gathered in an indoor setting, likely for a press briefing, as microphones are held up toward the central figure. The main man speaking wears glasses and a white shirt, while the men surrounding him wear traditional Indian attire, including a tan shawl and dark jackets. The scene remains consistent across the sequence, with the men standing close together and interacting with reporters. A red news ticker and graphics overlay the footage, featuring the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo and a timestamp of \"10:04 PM\". The on-screen text evolves from the first frame to the last, shifting from \"\u0938\u092c\u094d\u0930\u091f \u091a\u094c\u0927\u0930\u0940,\" to \"\u0938\u092c\u094d\u0930\u091f \u091a\u094c\u0927\u0930\u0940, \u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e \u0915\u094b \u092d\u0940 P\", and finally to \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 \u092a\u093f\u0915\u094d\u091a\u0930\" and \"\u0938\u092c\u094d\u0930\u091f \u091a\u094c\u0927\u0930\u0940, \u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e \u0915\u094b \u092d\u0940 PM \u0928\u0947 \u092c\u0927\u093e\u0908 \u0926\u0940\". Other text fragments like \"\u0921\u093f\u093c\u0937\u094d\u091f\u0940 CM\" and \"\u092e\u0902\u0924\u094d\u0930\u0940\" are visible throughout the frames."
+}

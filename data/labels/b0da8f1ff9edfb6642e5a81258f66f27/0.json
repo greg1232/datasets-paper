@@ -1,0 +1,15 @@
+{
+  "video_id": "b0da8f1ff9edfb6642e5a81258f66f27",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-238.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.479,
+    1.437,
+    2.396,
+    3.354
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds up a baseball card featuring a player in a purple jersey and cap, which is signed in blue ink and labeled \"LARS WALKER\". The card is positioned in front of a white box and a colorful background. In the background, a man with a beard wearing a dark shirt and a yellow logo on his chest sits at a desk with electronic equipment. The logo \"JASPYS CASEBREAKS.COM\" appears prominently in orange and white text across the upper right and center areas of the scene. As the sequence progresses, the hand subtly adjusts the position of the card, tilting it slightly to show the reflective gold border and the surface of the card. The man in the background remains seated, observing the process. The setting is a workspace dedicated to sports card breaking, with various containers and equipment visible on the desk."
+}

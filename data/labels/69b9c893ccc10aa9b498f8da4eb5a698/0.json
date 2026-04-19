@@ -1,0 +1,15 @@
+{
+  "video_id": "69b9c893ccc10aa9b498f8da4eb5a698",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.661,
+    7.983,
+    13.305,
+    18.627
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing dark clothing is positioned behind a green all-terrain vehicle (ATV) parked indoors. The ATV is equipped with a large green storage box mounted on the rear rack, which has several circular cutouts and the word \"POLARIS\" embossed on the metal frame. The person is leaning over the vehicle, appearing to interact with the storage box or the rear section of the ATV. In the background, a bright light source creates a strong glare, and various indoor structures and equipment are partially visible. Across the sequence of frames, the person's position shifts slightly as they move their upper body, leaning further over the storage box to perform a task. The lighting remains constant, and the perspective of the camera stays fixed, focusing on the rear of the green vehicle and the person's movements."
+}

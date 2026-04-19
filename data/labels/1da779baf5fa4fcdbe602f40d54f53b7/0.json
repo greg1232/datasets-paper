@@ -1,0 +1,15 @@
+{
+  "video_id": "1da779baf5fa4fcdbe602f40d54f53b7",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.479,
+    0.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is preparing a food mixture in a large metal bowl set on a light-colored wooden surface. The person, whose arm is partially visible, uses a red spatula to stir a coarse, light-brown grain or seed mixture. To the right of the bowl, a small white plate and a red bowl both contain portions of the same grain mixture. Each frame features a logo in the top left corner that reads \"UCAR CENTER FOR SCIENCE EDUCATION\". As the sequence progresses, the person continuously stirs the contents of the large bowl with the red spatula, moving the mixture around to blend it. The movement of the spatula creates a slight motion blur, indicating active stirring throughout the clip. The background remains static, and the ingredients in the side containers stay in place while the primary action occurs within the metal bowl."
+}

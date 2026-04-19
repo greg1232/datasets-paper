@@ -1,0 +1,15 @@
+{
+  "video_id": "c3594bdcb6b0749fc3e0cd5687ac1582",
+  "url": "./data/segments/3F2rz23IKUk-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.59,
+    7.77,
+    12.95,
+    18.13
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with glasses and brown hair stands in a neutral-toned room, wearing a black t-shirt and a blue lanyard with an ID badge. His t-shirt features a graphic image of a face and the text \"Knuth\". He begins by standing with his hands on his hips and looking forward. As time progresses, he shifts his weight and begins to lean forward. By the end of the sequence, he is tilting his head down and looking toward the floor, while his right arm moves away from his hip. A dark office chair is partially visible in the foreground of each scene. The background consists of plain, light-colored walls with a horizontal dividing line."
+}

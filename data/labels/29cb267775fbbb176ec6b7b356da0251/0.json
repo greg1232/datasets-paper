@@ -1,0 +1,15 @@
+{
+  "video_id": "29cb267775fbbb176ec6b7b356da0251",
+  "url": "./data/segments/3hLeTO8SC3U-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.001,
+    3.003,
+    5.005,
+    7.007
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a dark blue suit and tie engages in a conversation with another man wearing a dark blazer over a light blue shirt. They are seated in a large, open indoor venue with a polished floor, likely a convention center, with other people and structures visible in the distant background. Between them sits a table holding a laptop and several papers. The man on the left gestures with his hands while speaking, while the man on the right listens attentively. A graphic overlay at the bottom of the screen identifies the event as \"MONGODB WORLD 2022\" and includes the hashtags \"#MDW22 | #theCUBE\". The overlay also features the \"theCUBE\" logo, the text \"From the Javits Center, New York, NY\", and a \"Sponsored By MongoDB\" logo. As the sequence progresses, the man on the left shifts his posture and hand gestures, while the man on the right remains relatively still."
+}

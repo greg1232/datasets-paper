@@ -1,0 +1,15 @@
+{
+  "video_id": "d4e856a3e0f6c2be37cc51370870b5ce",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.769,
+    2.306,
+    3.844,
+    5.381
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a live stream interface showcasing a sports card breaking session. On the left side of the screen, a Google Sheet lists various NBA teams and associated usernames, such as \"Ryan Prey\" for \"NEW ORLEANS PELICANS\" and \"Carl Hagedorn\" for \"NEW YORK KNICKS.\" To the right, a chat window displays messages from \"glowbog27\" saying \"turning\" and \"Nightbot\" promoting a link with the text \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> http://bit.ly/NzGdeK9y.\" Below the chat, a video feed shows a man with a beard wearing a black t-shirt, standing in front of a background featuring the \"JASYP CASEBREAKS.COM\" logo. As the sequence progresses, the Google Sheet is edited to rearrange the list of names and teams, while the man in the video remains present, speaking and gesturing."
+}

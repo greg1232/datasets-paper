@@ -1,0 +1,15 @@
+{
+  "video_id": "ca342249d19425c11e94bb00793336c4",
+  "url": "./data/segments/3Z229_lKLpk-Scene-166.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.395,
+    1.185,
+    1.975,
+    2.765
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide-angle, high-angle shot captures a large, ornate hall with rows of people seated in tiered, semicircular seating. The attendees are dressed primarily in white attire, though some wear colorful clothing, and they appear to be listening attentively. The room features high ceilings with large, arched stained-glass windows and dark wood paneling. The seating is divided by green aisles. Across the frames, the camera slowly pans across the crowd, shifting the perspective slightly from left to right. The people remain seated and stationary, with very little movement visible between the frames. There is no on-screen text or logos present in the scene. The consistent lighting and composition emphasize the scale of the gathering and the formal architectural setting of the hall."
+}

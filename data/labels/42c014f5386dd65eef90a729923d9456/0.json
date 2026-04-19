@@ -1,0 +1,15 @@
+{
+  "video_id": "42c014f5386dd65eef90a729923d9456",
+  "url": "./data/segments/3E6ctN22V7k-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.155,
+    0.465,
+    0.775,
+    1.085
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static wide shot captures a grassy field under a cloudy, overcast sky, where two white, tent-like structures stand. The structures have peaked roofs and circular ventilation ports on their sides. In the foreground, tall grass sways slightly, partially obscuring the base of the buildings. Centered in the lower half of the frame, white on-screen text reads, \"We always come from somewhere, what is impressive, is the story.\" No people or equipment are visible in the scene. Across the sequence of frames, the camera remains stationary, and the visual composition remains virtually unchanged, with only subtle shifts in the movement of the grass and the cloud cover in the background."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f7f04423e3178e47c6982f6c8714cf88",
+  "url": "./data/segments/3QD9oO6sRns-Scene-090.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.256,
+    0.769,
+    1.281,
+    1.794
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is shown from a first-person perspective handling a Topps baseball card box in a room with multiple stacks of similar boxes in the background. The person's hand moves the box, which features the text \"CLEARLY AUTHENTIC\" and \"2020\" on the side. Overlaid on the footage is a large graphic reading \"JASPYS CASEBREAKS,\" and a small inset video window shows a man wearing a black t-shirt and a white baseball cap. Throughout the sequence, the hand shifts the box, tilting it and moving it closer to the camera to showcase the labeling. The setting appears to be a dedicated space for card breaking, indicated by the abundance of sealed product and the professional branding on the screen. The man in the inset video remains visible and attentive as the box is manipulated in the foreground."
+}

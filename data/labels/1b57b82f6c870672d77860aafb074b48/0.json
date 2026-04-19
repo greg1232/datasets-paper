@@ -1,0 +1,15 @@
+{
+  "video_id": "1b57b82f6c870672d77860aafb074b48",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-162.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.345,
+    0.575,
+    0.805
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a scene with several men gathered outdoors. A man in a black vest, white shirt, and red cap stands centrally, speaking while surrounded by other men in light-colored shirts and police uniforms. To the left, a small inset window displays a close-up of a man with glasses. On the right, smaller inset photos of other men appear. The screen is filled with news graphics, including a red header with the text \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\" and the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo. A yellow \"BREAKING NEWS\" banner spans the bottom, and a digital clock shows \"10:09 PM\". As the sequence progresses, the on-screen text and inset photos on the right change; names like \"\u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930\" and \"\u0935\u093f\u091c\u092f \u091a\u094c\u0927\u0930\u0940\" are replaced by \"\u0930\u093e\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\" and \"\u0928\u0923 \u0915\u0941\u092e\u093e\u0930\". The central group of people remains in a similar position, continuing their interaction in an outdoor setting with foliage visible in the background."
+}

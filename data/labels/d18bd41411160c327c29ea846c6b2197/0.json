@@ -1,0 +1,15 @@
+{
+  "video_id": "d18bd41411160c327c29ea846c6b2197",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.738,
+    2.213,
+    3.688,
+    5.163
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an outdoor setting with dry terrain and sparse vegetation, soldiers in camouflage military uniforms and gear are present. In the initial frames, soldiers are seen standing and moving, with one soldier wearing a blue band on their arm. Text reading \"Hero Ukraine\" is overlaid on the scene, and a red logo with the number \"13\" appears in the upper corners. As the scene progresses, the camera angle shifts to follow a soldier from behind who is wearing a tan backpack and a yellow band on their arm. This soldier moves across the ground, where a person is lying motionless on the earth. The \"Hero Ukraine\" text and the \"13\" logo remain visible throughout the sequence as the soldiers navigate the open area."
+}

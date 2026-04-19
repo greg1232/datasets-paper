@@ -1,0 +1,15 @@
+{
+  "video_id": "359c6c70b80c74ca2d068589352ceec3",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-130.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.256,
+    0.769,
+    1.281,
+    1.794
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short blond hair is featured in a small video overlay window on the left side of a screen displaying a digital sports game interface. The interface focuses on a player profile for \"#4 ROLB 90 JASON PIERRE-PAUL,\" showing a photo of the athlete in a black jersey and helmet. Various statistics and attribute bars are listed, including labels like \"KEY\" and \"GENERAL,\" alongside numbers such as \"6' 5\"\" and \"275.\" The top of the screen displays figures like \"173,037,\" \"14,600,\" and \"2,343,543.\" Across the sequence, the man in the overlay window reacts with excitement; he begins by raising both arms in the air with an open-mouthed expression and then lowers his arms, eventually settling into a more neutral posture while looking toward the screen. The game interface remains static throughout the clip."
+}

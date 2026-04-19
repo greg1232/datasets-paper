@@ -1,0 +1,15 @@
+{
+  "video_id": "dc8ac741848de85466bb9e7072b70125",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-197.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds up a sports trading card encased in a clear plastic protector, showcasing a signature and the notation \"2/5.\" In the background, a man with a beard wearing a navy blue shirt sits at a desk equipped with a computer monitor, keyboard, and a cardboard box. The desk area is decorated with a colorful tablecloth featuring orange and teal palm tree designs. On-screen overlays include the logo \"JASPYS\" and the text \"CASEBREAKS.COM\" appearing in the upper center of the scene. As the sequence progresses, the person holding the card shifts their grip and tilts the protector, reflecting light across the plastic surface. The man in the background remains seated at his workstation, looking toward the camera while the focus stays on the card being presented in the foreground."
+}

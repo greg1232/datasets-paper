@@ -1,0 +1,15 @@
+{
+  "video_id": "d4e734b76808fe835f72847d477af20a",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-363.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.442,
+    1.325,
+    2.208,
+    3.092
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen in a room with a computer setup, wearing a black t-shirt with a yellow circular logo. The scene alternates between a close-up of a screen and a shot of the person. The screen displays a website with a list of names and numbers, featuring text such as \"Don't use this service for giveaways! the Multi Round Giveaways instead\" and \"You have randomized this list 9 times.\" At the bottom of the screen, a YouTube subscription prompt reads \"Hit the SUBSCRIBE button down below!\" accompanied by a red Subscribe button. In the alternate shots, the person is seated at a desk with a monitor, keyboard, and several white boxes. One hand is visible near the keyboard in some frames. The video shifts between showing the digital randomization process on the monitor and the individual managing the session."
+}

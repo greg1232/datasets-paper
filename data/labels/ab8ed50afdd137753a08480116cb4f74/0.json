@@ -1,0 +1,15 @@
+{
+  "video_id": "ab8ed50afdd137753a08480116cb4f74",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-156.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.359,
+    1.076,
+    1.793,
+    2.511
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, dark hair and facial stubble is seated in a recording studio, positioned in front of a professional microphone on a boom arm. He wears large black over-ear headphones and a dark shirt over a grey undershirt. The background consists of dark grey acoustic foam panels with a ribbed, rectangular texture. As the sequence progresses, the man shifts his gaze, looking slightly to the right of the camera and then glancing further toward the side. His facial expression remains relatively neutral, with a slight movement of his lips as if speaking or reacting. The camera angle remains static, focusing on his upper body and the microphone, which stays centered in the foreground throughout the scene. No text or logos are visible on the screen."
+}

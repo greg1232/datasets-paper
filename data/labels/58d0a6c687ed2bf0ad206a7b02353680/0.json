@@ -1,0 +1,15 @@
+{
+  "video_id": "58d0a6c687ed2bf0ad206a7b02353680",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.405,
+    1.214,
+    2.023,
+    2.832
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A night scene depicts an outdoor grassy area where a small white boat on a trailer is parked. In the initial scene, a bright, circular white light illuminates the grass in the foreground, casting a glow on the surrounding dark environment. As time progresses, the light source vanishes, leaving the area in near-total darkness. Only the faint silhouette of the white boat and its trailer remains visible against the black background, with a small red light appearing on the boat's rear. The setting remains static, with no people present, and no legible text or logos are visible on the boat or trailer. The sequence shows a transition from a brightly lit spot in the dark to almost complete darkness, with the boat as the only recurring identifiable object."
+}

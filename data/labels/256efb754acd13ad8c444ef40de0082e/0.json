@@ -1,0 +1,15 @@
+{
+  "video_id": "256efb754acd13ad8c444ef40de0082e",
+  "url": "./data/segments/3QD9oO6sRns-Scene-154.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.29,
+    0.869,
+    1.448,
+    2.027
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen opening a box of baseball cards on a table. The box is dark with \"CLEARLY AUTHENTIC\" printed in large white letters. In the initial frames, the person removes a clear plastic wrap from the top of the box. A small picture-in-picture window in the lower right shows a man wearing a black t-shirt watching the process. The table is covered with a green surface featuring a large orange and white logo that reads \"JASPYS CASEBREAKS\". In the lower frames, the person slides the inner contents of the box out, revealing more \"CLEARLY AUTHENTIC\" branding and a \"Topps\" logo. Additional on-screen text includes a web address \"CASEBREAKS.com\" located near the picture-in-picture window. The scene progresses from the initial removal of the packaging to the exposure of the product inside the box."
+}

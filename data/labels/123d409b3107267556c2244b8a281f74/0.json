@@ -1,0 +1,15 @@
+{
+  "video_id": "123d409b3107267556c2244b8a281f74",
+  "url": "./data/segments/3Smz5pevbI4-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.526,
+    1.577,
+    2.628,
+    3.679
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a grey blazer and brown trousers stands beside a wooden lectern on a raised stage, while another man in a dark suit and tie sits in a black chair. Behind them is a white backdrop featuring a repeated circular logo and the text \"INSTITUTE OF PEACE\". A blue flag with a white circular emblem stands to the left of the lectern. To the right of the seated man is a small glass side table. In the foreground, the backs of an audience's heads are visible, facing the stage. The scene remains static across the sequence, with the standing man and the seated man maintaining their positions and postures. The lighting is consistent, and there are no significant changes in movement or action among the people or objects visible on the stage or in the audience."
+}

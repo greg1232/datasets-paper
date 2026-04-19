@@ -1,0 +1,15 @@
+{
+  "video_id": "43f84c985a75f77b45676ae2b6f936ab",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.388,
+    1.163,
+    1.938,
+    2.712
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a desolate outdoor setting featuring rubble and a damaged building, several individuals in military camouflage clothing are present. A person in the foreground, wearing a black balaclava and a tactical vest, holds a rifle. As the scene progresses, this person shifts their position and grip on the weapon. In the background, another individual in camouflage is visible, moving through the debris. The environment is filled with scattered wreckage, dry brush, and a white car partially visible in the distance. The on-screen text \"Hero Ukraine\" appears in the upper left and center of the frames, accompanied by a red and white \"13\" logo in the top right corner. The camera remains focused on the person in the balaclava, capturing their movement and the static, war-torn landscape behind them."
+}

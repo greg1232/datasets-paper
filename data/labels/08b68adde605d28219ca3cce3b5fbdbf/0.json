@@ -1,0 +1,15 @@
+{
+  "video_id": "08b68adde605d28219ca3cce3b5fbdbf",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-155.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short gray hair and glasses is speaking into a black microphone. He wears a light blue button-down shirt with a subtle pattern and a beaded necklace. He is positioned in front of a backdrop of brown horizontal blinds. In the lower right corner of the scene, the white text \"ORCA\" is visible. As the sequence progresses, the man continues to speak, and his mouth opens and closes slightly, shifting his facial expression and the position of his jaw. The microphone, the background, and the on-screen text remain stationary throughout the clip, while the man's slight movements indicate he is in the middle of a speech or presentation."
+}

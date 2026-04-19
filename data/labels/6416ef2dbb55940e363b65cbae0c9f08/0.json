@@ -1,0 +1,15 @@
+{
+  "video_id": "6416ef2dbb55940e363b65cbae0c9f08",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-317.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.252,
+    0.756,
+    1.26,
+    1.765
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a graded baseball card featuring Rod Carew in a protective plastic slab. The card shows a photo of Carew in a blue California Angels uniform and includes his signature across the image. Text on the card reads \"ROD CAREW\" and \"First Baseman CALIFORNIA ANGELS\". The person's hands hold the slab, subtly tilting it to catch the light, which highlights the gold-bordered design of the card. In the background, a man wearing a black t-shirt sits at a desk with electronic equipment. A large logo for \"JASPYS CASEBREAKS.COM\" is visible in the upper right of the screen, and a graphic featuring a palm tree is positioned behind the man. Another graded card rests on the table in the foreground. As the sequence progresses, the hand holding the Carew card shifts slightly, changing the reflection on the plastic casing."
+}

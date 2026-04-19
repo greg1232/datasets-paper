@@ -1,0 +1,15 @@
+{
+  "video_id": "87666f39ea4b04db52fbc838fcd823e9",
+  "url": "./data/segments/3JGRt3BFYrM-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.758,
+    2.275,
+    3.792,
+    5.308
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A software interface displays a complex technical schematic of a digital circuit or logic diagram. The screen is filled with a network of interconnected blocks, lines, and labels, featuring various components such as \"RTN Clock Main,\" \"SRAM Block Flash Main,\" and \"PLL_LOCKED Max.\" Small blue highlighted boxes indicate specific active sections of the diagram. At the top of the window, a menu bar contains options like \"About,\" \"Check Configuration,\" and \"Configuration Checker Calculator.\" A title bar at the top left reads \"V_VHDL_gen_CDC_Module_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_T_"
+}

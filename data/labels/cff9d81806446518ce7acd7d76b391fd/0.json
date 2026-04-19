@@ -1,0 +1,15 @@
+{
+  "video_id": "cff9d81806446518ce7acd7d76b391fd",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.446,
+    1.339,
+    2.231,
+    3.124
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video takes place inside the cabin of a vehicle, focusing on the steering wheel and dashboard. The initial frames provide close-up views of the steering wheel's center hub, where the word \"CORVETTE\" is embossed into the black textured material. As the sequence progresses, the view shifts toward the dashboard and instrument cluster. In the final frame, a person's hand is visible, reaching toward the ignition area. The dashboard features various vents and indicators, including a red warning light and a small screen. Legible text on the right side of the dashboard includes the truncated word \"INST.\" and the letter \"R\". The scene transitions from a static detail of the branding on the steering wheel to a wider shot showing the driver's interaction with the vehicle's controls."
+}

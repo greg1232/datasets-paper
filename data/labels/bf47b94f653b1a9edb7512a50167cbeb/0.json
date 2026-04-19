@@ -1,0 +1,15 @@
+{
+  "video_id": "bf47b94f653b1a9edb7512a50167cbeb",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.145,
+    0.435,
+    0.725,
+    1.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a gathering of men in an outdoor setting. A man wearing a white scarf and a grey jacket is seen smiling and interacting with other men, including one in a brown jacket and shawl. Other men stand nearby, some wearing red scarves. The scene remains consistent across the frames, showing slight shifts in the men's positions and expressions as they talk. The footage is overlaid with news graphics. A red banner at the top reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\" and features the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo with the website \"news18india.com\". A yellow banner at the bottom states \"\u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e: \u0928\u0940\u0924\u0940\u0936 \u0915\u093e \u0935\u093e\u092a\u0938 \u0906\u0928\u093e \u0938\u0941\u0916\u0926 \u0938\u092e\u093e\u091a\u093e\u0930 \u0939\u0948\" and displays a timestamp of \"10:01 PM\". The camera angle remains a medium shot throughout, focusing on the interactions between the central figures."
+}

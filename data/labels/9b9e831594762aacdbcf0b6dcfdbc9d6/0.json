@@ -1,0 +1,15 @@
+{
+  "video_id": "9b9e831594762aacdbcf0b6dcfdbc9d6",
+  "url": "./data/segments/3P1vSUbet40-Scene-0749.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.626,
+    1.877,
+    3.128,
+    4.379
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is recorded in a studio setting, wearing a black t-shirt, a black baseball cap with a gold logo, a gold chain, and over-ear headphones. He sits behind a professional microphone, speaking into it. In the background, a white wall features logos and text, including \"BOSS HUSTLE\" repeated vertically alongside gold stars, and the words \"BOSS TALK 101\" in red and black. On-screen overlays include a logo that reads \"PODCAST\" and another that says \"BOSS TALK 101\" with the subtext \"By William\". Across the sequence, the man is seen in different poses: he begins by resting his chin on his hand, then shifts to speak while looking toward the side, and finally gestures slightly with his hand toward his chest while continuing to speak. His expression remains focused as he engages in the conversation."
+}

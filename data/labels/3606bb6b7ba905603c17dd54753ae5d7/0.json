@@ -1,0 +1,15 @@
+{
+  "video_id": "3606bb6b7ba905603c17dd54753ae5d7",
+  "url": "./data/segments/3L_uHTClWfk-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.312,
+    0.521,
+    0.729
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A fair-skinned woman with blonde hair pulled back wears a brown v-neck sweater over a black turtleneck. She is positioned in an indoor setting, with a white board and a plain wall visible behind her. To her left, the blurred shoulder and red hair of another person are partially visible. The woman maintains a somber or concerned facial expression, looking slightly downward and to her left. Across the sequence of frames, her expression and posture remain largely static, with only subtle shifts in her gaze and slight movements of her facial muscles. No on-screen text, logos, or other equipment are visible in the scene."
+}

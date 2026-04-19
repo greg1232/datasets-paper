@@ -1,0 +1,15 @@
+{
+  "video_id": "93c3f45b5635ec713130799820a40705",
+  "url": "./data/segments/3kfnwKjZWWI-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.196,
+    9.588,
+    15.979,
+    22.371
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a static shot of a white whiteboard in what appears to be a classroom or laboratory setting. A clock is mounted on the wall above the board, showing the time as approximately 10:10. Handwritten chemical equations and values are inscribed on the board in blue ink. The text includes \"[CH3CH2COON-] = 0.1000 M\", \"V(CH3CH2COO-) = 40.00 mL\", \"[NaOH] = 0.1000 M\", \"V(NaOH) = 50.00 mL\", and \"Ka = 1.9x10\u207b\u2075\". Below the board, a flat surface holds a blue spray bottle and other small, indistinct objects. No people are present in the scene. Across the frames, the image remains completely still, with no movement, changes in lighting, or alterations to the writing on the board, resulting in a sequence of visually identical shots."
+}

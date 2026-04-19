@@ -1,0 +1,15 @@
+{
+  "video_id": "88d3a27aa4b5e1f799698eb286435e56",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-390.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.089,
+    0.266,
+    0.443,
+    0.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt, a green baseball cap, and black over-ear headphones sits in a room filled with framed pictures and clothing racks. He is positioned in front of a professional black microphone. The text on his shirt reads \"I DON'T NEED TO DO\" above a larger, partially obscured word starting with \"S\". To his left, a white mannequin wears a white garment. In the background, various photos are mounted on the wall, and clothing hangs on a rack. Two logos are visible on the bottom of the scene: a circular black and white logo containing the text \"BONE\" and a red logo that reads \"BONE FLY TOT\". Across the frames, the man remains in the same position, slightly shifting his facial expression and head angle while looking off-camera to his left, suggesting he is engaged in a conversation."
+}

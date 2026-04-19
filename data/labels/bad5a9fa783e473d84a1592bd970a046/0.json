@@ -1,0 +1,15 @@
+{
+  "video_id": "bad5a9fa783e473d84a1592bd970a046",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-442.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.342,
+    1.025,
+    1.708,
+    2.392
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair, glasses, and a mustache is seen in a room with light-colored wooden walls. He wears a dark blue patterned t-shirt and white over-ear headphones, sitting behind a black microphone. To his left is a decorated green Christmas tree with colorful lights, and behind him is a framed screen displaying the number \"20\". In the first frame, the man has his arms raised and hands open, speaking with an expressive face. As the sequence progresses, his arms lower, and his facial expression shifts from active speaking to a wide, toothy smile. By the final frame, he looks slightly to the side with a smaller, closed-mouth smile. The background and equipment remain static throughout the sequence while the man's gestures and expressions evolve."
+}

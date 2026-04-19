@@ -1,0 +1,15 @@
+{
+  "video_id": "66815f9ca21f65c5715d3b8553d2e0be",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-164.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.221,
+    0.663,
+    1.104,
+    1.546
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card featuring an autograph, positioning it in the foreground of the shot. In the background, a man with a beard, wearing a dark blue t-shirt, sits behind a desk and looks toward the camera. The desk is covered with a cloth featuring green palm tree silhouettes. On the desk sits an open gray storage box and various equipment. The on-screen text \"JASPYS\" appears in red and white letters, accompanied by the website \"CASEBREAKS.COM\" in red. The man remains stationary in the background as the person in the foreground slightly shifts the trading card, tilting it to catch the light across the sequence. The overall setting appears to be a designated space for card breaking or collecting."
+}

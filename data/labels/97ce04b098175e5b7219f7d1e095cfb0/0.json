@@ -1,0 +1,15 @@
+{
+  "video_id": "97ce04b098175e5b7219f7d1e095cfb0",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-105.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.991,
+    1.387
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hoodie with \"BOSS TALK\" printed in gold and white on the chest, and a gold chain sits in a studio setting. He wears headphones and speaks into a professional microphone attached to a black boom arm. Behind him is a white backdrop featuring a gold unicorn logo and the text \"UNICORN HUSTLE\" repeated vertically. Above him, a blue sign reads \"'Where BOSSES Talk!'\" next to a red \"BOSS\" logo. To his right, a blue and white mug displays the words \"BOSS TALK\" and \"BOSSY\". The man maintains a similar seated posture throughout the sequence, though his facial expressions and mouth movements shift slightly as he speaks. The scene remains static with no change in camera angle, lighting, or participants across the frames."
+}

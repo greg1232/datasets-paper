@@ -1,0 +1,15 @@
+{
+  "video_id": "0781633530af7a7a418c2709f9d4f34f",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man performs a martial arts demonstration on a blue mat inside a large, brightly lit hall with beige walls and recessed ceiling lights. He is dressed in a blue traditional tunic and trousers. In the first frame, he is in a wide stance, preparing for a movement. By the second frame, he has swung a long staff with a red tip across his body in a sweeping motion. As the sequence progresses, he brings the staff upward and behind him, shifting his weight. In the final frame, he completes a strike, bringing the staff down in front of him while maintaining a low, balanced posture. An audience of people in dark clothing sits in rows behind him, watching the performance. There are tables with white cloths and various items in the background, and the setting appears to be a formal event or competition."
+}

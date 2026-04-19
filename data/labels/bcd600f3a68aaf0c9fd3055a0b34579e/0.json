@@ -1,0 +1,15 @@
+{
+  "video_id": "bcd600f3a68aaf0c9fd3055a0b34579e",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.299,
+    3.898,
+    6.496,
+    9.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A hand enters a scene to point at a white informational poster displaying a circular diagram. The center of the diagram contains the text \"Powerful Chips that Consume Orders of Magnitude less Power.\" Surrounding this central hub are various application categories connected by lines, including \"Substance Abuse,\" \"Oncology,\" \"Non Invasive Diabetes,\" \"Renal Disease,\" \"Asthma & COPD,\" \"Capnography,\" \"Exercise Monitoring,\" \"Outdoor Exposure,\" \"Internal Air Quality,\" and \"Food & Cosmetics.\" Small images illustrating these medical and environmental applications are placed between the text labels. As the sequence progresses, a person's hand moves across the poster, pointing to different sections of the diagram, specifically gesturing toward the \"Oncology\" and \"Non Invasive Diabetes\" areas. The camera zooms in from a wide shot of the poster to a closer view of the diagram and the person's hand."
+}

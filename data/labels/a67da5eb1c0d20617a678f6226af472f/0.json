@@ -1,0 +1,15 @@
+{
+  "video_id": "a67da5eb1c0d20617a678f6226af472f",
+  "url": "./data/segments/3F2rz23IKUk-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.2,
+    6.6,
+    11.0,
+    15.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person in a black shirt stands at a podium in a lecture hall, presenting to an audience seated in rows of chairs. A large projection screen displays a white slide with text, and a long table with water glasses and laptops sits before the speaker. The audience consists of several people, including a man in a yellow shirt and another wearing a dark grey t-shirt with white text and a logo that reads \"I SURVIVED THE WAR...\". As the sequence progresses, the speaker remains at the podium while another individual in a black shirt enters from the right. Eventually, the first speaker steps away from the podium, and a man in a blue shirt and khaki pants approaches the front. A woman in a brown top and black skirt is also seen walking toward the right side of the room."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f5dffe27dd967b293494434635553e49",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-177.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.223,
+    0.669,
+    1.115,
+    1.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with blonde hair, glasses, and white over-ear headphones sits in front of a computer monitor, speaking into a professional black microphone. He is wearing a dark blue t-shirt with a subtle pattern. In the background, a screen displays a dark blue interface with the text \"91 Jackpot\" and a \"DEACTIVATE\" button, featuring a glowing teal circle in the center and the number \"20\" visible on the right. Above the scene, the text \"Jew Llama's Hanukkah Miracle\" appears next to a small icon. As the sequence progresses, the man's facial expressions shift slightly as he speaks, with his mouth opening and closing and his gaze remaining focused forward. The lighting remains consistent, casting a warm glow on the left side of the frame, while the background elements and equipment remain stationary."
+}

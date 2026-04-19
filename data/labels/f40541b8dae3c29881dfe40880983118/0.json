@@ -1,0 +1,15 @@
+{
+  "video_id": "f40541b8dae3c29881dfe40880983118",
+  "url": "./data/segments/3L_uHTClWfk-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.558,
+    10.675,
+    17.792,
+    24.908
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a screen capture of the official Internal Revenue Service (IRS) website. The top of the page features the IRS logo and a navigation menu with links for \"SEARCH | HELP | MENU\". The main body of the page contains text regarding Required Minimum Distributions (RMDs). The text begins with \"RMD by December 31, 2023, and each year thereafter.\" A section titled \"Retirement Plans:\" explains rules for various plans, stating that \"the first RMD is due by April 1 of the later of the year they reach age 72, or the participant is no longer employed (if allowed by the plan).\" It further notes that \"A 5% owner of the employer must begin taking RMDs at age 72.\" Additional text explains that \"RMDs may not be rolled over to another IRA or retirement plan.\" A heading at the bottom reads \"RMD Calculations and 50% tax on missed distributions\". The scene remains static across all frames."
+}

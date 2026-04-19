@@ -1,0 +1,15 @@
+{
+  "video_id": "9060e29aeefbc8302b9b1b2aaead9448",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with short blonde hair, wearing a black shirt, appears in a small picture-in-picture inset, holding a metal measuring cup. The main scene shows a kitchen setting focused on a pot of yellow liquid heating on a stovetop. A metal immersion blender is submerged in the liquid, mixing it. To the left of the pot, an electric stove coil is visible. As the video progresses, the visuals become heavily distorted with a digital glitch effect, causing the images to fragment, shift, and repeat in overlapping rectangular blocks across the screen. These distortions disrupt the view of the kitchen and the woman, creating a kaleidoscopic arrangement of mirrored and displaced image segments. No text or logos are visible in the frames."
+}

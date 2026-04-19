@@ -1,0 +1,15 @@
+{
+  "video_id": "290c11e3dd8768773191b29cfc6cbf3b",
+  "url": "./data/segments/3mmDnftP1M8-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.37,
+    4.109,
+    6.849,
+    9.589
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light-blue button-down shirt and a black gaming headset with a microphone sits against a plain, light-colored wall. The text \"Ashish Raichur\" appears in the bottom left corner of the scene. Initially, the man has his hands clasped together in front of his chest and speaks with a neutral expression. As the sequence progresses, he continues to speak, his mouth opening more widely. He then shifts his posture, moving his right hand away from his clasped position to touch his chin in a thoughtful gesture, while his left hand rises and opens, gesturing with his fingers as he speaks. The camera remains stationary in a medium close-up shot throughout the action, focusing on the man's head and upper torso."
+}

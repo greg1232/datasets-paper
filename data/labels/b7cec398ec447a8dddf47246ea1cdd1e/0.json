@@ -1,0 +1,15 @@
+{
+  "video_id": "b7cec398ec447a8dddf47246ea1cdd1e",
+  "url": "./data/segments/3L_uHTClWfk-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.492,
+    1.475,
+    2.458,
+    3.442
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a scene featuring the Statue of Liberty against a dark, twilight sky with streaks of orange and blue. A large white rectangular overlay is positioned on the left side of the frame, containing the orange logo of a female basketball player and the orange text \"WNBA\". The Statue of Liberty is visible from the waist up, holding her torch aloft in her right hand and a tablet in her left. As the sequence progresses, the camera slowly zooms in on the statue, causing the figure and the \"WNBA\" overlay to grow larger in the frame. The lighting remains consistent throughout, with the statue appearing in a pale green hue against the deepening colors of the evening sky."
+}

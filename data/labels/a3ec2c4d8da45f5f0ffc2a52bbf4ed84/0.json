@@ -1,0 +1,15 @@
+{
+  "video_id": "a3ec2c4d8da45f5f0ffc2a52bbf4ed84",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.171,
+    0.513,
+    0.854,
+    1.196
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blondish-brown hair, glasses, and a mustache is wearing white over-ear headphones and a dark blue shirt. He is positioned in front of a computer monitor that displays a blue screen with the number \"20\" visible. To his left, a green Christmas tree with colorful lights is partially visible in the background. Throughout the sequence, the man maintains a joyful expression, smiling and laughing. In the initial moment, he looks slightly to the left with an open-mouthed smile. He then shifts his gaze and closes his eyes while laughing more broadly. Subsequently, he opens his eyes and looks forward, continuing to smile with his mouth open. In the final moment, he remains in a similar pose, smiling and looking toward the left. The lighting is soft, and the background remains static as the man's facial expressions evolve."
+}

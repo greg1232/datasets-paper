@@ -1,0 +1,15 @@
+{
+  "video_id": "4767015cc0174390eace71b72fd7a59b",
+  "url": "./data/segments/3L_uHTClWfk-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.275,
+    15.825,
+    26.375,
+    36.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a webpage from the Internal Revenue Service (IRS), featuring the IRS logo in the top left corner and a navigation bar with the options \"SEARCH | HELP | MENU.\" The page displays a news release from WASHINGTON stating, \"The Internal Revenue Service today reminded those who were born in 1950 or earlier that funds in their retirement plans and individual retirement arrangements face important upcoming deadlines for required minimum distributions to avoid penalties.\" The text continues to define \"Required minimum distributions, or, RMDs,\" and details specific rules for traditional IRA, SEP, SARSEP, and SIMPLE IRA account holders. Across the sequence of frames, the image remains static with no visible people or changes in setting. The only movement is a subtle shift in the browser window's positioning and the presence of a taskbar at the bottom of the screen showing open application icons."
+}

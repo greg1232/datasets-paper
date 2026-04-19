@@ -1,0 +1,15 @@
+{
+  "video_id": "2cd1c6c9c819c9c466335f76a83da35c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.39,
+    1.169,
+    1.948,
+    2.727
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair is seen in a small webcam overlay on the left side of a video game interface. He is wearing a dark-colored shirt and is gesturing with his hands while speaking. The background behind him includes a decorated Christmas tree and a framed picture. The majority of the screen displays a \"LINEUP\" menu from a sports video game, featuring various athlete cards with stats and positions. Text at the top of the screen includes numbers such as \"173,037\", \"14,669\", and \"2,343,543\". Navigation options at the bottom read \"BEST LINEUP\", \"HELP\", and \"BACK\". Across the sequence, the man continues to speak and move his hands, while the game interface remains mostly static, except for a player card on the far right that changes between frames, switching from an empty slot to a card for a player named \"PETERSON\"."
+}

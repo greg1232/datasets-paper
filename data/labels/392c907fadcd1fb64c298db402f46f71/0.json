@@ -1,0 +1,15 @@
+{
+  "video_id": "392c907fadcd1fb64c298db402f46f71",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.825,
+    1.375,
+    1.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is presenting a digital mind map via a screen-sharing application. The main screen displays a dark background with various colorful icons and nodes connected by blue lines, featuring labels such as \"food systems\", \"Food systems\", and \"Invisible Food\". A large graphic of a red magnet attracting a small grey figure is superimposed over the center of the mind map. At the top of the browser window, multiple tabs are open, including ones titled \"Kumo\", \"Insights | Introduction to Kumo\", and \"Rural Community Food System\". In the upper right corner, a small video feed shows a man wearing a dark shirt and grey over-ear headphones, looking toward the screen. The scene remains static across the frames, with no visible movement from the person or changes to the digital content on the screen."
+}

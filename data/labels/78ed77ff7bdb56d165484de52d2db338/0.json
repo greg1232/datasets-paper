@@ -1,0 +1,15 @@
+{
+  "video_id": "78ed77ff7bdb56d165484de52d2db338",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-295.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.123,
+    0.369,
+    0.615,
+    0.86
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide shot of an American football game takes place in a crowded stadium on a green field marked with white lines and yellow markers. Players in white jerseys and blue pants are positioned across the field, with some congregating near a red and yellow end zone. A small inset window in the bottom left shows a man with blond hair wearing a navy blue shirt. Across the top, a digital scoreboard displays \"2nd & 10,\" a team logo, the score \"0\", and the game clock showing \"1st 0:14 43 :10\". As the sequence progresses, the players on the field shift slightly in position, and the game clock changes from \"0:14\" to \"0:13\". The man in the inset window remains visible, showing subtle changes in his facial expression while looking toward the camera."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "79f6cde9d81bcaca44549d2561e4d716",
+  "url": "./data/segments/3P1vSUbet40-Scene-0441.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a podcast studio, wearing a navy blue baseball cap, a black t-shirt that says \"CHECK IT!\", and large grey over-ear headphones. He wears a gold chain around his neck and a watch on his left wrist. He is positioned in front of a microphone and speaks while looking toward someone off-screen to his right. The background consists of a white wall featuring repeating logos for \"HUSTLE\" accompanied by stars, as well as a larger \"BOSS TALK 101\" logo. On-screen graphics include a \"BOSS TALK 101\" logo on the right and a \"BOSS TALK 101 PODCAST\" logo on the left. Across the frames, the man remains in a similar position, slightly shifting his head and facial expression as he continues speaking, while the camera and background remain static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "91730748b029f2a68282e9f493c05125",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.259,
+    0.776,
+    1.293,
+    1.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A silver car is filmed from a low-angle side view, showing the front wheel and fender in the foreground. The setting is a paved parking lot or entrance area near a road, with green trees and signs in the background. A grey sedan enters the frame from the right, driving slowly past the stationary vehicle. In the distance, several signs are visible, including one that reads \"RETAIL CENTER\" on a yellow background. As the sequence progresses, the grey sedan continues to move forward and out of the frame toward the left. The camera remains stationary, capturing the grey car as it passes and then showing the empty space it left behind. Other parked vehicles and a stretch of road are visible in the background under a clear, bright sky."
+}

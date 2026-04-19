@@ -1,0 +1,15 @@
+{
+  "video_id": "f3372c23484d0085eff3ca6c2be9578c",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-281.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.45,
+    1.35,
+    2.25,
+    3.15
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark baseball cap and a dark shirt is visible in a small video window in the upper right of a screen recording. The recording shows a browser window displaying a presentation. In the first two frames, the slide is titled \"05R Wholesale\" and contains a block of text stating, \"The Food Industry, in general, has wholesale economic relationships with Retail Stores which is defined here as a relationship loop.\" Next to this text is a complex flow diagram with a black background, featuring green text and blue arrows connecting nodes such as \"Food industry,\" \"Retail Stores,\" and \"Industrial-scale Feed Lot.\" In the subsequent two frames, the slide changes to \"06R Commodification,\" and the text changes to, \"Factory farming products can be considered as commodities in which economic efficiency is of paramount importance,\" while the same flow diagram remains on the right."
+}

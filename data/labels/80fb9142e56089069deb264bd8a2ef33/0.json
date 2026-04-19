@@ -1,0 +1,15 @@
+{
+  "video_id": "80fb9142e56089069deb264bd8a2ef33",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-126.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.427,
+    1.281,
+    2.135,
+    2.99
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a yellow card or piece of paper resting on top of white boxes. In a home or office setting, the individual's hands move to lift and manipulate the yellow object. A picture-in-picture window shows a man with a beard wearing a dark blue t-shirt with a yellow logo on the chest, sitting in front of a computer setup. The background of the main view features a surface decorated with a graphic of green palm trees. Text and logos are visible on the screen, including \"JASPYS\" and \"CASEBREAKS.COM\". As the sequence progresses, the hands first grasp the yellow object from the top of the white boxes, then lift it entirely away from the surface, holding it up for view. The man in the small window remains seated, observing the action."
+}

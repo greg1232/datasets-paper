@@ -1,0 +1,15 @@
+{
+  "video_id": "abd701bb4ac2a4158ced538fe19bc1dc",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.585,
+    4.755,
+    7.925,
+    11.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news segment features a man identified as \"OLUSOLA OYEKANMI,\" a \"POLITICAL ANALYST\" located in \"LAGOS.\" He is shown in a small inset window, wearing glasses and a red traditional cap. The screen is heavily stylized with purple and blue graphic overlays. Prominent text at the top reads \"ON THE PHONE,\" while a banner at the bottom displays the headline \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\" under the category \"PLUS POLITICS.\" The \"plustv\" logo appears in the top left of each scene. As the sequence progresses, the lower banner changes from a \"SUBSCRIBE\" call to action with the URL \"WWW.YOUTUBE.COM/PLUSTVAFRICA\" to a \"FOLLOW US\" section featuring social media icons and the handle \"PLUSTVAFRICA.\" Despite these changes to the bottom navigation bar, the image of the man and the primary headline remain static throughout the frames."
+}

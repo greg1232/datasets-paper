@@ -1,0 +1,15 @@
+{
+  "video_id": "a6e16d639524e089e50d85dab3b8fd97",
+  "url": "./data/segments/3Smz5pevbI4-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.59,
+    19.77,
+    32.95,
+    46.129
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a series of scientific data visualizations related to brain activity and social identity. Throughout the frames, a brain scan image is consistently displayed on the left, showing a highlighted yellow area in the \"precuneus\" under the heading \"irrational vs rational.\" The right side of the screen evolves across the sequence. It begins with a bar chart titled \"Sample Arab participant\" showing \"Percent Signal Change (PSC)\" for categories labeled \"Rational,\" \"Irrational,\" \"proArab,\" and \"proIsraeli.\" A subsequent frame introduces a scatter plot below the bar chart, featuring axes labeled \"PSC\" and \"Reasonable Pro-Israeli.\" The final frames remove the bar chart entirely, expanding the scatter plot to fill the right side. This plot displays red and blue diamond markers for \"Arab\" and \"Israeli\" participants, respectively, with a trend line and the statistical notation \"r = 0.54 p = 0.004\" in the upper right corner."
+}

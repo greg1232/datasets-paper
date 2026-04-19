@@ -1,0 +1,15 @@
+{
+  "video_id": "e350351c8d8e5c40866bf293206c7f25",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.86,
+    2.581,
+    4.301,
+    6.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men are seated in a room in front of a television, reacting to a video. One man on the left wears a dark grey t-shirt and maintains a neutral, slightly skeptical expression. The man on the right wears a grey t-shirt and a necklace, appearing to smile or smirk while resting his chin on his hand. Above them, glowing orange text reads \"OUR STUPID REACTIONS\". The background includes a shelf of DVDs and a small plant. A smaller inset video screen displays scenes from a cinematic production. Throughout the sequence, the two men remain in their positions with minimal shifts in expression, while the content of the inset video changes from a dark scene with figures, to a close-up of a character in armor, to a shot of a stone archway, and finally to a wide shot of a large castle fortification with several figures standing outside. White subtitles at the bottom of the inset screen consistently read, \"What if it was just serendipity that made me who I am?\"."
+}

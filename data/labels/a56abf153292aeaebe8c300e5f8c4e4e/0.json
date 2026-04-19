@@ -1,0 +1,15 @@
+{
+  "video_id": "a56abf153292aeaebe8c300e5f8c4e4e",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-131.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.288,
+    0.863,
+    1.439,
+    2.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and a tattoo on his right upper arm sits in a studio setting against a dark, textured acoustic foam wall. He wears a grey t-shirt, black over-ear headphones, and a grey and white baseball cap featuring a red and black logo. He is positioned in front of a professional microphone mounted on a shock mount, which has the text \"Shure SM7B\" printed on the arm. In the beginning, he is looking forward and speaking into the microphone. As the sequence progresses, he maintains his position, eventually closing his eyes and slightly tilting his head back while continuing to speak. The camera remains stationary throughout, focusing on his upper body and the recording equipment."
+}

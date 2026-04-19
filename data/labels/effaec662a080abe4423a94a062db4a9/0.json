@@ -1,0 +1,15 @@
+{
+  "video_id": "effaec662a080abe4423a94a062db4a9",
+  "url": "./data/segments/3VCwl-aQ_oQ-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.112,
+    6.337,
+    10.562,
+    14.787
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a digital workspace featuring a spreadsheet and a chat window. The spreadsheet contains a list of names, predominantly \"Ron Wester\" with various numbers, alongside \"James Conlin 2.\" A blue selection highlight moves down the list, starting at \"Ron Wester 9\" and \"James Conlin 2,\" then shifting to \"Ron Wester 4\" and \"Ron Wester 6,\" and finally moving to \"Ron Wester 0\" and \"Ron Wester 1.\" To the right, a chat window shows messages, including one stating, \"I think if you are a team signing Ohtani, you are going all in on everyone you can,\" and another from Nightbot that says, \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bz.ly/N2S6eK9.\" A logo for \"JASPY'S CASEBREAKS.COM\" is visible in the bottom right. The browser tab is titled \"W 11/22/23 - 2023 Topps Museum Collection Baseball 6-Box V2 Case #2...\"."
+}

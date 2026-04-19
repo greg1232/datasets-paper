@@ -1,0 +1,15 @@
+{
+  "video_id": "f972505021f9ebf3ae0271721a52fae2",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand and forearm are shown working on a piece of machinery, possibly a vehicle or industrial equipment, focusing on a white pipe or rod. The hand grips the white rod, pushing it diagonally downward toward a dark mechanical assembly that includes metal brackets and a red rectangular component. In the background, a white cylindrical object features printed text, including phrases such as \"PULL PLUG HOLD,\" \"NO BACK BASE,\" and \"FREEZE LEVER &.\" The sequence of movements shows the hand shifting its grip slightly as the rod is pushed further into the mechanism. The surrounding area is composed of brown and grey metallic surfaces with some visible dirt and wear. The lighting remains consistent across the frames, and the focus stays tight on the manual action of inserting the white rod."
+}

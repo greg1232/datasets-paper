@@ -1,0 +1,15 @@
+{
+  "video_id": "e2a6385f0466dec8d3ec69ccbd175f9e",
+  "url": "./data/segments/3P5zYKAFzh4-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.972,
+    2.915,
+    4.859,
+    6.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A book cover is displayed against a solid blue gradient background. The cover features a detailed illustration of a small, furry animal with a long tail clinging to a white birch tree trunk. The title \"No More Time\" is printed in a red, serif font at the top, with the author's name \"GREG DELANTY\" written in smaller, white capital letters directly beneath it. Across the sequence, the book cover shifts its orientation. It begins tilted significantly to the left, then straightens to a vertical position. It then tilts slightly to the left again before finally tilting toward the right. Throughout these movements, the book remains centered in the frame against the unchanging blue backdrop, and the text and imagery on the cover remain static as the object rotates."
+}

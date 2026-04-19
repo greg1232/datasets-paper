@@ -1,0 +1,15 @@
+{
+  "video_id": "53398bfadb70f1b37f104f6f73aec195",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-082.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.567,
+    25.7,
+    42.833,
+    59.967
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a presentation slide deck with a person visible in a small inset video window at the top right. The first two frames show a slide with the logos for \"fluentbit\" and \"OpenTelemetry\" separated by a plus sign. Below the logos, text reads \"OpenTelemetry: incubating CNCF project,\" followed by bullet points stating \"Standard SDKs and Specs for creating metrics/traces\" and \"Primary focus is tracing & metrics, log standard was recently created.\" The scene transitions to a \"Q & A\" slide in the final two frames. This slide displays the websites \"fluentd.org\" and \"fluentbit.io,\" alongside the GitHub handle \"fluent/.\" Two stylized bird logos, one blue and one green, appear at the bottom of the screen. Throughout all frames, a person wearing a light-colored shirt is visible in the small inset window, appearing to speak to the audience."
+}

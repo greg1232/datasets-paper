@@ -1,0 +1,14 @@
+{
+  "video_id": "e26dae1f6c3cf3ab2decdc8e5b20dc3e",
+  "url": "./data/segments/3P5zYKAFzh4-Scene-031.mp4",
+  "n_frames": 3,
+  "frame_timestamps": [
+    0.013,
+    0.038,
+    0.063
+  ],
+  "grid_layout": "1x3",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dark blue screen features a promotional graphic for a program titled \"FOCUS\" in large, red, capitalized letters. Below this title, smaller white text reads \"with Margaret Harrington\" followed by \"Greg Delanty Reads from His Latest Book.\" At the bottom of the screen, the text \"Recorded December 14, 2020 via zoom\" is visible. To the left of the text is an image of a book cover featuring a dark illustration of a seated figure. A small, inset rectangular video window on the right shows a man in a dark suit and tie. As the sequence progresses, the entire screen rapidly fades to black, causing the text, the book cover image, and the inset video window to disappear completely by the final frame."
+}

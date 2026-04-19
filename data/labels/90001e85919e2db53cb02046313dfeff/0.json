@@ -1,0 +1,15 @@
+{
+  "video_id": "90001e85919e2db53cb02046313dfeff",
+  "url": "./data/segments/3pBY6Wurnqw-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    122.454,
+    367.362,
+    612.271,
+    857.179
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A split-screen video presentation features three participants in a virtual discussion. On the left, Jarrett Carter Sr. wears glasses, a black t-shirt, and a professional headset with a microphone. In the right panel, Jennifer Mercer wears a pink shirt and David Mercer wears a black and yellow sports jersey and glasses. The background for the guests shows home interiors with shelving and framed art. A black banner across the middle provides their names and social media handles: \"Jarrett Carter Sr. @JARRETTCARTERSR\" and \"David & Jennifer Mercer @DIV9NEFITNESS\". The top and bottom headers feature the \"HBCU DIGEST\" logo and the website \"www.educationnewsflash.com\". Throughout the clip, Jarrett Carter Sr. speaks and gestures slightly, while Jennifer Mercer listens and moves her hand in a talking motion, and David Mercer remains mostly still, looking toward the camera."
+}

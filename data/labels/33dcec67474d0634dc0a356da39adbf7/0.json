@@ -1,0 +1,15 @@
+{
+  "video_id": "33dcec67474d0634dc0a356da39adbf7",
+  "url": "./data/segments/3sJ5OX75erw-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.985,
+    2.955,
+    4.925,
+    6.895
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and glasses, wearing a light-colored blazer over a gray collared shirt, is speaking against a dark blue background featuring a stylized network graphic of connected dots. In the top left corner of the screen, the text \"OPEN NETWORKING & EVENTS EXECUTIVE FORUM\" is visible. He begins with a neutral expression, looking directly toward the camera. As the sequence progresses, his expression softens into a smile, and he begins to laugh. By the final stage, he is smiling broadly and gestures with his right hand, moving it outward to his side. He remains the sole person visible throughout the sequence, positioned in a medium shot from the chest up. The background and on-screen text remain constant, while the man's facial expressions and hand movements evolve as he speaks."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9700d9a4bd2c51b71baab62fc1d180b0",
+  "url": "./data/segments/3jaAcpqJEbg-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.712,
+    11.137,
+    18.562,
+    25.988
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a blue t-shirt and an identification badge stands before a dark blue background featuring the text \"has geek\" and \"root\". In the initial moments, he stands calmly with his hands clasped, while other people are visible in the dim lighting of the surrounding auditorium seating. As the scene progresses, he raises his hand to touch his head, adjusting his position. In the background, a woman in a dark top and a man in a light-colored shirt are partially visible. The speaker eventually lowers his arm and gestures with both hands while speaking, shifting his posture slightly. The environment remains a professional conference setting with red seating and a digital backdrop that displays repeated logos and hashtags."
+}

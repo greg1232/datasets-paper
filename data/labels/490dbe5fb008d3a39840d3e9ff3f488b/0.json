@@ -1,0 +1,15 @@
+{
+  "video_id": "490dbe5fb008d3a39840d3e9ff3f488b",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.621,
+    1.863,
+    3.104,
+    4.346
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen preparing food in a kitchen setting, with the logo and text \"UCAR CENTER FOR SCIENCE EDUCATION\" visible in the upper left of each frame. The hands are mixing a large quantity of light-brown, grain-like food in a wide, metallic bowl. In the initial frames, the person is actively tossing and stirring the mixture with their hands, creating motion blur. As the sequence progresses, the motion slows, and the food settles into a mound within the bowl. To the right of the metallic bowl, a small white plate containing more of the same grain-like food and a small red bowl filled with white, chunky ingredients are placed on a wooden surface. The background features a light-colored wall and a glimpse of a blue and white cloudy pattern behind the food preparation area."
+}

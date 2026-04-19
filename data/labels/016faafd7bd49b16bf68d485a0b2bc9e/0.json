@@ -1,0 +1,15 @@
+{
+  "video_id": "016faafd7bd49b16bf68d485a0b2bc9e",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-197.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark curly hair tied up in a bun is seated in a studio, wearing a dark green t-shirt with a red and white graphic. She wears black over-ear headphones and speaks into a professional black microphone mounted on a stand. Behind her is a white wall featuring a black backdrop with white text that reads \"BESS TALK 101\" and \"In A League Hustle,\" along with the word \"CAST.\" A framed photo showing a person's hands and arms is mounted on the wall to her right. To her left is a small table holding a clear container of blue items. On-screen graphics include a \"BESS TALK 101\" logo in the bottom right and a logo featuring \"BESS TALK 101\" in the bottom left. Across the sequence, the woman remains in place, smiling and gesturing slightly with her head as she speaks."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f32fed62c6cc1a176924871690d3beed",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-142.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.279,
+    0.838,
+    1.397,
+    1.956
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a room with wood-paneled walls and green blinds, a man with grey hair and glasses stands behind a podium giving a presentation. He wears a light blue button-down shirt adorned with traditional indigenous beadwork patterns on the shoulders and chest. In the foreground, the backs of several audience members are visible, including people wearing colorful blankets or shawls draped over their shoulders. A black speaker stands to the left, and a microphone is positioned on the podium. The text \"ORCA\" appears as a white watermark on the right side of the scene. As the sequence progresses, the camera angle shifts from a wider shot showing the audience to a closer medium shot of the speaker, who continues to talk and gesture with his hands while remaining behind the podium."
+}

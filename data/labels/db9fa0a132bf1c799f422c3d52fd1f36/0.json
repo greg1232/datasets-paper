@@ -1,0 +1,15 @@
+{
+  "video_id": "db9fa0a132bf1c799f422c3d52fd1f36",
+  "url": "./data/segments/3r9Dh8YKpLU-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.426,
+    4.279,
+    7.132,
+    9.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A female presenter appears in a small rectangular video overlay in the bottom right corner of a presentation screen. She has long dark hair and is wearing a pink garment. The presentation slides feature a white background with a logo in the bottom left and the text \"Walchand Institute of Technology, Solapur\" along the bottom. The initial slide is titled \"References\" and lists \"Text Book: Let Us C - Yashwant Kanetkar\". As the sequence progresses, the presentation transitions to a closing slide that simply displays the text \"Thank you\" centered on the screen. The presenter remains in her position in the video overlay throughout the transition, maintaining a steady gaze toward the camera. The scene remains static except for the change in the presentation slide content, moving from the reference list to the final thank you message."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "32df56f3c72c94e0fb9929315482b1ab",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A small, rectangular electronic component, appearing to be a microchip or a sensor, is positioned centrally against a plain, off-white background. The object is dark gray or black with a grid of six small, light-colored circular contact points on its top surface and gold-colored pins protruding from its underside. Across the sequence, the component remains in the same general area of the frame but undergoes a subtle shift in position and rotation. It starts slightly to the left, moves toward the right, and then shifts back toward the left, rotating slightly on its axis. The lighting is soft and diffused, creating a minimal shadow beneath the component, and there are no people, text, or other objects present in the scene."
+}

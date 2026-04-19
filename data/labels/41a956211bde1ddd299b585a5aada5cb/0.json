@@ -1,0 +1,15 @@
+{
+  "video_id": "41a956211bde1ddd299b585a5aada5cb",
+  "url": "./data/segments/3L_uHTClWfk-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.708,
+    0.992
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a split-screen composition showing two distinct scenes. On the right side of the frame, Joe Biden is depicted from the chest up, wearing a dark navy blue suit, a white dress shirt, and a blue and white patterned tie. He is positioned outdoors with the White House and an American flag visible in the background under a bright sky. On the left side of the frame, a close-up shot shows a large burger with melted cheese and a side of thick-cut potato fries served on a white plate. In the background of the food shot, another burger is partially visible. Across the sequence of frames, the imagery remains static; Joe Biden's facial expression and posture do not change, and the food on the plate remains in the same position, creating a repetitive visual effect."
+}

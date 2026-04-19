@@ -1,0 +1,15 @@
+{
+  "video_id": "6c63d2e00503d846e0a17132da0b8670",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-622.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.141,
+    0.422,
+    0.704,
+    0.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, large black over-ear headphones, and a black hoodie with \"BOSS TALK 101\" written in gold letters sits in a studio setting. He is positioned behind a dark table featuring a professional microphone on a boom arm and a small black object with a \"BOSS TALK 101\" logo. In the background, a white wall displays repeated logos that read \"UNIQUE HUSTLE\" accompanied by gold stars, and a sign above that reads \"BOSS TALK 101 'Where BOSSES Talk!'\". Throughout the sequence, the man is smiling and laughing, gesturing with his hands as he speaks into the microphone. Between the frames, his facial expressions shift from a broad smile to laughter, and his hands move from resting on the table to being raised in mid-gesture, while the background and equipment remain stationary."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f8afdfd02b962746c264f4c5e1d63845",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.688,
+    1.147,
+    1.606
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up, stationary shot of a mechanical engine component, likely from a snowmobile, given the \"POLARIS\" logo embossed on a white plastic housing. The scene is focused on a complex assembly of metal parts, including a gear-driven chain, several bolts, and various wiring harnesses with black connectors and red heat-shrink tubing. A brown, tubular metal frame runs horizontally across the top of the view. The machinery is weathered, showing signs of dirt and grease accumulation on the metallic surfaces. Throughout the sequence, there is no visible movement of the parts or any people present. The lighting remains constant, and the camera position does not shift, resulting in a static view of the engine's internal drive system and surrounding chassis components."
+}

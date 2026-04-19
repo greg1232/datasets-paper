@@ -1,0 +1,15 @@
+{
+  "video_id": "b664b9c8e7b6fc5adf7c56fcb4b340cd",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-175.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    7.804,
+    23.411,
+    39.018,
+    54.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a computer screen showing a complex financial stock chart for \"Deere & Co Tractors, term equivalent\". The interface features multiple technical analysis indicators, including candlestick price charts with trend lines and labeled points like \"A\" and \"B\", as well as MACD and Stochastic Slow oscillators. On-screen text includes dates such as \"Jun 13\" and \"Jul 22\", and specific labels like \"29/3/21\" and \"CW projections (0,BLACK,RI)\". The screen is divided into a grid of identical chart windows. As the sequence progresses, the view remains static on these charts, with very slight shifts in the visible window focus and the appearance of a small mouse cursor moving subtly across the screen. The color scheme is dominated by a white background with green, red, blue, and purple technical lines and markers indicating market movements and projections."
+}

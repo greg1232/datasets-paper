@@ -1,0 +1,15 @@
+{
+  "video_id": "8eb5b4e6b8cc34ee66a01d64a54ef12d",
+  "url": "./data/segments/3P1vSUbet40-Scene-0321.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.089,
+    0.266,
+    0.443,
+    0.62
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a tall, grey, stylized wig and glasses sits in a studio setting, wearing a white short-sleeved shirt with tan suspenders and a red patterned bowtie. He wears black headphones over his ears and speaks into a black microphone positioned in front of him. The background features a wall with framed pictures, a mannequin wearing a black vest, and various studio equipment. Two logos are visible on the screen: one on the left that reads \"STUDIO PODCAST\" and another on the right that reads \"GOSS TALK JOY.\" As the sequence progresses, the man remains in the same position, though his facial expression shifts slightly as he continues to talk, with his mouth opening and closing in a natural speaking motion. The camera remains static, capturing the man from the chest up against the cluttered studio backdrop."
+}

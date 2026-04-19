@@ -1,0 +1,15 @@
+{
+  "video_id": "ba5ee35f04b8d029dd8cddcc7c897095",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.331,
+    0.552,
+    0.773
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video begins with a rapid panning shot across an indoor gymnasium. The space features a polished wooden basketball court and blue padded walls, with sets of bleachers visible along the perimeter. The camera moves quickly, creating a motion blur as it transitions from a wide view of the court toward the bleachers. The scene then cuts abruptly to a close-up of a young man with short, light-brown hair and a beard. He is wearing a red sleeveless athletic tank top. He stands in front of the blue and yellow bleachers, looking directly into the camera with a neutral expression and his mouth slightly open, as if speaking. The background remains consistent between these final frames, focusing entirely on the man from the chest up."
+}

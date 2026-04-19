@@ -1,0 +1,15 @@
+{
+  "video_id": "0f86e6e0557590ed03f0683c1437acf9",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.976,
+    1.627,
+    2.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a split-screen graphic. The left side features a green background with a diagram of a golden spiral and the text \"Fibonacci 24/7\" and \"Larry Pesavento,\" with \"FIBONACCI 24/7\" and a \"SIGN UP\" button appearing below in bright yellow and blue. The right side is a white background displaying the logo \"TFNN.com\" and the phrase \"EDUCATING INVESTORS.\" This static composition remains unchanged through the first three frames. In the final frame, the screen transitions to a blurred, mirrored image of a man wearing a dark suit jacket and a white shirt. The transition creates a distorted visual effect where the man's image appears twice, side-by-side, as the previous informational graphics disappear from view."
+}

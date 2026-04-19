@@ -1,0 +1,15 @@
+{
+  "video_id": "1f6cf3a080f8f08b2b84e18b84895be4",
+  "url": "./data/segments/3U065Ox-1uA-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.192,
+    0.576,
+    0.959,
+    1.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a formal conference room with a curved wooden table and a white ceiling with recessed lighting, several men in dark suits are seated. One man on the far right wears a clear plastic face shield and looks toward the center of the room. The other men are seated along the table, some looking forward and others engaged in conversation. A few small white objects, possibly microphones or papers, are on the table in front of them. In the background, a Japanese flag and another blue flag are visible. The top left of each frame features the \"REUTERS\" logo and \"VOA 60 LEARNING ENGLISH\" in blue and white text. At the bottom of each frame, the caption reads, \"South Korea and Japan criticize the test,\". The scene remains static across the frames, with only slight movements among the people seated at the table."
+}

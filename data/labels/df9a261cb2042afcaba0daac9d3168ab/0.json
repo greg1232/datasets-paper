@@ -1,0 +1,15 @@
+{
+  "video_id": "df9a261cb2042afcaba0daac9d3168ab",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-125.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser with multiple open tabs, including one titled \"That & Learning by SystemDyn\" and others related to \"Society by SystemDyn\" and \"Rural Community Food System.\" The main window displays a dark-themed digital canvas containing a network of nodes and an embedded image of a black-and-white sketch. The sketch depicts a figure standing in a landscape with text that reads, \"WHY YOU SHOULD just let it be. YOU SHOULD just let it be. WHY YOU SHOULD just let it be. YOU SHOULD just let it be. YOU SHOULD just let it be. YOU SHOULD just let it be. YOU SHOULD just let it be. YOU SHOULD just let it be. YOU SHOULD just let it be. YOU SHOULD just let it be.\" A small, circular video overlay in the top right corner shows a man wearing a dark hat and blue shirt. Across the sequence, the browser and canvas remain static, while the man in the video overlay shifts slightly."
+}

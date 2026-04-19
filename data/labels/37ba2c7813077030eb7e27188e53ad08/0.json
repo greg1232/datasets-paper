@@ -1,0 +1,15 @@
+{
+  "video_id": "37ba2c7813077030eb7e27188e53ad08",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-143.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.647,
+    4.942,
+    8.237,
+    11.532
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An aerial perspective showcases a waterfront city skyline under a cloudy sky. The scene initially focuses on a calm body of water reflecting the surrounding buildings and sky, with a dense line of trees and mid-rise buildings bordering the shore. As the perspective shifts, the view moves over a city park and a bridge crossing a waterway toward a marina filled with numerous white yachts and sailboats. A grassy area with palm trees lines the edge of the docks. A red car is visible driving across the bridge. In every frame, the text \"TIGER REAL ESTATE LLC\" is displayed in the bottom right corner. The transition between the views illustrates a sweeping camera movement that reveals the urban landscape, blending the quiet reflection of the water with the activity of the marina and city infrastructure."
+}

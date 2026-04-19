@@ -1,0 +1,15 @@
+{
+  "video_id": "fdc3c56c543dc5cbb5751939cdb2afe3",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.471,
+    31.413,
+    52.354,
+    73.296
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short light-brown hair and a beard is visible in a small inset window at the bottom left, speaking while appearing in a home or office setting. He is positioned in front of a computer screen displaying a financial trading platform with a \"TICKMILL\" logo in the top left corner. The main screen shows a complex line graph representing market data, featuring a blue descending trend line and a green horizontal support zone. To the left of the graph, German text reads, \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN,\" followed by a list of trading features. A mouse cursor moves across the screen, gesturing toward the graph and the text. As the sequence progresses, the man continues to talk, and the cursor shifts positions over the financial chart, while the layout of the trading interface and the background text remain static."
+}

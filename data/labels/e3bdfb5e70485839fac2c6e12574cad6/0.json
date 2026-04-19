@@ -1,0 +1,15 @@
+{
+  "video_id": "e3bdfb5e70485839fac2c6e12574cad6",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-260.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.438,
+    1.314,
+    2.19,
+    3.066
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a white t-shirt and black over-ear headphones, sits in a recording studio against a black acoustic foam wall. A large silver professional microphone, mounted on a black boom arm with the text \"Rode\" visible on the clamp, is positioned in front of him. Across the sequence, the man is speaking and gesturing. He begins by looking slightly to the left, then closes his eyes briefly while gesturing with his right hand. He then opens his eyes and raises his right hand higher, palm facing inward. Finally, he gestures with both hands in front of him while looking toward the left. His expressions and hand movements shift dynamically as he continues to talk into the microphone."
+}

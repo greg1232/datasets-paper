@@ -1,0 +1,15 @@
+{
+  "video_id": "3f15be7537488db2d72f40a8fb123df6",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-105.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.925,
+    5.775,
+    9.625,
+    13.475
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser with several open tabs, including ones titled \"Trial & Learning by Synergetic,\" \"Future of Society by Synergetic,\" and \"Insights | Introduction | Kumo.\" The main window displays a virtual meeting interface. A participant, a man with glasses and a headset, is visible in a small video window at the top. The primary screen area contains a dark-themed mind map or flowchart with circular nodes connected by lines. Some nodes contain small icons and text, such as \"play\" and \"starting.\" A secondary video window shows a scene with several people in a room; one person is wearing a bright red shirt. As the sequence progresses, the user interacts with the interface, moving a cursor and selecting different elements of the diagram. The layout remains consistent, but small changes in the cursor position and the highlighting of certain nodes indicate navigation through the visual map."
+}

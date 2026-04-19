@@ -1,0 +1,15 @@
+{
+  "video_id": "2900bd385671cad8f04463c4d6051415",
+  "url": "./data/segments/3TQScsCOS2k-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.145,
+    0.435,
+    0.725,
+    1.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A surreal digital composition features a cat's face wearing a party hat, presented as a popsicle stuck in a white container. The scene is set against a vibrant, multicolored background consisting of pink and blue gradients, palm trees, and sparkling bokeh effects. The text \"CLICK HERE TO SUBSCRIBE\" is prominently displayed in a bright cyan banner in the upper left corner of each scene. As the video progresses, the lighting and color saturation shift dramatically across the frames. The image begins with a high-exposure, bright pink wash that obscures much of the detail. In subsequent moments, the colors deepen, revealing a more saturated blue and pink palette and bringing the details of the cat's face and the surrounding tropical elements into clearer focus. The cat remains stationary, staring forward with wide eyes throughout the sequence."
+}

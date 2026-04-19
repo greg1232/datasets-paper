@@ -1,0 +1,15 @@
+{
+  "video_id": "5115627e47d6e66ddff7037d061eada3",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.525,
+    0.875,
+    1.225
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large white airplane with a red and blue stripe along its side is parked on a tarmac under a bright blue sky. The aircraft features the red text \"POCC\" and \"Il-96\" on its fuselage. A ground crew member wearing a yellow safety vest and dark pants stands near the plane's nose gear, while a white tug vehicle is positioned behind them. A small red and white logo with the number \"13\" is visible in the top right corner of the scene. As the sequence progresses, the camera slowly pans across the side of the aircraft, moving from the nose toward the engines. The ground crew member remains in a similar position, and the airplane remains stationary throughout the shots, with only the perspective of the camera shifting to reveal more of the plane's white body and large engine housing."
+}

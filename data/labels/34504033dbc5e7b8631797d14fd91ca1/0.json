@@ -1,0 +1,15 @@
+{
+  "video_id": "34504033dbc5e7b8631797d14fd91ca1",
+  "url": "./data/segments/3Ma0wGTm5QQ-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.579,
+    1.737,
+    2.896,
+    4.054
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair wearing a red t-shirt stands before a split-color background that is light blue on top and green on the bottom. On the left side of his chest, his shirt features the logo \"Learning in Hand with TONY VINCENT\" along with a small hand icon. To his right, a circular badge reads \"GREAT PLAINS SUMMIT 2022\" around a yellow sun, next to the text \"Great Plains SUMMIT July 14\u201315, 2022\". The man smiles and speaks, gesturing with his hands. As the sequence progresses, a red banner slides in from the right side of the screen containing the text \"Tony Vincent\" in white. The banner first appears partially, then fully extends across the green section of the background, remaining visible as the man continues to speak and move his hands."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "3440027bd5e4e524201b093aa2d412da",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-281.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.963,
+    2.888,
+    4.812,
+    6.737
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a small, clear plastic case containing a certificate and a trading card. The certificate features a portrait of a baseball player and text that reads, \"You have received a one-of-a-kind autographed Randy Johnson card from 2021 Topps Transcendent Baseball Hall of Fame in celebration of the history of Topps Baseball Cards.\" A signature is visible at the bottom of the document. In the background, a man wearing a dark blue t-shirt sits at a desk with various items, including a keyboard and monitor. The background is overlaid with branding that says \"JASPYS LIVE CASEBREAKS.COM\" in orange and white text. A green palm tree graphic is visible on the surface below the hands. Across the sequence, the hands subtly shift the angle of the plastic case, while the man in the background remains relatively stationary."
+}

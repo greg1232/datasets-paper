@@ -1,0 +1,15 @@
+{
+  "video_id": "7254f557f1164351d863cfad7a6d47c2",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-097.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.29,
+    0.87,
+    1.45,
+    2.03
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital scoreboard at a soccer stadium displays a match between Granada CF and Real Madrid. The screen shows a score of \"1-2\" with a clock ticking forward from \"89:57\" to \"89:58\". Under the score, goal scorers are listed: \"49' MACHIS\" for the home team, and \"9' F. MENDY\" and \"15 BENZEMA\" for the visiting team. Logos for \"LaLiga Santander,\" \"WINAMAX,\" and \"CAJA RURAL GRANADA\" are visible on and around the screen. The scoreboard is set against a dark background, with rows of empty red stadium seats visible below the screen. Small Real Madrid crests appear in the upper corners of the overall image. Between the first and second frames, a small graphic icon appears next to the names MENDY and BENZEMA, which remains present through the final frame as the match clock advances by one second."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9d77a0aaf008e88947bab7cdfb5d653f",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-302.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.158,
+    0.475,
+    0.792,
+    1.109
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Against a plain, light-gray background, a logo featuring the letters \"MP\" evolves over time. Initially, the logo is a large, thin, white outline of the letters \"MP,\" with a light bulb icon integrated into the center. As the sequence progresses, the logo rapidly shrinks in size and shifts in position towards the right. Simultaneously, the outline fills in with a dark blue color, and the integrated light bulb becomes more detailed, appearing as a colorful, illustrated icon. By the final frames, the logo stabilizes in size and color, appearing as a solid, dark blue \"MP\" with the detailed light bulb centered between the two letters. The animation creates a smooth transition from a large, minimalist sketch to a small, polished, and colorful brand mark."
+}

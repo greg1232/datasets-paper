@@ -1,0 +1,15 @@
+{
+  "video_id": "1ca32d688e680a61575f49474936f635",
+  "url": "./data/segments/3JYDT8lap5U-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    39.045,
+    117.135,
+    195.225,
+    273.315
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey blazer and a white shirt stands on a stage during a presentation at EuroPython in Edinburgh on July 23, 2018. He is gesturing with his hands while speaking in front of a series of presentation slides. The slides display various topics related to machine learning. One slide states, \"If we use this, the predicted bitcoin price would be A MILLION++ IN MONTHS\" and includes a handwritten sketch with the caption \"Not that people didn't do it...\". Another slide shows a diagram for \"Machine Learning Model Creation\" and \"Prediction with trained model,\" captioned \"Model training/creation and then prediction with model.\" A third slide emphasizes \"IMPORTANT: DATA TRANSFORMATION & FEATURES,\" discussing the \"feature space.\" The final slide concludes with \"WE'RE ML EXPERTS!\" and instructions to collect certificates. The EuroPython logo and the event date \"Edinburgh 23 29 July 2018\" are visible at the bottom of each frame."
+}

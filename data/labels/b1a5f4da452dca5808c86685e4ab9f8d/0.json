@@ -1,0 +1,15 @@
+{
+  "video_id": "b1a5f4da452dca5808c86685e4ab9f8d",
+  "url": "./data/segments/3Z229_lKLpk-Scene-164.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.345,
+    0.575,
+    0.805
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a wide, static shot of the interior of a grand, circular hall. The room features a high, tiered wooden ceiling with a central dark support beam. A large, circular chandelier with numerous bright white lights rings the upper portion of the space. Below the chandelier, a series of rectangular, frosted glass windows are set into dark wooden columns, allowing soft light to filter through. Beneath these windows, tiered shelves are filled with a dense collection of small, shimmering silver or metallic objects, possibly trophies or commemorative plates, which catch the light. There are no people, text, or logos visible in the scene. Between the frames, the camera remains completely stationary, and there is no discernible movement or change in the environment, creating a still and symmetrical view of the ornate room."
+}

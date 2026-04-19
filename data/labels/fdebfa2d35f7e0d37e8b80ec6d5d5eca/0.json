@@ -1,0 +1,15 @@
+{
+  "video_id": "fdebfa2d35f7e0d37e8b80ec6d5d5eca",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-131.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.259,
+    0.776,
+    1.293,
+    1.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, three individuals are dressed in sterile surgical attire, including hair nets, face masks, and scrubs. One person on the left wears blue scrubs, a second person in the center wears dark grey scrubs, and a third person on the right is partially visible, wearing light blue scrubs. All three are positioned closely together, facing toward the right of the frame. The scene remains nearly static across the sequence, with only subtle movements in the posture and gaze of the individuals. On-screen graphics include a purple circle containing the text \"Day 5\" and a logo in the bottom right corner that reads \"Sim Week\" next to a stylized icon of a medical device. The background shows fragments of medical equipment and a blue surgical drape, suggesting an operating room or clinical training environment."
+}

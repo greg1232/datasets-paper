@@ -1,0 +1,15 @@
+{
+  "video_id": "68c09a12e5f0da7e4fd3eef1a8f32561",
+  "url": "./data/segments/3o6LBa7ZAp0-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.317,
+    0.951,
+    1.585,
+    2.219
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A motion graphic animation unfolds against a deep blue background featuring a stylized, shadowed silhouette of a world map. A light blue globe centered in the frame begins as a silhouette and gradually reveals more detail as white text emerges over it. The word \"POLICY\" first appears in a bold, serif white font across the center of the globe. This expands to include the word \"WORLD\" above it and \"CONFERENCE\" below it, creating the full title \"WORLD POLICY CONFERENCE.\" Beneath this main title, smaller white text fades in, reading \"16TH EDITION GLOBAL GOVERNANCE\" followed by \"November 3-5, 2023 \u2022 Abu Dhabi.\" As the text fully resolves, the background lighting shifts, with the globe and world map becoming darker and more muted, leaving the white text as the primary focal point."
+}

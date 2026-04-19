@@ -1,0 +1,15 @@
+{
+  "video_id": "7b55d300436d22977b5f7cc6aa34431c",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.725,
+    2.175,
+    3.625,
+    5.075
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a dark beard and a grey collared shirt is speaking directly to the camera in a studio setting. He wears a small lapel microphone attached to his shirt. Behind him is a dark grey backdrop with the repeated words \"DAILY ROUND-UP\" appearing in a subtle, faded grey pattern. In the upper left corner of the screen, a logo reads \"peoples dispatch\". Beside the man, a rectangular video overlay shows a different scene: a person wearing dark clothing and a backpack stands outdoors near a concrete wall and industrial-looking buildings, holding up a Palestinian flag. A second, red flag is also visible in the background of this insert. As the sequence progresses, the man continues to speak, with subtle changes in his facial expressions and posture, while the imagery in the overlay remains consistent."
+}

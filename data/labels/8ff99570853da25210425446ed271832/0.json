@@ -1,0 +1,15 @@
+{
+  "video_id": "8ff99570853da25210425446ed271832",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.73,
+    2.19,
+    3.649,
+    5.109
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard is seated in a recording studio, positioned in front of a professional microphone and wearing large over-ear headphones. He is dressed in a black zip-up jacket over a grey t-shirt, set against a backdrop of dark grey acoustic foam panels. Throughout the sequence, the man is speaking and using hand gestures to emphasize his points. In the beginning, he raises his right hand high and open. As the scene progresses, he lowers his arms, momentarily resting his right hand near his chest. Finally, he raises both hands above his head, palms facing downward, as if gesturing to a ceiling or a specific height. The microphone remains stationary in the foreground, and the lighting stays consistent across the sequence."
+}

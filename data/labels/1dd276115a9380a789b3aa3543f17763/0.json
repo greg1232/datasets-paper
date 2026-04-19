@@ -1,0 +1,15 @@
+{
+  "video_id": "1dd276115a9380a789b3aa3543f17763",
+  "url": "./data/segments/3Kxl1O310k8-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide is shown across the sequence, featuring a white background with a yellow horizontal band across the center. At the top, the text \"CPA can fund housing trusts\" is written in black. Below this, three blue-bordered rectangular boxes are arranged in an ascending stair-step pattern. The first box on the left contains the text \"Applies for specific program/project,\" the middle box says \"Applies for no specific purpose,\" and the rightmost box reads \"Transfers set % each year.\" Small orange accents appear at the top right of the second and third boxes. A small logo featuring a stylized yellow \"N\" and a thumbnail video of a person in a blue shirt are visible in the top right corner. The \"MHP\" logo is placed in the yellow band on the left and right. The image remains static across the frames, showing no changes in layout, text, or visual elements."
+}

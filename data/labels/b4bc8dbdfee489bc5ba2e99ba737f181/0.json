@@ -1,0 +1,15 @@
+{
+  "video_id": "b4bc8dbdfee489bc5ba2e99ba737f181",
+  "url": "./data/segments/3Z229_lKLpk-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.255,
+    0.765,
+    1.275,
+    1.785
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide shot captures a large assembly hall filled with numerous people seated in rows of wooden benches. The attendees, predominantly men, are dressed in a variety of attire, including white traditional Indian clothing, colorful shirts, and some wearing turbans. They are seated in a structured arrangement, facing forward towards a central area not fully visible. The scene remains virtually static across the sequence, with the people remaining seated and their positions unchanged. The environment is characterized by a repetitive pattern of desks and seating, with a few people standing or leaning in the foreground. There are no visible logos, on-screen text, or significant movement between the frames, presenting a consistent view of the gathered group in a formal parliamentary or legislative setting."
+}

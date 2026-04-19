@@ -1,0 +1,15 @@
+{
+  "video_id": "ef2342b25458263ec1b8ac86a3c6f67f",
+  "url": "./data/segments/3sJ5OX75erw-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.33,
+    0.55,
+    0.77
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and glasses is speaking against a dark blue background featuring a stylized network of connected nodes. He is wearing a light-colored blazer over a grey collared shirt and has a wired headset microphone. In the top left corner of each frame, the white text \"OPEN NETWORKING & EVENTS\" is visible, with \"EXECUTIVE FORUM\" appearing in smaller letters below it. As the sequence progresses, the man speaks with an animated expression, his mouth open and eyes focused forward. He uses his hands to gesture, initially raising both palms slightly in the first few frames. By the final frame, his right hand moves further toward his chest and his left hand shifts slightly outward, illustrating his points through active hand movements. The background and his attire remain constant throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2ec5ad564b66f365a86114dbdc63384f",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-629.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt and a green baseball cap sits in a studio setting, speaking into a professional microphone. He is positioned in front of several banners; one prominently reads \"UNIQUE FASHIONS\" and another contains the text \"ERE BOSSES TA\", \"IT'S TAI\", and \"BOUT I\". To his right, another person wearing a blue hoodie and a white cap stands facing away from the camera. The background reveals clothing racks and various studio equipment, including a second microphone on a stand. Across the sequence, the man in the green shirt remains in a similar seated position, talking and gesturing slightly with his head and mouth as he speaks. He wears over-ear headphones. A small logo featuring a red circle and the text \"BOP\" is visible in the bottom corners of the frame. The overall environment appears to be a promotional or podcasting space."
+}

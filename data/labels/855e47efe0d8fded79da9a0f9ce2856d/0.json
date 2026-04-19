@@ -1,0 +1,15 @@
+{
+  "video_id": "855e47efe0d8fded79da9a0f9ce2856d",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast from News18 India reports on political tensions in Bihar. The screen features a graphic backdrop showing a map of \"\u092c\u093f\u0939\u093e\u0930\" (Bihar) with a lightning bolt striking it, overlaid with the text \"JDU \u0915\u094b \u0927\u092e\u0915\u0940\". Three men are pictured: Nitish Kumar, identified as \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\", wearing a white kurta; and two others on the right, \"\u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930\" and \"\u0935\u093f\u091c\u092f \u091a\u094c\u0927\u0930\u0940\", both in white attire. A prominent orange \"BREAKING\" banner runs across the bottom, and the time \"10:04 PM\" is displayed. The top headline changes between frames, shifting from \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\" to \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e \u0924\u0947\u095b\" and then \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\". The layout remains consistent across the sequence, with the stationary images of the politicians and the map while only the top headline text updates to provide further commentary on the news story."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f9d48c326fe8fc35050f139ea0492f59",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-247.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.131,
+    0.394,
+    0.656,
+    0.919
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a clear plastic container over a white stand topped with a yellow rectangular object. In the background, a screen shows a man with a beard wearing a dark blue t-shirt sitting in front of a computer setup. The screen includes the logo \"JASPYS\" and the text \"CASEBREAKS.COM\". The setting appears to be a room with a colorful, patterned surface beneath the stand. As the sequence progresses, the hand moves the clear plastic container closer to and then partially over the yellow object. The man on the screen remains seated, looking toward the camera. The \"JASPYS\" logo and \"CASEBREAKS.COM\" text are prominently displayed both on the main screen and as overlays in the upper portion of the view. The action is focused on the interaction between the hand holding the plastic container and the small yellow object on the white stand."
+}

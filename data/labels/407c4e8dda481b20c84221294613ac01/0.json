@@ -1,0 +1,15 @@
+{
+  "video_id": "407c4e8dda481b20c84221294613ac01",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-317.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    41.205,
+    123.615,
+    206.025,
+    288.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call displays a grid of multiple participants in a virtual meeting. The group consists of diverse individuals in various indoor settings, including home offices with bookshelves and neutral walls. Many participants wear casual attire, such as t-shirts and button-down shirts, while one person wears a face mask. Some participants wear glasses. On-screen text labels identify several individuals, including \"Jeffrey Mukhalbi,\" \"Raymond Silverman,\" \"Jen Bartle,\" \"Stacyne Hersh,\" \"Eva_jdevan-ly,\" \"Bill Tatters,\" \"Franca Pittman,\" and \"Dylan Launti.\" As the video progresses, the layout of the participant tiles shifts slightly. Some individuals change their posture, lean toward their cameras, or adjust their expressions, while others remain relatively still. The background environments remain consistent, featuring computer monitors, microphones, and household items, indicating a remote professional or community gathering."
+}

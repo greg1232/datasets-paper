@@ -1,0 +1,15 @@
+{
+  "video_id": "e386301a8c7beffd45b6bfc5ae3f0865",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-157.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.155,
+    0.465,
+    0.775,
+    1.085
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a crowded outdoor scene where a group of men, some in white shirts and others in dark jackets, are walking together. Several men in a security detail wear black jackets with \"S.A.P\" printed on the back. Overlaid on the footage are several portrait photos of men with labels such as \"\u0921\u093f\u092a\u094d\u091f\u0940 CM\", \"\u092e\u0902\u0924\u094d\u0930\u0940\", \"\u0938\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940\", \"\u0935\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\", \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\", and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930\". A red ticker at the top repeatedly displays the text \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091b\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u093c\u0940 \u0939\u0948\". A timestamp in the bottom right corner reads \"10:08 PM\". As the video progresses, yellow text appears at the bottom of the screen. It begins with the word \"\u0928\u093f\u0930\u094d\u0926\u0932\" and evolves into the full sentence \"\u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f MLA \u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930 \u0938\u093f\u0902\u0939 \u092e\u0902\u0924\u094d\u0930\u0940 \u092c\u0928\u0947\". The crowd continues to move forward throughout the sequence while the on-screen graphics update to provide more information."
+}

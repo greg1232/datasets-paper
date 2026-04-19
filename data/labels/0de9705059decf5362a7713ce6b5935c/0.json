@@ -1,0 +1,15 @@
+{
+  "video_id": "0de9705059decf5362a7713ce6b5935c",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A medical simulation takes place in a clinical setting, featuring healthcare professionals wearing blue scrubs and white coats with blue circular patches on their sleeves. One person in a white coat is actively gesturing toward an on-screen checklist, while others stand nearby. The checklist contains the items \"Family updates,\" \"Admission of transfer patient,\" \"Ex lap for liver injury,\" and \"Ventilator management.\" A logo stating \"Sim Week\" is visible in the lower right corner of the scene. As the sequence progresses, the person in the white coat points to each item on the list. By the final frame, the \"Family updates\" item has been crossed out or removed from the view as the person points specifically to \"Admission of transfer patient.\" In the background, a patient lies in a hospital bed surrounded by medical equipment and monitors."
+}

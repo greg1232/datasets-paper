@@ -1,0 +1,15 @@
+{
+  "video_id": "cb4e9d6f6a34c3f2b5b7af07207a6d1d",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.051,
+    3.153,
+    5.255,
+    7.357
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, a group of healthcare professionals gathers around a patient mannequin lying on a hospital bed covered with white linens. The team includes individuals wearing pink scrubs, blue scrubs, a black blazer over blue pants, and dark uniforms with badges. One person in the foreground wears a white coat and a colorful green and pink patterned surgical cap. They are seen interacting with the patient and each other, with some wearing blue gloves and masks. Medical equipment, including a red crash cart and monitors, is visible in the background. Throughout the sequence, the personnel shift their positions and lean in closer to the patient to perform a procedure. The text \"Sim Week\" appears in the bottom right corner of each frame. As the scene progresses, the person in the white coat moves their arms and hands closer to the patient, while the other staff members adjust their stances around the bedside."
+}

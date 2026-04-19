@@ -1,0 +1,15 @@
+{
+  "video_id": "fd7c25780ea88822c6aca6b03d502ac6",
+  "url": "./data/segments/3P1vSUbet40-Scene-1009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.156,
+    0.469,
+    0.782,
+    1.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a distinctive tall, grey, textured hairstyle and glasses is seated in a studio setting. He wears a white button-down shirt and black over-ear headphones. In front of him is a black microphone. The background consists of a wall covered in framed photographs and a vertical yellow banner with the word \"LEE\" visible. The man is speaking, and his facial expression shifts slightly as he talks across the sequence. On the left side of the scene, a logo reads \"BOSS TALK 101 PODCAST,\" and similar text \"BOSS TALK 101\" appears on the right. The camera remains stationary, focusing on the man's upper body, while the only movement is his slight change in posture and facial expressions as he communicates."
+}

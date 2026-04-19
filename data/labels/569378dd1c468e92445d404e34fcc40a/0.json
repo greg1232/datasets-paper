@@ -1,0 +1,15 @@
+{
+  "video_id": "569378dd1c468e92445d404e34fcc40a",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-237.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.785,
+    2.355,
+    3.925,
+    5.495
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a virtual meeting or presentation. The majority of the screen is occupied by a dark interface featuring a complex conceptual map with various circular icons connected by blue lines. Legible text within these icons includes \"Human-Centered,\" \"Interdisciplinary,\" \"Inclusive,\" and \"Flexible Study.\" At the top of the browser, multiple tabs are open, including titles like \"Trust & Learning by Systemenic,\" \"Promote by Systemenic,\" \"Future of Society by Systemenic,\" \"Insights | introduction | Kumu,\" and \"Road Community Food Spot | Systemenic.\" In the upper right and lower right corners, a small video feed shows a man wearing a dark blue baseball cap and a dark shirt, sitting in an office environment. Across the sequence, the man remains stationary in his video feed, and the conceptual map on the screen stays static, with no visible changes in movement or content."
+}

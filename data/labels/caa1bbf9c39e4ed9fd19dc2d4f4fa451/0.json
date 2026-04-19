@@ -1,0 +1,15 @@
+{
+  "video_id": "caa1bbf9c39e4ed9fd19dc2d4f4fa451",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-121.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.102,
+    0.306,
+    0.51,
+    0.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a clear plastic protective case over a stack of white card sleeves on a patterned surface featuring green palm trees. In the background, a smaller inset video window shows a man with a beard wearing a dark t-shirt sitting in a chair, looking toward the camera. The orange and white logo \"JASPYS\" appears at the top of the scene, accompanied by the text \"CASEBREAKS.COM\". Within the inset window, the text \"JASPYS\" is again visible above \"Sports Cards & More\". As the sequence progresses, the person's hands shift the clear plastic case, moving it slightly and rotating it over the white sleeves. The man in the inset window remains in a similar position, though his expression and head tilt change slightly across the frames. The setting is a tabletop area equipped for card collecting, with the primary focus on the handling of a sports card accessory."
+}

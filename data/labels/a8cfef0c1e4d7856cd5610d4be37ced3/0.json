@@ -1,0 +1,15 @@
+{
+  "video_id": "a8cfef0c1e4d7856cd5610d4be37ced3",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-343.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.617,
+    1.852,
+    3.086,
+    4.321
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt and a grey baseball cap with a logo featuring a red mouth and white teeth sits in a recording studio. He is wearing large black headphones and speaks into a professional microphone mounted on a shock mount with a \"Blue\" logo visible on the arm. The background consists of dark grey acoustic foam panels. Throughout the sequence, the man is speaking and gesturing with his right hand. He starts with his hand resting, then lifts it to gesture upward and outward. He briefly lowers his hand before extending it again in a sweeping motion across his body. The camera angle remains static, focusing on the man from the chest up as he interacts with the microphone."
+}

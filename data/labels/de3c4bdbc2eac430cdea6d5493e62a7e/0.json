@@ -1,0 +1,15 @@
+{
+  "video_id": "de3c4bdbc2eac430cdea6d5493e62a7e",
+  "url": "./data/segments/3_n4Uj9iLyU-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.126,
+    1.877,
+    2.628
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This static graphic promotes the \"OPENSTACK\" \"BARCELONA SUMMIT\" with the greeting \"WELCOME TO THE\". The scene features a blue background with a stylized skyline of a city. A white cable car with a red stripe is suspended from a wire. To the left, a whimsical illustration depicts a blue bird wearing a red cap, standing beside a yellow object with a red \"C\" logo and two small cans. The image is a repetitive tiling of the same composition, creating a seamless pattern. There is no movement or change in the scene between the frames, as they are identical repetitions of the same promotional artwork."
+}

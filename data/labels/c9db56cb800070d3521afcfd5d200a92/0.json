@@ -1,0 +1,15 @@
+{
+  "video_id": "c9db56cb800070d3521afcfd5d200a92",
+  "url": "./data/segments/3L_uHTClWfk-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.108,
+    0.325,
+    0.542,
+    0.758
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Joe Biden is positioned in the foreground of a scene set outdoors with the White House and a fountain visible in the background under a clear sky. He is wearing a dark navy blue suit jacket, a white collared shirt, and a purple and white striped tie. A small lapel microphone is clipped to his tie. Throughout the sequence, Biden remains in a medium close-up shot, speaking with a serious expression. In the lower left of the frame, a separate overlay shows a close-up of someone's hands adjusting a piece of equipment, possibly a cable or a connector, though the specific object is obscured. The background remains static, featuring the white columns of the White House, a green lawn, and a fluttering American flag on the roof. There is no visible on-screen text or logos. The only movement occurs in Biden's facial expressions as he speaks and the slight movements of the hands in the overlay."
+}

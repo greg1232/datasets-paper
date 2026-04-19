@@ -1,0 +1,15 @@
+{
+  "video_id": "e0d177df0f4683a089021a76e0c3603d",
+  "url": "./data/segments/3QD9oO6sRns-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up view of several stacked boxes of sports trading cards. The boxes feature the \"TOPPS\" logo and the text \"EARLY AUTHENTIC\" and \"CLEAR\" printed on the sides, with \"2020\" prominently displayed in red. A small picture-in-picture window in the center of the scene shows a man wearing a black t-shirt, seated in front of a computer monitor. Superimposed over the man is a logo that reads \"CASEGOHEARS.COM\". As the sequence progresses, the camera subtly shifts its angle, and the man in the inset video changes his position and expression while looking toward the camera. The background remains a dense stack of these identical trading card boxes, filling the majority of the frame with a repetition of the brand logos and year."
+}

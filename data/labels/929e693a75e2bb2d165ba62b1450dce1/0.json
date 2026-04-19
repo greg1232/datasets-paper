@@ -1,0 +1,15 @@
+{
+  "video_id": "929e693a75e2bb2d165ba62b1450dce1",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-188.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser open to a presentation about \"Rural Community Food System.\" The main area of the screen is a black background featuring a causal loop diagram with green text and blue curved arrows. The diagram includes phrases such as \"Birds Outside,\" \"Attractiveness of Garden,\" \"Birds at Feeder,\" \"Bird Feeder,\" and \"Frustration.\" In the upper right corner of the browser window, a small video feed shows a man with light skin, wearing a dark blue baseball cap and a dark blue shirt, looking toward the camera. As the sequence progresses, the user interacts with the diagram, adding new elements. In the later frames, a new blue arrow curves from \"Birds at Feeder\" down to a new text element at the bottom that reads \"Buy Bird Seed,\" which then connects back up to \"Attractiveness of Garden.\""
+}

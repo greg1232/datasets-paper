@@ -1,0 +1,15 @@
+{
+  "video_id": "a132ae90debb23904cbdd99d695ae19f",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.367,
+    1.101,
+    1.835,
+    2.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up, top-down perspective shows a dark, textured surface of earth and stone, likely the ground of a cave or subterranean passage. A bright, circular beam of light from a flashlight illuminates a small area of the terrain, revealing patches of green moss, small pebbles, and damp soil. The light source is positioned centrally, creating a high-contrast spotlight effect that leaves the surrounding edges of the scene in deep shadow. As the sequence progresses, the beam of light remains relatively stationary, though there are subtle shifts in the angle and intensity of the illumination, highlighting different textures of the rocky ground. No people, equipment, or text are visible in the scene."
+}

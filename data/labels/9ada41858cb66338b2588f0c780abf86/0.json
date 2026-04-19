@@ -1,0 +1,15 @@
+{
+  "video_id": "9ada41858cb66338b2588f0c780abf86",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.398,
+    1.194,
+    1.99,
+    2.785
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays the website RANDOM.ORG, where a user is utilizing a \"Dice Roller\" tool. The site features a header with the text \"RANDOM.ORG\" and a warning stating, \"Advisory: We only operate services from the RANDOM.ORG domain. Other sites that claim to be operated by us are impostors.\" A sidebar chat shows messages from \"glowing27\" and \"Nightbot,\" including a link: \"http://bit.ly/NzSdekK49\". A small inset video window at the bottom shows a man with short brown hair and a beard wearing a black shirt. Across the bottom of the screen is a banner for \"JASPY S CASEBREAKS.COM\". Initially, the page shows a \"Roll 2 virtual dice\" option with buttons for \"Roll Dice\" and \"Reset Form.\" Following a click, the page refreshes to show the result: \"You rolled 2 dice: \u2681 \u2681\" with a timestamp of \"2023-05-20 03:12:58 17 UTC.\""
+}

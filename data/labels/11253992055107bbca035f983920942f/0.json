@@ -1,0 +1,15 @@
+{
+  "video_id": "11253992055107bbca035f983920942f",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.167,
+    0.501,
+    0.834,
+    1.168
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, two women wearing blue scrubs, black jackets, and black face masks stand beside a medical mannequin lying on a bed. The woman on the left holds a white piece of paper and wears a red lanyard with an ID badge, while the woman on the right has a stethoscope draped around her neck and wears blue gloves. The room is equipped with medical devices, including a monitor and a red medication cart. In the bottom left corner of the scene, a pink graphic is accompanied by the text \"Day 1\", and in the bottom right, a logo is paired with the text \"Sim Week\". As the sequence progresses, the women remain in their positions, though they shift slightly as they interact with the mannequin and the paperwork, maintaining their focus on the simulated patient."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4803caa000f8dcb712077909fefabc74",
+  "url": "./data/segments/3_3xsVMtx3c-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.312,
+    0.521,
+    0.729
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a retail clothing store, a person wearing a light-colored baseball cap and a pink t-shirt is browsing through a rack of black garments. The store's interior features slatwall displays with various items of clothing, including blue shirts and red-and-white patterned apparel. In the background, \"ONEILL\" logos are visible on signage. Overlaid on the scene is large, white, semi-transparent text that reads \"25% OFF HOODIES JACKETS & SWEATERS\". Throughout the sequence, the person stands with their back to the camera, reaching out with their right hand to touch and move a black jacket on the rack. The person's position remains largely stationary, with slight shifts in their arm and head movement as they inspect the clothing. The background environment and the promotional text remain constant across the duration of the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "177e298a6bbeab85bb5ee50ee317605a",
+  "url": "./data/segments/3F2rz23IKUk-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.42,
+    7.26,
+    12.1,
+    16.94
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static presentation slide titled \"Methods of source distribution.\" The slide features a bulleted list stating, \"GPLv2 section 3 gives choices,\" followed by three sub-points: \"(a) requires that the source accompany the binary\" with the clarification \"- ie, include a CD of the source with the device,\" \"(b) requires a written offer to provide the source on request\" with further options to \"Link to a download site\" or \"Distribute on physical media, charge for duplication cost,\" and \"(c) doesn't apply to commercial distribution.\" There are no people, logos, or movements visible. The scene remains completely unchanged across all frames, displaying the same black text on a plain white background without any visual transitions or updates to the content."
+}

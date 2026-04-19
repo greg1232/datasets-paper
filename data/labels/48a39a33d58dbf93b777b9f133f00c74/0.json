@@ -1,0 +1,15 @@
+{
+  "video_id": "48a39a33d58dbf93b777b9f133f00c74",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-417.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.164,
+    3.491,
+    5.818,
+    8.146
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The provided image consists of four identical frames on a black background. Each frame contains two gray rectangular placeholders arranged side-by-side. Centered below these rectangles is the website address \"Mindpumpfree.com\". Further down, a row of social media icons and handles is displayed: a Facebook icon followed by \"@Mindpump\", a Twitter icon followed by \"@Mindpump\", and an Instagram icon followed by \"@Mindpumppumpmedia\". Because all four frames are identical, there is no movement, change in setting, or interaction between people. No people, clothing, or physical objects are visible in the scene beyond the graphic elements and text. The image appears to be a static template or a placeholder graphic for a video layout."
+}

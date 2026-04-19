@@ -1,0 +1,15 @@
+{
+  "video_id": "804698122c8ddc2f64ffe9e7087649b8",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-097.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.475,
+    1.425,
+    2.375,
+    3.325
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large, brightly lit hall with a blue floor and ornate chandeliers overhead, several people are engaged in a demonstration of martial arts. A crowd of spectators sits in the background, watching the performers. Two pairs of practitioners are active on the floor. One pair consists of a man in a black shirt and blue pants and a woman in a white outfit; they engage in coordinated movements, with the woman moving dynamically toward and away from the man. Another pair, consisting of two people in light-colored clothing, performs complementary movements nearby. As the sequence progresses, the practitioners shift their stances, extending their arms and legs in precise, fluid motions. The man in the black shirt moves from a standing position to a more grounded, defensive stance, while the woman in white executes a sweeping motion. The scene remains consistent in setting, with the primary focus on the synchronized physical interactions of the practitioners."
+}

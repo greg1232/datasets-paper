@@ -1,0 +1,15 @@
+{
+  "video_id": "b7eb8a9375bc0f2e8475384910c37fb3",
+  "url": "./data/segments/3Sq594WkayE-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.823,
+    2.469,
+    4.115,
+    5.76
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a close-up, out-of-focus shot of city lights at night, featuring blurred white and red bokeh circles against a dark sky. As the sequence progresses, the camera zooms out and shifts focus to reveal a wide nighttime landscape. A distant city skyline is visible along the horizon, with small, twinkling yellow and white lights reflecting on a dark body of water in the foreground. In the distance, the dark silhouettes of hills or mountains rise against a hazy, dark brownish-grey sky. No people, clothing, or legible text are visible in any of the frames. The scene transitions from a highly blurred abstract view of lights to a clear, wide panoramic view of a coastal city under a night sky."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1ac02e345383e4cb3a97fe48071318c2",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-288.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.583,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports card in a clear protective case, rotating it to show different sides. In the background, a man wearing a navy blue t-shirt sits at a desk with computer monitors and peripherals. On-screen text overlays include the logo \"JASPYS\" followed by a red heart and the website \"CASEBREAKS.COM\". As the person turns the card, the back is initially visible, followed by a side view. Eventually, the front of the card is revealed, showing a baseball player in a navy blue and orange Houston Astros jersey. The player's name, \"NOLAN RYAN\", is printed at the top of the card. The card features a signature and the word \"ASTROS\" in large letters at the bottom. The person's hands are visible throughout, manipulating the encased card over a colorful patterned surface featuring palm tree designs."
+}

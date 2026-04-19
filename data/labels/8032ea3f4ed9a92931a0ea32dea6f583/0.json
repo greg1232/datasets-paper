@@ -1,0 +1,15 @@
+{
+  "video_id": "8032ea3f4ed9a92931a0ea32dea6f583",
+  "url": "./data/segments/3rHRnfTOnJQ-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    16.933,
+    50.8,
+    84.667,
+    118.533
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a blue long-sleeved button-down shirt is positioned in a studio setting with purple backdrop curtains, speaking into a microphone mounted on a stand. Below the video feed of the man is a close-up view of a piano keyboard and a set of musical staves. As the sequence progresses, the man\u2019s hands move across the keyboard to play specific notes. In the third frame, the text \"D minor 3rd\" appears on the left side of the screen, and a red vertical line highlights a specific key on the keyboard. The musical staves on the right change from being empty to showing musical notes. The man remains in the same position throughout, while the focus shifts to the visual representation of the musical notes being played on the keyboard and displayed on the staff."
+}

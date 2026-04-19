@@ -1,0 +1,15 @@
+{
+  "video_id": "8322898cc4ea0e0d51a7f28dbf0c916c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-087.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.312,
+    0.938,
+    1.562,
+    2.188
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair wearing a dark t-shirt and a headset sits in a room with a Christmas tree in the background, appearing in a small video overlay in the bottom-left corner. The main screen displays a purple background with the text \"TOTW PRESENT\" at the top. A dark, stylized card is centered on the screen, surrounded by glowing purple and green geometric accents. As the sequence progresses, the card opens to reveal a gold-themed player card, and the man in the overlay reacts with a surprised facial expression. The final scene shows a completed player card with a green glow and a player wearing a white jersey with the number 32. On-screen UI elements include buttons for \"MARK/UNMARK\", \"DISMISS ALL\", and \"BACK\", along with a top-right display showing \"173,037\", \"14,600\", \"2,343,543\", and \"LVL 19\"."
+}

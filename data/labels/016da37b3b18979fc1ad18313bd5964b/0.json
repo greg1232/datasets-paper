@@ -1,0 +1,15 @@
+{
+  "video_id": "016da37b3b18979fc1ad18313bd5964b",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-831.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.188,
+    0.563,
+    0.938,
+    1.314
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hoodie with \"BOSS TALK\" printed in gold, and a gold necklace sits in a studio setting. He is positioned behind a dark table equipped with a professional microphone on a swivel arm and a black coffee mug that reads \"BOSS TALK 101\". In the background, a white banner features gold stars and the text \"URBAN HUSTLE\", while a blue screen above him displays the phrase \"Where BOSSES Talk!\". The man is actively speaking and gesturing with his hands, holding several pieces of white paper. Across the sequence, he shifts his expression from a focused gaze to a slight smile while continuing to talk and move his hands. A small circular logo with the text \"BOSS TALK 101\" is visible in the lower-left corner of each scene."
+}

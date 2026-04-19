@@ -1,0 +1,15 @@
+{
+  "video_id": "6ef50173bd4a34c916cd1b21a9726a35",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.844,
+    14.531,
+    24.219,
+    33.906
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video consists of a solid black background with several recurring elements. Four orange circular icons, each containing a white capital letter \"S\", are positioned in the corners of the screen. Additionally, the text \"Susan Nirmal\" appears in a small white font in several locations. The first frame shows two \"S\" icons at the top and the name \"Susan Nirmal\" on the far left. As the sequence progresses, the \"S\" icons remain stationary in the four corners. The name \"Susan Nirmal\" appears and disappears across different positions: first on the left, then in the center, and finally at the bottom left and bottom center. There are no people, clothing, or physical settings visible, only these static graphic elements and text shifting against the black void."
+}

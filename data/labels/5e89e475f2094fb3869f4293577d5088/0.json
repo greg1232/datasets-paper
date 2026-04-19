@@ -1,0 +1,15 @@
+{
+  "video_id": "5e89e475f2094fb3869f4293577d5088",
+  "url": "./data/segments/3fokLGPK15Q-Scene-110.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.99,
+    2.97,
+    4.95,
+    6.93
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A blonde woman is positioned against a textured purple background, wearing a black t-shirt with the white text \"WHO'S IN YOU\" partially visible across the chest. She wears a small, beige headset microphone that curves toward her mouth. In the initial moments, she looks directly forward with a neutral expression. As the sequence progresses, she turns her head slightly to her right and begins to speak, her mouth opening and closing. Her head then returns to a more central position, though she continues to look slightly to the side while talking. Throughout the sequence, she remains in a stationary seated position, with the focus entirely on her upper body and head movements against the solid colored backdrop."
+}

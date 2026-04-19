@@ -1,0 +1,15 @@
+{
+  "video_id": "f406987cad6013a6bce90c4267985521",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.078,
+    0.235,
+    0.391,
+    0.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair, wearing a grey collared shirt, is seen from behind and to the side as he drives a vehicle. He has both hands on the steering wheel and is looking forward through the windshield. The vehicle's interior is grey, and a dashboard accessory is visible to the right of the steering wheel. Through the window, a rural landscape with sparse trees and a road can be seen moving past. A rearview mirror is attached to the top of the windshield. Throughout the sequence, the man remains in a consistent driving posture while the outdoor scenery shifts slightly as the vehicle progresses forward. The white on-screen text \"I work in Tal al-Shihab transporting refugees\" appears consistently across the lower middle of the scene."
+}

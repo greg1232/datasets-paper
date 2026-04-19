@@ -1,0 +1,15 @@
+{
+  "video_id": "338a4b591ae29980054e0e2a6001201c",
+  "url": "./data/segments/3l84m5pRmyk-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.174,
+    9.522,
+    15.87,
+    22.218
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with brown hair wearing a light-colored button-down shirt under a black blazer speaks in front of a light-colored backdrop. The backdrop features various logos and text, including \"theCUBE,\" \"#BigDataSV,\" and \"BigDataSV 2015.\" In the bottom-left corner of the scene, a smaller logo for \"NFO-OBJECTS\" is visible. A blue on-screen graphic banner identifies the speaker as \"JOHN FURRIER | @furrier\" and lists his title as \"Founder SiliconANGLE.\" As the sequence progresses, the man\u2019s facial expression changes as he speaks, and he shifts his gaze. In the final frame, he raises his right hand, pointing his index finger upward to emphasize a point. A clear plastic water bottle is partially visible on the right side of the frame throughout the clip."
+}

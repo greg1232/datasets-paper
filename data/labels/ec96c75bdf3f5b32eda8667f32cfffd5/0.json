@@ -1,0 +1,15 @@
+{
+  "video_id": "ec96c75bdf3f5b32eda8667f32cfffd5",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-137.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.095,
+    9.284,
+    15.474,
+    21.663
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with grey hair, wearing a black crew-neck shirt, is captured in a medium shot against a plain, light-colored wall. He is the sole person visible in the scene. Throughout the sequence, he is speaking, with his facial expressions and mouth movements changing as he talks. In the background, a small portion of a blue and white object is visible on a surface to the right. The text \"Tiger-TV\" appears in the upper right corner of every shot. As the sequence progresses, the man shifts his gaze slightly and continues talking, with his expression transitioning from a slight smile to a more neutral, focused look while speaking."
+}

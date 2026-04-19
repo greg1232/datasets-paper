@@ -1,0 +1,15 @@
+{
+  "video_id": "98cc3ee3d12631845a0e64912c0d9cbf",
+  "url": "./data/segments/3fokLGPK15Q-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.72,
+    8.16,
+    13.6,
+    19.04
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard, wearing a white long-sleeved button-down shirt and a small beige headset microphone, is speaking on a stage. The background is dark with bright purple diagonal light beams illuminating the space behind him. In the first frame, he gestures with both hands while looking slightly to his left. In the second frame, he looks forward with a slight smile, his hands lowered. By the third frame, he continues speaking, glancing toward the left side of the frame with his mouth open. In the final frame, he looks downward and slightly to the right, with one hand partially visible at the bottom of the shot. The scene remains constant in its setting and lighting throughout the sequence, focusing solely on the man's upper body and his changing facial expressions and hand movements as he delivers a presentation."
+}

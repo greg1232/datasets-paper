@@ -1,0 +1,15 @@
+{
+  "video_id": "4ebdd1a559c04be8cdadacebc560b768",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-171.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.345,
+    0.575,
+    0.805
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a digital presentation within a web browser, displaying a complex conceptual map on a black background. The map consists of various circular icons connected by curved lines, featuring labels such as \"Insights\" and \"Invisible Hub.\" A video call window in the top right corner shows a man wearing a black baseball cap and a dark shirt. The browser tabs at the top include titles like \"Trust & Learning by Systemantics,\" \"Future of Society by Systemantics,\" and \"Rural Community Food System.\" The address bar displays \"block-theory-trail-learning.\" Across the sequence, the screen remains largely static, with only minor shifts in the man's expression and posture within the video call inset. The conceptual map remains centered and unchanged, maintaining its layout of linked icons and text labels throughout the duration of the clip."
+}

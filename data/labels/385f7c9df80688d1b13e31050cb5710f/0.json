@@ -1,0 +1,15 @@
+{
+  "video_id": "385f7c9df80688d1b13e31050cb5710f",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.477,
+    1.431,
+    2.385,
+    3.34
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short blond hair, wearing a pink sleeveless shirt, is captured in a basketball gym. The background features a polished wooden court with green painted areas, blue spectator bleachers, and basketball hoops. In the initial scene, the man is looking down and gesturing with his hands, bringing them together in front of his chest. As the sequence progresses, he shifts his gaze upward and looks directly into the camera. His expression remains relatively neutral as he adjusts his posture, eventually centering himself in the shot. The background remains static throughout the frames, showing the empty gym and the architectural details of the facility. There is no visible on-screen text or logos present in any of the frames."
+}

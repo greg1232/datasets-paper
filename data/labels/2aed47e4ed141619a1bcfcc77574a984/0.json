@@ -1,0 +1,15 @@
+{
+  "video_id": "2aed47e4ed141619a1bcfcc77574a984",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.563,
+    0.788
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three young women are seated at a long table against a plain grey wall in an indoor setting. The woman on the left wears a dark blue top and rests her chin on her hand with a thoughtful expression. The woman in the middle wears a dark blue top and looks forward. The woman on the right wears a dark blue top and a white surgical mask. All three women remain still across the sequence of frames. On the table in front of them are several notebooks and a white container. Superimposed white text across the center of the scene reads \"UNIVERSITY OF MARYLAND Department of Surgery and R Adams Cowley Shock Trauma Center\". In the bottom right corner, a small logo accompanied by the text \"Sim Week\" is visible. The scene remains static throughout the frames, with no significant movement or changes in the people's positions or expressions."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "27fdbaa8e843fb757967b5388cf92e6c",
+  "url": "./data/segments/3HgCF6yVXko-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.7,
+    5.1,
+    8.5,
+    11.9
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A camera pans through a residential interior, moving from a hallway into a bathroom. The scene begins in a hall with light-colored walls and a wooden door, showing a glimpse of a glass-enclosed shower and a bathtub. As the camera moves, it passes through a wooden doorway, revealing a bathroom with white tiled walls and floors. Inside the bathroom, a white bathtub is situated beneath a window with horizontal blinds, and a glass shower enclosure stands adjacent to it. The bathroom is equipped with silver fixtures, including a showerhead and a faucet. There are no people present in the scenes. The sequence transitions from a wide view of the hallway and entrance to a closer, more detailed perspective of the bathroom's interior, highlighting the clean, modern aesthetic of the space."
+}

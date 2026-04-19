@@ -1,0 +1,15 @@
+{
+  "video_id": "a6a4dcbb0f1516641a54e5e081035730",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-111.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.355,
+    1.064,
+    1.773,
+    2.482
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical simulation room, several medical professionals wearing blue and pink scrubs and face masks are gathered around a long wooden conference table. A person in blue scrubs sits at the head of the table, while others are seated along the sides. In the background, two monitors display red and white graphics, and medical equipment is visible on a side table. On the table, there are notebooks, papers, and a dark grey water bottle. The text \"Day 4\" appears in the lower-left corner, and \"Sim Week\" with a logo is in the lower-right corner. Throughout the sequence, the individuals engage in a conversation; a woman in blue scrubs on the left listens attentively, and a man in blue scrubs on the right speaks, gesturing with his hands. The scene remains relatively static, with only slight shifts in the participants' postures and facial expressions as they interact."
+}

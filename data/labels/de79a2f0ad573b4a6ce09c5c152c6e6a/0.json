@@ -1,0 +1,15 @@
+{
+  "video_id": "de79a2f0ad573b4a6ce09c5c152c6e6a",
+  "url": "./data/segments/3Z229_lKLpk-Scene-194.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.46,
+    1.38,
+    2.3,
+    3.22
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide shot captures the interior of a large legislative assembly hall, characterized by tiered wooden seating and green carpeting. The room is filled with numerous people, primarily men, many of whom are dressed in white traditional Indian attire, such as kurtas. They are seated in structured rows, some engaged in conversation while others look toward the front of the room. In the foreground and mid-ground, wooden desks and partitions separate sections of the seating. A blue fabric item rests on a ledge in the lower center of the scene. The frames show minimal movement, with small shifts in the posture and positioning of the attendees as they sit and interact within the hall. The overall environment remains static, with no visible on-screen text, logos, or significant changes in the composition across the sequence."
+}

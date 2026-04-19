@@ -1,0 +1,15 @@
+{
+  "video_id": "9e09074e4265f515a8cdd4c2413a5b7e",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-149.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.641,
+    1.922,
+    3.203,
+    4.484
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is pictured in a sequence of shots, appearing within a rounded rectangular cutout against a solid black background. He is dressed in a dark, patterned traditional garment with white cuffs and a dark cap. He stands in an indoor setting with a neutral-colored wall behind him, facing slightly toward the camera with a neutral to slight smiling expression. He remains stationary throughout the sequence, holding a small, light-colored object in his hands. The text \"Seyi Adebola\" appears in a small, white font in the lower-left and lower-center regions of the black background. Across the progression of the frames, there is minimal movement; the man's posture and expression remain consistent, and the overall composition and framing of the scene do not change."
+}

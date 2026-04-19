@@ -1,0 +1,15 @@
+{
+  "video_id": "3763120099e0318fb66aabb24f0eec9b",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-156.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.906,
+    2.719,
+    4.531,
+    6.344
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip features circular headshots of two individuals set against a solid black background. In the first shot, a man wearing a patterned black and white shirt is visible, with the text \"Seyi Adebola\" appearing in white to the far left. As the sequence progresses, the man's image is replaced by a circular portrait of a woman with dark hair and a smile. The text \"Anita Earl Joe\" appears in white at the center of the screen. In the following segments, the woman's portrait appears twice more, once on the left and once on the right. The text \"Anita Earl Joe\" remains visible, shifting positions to appear at the bottom left and then at the bottom center. The scene transitions from showing one person to repeatedly showing the second person while the associated name text moves across the black screen."
+}

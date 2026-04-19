@@ -1,0 +1,15 @@
+{
+  "video_id": "277f5ddf94e70d942642f34421f6864d",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-215.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.296,
+    0.888,
+    1.481,
+    2.073
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dark, digital-themed background features a colorful audio waveform and a stylized window of data on the right side. A blue banner across the bottom identifies \"Basil Chapman\" and the program \"The Tiger Technicians Hour | June 8th, 2022\". White text appears centrally on the screen, evolving over time. Initially, the text reads \"FIND PEAKS,VALLEYS\". In the next sequence, the phrase expands to \"FIND PEAKS,VALLEYS & STOCK\". Finally, the text completes as \"FIND PEAKS,VALLEYS & STOCK PRICES\", which remains static across the final frames. The waveform continues to fluctuate subtly in the background throughout the sequence, while the identifying text on the blue banner remains constant. No people or physical locations are visible in the scene."
+}

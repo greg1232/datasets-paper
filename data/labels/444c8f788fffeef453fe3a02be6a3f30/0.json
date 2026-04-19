@@ -1,0 +1,15 @@
+{
+  "video_id": "444c8f788fffeef453fe3a02be6a3f30",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.585,
+    7.755,
+    12.925,
+    18.095
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark baseball cap and a dark shirt is visible in a small video call window in the upper right corner of a screen recording. The main portion of the display shows a dark-themed digital mind map or concept map featuring several connected nodes. Some nodes contain images, while others contain text. One prominent white rectangular box contains the text \"All Viscous Bio-learning\" and is connected by red and white arrows to other elements, including a red circle labeled \"A.S.A.\" and a node containing the text \"Check page\". The browser tabs at the top of the screen list titles such as \"Trial & Learning by System...\" and \"Future of Variety by System...\". Across the sequence, the scene remains static, with the man in the video window and the digital map on the screen showing no significant changes in position or content."
+}

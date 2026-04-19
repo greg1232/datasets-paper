@@ -1,0 +1,15 @@
+{
+  "video_id": "3d45251006d3d568178a77f3b20e5f66",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.325,
+    3.975,
+    6.625,
+    9.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"About\" is displayed, featuring a white background with a blue banner across the top. Two bullet points are listed in grey text: \"Maintainer of Fluent Bit, a Fluentd Ecosystem project\" and \"Principal Engineer at Treasure Data\". In the bottom right corner, a logo consisting of a blue and teal stylized bird icon above the word \"fluentbit\" is visible. A small inset video in the top right corner shows a person with glasses and a light-colored shirt speaking. Across the frames, the slide content and the person in the inset video remain static, with only subtle movements in the speaker's facial expressions and gestures as they deliver the presentation. The overall setting is a digital screen share of a professional presentation."
+}

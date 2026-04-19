@@ -1,0 +1,15 @@
+{
+  "video_id": "19da1057e7c0d5c6a212f1df3f9469aa",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.492,
+    1.476,
+    2.461,
+    3.445
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A robotic figure with a white head, red horns, and a blue business suit sits at a desk against a yellow background. The robot is multi-armed, simultaneously holding a telephone to its ear, a piece of paper, and a tablet, while working on a laptop. Speech bubbles above its head display the words \"BUY\" and \"SELL\". The \"COINTELEGRAPH\" logo appears in the upper right corner of the scene. To the right of the robot, a circular graphic evolves across the sequence. It begins as a white starburst, transitions into a clock face with a ticking hand, and finally transforms into a clock containing the text \"24/7\". The robot remains in a static pose throughout the sequence, while the graphic to its right animates to emphasize the concept of continuous, around-the-clock trading."
+}

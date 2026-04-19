@@ -1,0 +1,15 @@
+{
+  "video_id": "5da8a635025ed3a878129b3cd1ac9c24",
+  "url": "./data/segments/3Kxl1O310k8-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    27.79,
+    83.37,
+    138.95,
+    194.53
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grid of video conference participants shows several individuals in a virtual meeting. The participants include a man in a dark jacket and glasses, a man in a black shirt, a woman with headphones, a woman in a light-colored top, a woman in a blue-and-white striped shirt, a man in a grey jacket and glasses, a man in a white button-down shirt outdoors in front of a brick building, and a man with a beard in a dark sweater. Throughout the sequence, the participants remain in their respective tiles, maintaining steady gazes toward their cameras. In one instance, a man in a dark shirt is seen holding a clear glass to his mouth. Small, white timecodes appear in the bottom right corners of some frames, such as \"00:01:12.31\" and \"00:01:11.31\". The background settings vary from indoor home offices and rooms with bookshelves to outdoor environments."
+}

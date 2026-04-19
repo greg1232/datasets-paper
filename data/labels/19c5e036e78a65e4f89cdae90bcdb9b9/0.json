@@ -1,0 +1,15 @@
+{
+  "video_id": "19c5e036e78a65e4f89cdae90bcdb9b9",
+  "url": "./data/segments/3E6ctN22V7k-Scene-127.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.305,
+    0.915,
+    1.525,
+    2.135
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with dark skin is seen from the side, interacting with a white tablet device held upright by a stand on a white table. The setting appears to be an indoor space with a brick wall in the background and a bright green screen to the left. Next to the tablet is a white keyboard and several cables. In the sequence, the person's right hand reaches out to touch and swipe across the tablet's screen. As the action progresses, the hand moves from the top of the screen toward the bottom, interacting with the interface. Other similar tablet setups are visible in the blurred background. The lighting is bright and focused on the equipment, and no text or logos are legible on the devices or in the environment."
+}

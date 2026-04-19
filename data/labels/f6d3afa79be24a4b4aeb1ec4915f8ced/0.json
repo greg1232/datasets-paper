@@ -1,0 +1,15 @@
+{
+  "video_id": "f6d3afa79be24a4b4aeb1ec4915f8ced",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.28,
+    15.841,
+    26.401,
+    36.962
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with brown hair, wearing a black blazer over a white shirt, stands before a projected presentation in an indoor room. She gestures with her hands and holds a tablet while speaking to an audience, including a person seen from behind wearing a green beanie and a light-colored jacket. A black chair sits to the right. The projection screen changes content over time. Initially, it shows a partial image of a person in a meditative pose with the text \"data as a practice\". Later, the screen displays a vintage-style illustration of a family watching television, accompanied by the text \"domesticating technology\". As the sequence progresses, the woman continues her presentation, shifting her posture and gaze while maintaining her position in front of the screen."
+}

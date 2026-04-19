@@ -1,0 +1,15 @@
+{
+  "video_id": "f08190214bda172ee4dc51e1613788ca",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-270.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.59,
+    4.77,
+    7.95,
+    11.13
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a dark shirt and a baseball cap, is visible in small webcam windows in the upper right corners of the screen while presenting a digital diagram. The main display shows a complex conceptual map titled \"Rural Community Food System\" within a web browser. The map features a dark background with various white and colored circles and connecting arrows, including labels such as \"Public Awareness,\" \"Local Availability,\" and \"Sustainable Food System.\" On the left side of the interface, a menu lists items like \"Community Knowledge and System Awareness through Public Awareness,\" \"System Value Mental Models,\" and \"Community Based Social Relationships.\" As the sequence progresses, the presenter navigates the software, moving from a zoomed-out view of the overall \"Version X\" map to focused views that highlight specific nodes and interconnected relationships, shifting the visible text and layout on the screen."
+}

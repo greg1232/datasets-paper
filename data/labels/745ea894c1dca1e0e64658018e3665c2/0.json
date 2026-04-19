@@ -1,0 +1,15 @@
+{
+  "video_id": "745ea894c1dca1e0e64658018e3665c2",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-381.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.287,
+    0.86,
+    1.434,
+    2.007
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt, a camouflage baseball cap, and black over-ear headphones speaks into a professional microphone in a room filled with clothing and framed photos. His shirt features the white text \"ION NEVER DO SHIT AT WORK\". The background includes a white mannequin wearing a white garment and racks of various clothes. The walls are decorated with numerous framed photographs. Two logos appear as overlays on the screen: a circular logo featuring \"T\" on the left and a red text logo stating \"BODILY FELONY TOT\" on the right. Across the sequence, the man is talking and gesturing with his right hand, which is partially visible in the bottom-left frame. His facial expressions shift from an open-mouthed speaking posture to a slight smile with closed eyes, while the rest of the setting remains static."
+}

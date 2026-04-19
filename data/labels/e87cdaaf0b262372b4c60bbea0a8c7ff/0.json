@@ -1,0 +1,15 @@
+{
+  "video_id": "e87cdaaf0b262372b4c60bbea0a8c7ff",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-140.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.458,
+    37.375,
+    62.291,
+    87.208
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands at a podium in an indoor setting with vertical wood-paneled walls, addressing a seated audience. He wears black-rimmed glasses, a white long-sleeved shirt, and a black vest with red and white decorative embroidery. He speaks into a microphone mounted on a stand. In the foreground, several people are seated with their backs to the camera; they have various hair colors, including blonde, brown, and grey. A white logo with the black text \"ORCA\" is visible on the right side of the scene. Across the sequence of frames, the man remains in a similar position, gesturing slightly with his hands as he speaks, while the seated audience members remain still. The lighting and composition are consistent throughout the clip, focusing on the speaker and the backs of the attendees."
+}

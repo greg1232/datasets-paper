@@ -1,0 +1,15 @@
+{
+  "video_id": "4f3a87fdf751fc4652b9075595513ec2",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.938,
+    8.812,
+    14.688,
+    20.562
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a technical presentation regarding \"Logging in Kubernetes Workflow,\" featuring a slide that explains how a \"Raw message encapsulated in JSON\" is structured. The screen displays a file path, \"/var/log/containers/apache-logs_default_apache-792bba.log\", with a red arrow pointing down to a JSON code block. This block contains fields for \"log\", \"stream\", and \"time\", with the log value showing a specific request: \"\\\"78.170.117.242 -- [19/Nov/2020:22:06:45 +0000] \\\\\\\"GET /go HTTP/1.0\\\\\\\" 200 2216\\n\\\"\". In the upper right corner of each frame, a small inset video shows a woman with dark hair wearing a pink top. Across the sequence, the visual content of the slide and the woman's position remain static, indicating a steady presentation of the information without any visible movement or transitions."
+}

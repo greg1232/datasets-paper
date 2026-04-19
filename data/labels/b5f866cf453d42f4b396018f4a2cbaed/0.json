@@ -1,0 +1,15 @@
+{
+  "video_id": "b5f866cf453d42f4b396018f4a2cbaed",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-277.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.238,
+    0.396,
+    0.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with grey hair and glasses stands before a microphone in an indoor setting with a background of horizontal wooden slats. He is wearing a grey button-down shirt featuring blue and white patterns, accented with a yellow and turquoise horizontal band across the chest. Around his neck, he wears a necklace with dark beads and a white, tusk-like pendant. A black microphone on a stand is positioned in front of him. The text \"ORCA\" appears in a white box on the right side of the frame. Throughout the sequence, the man remains in the same position, smiling slightly and looking downward toward the microphone. The scene is static with minimal movement, showing only slight shifts in the man's facial expression and posture as he prepares to speak or listens to something off-camera."
+}

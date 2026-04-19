@@ -1,0 +1,15 @@
+{
+  "video_id": "785cf12c5f73e37fedf32cfe93d704c4",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.583,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a spacious, well-lit indoor hall with a high ceiling and ornate chandeliers, several men are positioned on a large blue carpet. In the center, a man dressed in a blue martial arts uniform walks forward, while other men in white or black traditional clothing stand or walk behind him. The setting features light-colored walls and architectural pillars. Across the sequence, the central figure in blue continues to walk toward the foreground, shifting his position slightly. On-screen text appears at the bottom of the early frames, reading \"Xing Yi Wushu,\" though the text becomes partially obscured or distorted in subsequent moments. The men in the background remain mostly in place or move slowly, maintaining a formal atmosphere. The lighting remains consistent throughout the scene, highlighting the contrast between the blue carpet and the light-toned room."
+}

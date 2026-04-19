@@ -1,0 +1,15 @@
+{
+  "video_id": "6d348f59ef8394dd491795c2b40bc3f6",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-126.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.084,
+    3.253,
+    5.422,
+    7.591
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a short beard and shaved sides of his head is recording in a studio against a black acoustic foam wall. He wears black over-ear headphones and a white t-shirt featuring a small logo with the text \"Stay Humble\" and \"MIND POWR\". He is positioned in front of a silver professional microphone held by a black shock mount. Across the sequence, the man's expression shifts from a subtle smile with closed eyes to a wider, open-mouthed laugh, before settling into a smirk and finally looking off to his left with a playful grin. His head tilts slightly as he reacts, while his position relative to the microphone and the background remains constant."
+}

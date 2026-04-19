@@ -1,0 +1,15 @@
+{
+  "video_id": "c70282d491d8ced61304cbc32cad3db7",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-908.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.412,
+    1.236,
+    2.059,
+    2.883
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a dark, textured background with a subtle metallic sheen and diagonal structural lines. Centered on the screen is the stylized metallic text \"BOSS TALK 101,\" which glows with a red aura. As the clip progresses, the word \"PODCAST\" appears in smaller red capital letters directly beneath the main title. This secondary text fades into view and then persists as a red light flare pulses horizontally across the center of the screen, illuminating the words \"BOSS TALK 101\" and \"PODCAST\" with a bright, shimmering effect. The background remains static throughout the sequence, while the lighting effects and the appearance of the subtitle create a dynamic motion graphic. No people, clothing, or physical locations are visible, as the entire sequence consists of digital title cards."
+}

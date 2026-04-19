@@ -1,0 +1,15 @@
+{
+  "video_id": "f5b0014dab64d8e387f9d557578135eb",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-172.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.381,
+    1.144,
+    1.906,
+    2.669
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds up a collectible sports card, showcasing an athlete and an autograph, against a backdrop featuring a tablecloth with green palm trees. In the background, a man wearing a dark blue t-shirt with a yellow circular logo sits behind a desk with a computer monitor. The monitor displays a live stream or recording of the same scene, with the \"JASPYS CASEBREAKS.COM\" logo and \"JASPYS Sports Card Breaking\" text visible on the screen. As the sequence progresses, the hand moves the card closer and then tilts it, causing light to reflect off the card's surface. The card is momentarily placed onto a white and yellow stand. Throughout the clip, the man in the background remains seated, observing the card being handled. The \"JASPYS CASEBREAKS.COM\" logo is also present as an overlay in the upper portion of the scene."
+}

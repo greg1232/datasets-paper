@@ -1,0 +1,15 @@
+{
+  "video_id": "af70d60f123219fdfd54385a3d8893a5",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-384.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.193,
+    0.579,
+    0.965,
+    1.35
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with her hair in a high bun and wearing headphones and a dark green t-shirt sits in a studio setting, speaking into a professional black microphone. She is positioned in front of a dark backdrop featuring the logo \"BESS TALK 101\" and the text \"It's A League Hustle\" and \"CAST\", as well as the phrase \"About It!\". To her left is a black equipment stand and a small container. The background also includes a framed picture of a person's hands. Across the frames, the woman maintains a consistent posture and facial expression, appearing to be in the middle of a conversation. Small logos, including \"BESS TALK 101\" and \"GER\", are visible in the bottom corners of the scene. The visual composition remains stable with minimal movement between the frames, capturing a candid moment of a podcast or broadcast recording."
+}

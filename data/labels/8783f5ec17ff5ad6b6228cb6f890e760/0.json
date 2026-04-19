@@ -1,0 +1,15 @@
+{
+  "video_id": "8783f5ec17ff5ad6b6228cb6f890e760",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.171,
+    0.513,
+    0.854,
+    1.196
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a terminal window with a dark background and multicolored text. The display shows a configuration file for \"fluent-bit\" alongside system logs. Legible text includes settings such as \"HTTP_Listen 0.0.0.0\", \"HTTP_Port 2020\", and \"input-kubernetes.conf\". The log output contains timestamps and level indicators, such as \"level=info t=2020-10-28T06:31:27.25428220Z\", and references to \"kubernetes\" and \"log/faillog\". As the video progresses, the view shifts horizontally across the text, scrolling from the left side of the configuration and log window to the right. The layout remains constant throughout the clip, maintaining the same font and color scheme, while the specific lines of code and log entries visible on the screen change as the viewport moves across the terminal window."
+}

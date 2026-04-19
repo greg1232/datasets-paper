@@ -1,0 +1,15 @@
+{
+  "video_id": "552ee1744e610c4b136ae0d92ff7ad02",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-266.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a white shirt under a dark vest with decorative red and white details, performs on a stage. He stands behind a microphone and plays an acoustic guitar while singing. In front of him, the backs of several audience members are visible, including women with long brown hair and a woman with short, curly blonde hair. The background consists of a wall with vertical brown panels. A white logo with the text \"ORCA\" appears on the right side of the scene. Across the sequence of frames, the man continues his performance, subtly shifting his posture and facial expression as he sings and plays his instrument. The audience remains relatively still, focused on the performer."
+}

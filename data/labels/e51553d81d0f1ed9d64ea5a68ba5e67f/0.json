@@ -1,0 +1,15 @@
+{
+  "video_id": "e51553d81d0f1ed9d64ea5a68ba5e67f",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-214.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.54,
+    1.619,
+    2.698,
+    3.777
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a white cardboard box sitting on a colorful surface featuring palm tree designs. The individual wears a dark-colored shirt, and their hands move to lift the lid of the box, gradually revealing a yellow object inside. In the background, another man is visible in a small inset window, wearing a navy blue shirt and headphones while sitting in front of a computer setup. The scene is cluttered with various items, including stacks of cards and equipment. The logo \"JASPYS\" and the website \"CASEBREAKS.COM\" appear prominently in the upper center of the frames, while the text \"JASPYS\" is repeated in a smaller font within the inset video window. As the sequence progresses, the hands lift the white lid further, exposing more of the yellow interior of the package."
+}

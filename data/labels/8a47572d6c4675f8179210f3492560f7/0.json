@@ -1,0 +1,15 @@
+{
+  "video_id": "8a47572d6c4675f8179210f3492560f7",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.6,
+    1.0,
+    1.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands against a plain, light-grey background, appearing to be at a podium or speaking platform. He is dressed in a dark navy blazer over a dark button-down shirt. An identification badge is clipped to his jacket pocket. A thin microphone stand extends diagonally from the right side of the frame toward him. At the top of the scene, a logo reads \"mediasite by cornerstone ondemand,\" which is mirrored in a second identical logo at the bottom of the frame. Across the sequence, the man remains in a stationary position, facing slightly to his right. His facial expression is serious and focused, with minimal movement in his posture or gaze. The scene remains static, with no changes in lighting, background, or the positions of the objects and people present."
+}

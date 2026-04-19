@@ -1,0 +1,15 @@
+{
+  "video_id": "498b1a9cecdd9ecc8ede31add56f16da",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.56,
+    7.68,
+    12.8,
+    17.92
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video call interface displays a presentation screen alongside a small video feed of a man. The presentation screen is black with centered green text that reads \"Trial & Learning\" and \"An Insightful Journey\" underneath it. The man in the video feed is wearing a dark blue shirt and a grey baseball cap. He is seated in an indoor environment with a white wall and a window visible behind him. The top of the screen shows a browser window with multiple open tabs, including titles like \"Trial & Learning by Symmetry,\" \"Insights - Introduction | Kuma,\" and \"Road Community Food Spot.\" Various browser extensions and icons are visible in the toolbar. Across the sequence of frames, the visual elements remain static, with no perceptible change in the on-screen text, the man's position, or the browser layout."
+}

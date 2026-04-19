@@ -1,0 +1,15 @@
+{
+  "video_id": "78cf8ef2748b753a875a6de8a2a8a81b",
+  "url": "./data/segments/3a0FD1177FA-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.214,
+    0.641,
+    1.069,
+    1.496
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is crafting birthday cards on a light-colored gridded cutting mat. On the workspace, there are various pieces of floral and brick-patterned scrapbook paper, a small white card with the text \"Wishing your BIRTHDAY is filled with ALL THE best things!\", and crafting tools including a tape runner and a small red stamp. In the first two frames, the person's left hand, wearing a gold ring, holds down several rectangles of floral and brick-patterned paper arranged side-by-side. In the bottom two frames, the hand shifts position to press down on a different set of paper rectangles. Overlaid white text appears in the final frame, reading \"BLOOM WHERE YOU'RE PLANTED CO\" and \"12\" X 12\" DESIGNER SERIES PAPER\". The scene remains static except for the movement of the hand and the appearance of the on-screen text."
+}

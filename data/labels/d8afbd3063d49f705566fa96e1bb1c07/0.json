@@ -1,0 +1,15 @@
+{
+  "video_id": "d8afbd3063d49f705566fa96e1bb1c07",
+  "url": "./data/segments/3Z229_lKLpk-Scene-184.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.345,
+    1.035,
+    1.725,
+    2.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large assembly of people is gathered in a tiered lecture hall or conference center, where most attendees are dressed in white clothing. The individuals are seated in rows behind curved desks equipped with microphones and small electronic devices. In the foreground, a few people wear colorful attire, including a person in a blue and purple sari and another in a pink garment. Some attendees are seen looking toward the front of the room, while others lean back or interact with those beside them. Two men in dark suits stand on a balcony level overlooking the main seating area. Throughout the sequence, the camera remains stationary, capturing subtle movements as people shift in their seats and adjust their posture, while the overall composition of the crowd and the architectural layout of the hall remain constant."
+}

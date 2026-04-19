@@ -1,0 +1,15 @@
+{
+  "video_id": "dfa5e0a1bf4e692c9987f0158e0d9a14",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.371,
+    1.113,
+    1.854,
+    2.596
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large white aircraft with red and blue stripes and the word \"\u0420\u041e\u0421\u0421\u0418\u042f\" printed on the fuselage is captured in a sequence of shots. In the first view, the camera is positioned close to the plane's tail and rear engine. As the sequence progresses, the view shifts to a wide shot showing the airplane taxiing or taking off on a grey paved runway. The background consists of a flat, wintry landscape with brown vegetation and a distant horizon under a clear blue sky. A red circular logo containing the number \"13\" is visible in the upper right corner of each frame. Between the wide shots, the aircraft moves forward across the frame from left to right, while the camera angle slightly adjusts to follow its trajectory. No people are visible in the scene."
+}

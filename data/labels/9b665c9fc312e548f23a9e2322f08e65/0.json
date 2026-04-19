@@ -1,0 +1,15 @@
+{
+  "video_id": "9b665c9fc312e548f23a9e2322f08e65",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-076.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.4,
+    7.2,
+    12.0,
+    16.8
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An educational presentation slide for a course on \"CRYOGENIC ENGINEERING\" is shown, focusing on \"Tutorial \u2013 4\" and the calculation of \"Work/unit mass of gas compressed.\" The slide contains a data table with columns labeled \"1,\" \"2,\" \"f,\" and \"g,\" detailing pressure (p in bar), temperature (T in K), enthalpy (h in J/g), and entropy (s in J/gK). Below the table, the formula $\\frac{W'}{m} = T_1(s_1 - s_2) - (h_1 - h_2)$ is applied, showing the calculation $300(4.4-2.75)-(462-430) = 463 \\text{ J/g}$. A diagram illustrating a thermodynamic cycle with labels such as $\\frac{W'_{rev}}{m}$ and $\\frac{W'_{nd}}{m}$ is visible on the left. The bottom of the slide credits \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" and features an \"NPTEL\" logo. As the sequence progresses, the final calculation is completed at the bottom right, adding $463 + 23.2 = 486.2 \\text{ J/g}$."
+}

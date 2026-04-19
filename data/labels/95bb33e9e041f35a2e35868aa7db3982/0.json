@@ -1,0 +1,15 @@
+{
+  "video_id": "95bb33e9e041f35a2e35868aa7db3982",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.276,
+    3.829,
+    6.381,
+    8.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand, wearing a dark grey long-sleeved garment, interacts with a printed product catalog titled \"FEELS LIKE FROST SUITE.\" The catalog features winter-themed greeting cards and stationery with images of snowy landscapes and frosted foliage. In the beginning, the person's index finger points toward a variety of small, rectangular card designs. As the sequence progresses, the hand moves to point toward a different section of the page featuring a brown card with a \"Greetings\" label. The page includes various text elements, such as \"WISHING YOU A SEASON FULL OF FAMILY, FRIENDS,\" \"You warm my heart,\" and \"SENDING YOU A LITTLE Yuletide Cheer.\" By the end, the person is holding the edges of the catalog with both hands, centering the view on the winter-themed layouts and decorative scripts."
+}

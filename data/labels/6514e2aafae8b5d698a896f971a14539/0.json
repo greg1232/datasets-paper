@@ -1,0 +1,15 @@
+{
+  "video_id": "6514e2aafae8b5d698a896f971a14539",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-175.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.613,
+    1.838,
+    3.062,
+    4.288
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair wearing a dark shirt is seen in a small video inset overlaying a digital sports game interface. He is positioned in front of a decorated Christmas tree and a white wall. The main screen displays a player profile for \"RANDALL CUNNINGHAM\" with an \"OVR\" rating of \"90\" and a position of \"#12 P\". The interface includes various attribute categories such as \"KEY\" and \"GENERAL,\" showing a series of numerical ratings like \"91,\" \"88,\" \"92,\" \"83,\" \"82,\" \"92,\" \"82,\" and \"91\" under the key section. Below these, general stats include \"6' 4\"\", \"212\", \"72\", \"92\", \"91\", \"88\", \"82\", and \"70\". A grayscale image of the athlete in a football uniform is visible on the right side of the profile. Across the frames, the man in the inset speaks, his facial expressions shifting slightly while the game screen remains static."
+}

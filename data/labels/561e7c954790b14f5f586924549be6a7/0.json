@@ -1,0 +1,15 @@
+{
+  "video_id": "561e7c954790b14f5f586924549be6a7",
+  "url": "./data/segments/3E6ctN22V7k-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.335,
+    1.005,
+    1.675,
+    2.345
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an outdoor setting with red-clay walls and ground, three children sit together against a wall beneath a clothesline draped with various pieces of laundry, including blue and patterned fabrics. One child wears a red and white striped shirt, another wears a white top with a green skirt, and the third wears a light-colored garment and a head covering. As the sequence progresses, a young child in a light-colored outfit enters the frame from the right, moving toward the group. On-screen text appears in the lower center of the scene; in the first three frames, it reads \"I am separated from everything.\" In the final frame, the text changes to \"We have no access to information or training.\" The background remains constant, showing a simple rural environment with a few scattered objects on the ground near the children."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0e6b163b28d0bd5a600166d19b00a248",
+  "url": "./data/segments/3a0FD1177FA-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.078,
+    0.235,
+    0.391,
+    0.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The provided image is a completely solid black rectangle. There are no visible frames, people, settings, objects, or text present. As there is no visual information available, no actions or changes can be described."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "900243250c823cc35979014a8fd75f24",
+  "url": "./data/segments/3a0FD1177FA-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with a white smartwatch on their left wrist is crafting on a light-colored cutting mat. The setting is a tabletop filled with scrapbooking supplies, including a tape runner, a red ink pad, a black ink pad, and various patterned papers with floral and brick motifs. A small tag in the upper left corner contains the text \"is filled with ALL THE best things\". The person's hands are actively manipulating several pieces of cardstock; they start by positioning a brick-patterned piece of paper over a floral background. As the sequence progresses, the person smooths down the paper and then lifts the brick-patterned layer, revealing the floral pattern underneath. A watermark reading \"Stamping Life\" is visible in the bottom left area of the workspace. The scene remains focused on the hands and the crafting materials throughout the process."
+}

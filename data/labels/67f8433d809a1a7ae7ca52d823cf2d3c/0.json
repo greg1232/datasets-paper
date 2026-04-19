@@ -1,0 +1,15 @@
+{
+  "video_id": "67f8433d809a1a7ae7ca52d823cf2d3c",
+  "url": "./data/segments/3JYDT8lap5U-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.345,
+    0.575,
+    0.805
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presenter stands beside a large projection screen at a conference. The man is dressed in a dark blazer over a light-colored shirt. In the initial frames, a slide is partially visible, featuring a photograph of a historic building and the text \"europython\", \"INDUSTRIAL MACHINE LEARNING\", \"HORIZONTALLY SCALABLE DATA PIPELINES WITH AIRFLOW\", \"Edinburgh 23-29 July 2018\", and \"Alejandro Saucedo\". Various corporate logos, including those for Intel Software, Microsoft, and Python, are displayed along the bottom. As the sequence progresses, the slide changes to a darker background, maintaining the title \"INDUSTRIAL MACHINE LEARNING\" and \"HORIZONTALLY SCALABLE DATA PIPELINES WITH AIRFLOW\", while adding the presenter's social media handles, \"@AxSaucedo\" and \"in/axsaucedo\". The man remains in a similar position, gesturing while speaking to an unseen audience. The bottom of the screen consistently displays \"europython\" and \"Edinburgh 23-29 July 2018\"."
+}

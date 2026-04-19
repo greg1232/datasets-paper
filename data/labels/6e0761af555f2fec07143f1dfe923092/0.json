@@ -1,0 +1,15 @@
+{
+  "video_id": "6e0761af555f2fec07143f1dfe923092",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-147.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.259,
+    0.776,
+    1.293,
+    1.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a bright clinical training room, two women are seated in chairs facing each other. One woman, wearing a black long-sleeved shirt and blue pants, sits on the left, while the other, in a light-colored top and dark pants, sits on the right. Both have their hands folded in their laps. The room contains medical equipment, including white tables and a blue rolling cart. Overlaying the scene is white text listing the \"Course Instructor: Cheralyn Hendrix, MD\" and \"Administrative support: Wendy Hackshaw,\" along with a note of \"Special thanks to University of Maryland School of Medicine Surgical Bootcamp Class of 2023 who agreed to have their learning filmed.\" A list titled \"MD Candidates:\" includes names such as Rachel Belcher, Rachel Cermak, and Katherine Coburn. A QR code is also visible on the right. Throughout the sequence, the figures remain stationary, and the on-screen text and QR code remain constant."
+}

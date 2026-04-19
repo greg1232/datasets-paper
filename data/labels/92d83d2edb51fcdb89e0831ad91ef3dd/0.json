@@ -1,0 +1,15 @@
+{
+  "video_id": "92d83d2edb51fcdb89e0831ad91ef3dd",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-082.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.273,
+    0.819,
+    1.365,
+    1.91
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair wearing a navy blue t-shirt and a gaming headset sits in a room with a Christmas tree in the background. He appears in a small inset window in the lower left of the screen. In the main area of the video, a large energy drink can featuring a prominent \"U1\" logo is positioned against a dark background with green and blue digital glitch effects. As the video progresses, the man in the inset window reacts with excitement, raising his hands to his head. The digital effects around the can intensify, and by the final frames, the can is engulfed in a bright yellow-green explosion of light and smoke. A screen behind the man in the inset window displays the number \"20\" alongside other indistinct graphics."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "dc2ea661091002c32da210a2e141a1bc",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.43,
+    10.29,
+    17.15,
+    24.01
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with grey hair tied in a bun is speaking while seated at a table against a plain white background. She is wearing a dark blazer over a reddish-pink top. A thin microphone stands in front of her, and a clear plastic water bottle sits on the table to her left. The logo \"mediasite\" appears in the upper left corner of the scene. Initially, the woman is looking forward with her hands clasped in front of her. She then begins gesturing with both hands, moving them upward and outward to emphasize her points. By the end of the sequence, she turns her head slightly to her right and smiles, while her hands return to a rested position on the table."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e553e65f96f5cd6ca538eb483fdf550b",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-373.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.217,
+    0.65,
+    1.083,
+    1.517
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game recording of a football game is displayed on a screen, featuring a match between the \"BUF\" and \"FAL\" teams. The gameplay is paused on a play-selection menu titled \"SELECT A PLAY,\" where the user has highlighted \"COVER 4 QUARTERS\" as a defensive strategy. The screen displays various game statistics and options such as \"COACH SUGGESTIONS,\" \"FORMATION,\" and \"CONCEPT.\" A small inset window shows a young man with blond hair wearing a navy blue shirt; he is reacting to the game. In the first scene, he has his hands up to his head with a surprised expression. As the video progresses, he lowers his hands and begins to speak, his mouth opening as he expresses his thoughts on the gameplay. The overall setting is a bright, green football stadium filled with spectators under a clear sky."
+}

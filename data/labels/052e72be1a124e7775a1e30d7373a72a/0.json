@@ -1,0 +1,15 @@
+{
+  "video_id": "052e72be1a124e7775a1e30d7373a72a",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.088,
+    0.263,
+    0.438,
+    0.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view of a vehicle's digital instrument cluster shows a tachometer and a central information display. The tachometer on the left features a red circular border and numbered markings for RPM, including \"3500\", \"4\", \"4500\", \"5\", and \"5500\". The central screen displays the word \"BRAKE\" next to a red warning icon, followed by the instruction \"Press Brake and Push Button to Start\" and the mileage \"20434 mi\". A blurry red object is visible on the far left of the frame. Across the sequence of images, the display remains static, with the text and gauges staying in the same position. There are no people visible in the scene, and the lighting remains constant, indicating the vehicle is in a stationary state awaiting startup."
+}

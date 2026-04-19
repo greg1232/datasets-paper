@@ -1,0 +1,15 @@
+{
+  "video_id": "14322c1ba104d0fad49426877f166ed9",
+  "url": "./data/segments/3L_uHTClWfk-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.537,
+    0.896,
+    1.254
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a screen recording of a webpage from the IRS website. The page features the official \"IRS\" logo in the top left corner, with navigation links for \"SEARCH | HELP | MENU\" in the top right. The content focuses on tax guidelines, specifically mentioning \"inherited IRA or retirement account and reporting taxable distributions as part of gross income\" and \"Publication 559, Survivors, Executors and Administrators.\" A prominent section header reads \"2020 coronavirus-related distribution,\" followed by text explaining that since RMDs were waived in 2020, account owners had options to return funds or spread taxes over three years. As the video progresses, the screen scrolls downward. In the final segment, additional text becomes visible at the bottom of the page, stating, \"A 2020 withdrawal from an inherited IRA could not be repaid to the inherited IRA but may be spread over three years for income inclusion.\""
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "13ef6424d89b50a8852f82f79c570350",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.492,
+    1.475,
+    2.458,
+    3.442
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair wearing a black top is visible in a small inset window on the left side of the screen. The main focus of the video is a large silver bowl filled with popcorn, some of which is colored green. The background behind the bowl is a light-colored wall and a piece of furniture. In the top-left corner of each scene, the logo and text \"UCAR CENTER FOR SCIENCE EDUCATION\" are displayed against a blue sky background with white clouds. Across the sequence of frames, the scene remains static; the woman in the inset window maintains a neutral expression and posture, and the popcorn in the bowl does not move. There are no interactions or changes in action between the frames, suggesting a still or very slow-moving shot."
+}

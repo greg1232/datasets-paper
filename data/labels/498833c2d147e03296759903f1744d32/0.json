@@ -1,0 +1,15 @@
+{
+  "video_id": "498833c2d147e03296759903f1744d32",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-362.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.237,
+    0.396,
+    0.554
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played in a large stadium filled with spectators. Players in white and dark uniforms are lined up on a green field marked with yard lines and a purple boundary. A man with blond hair is visible in a small inset window in the lower-left corner, wearing a dark shirt. On-screen text includes \"3rd & 8\", \"14\", \"EXO 7\", \"3:29\", \"28\", and \":11\". A banner reads \"MOMENTUM LEGEND\" next to a logo, and another graphic displays \"X FACTOR\". As the sequence progresses, the players on the field engage in a play, moving toward the right. In the latter half of the sequence, the \"MOMENTUM LEGEND\" and \"X FACTOR\" graphics disappear from the screen, leaving the field and the inset window of the man visible."
+}

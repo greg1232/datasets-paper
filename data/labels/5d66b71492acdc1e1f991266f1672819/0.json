@@ -1,0 +1,15 @@
+{
+  "video_id": "5d66b71492acdc1e1f991266f1672819",
+  "url": "./data/segments/3L_uHTClWfk-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.354,
+    1.062,
+    1.771,
+    2.479
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two people stand against a backdrop consisting of vertical stripes in colors of red, orange, yellow, green, blue, and purple. They are positioned so that only their arms, hands, and lower torsos are visible. One person wears a tan-colored long-sleeved shirt and light blue jeans, while the other wears a yellow long-sleeved shirt and dark pants. On the inner forearm of the person in the yellow shirt, a tattoo reads \"Music is The\". The two individuals are holding hands, with their fingers interlaced in a tight grip. Across the sequence of frames, the individuals maintain their hold on each other, with very slight movements in the positioning of their fingers and wrists, while the background and their clothing remain static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e1cee668317c0223254f307361f40266",
+  "url": "./data/segments/3Z229_lKLpk-Scene-185.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.44,
+    7.32,
+    12.2,
+    17.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard, wearing a light-colored long-sleeved shirt and a white sleeveless vest, stands behind a brown wooden podium. He is positioned in front of a green textured wall featuring a repeating geometric pattern of stepped blocks. Two microphones are mounted on the podium, extending toward him. To his right is a gold-colored cylindrical pillar adorned with pink flowers. Throughout the sequence, the man is speaking and using hand gestures for emphasis. Initially, his arms are slightly lowered as he speaks. He then raises his right hand, bringing his fingers close to his mouth. Following this, he returns to a neutral stance with his arms at his sides. Finally, he raises his left hand high, gesturing with open fingers while continuing to speak. The background and the equipment remain stationary as only the man's facial expressions and hand movements change."
+}

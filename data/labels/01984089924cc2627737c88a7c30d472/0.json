@@ -1,0 +1,15 @@
+{
+  "video_id": "01984089924cc2627737c88a7c30d472",
+  "url": "./data/segments/3PUcfHvbCqA-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.302,
+    0.907,
+    1.512,
+    2.117
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on the right rear tire of a vehicle moving along a paved road. The tire occupies the left side of the frame, rolling over a grey asphalt surface that is bordered by a dusty shoulder and dry, tan-colored grass and shrubs on the right. As the vehicle progresses, the road curves slightly, and the motion creates a blur of the roadside terrain. White subtitles appear across the bottom of the image in the later sequence, reading, \"so the doctors quickly tried to treat the other four\". No people or other objects are visible in the scene, only the rotating tire and the passing landscape of a rural road under a bright, overcast sky."
+}

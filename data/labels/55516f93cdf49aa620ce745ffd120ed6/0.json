@@ -1,0 +1,15 @@
+{
+  "video_id": "55516f93cdf49aa620ce745ffd120ed6",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a screen recording of a web browser navigating the website random.org. The interface features a top navigation bar with links such as \"Games,\" \"Numbers,\" and \"Lists & More.\" The \"RANDOM.ORG\" logo is prominent at the top left of the main content area. Initially, a \"Dice Roller\" tool is shown, stating \"You rolled 2 dice:\" above two dice icons showing 4 and 3. The scene then transitions to a \"List Randomizer\" result page. This page lists six items in random order: \"1. NORTHWEST,\" \"2. SEAN FRANK,\" \"3. ATLANTIC,\" \"4. SEAN FRANK 1,\" \"5. SOUTHWEST,\" and \"6. Sile Berter.\" The page includes a timestamp of \"2022-07-05 22:12:15 UTC\" and a warning: \"Don't use this service for giveaways!\" Banners for \"JASPYS CASEBREAKS.COM\" and a \"Subscribe\" button appear along the edges of the screen throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f1d683c73bc88e4e0b20dbc4edbd194c",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.329,
+    0.988,
+    1.647,
+    2.306
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with long dark hair and glasses is performing in front of a light-colored slatted wall. He is dressed in a white button-down shirt paired with a black embroidered vest and a decorative red and white sash draped over his shoulder. He stands behind a microphone on a stand and holds an acoustic guitar. To the right of the man, the text \"ORCA\" is visible on the screen. Across the sequence, the man remains in the same position and clothing, though his facial expressions shift slightly as he sings or speaks into the microphone. His mouth opens and closes in a rhythmic manner, and his eyes blink, indicating active performance. The background, lighting, and equipment remain static throughout the frames, with only the man's subtle facial movements changing as the clip progresses."
+}

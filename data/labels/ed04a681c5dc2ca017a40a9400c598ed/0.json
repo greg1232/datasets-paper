@@ -1,0 +1,15 @@
+{
+  "video_id": "ed04a681c5dc2ca017a40a9400c598ed",
+  "url": "./data/segments/3l84m5pRmyk-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.73,
+    1.022
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A street scene unfolds in front of a bright orange multi-story building and several palm trees. In the foreground, a black utility pole stands next to a banner featuring a blue and white design. To the left, a brown signpost displays text, including \"CULTURE\" and \"COMMUNITY,\" though not all words are fully legible. Several vehicles are visible on the road, including a silver sedan in the immediate foreground, a white SUV, and other cars parked or driving in the distance. In the background, modern grey office buildings rise under a cloudy sky. As the sequence progresses, the silver sedan in the foreground moves slowly to the right, and a white SUV in the distance drives toward the left, crossing the frame. The camera remains stationary, capturing the steady flow of traffic against the static urban backdrop."
+}

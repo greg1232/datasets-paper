@@ -1,0 +1,15 @@
+{
+  "video_id": "43398b6aac7e124ab9501b27074f4f31",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.152,
+    0.456,
+    0.76,
+    1.065
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man wearing a pink tank top stands in an indoor basketball gymnasium with blue wall padding and wooden flooring. On-screen text consistently overlays the scene, reading \"#292\", \"10ft Dunks/Height Checks\", and \"Dunk Journey 2.0\". In the beginning, the man looks directly toward the camera with a neutral expression. As the sequence progresses, he maintains his position, though his facial expression shifts slightly. In the final moment, he begins to move, holding a basketball in his right hand and starting a motion with his arm as he looks slightly off-camera. The background remains a static shot of the gymnasium, showing the blue walls and the edge of the court."
+}

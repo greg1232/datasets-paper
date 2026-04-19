@@ -1,0 +1,15 @@
+{
+  "video_id": "4b521dfa49e8d8baa8688ce6aee99ec9",
+  "url": "./data/segments/3o6LBa7ZAp0-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.338,
+    1.014,
+    1.689,
+    2.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An animated sequence begins with a dark, shadowy silhouette of a globe against a deep blue background. As the scene progresses, the globe becomes more illuminated and centered, and the word \"POLICY\" appears in a white, serif typeface across the middle of the sphere. The visual then shifts to incorporate a stylized map of the world in the background. Finally, the animation culminates in a title screen where the text expands to reveal the full name \"WORLD POLICY CONFERENCE\". Below this, smaller white text reads \"16TH EDITION\", \"GLOBAL GOVERNANCE\", and \"November 2-5, 2023 \u2022 Abu Dhabi\". The color palette remains a consistent range of deep blues and whites throughout the progression of the sequence."
+}

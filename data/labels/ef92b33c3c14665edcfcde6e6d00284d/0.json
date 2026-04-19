@@ -1,0 +1,15 @@
+{
+  "video_id": "ef92b33c3c14665edcfcde6e6d00284d",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.095,
+    0.285,
+    0.475,
+    0.665
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a digital presentation displayed in a web browser. The background is a dark-themed mind map or conceptual diagram featuring numerous interconnected circles and lines. A small video inset in the upper-left area shows a person with short dark hair and glasses, wearing a light-colored shirt. Above the main content, several browser tabs are visible, including \"Trail Learning by Systemi...\", \"Moments by Systemi...\", \"Future of Society by System...\", \"Insights introduction to Lumi...\", and \"Rural Community Food Syste...\". To the right, a separate vertical video feed shows the same man from a different angle. On the left side, a menu contains the text \"Search\" and \"elearning/trail learning\". Throughout the clip, the person in the video insets remains relatively still, while the browser window and the mind map remain static, showing no significant changes in visual content or layout across the sequence."
+}

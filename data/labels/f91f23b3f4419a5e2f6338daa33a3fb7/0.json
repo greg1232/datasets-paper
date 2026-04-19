@@ -1,0 +1,15 @@
+{
+  "video_id": "f91f23b3f4419a5e2f6338daa33a3fb7",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-305.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.802,
+    17.405,
+    29.008,
+    40.611
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is situated in a studio with a wall of dark grey acoustic foam panels. He is wearing a white t-shirt and over-ear black headphones. A professional microphone is positioned in front of him, attached to a boom arm with the text \"Rode PSA1\" visible on the arm. A tattoo is partially visible on his right upper arm. As the sequence progresses, the man is speaking, and his mouth opens and closes slightly. He maintains a focused expression, looking slightly off-camera to his right. The background and his positioning remain static throughout the sequence, with only subtle changes in his facial movements as he speaks into the microphone."
+}

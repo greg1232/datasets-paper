@@ -1,0 +1,15 @@
+{
+  "video_id": "bce5a51482196b7739b90ce114411993",
+  "url": "./data/segments/3IiyIXUgSc4-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.337,
+    7.012,
+    11.688,
+    16.363
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seen in the bottom-left corner of a screen recording, appearing in a small webcam window. He has fair skin and light-colored hair, and he is speaking toward the camera. The main area of the screen displays a financial trading platform with a price chart for \"BTCUSD (H1)\". The chart shows a significant price drop, with a line graph plunging from a high peak down into a green-shaded area. In the top-left of the interface, the \"TICKMILL\" logo is visible. Beside it, a promotional block of German text reads: \"HANDELN SIE AN DEN FINANZM\u00c4RKTEN MIT SICHERHEIT UND VERTRAUEN\". Below this, a list of features includes \"Neueste Spreads ab 0.1 Pips\" and \"Keine Requotes\". The screen remains mostly static across the sequence, though the man's facial expressions change slightly as he speaks, and a vertical cursor moves across the chart."
+}

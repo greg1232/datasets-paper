@@ -1,0 +1,15 @@
+{
+  "video_id": "ab3ea2a6e9d39400979b9b3991ecb5df",
+  "url": "./data/segments/3dN_F08u-KE-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.125,
+    1.875,
+    2.625
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of graphics appears on a light gray background. Initially, a red square icon with a white play button is visible on the left, while a circular logo on the right contains the text \"I3 kanal\" with \"Kanal13AZ\" written in small black text underneath. As the sequence progresses, the play button icon disappears. The circular \"I3 kanal\" logo remains in the upper right and later appears in the lower right. Below the logo on the lower left, the text \"Kanal13AZ\" is displayed above a small red YouTube icon and the phrase \"abuna ol\". Simultaneously, on the lower right, the text \"Kanal13AZ\" is shown above a gray button containing the text \"bildiri\u015flar\u0131 a\u00e7\". The graphics transition from a simple logo and play icon to a more complete call-to-action screen featuring subscription and notification prompts."
+}

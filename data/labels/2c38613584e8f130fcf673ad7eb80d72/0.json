@@ -1,0 +1,15 @@
+{
+  "video_id": "2c38613584e8f130fcf673ad7eb80d72",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-191.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.991,
+    1.387
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair styled in a bun and wearing a dark green t-shirt with a red and white circular graphic is seated in a podcast studio. She wears black over-ear headphones and sits behind a professional black microphone. Behind her is a backdrop featuring the text \"SS TALK 101\" and \"About It!\", along with smaller text that reads \"It's A V torque Hustle\". To her left, a framed photo of a person's hands is visible on the wall. In the foreground, a small object and a logo that reads \"BOSS TALK 101\" are visible. Across the sequence, the woman remains seated in the same position, shifting her gaze and slightly altering her facial expression as she listens or prepares to speak, while the background and equipment remain stationary."
+}

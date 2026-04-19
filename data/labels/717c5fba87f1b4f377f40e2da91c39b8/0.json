@@ -1,0 +1,15 @@
+{
+  "video_id": "717c5fba87f1b4f377f40e2da91c39b8",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-097.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.415,
+    1.245,
+    2.075,
+    2.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast shows several men seated at a long white table in an indoor setting. A man in a white shirt, black vest, and a red cap sits centrally, while another man in a white shirt and black vest sits to his right. A person in a white shirt sits further right. The screen is overlaid with numerous news graphics, including portraits of political figures. Red banners at the top contain the text \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". Vertical red bars on the sides feature text such as \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\", \"\u092e\u0902\u0924\u094d\u0930\u0940\", \"\u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930\", and \"\u0935\u093f\u091c\u092f \u091a\u094c\u0927\u0930\u0940\". At the bottom, a red and yellow banner flashes the word \"BREAKING\", accompanied by a digital clock showing \"10:05 PM\". As the sequence progresses, the red banner at the top remains, and the \"BREAKING\" graphic at the bottom becomes more prominent, while the date \"2024\" appears in the upper portion of the final scene."
+}

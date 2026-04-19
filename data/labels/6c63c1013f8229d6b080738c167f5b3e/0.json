@@ -1,0 +1,15 @@
+{
+  "video_id": "6c63c1013f8229d6b080738c167f5b3e",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a shiny, holographic basketball trading card featuring athlete Mike Conley. The card is displayed against a red background featuring a large, stylized red logo and the text \"JASPYS CASEBREAKS.COM\" in white and red. The person's hand holds the card by its edges, tilting it slightly to catch the light, which creates shimmering effects across the card's surface. In the background, a small inset video window shows a man with short dark hair wearing a black shirt, sitting in a room with shelving and equipment behind him. Across the sequence, the main focus remains on the card, while the man in the inset window appears to be speaking or reacting. The branding \"JASPYS CASEBREAKS.COM\" is consistently visible on the red surface beneath the card."
+}

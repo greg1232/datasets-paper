@@ -1,0 +1,15 @@
+{
+  "video_id": "110458f63d8bef857cacc32a81801441",
+  "url": "./data/segments/3QD9oO6sRns-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.198,
+    0.594,
+    0.99,
+    1.385
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a sports card box. The box features a baseball player and is marked with the words \"CLEARLY AUTHENTIC\". As the sequence progresses, the person's left hand holds the side of the box while the right hand lifts a cardboard flap to reveal the contents. In the background, a small inset window shows a man wearing a black t-shirt and a baseball cap, watching the process. On-screen graphics include the \"JASMINE'S CASEBREAKS\" logo and the website \"CASEBREAKS.COM\", as well as the words \"BREAKS\" and \"JASM\" in large red and white letters across the bottom of the screen. The scene transitions from the box being closed to the top flap being peeled back, exposing the internal packaging."
+}

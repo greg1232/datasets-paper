@@ -1,0 +1,15 @@
+{
+  "video_id": "a5149aed84b674c112d9908a70d6d859",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-623.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.839,
+    2.518,
+    4.197,
+    5.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man sits in a studio setting, wearing a green t-shirt with the white text \"I NEVER DO THAT\" and a green baseball cap. He wears black over-ear headphones and speaks into a black professional microphone on a boom arm. The background features walls adorned with framed photographs and clothing racks with various apparel, including a white t-shirt on a mannequin. In the lower corners of the scene, logos are visible: one on the left featuring a circular emblem and the text \"THE HUB\" and another on the right with red stylized text that reads \"DON'T BE A TOT\". Throughout the sequence, the man is captured in mid-conversation, with his head tilting slightly and his mouth moving as he speaks, while the camera remains stationary, focusing on his upper body and facial expressions."
+}

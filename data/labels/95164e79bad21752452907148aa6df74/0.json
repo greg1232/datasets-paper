@@ -1,0 +1,15 @@
+{
+  "video_id": "95164e79bad21752452907148aa6df74",
+  "url": "./data/segments/3Smz5pevbI4-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.826,
+    1.376,
+    1.927
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a professional indoor setting, a man with glasses, wearing a dark suit, white shirt, and striped tie, stands and speaks into a handheld microphone. He is positioned in front of seated attendees, including a woman to his left in a light-colored blazer and glasses, and others behind him in dark professional attire. Several people wear identification badges on their clothing. In the foreground, a laptop with a visible white Apple logo on its lid is partially seen. Across the sequence, the man remains the central focus, gesturing with his left hand as he speaks. His facial expression and the position of his hand shift slightly as he continues talking, while the seated woman remains relatively still, looking toward him. The background and surrounding people stay constant, maintaining a formal atmosphere typical of a conference or presentation."
+}

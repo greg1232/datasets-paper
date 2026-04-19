@@ -1,0 +1,15 @@
+{
+  "video_id": "4108d3860c960e58d4f8b2a9a2c246ba",
+  "url": "./data/segments/3_n4Uj9iLyU-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    21.551,
+    64.652,
+    107.753,
+    150.855
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presenter wearing a white shirt and dark pants stands on a stage before a large digital screen at the \"openstack summit\" event. The stage is dark, featuring a black podium to the right of the speaker. The background screen displays a blue and white presentation. Initially, the screen shows a slide titled \"Industry Trends\" with a diagram illustrating an \"Upgrade\" path and text stating, \"IT infrastructure will upgrade to cloud platform sooner or later\" and \"OpenStack will be the mainstream cloud platform.\" As the presentation progresses, the slide changes to \"Current Status,\" which lists bullet points including \"OpenStack has become 'Enterprise Ready',\" \"OpenStack still has high entry barrier,\" \"Large budget is required to rebuild a new infrastructure to host existing business,\" and \"Performance of OpenStack is lower than traditional enterprise IT infrastructure.\" The speaker remains on stage, gesturing with their hands while presenting the information."
+}

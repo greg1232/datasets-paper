@@ -1,0 +1,15 @@
+{
+  "video_id": "3340c791d14fb08685ce1f40e8bd8752",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.517,
+    1.55,
+    2.583,
+    3.617
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a pink sleeveless shirt and dark shorts is in a basketball gymnasium with blue walls, blue bleachers, and a polished wooden court. In the first frame, the person is seen from behind, standing on the court facing away from the camera. By the second frame, they have moved forward and are in a crouched position. In the third frame, the person jumps high into the air with their arms extended upward. In the final frame, they land back on the court and begin to move forward again. A basketball is visible in the air in the last frame. The gym features basketball hoops with backboards and nets, and a dark blue padded wall runs along the perimeter. No text or logos are visible in the frames."
+}

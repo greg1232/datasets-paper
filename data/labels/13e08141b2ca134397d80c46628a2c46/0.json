@@ -1,0 +1,15 @@
+{
+  "video_id": "13e08141b2ca134397d80c46628a2c46",
+  "url": "./data/segments/3u3_6CI_QZQ-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.85,
+    2.55,
+    4.25,
+    5.95
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows an outdoor excavation site with red earth, where a large yellow and grey Volvo excavator is operating. Several people are present; one person in a blue shirt and dark pants stands near the machinery, while another in a tan shirt and blue jeans walks toward the excavator's bucket. In the background, a group of people stands on a higher ridge overlooking the pit. The \"peoples dispatch\" logo appears in the upper left corner throughout. A white rectangular overlay appears across the middle of the scene, containing a small circular icon and the text \"HUMAN RIGHTS\". As the sequence progresses, additional text appears within this white box, reading \"Congo mines must end on-site confinement, civil society groups say\". The excavator remains in a similar position, and the people's movements are subtle as the scene unfolds across the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "f335be6ba17a90da497f4a1d67bc3a9a",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-705.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.203,
+    0.61,
+    1.017,
+    1.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a dark complexion is seated in a studio, wearing a green baseball cap, black headphones, and a green t-shirt with the text \"I NEVER DO SHIT AT ALL\" printed in white and red. He is positioned in front of a professional black microphone. The background features a wall decorated with several framed photographs and a clothing rack with various garments. A white mannequin wearing a white shirt stands to the right of the man. On-screen graphics include a circular logo on the left containing the word \"BOSS\" and a red logo on the right that reads \"BOSS LIFE TV\". Throughout the sequence, the man remains in a stationary position, speaking into the microphone; his facial expressions shift slightly as he talks, moving from a closed-mouth expression to an open-mouthed speaking posture."
+}

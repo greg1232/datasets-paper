@@ -1,0 +1,15 @@
+{
+  "video_id": "39e5ab7b4e27b182862899d214d13dcc",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-345.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.563,
+    0.788
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a grey t-shirt, a grey and white baseball cap featuring a shark logo, and over-ear headphones is speaking into a professional microphone. He is positioned in a studio with dark grey acoustic foam panels lining the wall behind him. The microphone is mounted on a boom arm with a \"Blue\" logo visible. As the sequence progresses, the man is speaking, and his right arm moves from a blurred position in the foreground towards his side, while his left arm remains mostly out of view. His facial expression remains relatively consistent as he talks into the microphone. No text is visible on the screen other than the brand name on the equipment."
+}

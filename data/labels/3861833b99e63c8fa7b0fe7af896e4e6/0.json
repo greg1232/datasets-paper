@@ -1,0 +1,15 @@
+{
+  "video_id": "3861833b99e63c8fa7b0fe7af896e4e6",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-185.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.123,
+    0.369,
+    0.615,
+    0.86
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a Cal Ripken Jr. baseball card in their hand, positioning it in front of a camera. The card features a photo of Ripken in a red jersey and cap, an autograph, and the text \"CAL RIPKEN JR.\" printed at the bottom. In the background, a smaller inset video shows a man with a beard and glasses wearing a dark blue shirt with a yellow logo, seated in a room with electronic equipment. The overall setting includes a desk surface with a decorative mat featuring green palm trees on an orange background. On-screen graphics display the text \"JASPYS LIVE\" and \"CASEBREAKS.COM\" in orange and white. Throughout the sequence, the hand holding the card remains relatively steady, while the man in the inset window continues to sit at his station, appearing as a live broadcaster."
+}

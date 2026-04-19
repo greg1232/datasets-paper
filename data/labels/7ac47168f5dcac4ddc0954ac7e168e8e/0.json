@@ -1,0 +1,15 @@
+{
+  "video_id": "7ac47168f5dcac4ddc0954ac7e168e8e",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.901,
+    1.502,
+    2.102
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands interact with a small electronic device housed in a clear plastic rectangular case on a white tabletop. The device consists of a green circuit board with various integrated components, including a blue module. In the background, a small screen and a black mesh desk organizer are visible. The organizer holds a business card with the text \"ALPHA-TENSOR\" printed at the top. Throughout the sequence, the person's hands move toward and over the device. In the first frame, the left hand rests on the table while the right hand hovers above. As the sequence progresses, the right hand reaches down toward the device, and by the final frame, the person's fingers are positioned near the top edge of the clear case, appearing to adjust or touch the electronic assembly inside."
+}

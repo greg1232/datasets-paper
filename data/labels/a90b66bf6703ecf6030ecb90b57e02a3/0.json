@@ -1,0 +1,15 @@
+{
+  "video_id": "a90b66bf6703ecf6030ecb90b57e02a3",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.584,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical simulation room, several medical professionals wearing scrubs, masks, and gloves are gathered around a medical mannequin lying on a bed covered with a white sheet. A person in a light pink t-shirt stands on the left, while others in dark blue scrubs perform procedures on the mannequin. The room is equipped with medical monitors and various supplies on a bedside table. On-screen text on the left side of the image lists learning objectives; initially, it shows \"Trauma resuscitation\" and \"Admission order writing,\" but as the sequence progresses, a third item, \"ED Consultation/IV trainer,\" appears. A logo for \"Sim Week\" with a stylized icon of a building is visible in the lower right corner. Throughout the frames, the staff continues their coordinated efforts to stabilize the mannequin, while the text updates to reflect the training curriculum."
+}

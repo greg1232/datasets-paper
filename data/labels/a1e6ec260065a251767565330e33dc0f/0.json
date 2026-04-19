@@ -1,0 +1,15 @@
+{
+  "video_id": "a1e6ec260065a251767565330e33dc0f",
+  "url": "./data/segments/3mmDnftP1M8-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.766,
+    11.297,
+    18.828,
+    26.359
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a light blue button-down shirt and a black headset with a boom microphone is positioned against a plain, light-colored wall. The on-screen text \"Ashish Raichur\" appears in the lower left of each shot. In the first frame, the man looks forward with his mouth slightly open. In the second frame, he brings his right hand up to his chin, holding it near the microphone. In the third frame, he looks downward with his eyes closed. In the final frame, he keeps his eyes closed while raising his right hand to adjust the earpiece of his headset. The lighting remains consistent across the sequence, and the man remains centered in the frame as he makes these small adjustments to his gear and posture."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "43a6049e2abdc10571d3486718ef2344",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-076.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.092,
+    3.275,
+    5.458,
+    7.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with short hair, wearing a light-colored shirt, is visible in a small inset window in the upper right corner of a presentation slide. The main part of the slide displays a technical architecture diagram divided into \"Edge\" and \"Cloud\" sections. On the left, under \"Edge,\" multiple rows of \"HW / SW\" labels point to \"Event\" boxes, which then flow into a large blue vertical block labeled \"Log Events Collector (aggregator).\" On the right, under \"Cloud,\" a green \"Stream Processor\" box feeds into both a database icon and an \"Analysis\" box, which also points to a database icon. The overall image remains static across the frames, with no visible changes in the diagram, the text, or the person's appearance and posture in the inset window."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "1562a040ed98c0ae4046867ed7681292",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-166.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.479,
+    0.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown in a close-up view, manipulating a clear plastic case over a table covered with a colorful cloth featuring palm tree silhouettes. In the background, a small white box sits atop several larger white boxes. A digital overlay displays a man in a blue t-shirt sitting in a chair, with a logo reading \"JASPYS\" and the website \"CASEBREAKS.COM\" appearing in red and white text. As the sequence progresses, the hands move the clear plastic case, shifting it from a tilted position in the upper left to being held more centrally and then moving toward the right side of the frame. The overlay remains constant, showing the man looking toward the camera while the primary action focuses on the handling of the protective case over the themed tabletop."
+}

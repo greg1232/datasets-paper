@@ -1,0 +1,15 @@
+{
+  "video_id": "e46e49cf727c47b2536165acff0529ab",
+  "url": "./data/segments/3l84m5pRmyk-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.845,
+    8.534,
+    14.223,
+    19.912
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair, wearing a grey suit jacket, a white collared shirt, and a blue and white patterned tie, is speaking at an event. He stands behind a grey podium in front of a light blue and white background that features the hashtag \"#BigDataSV\" and the year \"2015\" repeated multiple times. In the first frame, he is mid-speech with his mouth open and his right hand raised in a gesture. As the sequence progresses, his hand lowers, and he continues to speak. A laptop sits on the podium in front of him; the back of the laptop screen displays the hashtag \"#BigDataSV\" and \"2015\" in the first three frames, while the final frame reveals an orange logo with the text \"INFO-OBJECTS\" and the phrase \"SPONSORED BY\" above it."
+}

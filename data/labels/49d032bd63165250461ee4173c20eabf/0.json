@@ -1,0 +1,15 @@
+{
+  "video_id": "49d032bd63165250461ee4173c20eabf",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.738,
+    5.213,
+    8.688,
+    12.162
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video presentation begins with a dark, cinematic background featuring an abstract, glowing green digital globe and grid-like patterns reminiscent of a data center. Centered on the screen is the white text \"Introduction to Fluent Bit\", with the words \"Fluent Bit\" underlined in yellow. In the top right corner, a small inset video shows a man with short dark hair and glasses, wearing a white shirt, speaking to the camera. Across the sequence of frames, the visual elements remain virtually static, with the title text and the background graphic staying in place. The only observable change is the slight movement and shifting expression of the man in the inset video as he continues his presentation."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "62a9f357c3bd2bbbbe6b011c84caef97",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.229,
+    0.687,
+    1.146,
+    1.604
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen mixing a large quantity of beige, crumbly food ingredients inside a wide metal bowl. The bowl sits on a light-colored wooden surface. Next to the bowl, there is a small white plate and a small red bowl, both containing portions of the same crumbly mixture. In the upper-left corner of the scene, the text \"UCAR CENTER FOR SCIENCE EDUCATION\" is displayed alongside a logo. As the sequence progresses, the person uses their hands to stir and fold the ingredients together, with the mixture shifting and clumping within the metal bowl. The camera remains in a static close-up shot, focusing on the manual preparation of the food. The background is a plain, light-colored wall."
+}

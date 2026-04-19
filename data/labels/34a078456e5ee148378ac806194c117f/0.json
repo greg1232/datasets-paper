@@ -1,0 +1,15 @@
+{
+  "video_id": "34a078456e5ee148378ac806194c117f",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-214.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.892,
+    26.677,
+    44.461,
+    62.246
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with long dark hair pulled back and wearing glasses stands before a microphone in an indoor setting with a slatted wooden wall backdrop. He is dressed in a white collared shirt under a dark blue embroidered vest, which features red and white decorative elements on the chest. To his right, the text \"ORCA\" is visible on the screen. The man is positioned behind a music stand, with the heads of several audience members visible in the foreground. Across the sequence, the man is seen singing into the microphone, with his facial expressions and mouth movements shifting as he performs. He maintains a consistent position and posture throughout the clip, focusing forward as he sings."
+}

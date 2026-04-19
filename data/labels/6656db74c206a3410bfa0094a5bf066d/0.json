@@ -1,0 +1,15 @@
+{
+  "video_id": "6656db74c206a3410bfa0094a5bf066d",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-120.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.255,
+    0.765,
+    1.275,
+    1.785
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a split-screen display. On the left, a man in a dark suit and red tie with glasses speaks against a blue and green graphic background containing the text \"PLUS POLITICS\". On the right, another man wearing a red traditional cap and a patterned garment is shown in a close-up shot. The screen is overlaid with a banner that reads \"PLUS POLITICS\" above a larger headline stating \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\". Below this, a ticker provides viewing information: \"WATCH ON DStv CH 408\" and \"StarTimes CH 308\". The scene remains virtually static across the sequence, with only slight changes in the facial expressions and mouth movements of the two men as they participate in the broadcast. The \"plus\" logo is visible in the upper left corner of the broadcast feed."
+}

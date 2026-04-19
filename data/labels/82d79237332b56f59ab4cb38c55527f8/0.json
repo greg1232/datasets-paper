@@ -1,0 +1,15 @@
+{
+  "video_id": "82d79237332b56f59ab4cb38c55527f8",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-084.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.496,
+    1.488,
+    2.479,
+    3.471
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold and manipulate a basketball trading card against a backdrop featuring a red, black, and white graphic layout. The card, labeled \"OBSIDIAN\" at the top and \"STEVEN ADAMS\" at the bottom, features a player image and a blue fabric swatch. The background includes a repeated logo for \"JASPYS\" and the website \"CASEBREAKS.COM\". In the upper right and lower left sections of the larger layout, smaller inset video feeds show a man with a beard wearing a black shirt, sitting in a room with equipment. Across the sequence, the hands move the card, shifting it from a vertical orientation to being tilted, and finally holding a different \"MATRIX NO. MM-SA0\" card that also identifies \"STEVEN ADAMS.\" A black box labeled \"OBSIDIAN\" sits on the surface behind the cards."
+}

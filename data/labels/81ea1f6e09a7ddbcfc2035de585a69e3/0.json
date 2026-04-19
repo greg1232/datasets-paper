@@ -1,0 +1,15 @@
+{
+  "video_id": "81ea1f6e09a7ddbcfc2035de585a69e3",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-231.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.484,
+    1.451,
+    2.419,
+    3.387
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A promotional graphic for TFNN.COM, \"EDUCATING INVESTORS,\" features a green-themed design on the left and a white background on the right. The green section displays a book cover titled \"Fibonacci 24/7\" by Larry Pesavento, positioned above a banner that repeats \"FIBONACCI 24/7\" in yellow text. Below this banner, the name \"Basil Chapman\" appears in white, followed by a smaller line stating \"The Tiger Technicians Hour | June 8th, 2022.\" On the white section of the graphic, red text asks, \"NOT SATISFIED?\" Across the sequence, a phrase gradually appears below the question. Initially, only \"GET A\" is visible. In the following frames, the text updates to \"GET A FULL REFUND WITHIN 30 DAYS.\" The layout and background elements remain static while only the refund guarantee text is added and completed."
+}

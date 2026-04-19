@@ -1,0 +1,15 @@
+{
+  "video_id": "a69942037d282196c3df23a4b1620043",
+  "url": "./data/segments/3HgCF6yVXko-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.092,
+    15.275,
+    25.458,
+    35.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video tour showcases a modern open-concept living space featuring a kitchen and dining area. The scene begins in a dining area with a dark wooden table, red runner, and cream-colored upholstered chairs, with a glimpse of a living room and stairs in the background. The camera pans to the kitchen, revealing dark wood cabinetry, white countertops, and a breakfast bar with four brown leather barstools. A large stainless steel refrigerator and built-in ovens are integrated into the cabinetry. The view then shifts to a closer look at the kitchen's utility area, highlighting a white front-loading washing machine tucked under the counter next to a stainless steel sink. The final shot provides a wider view of this utility section, showing the tiling on the walls and a grey appliance positioned on the right. No people are present in any of the frames."
+}

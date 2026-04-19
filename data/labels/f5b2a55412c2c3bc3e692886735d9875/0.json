@@ -1,0 +1,15 @@
+{
+  "video_id": "f5b2a55412c2c3bc3e692886735d9875",
+  "url": "./data/segments/3jFz5IiuGk8-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.438,
+    1.314,
+    2.19,
+    3.066
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video takes place in a professional committee setting, likely a government office or hearing room. An older man with glasses and a grey suit is seated at a desk with a laptop and documents, appearing to speak or present. Other individuals in professional attire are present, including a man in a dark suit and several other observers. A person carrying a camera is visible, moving through the room to capture the proceedings. The environment includes desks, chairs, and office equipment. Each frame contains a consistent green banner at the bottom with the logo \"ORCA\" and the text \"April 12, 2019 House Committee on General, Housing, and Military Affairs S.23 Increasing the Minimum Wage\". As the scene progresses, the camera perspective shifts from a wide shot of the desk to closer views of the participants and the photographer, ending with a close-up of the man in the grey suit gesturing with his hand."
+}

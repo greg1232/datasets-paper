@@ -1,0 +1,15 @@
+{
+  "video_id": "816e2f97cc3be4acc31a12df56f245d2",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-204.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.123,
+    0.369,
+    0.615,
+    0.86
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a clear plastic protective case containing a sports trading card, showcasing a signature. In the background, a man with a beard wearing a dark blue t-shirt with a small yellow logo sits in front of a computer setup, appearing in a smaller inset window. The setting includes a white surface with a green palm tree logo and a black machine. On-screen text in red and white reads \"JASPYS\" and \"CASEBREAKS.COM,\" appearing both as a main banner and within the inset window as \"JASPYS Sports Cards & More.\" Throughout the sequence, the hand holding the card moves the plastic case, shifting the angle to better display the signature on the card inside. The man in the background remains seated, observing the process as the card is manipulated in the foreground."
+}

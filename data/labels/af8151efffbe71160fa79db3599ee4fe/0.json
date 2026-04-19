@@ -1,0 +1,15 @@
+{
+  "video_id": "af8151efffbe71160fa79db3599ee4fe",
+  "url": "./data/segments/3E6ctN22V7k-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.785,
+    2.355,
+    3.925,
+    5.495
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands in a classroom in front of a chalkboard covered in handwritten French text. He is wearing a light blue, short-sleeved button-down shirt. He stands behind a wooden desk holding several boxes of chalk and a piece of orange fabric. In the beginning, he remains still with his arms resting on the desk. As the sequence progresses, he begins to speak, shifting his facial expression and slightly moving his head. On-screen text appears in white letters across the bottom center of the frame, stating, \"As the law says, children have the right to education.\" The camera remains stationary, maintaining a medium shot of the man from the waist up as he addresses an unseen audience."
+}

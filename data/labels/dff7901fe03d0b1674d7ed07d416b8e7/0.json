@@ -1,0 +1,15 @@
+{
+  "video_id": "dff7901fe03d0b1674d7ed07d416b8e7",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-453.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.517,
+    1.55,
+    2.583,
+    3.617
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a smartphone horizontally in front of a blurred background featuring a person and a decorative tree with colorful glowing lights. The phone screen displays a digital game interface titled \"Rage Quit Wheel\" with a circular, red-and-white spinning wheel on the right side. Across the sequence, the text on the left side of the screen changes as the wheel is used. Initially, the screen displays \"Pack-A-Punch 16x + Gold Players\". In the next instance, the text updates to \"93 Jackpot\". This is followed by a change to \"3x Store Packs\", and finally, the text displays \"91 Jackpot\". The phone remains connected to a white charging cable on the right side throughout the scenes, and the person's fingers are visible gripping the edges of the device."
+}

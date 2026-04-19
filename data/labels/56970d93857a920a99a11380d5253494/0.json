@@ -1,0 +1,15 @@
+{
+  "video_id": "56970d93857a920a99a11380d5253494",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.521,
+    1.563,
+    2.604,
+    3.646
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a pink t-shirt and grey shorts is practicing basketball in an indoor gymnasium. The gym features a polished wooden court with blue painted areas and blue tiered bleachers along the walls. In the initial sequence, the man stands on the court, holding a basketball and preparing to jump. He then leaps high into the air, reaching toward the basketball hoop to attempt a dunk. After the jump, the ball is seen flying through the air, away from the basket. Finally, the man lands back on the court, standing upright with his arms raised in a celebratory or expressive gesture. No on-screen text or logos are visible in the scene."
+}

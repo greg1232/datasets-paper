@@ -1,0 +1,15 @@
+{
+  "video_id": "df41d937788b74187e8d3c715833001b",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-085.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.391,
+    10.173,
+    16.954,
+    23.736
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and a beard is recorded in a studio setting against a dark gray, vertically ribbed acoustic foam wall. He wears over-ear black headphones and a black zip-up jacket over a gray shirt. A large silver condenser microphone with a black shock mount and stand is positioned directly in front of his face. Throughout the sequence, the man remains centered in the frame. Initially, he has his eyes closed and his head slightly tilted. As the sequence progresses, he opens his eyes and shifts his gaze to the side and then slightly downward, while his mouth remains closed. His posture remains largely stationary, with only subtle shifts in his facial expression and eye movement as he looks around the room."
+}

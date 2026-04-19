@@ -1,0 +1,15 @@
+{
+  "video_id": "d6417b2231a6a5223e691ad7cb1b49f2",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-401.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.308,
+    0.925,
+    1.542,
+    2.158
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A gameplay clip of a football video game is shown, featuring a match between the Atlanta Falcons and the Washington Commanders. The scene takes place in a large stadium with green turf and a crowd in the stands. On the field, players in white and black uniforms engage in a play. A picture-in-picture overlay in the bottom left shows a fair-skinned man with blonde hair wearing a dark blue shirt and a headset. A game HUD at the top displays the score and game time, including \"2nd & 10\" and \"3rd 0:41\". A notification reads \"HOLD THE LINE\" and \"Away Team has improved blocking\". As the play progresses, players collide and move across the field. In the final sequence, a \"MOMENTUM LEGEND\" banner appears with a Nike logo and several \"HOLD THE LINE\" markers, while the clock ticks down to \"0:40\" and \".19\"."
+}

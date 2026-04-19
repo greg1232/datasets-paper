@@ -1,0 +1,15 @@
+{
+  "video_id": "01615540283b984da55f71696e7393bb",
+  "url": "./data/segments/3HgCF6yVXko-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.225,
+    3.675,
+    6.125,
+    8.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A handheld camera pans through a domestic space, starting with a view of a wooden door opening into a room with built-in wooden cabinetry. The cabinetry consists of tall wardrobes and a set of drawers, all finished in a warm medium-brown tone. As the camera moves, it briefly captures a glimpse of a bathroom area featuring a glass shower enclosure and metallic fixtures. The scene then shifts to focus more broadly on the wooden wardrobes, which stretch across the wall of the room. The lighting is warm, provided by recessed ceiling lights that cast a glow over the wooden surfaces. A doorway leading to another brightly lit room is visible on the right side of the wardrobes. There are no people, text, or logos present in the scene."
+}

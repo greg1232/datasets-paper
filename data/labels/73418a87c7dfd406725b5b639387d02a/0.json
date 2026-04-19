@@ -1,0 +1,15 @@
+{
+  "video_id": "73418a87c7dfd406725b5b639387d02a",
+  "url": "./data/segments/3QD9oO6sRns-Scene-100.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.331,
+    0.552,
+    0.773
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen opening a cardboard box on a dark surface. In the first frame, the person's hands grip the top of the box, beginning to peel back a clear plastic seal. As the sequence progresses, the person continues to pull the seal away and lift the top flap of the box, revealing the word \"AUTHENTIC\" and \"CLEARLY\" printed on the inside of the lid. In the background, a small inset video shows a man wearing a white baseball cap and a black t-shirt. The overall scene is overlaid with graphic elements, including the text \"JASPYS\" in a stylized orange and white font and the words \"CASEBREAKS\" in white capital letters below it. A logo featuring a baseball player is also visible in the inset video and on the main overlay."
+}

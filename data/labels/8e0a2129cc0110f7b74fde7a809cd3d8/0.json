@@ -1,0 +1,15 @@
+{
+  "video_id": "8e0a2129cc0110f7b74fde7a809cd3d8",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.152,
+    0.456,
+    0.76,
+    1.065
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is opening a package on a desk decorated with a tropical-themed mat featuring palm trees and an orange sun. The desk surface also includes the \"JASPYS\" logo and the text \"CASEBREAKS.COM\". In the top left, a hand begins to peel back the plastic wrapping from a black box. As the action progresses through the top right and bottom left frames, the person reveals a trading card; a man wearing a navy blue t-shirt is visible in a small picture-in-picture window in the bottom corners, sitting in a room with equipment. By the final frame, the hand has pulled the plastic further back, partially revealing a card with white text, including the word \"HALL\". The scene transitions from the initial opening of the outer packaging to the exposure of the card inside, all while maintaining the same setting and logo overlays."
+}

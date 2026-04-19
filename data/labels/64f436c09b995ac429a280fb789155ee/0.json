@@ -1,0 +1,15 @@
+{
+  "video_id": "64f436c09b995ac429a280fb789155ee",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-128.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.247,
+    3.741,
+    6.235,
+    8.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static logo centered on a white background. The logo consists of a stylized green icon on the left, resembling a six-pointed burst or a star with varied arm lengths, paired with the lowercase text \"thinkorswim\" written in a dark grey, sans-serif font to the right. There are no people, settings, or other objects visible in the scene. Throughout the sequence of frames, the composition remains entirely unchanged, with the logo and text staying in a fixed position and maintaining the same appearance. The image is a consistent shot of the brand's identity against a plain white field."
+}

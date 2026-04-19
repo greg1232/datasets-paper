@@ -1,0 +1,15 @@
+{
+  "video_id": "b7bd19b55fa441bcf33911f19df1bb70",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-055.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a terminal environment with multiple open windows and panels, showing lines of code and system logs. The interface includes a sidebar on the left with various commands, such as \"kubectl create -f .fluent-bit-configmap.yaml\" and \"kubectl create -f .fluent-bit-ds-minikube.yaml\". The main window displays a sequence of log entries under the header \"mg'tail route observer /path/runner/log.dag\". Legible text in the logs includes \"node: 122\", \"level:info\", and \"celestiamanager_manager-0\". The scene remains static across the frames, with the same lines of code and log output visible throughout. The overall appearance is that of a technical debugging or monitoring session within a Kubernetes or containerized environment, characterized by a dark background with light-colored text in various shades of white, green, and yellow."
+}

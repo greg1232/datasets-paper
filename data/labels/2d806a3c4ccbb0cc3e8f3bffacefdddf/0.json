@@ -1,0 +1,15 @@
+{
+  "video_id": "2d806a3c4ccbb0cc3e8f3bffacefdddf",
+  "url": "./data/segments/3F2rz23IKUk-Scene-053.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.555,
+    4.665,
+    7.775,
+    10.885
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video consists of a static slide displaying a list of \"Recommendations\" for shipping devices. The slide features a white background with black text, presenting four bulleted points. The first point reads, \"Be aware of what you're shipping,\" followed by, \"Ensure that you have appropriate source before you ship the device.\" The third recommendation is to \"Have a compliance contact available to make it easier to resolve issues,\" and the final point emphasizes, \"Make sure support know about the compliance contact!\" There are no people, clothing, or physical objects visible in the scene, as the entire frame is occupied by this text-based instructional slide. Throughout the sequence of frames, the image remains completely still with no changes in content, layout, or text, maintaining a consistent visual presentation of the guidelines."
+}

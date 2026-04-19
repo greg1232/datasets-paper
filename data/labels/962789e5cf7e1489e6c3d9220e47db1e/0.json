@@ -1,0 +1,15 @@
+{
+  "video_id": "962789e5cf7e1489e6c3d9220e47db1e",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-103.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.146,
+    6.438,
+    10.729,
+    15.021
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair wears a blue and white striped collared shirt and large black over-ear headphones. She is positioned in front of a light-colored wall and pale yellow curtains with a blue fabric edge visible on the left. Throughout the clip, she is speaking and gesturing with her hands to emphasize her points. Her mouth is open in various stages of speech, and her hands move from the lower left and right sides of the frame toward the center. The text \"Nancy Ramya\" appears in the bottom left corner of each scene. The background remains static, and the camera angle stays fixed in a medium close-up shot as the woman continues her delivery."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "3f8a0dfff8b4fe135e3c322014360039",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.828,
+    2.484,
+    4.141,
+    5.797
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a dark complexion is centered within a circular frame against a solid black background. He is dressed in a professional blue button-down shirt paired with a red necktie. He maintains a steady, forward-facing gaze and a neutral expression throughout the sequence. Below each circular portrait, the text \"Ahimbisibwe Charles Dicks\" is displayed in a small, white, sans-serif font. The scene remains completely static across the frames, with no change in the man's position, expression, or clothing, and no movement of the text or background. No other people, objects, or locations are visible, creating a repetitive visual sequence of the same still portrait and identifier."
+}

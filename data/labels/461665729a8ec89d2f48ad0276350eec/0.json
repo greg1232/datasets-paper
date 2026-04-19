@@ -1,0 +1,15 @@
+{
+  "video_id": "461665729a8ec89d2f48ad0276350eec",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.379,
+    7.137,
+    11.896,
+    16.654
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video presents a digital presentation slide set against a futuristic blue background featuring a stylized globe and a network of connected glowing nodes. A small inset window in the top right corner shows a man wearing a light-colored shirt. The central portion of the screen displays a dark horizontal banner with white text. In the initial scene, the text reads \"Demo: Fluent Bit + Loki\". As the video progresses, this text changes to \"Stream Processing\", a phrase that remains constant through the subsequent scenes. The overall visual theme is high-tech, with a dark color palette accented by bright blue lights and geometric lines that simulate a data network. The man in the inset remains present and relatively stationary throughout the sequence as the on-screen title transitions."
+}

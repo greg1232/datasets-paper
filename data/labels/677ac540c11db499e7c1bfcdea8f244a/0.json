@@ -1,0 +1,15 @@
+{
+  "video_id": "677ac540c11db499e7c1bfcdea8f244a",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.605,
+    0.847
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, several individuals in scrubs and masks gather around a patient on a gurney. A person in dark scrubs and blue gloves stands at the foot of the bed, while others lean over the patient to provide care. The room contains medical equipment and storage cabinets in the background. Overlaying the scene is a checklist of clinical tasks. In the first few frames, the list includes \"Trauma resuscitation,\" \"Admission order writing,\" \"ED Consultation/IV trainer,\" \"Evaluation of shortness of breath in clinic,\" \"Ex lap with splenectomy and bowel,\" and \"Evaluation of altered mental status.\" A pink label reading \"Sim Week\" appears next to the \"Ex lap\" entry. As the sequence progresses, the text updates: \"Ex lap with splenectomy and bowel\" becomes \"Ex lap with splenectomy and bowel resection,\" and a new item, \"Bell pepper laparoscopy,\" is added to the bottom of the list."
+}

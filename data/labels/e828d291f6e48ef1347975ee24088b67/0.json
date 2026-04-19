@@ -1,0 +1,15 @@
+{
+  "video_id": "e828d291f6e48ef1347975ee24088b67",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-249.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.975,
+    1.625,
+    2.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair, wearing glasses, a dark blue hoodie, and white headphones, speaks in a room decorated with a Christmas tree. To his right, a screen displays American football analysis, including diagrams and text such as \"PREVIOUS PLAY,\" \"COVER 4-QUARTERS,\" and \"STRETCH ALERT BUBBLE.\" A highlighted section reads \"SAVE ARRON\" with the subtext \"Player's bit of a killer jab holding onto the ball.\" The screen's content changes over time; while the first sequence shows \"JET TOUCH PASS,\" the later sequence displays \"FOUR VERTICALS.\" Above the man, a sports broadcast graphic shows a game between the Falcons and another team, displaying a score of 0-0, the down as \"2nd & 6,\" and a clock counting down from \"1:57\" to \"1:55.\" The man remains in a similar position throughout, continuing to talk while the technical analysis on the screen updates."
+}

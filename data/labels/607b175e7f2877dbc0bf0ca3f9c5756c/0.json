@@ -1,0 +1,15 @@
+{
+  "video_id": "607b175e7f2877dbc0bf0ca3f9c5756c",
+  "url": "./data/segments/3P1vSUbet40-Scene-0978.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with hair styled in a high bun wears black headphones and a black t-shirt while sitting in a recording studio. She is positioned in profile, looking toward the left and smiling slightly. In front of her is a professional black microphone. The background features a white wall, a black acoustic panel with a yellow border, and a screen displaying the text \"ohnson\" in red. A small sign above the screen reads \"Employees Only\". On-screen graphics appear in the lower-left and lower-right areas of the image; the left side features a logo with the word \"PODCAST\" and the right side displays the text \"BOSS TALK 101\" in red and white, accompanied by a small logo of a figure. Throughout the sequence, the woman remains in the same position and expression, and there are no visible changes in the setting or the on-screen elements."
+}

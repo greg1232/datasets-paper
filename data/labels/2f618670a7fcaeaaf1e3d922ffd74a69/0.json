@@ -1,0 +1,15 @@
+{
+  "video_id": "2f618670a7fcaeaaf1e3d922ffd74a69",
+  "url": "./data/segments/3Z229_lKLpk-Scene-163.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.755,
+    5.265,
+    8.775,
+    12.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard and glasses, dressed in a light-colored long-sleeved shirt and a white sleeveless jacket, stands behind a wooden podium. He is positioned in front of a textured green wall with geometric patterns and vertical gold-colored pillars adorned with small pink flowers. Two microphones are mounted on the podium in front of him. Throughout the sequence, the man gestures with his hands while speaking. He begins by lifting his left hand with fingers spread, then brings both hands toward his chest. He subsequently raises his right index finger in a pointing gesture before opening both hands wide to his sides. The background and his attire remain constant as his hand movements change to emphasize his speech."
+}

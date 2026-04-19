@@ -1,0 +1,15 @@
+{
+  "video_id": "bb605e9e9e516e60519e7fdfa750f317",
+  "url": "./data/segments/3P1vSUbet40-Scene-0940.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.287,
+    0.86,
+    1.434,
+    2.007
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored, spiky hair, wearing black headphones, glasses, a white button-down shirt, a red bow tie, and light-colored suspenders, sits in a studio setting. He is positioned in front of a black microphone. In the background, a person with pink hair wearing a green dress is partially visible, and a sign reads \"UNIQUE FASHIONS\". A framed picture of a man and a shield-shaped logo are mounted on the wall. On-screen graphics include a logo that says \"STALBO PODCAST\" on the left and the text \"SS TALK 101\" on the right. Across the sequence, the man remains seated in the same position, subtly shifting his facial expression and gaze while speaking into the microphone. The camera angle and the background elements remain static throughout the clip."
+}

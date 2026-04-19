@@ -1,0 +1,15 @@
+{
+  "video_id": "0378851e7968cc3c399d26bf8f1955f8",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.772,
+    2.315,
+    3.858,
+    5.401
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a series of four identical financial bar charts titled \"Daily Exchange Volume Chart.\" Each chart features a horizontal x-axis with dates ranging from \"Mar 08\" to \"Apr 11\" and a vertical y-axis measuring volume from 0 to 40,000. A legend in the upper right corner identifies blue bars as \"Future\" and red bars as \"Option.\" The blue bars show fluctuating volumes over time, with a noticeable peak occurring around early April. The red bars are nearly invisible, appearing as thin lines along the baseline. A circular watermark logo is visible in the background behind the charts. Across the sequence, the charts remain static, showing no change in data points, layout, or text, effectively presenting a still image of financial data repeated over time."
+}

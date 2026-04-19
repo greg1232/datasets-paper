@@ -1,0 +1,15 @@
+{
+  "video_id": "3592c6a8b7a7d121cccc61db023af743",
+  "url": "./data/segments/3kfnwKjZWWI-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.142,
+    6.425,
+    10.708,
+    14.992
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static shot captures a white whiteboard filled with handwritten chemistry calculations and formulas. At the top center of the board is a circular clock displaying the time around 10:10. The text on the board includes various chemical notations such as \"[$\\text{CH}_3\\text{CH}_2\\text{COOH}$] = 0.1000 M\", \"$\\text{V}_{\\text{initial}/\\text{acid}}$ = 40.00 mL\", \"$\\text{pH} = -\\log[\\text{H}_3\\text{O}^+]$\", and \"$\\text{pH} = -12.05$\". Several mathematical equations and chemical reactions are written in black and blue ink, involving the calculation of hydroxide and hydronium ion concentrations. A blue spray bottle and a blue cloth sit on the narrow ledge at the bottom of the whiteboard. No people are present in the scene. The camera remains completely still, and there are no visible changes in the handwriting or the position of the objects across the sequence, resulting in a steady, unchanging image of the educational material."
+}

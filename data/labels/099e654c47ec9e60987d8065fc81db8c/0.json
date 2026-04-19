@@ -1,0 +1,15 @@
+{
+  "video_id": "099e654c47ec9e60987d8065fc81db8c",
+  "url": "./data/segments/3jaAcpqJEbg-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.688,
+    2.062,
+    3.438,
+    4.812
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head stands behind a podium in a brightly lit indoor setting, likely a conference. He wears a dark blue t-shirt with the text \"exotel\" on the chest and a white lanyard around his neck. The background consists of a blue wall featuring repeated logos and text, including \"has geek\" and \"rootconf,\" as well as a gold \"###\" symbol. In the initial scene, the man is looking slightly down and to his left, standing still behind the dark podium. As the sequence progresses, he shifts his gaze and slightly turns his head toward his right, looking forward toward the audience. The lighting remains consistent across the sequence, and the man remains in the same position behind the podium, with only subtle movements of his head and facial expression occurring."
+}

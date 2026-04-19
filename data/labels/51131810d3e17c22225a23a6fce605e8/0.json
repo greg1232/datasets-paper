@@ -1,0 +1,15 @@
+{
+  "video_id": "51131810d3e17c22225a23a6fce605e8",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-156.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.485,
+    1.456,
+    2.427,
+    3.398
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair, glasses, and silver headphones sits in front of a microphone in a room with a light-colored wooden wall. He wears a dark blue patterned t-shirt. To his left is a decorated Christmas tree with multi-colored lights. Behind him hangs a framed blue poster containing the number \"20\". As the sequence progresses, the man speaks, his mouth opening and closing, while he gesticulates with his right hand, bringing his fist upward and tightening it. He remains centered in the frame throughout the clip, maintaining a focused expression as he looks slightly off-camera. The lighting remains consistent, and the background elements, including the tree and the framed artwork, stay stationary while he interacts with an unseen audience or interlocutor."
+}

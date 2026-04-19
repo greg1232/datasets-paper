@@ -1,0 +1,15 @@
+{
+  "video_id": "515b3c512e0f48f7ec3b61edcbfdb24c",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit in a room in front of a television screen. The man on the left wears a grey t-shirt and has a neutral, slightly skeptical facial expression. The man on the right also wears a grey t-shirt and a dark necklace; he holds a cigarette in his mouth. Behind them is a television displaying a video game scene of a muscular character holding a weapon in a Middle Eastern-style architectural setting. Subtitles at the bottom of the game screen read \"The severity of Shebdani\" and \"Ahura's enmity.\" Above the men, large, glowing orange text reads \"OUR STUPID REACTIONS\". Below the television is a shelf filled with stacks of game cases. As the scene progresses, the man on the right maintains his position and expression, while the character in the game video begins to move, raising his arm as if preparing to strike."
+}

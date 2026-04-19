@@ -1,0 +1,15 @@
+{
+  "video_id": "80d20fd53263e5d4b4f76afb6cea3542",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-101.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.365,
+    1.095,
+    1.825,
+    2.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair tied in a bun and styled in braids on the side is recorded in a podcast setting. She wears a dark green t-shirt with a circular red and white graphic and the text \"SSTALK 101\" on the front. She is positioned behind a black table with a professional microphone and wearing black over-ear headphones. Behind her is a black backdrop featuring a photo of a person and white text that reads \"SS TALK 101\", \"It's A Unique Hustle\", \"CAST\", and \"About It!\". Small red and white logos for \"BOSS TALK 101\" appear on the screen. Across the sequence, the woman speaks into the microphone, transitioning from a neutral expression with her hands out of view to gesturing with her open palms as she speaks. The camera remains stationary, focusing on her upper body and the surrounding equipment."
+}

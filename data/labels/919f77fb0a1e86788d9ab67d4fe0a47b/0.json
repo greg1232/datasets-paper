@@ -1,0 +1,15 @@
+{
+  "video_id": "919f77fb0a1e86788d9ab67d4fe0a47b",
+  "url": "./data/segments/3KJVtM_W6Xg-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.156,
+    6.469,
+    10.782,
+    15.094
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static black screen displays white text organized into two columns. The left column reads \"Ohio University Libraries DIGITAL INITIATIVES\" followed by the URL \"http://media.library.ohiou.edu\". Below this, it states \"Slideshow created by: David Creighton (Student Collections Access Assistant)\" and \"Video edited by P. Matthew Wesley (Student Collections Access Assistant)\". The right column begins with \"Music: Break Time\" and \"by Kevin MacLeod (Copyright 2007)\". This is followed by \"Accessed via: http://incompetech.com/music/royalty-free\" and the licensing information: \"Licensed under Creativecommons By Attribution 3.0 http://creativecommons.org/licenses/by/3.0/\". There are no people, objects, or changes in the scene across the frames, as the image remains a consistent credit screen."
+}

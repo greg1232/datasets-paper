@@ -1,0 +1,15 @@
+{
+  "video_id": "2213d0ef62b3ae49686de81dcb179f49",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-408.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.767,
+    2.302,
+    3.837,
+    5.372
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is recorded in a studio setting against a background of dark, ribbed acoustic foam panels. He is wearing a white t-shirt with a small logo on the chest that reads \"PhilThoms\" and black over-ear headphones. Positioned in front of him is a professional silver microphone mounted on a black boom arm. The man has several tattoos on his right arm. In the beginning, he has his eyes closed and his right hand raised above his head. As the sequence progresses, he opens his eyes and looks toward the side, shifting his right hand to rest on top of his head. His expression changes from a closed-eyed, thoughtful look to an open-mouthed, surprised or attentive expression as he speaks into the microphone."
+}

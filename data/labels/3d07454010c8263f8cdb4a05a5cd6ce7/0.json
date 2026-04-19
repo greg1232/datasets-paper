@@ -1,0 +1,15 @@
+{
+  "video_id": "3d07454010c8263f8cdb4a05a5cd6ce7",
+  "url": "./data/segments/3P1vSUbet40-Scene-0553.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a blue baseball cap, a black t-shirt with the text \"CHECK IT\" on the chest, and a gold chain speaks into a professional studio microphone. He is seated in a room with a white wall featuring a vertical logo that reads \"BOSS HUSTLE\" flanked by stars. Behind him, a screen displays the text \"BOSS TALK 101.\" On-screen overlays include a logo for \"TOLK 101 PODCAST\" and another \"BOSS TALK 101\" graphic. As the sequence progresses, the man becomes more animated, shifting from a relatively still position to gesturing with his right hand. He raises his arm and moves his hand in a sweeping motion to emphasize his point, while his facial expression remains focused on someone off-screen. The camera remains static throughout, capturing his upper body and the surrounding studio equipment."
+}

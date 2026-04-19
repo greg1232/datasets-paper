@@ -1,0 +1,15 @@
+{
+  "video_id": "64b823faf8f09a5a7a9afd8a1457678a",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.655,
+    7.965,
+    13.275,
+    18.585
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast segment features a man wearing a light blue traditional garment and a red cap. He appears in a larger window on the left and a smaller inset window on the right. In the smaller window, he is shown from the chest up against a purple background. On-screen text in the inset identifies him as \"OLUSOLA OYEKANMI POLITICAL ANALYST\" from \"LAGOS\" and states he is \"ON THE PHONE.\" A banner at the bottom reads \"PLUS POLITICS\" and \"NIGERIA NEEDS ME \u2013 BOLA TINUBU.\" The \"plustv\" logo is visible in the top left. Across the sequence, the man remains in the same position and attire, though his facial expression shifts slightly. The bottom of the screen displays a white banner with a \"SUBSCRIBE\" call and a YouTube URL on the left, and \"FOLLOW US\" with another YouTube URL on the right, which later changes to include \"DStv CH 408,\" \"StarTimes CH 308,\" and a \"WATCH ONLINE\" website."
+}

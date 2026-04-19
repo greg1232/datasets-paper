@@ -1,0 +1,15 @@
+{
+  "video_id": "2a0f0669fe11ff9fdfaac4dbffae0426",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.41,
+    1.23,
+    2.05,
+    2.87
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video begins with a close-up of a stylized, light-blue logo featuring a lotus flower inside a gear-like border, set against a dark blue draped fabric background. Text in a script is visible at the bottom of the frame: \"\u091c\u094d\u091e\u093e\u0928\u092e\u094d \u092a\u0930\u092e\u092e\u094d \u0927\u094d\u092f\u0947\u092f\u092e\u094d\". As the sequence progresses, the camera zooms out to reveal the full circular seal of the \"INDIAN INSTITUTE OF TECHNOLOGY BOMBAY\". The seal repeats the script \"\u091c\u094d\u091e\u093e\u0928\u092e\u094d \u092a\u0930\u092e\u092e\u094d \u0927\u094d\u092f\u0947\u092f\u092e\u094d\" both within the circular border and on a banner below the lotus. The final frames maintain this wide shot of the logo centered on the shimmering blue background, and the white capitalized text \"IIT BOMBAY\" appears at the bottom of the screen. No people are present in the scene, and the only motion is the gradual zoom-out and the appearance of the institutional name."
+}

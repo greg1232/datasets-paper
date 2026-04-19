@@ -1,0 +1,15 @@
+{
+  "video_id": "f02b3559384dbf7a61ca3a7f1d4c8c7d",
+  "url": "./data/segments/3P5zYKAFzh4-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.982,
+    20.946,
+    34.91,
+    48.874
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot captures a chimpanzee with dark fur and greyish skin on its face, set against a blurred background of green foliage and brown branches. The chimpanzee is positioned in profile, looking upward and slightly to the right. Across the sequence, the chimpanzee slightly tilts its head further back and opens its mouth a small amount, revealing its lower lip and teeth. The animal's gaze remains fixed upward, and its facial muscles shift subtly as it adjusts its posture. There are no people, equipment, or text visible in the scene. The lighting is soft and natural, highlighting the texture of the chimpanzee's fur and the wrinkles around its eyes and mouth as it maintains its upward focus."
+}

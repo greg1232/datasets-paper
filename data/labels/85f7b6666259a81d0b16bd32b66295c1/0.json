@@ -1,0 +1,15 @@
+{
+  "video_id": "85f7b6666259a81d0b16bd32b66295c1",
+  "url": "./data/segments/3L_uHTClWfk-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.138,
+    6.413,
+    10.688,
+    14.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a screen recording of the official IRS website. The page displays informational text regarding retirement account distributions. At the top of the page, the IRS logo is visible on the left, with \"SEARCH,\" \"HELP,\" and \"MENU\" links on the right. The main body of the text discusses required minimum distributions (RMDs), stating that \"An IRA owner, or trustee, must calculate the RMD separately for each IRA owned\" and noting that failing to take a distribution \"could mean a 50% excise tax on the amount not distributed.\" A section titled \"Inherited IRAs\" explains that \"An RMD may be required for an IRA, retirement plan account or Roth IRA inherited from the original owner.\" Throughout the clip, the screen remains static, with no movement or changes in the text, layout, or navigation, showing the same section of the webpage across all frames."
+}

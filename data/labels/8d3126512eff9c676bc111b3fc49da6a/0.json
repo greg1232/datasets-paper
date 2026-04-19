@@ -1,0 +1,15 @@
+{
+  "video_id": "8d3126512eff9c676bc111b3fc49da6a",
+  "url": "./data/segments/3sJ5OX75erw-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.695,
+    2.085,
+    3.475,
+    4.865
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide is displayed against a dark background, featuring the title \"The DARPA OPS-5G Program: A Collaboration between Government and the Open Source Community\" and the presenter \"Michael August, Naval Information Warfare Center Pacific.\" Logos for the \"OPEN NETWORKING & EDGE EXECUTIVE FORUM\" appear at the top and center, while the bottom of the slide lists sponsors including \"THE LINUX FOUNDATION,\" \"LF NETWORKING,\" and \"LF EDGE.\" The hashtag \"#opennetedge\" is visible in the lower left. Initially, the slide is shown alone. As the sequence progresses, a man with glasses wearing a light-colored button-down shirt enters the frame from the right. By the final image, he is positioned in the foreground, partially obscuring the text of the slide as he looks toward the viewer."
+}

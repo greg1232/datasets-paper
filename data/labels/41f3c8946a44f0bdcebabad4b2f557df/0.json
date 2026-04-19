@@ -1,0 +1,15 @@
+{
+  "video_id": "41f3c8946a44f0bdcebabad4b2f557df",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-125.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.206,
+    0.619,
+    1.031,
+    1.444
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with collectibles on a surface covered by a mat featuring green palm trees and orange arcs. The background includes a man wearing a dark t-shirt sitting in a chair. In the upper portion of each frame, a logo reads \"JASPYS\" with a small heart and the text \"CASEBREAKS.COM\" underneath. A small inset video window shows the man sitting at a desk with equipment. Across the sequence, a hand holds a clear plastic card protector, moving it toward a stack of yellow-topped boxes. As the video progresses, the hand positions the protector near the boxes and then begins to move it away. The setting appears to be a specialized workspace for trading cards, with various stacks of card-related products visible on the table and the man observing the process from his seat."
+}

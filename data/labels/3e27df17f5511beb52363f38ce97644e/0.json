@@ -1,0 +1,15 @@
+{
+  "video_id": "3e27df17f5511beb52363f38ce97644e",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-272.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.11,
+    0.331,
+    0.552,
+    0.773
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game of American football is shown from a wide aerial perspective on a green field with white markings. The scene features two teams: one in blue uniforms and another in white and red uniforms, including the Atlanta Falcons logo. Players are lined up for a play, with a quarterback in blue preparing to snap the ball. In the bottom-left corner of the screen, a picture-in-picture window shows a fair-skinned man with blond hair wearing a dark blue t-shirt and a white gaming headset. A scoreboard at the top displays \"1st & 10\", team logos, the score \"0\" for both teams, a game clock at \"1:25\", a play clock at \"27\", and a timer at \":09\". The text \"#ULTIMATE TEAM\" is visible in the top-left and top-right corners. Across the sequence, the players shift slightly as the play begins, and the man in the inset window maintains a focused expression."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "19273d2366ed8c4bb0f9f1c179bc3175",
+  "url": "./data/segments/3dN_F08u-KE-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.35,
+    1.05,
+    1.75,
+    2.45
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A low-angle, grayscale perspective captures a scene near a body of water. A person is positioned in the foreground, with only the top of their head visible as they face away from the camera toward a light-colored object or structure partially submerged in the water. A red and white logo containing the number \"13\" is visible in the top right corner of the scene. Thin crosshair lines are centered on the screen. As the sequence progresses, the camera moves forward and slightly upward, shifting the perspective from the water's surface toward the structure. In the final segment, the camera tilts upward, revealing more of the vertical surface of the light-colored structure and a thin dark line extending upward from the water. The overall scene maintains a muted, monochrome tone throughout the movement."
+}

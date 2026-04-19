@@ -1,0 +1,15 @@
+{
+  "video_id": "7f9f0779cb90526ac000c1d8d2709638",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a dimly lit interior scene, where the primary light source is a blue glow emanating from a rectangular screen or monitor. The viewpoint is positioned low, looking slightly upward towards a dark, shadowed environment. A light blue, cushioned surface is visible in the foreground, partially illuminated by the screen. The surrounding area is shrouded in deep shadow, making it difficult to discern specific objects or people. As the sequence progresses, the camera remains stationary, and the blue light persists with minimal change. There are no visible people, legible text, logos, or distinct movements between the frames, creating a static and moody atmosphere. The scene captures a quiet moment in a dark room where the cool blue light creates a stark contrast against the surrounding darkness."
+}

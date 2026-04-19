@@ -1,0 +1,15 @@
+{
+  "video_id": "a7e86701e5559ae435acec18c1b096e1",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-093.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.209,
+    0.626,
+    1.043,
+    1.46
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An overhead view shows the engine bay of a vehicle, focusing on a complex arrangement of metal pipes, hoses, and plastic components. A prominent silver exhaust manifold with multiple tubes curves across the upper center, while a black plastic reservoir with a yellow cap sits toward the bottom left. The scene is dense with mechanical parts, including wiring and various metal housings, all set against a backdrop of dark engine components. Across the sequence, the camera remains stationary, capturing a static shot of the machinery. There are no people present, and no text or logos are visible. The lighting is consistent throughout, and there is virtually no movement or change in the scene, presenting a steady, detailed look at the engine's configuration."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4fdaea5ce6464dff5027a609f338d532",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.781,
+    5.344,
+    8.906,
+    12.469
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video shows a split-screen layout featuring a web page and a person. The left side of the screen displays a product page from \"CASEBREAKS.COM\" for a \"2021 TOPPS TRANSCENDENT COLLECTION HALL OF FAME EDITION BASEBALL HOBBY CASE BREAK #1 *RANDOM HIT*\" priced at \"$499.99\". A yellow \"ADD TO CART\" button is visible at the bottom. The right side of the screen alternates between a close-up of a cardboard box labeled \"TRANSCENDENT\" and a man with a beard wearing a black t-shirt with a yellow circular logo. The man is positioned in front of a background with a \"Jaspy's Case Breaks\" sign and appears to be speaking. At the bottom of the right pane, text reads \"Hit the SUBSCRIBE button down below!\" next to a red \"Subscribe\" button. The scene alternates between showing the product listing and the man and the box."
+}

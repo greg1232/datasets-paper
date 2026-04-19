@@ -1,0 +1,15 @@
+{
+  "video_id": "08063927033c5ee9c4ff832a3f89c839",
+  "url": "./data/segments/3F2rz23IKUk-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.36,
+    10.08,
+    16.8,
+    23.52
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with glasses and light brown hair is giving a presentation in an indoor setting with a plain, light-colored wall behind him. He is wearing a black t-shirt featuring a graphic of a face and the partially legible text \"Knath,\" along with a blue lanyard and an identification badge hanging around his neck. In the foreground, the top of a black chair is visible. Throughout the sequence, the man stands facing forward and speaks, using his hands to gesture. In the beginning, his hands are held close together in front of his chest. As time progresses, he opens his arms wider to emphasize his points before bringing his hands back together and slightly lower by the end of the clip. The background and his attire remain constant as he continues his presentation."
+}

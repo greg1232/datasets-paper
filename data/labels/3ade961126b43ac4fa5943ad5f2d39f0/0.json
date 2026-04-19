@@ -1,0 +1,15 @@
+{
+  "video_id": "3ade961126b43ac4fa5943ad5f2d39f0",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-227.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.401,
+    1.204,
+    2.007,
+    2.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt is speaking into a professional microphone in an indoor setting. His t-shirt features the white printed text \"ION NEVER DO\" above the word \"SUIT\" in larger, stylized letters. The background includes a white mannequin wearing a white shirt, several framed pictures on the wall, and clothing racks. Two logos appear on the screen: a circular logo on the left containing the text \"REALLY\" and a red text logo on the right that reads \"REALLY FLY TOT\". As the sequence progresses, the man continues to speak, with subtle movements in his facial expressions and head position, while the rest of the environment remains static."
+}

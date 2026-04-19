@@ -1,0 +1,15 @@
+{
+  "video_id": "32865ec1c8d2644e1eb7e97421c86db0",
+  "url": "./data/segments/3tUAO4YGuKY-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.825,
+    1.375,
+    1.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A blue background is decorated with several large, yellow, five-pointed stars. The stars are scattered across the field, some partially visible at the edges of the frame. The lighting across the scene is uneven, with soft, hazy, lighter blue circular glows interspersed with darker blue areas, creating a blurred or out-of-focus effect. Throughout the sequence, the arrangement and appearance of the stars and the lighting effects remain constant, with no visible movement, people, objects, or on-screen text. The image remains a static composition of yellow stars on a blue, atmospherically lit background."
+}

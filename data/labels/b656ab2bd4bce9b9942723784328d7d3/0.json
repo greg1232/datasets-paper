@@ -1,0 +1,15 @@
+{
+  "video_id": "b656ab2bd4bce9b9942723784328d7d3",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.333,
+    1.0,
+    1.667,
+    2.333
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large, well-lit indoor hall with neutral-toned walls and recessed ceiling lighting, a man performs a martial arts routine in front of an audience. He is dressed in a loose-fitting blue tunic and matching trousers. He wields a long wooden staff with a red tip, executing a series of dynamic strikes and rotations. In the background, a large crowd of spectators sits behind long tables covered with red cloths, watching the demonstration. As the sequence progresses, the man shifts his weight, transitioning from a standing posture into a deep lunging stance, and then rotates his body to swing the staff in a wide, sweeping arc across the floor. The movement is fluid and powerful, moving him across the blue carpeted surface of the performance area while the seated audience remains still in the background."
+}

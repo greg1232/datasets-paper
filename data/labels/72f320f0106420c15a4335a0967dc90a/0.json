@@ -1,0 +1,15 @@
+{
+  "video_id": "72f320f0106420c15a4335a0967dc90a",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-096.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.138,
+    0.413,
+    0.688,
+    0.963
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a clear plastic protective card case in front of a camera, partially obscuring the view. In the background, a man with a beard wearing a dark blue t-shirt sits at a desk with a computer monitor and a microphone, appearing to record a video. The setting includes a table with a colorful surface and a piece of equipment that looks like a scale. On-screen graphics are visible, featuring the red and yellow logo \"JASPYS\" and the website \"CASEBREAKS.COM\". A smaller picture-in-picture window shows the man speaking. As the sequence progresses, the hand subtly shifts the plastic case, changing the perspective and reflections on the plastic surface, while the man in the background continues his activity. The layout of the equipment and the on-screen text remains consistent throughout the scene."
+}

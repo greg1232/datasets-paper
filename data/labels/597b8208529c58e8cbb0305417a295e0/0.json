@@ -1,0 +1,15 @@
+{
+  "video_id": "597b8208529c58e8cbb0305417a295e0",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-096.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.259,
+    0.776,
+    1.293,
+    1.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical setting, a person wearing blue scrubs and blue nitrile gloves is reviewing medical documentation. They hold a piece of paper with printed charts and a smartphone displaying a medical image and text. As the sequence progresses, the person moves the phone over the paperwork, shifting their focus from the physical document to the screen. The smartphone displays what appears to be a radiographic image and a list of medical data. In the lower frames, the person uses their finger to point to a specific section of the printed chart while still holding the phone. Each frame contains a purple silhouette logo and the text \"Day 3\" inside a purple circle on the left, and the text \"Sim Week\" next to a purple bar chart icon on the right. The background is a neutral-toned surface where more medical papers are laid out."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a5bd1e4b17d3408354f2491dd5af4fe5",
+  "url": "./data/segments/3i5-ZukC--g-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.48,
+    1.439,
+    2.398,
+    3.358
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and a beard sits in a room facing the camera. He is wearing a black t-shirt featuring a NASA logo above a graphic of a space shuttle. Behind him is a wall decorated with a wooden American flag and a dark movie poster that reads \"UNIVERSAL SOLDIER\". To his left, a black microphone is partially visible. Throughout the clip, the man is speaking, his facial expressions shifting as he talks. He begins by gesturing with both hands held up in front of his chest, and by the end of the sequence, his hands have lowered slightly and he is captured mid-sentence with his mouth open. The camera remains stationary, and the lighting and background remain consistent across the scene."
+}

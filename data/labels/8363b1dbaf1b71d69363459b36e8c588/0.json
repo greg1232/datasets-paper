@@ -1,0 +1,15 @@
+{
+  "video_id": "8363b1dbaf1b71d69363459b36e8c588",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.075,
+    0.225,
+    0.375,
+    0.525
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser open to a presentation featuring a complex conceptual map on a black background. The map consists of various circular icons connected by blue lines, with several text labels such as \"Interdependence,\" \"Social Justice,\" and \"Inclusive Ideas.\" Prominent rectangular graphics on the left include a sign that says \"STOPPING BEER\" and another that reads \"ACTIVISM FOR CHANGE.\" In the top right corner of the browser window, a small video inset shows a man wearing a dark baseball cap and a dark shirt, appearing to speak. The browser's address bar displays \"blackboard.com/my learning\" and several other open tabs. Across the sequence of frames, the visual state remains static; the conceptual map, the on-screen text, and the man in the video inset do not change their positions or actions, indicating a still moment from a recorded presentation."
+}

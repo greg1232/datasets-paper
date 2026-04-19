@@ -1,0 +1,15 @@
+{
+  "video_id": "278759d08dbbdf7ce5586e58bcd2d5ab",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-135.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.0,
+    3.333,
+    4.667
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair is centered in the frame, wearing a purple and white striped collared shirt and large black over-ear headphones. She is positioned in an indoor setting, with a light-colored curtain hanging behind her to the left and a neutral-toned wall to the right. In the bottom left corner of each frame, there is small, partially legible on-screen text that reads \"Penny Hartwell\". Across the sequence, the woman remains in a stationary position, looking directly toward the camera. Her expression is neutral, and she is captured in the process of speaking, with her mouth slightly open and shifting positions as she talks. There are no other people or significant objects visible in the scene, and the background remains static throughout the clip."
+}

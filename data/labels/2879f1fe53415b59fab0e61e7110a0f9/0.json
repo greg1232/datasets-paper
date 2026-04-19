@@ -1,0 +1,15 @@
+{
+  "video_id": "2879f1fe53415b59fab0e61e7110a0f9",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-151.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.144,
+    6.431,
+    10.719,
+    15.007
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair and a beard is recording in a studio, wearing black headphones and a dark grey shirt. He is positioned behind a professional microphone on a boom arm, with a grey acoustic foam wall in the background. An inset window on the right side of the screen displays a white pickup truck parked on a dirt surface under a cloudy sky. Throughout the sequence, the man's facial expressions shift; he begins by looking slightly upward and to the side, then transitions into a wide smile with his teeth showing, before settling into a neutral expression while speaking into the microphone. The background and the inset image of the truck remain static as the man's head and facial expressions move slightly across the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6ed629c3157ead2544a4ffa8839d52ba",
+  "url": "./data/segments/3Z229_lKLpk-Scene-100.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.205,
+    0.615,
+    1.025,
+    1.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene takes place in a formal assembly hall with tiered wooden seating. Numerous people are seated in rows, primarily men wearing traditional white Indian shirts or kurtas, with some wearing saffron robes and others in business casual attire. A few women are present, wearing colorful saris. The individuals are seated in a stationary manner, mostly looking forward or slightly to the side with neutral expressions. In the center of the frame, one man is seen resting his chin on his hand in a pensive gesture. The lighting is bright and consistent throughout the assembly. There is no visible equipment, on-screen text, or logos. The scene remains virtually static across the sequence, with only minor, subtle shifts in the posture and head positions of the attendees, indicating a moment of quiet observation or listening during a formal proceeding."
+}

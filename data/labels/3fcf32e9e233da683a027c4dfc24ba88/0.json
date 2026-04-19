@@ -1,0 +1,15 @@
+{
+  "video_id": "3fcf32e9e233da683a027c4dfc24ba88",
+  "url": "./data/segments/3iUTkJy84EY-Scene-133.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.65,
+    1.95,
+    3.25,
+    4.55
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is centered against a plain dark gray background. She wears a light green top featuring red floral embroidery along the neckline and a simple dark beaded necklace. Throughout the sequence, she speaks and gestures with her hands, which are raised in front of her chest. In the first frame, she has her mouth open as she speaks; by the second, her expression is more neutral. The third frame shows her continuing to speak with a focused gaze, and in the final frame, she maintains her posture while continuing her explanation. A small circular logo with the text \"NPTEL\" is visible in the bottom-left corner of the first and third frames, and in the bottom-center of the second and fourth frames. The lighting remains consistent, and the only movement is the woman's facial expressions and slight hand gestures."
+}

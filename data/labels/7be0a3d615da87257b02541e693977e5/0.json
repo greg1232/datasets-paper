@@ -1,0 +1,15 @@
+{
+  "video_id": "7be0a3d615da87257b02541e693977e5",
+  "url": "./data/segments/3iUTkJy84EY-Scene-309.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.565,
+    13.695,
+    22.825,
+    31.955
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a sequence of credit screens overlaid on a blurred background of multiple people in a grid-like video call. The NPTEL logo, a red and yellow circular emblem, appears on the left side of the frames. The initial sequence lists \"Teaching Assistants\" including \"Bella Tony,\" \"Tasneem Shaikh,\" \"Vijay Kedare,\" \"Vehaan,\" and \"Ravi Paswan,\" alongside a \"Course Production Team.\" The scene then transitions to list \"Development\" credits for \"Sandeep Lavhate,\" \"Omkar Kakade,\" and \"Vinayak Raut,\" followed by \"Management\" credits for \"Bharati Sarang\" and \"Nisha Thakur,\" with \"Web Team\" mentioned. The sequence continues to show \"Project Manager\" \"Bharati Sakpal.\" The final frame displays the text \"Created by National Programme on Technology Enhanced Learning (NPTEL) Center for Distance Engineering Education Programme (CDEEP) Indian Institute of Technology Bombay (IIT Bombay).\" The background remains a static, muted collage of people's faces throughout the transitions."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "9e08bde1e3358de9bc901b8615caf65a",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view captures the rear of a white vehicle parked on a concrete driveway. In the background, the undercarriage and tire of another dark-colored vehicle are visible. A small, metallic, robotic device with wheels and a sensor array is on the ground. As the scene progresses, the robot moves slowly across the concrete surface, traveling from the left side of the frame toward the center. The white car remains stationary throughout the sequence, with its rear trunk area occupying a significant portion of the foreground. No people are present in the frames, and there is no legible on-screen text or logos. The lighting is bright and natural, casting shadows of the vehicles and the robot onto the pavement."
+}

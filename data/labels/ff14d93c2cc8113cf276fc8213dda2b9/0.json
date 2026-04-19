@@ -1,0 +1,15 @@
+{
+  "video_id": "ff14d93c2cc8113cf276fc8213dda2b9",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.146,
+    0.438,
+    0.729,
+    1.021
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two individuals in military camouflage gear and helmets walk along a dirt path in a rural, green setting with trees in the background. Both people carry gear on their backs and have weapons slung over their shoulders. One person walks slightly ahead of the other, moving away from the camera. As the sequence progresses, the two figures continue walking forward down the path. The text \"Hero Ukraine\" is displayed in the upper-left corner of the scene, and a red and white logo containing the number \"13\" appears in the upper-right corner. The overall lighting is overcast, and the movement is a steady forward progression through the wooded landscape."
+}

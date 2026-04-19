@@ -1,0 +1,15 @@
+{
+  "video_id": "439f9730323652da147d25ec28dbfb65",
+  "url": "./data/segments/3Z229_lKLpk-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.495,
+    1.485,
+    2.475,
+    3.465
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with short white hair and a white beard stands behind a wooden podium, delivering a speech. He wears a light-colored, long-sleeved shirt paired with a matching sleeveless Nehru jacket. Two microphones are positioned in front of him on the podium. The background consists of a textured, dark green wall with a geometric, recessed pattern of cross-like shapes. To the right of the man, a tall, slender glass vase containing red flowers sits atop a wooden pedestal. As the sequence progresses, the man remains in a fixed position, slightly shifting his head and gaze while speaking. His facial expressions change subtly, and his mouth moves as he addresses an unseen audience. No text, logos, or other people are visible in the scene."
+}

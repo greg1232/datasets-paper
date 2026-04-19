@@ -1,0 +1,15 @@
+{
+  "video_id": "2afc7135e615e2022483807c67308802",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-272.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    20.283,
+    60.848,
+    101.414,
+    141.979
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and a mustache, wearing a white shirt and a dark embroidered vest, stands behind a podium and speaks into a microphone. He is positioned in front of a background of light-brown slatted walls. In the foreground, several people are seen from the back, including individuals with long brown hair and one person with short, curly white hair. Some of these observers wear purple clothing. The text \"ORCA\" is visible as a white logo on the right side of the scene. As the sequence progresses, the man continues to speak, shifting his posture slightly and looking toward the audience. His hand movements and facial expressions change subtly as he delivers his address, while the observers remain seated and attentive in the foreground."
+}

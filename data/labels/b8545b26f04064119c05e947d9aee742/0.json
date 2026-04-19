@@ -1,0 +1,15 @@
+{
+  "video_id": "b8545b26f04064119c05e947d9aee742",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.462,
+    0.771,
+    1.079
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a series of screen captures from a computer terminal running a command-line interface. The setting is a dark-themed development environment with a top menu bar containing the text \"Activities\" and \"Terminal\" alongside a clock showing \"Oct 28 00:22\". The main window is filled with white and light blue text on a black background, showing complex technical logs and Kubernetes commands. Legible text includes \"kubectl create -f .fluent-bit configmap.yaml\", \"kubectl create -f .fluent-bit-ds nodekube.yaml\", and various log entries starting with \"mgctl tail routine skeleton\". As the sequence progresses, the screen remains mostly static, showing the same set of terminal windows and logs. There are slight shifts in the window layout, but the content of the code and the system status messages remain consistent across the frames."
+}

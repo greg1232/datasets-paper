@@ -1,0 +1,15 @@
+{
+  "video_id": "7a8c2fa4aebc321efe46e945ee73ff2b",
+  "url": "./data/segments/3mmDnftP1M8-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.031,
+    30.094,
+    50.156,
+    70.219
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair, wearing a light blue button-down shirt and a black over-ear headset with a microphone, is positioned against a plain, light-colored wall. In the beginning, he speaks with an open expression, gesturing by bringing his palms together in front of his chest. As the sequence progresses, his expression becomes more solemn and focused, and he lowers his hands. By the end, he is looking downward with his eyes nearly closed, his face appearing contemplative or tired. The text \"Ashish Raichur\" is visible in the lower-left corner of each scene. The lighting remains consistent throughout, and the man remains centered in the frame while his facial expressions and hand gestures shift from active engagement to a quiet, downward gaze."
+}

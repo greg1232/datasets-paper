@@ -1,0 +1,15 @@
+{
+  "video_id": "f10c0005e458316a3d96cbac686efc96",
+  "url": "./data/segments/3QD9oO6sRns-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.087,
+    0.262,
+    0.438,
+    0.612
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand interacts with a white box of sports cards placed on a black surface. In the background, several more sealed boxes are stacked, and a person wearing a black t-shirt and a black baseball cap is visible in a small picture-in-picture window in the lower right. The surface features a banner with the text \"SEBREAKS\" in large white letters, and a smaller logo for \"JASPYS\" appears near the picture-in-picture window. The boxes display the words \"CLEARLY AUTHENTIC\" on their sides. As the sequence progresses, the hand reaches out and begins to slide or lift the top white box, moving it slightly across the surface. The background remains static throughout the frames, while the hand's movement is the primary change in the scene, shifting from the left side of the box toward the center."
+}

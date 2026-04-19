@@ -1,0 +1,15 @@
+{
+  "video_id": "c1062af1052f96918fb9619aadb70a12",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-082.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.706,
+    5.118,
+    8.529,
+    11.941
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with gray hair and a black shirt is captured from the chest up against a plain white wall. He is wearing a small black earpiece in his right ear. In the upper right corner of each scene, the text \"Tiger-TV\" is displayed. To the man's right, a blue and white object rests on a surface. Throughout the sequence, the man shifts his gaze and facial expression. He begins by looking toward the left with his mouth slightly open. He then turns his head to face forward, offering a slight smile. His gaze then drops downward as he looks toward the floor, before finally returning his eyes to the camera with a neutral expression. The camera remains stationary throughout these movements, keeping the man centered in the shot."
+}

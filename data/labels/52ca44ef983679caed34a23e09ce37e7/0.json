@@ -1,0 +1,15 @@
+{
+  "video_id": "52ca44ef983679caed34a23e09ce37e7",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-716.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.501,
+    2.502,
+    3.503
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the text \"ION NEVER DO SHIT AT WORK\" is speaking into a black microphone in a room filled with framed photographs and clothing racks. A white mannequin wearing a white shirt stands in the background. Small logos appear in the bottom corners of the scene, including one that reads \"BORN REALLY TOT.\" As the scene progresses, the man speaks with varying facial expressions and gestures. He begins with a neutral expression, then looks down slightly, then looks back toward the microphone, and finally gestures with his right hand while speaking. The background and the man's position remain constant across the sequence, with the only movement being his head and hand as he talks."
+}

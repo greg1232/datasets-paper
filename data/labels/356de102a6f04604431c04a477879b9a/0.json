@@ -1,0 +1,15 @@
+{
+  "video_id": "356de102a6f04604431c04a477879b9a",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.812,
+    1.137
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a clear plastic protective case in the foreground, partially obscuring the view of a room. In the background, a man with a beard, wearing a black t-shirt, sits behind a table. On the table, there is a white box and various items. Behind the man, a yellow and black machine is visible. The screen features several overlays, including a logo that says \"JASPYS\" and the website \"CASEBREAKS.COM\" appearing twice in each scene. Another smaller logo shows \"JASPYS\" above the text \"Sports Cards & More.\" Across the sequence, the hand moves the clear plastic case slightly, shifting the perspective and causing light to reflect off the surface. The man remains seated, looking toward the camera and speaking, while the background environment and on-screen graphics remain consistent throughout the short clip."
+}

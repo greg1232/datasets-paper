@@ -1,0 +1,15 @@
+{
+  "video_id": "b8797ab8e99b3a3f49610ac8ced5b82e",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-039.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.462,
+    0.771,
+    1.079
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting with dark walls, several individuals are present, including a man in a dark suit and multiple people wearing olive-green military uniforms. Across the sequence, the military personnel are positioned in the center and foreground, while the man in the suit remains in the background. In the initial frames, the soldiers are seen standing and interacting, with some facing away from the camera. As the scene progresses, the individuals shift their positions slightly, and some lean forward or move within the space. The text \"Hero Ukraine\" is centered on the screen throughout the clip, and a red \"13\" logo appears in the upper corners. Dark chairs are visible in the lower foreground of the frames. The overall scene captures a group of military and civilian figures in a formal or official environment."
+}

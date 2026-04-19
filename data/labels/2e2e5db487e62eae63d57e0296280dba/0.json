@@ -1,0 +1,15 @@
+{
+  "video_id": "2e2e5db487e62eae63d57e0296280dba",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.188,
+    0.562,
+    0.938,
+    1.312
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large blue and white aircraft, identified as Air Force One, is positioned on a tarmac against a backdrop of distant mountains and a town. The plane is viewed from a low, front-quarter angle, showcasing its engines and nose. In the initial sequence, the image is dim, then brightens as the plane remains stationary. A small rectangular yellow and black graphic briefly appears below the aircraft before disappearing. In the final sequence, a wide banner with a white background and bold black text reading \"AIR FORCE ONE\" appears at the bottom of the screen. A circular red and white logo containing the number \"13\" is visible in the upper right corner of every frame. The environment remains static throughout the clip, with no people visible."
+}

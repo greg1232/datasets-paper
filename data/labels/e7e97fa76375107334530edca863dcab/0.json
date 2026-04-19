@@ -1,0 +1,15 @@
+{
+  "video_id": "e7e97fa76375107334530edca863dcab",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-331.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.258,
+    0.775,
+    1.292,
+    1.808
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown sorting through a stack of sports cards. In the upper left, the person holds a small pile of cards. As the sequence progresses, they slide a card out from the deck to reveal more of the image. The cards feature athletes in action poses. A small picture-in-picture overlay in the lower portion of the scene shows a man with a beard wearing a dark blue t-shirt sitting in a chair. On-screen logos for \"JASPYS\" and the website \"CASEBREAKS.COM\" are visible in the upper center and right. The background behind the cards is a dark, flat surface, while the area behind the man in the overlay shows a room with sports memorabilia and equipment. The hands move the cards fluidly, flipping through them to display different faces of the collectible cards."
+}

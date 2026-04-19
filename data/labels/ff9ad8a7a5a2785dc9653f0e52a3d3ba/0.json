@@ -1,0 +1,15 @@
+{
+  "video_id": "ff9ad8a7a5a2785dc9653f0e52a3d3ba",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-471.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.144,
+    0.431,
+    0.719,
+    1.006
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair wearing a black t-shirt is seen in a small picture-in-picture window, positioned in front of a computer monitor and a white brick wall. He speaks and gestures with his hands throughout the sequence. The main screen initially features a large, metallic, 3D logo reading \"U1\" set against a green and blue digital background with horizontal lines. A bright green glow emanates from the base of the logo. As the scene progresses, the background shifts abruptly from the digital \"U1\" display to a dynamic, cinematic scene showing a dark structure amidst glowing blue-green crystals and a swirling white energy vortex. In the final frame, the man in the inset window continues to react, raising his hand as the chaotic environment unfolds on the main screen."
+}

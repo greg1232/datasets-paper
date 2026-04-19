@@ -1,0 +1,15 @@
+{
+  "video_id": "adef764fd67621b4105481986f2048fc",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-082.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.538,
+    0.897,
+    1.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Inside a vehicle, a person's hand is seen interacting with the center console. The console features wood-grain panels surrounding a control area with several buttons and a screen. A gear shifter with a wooden knob is positioned to the right. In the initial moments, the person's hand reaches toward the buttons on the upper left side of the console. As the sequence progresses, the hand moves slightly, with the thumb pressed against the panel. The hand then shifts position, moving downward and away from the buttons. By the end of the clip, the hand has moved out of the primary center area, revealing a circular dial and a small slot on the lower part of the console interface. The lighting remains consistent, casting highlights on the person's skin and the polished wooden surfaces of the vehicle's interior."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "39a5b7524fd69c55ac1ab64ef7276dd7",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-306.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.725,
+    8.175,
+    13.625,
+    19.075
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of video conference calls features a grid of multiple participants in various indoor settings, including home offices with bookshelves and curtains. The group consists of diverse individuals, mostly men, wearing casual attire such as t-shirts and button-down shirts. Some people are speaking, gesturing with their hands, or listening attentively. Legible on-screen name tags include \"Jerry Nichols,\" \"Howard Silverman,\" \"Patrice Murzyn,\" \"Era_collaborateur,\" \"Jim Burke,\" \"Seymour Hersh,\" \"Fulvio Sabatini,\" \"Jane Juan de Can Via,\" \"Bill Gatta,\" \"Greg Carmichael,\" \"Franco Pittoni,\" \"Michael Obrent,\" and \"Judith Besham.\" The scene repeats across the sequence with minimal changes in the layout of the participants, though some individuals shift their posture, change their facial expressions, or move slightly within their video frames. The overall environment is a professional yet remote meeting conducted via a digital communication platform."
+}

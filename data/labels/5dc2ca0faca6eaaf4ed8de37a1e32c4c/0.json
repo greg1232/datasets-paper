@@ -1,0 +1,15 @@
+{
+  "video_id": "5dc2ca0faca6eaaf4ed8de37a1e32c4c",
+  "url": "./data/segments/3_n4Uj9iLyU-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    14.727,
+    44.182,
+    73.636,
+    103.09
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation takes place in a professional setting, alternating between a speaker on a stage and digital slides. The speaker, a man wearing a white long-sleeved shirt and dark trousers, stands on a dark stage next to a high podium draped in black fabric. He is positioned against a backdrop of dark curtains. Interspersed with the live footage are presentation slides. One slide features a stylized blue bird logo with a red circle above it. Another slide displays a dark blue technical interface labeled \"SurCloud\" with various data panels and graphs, topped with the phrase \"Easy to Use\". A third slide shows a blue background with architectural silhouettes and the logo \"openstack summit\". The video sequences through these views, shifting from the speaker's presentation on stage to the detailed software interface and event branding."
+}

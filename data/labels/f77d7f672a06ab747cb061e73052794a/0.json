@@ -1,0 +1,15 @@
+{
+  "video_id": "f77d7f672a06ab747cb061e73052794a",
+  "url": "./data/segments/3E6ctN22V7k-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.24,
+    0.72,
+    1.2,
+    1.68
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young boy with a shaved head is the central focus in a classroom setting, wearing a green and yellow striped collared shirt. He sits at a wooden desk, looking slightly to the right with a serious expression. Behind him, other students are visible, including a girl and another boy; one student rests their head on their hand. The background consists of a textured, greyish-brown wall. Across the bottom of the scene, white on-screen text reads, \"My name is Patience, and I fled my country due to the lack of security.\" Throughout the sequence, the boy remains in a similar profile position, with slight movements of his head and lips as if speaking. The camera remains static, capturing the subtle shifts in the children's expressions and postures while the subtitle remains constant."
+}

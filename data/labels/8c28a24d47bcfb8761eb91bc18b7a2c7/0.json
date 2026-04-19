@@ -1,0 +1,15 @@
+{
+  "video_id": "8c28a24d47bcfb8761eb91bc18b7a2c7",
+  "url": "./data/segments/3TQScsCOS2k-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.17,
+    0.51,
+    0.85,
+    1.19
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Dwayne Johnson and Kevin Hart are seated in front of a promotional backdrop for the film \"JUMANJI WELCOME TO THE JUNGLE,\" which depicts a lush, green jungle landscape. Dwayne Johnson wears a dark navy long-sleeved shirt and a thin gold chain, while Kevin Hart wears a black long-sleeved shirt and glasses. Across the sequence, Johnson is the primary focus, gesturing with his hands as he speaks. Initially, he sits relatively still, but he then opens his arms wide in an expressive gesture. As the scene progresses, he brings his hand up toward his face, touching his nose or cheek. Meanwhile, Hart remains seated beside him, listening attentively with a neutral expression, occasionally shifting his posture slightly. The \"JUMANJI WELCOME TO THE JUNGLE\" logo remains constant in the background throughout the clip."
+}

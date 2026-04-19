@@ -1,0 +1,15 @@
+{
+  "video_id": "96d819935acf83b954f1c3816c02f294",
+  "url": "./data/segments/3hLeTO8SC3U-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.184,
+    0.551,
+    0.918,
+    1.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video depicts a dark blue, abstract digital environment filled with translucent geometric shapes and floating particles. The scene begins with a minimalist view of overlapping rectangles and faint grid lines in varying shades of deep blue. As time progresses, the perspective shifts, and the space becomes populated with numerous small, glowing white and blue square particles that drift through the void. These particles cluster together, creating a sense of depth and movement. The translucent rectangular planes continue to float and overlap, shifting in position to create a dynamic, three-dimensional architectural effect. There are no people, legible text, or recognizable objects present; the visual focus remains entirely on the interplay of light, geometry, and floating digital fragments against the dark blue backdrop."
+}

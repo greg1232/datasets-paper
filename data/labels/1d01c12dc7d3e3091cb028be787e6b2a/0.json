@@ -1,0 +1,15 @@
+{
+  "video_id": "1d01c12dc7d3e3091cb028be787e6b2a",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-405.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.208,
+    0.625,
+    1.042,
+    1.458
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played in a large stadium during the 3rd quarter with the score \"14\" to \"7\". The game clock shows \"0:37\" with \"47\" seconds remaining in the play. Players in white uniforms and black uniforms are positioned on a green field. A quarterback in a white jersey throws a pass, and an on-screen overlay appears stating \"PERFECT ACCURACY\" and \"BULLET PASS\" over a circular green graphic. In a small inset video window, a man with blond hair wearing a dark blue shirt is reacting to the play. As the action progresses, the receiver in white catches the ball while being pursued by players in black uniforms. The \"PERFECT ACCURACY\" text remains visible as the play develops toward the end zone. The \"EA SPORTS\" logo is visible in the top right corner of the game interface."
+}

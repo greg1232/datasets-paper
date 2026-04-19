@@ -1,0 +1,15 @@
+{
+  "video_id": "05ea6536cefae149968668adf4f46ec5",
+  "url": "./data/segments/3Kxl1O310k8-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.13,
+    3.39,
+    5.65,
+    7.91
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"Identify housing needs\" is displayed, featuring text and imagery. The slide includes the instructions, \"Kick off your work with current data showing the local housing landscape.\" and \"Make sure data is not collected in a vacuum.\" Below this text is an image of two industrial vacuum cleaners: a red one and a blue one labeled \"Vacmaster.\" A large yellow \"no\" symbol, consisting of a circle with a diagonal slash, is superimposed over the red vacuum cleaner, visually illustrating the pun regarding data collection \"in a vacuum.\" In the upper right corner of the slide, a small inset video shows a person with short dark hair wearing a dark garment, positioned behind a podium. The scene remains static across the frames, with no changes in the text, the equipment imagery, or the person in the inset video. The \"MHP\" logo appears in the bottom left and right corners of the presentation area."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "aa30094abdd39d9b8f597569abca8db7",
+  "url": "./data/segments/3P1vSUbet40-Scene-0897.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.679,
+    5.036,
+    8.394,
+    11.751
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark skin and glasses is seated in a studio setting, wearing a white button-down shirt, a red bow tie, tan suspenders, and a large, spiked grey wig. He is speaking into a black microphone on a boom arm, wearing black headphones. The background is filled with numerous small, framed photographs on a wall and a white shelf with various items. A logo featuring a microphone and the text \"BOSS TALK 101 PODCAST\" appears as an overlay on the screen. Across the sequence, the man remains in the same position, talking and gesturing with his right hand, which is visible moving near his chest. His facial expressions shift slightly as he speaks, though his overall posture and the surrounding environment remain constant."
+}

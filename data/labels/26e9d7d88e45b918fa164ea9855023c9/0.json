@@ -1,0 +1,15 @@
+{
+  "video_id": "26e9d7d88e45b918fa164ea9855023c9",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-082.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.52,
+    7.56,
+    12.6,
+    17.64
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This sequence shows a series of presentation slides for a course on \"CRYOGENIC ENGINEERING.\" The top slides feature an \"Assignment\" section containing Problem 1, which asks to \"Determine the following for a Linde \u2013 Hampson system with Air as working fluid when the system is operated between 1.013 bar (1 atm) and 202.6 bar (200 atm) at 300 K. The effectiveness of HX is 100%.\" Listed requirements include \"Ideal Work requirement,\" \"Liquid yield,\" \"Work/unit mass compressed,\" and \"Work/unit mass liquefied.\" Below this, the text \"FOM\" is written in a light gray font. The bottom slides present Problem 3, which states, \"Repeat the Problem 1 and Problem 2 the Linde \u2013 Hampson system when the heat exchanger effectiveness is 90%. Compare and comment on the results.\" Each slide displays the NPTEL logo and credits \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\""
+}

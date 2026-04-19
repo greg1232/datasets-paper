@@ -1,0 +1,15 @@
+{
+  "video_id": "5ea3d0686c4ead34fb4652478be50517",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-274.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.098,
+    0.294,
+    0.49,
+    0.685
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is shown on a green turf field with white yard markers, where several players wearing white uniforms and a few in black uniforms are present. In a small inset window, a man with blond hair and a blue shirt speaks. In the center of the action, a player in a black jersey, number 29, interacts with players in white. Circular green and red indicators appear on the turf around the players, along with labels such as \"Pierre Paul\" and \"Murray.\" Small yellow circles containing the letter \"A\" track the movements of specific players. As the sequence progresses, the player in the black jersey tackles a player in white, bringing him down to the turf. The players in the background remain relatively stationary, and the man in the inset window continues to speak while the action on the field unfolds."
+}

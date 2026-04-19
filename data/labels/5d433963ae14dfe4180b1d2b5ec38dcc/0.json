@@ -1,0 +1,15 @@
+{
+  "video_id": "5d433963ae14dfe4180b1d2b5ec38dcc",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-099.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.459,
+    1.376,
+    2.294,
+    3.212
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A medical simulation takes place in a clinical room equipped with monitors, shelving, and medical supplies. Several individuals are gathered around a person lying on a bed. One person wears a black jacket, another wears a grey sweatshirt, and three others are dressed in blue medical scrubs; most are wearing blue surgical masks and gloves. In the initial frames, the group is positioned around the patient, with the individual in the grey sweatshirt and one person in blue scrubs leaning over the bed. As the sequence progresses, the person in the grey sweatshirt and the person in blue scrubs on the right move closer to the patient to perform a procedure. On-screen text in the lower corners of each frame reads \"Day 3\" and \"Sim Week,\" accompanied by a small purple logo. The scene remains in the same location throughout, focusing on the team's coordinated interaction with the patient."
+}

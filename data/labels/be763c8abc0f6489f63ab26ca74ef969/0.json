@@ -1,0 +1,15 @@
+{
+  "video_id": "be763c8abc0f6489f63ab26ca74ef969",
+  "url": "./data/segments/3tUAO4YGuKY-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    37.2,
+    111.6,
+    186.0,
+    260.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a dark suit, white shirt, and a red tie, delivers a presentation in front of a backdrop featuring the \"IIEA\" logo and the website \"iiea.com\". In the initial close-up shots, he speaks with an active expression and uses hand gestures to emphasize his points. As the scene transitions to a wider shot, it is revealed that he is standing at a dark wood podium in a room with a white curtain and a mirror on the wall. Behind him, a screen displays text that includes \"Jonathan Quinn\", \"investment Strategy Group\", and \"The End of the West | - The Stakes for the US and Europe in a World of Disorder\". An audience of several people, mostly wearing dark business attire, is visible in the foreground, listening to the speaker. The \"iiea.com\" watermark appears consistently in the bottom left of the scenes."
+}

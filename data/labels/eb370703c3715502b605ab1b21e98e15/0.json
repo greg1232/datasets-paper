@@ -1,0 +1,15 @@
+{
+  "video_id": "eb370703c3715502b605ab1b21e98e15",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.433,
+    1.3,
+    2.167,
+    3.033
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a kitchen setting, a person prepares a mixture in a large metal mixing bowl placed on a wooden surface. The logo and text \"UCAR CENTER FOR SCIENCE EDUCATION\" appear in the top left corner of each scene. The process begins with ingredients being poured into the bowl, creating a pile of light-colored, textured food. To the right of the bowl, there is a white plate and a small red bowl, both containing similar beige-colored ingredients. As the sequence progresses, the pouring stops, and the person's hands enter the frame to mix the contents of the bowl manually. The person is wearing a light-colored sleeve. The scene remains consistent in its location and objects, focusing solely on the action of adding ingredients and then mixing them together within the metal bowl."
+}

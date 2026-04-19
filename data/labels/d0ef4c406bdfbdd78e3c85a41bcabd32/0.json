@@ -1,0 +1,15 @@
+{
+  "video_id": "d0ef4c406bdfbdd78e3c85a41bcabd32",
+  "url": "./data/segments/3P5zYKAFzh4-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static scene of a dense forest of leafless, slender trees under a clear blue sky. The vertical brown trunks create a repetitive pattern across the frame, with smaller branches and brush visible in the background. The lighting suggests a bright, sunny day, casting subtle shadows across the landscape. There are no people, animals, vehicles, or man-made objects visible in the scene. No text or logos appear on the screen. Across the sequence, the camera remains completely still, and there is no visible movement in the trees or the sky, resulting in a motionless view of the wintry woodland environment."
+}

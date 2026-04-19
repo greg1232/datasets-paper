@@ -1,0 +1,15 @@
+{
+  "video_id": "4b5eb75d5a60cf328f9ba2183f90c9a5",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.528,
+    7.583,
+    12.638,
+    17.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is working on a green all-terrain vehicle (ATV) inside a garage or workshop. The sequence begins with a close-up view of the ATV's chassis and mechanical components, showing metal frames and wiring. The view then shifts to a wider angle, revealing a large, rusty metal axle and a drive chain. As the perspective changes, a green plastic body panel with the text \"FOREMAN\" is visible, alongside one of the vehicle's knobby tires. In the final shot, a person's hand points toward the drive chain and the rear axle assembly, which is connected to the engine area. The surrounding environment includes other vehicle parts, such as additional tires stacked in the background and a red tool chest, indicating a mechanical repair setting."
+}

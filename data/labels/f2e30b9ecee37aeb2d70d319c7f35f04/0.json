@@ -1,0 +1,15 @@
+{
+  "video_id": "f2e30b9ecee37aeb2d70d319c7f35f04",
+  "url": "./data/segments/3Smz5pevbI4-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.473,
+    7.42,
+    12.367,
+    17.313
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a static presentation slide set against a black background. At the top, a red banner contains the centered white text \"The elephant in the mind\". Below this banner is a white area featuring a photograph of an elephant walking forward, with a small person sitting atop its head. To the left of the elephant, a small circle containing the number \"1\" is placed above a white text box that reads \"experimentally test interventions\". To the right of the elephant, a small circle containing the number \"2\" is placed above a white text box that reads \"measure the elephant\" in red text. Throughout the sequence, there are no changes in the setting, the positioning of the text, or the imagery, resulting in a completely still visual."
+}

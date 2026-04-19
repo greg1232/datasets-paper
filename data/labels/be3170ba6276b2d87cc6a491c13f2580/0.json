@@ -1,0 +1,15 @@
+{
+  "video_id": "be3170ba6276b2d87cc6a491c13f2580",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-436.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.752,
+    2.256,
+    3.76,
+    5.265
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and light-colored shirt appears in a small video overlay in the bottom left of a screen showing a digital sports card interface for a player named \"DEXTER LAWRENCE II\". The card indicates the player is a \"TE\" with an \"OVR\" of \"90\" and is part of the \"R'97\" series. The interface features various menu options such as \"Compare\", \"Promote to starter\", \"Add to sets\", \"Auction\", and \"Trade\", along with a \"HISTORY\" section and a \"DESCRIPTION\" that reads \"Mut 23 Zero Chll Elite OOP\". In the initial frames, the man is reacting with a surprised expression. As the scene progresses, the interface transitions to show a detailed breakdown of attributes, listing numbers like \"80\", \"91\", \"72\", \"62\", \"70\", and \"95\", alongside general player information including a height of \"6' 4\"\" and a weight of \"342\". The man continues to react emotionally as the detailed statistics are revealed."
+}

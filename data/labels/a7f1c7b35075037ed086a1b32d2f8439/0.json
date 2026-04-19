@@ -1,0 +1,15 @@
+{
+  "video_id": "a7f1c7b35075037ed086a1b32d2f8439",
+  "url": "./data/segments/3Z229_lKLpk-Scene-196.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.44,
+    1.32,
+    2.2,
+    3.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, formal assembly hall with an ornate, patterned ceiling and tan walls is filled with a crowd of people seated in curved rows facing a central stage. The attendees are dressed in a variety of colorful attire, with many wearing traditional white garments. On the stage, a large, light-blue textured backdrop features a small emblem in the center. Two large screens flank the backdrop, displaying a live feed of the room. A single speaker stands behind a podium on the stage. Throughout the sequence, the scene remains static; the people in the audience remain seated, and the speaker remains in position behind the podium. There are no visible changes in movement, lighting, or on-screen text across the frames, capturing a moment of focused attention during a presentation or official meeting."
+}

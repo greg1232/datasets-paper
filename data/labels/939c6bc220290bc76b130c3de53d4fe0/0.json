@@ -1,0 +1,15 @@
+{
+  "video_id": "939c6bc220290bc76b130c3de53d4fe0",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.263,
+    0.788,
+    1.314,
+    1.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, several people wearing scrubs and face masks are gathered around a simulated patient. In the beginning, a person in pink scrubs and yellow gloves is focused on a task near a patient's head, while another person in blue scrubs stands nearby. To the right, a person in black clothing and blue gloves reaches toward a wall-mounted phone and equipment. As the sequence progresses, the focus shifts to a close-up of two women; one is in blue scrubs and the other is in a black jacket, both wearing blue face masks. The woman in black appears to be interacting with the wall-mounted phone. The environment contains various medical supplies, including yellow bins and monitoring equipment. The text \"Sim Week\" appears as a watermark on the bottom right of the frames, accompanied by smaller, less legible text below it."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a23e8458f6856af7843ccd69b83c325a",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-056.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.348,
+    1.044,
+    1.74,
+    2.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds up a sports trading card featuring a baseball player and the name \"ECKERSLEY.\" The card is signed in blue ink and has a numbering of \"/5.\" The scene is set in a room with a desk featuring a palm tree design. In the background, another man wearing a blue shirt is visible behind a desk, and a black box sits nearby. The top of the screen displays the logo \"JASPYS\" and the website \"CASEBREAKS.COM.\" Across the sequence, the hand tilts the card, shifting it from a flat view to an angled perspective to show the reflective, gold-bordered surface of the card. The background remains consistent, with the man in the blue shirt and the equipment staying in place while the focus remains on the movement of the trading card."
+}

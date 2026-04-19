@@ -1,0 +1,15 @@
+{
+  "video_id": "0ea77302c456e2b45f3899513a3fd33f",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-169.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.001,
+    3.003,
+    5.005,
+    7.007
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a full beard, wearing a white t-shirt and large black over-ear headphones, is seated in a recording studio. He is positioned in front of a silver professional microphone mounted on a black shock mount arm, which features the text \" Rode NT1-A\". The background consists of dark gray acoustic foam panels with a ribbed texture. Throughout the sequence, the man is speaking into the microphone. He begins with an expressive, open-mouthed expression, then transitions into a slight smile with his lips closed, and finally ends with a wider, toothy smile as he looks slightly off-camera to his right. His tattooed arm is partially visible on the left side of the frame. The setting and equipment remain static while only the man's facial expressions change as he talks."
+}

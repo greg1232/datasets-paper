@@ -1,0 +1,15 @@
+{
+  "video_id": "edbf79a703268f8e0f98d6b6cfe2b3c9",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.315,
+    3.944,
+    6.573,
+    9.202
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a pink tank top and dark shorts is in an indoor gymnasium featuring a wooden basketball court with blue and black painted sections, a blue padded wall, and a basketball hoop. He begins by standing on the black section of the court, facing away from the camera and toward the hoop. As time progresses, he turns around and begins walking toward the camera. By the end of the sequence, he has moved closer to the foreground, looking directly at the camera and raising his left hand in a waving gesture. The background remains static, showing white brick walls, a set of blue bleachers, and a basketball backboard with a red rim. No text or logos are visible in the scene."
+}

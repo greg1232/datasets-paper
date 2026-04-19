@@ -1,0 +1,15 @@
+{
+  "video_id": "daed890303495b47441c1cc6b41f7125",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-331.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.462,
+    0.771,
+    1.079
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game simulation of an American football game takes place on a green grass field with white yard markers. In the initial sequence, a player in a white jersey numbered 24 is tackled by a player in a black jersey, while other players in black and white jerseys are scattered across the field. A red circular marker with the text \"Polamalu\" is visible on the turf. An on-screen interface shows a score of 0 for both teams, the status \"1st & 10\", the time \"0:50\", and the text \"OFF BREAKDOWN RUSH 0 PASS 0\". As the scene shifts to a wide overhead view, the players reset for the next play. The players in white jerseys are lined up facing the players in black. A small inset window in the bottom left corner shows a man with blonde hair wearing a dark blue shirt with a surprised facial expression. The game clock updates to \"0:49\" and \"0:16\"."
+}

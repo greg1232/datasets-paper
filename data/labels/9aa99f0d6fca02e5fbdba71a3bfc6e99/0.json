@@ -1,0 +1,15 @@
+{
+  "video_id": "9aa99f0d6fca02e5fbdba71a3bfc6e99",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.912,
+    2.737,
+    4.562,
+    6.388
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person uses a handheld candy thermometer to check the temperature of a light-colored liquid simmering in a silver pot on a white electric stove. The person's hand is visible at the top of the frame, holding the thermometer vertically in the pot. A smaller inset window shows a woman with blonde hair wearing a black shirt; she is in a kitchen setting with green curtains in the background, holding a small silver measuring cup. Across the sequence, the thermometer remains submerged in the liquid, and the woman in the inset window continues to interact with her kitchenware. The overall setting is a domestic kitchen, with the stove's black heating coils visible to the left of the pot. No text or logos are present in the images."
+}

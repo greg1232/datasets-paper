@@ -1,0 +1,15 @@
+{
+  "video_id": "ec3c1c64cf7a3971647d81b8e5390715",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-255.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blonde hair wearing a dark blue shirt and headphones is visible in a small picture-in-picture window on the left side of a football video game interface. The main screen displays a play-calling menu set against a blurred stadium background. On-screen text includes \"SELECT A PLAY\" and \"PREVIOUS PLAY,\" along with game status indicators like \"3rd & 6\" and a game clock showing \"2:33.\" Various play options are shown in the center, such as \"PA DEEP CROSS\" and \"HB STRETCH,\" accompanied by diagrammed route paths. A small notification box reads \"SAVE RANNO Plays the a blister job holding onto the ball.\" As the sequence progresses, the highlighted play in the menu changes from \"PA DEEP CROSS\" to \"HB STRETCH,\" and eventually shifts to a screen showing \"HI LO DIG\" and \"FOUR VERTICALS\" with \"MESH SPOT\" and \"HB ISO\" also visible."
+}

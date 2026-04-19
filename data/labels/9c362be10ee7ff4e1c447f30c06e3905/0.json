@@ -1,0 +1,15 @@
+{
+  "video_id": "9c362be10ee7ff4e1c447f30c06e3905",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.165,
+    0.495,
+    0.825,
+    1.155
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of men are gathered in an indoor setting, surrounded by news microphones. Nitish Kumar, wearing a white kurta and glasses, is the central figure, gesturing with his hand while speaking to the press. Other men stand around him, including one in a dark jacket and glasses to his right. The scene is framed by news graphics from \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\". A red banner at the top asks, \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\". A lower red banner reads, \"PM \u092e\u094b\u0926\u0940 \u0928\u0947 \u0939\u0940\u091f \u0915\u0930 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930 \u0915\u094b \u092c\u0927\u093e\u0908 \u0926\u0940\". The graphics include small inset photos of men with captions such as \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\", \"\u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930\", and \"\u0935\u093f\u091c\u092f \u091a\u094c\u0927\u0930\u0940\". As the sequence progresses, the camera angle remains relatively stable, but the lower text banner changes slightly in the final frame to simply read \"PM \u092e\u094b\", and the time stamp updates from \"10:03 PM\" to \"10:04 PM\"."
+}

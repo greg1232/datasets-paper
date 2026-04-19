@@ -1,0 +1,15 @@
+{
+  "video_id": "4c1fe99bf660cc0c19a0d3bf9abdcace",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-187.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a magnifying glass over a piece of paper filled with handwritten numbers, calculations, and a technical chart featuring red and blue lines on a light-colored background. The person moves the magnifying glass across the document, shifting from the center toward the left and then toward the bottom of the page. The person's fingers are visible holding the handle and rim of the magnifying glass. Throughout the clip, a semi-transparent blue banner at the bottom of the screen displays the text \"Basil Chapman\" in a large font, with \"The Tiger Technicians Hour | June 8th, 2022\" written in a smaller font directly beneath it. The background is a dark surface, and the paper is held in place by a white spiral binding."
+}

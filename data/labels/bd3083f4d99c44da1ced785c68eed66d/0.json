@@ -1,0 +1,15 @@
+{
+  "video_id": "bd3083f4d99c44da1ced785c68eed66d",
+  "url": "./data/segments/3P1vSUbet40-Scene-0614.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.177,
+    0.532,
+    0.886,
+    1.241
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with silver-blonde hair styled in a tall pompadour, wearing glasses, black headphones, a white button-down shirt, tan suspenders, and a red bowtie, speaks into a black professional microphone. He is seated in an indoor setting with a white wall and a black backdrop featuring the text \"UNIQUE FASHIONS.\" In the background, a woman with pink hair wearing a green dress is partially visible. A framed piece of art with a yellow shield logo hangs on the wall. On-screen graphics include a circular logo that reads \"BOSS TALK PODCAST\" and the red text \"BOSS TALK 101.\" Across the sequence, the man remains in a similar position, subtly shifting his facial expression and mouth movements as he speaks, while the background elements and on-screen text remain stationary."
+}

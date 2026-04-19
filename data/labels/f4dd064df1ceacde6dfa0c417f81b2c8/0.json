@@ -1,0 +1,15 @@
+{
+  "video_id": "f4dd064df1ceacde6dfa0c417f81b2c8",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-763.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.48,
+    1.439,
+    2.398,
+    3.358
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a dark green t-shirt is seated in a room that appears to be a clothing store or studio, with a white mannequin and racks of clothing visible in the background. His shirt features the text \"ION NEVER DO SHIT\" in large white letters, with smaller text below it that reads \"ETWORK\". He is positioned in front of a professional black microphone. The walls are decorated with numerous framed photographs. On-screen graphics include a circular logo on the left and red text on the right that says \"REALLY FAT\". As the sequence progresses, the man shifts from a neutral expression to a wide smile, looking slightly to his left while speaking. The background remains static, and the camera angle stays consistent throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "adefb24a42f8406b644c0fdeba7c8d84",
+  "url": "./data/segments/3INb3jiuu6g-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.57,
+    1.71,
+    2.85,
+    3.99
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast captures a scene within a legislative chamber featuring three men seated behind desks. One man wears a wide-brimmed straw hat, a brown garment, and a light blue face mask. Beside him, another man is dressed in a white short-sleeved shirt and a light blue face mask. A third man, positioned slightly forward, wears a red traditional cap and a light blue face mask. The background consists of green seating. On-screen text reads \"NEWS NOW\" and \"JUSUN STRIKE,\" with a sub-headline stating \"REPS URGE FG TO ENSURE SPEEDY RESOLUTION.\" The \"plustv\" logo appears on the right, and a website address, \"Watch online on www.plustvafrica.com/liive-tv\" in the first row and \"Watch online on www.youtube.com/plustvafrica\" in the second row, is displayed at the bottom. Across the sequence, the men remain relatively still, though the man in the straw hat slightly adjusts his posture and hand placement."
+}

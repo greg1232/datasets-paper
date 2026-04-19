@@ -1,0 +1,15 @@
+{
+  "video_id": "5b40f308e8a4690fae87eaa69f55d99c",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.119,
+    0.356,
+    0.594,
+    0.831
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a website titled \"True Random Number Se\" and \"RANDOM.ORG\" being used as a \"List Randomizer.\" The site displays a list of 30 NBA teams. In the first frame, the list is ordered with \"1. CLEVELAND CAVALIERS\" at the top. The screen is overlaid with a chat window from a stream, showing a user named \"glowbug27\" and the word \"turning,\" alongside a promotion that says \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/2KskG4y.\" A small inset video in the corner shows a man with dark hair and a beard wearing a black shirt. As the sequence progresses, the webpage is refreshed, and the list is re-randomized, now starting with \"1. CHARLOTTE HORNETS.\" The chat window and the man in the inset video remain consistent across the frames, while the main content of the webpage updates to show the new random order."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "8e2a6b132044061f36eb26d169823094",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.75,
+    2.25,
+    3.75,
+    5.25
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman wearing white medical scrubs with a small name tag on her chest is in a classroom or training facility. The room contains several long wooden tables and matching chairs, with large windows in the background showing an outdoor building. She begins by walking toward the right side of the frame, her arms moving naturally as she strides. She then pauses at the end of a table, turning her body to face toward the camera. Finally, she stands still with a slight smile, clasping her hands together in front of her waist. The camera remains stationary as she moves through the space, capturing her transition from walking to a poised, standing position. No on-screen text or logos are visible."
+}

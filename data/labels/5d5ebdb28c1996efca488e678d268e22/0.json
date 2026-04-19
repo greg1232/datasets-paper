@@ -1,0 +1,15 @@
+{
+  "video_id": "5d5ebdb28c1996efca488e678d268e22",
+  "url": "./data/segments/3iUTkJy84EY-Scene-284.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with black hair and glasses is centered against a solid dark gray background. She wears a light green, long-sleeved tunic with red and black floral embroidery along the neckline and scattered small red floral patterns across the chest, complemented by a simple dark necklace. In the sequence, she is speaking, with her mouth open and head slightly tilting as she delivers a presentation. A small black lapel microphone is clipped to the center of her tunic. In the lower corners of the frames, a circular gold and red logo is visible next to the text \"NPTEL\". As the clip progresses, her facial expressions shift slightly as she continues to talk, while her position remains stationary in front of the dark backdrop."
+}

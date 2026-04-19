@@ -1,0 +1,15 @@
+{
+  "video_id": "76c894639c6f72b5053572e3d7aa2fec",
+  "url": "./data/segments/3E6ctN22V7k-Scene-062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.22,
+    0.66,
+    1.1,
+    1.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A hand is shown interacting with a metal fastener on a bright yellow fabric surface, which is bordered by a silver metal frame. In the initial sequence, a person's hand reaches down and lifts a small metal tab upward from a circular base. The hand then releases the tab, which remains upright. As the action continues, the hand descends again to press the metal tab back down into its locked position. Throughout the first three segments, the yellow screen displays the text \"carrying colorful suitcases, raising up tents.\" In the final segment, the text changes to \"And inside each suitcase there is wonder.\" The background is blurred and out of focus, keeping the attention on the tactile interaction with the equipment."
+}

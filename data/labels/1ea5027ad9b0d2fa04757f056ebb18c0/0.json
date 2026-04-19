@@ -1,0 +1,15 @@
+{
+  "video_id": "1ea5027ad9b0d2fa04757f056ebb18c0",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-090.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.613,
+    1.839,
+    3.066,
+    4.292
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, a group of healthcare professionals manages a patient crisis in a hospital room. The room contains a hospital bed with a patient, medical carts, and equipment. On-screen text reads \"Code on Post OP Floor\" and \"Sim Week,\" with \"Day 3\" appearing in a purple circle. Personnel are dressed in various medical attire, including pink scrubs, blue scrubs, and black jackets. In the initial scenes, the team is gathered around the patient; one person in pink scrubs stands by a red cart, and another in blue scrubs holds a white clipboard. As the sequence progresses, the personnel shift their positions to coordinate care around the bed. A person wearing white protective gear and blue gloves is partially visible in the foreground. The scene remains in the same location, with the focus staying on the team's interactions and movements around the patient."
+}

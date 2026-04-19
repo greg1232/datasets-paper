@@ -1,0 +1,15 @@
+{
+  "video_id": "6a81390c1217ff326d3d31a06c959742",
+  "url": "./data/segments/3phuyH7Y05U-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.188,
+    0.562,
+    0.938,
+    1.312
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital, stylized map of the world is displayed against a dark blue background, featuring glowing golden light clusters that represent populated urban areas. The map is viewed from an angled, three-dimensional perspective, showing landmasses including parts of Asia, Europe, and Africa outlined in bright blue light. Fine, glowing blue lines arc across the oceans, representing connectivity or data flow between different global regions. As the scene progresses, these interconnecting lines shift and animate, with some fading out while new paths emerge and pulse across the screen. The lighting remains consistent, emphasizing the contrast between the dark void of the oceans and the shimmering gold and blue of the land and network lines. No people, text, or logos are visible in the scene."
+}

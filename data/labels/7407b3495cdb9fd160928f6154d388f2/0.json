@@ -1,0 +1,15 @@
+{
+  "video_id": "7407b3495cdb9fd160928f6154d388f2",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-174.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.438,
+    1.312,
+    2.188,
+    3.062
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short light-brown hair, wearing a dark blue t-shirt, is seen in a small rectangular inset window in the bottom left of a screen displaying a digital sports card for \"DALL CUNNINGHAM.\" The background of the man's room includes a decorated Christmas tree and a wall. The screen shows a purple interface with a player profile including \"HISTORY\" and \"DESCRIPTION\" sections, stating the \"Team Name: Eagles | College: UNLV | Acquired: 12/29/2022 | Source: Pack opening\" and \"MUT 23 Zero Chill Elite OOP.\" A profile image of the athlete in a white football jersey and helmet is visible on the right. The man in the inset window reacts with surprised facial expressions and hand gestures as he looks at the card. In the final sequence, the layout of the screen changes, with the player's name appearing at the top left and the man remaining in the bottom left inset."
+}

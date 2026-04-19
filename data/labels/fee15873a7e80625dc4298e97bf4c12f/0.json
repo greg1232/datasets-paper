@@ -1,0 +1,15 @@
+{
+  "video_id": "fee15873a7e80625dc4298e97bf4c12f",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.479,
+    0.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person uses a red spatula to mix a crumbly, light-brown mixture inside a large silver bowl. The mixing occurs on a wooden surface, where a small white plate containing more of the mixture and a small red bowl filled with small, round pieces of food are positioned to the right. The person's hand and arm are partially visible as they stir the ingredients. In the upper left corner of each frame, a logo and text read \"UCAR CENTER FOR SCIENCE EDUCATION\" against a background of blue sky and clouds. Throughout the sequence, the camera remains static while the person continuously folds and stirs the contents of the bowl with the red spatula, moving the mixture around the bowl's interior. The quantity and appearance of the food in the bowl, on the plate, and in the small red bowl remain consistent across the frames."
+}

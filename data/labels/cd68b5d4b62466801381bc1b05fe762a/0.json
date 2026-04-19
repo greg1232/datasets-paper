@@ -1,0 +1,15 @@
+{
+  "video_id": "cd68b5d4b62466801381bc1b05fe762a",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.746,
+    5.238,
+    8.729,
+    12.221
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital presentation slide features a dark blue background with a stylized graphic of a glowing blue globe at the bottom and a network of interconnected lines and dots across the top. Centered on the screen is the text \"Logging on Steroids\" above the larger, bolder text \"Stream Processing on the Edge\". In the upper right corner of the screen, a small inset video window shows a man with short dark hair wearing a white shirt. Throughout the sequence, the visual elements of the main slide\u2014the background imagery and the text\u2014remain completely static. The man in the inset window remains visible in the same position, maintaining a steady posture and facial expression with minimal movement. There are no changes in the scene, no new objects appearing, and no interactions occurring across the frames."
+}

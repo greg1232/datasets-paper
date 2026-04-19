@@ -1,0 +1,15 @@
+{
+  "video_id": "06e177fa8d645936730d6a992f865b58",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-159.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.346,
+    1.039,
+    1.731,
+    2.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A digital background features a dark blue, abstract space filled with glowing cyan light streaks, floating particles, and geometric line fragments. The video opens with the centered text \"THE TECHNOLOGY INSIDER\" in a bold, sans-serif font. As the sequence progresses, the text undergoes a glitch effect, momentarily distorting and shifting before disappearing entirely. The scene then transitions to a different text arrangement where the word \"DESIGNED\" appears on the left side of the screen. In the final sequence, the text expands to read \"DESIGNED TO GIVE YOU,\" appearing in a white, clean font against the same dynamic, high-tech backdrop. The light elements continue to shift and drift across the screen, maintaining a consistent aesthetic of a futuristic, data-driven environment throughout the clip."
+}

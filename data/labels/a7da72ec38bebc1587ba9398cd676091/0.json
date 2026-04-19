@@ -1,0 +1,15 @@
+{
+  "video_id": "a7da72ec38bebc1587ba9398cd676091",
+  "url": "./data/segments/3Smz5pevbI4-Scene-026.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.917,
+    14.752,
+    24.587,
+    34.422
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A static educational slide titled \"Brain as Swiss Army Knife\" is displayed against a white background with a red header. The slide features several anatomical diagrams of the human brain from different perspectives, with specific regions highlighted in various colors and labeled with abbreviations. These labels include \"DLPFC\" in green, \"RTFA\" and \"FFA\" in white, \"VMPFC\" in red, and \"Amygdalae\" in yellow. The brain images show lateral, medial, and coronal views to pinpoint these functional areas. There are no people present in the scene, and no movement occurs between the frames. The visual content remains completely identical across the entire sequence, with the text and diagrams remaining fixed in place."
+}

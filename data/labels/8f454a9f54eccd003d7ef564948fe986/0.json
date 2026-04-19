@@ -1,0 +1,15 @@
+{
+  "video_id": "8f454a9f54eccd003d7ef564948fe986",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.7
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with short blonde hair and a black shirt appears in a small picture-in-picture window on the left side of the screen, speaking while gesturing. The background of the game menu is \"ULTIMATE TEAM,\" featuring a bright pink storefront section titled \"BROWSE THE STORE.\" This section promotes the \"> SUPER BOWL MVP BUNDLE\" with an image of a pink and purple card. To the right is a \"Zero Chill\" themed card with a \"92\" OVR. Other menu options visible include \"PLAY,\" \"MISSIONS,\" \"MARKETPLACE,\" \"MY TEAM,\" and \"COMPETITIVE.\" At the top right, currency totals are shown, including \"173,037\" and \"2,343,543.\" As the video progresses, the person continues talking in the window, and a new graphic appears in the center of the screen featuring a \"92+\" OVR card labeled \"FANTASY\" and \"PLAYER.\" The rest of the user interface remains static throughout the sequence."
+}

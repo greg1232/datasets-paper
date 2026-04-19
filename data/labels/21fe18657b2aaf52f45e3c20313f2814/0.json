@@ -1,0 +1,15 @@
+{
+  "video_id": "21fe18657b2aaf52f45e3c20313f2814",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-076.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.115,
+    3.345,
+    5.575,
+    7.805
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation takes place in a professional studio setting with grey walls and a grey floor. Three people are present: a man on the left in a dark blue blazer and dark trousers, a woman in the center wearing a dark blue blazer over a magenta top and tan trousers, and a man on the right in a patterned olive-green shirt and blue jeans. They stand around small white circular tables holding water bottles and microphones. In the background, a large screen displays a logo and the text \"INTERACTIE\" and \"PRAKTIJK en ZORGVERLAAG\". The \"mediasite\" logo is visible at the top of the frame. Throughout the sequence, the people remain in their respective positions. The man on the left rests his hand on a table, the woman stands centrally, and the man on the right stands beside a table. Their postures shift slightly, but there are no major changes in action or location."
+}

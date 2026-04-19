@@ -1,0 +1,15 @@
+{
+  "video_id": "11ddd81bdb054603e19957e145682996",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-193.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.772,
+    2.315,
+    3.858,
+    5.401
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man named Basil Chapman is featured in a studio setting for a program called \"The Tiger Technicians Hour.\" He is wearing a dark suit jacket over a white dress shirt and glasses. He sits behind a desk in front of a dark blue background with subtle geometric lines. To his left, a large monitor displays complex financial data, including stock charts and tables of numbers. A blue banner at the bottom of the screen reads \"Basil Chapman\" and \"The Tiger Technicians Hour | June 8th, 2022,\" while a \"Tiger-TV\" logo appears in the upper right corner. Across the sequence, the man is speaking; he initially holds his hand to his chin in a thoughtful gesture and then moves his hand away from his face, gesturing slightly with his right hand as he continues to talk."
+}

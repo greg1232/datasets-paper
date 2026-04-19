@@ -1,0 +1,15 @@
+{
+  "video_id": "8e61b9b57c99c87ec7755f02973b9d7b",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.13,
+    9.39,
+    15.65,
+    21.91
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The image displays four sequential frames from an educational presentation on \"CRYOGENIC ENGINEERING\" for \"Tutorial \u2013 1,\" delivered by \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" The slides feature a dark blue background with white and yellow text. A mathematical formula for $\\gamma$ is presented at the top, alongside the value $\\epsilon_4 = 0.85$. Below this is a data table with columns labeled \"1\", \"2\", \"f\", and \"g,\" listing values for pressure \"p (bar)\", temperature \"T (K)\", enthalpy \"h (j/g)\", and entropy \"s (j/gK)\". A calculation for $\\gamma_4$ is shown at the bottom. As the frames progress, the calculation is completed step-by-step: the first frame shows the setup, the second frame adds the results \"2.7195\" and \"400.3\", and the final two frames add the final result \"= 0.006\". The NPTEL logo is visible in the bottom left corner of each frame."
+}

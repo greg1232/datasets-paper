@@ -1,0 +1,15 @@
+{
+  "video_id": "81356ed0dc47c7a9a19e6ee2c9593222",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.902,
+    2.706,
+    4.51,
+    6.315
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard and a black shirt is recorded in a webcam window on the right side of a computer screen, while the left side displays a Google Sheets document. He is positioned in front of a light-colored wall with a red and yellow \"JASYP\" logo and the text \"CASEBREAKS.COM\" visible at the bottom of his video feed. On the spreadsheet, columns list names such as \"Carl Hagdomen\" and \"Michael Loguaro\" alongside NBA team names like \"NEW ORLEANS PELICANS\" and \"HOUSTON ROCKETS.\" A chat window on the right shows a user named \"givebug27\" and a link stating \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE! >>> https://bit.ly/2SdeK9y.\" As the video progresses, the spreadsheet is scrolled downward, changing the visible team names to include \"ATLANTA HAWKS\" and \"BOSTON CELTICS,\" while the man remains stationary in his video feed."
+}

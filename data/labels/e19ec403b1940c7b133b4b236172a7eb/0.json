@@ -1,0 +1,15 @@
+{
+  "video_id": "e19ec403b1940c7b133b4b236172a7eb",
+  "url": "./data/segments/3U065Ox-1uA-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.346,
+    1.039,
+    1.731,
+    2.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of frames shows a white background featuring the \"VOA\" logo in red and blue letters. In the first frame, a blue diagonal graphic overlays a scene of a nighttime cityscape with lights, while the text \"GLISH\" is partially visible at the top. To the right, the \"VOA\" logo is paired with a blue circular badge containing the number \"54\". As the sequence progresses, the cityscape graphic disappears, and the number within the blue badge transitions from \"54\" to \"60\". The final frames show the \"VOA 60\" logo centered on the white background, accompanied by social media icons for Facebook, Twitter, and YouTube located beneath the text. The overall motion depicts a counting transition leading to a final branded screen."
+}

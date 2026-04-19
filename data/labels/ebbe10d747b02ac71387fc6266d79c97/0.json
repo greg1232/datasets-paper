@@ -1,0 +1,15 @@
+{
+  "video_id": "ebbe10d747b02ac71387fc6266d79c97",
+  "url": "./data/segments/3sJ5OX75erw-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    13.39,
+    40.17,
+    66.95,
+    93.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a static informational slide regarding the \"DARPA / Linux Foundation Open Software Initiative.\" The layout features a white background with a dark blue header and footer. The top left contains the title and the URL \"https://usgovops.org,\" while the body text explains that \"DARPA and The Linux Foundation Create Open Software Initiative to Accelerate DoD Innovation, SG End to End Stack.\" A quote from Dr. Jonathan Smith, DARPA Innovation Office Program Manager, is featured on the right side. The slide includes several logos, including \"US GOVOPS,\" \"DARPA,\" and \"The Linux Foundation.\" A flow chart at the bottom illustrates the process from \"OPS-SG Secure open source software and fast software development\" through \"OPS-SG ITE,\" \"Secure SG Stack,\" and \"A subset of sites in the DoD\" to \"MDLTIO design, procurement, deployment, and management.\" The scene remains completely unchanged across all frames, as it is a still presentation slide."
+}

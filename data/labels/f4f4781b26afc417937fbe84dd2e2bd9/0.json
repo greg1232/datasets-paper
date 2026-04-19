@@ -1,0 +1,15 @@
+{
+  "video_id": "f4f4781b26afc417937fbe84dd2e2bd9",
+  "url": "./data/segments/3fokLGPK15Q-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A concert stage is illuminated by a dramatic array of purple and blue laser beams that cut across a dark venue. In the background, a large circular screen displays the text \"SLUE 1\" in a stylized, white, blocky font. To the left of this screen, a smaller circular display shows a close-up of a person's face. On the main stage, figures are visible behind equipment, including what appears to be a DJ setup, though they are mostly silhouetted against the intense lighting. As the scene progresses, the laser beams shift their positions and angles, creating dynamic patterns of light that sweep across the stage and into the darkened audience area. The overall atmosphere is high-energy, characterized by the synchronized movement of the vibrant purple light beams against the dark backdrop of the venue."
+}

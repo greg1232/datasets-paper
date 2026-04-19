@@ -1,0 +1,15 @@
+{
+  "video_id": "2d6c34255854b0c762f410bea47aa6ad",
+  "url": "./data/segments/3F2rz23IKUk-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    12.745,
+    38.235,
+    63.725,
+    89.215
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A young man with glasses and brown hair stands in an indoor setting against a plain, light-colored wall divided by a horizontal trim line. He wears a black t-shirt featuring a yellow image and the partial text \"Knitch,\" along with a blue lanyard and an identification badge around his neck. In the beginning, he stands with his hands held low, speaking and glancing slightly to his right. He then raises his hands to chest level, gesturing with his palms facing each other as if explaining a concept. As he continues to speak, he lowers his hands back toward his waist, slightly opening his palms. The back of a dark office chair is visible in the lower-left foreground of the scene. The environment remains static as the man gestures and speaks, with no other people or movements present in the frame."
+}

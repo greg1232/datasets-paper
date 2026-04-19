@@ -1,0 +1,15 @@
+{
+  "video_id": "12dee42a5fa0715e2b0babba0df6c5db",
+  "url": "./data/segments/3P1vSUbet40-Scene-0910.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.209,
+    0.626,
+    1.043,
+    1.46
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard is seated in a studio, wearing a black t-shirt with \"DECK IT\" printed on the front, a gold chain, and a black baseball cap with a logo. He wears grey over-ear headphones and speaks into a silver professional microphone on a boom arm. The background features a white banner with the words \"BOSS HUSTLE\" and several gold stars, as well as a dark screen displaying \"BOSS TALK 101\". On-screen overlays include a logo that reads \"BOSS TALK 101 PODCAST\" on the left and \"BOSS TALK 101\" on the right. Across the sequence, the man remains in the same position, subtly shifting his head and facial expression as he speaks, while the camera and surroundings remain static."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "dd5c1e9845db27f0745a9ea9d05ee433",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-045.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.405,
+    1.214,
+    2.023,
+    2.832
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a bright classroom setting, several people are gathered for a session. Many individuals are wearing blue scrubs, while others are in professional attire, including a person in a grey suit and another in pink. Participants are seated at white tables arranged in rows, facing toward the front of the room where a large black screen is mounted on the wall. Some people are looking forward, while others are turned toward their peers or looking down at papers on the tables. Laptops, water bottles, and notebooks are scattered across the tabletops. The camera angle shifts slightly across the sequence, providing different perspectives of the group. In the bottom right corner of every frame, the white text \"Sim Week\" is visible. The overall scene depicts a professional training or educational environment with students or staff engaged in a collaborative activity."
+}

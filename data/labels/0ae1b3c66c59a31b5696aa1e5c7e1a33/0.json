@@ -1,0 +1,15 @@
+{
+  "video_id": "0ae1b3c66c59a31b5696aa1e5c7e1a33",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.51,
+    1.53,
+    2.55,
+    3.57
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair, wearing a dark navy suit jacket, a light blue dress shirt, and a dark tie, is being interviewed on a green grass field. He is positioned in a medium shot, facing slightly to the right as he speaks. A handheld microphone with a white windscreen is held up to him; the microphone features a blue circular logo with the letters \"RM\" inside a crown. In the upper right corner of each scene, a white logo consisting of a crown over the letters \"RM\" is visible. The background shows a blurred grassy field with other figures in the distance. As the sequence progresses, the man continues speaking, with slight shifts in his facial expression and head position, while the camera remains relatively steady on him."
+}

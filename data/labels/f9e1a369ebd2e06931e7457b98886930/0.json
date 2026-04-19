@@ -1,0 +1,15 @@
+{
+  "video_id": "f9e1a369ebd2e06931e7457b98886930",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-022.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.446,
+    1.339,
+    2.231,
+    3.124
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "At night, a grassy yard is illuminated by a bright, focused light source, casting a strong glow on the ground. A silver aluminum A-frame ladder stands upright in the center of the scene, with a white plastic jug resting on the grass at its base. In the background, a white boat on a trailer is parked on the lawn. Throughout the sequence, the camera angle shifts slightly, and the positioning of the equipment changes. The ladder is initially positioned toward the left side of the frame and then moves toward the right. The bright light remains constant, creating a stark contrast against the surrounding darkness of the night. No people are visible in the frames, and there is no on-screen text or logos present."
+}

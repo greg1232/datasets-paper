@@ -1,0 +1,15 @@
+{
+  "video_id": "e31efe486b32ee6798dea65486182cea",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-323.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.751,
+    1.051
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a white t-shirt and over-ear headphones, is speaking into a professional microphone in a studio. The background consists of dark, vertically ribbed acoustic foam panels. He is positioned behind a microphone mounted on a boom arm with the text \"Rode PSA1\" visible on the arm. Throughout the sequence, the man is actively gesturing with his right arm. In the beginning, his hand is blurred and raised high, moving across the frame. As the sequence progresses, he lowers his arm and points his index finger upward and slightly to the right. His facial expressions shift as he speaks, with his mouth open and his gaze moving slightly, reflecting an animated conversation. The setting remains static, with the only movement coming from the man's speaking and gesturing."
+}

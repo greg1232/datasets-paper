@@ -1,0 +1,15 @@
+{
+  "video_id": "53180c11946c66d009faa407e4c787f7",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.485,
+    1.455,
+    2.425,
+    3.395
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a presentation slide titled \"Tutorial \u2013 4\" under the heading \"CRYOGENIC ENGINEERING.\" The slide features a data table comparing two scenarios, labeled \"$\\varepsilon = 1$\" and \"$\\varepsilon = 0.9$,\" with a final column for \"% change.\" The table tracks variables $y$, $\\frac{W}{m}$, $\\frac{W}{m\\gamma}$, and \"FOM,\" showing how these values shift when effectiveness decreases. Below the table, a bullet point states, \"The above table highlights the significance of heat exchanger effectiveness for a Linde \u2013 Hampson system.\" A footer identifies the presenter as \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" An NPTEL logo is visible in the lower-left area. Across the frames, the visual content remains completely static; there is no movement, change in text, or appearance of people, indicating a still slide being displayed during a lecture."
+}

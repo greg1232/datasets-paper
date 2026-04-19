@@ -1,0 +1,15 @@
+{
+  "video_id": "2ada8d50d66499b03c7b118532a57f1a",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen capture shows a web browser open to a data exploration tool titled \"Explore.\" The interface features a dark theme with a top navigation bar containing options such as \"Split,\" \"Last 1 hour,\" and \"Clear all.\" A query bar is visible with the text \"Log table: {filter=\"Fluent.qv1\"}\" and a \"Run\" button. Below this, several options are listed: \"Add query,\" \"Query builder,\" and \"Query inspector.\" The main area of the screen is a large, black void. In the top right corner of the browser window, a small circular profile picture of a man in a light-colored shirt is visible. As the video progresses, the display remains almost entirely static, with no changes to the text, layout, or interface elements. The only subtle movement is the blinking cursor within the query bar and the steady passage of time on the system clock, which reads \"Oct 28 00:22.\""
+}

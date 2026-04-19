@@ -1,0 +1,15 @@
+{
+  "video_id": "45e1b27e08226e8df9add8f92f81fc11",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-255.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.135,
+    0.405,
+    0.675,
+    0.945
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a digital presentation for the \"Rural Community Food System.\" The main display features a dark background with a complex web of interconnected green nodes and lines, accompanied by an introduction section. The text asks, \"What constitutes a sustainable localized food system for a rural community?\" and lists several \"Session Videos\" with dated links. It encourages viewers to contribute by \"adding community or by becoming a member to evolve the map.\" A legend at the bottom identifies \"Large Corporate Food Systems\" and \"Communities Based and More of Means Production.\" In the top right corner, a small video feed shows a man with short hair and a beard wearing a dark shirt. As the sequence progresses, the man remains in the feed, though his expression and head position shift slightly, while the presentation slide remains static. The browser tabs at the top show other open pages related to \"Systems\" and \"Future of Society.\""
+}

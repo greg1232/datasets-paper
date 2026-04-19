@@ -1,0 +1,15 @@
+{
+  "video_id": "9fcc952584d44fdea6f32ece8b567123",
+  "url": "./data/segments/3iUTkJy84EY-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is speaking against a plain black background. She is wearing a light green garment adorned with small, colorful embroidered floral patterns and a dark necklace. In the initial frames, she gestures with her right hand held up near her chest while speaking. As the sequence progresses, she shifts her hand movement, eventually bringing her right hand closer to her shoulder. A small logo containing a circular emblem and the text \"NPTEL\" is visible in the bottom left corner of each scene. The lighting is consistent throughout, focused on the woman, and no other people or objects are present in the setting. The woman's facial expressions change slightly as she talks, with her mouth opening and closing in coordination with her gestures."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5fe09870c55309d613037ce318bff133",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-184.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video recording of a computer screen displays a browser window with several tabs open, including one titled \"Future of Society by Systemsynth\". In the center of the screen, a black background features the green text \"Pleasant Breakfast\". A small, white cursor is visible to the right of this text. In the upper right corner of the browser interface, a small video feed shows a man wearing a blue baseball cap and a blue shirt. He appears to be speaking, with his facial expressions changing slightly across the sequence. The browser's address bar shows a URL starting with \"https://deck.to\". The overall scene remains largely static, with only minimal movements from the man in the small video window and the cursor on the screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "02c47e4839715076d0424d7512fbcbc2",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-191.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.65,
+    1.95,
+    3.25,
+    4.55
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a computer browser window displaying a causal loop diagram on a black background. The diagram consists of green text and blue arrows connecting concepts such as \"Birds at Feeder,\" \"Attractiveness of Garden,\" \"Unsightly Grubs,\" and \"Frustration.\" A mouse cursor moves across the screen, highlighting different connections in the map. To the right of the diagram, a small video call window shows a man wearing a dark baseball cap and a dark shirt. The browser tabs at the top indicate the user is on a website with titles including \"Trial & Learning by Systemdynamics.net\" and \"Rural Community Food System.\" As the sequence progresses, the mouse cursor drifts across the screen, while the man in the video window remains largely stationary, observing the screen."
+}

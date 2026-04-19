@@ -1,0 +1,15 @@
+{
+  "video_id": "28251fbee828552069cbf682f5a8b636",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-523.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.078,
+    0.235,
+    0.391,
+    0.547
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair styled in a high bun and long braids is seated in a studio setting, wearing a dark green t-shirt. She is positioned behind a desk with a professional microphone in front of her, and she appears to be speaking, with her facial expressions shifting slightly as she talks. In the background, a black banner features a logo and the white text \"BOSS TALK 101\" and \"A Unique Hustle,\" while another phrase, \"bout It!\", is partially visible. To the woman's left is a screen displaying a image of a person's hands. On the desk, there is a red and black object with the word \"KING\" visible. Small red and white logos that read \"BOSS TALK 101\" appear in the bottom corners of the scene. Throughout the sequence, the woman remains in the same position, maintaining her engagement with an unseen interlocutor."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "82c268baf1b7bc91405eb0949bd7a623",
+  "url": "./data/segments/3dN_F08u-KE-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.445,
+    1.335,
+    2.225,
+    3.115
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A fleet of grey naval warships sails across a deep blue ocean under a clear sky. In the foreground, portions of a dark grey metallic structure, including a large circular dome and ribbed paneling, frame the view from another vessel. Three warships are visible in the distance, moving in parallel from left to right, with white wake trailing behind them. The lead ship is a smaller destroyer, followed by two larger aircraft carriers. A red and white logo containing the text \"13\" and smaller illegible text is positioned in the upper right corner of the scene. As the sequence progresses, the ships maintain their formation and speed, gliding steadily across the water. There are no people visible in the frames. The scene remains consistent in lighting and composition, showing only the slight forward movement of the vessels through the sea."
+}

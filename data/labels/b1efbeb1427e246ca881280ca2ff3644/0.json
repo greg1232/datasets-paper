@@ -1,0 +1,15 @@
+{
+  "video_id": "b1efbeb1427e246ca881280ca2ff3644",
+  "url": "./data/segments/3E6ctN22V7k-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.5,
+    2.5,
+    3.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white, button-down long-sleeved shirt walks through a village setting characterized by mud-walled buildings with corrugated metal roofs. In the background, other people stand near the structures under a cloudy sky with scattered trees. A white fabric bag hangs on the mud wall to the man's left. As the scene progresses, the camera moves from a medium shot of the man walking toward the viewer to a closer shot focusing on his face and torso. Throughout the sequence, white subtitles appear at the bottom of the frame, stating, \"I fled the atrocities committed by rebel groups in the Congo.\" The terrain consists of dry, brown earth, and the man maintains a serious expression as he moves and speaks."
+}

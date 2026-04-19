@@ -1,0 +1,15 @@
+{
+  "video_id": "afde992dd1cd46534cf9554d150dfc6d",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-165.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.525,
+    4.575,
+    7.625,
+    10.675
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser with multiple open tabs, showcasing a presentation on a dark background. A conceptual map consists of several circular icons connected by lines, leading to a central node containing a picture of a man and the text \"TRIP OVER THE TRUTH\". Below this heading, three points are listed: \"1) a clear insight,\", \"2) compressed to form, and\", and \"3) discovered by the audience itself.\" Smaller icons with labels such as \"Invisible Truth,\" \"Hidden Truth,\" and \"Visible Truth\" are scattered around the map. In the upper right corner, a small video feed displays a man wearing a dark shirt and a dark baseball cap. Throughout the sequence, the scene remains static, with the content of the browser window and the man in the video feed remaining unchanged."
+}

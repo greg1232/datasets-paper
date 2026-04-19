@@ -1,0 +1,15 @@
+{
+  "video_id": "7de86532416a15dee2e0d68d99e73f1f",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-096.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.26,
+    0.78,
+    1.3,
+    1.82
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene takes place in a large sports stadium, characterized by tiered red seating and bright overhead stadium lighting. In the foreground, several individuals are present; one person wears a blue shirt and is seated near some technical equipment, while others in orange clothing are positioned further to the left. Above the seating area, a large white banner displays the text \"PULEVA\" in red capital letters. Other visible signs include \"OLIVA\" and \"CERVEZAS ALHAMBRA.\" A logo featuring a crown and stylized letters is visible in the upper right of the stands. Throughout the sequence, the camera remains relatively static, capturing a wide shot of the stands. The people in the scene remain in their positions with minimal movement, and the overall lighting and environment stay consistent across the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "90a88e554d2f8349354cbdf4076bf1ed",
+  "url": "./data/segments/3Z229_lKLpk-Scene-108.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.425,
+    1.275,
+    2.125,
+    2.975
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large assembly hall is filled with people seated in tiered, semi-circular rows. The individuals are predominantly men dressed in a variety of light-colored traditional Indian attire, such as white kurtas and dhotis, with some wearing colorful scarves or shawls draped over their shoulders. Many participants are focused on small screens or documents placed on the desks in front of them. The setting is formal, featuring structured seating and a vast number of attendees occupying the space. Throughout the sequence, the scene remains static, with minimal movement among the crowd as they remain seated. There are no visible logos or on-screen text. The repetition of the scene across the frames shows a consistent, crowded environment where the assembly is engaged in a formal proceeding."
+}

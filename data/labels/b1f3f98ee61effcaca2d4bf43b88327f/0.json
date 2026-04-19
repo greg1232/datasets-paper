@@ -1,0 +1,15 @@
+{
+  "video_id": "b1f3f98ee61effcaca2d4bf43b88327f",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-192.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.388,
+    0.646,
+    0.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a full dark beard is recorded in a studio setting against a backdrop of grey acoustic foam panels. He wears black over-ear headphones and a plain white t-shirt, with tattoos visible on his right arm. A professional condenser microphone, held by a boom arm, is positioned directly in front of him. The text \" Rode NT1-A\" is printed on the microphone's mounting hardware. As the sequence progresses, the man speaks, causing subtle changes in his facial expression and mouth movements. He appears to be engaged in a conversation or recording a podcast. While his head remains relatively stationary, his expression shifts from a neutral look to one of active speaking, and his hand is briefly visible moving in the periphery of the shot."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "00ce1efe56f64085f630575719375b44",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.609,
+    1.828,
+    3.047,
+    4.266
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair, wearing a purple and white striped shirt and a black headset with a microphone, is seated in a room. Behind her are light-colored curtains, with a hint of blue fabric on the left edge. A plain wall and the edge of a neutral-colored piece of furniture are visible in the background. The text \"Nancy Ramya\" appears in the bottom-left corner of each shot. As the sequence progresses, the woman remains in a centered, head-on position, looking directly toward the camera. Her facial expression shifts slightly from a neutral, focused gaze to a slightly more open-mouthed expression as she appears to be speaking. Her head remains relatively still, and the environment and lighting stay consistent throughout the frames."
+}

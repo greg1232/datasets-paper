@@ -1,0 +1,15 @@
+{
+  "video_id": "4129aff41fe6cc196ba4c0c00f07eb93",
+  "url": "./data/segments/3mmDnftP1M8-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    9.776,
+    29.328,
+    48.88,
+    68.432
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair, wearing a light-blue button-down shirt and a black over-ear headset with a microphone, is positioned against a plain, light-colored wall. He is gesturing with both hands as he speaks, moving them forward and outward to emphasize his points. In the beginning, his hands are low and palms are facing down, but they gradually rise and open as he expresses himself. His facial expression shifts from a focused look to one of active communication. The text \"Ashish Raichur\" appears in the bottom-left corner of each scene. The lighting remains consistent throughout, and the man stays centered in the frame, with the only significant changes being his hand movements and the slight shifts in his facial expressions."
+}

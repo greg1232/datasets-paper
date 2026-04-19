@@ -1,0 +1,15 @@
+{
+  "video_id": "609e9abe93269fd46c3b7da72203551c",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-133.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.704,
+    1.173,
+    1.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair tied up in a bun and wearing black headphones sits before a professional microphone in a studio setting. She is dressed in a dark green t-shirt featuring a red circular graphic on the chest. Behind her is a black backdrop with white and red text that reads \"SS TALK 101\", \"It's A League Hustle\", \"CAST\", and \"About It!\". To the left, a framed picture showing a close-up of hands is mounted on a white wall. A small logo with \"BOX TALK 101\" appears in the bottom corner of the frames. As the sequence progresses, the woman remains in a stationary position, her expression shifting slightly as she speaks or listens, while her gaze drifts subtly from the side toward the front. The lighting and camera angle remain consistent throughout the scene."
+}

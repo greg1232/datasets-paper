@@ -1,0 +1,15 @@
+{
+  "video_id": "5ebe8b08d79febee8b1e192458f69701",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on a light-colored, vertical surface with thin, dark lines running vertically. Scattered across the scene are various small, translucent, colorful geometric shapes including circles, triangles, and squares in shades of yellow, green, and blue. In the first frame, a dark, circular object is visible near a vertical line. As the sequence progresses, a bright green curved arrow appears at the top right, pointing downward. In the subsequent frames, a large, bright green circle appears centered on the screen, framing a section of the vertical line. A white, horizontal rounded rectangular bar also appears at the bottom center of the image. The background remains static while these colorful graphics and overlays are added sequentially, creating a visual guide or annotation over the neutral-toned surface."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "509fa5f4889e1a198f574fa33083bbd0",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.0,
+    3.333,
+    4.667
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a spacious, brightly lit hall with ornate chandeliers and a blue carpeted floor, a group of people are practicing martial arts. A man in a blue traditional Chinese tunic and pants is the central figure, performing a series of fluid, controlled movements. He is surrounded by other practitioners; some wear white uniforms, and others wear black or red. In the background, a crowd of spectators is seated at tables, watching the demonstration. Throughout the sequence, the man in blue shifts his weight and extends his arms in choreographed motions, transitioning from a wide stance with his arm raised to a more centered position with his hand extended outward. The other practitioners move in synchronization or perform their own forms behind him, maintaining a focused demeanor. The setting remains consistent across the frames, with the lighting and background elements unchanging as the martial arts demonstration progresses."
+}

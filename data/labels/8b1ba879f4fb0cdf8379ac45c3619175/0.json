@@ -1,0 +1,15 @@
+{
+  "video_id": "8b1ba879f4fb0cdf8379ac45c3619175",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-213.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.183,
+    0.55,
+    0.917,
+    1.283
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are seen interacting with a stack of sports cards and protective cases on a table covered with a tablecloth featuring palm trees and the \"JASPYS\" logo. In the background, a man with a beard wearing a black t-shirt is visible in a small inset video window, appearing to narrate or react. On-screen text displays \"JASPYS\" and \"CASEBREAKS.COM\". In the initial sequence, a hand reaches toward the cards and a stack of grey protective cases topped with a yellow card. As the action progresses, the person's hand moves across the table, shifting the focus from the cards toward the right side of the frame. The environment includes a computer monitor and other equipment in the background, while the man in the inset remains consistently present, observing the process as the hand manipulates the collectible items."
+}

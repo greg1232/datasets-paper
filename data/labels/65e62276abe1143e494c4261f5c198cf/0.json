@@ -1,0 +1,15 @@
+{
+  "video_id": "65e62276abe1143e494c4261f5c198cf",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.196,
+    0.588,
+    0.98,
+    1.372
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a grey beard, wearing a grey polo shirt and a name tag that reads \"Mr Steve Larmor Alpha Sensor,\" stands in an exhibition setting. In the background, a poster features the text \"Catalog Innovation.\" As the sequence progresses, a hand enters the frame from the left, holding a small white business card. In the initial frames, the card is held blankly towards the camera, obscuring part of the man's chest. As the view shifts, the card is moved closer to the lens, revealing printed text and a logo. The man remains in the background, smiling slightly, while the focus shifts from his upper body to the details on the business card. The environment suggests a professional trade show or conference, with various informational displays and posters visible behind the subjects."
+}

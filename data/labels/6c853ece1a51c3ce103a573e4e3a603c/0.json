@@ -1,0 +1,15 @@
+{
+  "video_id": "6c853ece1a51c3ce103a573e4e3a603c",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.708,
+    0.992
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a kitchen setting, a silver pot containing a light yellow liquid is placed on a white electric stove with black coil burners. A small cluster of seeds or grains floats in the center of the liquid. In a small inset window, a woman with blonde hair wearing a dark short-sleeved shirt is visible, gesturing with her hands as she speaks. Across the sequence, the main action occurs around the pot. In the first two frames, the pot remains stationary. In the third frame, a person's hand and arm enter from the right side of the frame, reaching toward the stove. In the final frame, the hand is seen pouring a white powdery substance from a small container into the liquid in the pot. The woman in the inset window continues to gesture throughout the sequence. No on-screen text or logos are visible."
+}

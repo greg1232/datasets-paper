@@ -1,0 +1,15 @@
+{
+  "video_id": "6b538478db345de9c7a99f4d726655b5",
+  "url": "./data/segments/3rrLMM3eyQc-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.158,
+    0.475,
+    0.792,
+    1.108
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a woman with dark hair wearing a patterned purple top and a man in a grey suit standing before a blue and white flag. A blue banner at the bottom of the screen reads \"FOREIGN NEWS\" and \"NUCLEAR PROGRAMME,\" followed by the text \"ISRAEL EXPECTS I.A.E.A. TO GIVE IRAN CLEAR WARNING AHEAD.\" The logo \"plustv\" appears in the top left corner, and a web address \"W W W.YOUTUBE.COM/PLUSTVAFRICA\" is visible near the bottom. As the sequence progresses, the news footage is replaced by a red screen with a circular pattern. White text appears, transitioning from \"HE\" to \"HELLO\" and eventually forming a fragmented, oversized pattern of the word \"HELLO\" across the background. The transition shifts from a focused news report to a stylized graphic sequence of text on a red background."
+}

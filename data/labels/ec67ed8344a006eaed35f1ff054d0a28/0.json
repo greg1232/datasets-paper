@@ -1,0 +1,15 @@
+{
+  "video_id": "ec67ed8344a006eaed35f1ff054d0a28",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-146.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a web browser window with multiple open tabs, including one titled \"Blackboard Ultra learning.\" The main content of the page is a dark-themed interactive diagram featuring a network of nodes connected by lines. Several nodes contain small circular profile images, including one of a person with white hair and another of a person with red hair. A larger vertical image of a couple is positioned near the center. To the right of the diagram, a small video call window shows a man wearing a dark baseball cap. Across the sequence, the visual state remains virtually static; the man in the video call remains in the same position, and the elements of the interactive diagram, including the nodes and the \"Blackboard Ultra learning\" text in the browser address bar, do not move or change."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e4c379eeea821af8a001667b1f1cb984",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-209.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.27,
+    0.81,
+    1.35,
+    1.89
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark shirt and glasses is visible in a small webcam window in the upper right of a screen recording. The majority of the screen displays a complex system map on a black background, featuring green text nodes connected by blue and red curved arrows. Legible text includes \"Birds Outside,\" \"Attractiveness of Garden,\" \"Present breakfast,\" \"Frustrations,\" \"Bird Poop,\" \"Unsightly Coils,\" and \"Buy Bird Seed.\" The map illustrates various causal relationships, such as \"increases\" and \"encourages me to.\" In the top-left frame, the webcam window is not visible, and a white cursor is positioned near the center of the map. In the subsequent frames, the webcam window appears, and the cursor moves across the map, eventually shifting toward the right side of the screen. The system map remains static throughout the sequence while the user navigates the interface."
+}

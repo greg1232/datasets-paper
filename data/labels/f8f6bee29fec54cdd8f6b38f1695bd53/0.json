@@ -1,0 +1,15 @@
+{
+  "video_id": "f8f6bee29fec54cdd8f6b38f1695bd53",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-320.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.535,
+    1.605,
+    2.675,
+    3.745
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large grid of video call participants is displayed, showing numerous individuals in various indoor settings. The people are seen in home offices or rooms with bookshelves, wearing casual attire such as t-shirts, button-downs, and glasses. Several individuals are talking or listening, while some appear still. Legible name tags beneath some video feeds include \"Jerry Mahulsi,\" \"Howard Silverman,\" \"Gera Billing,\" \"Erin Burke,\" \"Risa Peterson,\" \"Fabian Salinas,\" \"Jake van den Vyver,\" \"Bill Seta,\" \"Sara Cardona-Russell,\" and \"Kiana Niger.\" The screen captures a static layout of the video conference, with no significant movement or changes in the arrangement of the participants across the sequence. The scene remains a consistent multi-person virtual meeting, with the same group of people appearing in the same positions throughout the clip."
+}

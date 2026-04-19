@@ -1,0 +1,15 @@
+{
+  "video_id": "12af833ec4449e164ea405a2330a434c",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-118.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.825,
+    1.375,
+    1.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a professional sports trading card encased in a protective plastic slab. The card features a player named JONES and includes a signature and a \"1/1\" designation, indicating its rarity. The background includes a white surface with a design of orange shapes and green palm trees. A small inset window in the corner shows a man with a beard wearing a dark t-shirt, sitting in front of a computer setup with a yellow case. On-screen text and logos include \"JASPYS\" and \"CASEBREAKS.COM\". Throughout the sequence, the hands subtly shift and tilt the graded card, causing the light to reflect off the plastic casing and the card's surface. The setting remains consistent, and the man in the inset window remains in a seated position, observing the action."
+}

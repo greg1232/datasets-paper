@@ -1,0 +1,15 @@
+{
+  "video_id": "f5fdfd25bcbc4ff5e9024b6f244f6f2d",
+  "url": "./data/segments/3QD9oO6sRns-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    4.548,
+    13.644,
+    22.74,
+    31.835
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a website called \"List Randomizer.\" A list of names, including \"Matt Mcrae\" and \"Chris walker,\" is typed into a text field under the instruction \"Part 1: Enter List Items.\" Beside the randomizer, a sidebar for \"JASPYSCASEBREAKS.COM\" features a man wearing a black t-shirt and a black baseball cap, accompanied by the text \"Hit the SUBSCRIBE button down below!\" and a red YouTube \"Subscribe\" button. As the sequence progresses, the user clicks \"Randomize\" under \"Part 2: Go!\", which triggers a transition to a Google Spreadsheet. This spreadsheet displays a numbered list of the same names, such as \"5. Richard Dunne\" and \"6. Matt Mcrae,\" and includes a timestamp: \"Timestamp: 2020-06-27 02:59:13 UTC.\" The \"JASPYSCASEBREAKS.COM\" sidebar remains constant on the right side of the screen throughout the process."
+}

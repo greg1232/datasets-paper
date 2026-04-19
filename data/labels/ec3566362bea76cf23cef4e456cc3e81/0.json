@@ -1,0 +1,15 @@
+{
+  "video_id": "ec3566362bea76cf23cef4e456cc3e81",
+  "url": "./data/segments/3Smz5pevbI4-Scene-025.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.181,
+    6.544,
+    10.907,
+    15.269
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static white screen containing black text. At the top of the screen, the phrase \"Social Psych: indirect examination of 'neuroscience'\" is displayed. Below this heading, a vertical list of psychological concepts is listed: \"Norms\", \"Threat\", \"Stereotype Threat\", \"Sacred Values\", \"Dehumanization\", and \"Empathy\". There are no people, objects, or movements visible across the sequence. The scene remains identical from start to finish, with the text remaining perfectly still on the white background. The layout is simple and academic in appearance, functioning as a slide or a presentation screen."
+}

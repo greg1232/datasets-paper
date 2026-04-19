@@ -1,0 +1,15 @@
+{
+  "video_id": "2a028af4469275ce54219fad96fc3006",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.256,
+    3.769,
+    6.281,
+    8.794
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black garment is seen in a small inset window, sitting at a table and interacting with items. The primary focus is a close-up of a black trading card box labeled \"OBSIDIAN\" in green lettering, featuring a card inside a plastic protector. The box also displays the text \"2 AUTOGRAPHS!\" on its side. This setup sits atop a black surface decorated with a large orange and white logo that includes the text \"JASPYS\" and the website \"CASEBREAKS.COM\". As the scene progresses, a person's hand enters the frame from the right, reaching toward the trading card box. The background remains constant, showing the person in the inset window continuing their activity, while the main action shifts from a static view of the product to the physical interaction of the hand approaching the box."
+}

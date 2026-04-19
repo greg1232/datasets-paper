@@ -1,0 +1,15 @@
+{
+  "video_id": "8a6a45f98e25b1b36d9eda439735cf2e",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-094.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.297,
+    0.891,
+    1.484,
+    2.078
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with long dark hair, wearing a striped button-down shirt and a black over-the-ear headset with a microphone, is captured in a medium close-up shot. She is positioned in an indoor setting with light-colored walls and a sheer yellow curtain partially visible behind her on the left. The text \"Nancy Ramya\" appears in white in the bottom left corner of each segment. Across the sequence, the woman is speaking, her mouth opening and closing as she communicates. Her facial expression remains relatively consistent, though her gaze shifts slightly. There are no other people or significant objects in the frame, and the background remains static throughout the clip. The only change between the frames is the slight movement of her lips and facial muscles as she continues to talk."
+}

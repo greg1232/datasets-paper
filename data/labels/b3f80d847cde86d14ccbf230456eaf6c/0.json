@@ -1,0 +1,15 @@
+{
+  "video_id": "b3f80d847cde86d14ccbf230456eaf6c",
+  "url": "./data/segments/3o6LBa7ZAp0-Scene-003.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.638,
+    1.914,
+    3.191,
+    4.467
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a professional setting against a textured gray wall, two men are seated at a long table. The man on the left wears a dark suit and a light orange scarf wrapped around his neck. The man on the right wears a dark suit, a blue tie, and has white hair. In front of them are microphones, water bottles, and small nameplates; the one on the left reads \"Bertrand BADREZ\" and the one on the right reads \"Jean Claude TRICHET.\" A small green plant in a glass vase sits on the table. A \"POLICY\" logo with a globe icon is visible on the wall. Throughout the sequence, the man on the right reaches his right arm across the table toward the left. The man on the left remains seated, observing and smiling slightly. The interaction is subtle, with the man on the right shifting his posture and arm position as the sequence progresses."
+}

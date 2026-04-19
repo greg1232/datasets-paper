@@ -1,0 +1,15 @@
+{
+  "video_id": "5ecd555256d2096b9cb3f07a0fbe9d62",
+  "url": "./data/segments/3L_uHTClWfk-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.842,
+    5.525,
+    9.208,
+    12.892
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static screen capture of an IRS website page. The page features the official \"IRS\" logo in the top left corner, with a navigation menu containing \"SEARCH | HELP | MENU\" in the top right. The main body of the text discusses required minimum distributions (RMDs), starting with a sentence stating that taxpayers \"face important upcoming deadlines for required minimum distributions to avoid penalties.\" The text further explains that \"Required minimum distributions, or RMDs, are minimum amounts that many retirement plan and IRA account owners must generally withdraw annually after they reach age 72.\" It details rules for traditional IRAs, SEP, SARSEP, and SIMPLE IRAs, mentioning that account holders reaching age 72 in 2022 must take their first RMD by \"April 1, 2023\" and the second by \"December 31, 2023.\" The bottom of the screen mentions \"Retirement Plans: In 401(k), 403(b) and 457(b) plans; profit-sharing and other defined.\" The image remains consistent across all frames."
+}

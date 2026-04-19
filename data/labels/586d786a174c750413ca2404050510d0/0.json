@@ -1,0 +1,15 @@
+{
+  "video_id": "586d786a174c750413ca2404050510d0",
+  "url": "./data/segments/3P1vSUbet40-Scene-0731.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt, a black baseball cap, and over-ear headphones sits in a studio setting. He wears a gold chain around his neck and a watch on his left wrist. He is positioned behind a professional microphone, with his hands clasped in front of him. The background is a white wall featuring a pattern of gold stars and the repeated text \"ENFORCE HUSTLE.\" To his right, a logo reads \"BOSS TALK 101\" with a smaller line beneath it stating \"BY L.O.V.E.\" A separate graphic on the left displays \"BOSS TALK 101 PODCAST.\" Throughout the sequence, the man remains in the same position, shifting his facial expression from a closed-eyed, smiling look to an open-eyed, attentive expression while slightly adjusting his head position. The lighting remains consistent, and the camera angle is a static medium shot."
+}

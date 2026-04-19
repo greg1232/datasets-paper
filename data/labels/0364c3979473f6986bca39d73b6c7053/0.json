@@ -1,0 +1,15 @@
+{
+  "video_id": "0364c3979473f6986bca39d73b6c7053",
+  "url": "./data/segments/3P1vSUbet40-Scene-0759.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored, spiked hair wears glasses, headphones, a white shirt, a small red bow tie, and tan suspenders while sitting in a studio. He is positioned behind a black microphone, appearing to speak or listen. The background consists of a wall decorated with several small, framed photographs and a yellow poster with the word \"LEE\" visible. To his right, a white electronic device is mounted on the wall. On-screen graphics appear on the left and right sides of the frame; on the left is a logo that reads \"BOSS TALK 101 PODCAST,\" and on the right is text that reads \"BOSS TALK 101 PODCAST.\" Across the sequence, the man remains in a stationary position, with only slight shifts in his facial expression and head tilt, indicating a continuous shot of him during a recording session."
+}

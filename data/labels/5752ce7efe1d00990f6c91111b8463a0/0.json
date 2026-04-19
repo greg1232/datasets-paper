@@ -1,0 +1,15 @@
+{
+  "video_id": "5752ce7efe1d00990f6c91111b8463a0",
+  "url": "./data/segments/3fokLGPK15Q-Scene-115.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.505,
+    10.515,
+    17.525,
+    24.535
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Three people sit in wooden chairs on a stage against a purple-lit backdrop. On the left, a man wears a white button-down shirt; in the center, a woman wears a black t-shirt and black pants; on the right, a man wears a grey suit jacket over a blue shirt. In front of them are white, textured blocks. The man on the right is speaking and gesturing with his hands, while the other two look toward him and smile. The woman shifts her posture slightly and adjusts her hands in her lap as the sequence progresses. The man on the left remains relatively still, listening with a smile. Large, stylized pink lettering, including the characters \"SL\", is visible on the base of the stage behind them. The lighting and overall composition remain consistent throughout the scene as the individuals interact."
+}

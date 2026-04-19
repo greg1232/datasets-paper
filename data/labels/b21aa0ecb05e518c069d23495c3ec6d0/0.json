@@ -1,0 +1,15 @@
+{
+  "video_id": "b21aa0ecb05e518c069d23495c3ec6d0",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.312,
+    0.521,
+    0.729
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a spacious ballroom with a high ceiling and a large central chandelier, four individuals are practicing martial arts on a blue carpet. A person in a yellow outfit is centrally positioned, executing a strike with a staff. To their left, another person wears a blue outfit, and to their right, a person in a blue shirt and trousers stands beside someone in a white outfit. Further right, another person in a blue outfit is also engaged in the practice. In the background, a crowd of spectators is seated at tables. As the sequence progresses, the person in yellow shifts their weight and continues the motion of their staff, while the other practitioners adjust their stances and movements in coordination. The background remains stable, with the observers watching the demonstration in the well-lit venue."
+}

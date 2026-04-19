@@ -1,0 +1,15 @@
+{
+  "video_id": "0f2283f0f47fff45fef6425285843c5b",
+  "url": "./data/segments/3Z229_lKLpk-Scene-212.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.225,
+    0.675,
+    1.125,
+    1.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide-angle shot captures a large, modern assembly hall with a distinctive geometric, coffered ceiling. A crowd of people fills the tiered seating, dressed in a variety of colorful attire. In the front, a raised platform features a podium and a large, light-colored textured wall with a circular emblem in the center. Two large digital screens are positioned on either side of this wall, displaying an image of an interior space. The scene remains static across the sequence, with the crowd seated and facing the front of the room. The architectural lighting provides a warm glow throughout the space, and the symmetrical layout emphasizes the scale of the hall. No legible text or logos are visible on the screens or within the environment."
+}

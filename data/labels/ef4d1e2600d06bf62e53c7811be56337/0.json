@@ -1,0 +1,15 @@
+{
+  "video_id": "ef4d1e2600d06bf62e53c7811be56337",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on a dark grey, textured surface, likely a part of a vehicle, featuring the word \"CORVETTE\" embossed in capital letters. The camera remains stationary, providing a tight view of the branding and the surrounding material. The letters of \"CORVETTE\" are slightly raised and catch the light, creating subtle shadows that define their shape. To the left of the text, a small metallic part with some markings is partially visible. Throughout the sequence, the lighting shifts slightly, causing different parts of the textured surface and the embossed text to be highlighted. There are no people present in the scene, and the focus remains entirely on the tactile quality and branding of the object."
+}

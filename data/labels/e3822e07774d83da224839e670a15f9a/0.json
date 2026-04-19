@@ -1,0 +1,15 @@
+{
+  "video_id": "e3822e07774d83da224839e670a15f9a",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-118.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.185,
+    0.555,
+    0.925,
+    1.295
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser displaying a complex system map on a dark background, featuring circular icons connected by blue lines. The map includes various nodes with labels such as \"Health,\" \"Education,\" and \"Food Security.\" In the top right corner of the browser window, a video call overlay shows a man wearing a dark baseball cap and a grey shirt. As the sequence progresses, the cursor moves across the system map, interacting with different nodes. In the final scene, a translucent grey overlay appears on the right side of the screen, partially covering the map and showing a monochromatic image of people. The browser tabs at the top are visible, with titles including \"Trust & Learning by Systemenics,\" \"Science of Society by Systemenics,\" and \"Road Community Food Spot.\" The overall interface suggests a remote presentation or collaborative mapping session."
+}

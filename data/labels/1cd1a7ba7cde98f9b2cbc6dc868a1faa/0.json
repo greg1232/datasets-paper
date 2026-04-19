@@ -1,0 +1,15 @@
+{
+  "video_id": "1cd1a7ba7cde98f9b2cbc6dc868a1faa",
+  "url": "./data/segments/3TQScsCOS2k-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.765,
+    2.295,
+    3.825,
+    5.355
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair is seated in front of a backdrop depicting a lush, green jungle landscape with waterfalls and mountains. He is wearing a white t-shirt under a dark navy or black overcoat. To his right, stylized orange and yellow text reads \"JUMANJI\" with the smaller phrase \"WELCOME TO THE JUNGLE\" appearing directly underneath. Across the sequence, the man is speaking, and his facial expressions and mouth movements change as he talks. He begins by looking slightly to his right with a neutral expression, then shifts his gaze forward and opens his mouth to speak. In the final segments, he continues speaking while looking toward the camera, maintaining his seated position. The background and the text on the screen remain static throughout the clip."
+}

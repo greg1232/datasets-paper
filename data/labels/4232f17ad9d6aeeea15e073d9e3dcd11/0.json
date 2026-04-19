@@ -1,0 +1,15 @@
+{
+  "video_id": "4232f17ad9d6aeeea15e073d9e3dcd11",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-212.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.915,
+    20.746,
+    34.576,
+    48.407
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and dark hair pulled back is performing in front of a brown slatted wall. He wears a white long-sleeved shirt under a black vest featuring blue embroidery and a red and white patterned pocket. He stands behind a microphone attached to a boom arm, and the word \"ORCA\" is visible on the screen to his left. In the initial sequence, he is singing into the microphone with his mouth open, while the heads of audience members are visible in the lower foreground. As the sequence progresses, he continues to sing and then shifts his gaze downward, tilting his head toward the bottom of the frame while remaining in position behind the microphone. The lighting is consistent throughout, and the background remains static as he performs."
+}

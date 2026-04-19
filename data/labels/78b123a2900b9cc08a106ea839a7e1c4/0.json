@@ -1,0 +1,15 @@
+{
+  "video_id": "78b123a2900b9cc08a106ea839a7e1c4",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-197.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.367,
+    1.101,
+    1.835,
+    2.569
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on a blurred digital screen filled with a grid of numbers in various colors, including yellow, white, red, and green. A blue and red banner stretches across the lower third of the screen, featuring the name \"Basil Chapman\" in a bold white font. Directly beneath the name, smaller white text reads \"The Tiger Technicians Hour | June 8th, 2022\". As the scene progresses, the camera slowly pans across the screen, shifting the perspective of the numerical grid. The motion causes the numbers to shift and glide, while the banner remains consistently positioned at the bottom of the frame. No people or other objects are visible, and the primary movement is the gradual horizontal translation of the camera across the glowing data display."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6a13572b917c8779dc074cf638dfc59f",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-196.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    23.411,
+    70.233,
+    117.054,
+    163.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with glasses and grey hair, wearing a light blue button-down shirt with colorful embroidered designs, stands behind a wooden podium. He is delivering a presentation in a room with beige slatted walls and dark vertical beams. On the front of the podium is a red logo with the white text \"LIBRARY\". To the right of the podium, a white sign displays the word \"ORCA\" in black capital letters. Several audience members are visible from the back, their heads appearing in the foreground. As the sequence progresses, the man shifts from reading a document on the podium to lifting a yellow piece of paper to look at it, and then lowers it back toward the podium. His facial expression remains neutral as he speaks into two black microphones attached to the podium."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "adcb2aea930ab490599514255b288c7a",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-101.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.345,
+    1.035,
+    1.725,
+    2.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a white shirt speaks into multiple microphones during an outdoor press conference, surrounded by other men in formal attire. The setting includes a blurred outdoor background with greenery. On-screen graphics overlay the video, including the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo and a red banner at the bottom featuring the text \"\u091c\u0947. \u092a\u0940. \u0928\u0921\u094d\u0921\u093e: \u092c\u093f\u0939\u093e\u0930 \u0928\u0947 NDA \u0915\u094b \u092c\u0939\u0941\u092e\u0924 \u0926\u093f\u092f\u093e \u0925\u093e\" and the time \"10:05 PM.\" A red headline at the top reads \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". Throughout the sequence, the camera focuses on the speaking man, while various portrait photos of political figures, including \"\u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930,\" \"\u0938\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940,\" and \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e,\" appear in side panels. As the sequence progresses, the on-screen graphics shift; the side panels update to show different people, such as \"\u0935\u093f\u091c\u0947\u0902\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\" and \"\u0936\u094d\u0930\u0935\u0923 \u0915\u0941\u092e\u093e\u0930,\" and a portrait of \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\" briefly appears on the left."
+}

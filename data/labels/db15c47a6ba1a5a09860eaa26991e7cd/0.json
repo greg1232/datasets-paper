@@ -1,0 +1,15 @@
+{
+  "video_id": "db15c47a6ba1a5a09860eaa26991e7cd",
+  "url": "./data/segments/3TQScsCOS2k-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.565,
+    1.695,
+    2.825,
+    3.955
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit side-by-side in front of a large jungle-themed backdrop featuring a scenic landscape and the text \"JUMANJI WELCOME TO THE JUNGLE\". Both men wear long-sleeved black shirts and silver necklaces. The man on the left is bald and muscular, while the man on the right wears dark sunglasses. Initially, the bald man smiles broadly while the other man looks toward him. As the scene progresses, the bald man begins gesturing with his hands while speaking, and the second man smiles. Subsequently, the bald man brings his hand up to touch his forehead, and the man in sunglasses mirrors this gesture by raising his hand to his face. Throughout the sequence, the men remain seated in their chairs, interacting with one another against the static promotional background."
+}

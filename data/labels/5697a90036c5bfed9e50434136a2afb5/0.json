@@ -1,0 +1,15 @@
+{
+  "video_id": "5697a90036c5bfed9e50434136a2afb5",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-059.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.405,
+    1.215,
+    2.025,
+    2.835
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast features a group of men in a crowd, focusing on Nitish Kumar, who is wearing a white kurta and glasses. He is seen interacting with others and looking at a piece of paper. Several other men are present, some wearing suits and others in traditional attire. The screen is overlaid with news graphics, including the logo \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" and various text banners in Hindi. Top banners read \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\" and \"\u0928\u0940\u0924\u0940\u0936 \u0915\u094b \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u0938\u0940\u0927\u0940 \u0927\u092e\u0915\u0940'\". A red ticker at the bottom states \"PM \u092e\u094b\u0926\u0940 \u0928\u0947 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930 \u0915\u094b \u092c\u0927\u093e\u0908\", though the text is cut off in later frames. Small inset photos of other individuals, such as \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\" and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930,\" appear on the side. As the sequence progresses, the camera angle remains similar, but the on-screen text and graphics shift, updating the news headlines and labels."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "815c29ad92b0f4dad5820fb368f80f62",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-391.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.123,
+    0.369,
+    0.615,
+    0.86
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game depiction of an American football game features a stadium setting with a green field, white yard lines, and a crowd in the background. Players from two teams, one in white uniforms and one in dark uniforms, are lined up at the scrimmage line. A referee in a black-and-white striped shirt stands nearby. The top of the screen displays a game interface with text including \"1st & 10\", a team logo with \"14\", \"EXO 7\", \"3rd\", \"1:58\", \"27\", and a timer showing \":30\" or \":29\". A small text banner reads \"Q. SMITH R14 36 YDS 1 TD 1 INT\". In the bottom left of each frame, a picture-in-picture window shows a man with blonde hair wearing a black shirt, gesturing with his hands. Across the sequence, the players remain largely stationary in their positions, while the timer counts down from \":30\" to \":29\"."
+}

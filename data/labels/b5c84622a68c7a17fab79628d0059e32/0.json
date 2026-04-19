@@ -1,0 +1,15 @@
+{
+  "video_id": "b5c84622a68c7a17fab79628d0059e32",
+  "url": "./data/segments/3QD9oO6sRns-Scene-105.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.404,
+    1.212,
+    2.021,
+    2.829
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown interacting with a clear plastic protective case for a collectible card. In the first frame, the left hand holds a blue and white cardboard box while the right hand grips the plastic case. As the sequence progresses, the hands maneuver the case, moving it closer to the camera and adjusting its position. In the background, stacks of similar product boxes are visible. A small inset window in the corner shows a man wearing a black t-shirt sitting in front of a computer setup. Text overlays appear throughout the video, including the logo \"JASPYS CASEBREAKS\" and the website \"CASEBREAKS.COM\". The phrase \"CLEARLY AUTHENTIC\" is printed inside the cardboard box. The action focuses on the tactile handling of the protective case against the backdrop of a hobbyist's workspace."
+}

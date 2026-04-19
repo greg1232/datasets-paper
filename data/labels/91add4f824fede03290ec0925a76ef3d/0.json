@@ -1,0 +1,15 @@
+{
+  "video_id": "91add4f824fede03290ec0925a76ef3d",
+  "url": "./data/segments/3a0FD1177FA-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.375,
+    1.126,
+    1.877,
+    2.628
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands work on a craft project on a white gridded cutting mat. They wear a white smartwatch on their left wrist. Various crafting supplies are scattered around, including an ink pad, floral patterned cardstock, and a red stamp. A small white square piece of paper features the printed text \"hoping your BIRTHDAY is filled with ALL THE best things\". In the initial sequence, the person's left hand rests near the floral paper. They then reach for and pick up the white square of paper. As the sequence progresses, the person moves the white paper across the mat toward the bottom of the frame. A logo for \"Stamping Jill\" is visible in the lower-left corner, and the text \"LABEL ME LOVELY Punch\" is printed on the cutting mat. The scene remains static except for the movement of the person's hands as they manipulate the paper."
+}

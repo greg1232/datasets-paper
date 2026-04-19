@@ -1,0 +1,15 @@
+{
+  "video_id": "bcaf71826290021772abd489a454c120",
+  "url": "./data/segments/3E6ctN22V7k-Scene-016.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.255,
+    0.765,
+    1.275,
+    1.785
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a close-up overhead view of a person sitting at a wooden desk. The person, wearing a blue garment with red trim at the sleeve, is positioned on the left side of the frame. On the desk lies an open notebook filled with handwritten text and a black pen resting nearby. In the background, another open book is partially visible. The camera remains static throughout the sequence, focusing on the materials on the desk. In the latter half of the clip, white text appears at the bottom of the screen, stating, \"We do not have access to educational resources.\" The scene remains otherwise unchanged, capturing a still moment of study or writing."
+}

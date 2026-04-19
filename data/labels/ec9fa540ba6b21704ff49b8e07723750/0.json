@@ -1,0 +1,15 @@
+{
+  "video_id": "ec9fa540ba6b21704ff49b8e07723750",
+  "url": "./data/segments/3E6ctN22V7k-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.155,
+    0.465,
+    0.775,
+    1.085
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman in a green shirt with a white patterned collar stands outdoors in a rural, hilly landscape filled with greenery and banana trees. She holds a small child wearing a white dress and red top. Several other children surround them, including a boy in a black t-shirt and another in a dark blue and red shirt. In the initial frames, the woman looks toward the camera while holding the child, and the caption \"We have no access to information or training.\" appears across the bottom. As the scene progresses, the woman turns her head slightly to the side. The on-screen text then changes to read, \"There is no internet, there are not even computers.\" Throughout the sequence, the group remains stationary in the grassy area, with the children looking in various directions as the subtitles update to convey a message about a lack of technological resources."
+}

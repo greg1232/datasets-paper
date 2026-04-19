@@ -1,0 +1,15 @@
+{
+  "video_id": "02b17de12c2c066113803b650cb10b0a",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-085.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.32,
+    0.96,
+    1.6,
+    2.24
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a static educational slide titled \"Summary\" under the header \"CRYOGENIC ENGINEERING.\" The slide contains a single bullet point stating, \"The liquid yield y for a Linde \u2013 Hampson system is given by\", but the actual formula is missing from the white space below the text. In the bottom left corner, the NPTEL logo is visible. A footer across the bottom reads, \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" Across the sequential frames, the visual content remains entirely unchanged. The only movement is a small, white mouse cursor that shifts position slightly across the white background, moving from the left side of the screen toward the center. No people are present in the frames, and there is no change in the text or graphics."
+}

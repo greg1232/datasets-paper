@@ -1,0 +1,15 @@
+{
+  "video_id": "b414e8a81b4c56f1c9c904ffe6348e93",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-697.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.986,
+    5.959,
+    9.932,
+    13.905
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt and a matching green baseball cap with a logo is seated in a studio setting, speaking into a black professional microphone. His shirt features the white printed text \"ION NEVER DO SHIT AT WORK\". He wears black over-ear headphones. In the background, a white mannequin wears a white t-shirt, and various framed photographs and clothing racks are visible on the walls and in the room. Two logos appear as overlays on the screen: a circular logo on the left and a red \"BOLLY TOSI\" logo on the bottom right. As the sequence progresses, the man shifts his expression and posture, moving from speaking actively to tilting his head back with a skeptical look, and finally looking downward toward the microphone. The camera remains stationary, capturing him from the chest up throughout the scene."
+}

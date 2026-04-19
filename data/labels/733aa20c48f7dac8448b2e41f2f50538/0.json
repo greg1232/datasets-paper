@@ -1,0 +1,15 @@
+{
+  "video_id": "733aa20c48f7dac8448b2e41f2f50538",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a web browser with multiple open tabs, including \"Trial & Learning by SystemDyn,\" \"Future of Society by SystemDyn,\" \"Insights into Introduction to Auto,\" and \"Rural Community Food System.\" The main window shows a dark interface featuring a complex conceptual map with circular nodes and connecting lines. Several nodes contain images, including one of a person's face. A white rectangular overlay with blue diagrams and text is positioned over the map. In the top right corner, a video call window shows a man with dark hair and a headset wearing a dark shirt. He remains present throughout the sequence. The visual content of the map and the browser tabs stays static, while the man in the video call window shifts slightly in posture, maintaining his gaze toward the screen."
+}

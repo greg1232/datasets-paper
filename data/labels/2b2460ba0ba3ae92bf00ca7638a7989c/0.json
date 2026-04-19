@@ -1,0 +1,15 @@
+{
+  "video_id": "2b2460ba0ba3ae92bf00ca7638a7989c",
+  "url": "./data/segments/3rK3uaJF1Ds-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.527,
+    1.581,
+    2.635,
+    3.69
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands open a blue, silver, and white foil trading card pack over a surface featuring a logo with a red cursive font and the word \"GAMEBREAK\". In the first frame, the hands hold the sealed pack, and by the second, the pack is being torn open. The third frame shows the pack open with a card partially revealed inside. In the final frame, the person holds up a basketball trading card featuring Jimmy Butler of the Miami Heat, showing the \"M\" team logo and the text \"JIMMY BUTLER\". A small inset window in the background shows a man in a black shirt. Overlaying the center area is a chat feed with usernames like \"givebag07\" and \"Nightlo\" and a message stating, \"Click the link for the BREAK SCHEDULE, SHIPPING INFO and MORE >>> https://bit.ly/3ZeaXK5\"."
+}

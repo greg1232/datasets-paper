@@ -1,0 +1,15 @@
+{
+  "video_id": "520f93e6ac802b2da893e179c43f6069",
+  "url": "./data/segments/3Z229_lKLpk-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large assembly of people is seated in a tiered auditorium with wood-paneled walls. The attendees are primarily men dressed in diverse formal attire, including dark business suits and traditional white thobes with ghutras. They are seated in rows, facing forward, with some individuals engaged in quiet conversation and others looking ahead. In the background, a large digital screen is partially visible, though no text or logos are legible on it. Throughout the sequence, the scene remains almost static, with very subtle shifts in the posture and gaze of the attendees. The lighting is consistent and bright, illuminating the vast crowd and the architectural details of the hall. There are no major movements, interactions, or changes in the setting across the progression of the scenes."
+}

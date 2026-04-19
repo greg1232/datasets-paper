@@ -1,0 +1,15 @@
+{
+  "video_id": "2111b7bdd6770c9351807a42df57004d",
+  "url": "./data/segments/3E6ctN22V7k-Scene-083.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.59,
+    1.77,
+    2.95,
+    4.13
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of large, industrial transport cases with metal edges and reinforced corners are lined up in a row inside a warehouse or storage facility with a brick wall and concrete floor. The cases are color-coded, featuring yellow and blue exteriors, and are equipped with handles, latches, and wheels. Some cases are marked with single letters such as \"E\", \"A\", and \"D\". The camera first provides a wide view of the row of cases, shifting perspective slightly to show the sequence of colors and labels. Finally, the scene transitions to a close-up shot where a person's dark-skinned hand reaches down to operate a silver metal latch on the top of a yellow case, flipping the mechanism to unlock it."
+}

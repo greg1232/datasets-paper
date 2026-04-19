@@ -1,0 +1,15 @@
+{
+  "video_id": "8aaa2b52cc88455b1708495a85d30ac5",
+  "url": "./data/segments/3JYDT8lap5U-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    11.17,
+    33.51,
+    55.85,
+    78.19
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a grey blazer over a dark shirt and a name tag, stands at a podium giving a presentation at EuroPython. He is positioned to the left of a large projection screen. The screen displays slides explaining machine learning concepts. Initially, the screen reads \"THEY LEARNED, IT'S BASICALLY\" and \"automatically learning from data examples to predict an output based on an input,\" accompanied by images of a blue square and a blue triangle. As the presentation progresses, the slide changes to \"WE WANT TO LEARN A FUNCTION\" and displays the formula \"f(x) = mx + b,\" alongside a scatter plot. The man gestures toward the screen as the slides transition to \"SO WE CAN PREDICT NEW DATA,\" showing a graph with a decision boundary, and finally to \"WE ARE ABLE TO FIND THE WEIGHTS,\" which includes the text \"f(x) = triangle if (0.3x + 1\u03b8 > 0.5 else square.\" A red and green EuroPython logo and the text \"Edinburgh 23 29 July 2018\" are visible at the bottom of each frame."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "b6be4aebc5eca211fe146b94201eddf8",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.462,
+    0.771,
+    1.079
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white airplane with a purple stripe and the word \"\u0420\u041e\u0421\u0421\u0418\u042f\" written on its side taxis across a paved airfield. The aircraft features a high T-tail and rear-mounted engines. In the background, several military helicopters are parked on a grassy area near a tall white chimney with red bands. A small red circular logo containing the number \"13\" is visible in the upper right corner of the scene. As the sequence progresses, the airplane slowly moves forward from left to right across the frame. The background remains static, with the helicopters and the chimney staying in place while the aircraft shifts its position on the tarmac. No people are visible in the frames."
+}

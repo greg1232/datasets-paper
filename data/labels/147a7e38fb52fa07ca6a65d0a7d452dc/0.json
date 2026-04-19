@@ -1,0 +1,15 @@
+{
+  "video_id": "147a7e38fb52fa07ca6a65d0a7d452dc",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.415,
+    1.244,
+    2.073,
+    2.902
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a pink sleeveless shirt and black shorts plays basketball in an indoor gymnasium featuring a blue and yellow court and blue bleachers. In the first frame, the man is captured mid-air, jumping toward the center of the court while a basketball is suspended high above him. By the second frame, he has landed on his feet, facing right as the ball remains in the air. In the third frame, he is standing and reaches his right arm upward toward the ball, which is descending toward him. In the final frame, the man stands still and watches as the basketball bounces away from him toward the right side of the court. The gym is equipped with basketball hoops and white brick walls, and no text or logos are visible in the scene."
+}

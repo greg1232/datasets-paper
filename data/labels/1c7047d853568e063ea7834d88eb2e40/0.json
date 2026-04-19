@@ -1,0 +1,15 @@
+{
+  "video_id": "1c7047d853568e063ea7834d88eb2e40",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-110.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.855,
+    5.565,
+    9.275,
+    12.985
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser window displaying a complex digital mind map or network diagram on a black background. The diagram consists of various nodes containing icons and text, connected by lines. Prominent nodes include an image of a person, a cartoon of a shopping cart with the word \"SALE\" in large block letters, and several circular icons. To the right of the main interface, a video call window displays a man wearing a dark baseball cap and a dark shirt. Browser tabs at the top are visible, with titles such as \"Trust & Learning by Systemic,\" \"Future of Society by Systemic,\" and \"Rural Community Food System.\" As the video progresses, the man in the video call window remains present and periodically speaks or moves slightly, while the main screen stays focused on the interactive diagram, maintaining its layout throughout the sequence."
+}

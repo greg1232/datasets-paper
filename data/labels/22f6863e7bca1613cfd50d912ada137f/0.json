@@ -1,0 +1,15 @@
+{
+  "video_id": "22f6863e7bca1613cfd50d912ada137f",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-335.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.75,
+    1.25,
+    1.75
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a dark, glittery rectangular mat in front of a camera. In the background, a man wearing a dark blue t-shirt with a yellow logo sits in a room with a desk and various items. On the wall behind him is a design featuring palm trees. A logo and website address appearing in the upper right of the scene read \"JASPYS CASEBREAKS.COM\". Across the sequence, the person's hands move the mat, tilting and shifting it to show how the light reflects off the sparkling surface. The man in the background remains seated, watching the action. The setting appears to be a workspace dedicated to collectibles, as evidenced by the stacks of cards and professional equipment visible in the background. The mat is the central focus, moving from a tilted angle to a flatter position as it is showcased."
+}

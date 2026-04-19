@@ -1,0 +1,15 @@
+{
+  "video_id": "01d6dfc3427350e16677c0ac00ed4ca8",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-238.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    16.07,
+    48.211,
+    80.351,
+    112.492
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a series of technical analysis stock charts for \"Crown Castle Corp- REIT-Towers\". The screen is filled with multiple panes containing candlestick price charts, MACD indicators, and Stochastic Slow oscillators. Various geometric shapes, lines, and labels are overlaid on the charts to indicate trading patterns. Legible text includes labels such as \"148.80\", \"180inish\", and \"Volatility Index monthly chart\". One pane specifically identifies a \"FedPivot\" area with a date of \"1/2022\" and another labels \"Corona\" with the date \"3/2020\". As the sequence progresses, the view shifts across different timeframes and technical indicators, moving from a focus on the main price action and its projections to a detailed look at a volatility index chart. The visuals remain focused on these complex financial data visualizations throughout the clip, with no people or physical settings visible."
+}

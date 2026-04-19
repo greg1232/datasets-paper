@@ -1,0 +1,15 @@
+{
+  "video_id": "be0bd6ee4605bbefaa3dc1be66e61464",
+  "url": "./data/segments/3jaAcpqJEbg-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.333,
+    1.0,
+    1.667,
+    2.333
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands on a stage in front of a large blue screen featuring repeating logos and text. He is wearing a blue short-sleeved t-shirt and a white lanyard around his neck. He stands behind a dark lectern, gesturing with his hands as he speaks. The backdrop consists of a blue digital display with the text \"rootconf\" accompanied by three hash symbols, as well as the text \"has geek\" in a white, stylized font. The background also features abstract geometric shapes and additional hash symbols. Across the sequence, the man remains in the same position and attire, though his hand gestures and facial expressions shift slightly as he delivers his presentation. The lighting is dim on the stage, contrasting with the bright blue illumination of the screen behind him."
+}

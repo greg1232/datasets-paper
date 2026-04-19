@@ -1,0 +1,15 @@
+{
+  "video_id": "ed76c0574a13fbd594e7566eb8da6a1e",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-083.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.363,
+    1.089,
+    1.814,
+    2.54
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a simulated medical environment, two female healthcare professionals in blue scrubs and black jackets are attending to a medical mannequin lying in a hospital bed. One woman wears a black face mask and blue gloves, standing over the mannequin, while the other woman stands beside her, also wearing blue gloves. The mannequin is covered with a white floral-patterned blanket. The room contains medical equipment, including a monitor on the wall and a red crash cart in the background. On-screen text includes \"Day 2\" accompanied by a pink female silhouette icon and \"Sim Week\" next to a set of purple bars. A timer in the top left corner changes from \"109 15\" to \"109 13\" and then \"110 13\". Throughout the sequence, the healthcare workers remain in position, observing the mannequin and holding white papers, with minimal movement as the timer progresses."
+}

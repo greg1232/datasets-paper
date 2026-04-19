@@ -1,0 +1,15 @@
+{
+  "video_id": "1e6ed26330aec3a8ad05581513594a10",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.462,
+    0.771,
+    1.079
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person mixes a large batch of light-brown, textured food in a wide metal bowl using a red spatula. The setting appears to be a kitchen, with a wooden surface holding the bowl and two smaller containers: a white bowl and a red bowl, both containing small, round, light-colored pieces of food. In the upper left corner of each scene, a logo and text read \"UCAR CENTER FOR SCIENCE EDUCATION\". Throughout the sequence, a hand is visible holding the handle of the red spatula, stirring the mixture in a circular motion. The food in the large bowl is shifted and turned as the spatula moves through the mass. While the surrounding bowls and the background remain stationary, the mixture in the center bowl changes position and shape as it is actively stirred."
+}

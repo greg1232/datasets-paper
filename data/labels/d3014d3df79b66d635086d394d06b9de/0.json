@@ -1,0 +1,15 @@
+{
+  "video_id": "d3014d3df79b66d635086d394d06b9de",
+  "url": "./data/segments/3fokLGPK15Q-Scene-090.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.535,
+    1.605,
+    2.675,
+    3.745
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide shot captures a stage set against a dark background, illuminated by a complex array of intersecting purple and blue laser beams. A large circular screen dominates the center, displaying the text \"SLUSH 21\" in a stylized white font. Below the screen, a circular red neon ring outlines a seating area where several people are gathered around a table. In the initial moments, the scene is focused on the stage and the laser light show. As time progresses, small circular inset videos appear on the right side of the screen, showing a close-up of a person with light-colored hair speaking. The lighting remains dynamic, with the beams of light shifting across the venue, while the people on the stage remain seated and engaged in a discussion."
+}

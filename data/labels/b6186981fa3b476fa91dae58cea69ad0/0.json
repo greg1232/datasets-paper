@@ -1,0 +1,15 @@
+{
+  "video_id": "b6186981fa3b476fa91dae58cea69ad0",
+  "url": "./data/segments/3mmDnftP1M8-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    18.479,
+    55.437,
+    92.396,
+    129.354
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A red circular graphic containing white text is centered in a dark void. The text reads, \"at Himself bore our sins in His body on the Cross so that we might be dead to sin, and live to righteousness; for by His stripes you were healed. 1 Peter 2:24.\" The red circle remains stationary throughout the sequence. In the lower-left and lower-center areas of the screen, the name \"Roseline K\" is written in a small, white, sans-serif font. The scene is static, with no people, physical objects, or changes in equipment visible. The lighting is minimal, consisting only of the glow from the red circle and the white text against a black background, and the composition remains identical across all frames."
+}

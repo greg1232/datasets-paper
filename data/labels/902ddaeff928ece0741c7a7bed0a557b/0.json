@@ -1,0 +1,15 @@
+{
+  "video_id": "902ddaeff928ece0741c7a7bed0a557b",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.538,
+    0.897,
+    1.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark wetsuit is surfing inside the tube of a large, crashing blue wave. The surfer is positioned in the center of the frame, gliding through the water as the wave curls over them. White text is overlaid on the scene, stating \"the Tiger Technicians Hour with Basil Chapman\" and the phone number \"1-877-927-6648\". As the sequence progresses, the surfer moves further into the wave's barrel, and the camera angle shifts slightly. The on-screen text remains present but begins to glitch and distort, eventually becoming mirrored and fragmented across the churning water. By the final scene, the text is heavily distorted and partially obscured by the splashing white foam of the breaking wave."
+}

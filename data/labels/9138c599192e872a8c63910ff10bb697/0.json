@@ -1,0 +1,15 @@
+{
+  "video_id": "9138c599192e872a8c63910ff10bb697",
+  "url": "./data/segments/3Z229_lKLpk-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.47,
+    1.41,
+    2.35,
+    3.29
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large group of people, primarily men, are seated in a tiered auditorium or legislative hall with light-colored wooden paneling. Most individuals are wearing light-colored, short-sleeved button-down shirts, while a few women are dressed in colorful sarees. The attendees are seated in orderly rows, facing forward. Throughout the sequence, the people remain largely stationary in their seats, though some minor shifts in posture and head movements occur. There are no visible objects, equipment, logos, or on-screen text. The lighting is consistent and bright across the scene. The video maintains a static wide shot, showing the same group of people from the same perspective, with minimal movement among the crowd as they listen or observe an event taking place off-camera."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "aabb1b0e2d06e7909a8581445ebb8769",
+  "url": "./data/segments/3dN_F08u-KE-Scene-021.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.095,
+    3.285,
+    5.475,
+    7.665
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grainy, black-and-white thermal imaging video shows a large ship on the water, viewed through a targeting reticle. In the upper left of the frames, text reads \"\u0413\u041e\u041b\u041e\u0412\u041d\u0415 \u0423\u041f\u0420\u0410\u0412\u041b\u0406\u041d\u041d\u042f \u0420\u041e\u0417\u0412\u0406\u0414\u041a\u0418\" next to a trident emblem. A red \"13\" logo appears in the top right, and a circular \"GROUP 13\" logo is visible in the bottom right. A bright, intense flash of light erupts from the ship's side in the first frame, quickly fading as the scene progresses. By the final frames, the ship remains visible against the hazy background, though the initial explosion has dissipated. No people are visible in the footage. The scene remains static in terms of camera position, focusing exclusively on the ship and the impact of the burst of light."
+}

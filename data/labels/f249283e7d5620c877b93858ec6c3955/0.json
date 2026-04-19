@@ -1,0 +1,15 @@
+{
+  "video_id": "f249283e7d5620c877b93858ec6c3955",
+  "url": "./data/segments/3E6ctN22V7k-Scene-114.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.33,
+    0.99,
+    1.65,
+    2.31
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video is set in an open-air, sheltered workspace with a high, pitched roof supported by wooden beams and brick pillars. The floor is a reddish-brown dirt. Within this space, various pieces of equipment are scattered, including several white folding tables, blue tables, and large lime-green metal containers. A person wearing a dark shirt is partially visible, standing near the center of the room and looking toward the background. In the distant background, beyond the structure, is a grassy landscape with a few scattered trees and several white vehicles parked near buildings. The phrase \"I give it my best as long as the conditions are right to do so\" is displayed as white on-screen text across the lower portion of the scene. There is very little movement between the frames, as the camera remains stationary and the individual in the room stays in a similar position."
+}

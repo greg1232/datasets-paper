@@ -1,0 +1,15 @@
+{
+  "video_id": "040646ca61af3daad7df2cc3a5cba636",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-233.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.601,
+    1.802,
+    3.003,
+    4.204
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A sequence of frames shows a white background with a centralized logo and a graphic lower-third overlay. The logo consists of the text \"TFNN.COM\" in a bold, black font, with the phrase \"EDUCATING INVESTORS\" positioned directly underneath it in a smaller, uppercase black font. Across the bottom of the screen, a dark blue and black horizontal banner contains white text. The top line of this banner reads \"Basil Chapman\" in a larger font, while the line below it reads \"The Tiger Technicians Hour | June 8th, 2022\" in a smaller font. The imagery remains consistent throughout the sequence, with the logo and lower-third text remaining static. In the final frame, the \"TFNN.COM\" logo and \"EDUCATING INVESTORS\" text disappear from the screen, while the lower-third banner featuring \"Basil Chapman\" remains visible."
+}

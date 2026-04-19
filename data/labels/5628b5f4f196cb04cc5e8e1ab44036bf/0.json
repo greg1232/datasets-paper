@@ -1,0 +1,15 @@
+{
+  "video_id": "5628b5f4f196cb04cc5e8e1ab44036bf",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-211.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.296,
+    0.888,
+    1.481,
+    2.073
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A top-down view of a desk serves as the background, featuring a laptop, a notebook, a white tablet, and a coffee mug. A green graphic overlay is centered in the upper half, containing the text \"The Opening Call\" and \"Basil Chapman.\" At the bottom, a blue banner displays \"Basil Chapman\" above a smaller line of text that reads \"The Tiger Technicians Hour | June 8th, 2022.\" As the video progresses, white text appears and changes in the middle of the screen. Initially, only the word \"THE\" is visible. In the next frame, this expands to read \"THE OPENING CALL.\" In the subsequent frames, the text updates further to say \"THE OPENING CALL NEWSLETTER.\" The background and the blue banner at the bottom remain static throughout the sequence while the central white text evolves."
+}

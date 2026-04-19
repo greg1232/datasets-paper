@@ -1,0 +1,15 @@
+{
+  "video_id": "0deb24b936f19dd5b30a8a84a9584303",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-128.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.583,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, glasses, and white over-ear headphones sits in a room with grey textured walls. He is wearing a dark blue patterned t-shirt and is positioned behind a black microphone. Behind him to the left is a decorated Christmas tree with multi-colored lights, and to his right is a framed picture featuring a blue border and the number \"20\". Throughout the sequence, the man is speaking, with his facial expressions shifting as he talks. In the beginning, his mouth is open and he looks slightly to the side; as the sequence progresses, he continues to speak, adjusting his gaze and jaw movement. His overall posture remains consistent as he remains seated and centered in the frame, focusing his attention forward and slightly to his left."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "5a6b3e2d3bee0985d312bfbac592a8a7",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-196.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.119,
+    0.356,
+    0.594,
+    0.831
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds up a sports trading card in a protective plastic sleeve, showcasing a signature and a gold border. The card features a player's portrait and the text \"ROBINSON\" and \"1/5\". In the background, a man with a beard and a dark blue t-shirt sits at a desk with a computer monitor and other equipment. The scene is overlaid with a digital interface that includes the \"JASPYS\" logo and the text \"CASEBREAKS.COM\", along with a graphic of palm trees at the bottom. Across the sequence, the hand tilts the card slightly to reflect light off the plastic sleeve, while the man in the background remains seated, looking toward the camera. The overall setting appears to be a home studio dedicated to card collecting and streaming."
+}

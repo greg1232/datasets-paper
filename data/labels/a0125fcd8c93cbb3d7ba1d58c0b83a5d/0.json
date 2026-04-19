@@ -1,0 +1,15 @@
+{
+  "video_id": "a0125fcd8c93cbb3d7ba1d58c0b83a5d",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.0,
+    9.0,
+    15.0,
+    21.0
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An educational presentation on \"CRYOGENIC ENGINEERING\" is displayed, featuring a \"Tutorial \u2013 1\" slide from the Department of Mechanical Engineering, IIT Bombay, with an NPTEL logo in the bottom left. The slide presents a formula for $y_3$, given as $y = \\frac{(h_1 - h_2) - (1 - \\varepsilon)(h_1 - h_g)}{(h_1 - h_f) - (1 - \\varepsilon)(h_1 - h_g)}$, and a value of $\\varepsilon_3 = 0.90$. A data table lists values for pressure $p$ (bar), temperature $T$ (K), enthalpy $h$ (j/g), and entropy $s$ (j/gK) for categories 1, 2, f, and g. As the sequence progresses, a mathematical calculation for $y_3$ is written out using values from the table. In the first frame, the equation is partially written. In the second, the calculation is completed, resulting in $\\frac{14.093}{411.7}$. By the final frames, the result is solved, showing $y_3 = 0.034$ written twice in red text."
+}

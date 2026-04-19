@@ -1,0 +1,15 @@
+{
+  "video_id": "ab7669e5052c62c95dd7b1ef3601a769",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-296.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.802
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a protective plastic slab to reveal a collectible card featuring a black-and-white portrait of a man. The action takes place over a colorful surface decorated with green palm tree patterns. A man wearing a black t-shirt is visible in a small picture-in-picture window in the lower section of the scene, sitting in a room with a computer monitor and equipment. Red and yellow logos reading \"JASPYS\" appear at the top and bottom of the image, accompanied by the website address \"CASEBREAKS.COM\". As the sequence progresses, the hands carefully pry open the plastic casing, lifting the top piece to expose the card inside. By the end, the card is fully visible, showing a portrait of a man with short hair and a light-colored garment."
+}

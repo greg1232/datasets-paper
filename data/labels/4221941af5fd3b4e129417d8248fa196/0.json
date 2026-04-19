@@ -1,0 +1,15 @@
+{
+  "video_id": "4221941af5fd3b4e129417d8248fa196",
+  "url": "./data/segments/3cfugv0xNbU-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.446,
+    1.339,
+    2.231,
+    3.124
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene takes place inside a dimly lit military transport vehicle or aircraft, where several individuals in tan camouflage gear and tactical vests are positioned. In the center, a person in camouflage is seen from behind, facing toward the front of the compartment. Beside them, another person is lying down on a dark surface, partially covered. Various pieces of equipment, including backpacks, bags, and red storage containers, are scattered around the cramped interior. A small blue hexagonal logo is visible in the lower right area of the space. As the sequence progresses, the camera shifts slightly in perspective, but the individuals remain in their positions, maintaining a stationary posture. The lighting is low, with a few small light sources casting glows on the gear and surfaces, while the overall environment remains dark and congested."
+}

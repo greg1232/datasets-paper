@@ -1,0 +1,15 @@
+{
+  "video_id": "523ec4219d613885107fb889a8c23902",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-139.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.573,
+    1.719,
+    2.865,
+    4.01
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds up a sports trading card featuring Edgar Martinez in a Seattle Mariners uniform, which includes an autograph and the text \"EDGAR MARTINEZ\". The card is displayed against a background featuring a table with a palm tree design and a small inset video of a man wearing a dark blue t-shirt. The logos \"JASPYS\" and \"CASEBREAKS.COM\" are visible on the screen. In the transition between scenes, the person moves the card away from the camera and places it into a protective plastic sleeve, which is then set atop a stack of other white card sleeves. Throughout the sequence, the background remains consistent, showing a desk area with equipment and a white shelving unit. The man in the inset video remains seated, looking toward the camera while the card is being handled."
+}

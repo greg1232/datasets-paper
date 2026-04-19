@@ -1,0 +1,15 @@
+{
+  "video_id": "1a12817c262d83b1078d15292c0ad271",
+  "url": "./data/segments/3Kxl1O310k8-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    18.06,
+    54.18,
+    90.3,
+    126.42
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide highlights a housing project in Bedford titled \"Bedford Village Apartments.\" The slide features four identical photos of a multi-story apartment complex with brown siding and a wooden staircase, set against a green lawn with a blossoming pink cherry tree in the foreground. Below the photos, text specifies that the project consists of \"96 units of non-age restricted rental in 10 buildings,\" noting that it was \"Purchased by POAH in 2018, restrictions were set to expire\" and utilized \"$3 million of CPA funds.\" The bottom of the slide is marked with a yellow bar containing the word \"Preservation\" and a small \"MHP\" logo. Across the sampled frames, the visual content remains static, showing no movement or changes in the imagery or the accompanying text."
+}

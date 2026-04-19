@@ -1,0 +1,15 @@
+{
+  "video_id": "b1b6b7cbd6337b03c1cc5bd5fdebc959",
+  "url": "./data/segments/3Z229_lKLpk-Scene-168.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.165,
+    0.495,
+    0.825,
+    1.155
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide-angle, high-angle shot depicts a massive, symmetrical assembly hall with rows of wooden desks arranged in curved, radial patterns. The hall is filled with numerous people, most of whom are wearing white traditional attire, seated at the desks and facing toward a central point. The floor is covered in a green patterned carpet. In the center of the room, a few individuals are standing and moving between the desks. The scene remains static across the frames, showing a large gathering in a formal, architectural setting with a repetitive, mirrored layout. No on-screen text, logos, or specialized equipment are visible beyond the desks and the architectural details of the hall. The people appear to be engaged in a meeting or a legislative session, with very little movement observed throughout the sequence."
+}

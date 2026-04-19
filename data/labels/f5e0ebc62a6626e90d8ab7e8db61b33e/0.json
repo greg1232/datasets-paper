@@ -1,0 +1,15 @@
+{
+  "video_id": "f5e0ebc62a6626e90d8ab7e8db61b33e",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-009.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.151,
+    0.454,
+    0.756,
+    1.058
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, black headphones, and a black hoodie with gold lettering sits in a studio setting. He is positioned in front of a professional microphone on a boom arm, gesturing with his hands as he speaks. Behind him is a white wall featuring a repeated logo with five stars and the word \"HUSTLE.\" Above him, a blue banner reads \"BOSS TALK 101\" and \"Where BOSSES Talk!\". To his right, a black mug with red and white text saying \"BOSS TALK 101\" sits on the desk. On-screen graphics include a small logo in the bottom left and the text \"E CEO\" near the bottom center. Across the sequence, the man shifts his head slightly and moves his hands, continuing to speak into the microphone while remaining in the same seated position."
+}

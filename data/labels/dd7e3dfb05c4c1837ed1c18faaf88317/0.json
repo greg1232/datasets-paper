@@ -1,0 +1,15 @@
+{
+  "video_id": "dd7e3dfb05c4c1837ed1c18faaf88317",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.798,
+    5.393,
+    8.988,
+    12.583
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman and a man perform in front of an audience in a room with vertical wood-paneled walls and blinds. The woman wears a light green cardigan over a patterned scarf and holds a black folder; the man wears a black vest over a white shirt with a red neckerchief and plays an acoustic guitar. Both stand behind microphones. An audience is seen from behind, with various people's hair visible in the foreground. The word \"ORCA\" appears in white text on the right side of the scene. As the sequence progresses, the woman transitions from holding her folder open to gesturing with her hands and then looking back down at the folder. The man continues to play his guitar while singing into the microphone. The camera angle remains static, capturing the performers from the waist up while showing the backs of the audience members' heads."
+}

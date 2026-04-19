@@ -1,0 +1,15 @@
+{
+  "video_id": "9fa7e6ca53f8adf0a65f8c14392f1535",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-115.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.976,
+    1.627,
+    2.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a white long-sleeved shirt and a dark patterned vest, stands behind a microphone and plays an acoustic guitar in a room with wood-paneled walls. He is facing forward, performing for an audience. In the foreground, the backs of several people's heads are visible, including people with blonde and grey hair; some are wearing purple clothing. A white speech bubble containing the text \"ORCA\" appears over the shoulder of a person in the foreground. Across the sequence of frames, the man remains in a similar position, continuing to play his guitar and sing into the microphone, while the people in the foreground remain largely stationary. The lighting is consistent throughout the scene, and the overall composition remains stable as the man performs."
+}

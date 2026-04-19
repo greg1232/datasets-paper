@@ -1,0 +1,15 @@
+{
+  "video_id": "a1f4544ecce9c7b13c25bd07270f8817",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-268.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.004,
+    9.012,
+    15.021,
+    21.029
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a beard, wearing a black t-shirt, is seated at a table in a room featuring a tablecloth with palm tree graphics and the logo \"JASPY'S Sports Cards\" and \"CASEBREAKS.COM\". The setting is equipped with a microphone and various boxes. In the initial scenes, the man is seen sitting and speaking, gesturing with his hand. On the table, stacks of graded trading cards in plastic slabs are prominent. As the sequence progresses, the camera angle shifts, momentarily showing a close-up of a blue fabric item and then cutting back to the man, who is now standing and interacting with a black box on the table. The background contains shelving and other equipment typical of a card-breaking studio. The branding \"JASPY'S\" and the website \"CASEBREAKS.COM\" remain visible throughout the scene."
+}

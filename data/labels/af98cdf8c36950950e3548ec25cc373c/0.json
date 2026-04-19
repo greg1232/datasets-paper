@@ -1,0 +1,15 @@
+{
+  "video_id": "af98cdf8c36950950e3548ec25cc373c",
+  "url": "./data/segments/3phuyH7Y05U-Scene-034.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.312,
+    0.521,
+    0.729
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor setting featuring red curtains and blue walls, a bald man with a blue suit and blue hair on the sides of his head gestures while speaking. He is surrounded by other characters, including a woman with long red hair wearing a red outfit and several other men. In the first frame, the man in the suit speaks with both hands open. By the second frame, he has raised his right fist in a triumphant or assertive gesture. The subsequent frames show the man maintaining this raised fist, while the woman with red hair opens her mouth as if shouting or cheering. The other characters in the background react with similar expressions of excitement. The scene remains in the same location, focusing on the man's animated gestures and the reactions of the crowd around him."
+}

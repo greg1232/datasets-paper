@@ -1,0 +1,15 @@
+{
+  "video_id": "8a09dac235416951d74d11df17dcf95a",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.65,
+    1.95,
+    3.25,
+    4.55
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a dark suit, a light-colored shirt, and a purple tie, appears in a news broadcast setting. He is positioned in front of a blue background featuring a circular graphic with a stylized map and the text \"PLUS POLITICS.\" To his left is a red vertical banner containing the \"plustv\" logo. A white news ticker at the bottom of the screen displays the text \"PLUS POLITICS\" and \"NIGERIA NEEDS ME \u2013 BOLA TINUBU.\" In the first two frames, a second line of text reads \"WATCH ONLINE\" and \"WWW.PLUSTVAFRICA.COM/LIVE-TV.\" In the final two frames, this bottom line changes to \"SUBSCRIBE\" and \"WWW.YOUTUBE.COM/PLUSTVAFRICA.\" Across all frames, the man remains in the same position and attire, looking directly at the camera with a neutral expression, while the on-screen graphic elements remain static except for the change in the bottom ticker text."
+}

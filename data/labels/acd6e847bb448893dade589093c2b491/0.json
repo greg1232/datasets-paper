@@ -1,0 +1,15 @@
+{
+  "video_id": "acd6e847bb448893dade589093c2b491",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-169.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.184,
+    0.551,
+    0.918,
+    1.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A surfer rides a massive, breaking ocean wave under a cloudy, overcast sky. The surfer, appearing as a small silhouette against the towering wall of dark blue water, is balanced on a surfboard and glides across the face of the wave. A large plume of white foam and spray crashes behind and to the right of the surfer as the wave curls. Across the sequence of images, the surfer maintains a steady trajectory, sliding slightly further down the wave's face while the surrounding water continues to churn and break. The scene is dominated by the scale of the wave relative to the person, with the deep blue of the water contrasting against the bright white of the seafoam and the grey tones of the sky. No text, logos, or other people are visible."
+}

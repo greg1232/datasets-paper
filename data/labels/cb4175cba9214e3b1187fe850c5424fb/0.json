@@ -1,0 +1,15 @@
+{
+  "video_id": "cb4175cba9214e3b1187fe850c5424fb",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.489,
+    4.467,
+    7.445,
+    10.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A shirtless man wearing black shorts walks away from a Ring security camera in a driveway or carport at night. He begins the clip close to the lens, showing his back as he moves forward. In the background, a white car is parked to the left and a dark-colored car is parked further back. A ladder leans against a structure on the right side of the scene. As the sequence progresses, the man continues walking away from the camera toward the dark background, becoming smaller in the frame until he reaches the edge of the illuminated area. The \"ring.com\" logo is visible in the upper left and upper right corners of the view. Each frame contains a timestamp in the bottom right corner, reading \"05/13/2022 23:29:48 EDT\", \"05/13/2022 23:29:51 EDT\", \"05/13/2022 23:29:54 EDT\", and \"05/13/2022 23:29:57 EDT\"."
+}

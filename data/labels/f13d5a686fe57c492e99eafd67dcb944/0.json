@@ -1,0 +1,15 @@
+{
+  "video_id": "f13d5a686fe57c492e99eafd67dcb944",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.238,
+    0.396,
+    0.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a paved parking lot, a shadow cast upon the cracked asphalt depicts a person standing between two vehicles. To the left is a silver car, and to the right is a cream-colored vehicle. The shadow captures the silhouette of a person wearing a hat, appearing as a dark profile against the light gray ground. As the sequence progresses, the shadow shifts slightly to the right, suggesting a subtle movement of the person standing out of frame. The lighting is bright, creating a high contrast between the dark silhouette and the sunlit pavement. No people are directly visible in the frames, only their projection. There is no visible text, equipment, or logos present in the scene, which remains focused on the interaction between the vehicles and the moving shadow."
+}

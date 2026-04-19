@@ -1,0 +1,15 @@
+{
+  "video_id": "43cf81447fc463959f78b6540ea97e84",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.192,
+    0.576,
+    0.959,
+    1.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a smartphone in their hands against a blurred background. The scene then shifts to a room where a woman wearing a black jacket and a white face mask sits at a wooden table, writing on a piece of paper. A green water bottle and a bottle of hand sanitizer are on the table in front of her. To her right, another person wearing a mask and a dark top leans over the table. In the background, computer monitors display red screens, and various pieces of medical or technical equipment are visible. The woman continues to write and looks toward the person beside her. Eventually, she brings her phone to her ear to take a call while continuing to write. Each scene features a purple figure icon and the text \"Day 1\" and \"Sim Week\" in the corners of the frames."
+}

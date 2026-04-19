@@ -1,0 +1,15 @@
+{
+  "video_id": "f6b837dea8857a9a8446258ec782a8a0",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.318,
+    0.954,
+    1.59,
+    2.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A stylized animation depicts a person with brown hair wearing a black t-shirt and blue pants standing against a yellow background decorated with white geometric shapes. The person is leaning forward and interacting with a piece of equipment on a tripod. A bright green circular highlight surrounds the person's head and torso in the initial scenes. A white rounded rectangular text box appears beneath the person, which initially is empty but then fills with the text \"Korbin Miles\". A green banner subsequently appears under the name containing the text \"The Bearded Bastard\". As the sequence progresses, the green circular highlight disappears, and the green banner is partially cut off and then vanishes entirely, leaving only the person and the tripod against the yellow backdrop."
+}

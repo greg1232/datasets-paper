@@ -1,0 +1,15 @@
+{
+  "video_id": "834c79a71eb0f2abedf01b71ff5b8b2e",
+  "url": "./data/segments/3Z229_lKLpk-Scene-156.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.37,
+    1.11,
+    1.85,
+    2.59
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide shot captures a large, ornate assembly hall with a high, patterned ceiling featuring multiple circular light fixtures. The room is filled with a dense crowd of people seated in tiered rows of desks, many wearing light-colored or white clothing. At the front of the hall, a central podium stands before a large, textured wall adorned with a golden emblem. Two large screens flank the central wall, displaying bright, blue-toned imagery. The scene remains static across the sequence, with the people seated and facing forward toward the podium, exhibiting little to no visible movement. The architectural details of the ceiling's complex geometric design and the symmetry of the seating arrangement are prominent throughout the clip."
+}

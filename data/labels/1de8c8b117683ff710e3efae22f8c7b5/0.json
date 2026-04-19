@@ -1,0 +1,15 @@
+{
+  "video_id": "1de8c8b117683ff710e3efae22f8c7b5",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.5,
+    1.5,
+    2.5,
+    3.5
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, wearing clear-framed glasses and silver over-ear headphones, speaks into a black professional microphone. He is dressed in a light gray crewneck sweatshirt. He is positioned in a room with light-colored paneled walls, flanked by a decorated green Christmas tree with colorful lights. Behind him is a framed picture featuring a blue and white graphic with the number \"20\" visible. Throughout the sequence, the man is talking, with his facial expressions and mouth movements shifting as he speaks. His gaze remains focused forward, and his posture stays consistent. The lighting is bright and even across the scene, and there are no other people or significant changes in the background objects or equipment."
+}

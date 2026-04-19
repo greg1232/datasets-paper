@@ -1,0 +1,15 @@
+{
+  "video_id": "605249b16d400096e1f200756cbee360",
+  "url": "./data/segments/3a0FD1177FA-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.109,
+    0.328,
+    0.547,
+    0.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with a white smartwatch on their left wrist is crafting on a white gridded cutting mat. In the first frame, they hold a rectangular olive green piece of cardstock with both hands. By the second frame, they move the cardstock slightly to the right. In the third frame, the person places the olive green cardstock flat on the mat and positions their right hand near the top edge. In the final frame, they point their right index finger toward the center of the cardstock. Surrounding the central project are several pieces of floral patterned paper in shades of green, yellow, and brown. A stamp set is also present, featuring a clear block stamp with the text \"Wishing you a birthday filled with all the Best Things!\" and a black ink pad with a white label that reads \"MEMENTO\"."
+}

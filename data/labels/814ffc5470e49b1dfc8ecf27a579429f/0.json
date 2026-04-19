@@ -1,0 +1,15 @@
+{
+  "video_id": "814ffc5470e49b1dfc8ecf27a579429f",
+  "url": "./data/segments/3jaAcpqJEbg-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.846,
+    2.538,
+    4.229,
+    5.921
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a blue suit jacket and a light-colored shirt stands on a stage in front of a large presentation screen. The screen is split horizontally, with a blue top section and a white bottom section. The blue section features the \"exotel\" logo and the text \"Handling Logs, Events and Metrics Using Hekad,\" while the white section displays \"Thank you\" in a blue font. In the bottom right corner of the screen, smaller text reads \"All rights reserved. Exotel Techcom Pvt. Ltd. \u00a9 2016.\" To the left of the screen, a vertical banner is visible with the text \"has geek\" and a series of hashtags. As the sequence progresses, the man moves slightly and eventually walks out of the frame to the left. The screen content remains static throughout the clip, and the \"exotel\" logo is also visible on the bottom edge of the presentation area."
+}

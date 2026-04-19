@@ -1,0 +1,15 @@
+{
+  "video_id": "9709571f7aacbd2bc67f0536358e51fb",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.525,
+    0.875,
+    1.225
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, white military-style aircraft with a T-tail and rear-mounted engines taxis along a grey paved runway. The setting is an open airfield under an overcast grey sky, with a strip of green grass and low-lying shrubbery bordering the runway. A small white aircraft is visible in the distance behind the main plane. Along the edge of the runway, red and white marker equipment and small white posts are positioned. In the upper right corner of each scene, a red circular logo containing the white number \"13\" is present. As the sequence progresses, the aircraft moves slowly forward from left to right, maintaining its position on the runway. No people are visible in the frames. The aircraft's landing gear is deployed, and it continues its steady movement across the asphalt."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2a4cf3028cf793290a11b777120b8223",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.632,
+    1.896,
+    3.159,
+    4.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows a tablet screen displaying a technical interface for data acquisition. The screen features a list of numbered channels, from \"Channel 1\" to \"Channel 22,\" with corresponding yellow toggle switches and status indicators. At the top left of the interface, the text \"Acquiring 5/200 (20s)\" is visible, and a red \"STOP\" button is positioned in the top right corner. A timeline graph is partially visible at the very top, labeled \"Time (s)\" with numerical markers. As the sequence progresses, the status indicators next to the channels change, with more yellow indicators appearing and shifting as data is gathered. The tablet is held by an unseen person, with a small portion of their finger visible on the right edge of the device. The background is a blurred, neutral-toned indoor environment."
+}

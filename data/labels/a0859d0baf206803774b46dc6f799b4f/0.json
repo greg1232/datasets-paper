@@ -1,0 +1,15 @@
+{
+  "video_id": "a0859d0baf206803774b46dc6f799b4f",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-308.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.613,
+    1.838,
+    3.062,
+    4.288
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a protective plastic slab containing a sports trading card featuring baseball players Rivera and Jeter. The card includes signatures and a numbering \"00/25\" at the bottom. In the background, a man wearing a navy blue shirt is visible in a smaller inset window, sitting in a room with computer monitors. Above him, the text \"JASPYS\" and \"CASEBREAKS.COM\" appears in red and white. The setting includes a tabletop with a green and orange patterned surface and several other card boxes. As the sequence progresses, the hand holding the card shifts slightly, tilting the slab to change how the light reflects off the plastic surface, while the man in the inset remains seated and observing the process. The overall scene depicts a sports card breaking or showcasing event."
+}

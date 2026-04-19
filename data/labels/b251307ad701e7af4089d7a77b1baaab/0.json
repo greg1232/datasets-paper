@@ -1,0 +1,15 @@
+{
+  "video_id": "b251307ad701e7af4089d7a77b1baaab",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.279,
+    0.837,
+    1.396,
+    1.954
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white aircraft with a purple stripe along its fuselage and a T-tail taxiing on a paved runway under an overcast sky. The plane features the text \"POLSKA\" on its side and a small red and white flag on its tail fin. In the background, there are grassy fields and two tall, red-and-white striped towers. Several helicopters are visible on the ground in the distance. A circular red logo containing the number \"13\" appears in the top right corner of each shot. As the sequence progresses, the aircraft slowly moves from left to right across the frame, with its nose landing gear and headlights visible. The background remains static, while the position of the plane shifts slightly further right in each subsequent frame, maintaining a consistent side profile view."
+}

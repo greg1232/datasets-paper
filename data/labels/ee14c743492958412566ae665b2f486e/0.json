@@ -1,0 +1,15 @@
+{
+  "video_id": "ee14c743492958412566ae665b2f486e",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-806.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hoodie with \"BOSS TALK 101\" printed in gold and red, and a gold chain and watch sits at a desk in a studio. He is wearing over-ear headphones and is positioned behind a professional microphone on a boom arm. The background features white walls with a logo consisting of five gold stars and the text \"GRIND HUSTLE,\" along with a blue sign that reads \"BOSS 'Where BOSSES Talk!'\". To his right, a black mug sits on the desk with \"BOSS TALK 101\" printed on it. A small logo in the bottom left corner reads \"BOSS TALK 101\". Across the frames, the man is talking, slightly shifting his head and facial expression as he speaks, while his general posture and the surrounding equipment remain static."
+}

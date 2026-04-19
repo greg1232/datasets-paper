@@ -1,0 +1,15 @@
+{
+  "video_id": "346c2d1de570550339fad1763f15d6a9",
+  "url": "./data/segments/3Kxl1O310k8-Scene-024.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    10.2,
+    30.6,
+    51.0,
+    71.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A multi-story brick and beige building serves as the backdrop for the scene, featuring large windows and a ground-floor commercial space. A black traffic light pole stands prominently in the foreground on the right, with a red light visible. A small green tree is planted on the sidewalk in front of the building, and a white car is parked in the distance to the left. The text \"Eligible Activities\" is displayed in white letters centered over the image. In the top right corner, a small inset video shows a person speaking, and the initials \"MHP\" appear in the bottom left corner. The scene remains completely static across the sequence, with no changes in the lighting, the position of the car, or the movement of the tree, while the on-screen text and inset video remain constant."
+}

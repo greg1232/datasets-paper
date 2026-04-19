@@ -1,0 +1,15 @@
+{
+  "video_id": "294c1405bd586c6f061c66ea0d673a99",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.163,
+    0.488,
+    0.813,
+    1.139
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A bright white light shines across a dark, earthy ground covered in patches of small green plants and sparse grass. The light source is positioned off-camera, casting a strong, focused beam that creates a bright hotspot in the center of the view and fades into darkness toward the edges of the frame. Throughout the sequence, the camera remains relatively stationary, though the light slightly shifts its position, altering the shadows and highlights on the textured soil. No people, equipment, or text are visible in the scene. The environment appears to be an outdoor area at night, with the light illuminating the uneven surface of the dirt and the small weeds growing through it. The only change between the views is the subtle movement of the light beam across the ground."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a6d2100b45faf92b72fad8985b93040c",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-338.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    45.145,
+    135.435,
+    225.725,
+    316.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call displays a grid of participants in their respective home offices or rooms. The participants include several men and women, some wearing glasses and casual attire such as t-shirts and button-down shirts. On-screen text labels identify individuals, including \"Jerry Nichols,\" \"Sara _collaborator,\" \"Brian Brandewine,\" and \"Kirsten Neufeld.\" Some individuals are speaking or gesturing, while others listen attentively. In the background of various frames, bookshelves, computers, and indoor plants are visible. The scene remains largely static across the sequence, with only slight changes in the participants' facial expressions and head positions as they interact during the virtual meeting. One woman is seen resting her head on her hand, while a man in glasses periodically touches his chin. The overall composition is a mirrored duplication of the same set of participants appearing twice across the sequence."
+}

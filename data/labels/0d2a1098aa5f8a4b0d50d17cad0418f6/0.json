@@ -1,0 +1,15 @@
+{
+  "video_id": "0d2a1098aa5f8a4b0d50d17cad0418f6",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    19.486,
+    58.458,
+    97.431,
+    136.403
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a digital screen showing complex financial stock charts with multiple technical indicators. The top half of the screen features a chart titled \"Dow-Monthly,\" while the bottom half displays the \"SPX-500 Index-monthly.\" Both sections include price action candles, trend lines, and oscillators such as MACD and Stochastic. Legible text includes \"basicsitchapman@tfnn.com,\" \"week strong,\" \"long,\" and specific date markers like \"4/21/22,\" \"1/5/22,\" and \"2/20/20.\" The charts are populated with various numerical values and labels, including \"36952\" and \"48182.6.\" Throughout the sequence, the visual content remains static; there are no people present, and the data, lines, and text do not change or move between the frames, suggesting a still image of a trading platform is being displayed."
+}

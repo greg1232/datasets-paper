@@ -1,0 +1,15 @@
+{
+  "video_id": "8eaa5335c11badf4c6ce28d0def8a1c0",
+  "url": "./data/segments/3dN_F08u-KE-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.155,
+    0.465,
+    0.775,
+    1.085
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two grey naval warships navigate across a blue ocean under a clear, pale sky. The ship in the foreground is slightly closer to the viewer, while a second, similar vessel follows further back and to the right. Both ships feature radar masts and sleek, modern profiles. The camera captures the scene from an elevated position, looking down over a flat, grey surface in the immediate foreground that resembles the deck of another ship. A red and white circular logo containing the number \"13\" is visible in the upper right corner of each frame. Throughout the sequence, the ships maintain their relative positions, gliding steadily forward through the water, creating white wakes. No people are visible on the decks of the ships or the viewing platform. The lighting remains consistent, casting a bright shimmer on the water's surface."
+}

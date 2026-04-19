@@ -1,0 +1,15 @@
+{
+  "video_id": "e7bc786a8f0f105cf2af33f3a6345ec5",
+  "url": "./data/segments/3E6ctN22V7k-Scene-069.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.345,
+    1.035,
+    1.725,
+    2.415
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a rural outdoor setting with a wide dirt road and distant mountains under an overcast sky, several people are scattered across the landscape. On the left, a person wearing a red long-sleeved shirt and dark pants stands facing away from the camera. In the background to the left, several white peaked tents and a small brick building are visible, with a few other individuals standing nearby. A white truck is parked further down the dirt road. To the right, another person in red clothing is walking across the open field. Across the sequence of frames, the person in the red shirt in the foreground remains stationary, while the individual in red in the distance moves slightly. The background elements, including the truck, tents, and distant figures, remain mostly still, capturing a quiet moment in a remote environment."
+}

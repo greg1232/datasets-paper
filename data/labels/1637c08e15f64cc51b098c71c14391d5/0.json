@@ -1,0 +1,15 @@
+{
+  "video_id": "1637c08e15f64cc51b098c71c14391d5",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-444.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.802
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair and glasses, wearing a dark t-shirt and a headset, appears in a small picture-in-picture window on a screen. He is sitting in a room with a decorated Christmas tree featuring green and blue lights visible to his left. The rest of the screen displays a game menu with a magenta background. At the top, the text \"PLAYER OPTIONS: TE 2\" is visible, followed by \"Select an option for O. Lawrence II\". Below this is a list of options, with \"Upgrade\" highlighted in a bright green bar, followed by \"Compare\", \"Remove from position\", and \"Remove from lineup\". As the video progresses, the man reacts with an increasing smile and laugh, shifting his gaze and posture slightly. The game menu remains static throughout the sequence, maintaining the same highlighted option and text."
+}

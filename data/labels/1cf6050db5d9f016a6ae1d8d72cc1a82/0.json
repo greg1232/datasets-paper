@@ -1,0 +1,15 @@
+{
+  "video_id": "1cf6050db5d9f016a6ae1d8d72cc1a82",
+  "url": "./data/segments/3Kxl1O310k8-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    9.88,
+    29.64,
+    49.4,
+    69.16
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"Buy downs\" focuses on the concept of \"buying down\" the cost of an existing home. The slide features a house icon and a photograph of a white single-story house with black shutters, captioned \"Norfolk AHT Buy down program.\" Text on the left lists characteristics of the process: \"Structured many different ways,\" \"High subsidy per unit,\" and \"Slow accumulation of units.\" Three yellow oval bubbles outline the steps: \"Acquire homes,\" \"Contribute difference,\" and \"Allocate vouchers.\" A yellow banner at the bottom of the slide contains the text \"MHP\" and \"Acquire.\" In the top right corner of the screen, a small inset window shows a person with short dark hair. Across the frames, the content of the slide remains static, while the person in the inset window appears in different positions and expressions, suggesting a recorded presentation."
+}

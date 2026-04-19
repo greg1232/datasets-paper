@@ -1,0 +1,15 @@
+{
+  "video_id": "b566112c998b480aaf93203e42e300d2",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-124.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.105,
+    0.315,
+    0.525,
+    0.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person is seen in a small video call window in the top right corner of a computer screen, wearing a dark hat and a dark shirt. The main area of the screen displays a digital presentation with a dark background containing a network of grey circular nodes connected by lines. To the right of these nodes, a white rectangular graphic shows a black-and-white illustration of a person sitting and reading. Accompanying the illustration is text that reads, \"the world is the text\" and \"WHY YOU SHOULD JUST write... You don't need to be a writer, just be a person who wants to write.  Everything you see is a text.  Everything is a story.\" Small green text labels like \"the act of reading\" and \"the act of writing\" are visible near smaller circular icons. Across the frames, the screen content remains static, while the person in the video call window occasionally shifts their head and gaze."
+}

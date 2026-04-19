@@ -1,0 +1,15 @@
+{
+  "video_id": "f0ddd97e86f9efc9bd4a8c5601bcf4d3",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.333,
+    1.0,
+    1.667,
+    2.333
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white long-sleeved shirt is working at a white table in a brightly lit room. The setting appears to be a workspace or studio, with a white cabinet and a black shelving unit visible in the background. He is focused on a small, light-colored object on the table, using his hands to manipulate it. A black lamp or support stand is positioned on the table in front of him. As the scene progresses, the man leans closer to the object, adjusting his grip and carefully working on the item with his fingers. The camera angle shifts slightly, moving from a partial view of the man in the beginning to a clearer, wider shot of him and his workspace, capturing his concentrated expression as he continues his task."
+}

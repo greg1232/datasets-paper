@@ -1,0 +1,15 @@
+{
+  "video_id": "64daecc681fae3f58d5c54ea3a3c6616",
+  "url": "./data/segments/3Z229_lKLpk-Scene-175.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.625,
+    7.875,
+    13.125,
+    18.375
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a white beard and glasses, wearing a cream-colored Nehru jacket over a white shirt, stands behind a wooden podium in front of a textured, green marble wall. He is speaking, with two microphones positioned on the podium in front of him. Throughout the sequence, he uses hand gestures to emphasize his points; he begins with his hands clasped together, then opens them slightly while speaking, before momentarily returning to a still posture and finally raising his left hand in a gesturing motion. The background remains consistent, featuring a distinctive geometric pattern in the green stone and two vertical, gold-accented decorative pillars on either side of the speaker. There is no on-screen text or logos visible in the frames."
+}

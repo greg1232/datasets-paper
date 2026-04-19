@@ -1,0 +1,15 @@
+{
+  "video_id": "1b8fdbefa346af2ad3f043ac6276ceb6",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-262.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.178,
+    3.535,
+    5.891,
+    8.248
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, over-ear headphones, and a green t-shirt is seated in a room that appears to be a clothing store or studio, with mannequins and racks of clothes visible in the background. He is speaking into a professional microphone on a boom arm. His t-shirt features the text \"ION NEVER DO SHIT\" in white and grey letters. On the walls behind him are several framed photographs. In the bottom corners of the scene, two logos are visible: one on the left that says \"THE\" and another on the right that reads \"REALLY TOY\". As the sequence progresses, the man's expression shifts from a serious or thoughtful look to a wide smile, showing his teeth as he laughs or reacts during the conversation."
+}

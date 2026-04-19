@@ -1,0 +1,15 @@
+{
+  "video_id": "18bca173c4e3288903170b92f5e947a3",
+  "url": "./data/segments/3KvZmppzQ9k-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.059,
+    3.178,
+    5.297,
+    7.416
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a white screen featuring black text that evolves over time. Initially, the text is fragmented and scattered, appearing as disjointed letters and words such as \"Le rn ore ab ut S a b a ha va d. du re e rch dps\". As the clip progresses, the characters shift and coalesce into a clear, coherent sentence. The final frames show the completed phrase, \"Learn more about DPSI at cyber.law.harvard.edu/research/dpsi\", centered on the screen. The background remains a solid, unchanging white throughout the sequence, and there are no people or physical objects visible. The only movement is the animation of the text transitioning from a garbled state to a legible URL and call to action."
+}

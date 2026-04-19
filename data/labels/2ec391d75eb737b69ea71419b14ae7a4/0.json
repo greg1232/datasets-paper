@@ -1,0 +1,15 @@
+{
+  "video_id": "2ec391d75eb737b69ea71419b14ae7a4",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    8.75,
+    26.25,
+    43.75,
+    61.25
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair, wearing a purple and white striped button-down shirt and large over-ear black headphones, is speaking while facing a camera. She is positioned in a room with a light-colored wall behind her and a yellow curtain to her left. To her right, the edge of a light-colored wooden desk or table is visible. The text \"Nancy Ramya\" appears in white in the bottom left corner of each scene. Across the sequence, the woman's expression shifts as she speaks; she starts with a neutral expression, transitions into a smile, and then returns to a more serious look with her mouth open as she continues talking. Her head remains relatively stationary, and her hands are mostly out of view, though her right hand begins to move slightly upward in the final moment."
+}

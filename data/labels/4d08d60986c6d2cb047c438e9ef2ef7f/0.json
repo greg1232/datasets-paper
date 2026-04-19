@@ -1,0 +1,15 @@
+{
+  "video_id": "4d08d60986c6d2cb047c438e9ef2ef7f",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.094,
+    0.281,
+    0.469,
+    0.656
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand interacts with a black sports card box labeled \"OBSIDIAN\" in large green and orange letters. The box features an image of a basketball player and text that reads \"ROOKIE JERSEY AUTOGRAPHS.\" The setting is a desk with a black mat featuring a red logo and the text \"JASPYS\" and \"CASEBREAKS.COM\". In a small inset window, a man with a beard wearing a black shirt is visible, looking toward the camera. As the sequence progresses, the hand moves across the top of the Obsidian box, sliding it toward the right. The background remains consistent, showing other similar black boxes stacked behind the primary one and the red branding on the surface. The interaction focuses on the physical handling of the sports card packaging in a professional case-breaking environment."
+}

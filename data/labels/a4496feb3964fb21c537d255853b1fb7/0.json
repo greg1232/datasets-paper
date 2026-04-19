@@ -1,0 +1,15 @@
+{
+  "video_id": "a4496feb3964fb21c537d255853b1fb7",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-179.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.355,
+    1.064,
+    1.773,
+    2.482
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An elderly man in a light blue button-down shirt stands at a wooden podium, speaking to a seated audience in a room with red walls and large windows with brown blinds. The audience consists of several people viewed from behind, including individuals wearing a red sweater, a yellow sweater, and a dark blue jacket. A black speaker stands to the left of the podium. In the top frames, the camera is positioned closer to the audience, while in the bottom frames, it pulls back to a wider shot, revealing more of the room and additional seated attendees. The text \"ORCA\" appears as a white logo in the lower right area of the frames. The man remains at the podium throughout the sequence, and the audience members stay seated and attentive as he delivers his presentation."
+}

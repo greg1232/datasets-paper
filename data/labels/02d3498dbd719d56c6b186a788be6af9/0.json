@@ -1,0 +1,15 @@
+{
+  "video_id": "02d3498dbd719d56c6b186a788be6af9",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-035.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.255,
+    3.766,
+    6.277,
+    8.788
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person explores the interior and exterior of a white convertible vehicle parked on a grassy lawn. The sequence begins with a close-up of the dashboard's inner workings, revealing exposed wiring and electronic components. The view then shifts outdoors to a wide shot of the green grass, showing the rear bumper and tail lights of the white car, while the shadow of the person filming is cast on the ground. The perspective returns to the driver's side, showing the open door and the steering wheel of the interior. Finally, the view moves to the trunk area, which is cluttered with various items, including a white tube, a black tool, and a red object, resting on a dark liner. No people are fully visible, and no on-screen text or logos are present."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "815f41a85bce35e30ff427469a1a6e21",
+  "url": "./data/segments/3F2rz23IKUk-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.105,
+    0.315,
+    0.525,
+    0.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing glasses, a dark short-sleeved shirt, and a blue lanyard stands in a lecture-style room with grey brick walls, addressing a seated audience. He gestures with his hands while speaking. To his left, several people are seated in rows of chairs; one man wears a grey t-shirt, and another wears a black t-shirt. In the background, another man in a black t-shirt stands near a table. A person in a bright yellow shirt is also visible among the attendees. One person's grey t-shirt features a white logo of a stylized creature and the text \"LINUX\" underneath. Across the sequence, the standing man shifts his weight and moves his hands as he continues his presentation, while the seated audience members remain relatively still, listening to him. The lighting is bright and consistent throughout the room."
+}

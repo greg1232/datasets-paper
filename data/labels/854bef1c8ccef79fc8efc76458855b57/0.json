@@ -1,0 +1,15 @@
+{
+  "video_id": "854bef1c8ccef79fc8efc76458855b57",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-150.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.474,
+    1.422,
+    2.37,
+    3.318
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a virtual meeting interface. A woman with dark hair wearing over-the-ear headphones and a striped shirt is positioned in front of light-colored curtains. In another window, a man is seen wearing a patterned shirt and a dark cap. The scene transitions between views of the two participants. In one sequence, the woman is the primary focus, while the man's feed is a smaller, circular inset against a black background. The on-screen text \"Seyi Adebola\" appears next to the man's feed, and the name \"Nancy\" is partially visible in the bottom left corner of the woman's frame. The video alternates between these perspectives, switching the woman to the bottom right and the man's inset to the bottom left, while the backgrounds and clothing of both individuals remain consistent throughout."
+}

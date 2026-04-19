@@ -1,0 +1,15 @@
+{
+  "video_id": "d77fcfc8752a4910d26f9f1fb9aa7005",
+  "url": "./data/segments/3QD9oO6sRns-Scene-088.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.237,
+    0.712,
+    1.188,
+    1.662
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is seen interacting with a gaming table set up for trading card breaks. The table is covered with a green felt surface and features a playmat with the orange and white text \"SPYS CASEBREAKS.\" In the background, several stacks of sealed trading card boxes are piled high, and a white banner reads \"Sports Cards & Collectibles\" and \"HERMOSA BEACH.\" A small picture-in-picture window in the lower right corner shows a man wearing a black baseball cap and a black t-shirt. As the sequence progresses, the person's left hand moves across the table, pushing a white cardboard box toward the right side of the frame. The scene remains static except for the movement of the hand and the box, while the man in the inset window maintains a consistent pose throughout the clip."
+}

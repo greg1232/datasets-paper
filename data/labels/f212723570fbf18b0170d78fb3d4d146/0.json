@@ -1,0 +1,15 @@
+{
+  "video_id": "f212723570fbf18b0170d78fb3d4d146",
+  "url": "./data/segments/3E6ctN22V7k-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.625,
+    1.875,
+    3.125,
+    4.375
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a red long-sleeved garment is working in a workshop environment. In the first frame, their hands are shown guiding a light-colored piece of wood or board. The second frame shows the hands continuing to manipulate the material near a machine. The third frame provides a closer view of the workspace, showing a mechanical device with a scale featuring numbers such as \"20 40 60 80 100 120\" as the person works. In the final frame, the person uses a blue tool to mark or adjust a piece of material on a workbench. Across the first three frames, the on-screen text reads, \"The dream is all the more important when we have lost everything.\" In the final frame, the text changes to, \"That is why the approach of Libraries Without Borders moved me so much.\""
+}

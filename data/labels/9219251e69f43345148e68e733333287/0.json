@@ -1,0 +1,15 @@
+{
+  "video_id": "9219251e69f43345148e68e733333287",
+  "url": "./data/segments/3IrHmvnGXTc-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A stylized, circular graphic element evolves against a blurred, teal-colored background. The graphic consists of translucent, overlapping geometric shapes in various shades of teal and dark blue, resembling a digital interface or a conceptual logo. Within this circular form, elements of a data display appear, including small vertical bar charts, grid lines, and a line graph with a single data point marker. As the sequence progresses, the shape shifts and rotates, expanding to encompass more area. Text begins to emerge within the graphic, eventually becoming legible as \"RETIN\" and \"HALT\" in a bold, white, sans-serif typeface. The composition transitions from a compact, abstract form into a more complex visual that integrates these typographic elements with the digital data overlays, all while maintaining a consistent color palette of oceanic greens and deep blues."
+}

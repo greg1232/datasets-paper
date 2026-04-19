@@ -1,0 +1,15 @@
+{
+  "video_id": "a9e6523488be521488fc5bbd60f3a1c9",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.509,
+    1.527,
+    2.544,
+    3.562
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Four women sit around a large light-brown table in a room that appears to be a medical simulation or training center, featuring computer monitors and medical equipment in the background. The woman on the far left wears a grey jacket and a face mask, resting her hands on the table near a smartphone. Next to her, a woman in a dark blazer and face mask writes on a piece of paper. Beside her is a woman in a dark top with a red lanyard, and on the far right is another woman in a dark blazer writing on a paper. A teal water bottle and several smartphones are scattered on the table. Throughout the sequence, the women remain in their positions, with the woman on the left occasionally adjusting her posture while the others continue writing. Text overlays appear at the bottom of the scene, including a purple circle that says \"Day 1\" and a logo that reads \"Sim Week\"."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "4a03dad57b8a7ef1302d98cafe03df82",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-161.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.49,
+    1.47,
+    2.45,
+    3.43
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a video conferencing session where a presenter shares a digital canvas against a black background. In the upper right corner, a man wearing a headset and a dark shirt is visible in a small webcam feed. The main area of the screen features a concept map with circular nodes containing images and text connected by curved lines. The browser tabs at the top include titles such as \"Truth & Learning by Systemeni\" and \"Future of Society by Systemeni.\" As the sequence progresses, the concept map expands. Initially, only a few nodes are visible, including one with a small image of a person and another labeled \"Feeling Blocking.\" By the end, the map becomes more complex with numerous new nodes appearing, featuring labels such as \"Self-care,\" \"Self-acceptance,\" \"Self-responsibility,\" and \"Mental-Health.\" The webcam feed of the man remains constant throughout the process."
+}

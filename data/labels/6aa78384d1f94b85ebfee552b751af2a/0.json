@@ -1,0 +1,15 @@
+{
+  "video_id": "6aa78384d1f94b85ebfee552b751af2a",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.55,
+    1.65,
+    2.75,
+    3.85
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a studio setting with a white background, three people stand behind white pedestal tables. On the left, a man in a dark blazer and trousers leans toward a microphone. In the center, a woman wearing a dark blue blazer and light-colored trousers stands with her hands clasped. On the right, a man in a patterned yellow and black shirt and dark jeans stands near a banner that features a large image of hands and the text \"PRAKTIJK EN ZORGVRAAG\". The logo \"mediasite\" is visible at the top of the scene. Each table holds a microphone and a water bottle. As the sequence progresses, the man on the left shifts his posture, moving his hands closer to the microphone. The woman and the man on the right remain relatively still, maintaining their positions. The lighting is bright and consistent across the scene."
+}

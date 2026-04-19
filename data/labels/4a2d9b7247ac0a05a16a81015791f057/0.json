@@ -1,0 +1,15 @@
+{
+  "video_id": "4a2d9b7247ac0a05a16a81015791f057",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.615,
+    1.846,
+    3.076,
+    4.306
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men sit in a room in front of a television, which displays the yellow text \"OUR STUPID REACTIONS\" at the top. The man on the left wears a dark grey t-shirt and maintains a neutral, focused expression. The man on the right wears a lighter grey t-shirt and a thin necklace, appearing to smile or chuckle. Below the television is a shelf filled with numerous CDs and DVDs. An inset window shows a clip from another video featuring a man with a beard. In the first two frames, the inset text reads, \"You didn't chosse Samarkand,\" while the man in the inset is partially obscured. In the final two frames, the inset man is clearly visible wearing a black turban and dark clothing, and the text changes to \"Samarkand chose you.\" The overall scene remains static except for the shifting subtitles and expressions within the video inset."
+}

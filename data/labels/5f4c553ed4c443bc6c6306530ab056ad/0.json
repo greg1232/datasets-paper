@@ -1,0 +1,15 @@
+{
+  "video_id": "5f4c553ed4c443bc6c6306530ab056ad",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-202.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.117,
+    0.35,
+    0.584,
+    0.817
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The scene is set against a backdrop of digital financial tickers displaying numbers and stock abbreviations like \"APA,\" \"AXP,\" \"QCOM,\" and \"BAC.\" In the upper portion of the screens, a scrolling news ticker reads \"TALKS END WITH NO RESULT: NAFT.\" A blue banner at the bottom of the screen identifies \"Basil Chapman\" and provides the text \"The Tiger Technicians Hour | June 8th, 2022.\" Over the course of the sequence, the ticker data shifts slightly. In the latter half of the clip, white text fades in over the center of the image; it begins with \"YOU MIGHT\" and evolves to read \"YOU MIGHT THINK.\" The camera remains static throughout, focusing on the brightly lit digital displays and the informational banner at the bottom."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7a9d46a94151c2a8426ca2c3923a6bca",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.444,
+    1.331,
+    2.219,
+    3.106
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds up a sports trading card featuring a player in a red jersey and a signature. The setting is a room with a desk where another man, wearing a navy blue t-shirt, is visible in the background. The surface in front of the man features a design with green palm trees. Throughout the sequence, the hand moves the card, eventually placing it into a clear protective sleeve and then setting it down on a white stand next to a yellow box. On-screen overlays include the logos \"JASPYS\" and \"CASEBREAKS.COM\". The background contains various items, including a small black electronic device on the desk. The action transitions from showcasing the card's front to securing it in a protector and positioning it for display."
+}

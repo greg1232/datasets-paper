@@ -1,0 +1,15 @@
+{
+  "video_id": "006dbd222ea11328dbb5bd940a420406",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.277,
+    0.832,
+    1.387,
+    1.942
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short grey hair and a grey polo shirt speaks while gesturing with his hand in an indoor exhibition hall. Behind him, another man wearing glasses and a light grey button-down shirt observes the scene. In the background, a banner displays the text \"MicroMaker3D\" at the top, and below it, a yellow section includes the phrase \"Lightbased innovation.\" The banner also features bullet points with text such as \"microscopic, high-resolution 3D printing\" and \"Microprinting.\" As the sequence progresses, the speaking man continues his address, shifting his head slightly and blinking, while the man behind him remains relatively still. A name tag is visible on the speaking man's chest, and other exhibition booths and people are faintly visible in the distant background of the brightly lit venue."
+}

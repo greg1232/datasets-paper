@@ -1,0 +1,15 @@
+{
+  "video_id": "8e1f2baaed5935f76472c999891cf244",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-865.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.12,
+    0.36,
+    0.6,
+    0.839
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with her hair styled in a high bun and long braids sits before a microphone in a studio setting. She is wearing a dark green t-shirt with a circular red and white logo on the chest. Behind her is a black backdrop featuring the white text \"ODCAST\" and \"Talk About It!\", along with red text that reads \"BESS TALK TUT\" and \"It's a V-ique Hustle.\" To her right, the phrase \"ith U\" is partially visible. To her left, a framed picture of a person hangs on the wall, and a glass of water sits on the table. Throughout the sequence, the woman maintains a sorrowful expression, with her brow furrowed and eyes appearing tearful. Her facial expression remains relatively consistent across the frames, conveying a sense of sadness or emotional distress as she remains seated and still in front of the microphone."
+}

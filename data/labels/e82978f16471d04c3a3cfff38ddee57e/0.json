@@ -1,0 +1,15 @@
+{
+  "video_id": "e82978f16471d04c3a3cfff38ddee57e",
+  "url": "./data/segments/3L_uHTClWfk-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    14.533,
+    43.6,
+    72.667,
+    101.733
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a steady screen recording of a webpage from the Internal Revenue Service. The top of the page features a blue header bar containing the \"IRS\" logo and the words \"SEARCH | HELP | MENU\". Below the header, the text begins with \"IR-2022-217, December 12, 2022\", followed by a news release starting with \"WASHINGTON \u2014 The Internal Revenue Service today reminded those who were born in 1950 or earlier that funds in their retirement plans and individual retirement arrangements face important upcoming deadlines for required minimum distributions to avoid penalties.\" A hyperlinked section titled \"Required minimum distributions, or, RMDs\" explains the rules regarding minimum annual withdrawals after age 72. The frames remain virtually identical throughout the clip, with the only visible change being the movement of a mouse cursor as it scrolls slowly down the page, gradually revealing more text at the bottom such as \"IRAs: The RMD rules require traditional IRA, and SEP, SARSEP and SIMPLE IRA account\"."
+}

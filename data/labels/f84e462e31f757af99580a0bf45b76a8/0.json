@@ -1,0 +1,15 @@
+{
+  "video_id": "f84e462e31f757af99580a0bf45b76a8",
+  "url": "./data/segments/3iUTkJy84EY-Scene-265.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.365,
+    1.095,
+    1.825,
+    2.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses is positioned in front of a plain black background, speaking directly toward the camera. She is wearing a light green tunic with small floral patterns and a decorative, embroidered neckline. A small black lapel microphone is clipped to the center of her neckline. A circular logo featuring the text \"NPTEL\" is visible in the bottom left or bottom center of each frame. As the sequence progresses, the woman continues to speak, with subtle changes in her facial expressions and mouth movements, indicating active speech. Her posture remains consistent throughout the frames, and the static background ensures that the focus remains entirely on her delivery."
+}

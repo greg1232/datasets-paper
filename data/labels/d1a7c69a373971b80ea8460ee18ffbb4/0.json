@@ -1,0 +1,15 @@
+{
+  "video_id": "d1a7c69a373971b80ea8460ee18ffbb4",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-132.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.505,
+    1.514,
+    2.523,
+    3.533
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a dark jacket and over-ear headphones is seated in a recording studio, positioned in front of a large condenser microphone mounted on a boom arm. The background consists of dark gray, vertically ribbed acoustic foam panels. As the sequence progresses, the man shifts his gaze and facial expression. He begins by looking forward with a slight smile, then glances to his right, and finally turns his head further to the right, breaking into a wider, open-mouthed smile that reveals his teeth. Throughout the clip, he remains in the same position relative to the microphone and equipment, with the only movement being the subtle shift of his head and the changing expression on his face. No text or logos are visible in the scene."
+}

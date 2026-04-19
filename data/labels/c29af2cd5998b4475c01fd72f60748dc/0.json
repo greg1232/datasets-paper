@@ -1,0 +1,15 @@
+{
+  "video_id": "c29af2cd5998b4475c01fd72f60748dc",
+  "url": "./data/segments/3a0FD1177FA-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.104,
+    0.313,
+    0.521,
+    0.73
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown working on a crafting project atop a white grid cutting mat. The person is using patterned green and yellow floral paper and a solid olive green cardstock base. In the sequence, the hands move pieces of the floral paper across the mat. A white rectangular piece of paper and two strips of floral paper sit to the right of the olive green card. A clear acrylic stamp block is positioned at the top, featuring the stamped text \"Wishing you a BIRTHDAY that is filled with all the Best Things\". To the right, a black ink pad is visible with the brand logo \"MEMENTO\" printed on its side. The hands shift the floral paper scraps from the left side of the workspace toward the center and right, rearranging the components of the card design."
+}

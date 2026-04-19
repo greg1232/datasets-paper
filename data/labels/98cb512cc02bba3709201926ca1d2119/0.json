@@ -1,0 +1,15 @@
+{
+  "video_id": "98cb512cc02bba3709201926ca1d2119",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-203.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.34,
+    1.02,
+    1.7,
+    2.38
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair is visible in a small webcam overlay in the top right corner of the screen, wearing a dark shirt. The main area of the screen displays a presentation. Initially, a black screen features the green text, \"What's the real problem?\" centered in the frame. As the presentation progresses, the slide changes to a complex causal loop diagram on a black background. This diagram contains various nodes of green and red text connected by blue and red arrows. Legible text in the diagram includes \"Attractiveness of Garden,\" \"Bird Poop,\" \"Unsightly Goutts,\" and \"Big Bird deterrent.\" The man in the webcam overlay remains present throughout the sequence, looking toward the camera. The browser tabs and interface at the top of the screen remain consistent, showing various open pages related to \"Trial & Learning\" and \"Future of Society.\""
+}

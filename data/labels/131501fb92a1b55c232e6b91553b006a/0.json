@@ -1,0 +1,15 @@
+{
+  "video_id": "131501fb92a1b55c232e6b91553b006a",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.204,
+    0.613,
+    1.022,
+    1.431
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on a person's hands typing on a silver laptop keyboard. The individual is wearing a white long-sleeved shirt, a dark blazer or jacket, and a silver wristwatch with a blue face. The background is blurred, showing greenery and sunlight, suggesting an outdoor setting. Across the bottom of the frames, white capitalized text reads, \"TOM O'BRIEN HAS BEEN SUCCESSFULLY TRADING MARKETS FOR OVER 30 YEARS\". As the sequence progresses, the person's fingers move rhythmically across the keys, shifting positions slightly as they type. The camera remains stationary, maintaining a tight frame on the keyboard and the user's wrists, while the lighting remains consistent throughout the brief action."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "92246cb4e4f5b88395ec4efdad955a14",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-063.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.633,
+    1.9,
+    3.167,
+    4.433
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black shirt is seen in a small inset window, sitting at a desk in an indoor setting. In the main view, several black boxes with the word \"OBSIDIAN\" printed in orange letters are arranged on a dark surface. One box is prominently featured in the foreground, containing a sports trading card with the text \"2 AUTOGRAPHS!\" visible on the packaging. The background features a large orange and red logo with the text \"JASPY'S\" and the website \"CASEBREAKS.com\" printed beneath it. Across the sequence, the scene remains static, with the man in the inset window and the arrangement of the obsidian boxes and branding remaining unchanged. The repetition of the imagery suggests a still shot or a very short clip where no significant movement or action occurs between the sampled frames."
+}

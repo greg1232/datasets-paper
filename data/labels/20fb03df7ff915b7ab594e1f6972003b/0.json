@@ -1,0 +1,15 @@
+{
+  "video_id": "20fb03df7ff915b7ab594e1f6972003b",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-078.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.21,
+    0.631,
+    1.052,
+    1.473
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a graded sports card encased in a clear protective slab, showcasing a baseball player in a red cap and white jersey. The card features a signature and the name \"TOM GLAVINE\" printed at the bottom. The person slowly tilts the card to catch the light, revealing a reflective gold border. In the background, a man with a beard wearing a navy blue t-shirt is visible in a small picture-in-picture window, sitting in a room with electronic equipment. Overlaid on the scene is a red and white logo that reads \"JASPYS CASEBREAKS.COM\". The setting includes a table covered with a cloth featuring a pattern of green palm trees against a light background. As the sequence progresses, the angle of the card shifts slightly, and the man in the small window remains seated, observing the action."
+}

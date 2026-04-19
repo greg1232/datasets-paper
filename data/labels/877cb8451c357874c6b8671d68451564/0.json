@@ -1,0 +1,15 @@
+{
+  "video_id": "877cb8451c357874c6b8671d68451564",
+  "url": "./data/segments/3Smz5pevbI4-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.482,
+    7.445,
+    12.408,
+    17.372
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with wavy brown hair, wearing a black sleeveless dress and a chunky white necklace, speaks at a podium. She is positioned in front of a light-colored wall and a dark blue flag. To her right, text on the wall reads \"UNITED STATES INSTITUTE OF PEACE\". A portion of the word \"CONSTITUTION\" is visible on the blue flag to her left. As she speaks, she uses her hands to gesture, moving them from her sides toward the center of her chest and then back out. In the final moments, she adjusts some papers on the podium in front of her. The background and her attire remain constant throughout the sequence, while her facial expressions and hand movements shift as she delivers her remarks."
+}

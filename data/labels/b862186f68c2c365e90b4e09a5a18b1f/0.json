@@ -1,0 +1,15 @@
+{
+  "video_id": "b862186f68c2c365e90b4e09a5a18b1f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-101.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.205,
+    9.615,
+    16.025,
+    22.435
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser window with multiple open tabs, including \"True & Learning by Systemic,\" \"Elements by Systemic,\" and \"Future of Society by Systemic.\" The main browser view shows a digital mind map or concept map with nodes connected by lines against a dark background. Several nodes contain icons, including a blue circular icon and a red circular icon with a white figure. To the right, a video call window is active, showing a man wearing a grey baseball cap and a dark shirt. Next to him is another video feed showing a person in a red shirt sitting in a room with furniture. The man in the cap remains static, looking toward the camera. Throughout the sequence, the interface and the people in the video calls remain stationary, with no visible changes in actions or on-screen content across the frames."
+}

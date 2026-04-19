@@ -1,0 +1,15 @@
+{
+  "video_id": "b03d376daecc9a18390af4d1d54e9753",
+  "url": "./data/segments/3Z229_lKLpk-Scene-176.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.75,
+    1.05
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a bald head and a slight smile sits in a high-backed wooden chair against a background of polished vertical wood paneling. He is dressed in a cream-colored long-sleeved shirt worn under a beige Nehru vest, which features a light-colored pocket square. In front of him sits a table with a dark object and a small microphone on a stand. Across the sequence of frames, the man remains seated in the same position, gazing slightly to his right with a composed and attentive expression. There is very little movement between the frames, as he maintains his posture and facial expression throughout the clip. No text, logos, or other people are visible in the scene."
+}

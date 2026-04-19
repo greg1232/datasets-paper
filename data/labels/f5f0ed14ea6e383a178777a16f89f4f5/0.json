@@ -1,0 +1,15 @@
+{
+  "video_id": "f5f0ed14ea6e383a178777a16f89f4f5",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.46,
+    1.381,
+    2.302,
+    3.223
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an indoor gym setting featuring blue bleachers and a polished wooden floor, a person wearing black and red sneakers is seen moving. The sequence begins with a close-up shot of the person's feet as they step forward on the gym floor. The perspective then shifts to show a black tripod with red accents standing on the wooden floor in front of the blue bleachers. As the scene progresses, the camera zooms out or repositioned to provide a wider view of the tripod, which is centered in the frame. The background remains constant, showing the tiered blue seating of the bleachers and a few scattered items on the floor. The movement transitions from a close-up of the person's footwear to a steady shot focusing on the camera equipment positioned in the gymnasium."
+}

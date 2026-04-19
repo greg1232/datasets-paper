@@ -1,0 +1,15 @@
+{
+  "video_id": "09b1f43db06962f3c47e946a3b61ad0b",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-244.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.269,
+    0.448,
+    0.627
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played in a large stadium with a green turf field, featuring the text \"COMMANDERS\" printed across the center. Players in white uniforms and helmets engage in a play near the 30-yard line, with a quarterback dropping back and moving toward the right side of the field. On-screen graphics indicate a game status of \"1st & 10\" with a clock showing \"3:02\" and a score of \"0\" for both teams. The top of the screen displays \"ULTIMATE TEAM.\" In the bottom left corner, a small inset window shows a blonde man wearing a navy blue shirt and white headphones, watching the game. As the action progresses, the offensive players move forward and the quarterback continues his movement, while the man in the inset remains relatively stationary, observing the play."
+}

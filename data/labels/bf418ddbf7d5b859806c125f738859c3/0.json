@@ -1,0 +1,15 @@
+{
+  "video_id": "bf418ddbf7d5b859806c125f738859c3",
+  "url": "./data/segments/3E6ctN22V7k-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.275,
+    0.825,
+    1.375,
+    1.925
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a classroom setting, a group of students sits behind wooden desks in front of a chalkboard. The chalkboard features white chalk drawings and text, including the phrase \"LE MONDE AU TRAVAIL\". Several young students are visible, with three in the foreground looking toward the front of the room. One student wears a light blue shirt, another wears a brown garment, and a third wears a white shirt. The students remain relatively still throughout the sequence, with some resting their chins on their hands or arms on the desk. Across the center of the scene, the on-screen text \"[The professor talks to the students]\" appears in yellow. The composition of the scene remains consistent across the frames, showing the students listening attentively in their classroom environment."
+}

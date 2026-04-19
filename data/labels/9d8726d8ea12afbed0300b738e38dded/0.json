@@ -1,0 +1,15 @@
+{
+  "video_id": "9d8726d8ea12afbed0300b738e38dded",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-315.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.78,
+    2.34,
+    3.9,
+    5.46
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call features a grid of participants in various home or office settings. The participants, a diverse group of men and women, are seen from the chest up, mostly wearing casual attire like t-shirts and button-down shirts. Some individuals are wearing glasses. The backgrounds vary, with some showing bookshelves, windows, and domestic interiors. Legible on-screen labels include \"Jerry McNally,\" \" prayed Slevaman,\" \"Sara Behman,\" \"Jim Burke,\" \"Sayouji Hersh,\" and \"Prana Pittman.\" Throughout the clip, the participants remain in their respective frames, with subtle movements such as nodding, shifting positions, or blinking. The overall composition of the video call remains consistent, with the same individuals occupying the same grid positions, though the lighting and focus shift slightly across the sequence."
+}

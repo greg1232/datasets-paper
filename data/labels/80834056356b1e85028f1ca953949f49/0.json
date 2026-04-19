@@ -1,0 +1,15 @@
+{
+  "video_id": "80834056356b1e85028f1ca953949f49",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-803.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.162,
+    0.485,
+    0.808,
+    1.131
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt and a black baseball cap with headphones is recorded in what appears to be a retail clothing store, surrounded by racks of apparel and framed photos on the walls. In the initial scene, he is shown from the side, facing away from the camera toward a black backdrop that reads \"WHERE BOSSES TALK\" and \"LET'S TALK ABOUT IT\" and \"CONNECT WITH US.\" He is positioned behind a professional microphone. As the sequence progresses, the camera shifts to a front-facing view of the man, who is speaking into the microphone. His green shirt features the text \"ION NEVER DO SHIT AT WORK.\" A mannequin wearing a white shirt and other clothing items on racks are visible in the background. Logos for \"BOSSY\" and other brands appear as watermarks in the corners of the scene."
+}

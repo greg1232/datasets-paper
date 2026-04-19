@@ -1,0 +1,15 @@
+{
+  "video_id": "d5736578e3aee61596c7c03c2f12ab84",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-829.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green t-shirt, a green baseball cap, and headphones sits in a studio setting, gesturing with his right arm toward someone off-screen. He points his finger forward in the initial frames, his arm extended across a desk. Behind him, another person is partially visible, wearing a blue long-sleeved shirt and blue pants. The room contains studio equipment, including a microphone on a boom arm and a display screen featuring a logo and the text \"VISUAL REALIGNMENT.\" A sign on the desk contains fragmented text, including \"BOSSES TA\", \"IT'S TAL\", and \"OUT I\". A red and white logo with the text \"THE\" is visible in the lower left of the scene. As the sequence progresses, the man shifts his posture, pulling his arm back and moving his hand in a waving or gesturing motion."
+}

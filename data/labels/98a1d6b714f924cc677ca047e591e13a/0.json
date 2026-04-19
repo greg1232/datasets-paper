@@ -1,0 +1,15 @@
+{
+  "video_id": "98a1d6b714f924cc677ca047e591e13a",
+  "url": "./data/segments/3QD9oO6sRns-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.258,
+    0.775,
+    1.292,
+    1.808
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a graded sports card in a clear plastic case, showcasing a baseball card of \"FRANK THOMAS\". The card features an image of the player in a white jersey and bears a signature. A label at the bottom of the case reads \"1990s\", followed by \"Frank Thomas\" and \"HALL OF FAME\". In the background, another person wearing a black t-shirt and a baseball cap is visible, positioned behind a table with \"BREAK\" text on a red banner. Various stacks of card boxes and a logo that reads \"CASEBREAKS.COM\" appear on the screen. As the sequence progresses, the hands slightly shift the card's position, tilting it to catch the light and show different angles of the graded slab, while the person in the background remains relatively still."
+}

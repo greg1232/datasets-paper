@@ -1,0 +1,15 @@
+{
+  "video_id": "71397b75cb9d6720ad7bb2d9259f0f6d",
+  "url": "./data/segments/3l84m5pRmyk-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.238,
+    0.713,
+    1.189,
+    1.664
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a stationary shot of a promotional banner for a \"theCUBE Special Event\" being filmed by a camera on a tripod. The banner is white and teal, featuring the text \"Broadcasting Live from the Fairmont San Jose Continuous Coverage | February 18, 19 & 20, 2015\" and \"Hosted by Dave Vellante, John Furrier and Jeff Kelly.\" A large hashtag, \"#BigDataSV2015,\" is prominently displayed alongside a section for \"Speakers and Guests\" with small portrait photos. A black professional video camera is mounted on a tripod in the foreground, partially obscuring the left side of the banner. The scene remains static across the frames, with no people visible and no significant movement or change in the positioning of the equipment or the background, maintaining a consistent view of the event signage."
+}

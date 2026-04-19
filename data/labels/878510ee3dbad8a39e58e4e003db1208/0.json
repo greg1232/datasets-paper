@@ -1,0 +1,15 @@
+{
+  "video_id": "878510ee3dbad8a39e58e4e003db1208",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-248.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.43,
+    1.29,
+    2.15,
+    3.01
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a virtual meeting and a presentation on the \"Rural Community Food System.\" A man with a beard and a dark shirt is visible in a small video feed in the upper right corner. The main content is a presentation slide titled \"Introduction\" that asks, \"What constitutes a sustainable localized food system for a rural community? Source as local as possible from locally owned and operated to benefit the community.\" The slide lists \"Session Videos\" with several dates and mentions that users can contribute by \"adding communities or by drawing a number to evolve the map.\" A complex visual map with green and red circular nodes is displayed on the right side of the slide. As the video progresses, a chat or comment window appears on the right side of the screen, displaying a message from \"118 Ecological Considerations & Community Health\" that reads, \"all systems 118 message.\""
+}

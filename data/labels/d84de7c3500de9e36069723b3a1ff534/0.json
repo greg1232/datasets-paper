@@ -1,0 +1,15 @@
+{
+  "video_id": "d84de7c3500de9e36069723b3a1ff534",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-223.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.665,
+    1.995,
+    3.325,
+    4.655
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A computer screen displays a web browser with multiple open tabs, one of which is \"blackboard.ucl.ac.uk\". The main content is a dark digital canvas featuring a network map of interconnected circular icons with labels like \"Insights\", \"Introduction to Rumo\", and \"Rumo Community Food Spot\". Blue curved lines connect these nodes to a central orange icon and other surrounding elements. In the upper right corner, a small video inset shows a man wearing a grey baseball cap and a dark shirt, looking toward the screen. Across the sequence, the interface remains largely static, though the man in the inset slightly shifts his head and gaze, and the mouse cursor moves subtly across the black canvas. Text on the browser tabs includes \"Trust & Learning by Systemantics\", \"Future of Society by Systemantics\", and \"Insights \u00bb Introduction to Rumo\"."
+}

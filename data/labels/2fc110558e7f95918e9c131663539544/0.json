@@ -1,0 +1,15 @@
+{
+  "video_id": "2fc110558e7f95918e9c131663539544",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.535,
+    1.605,
+    2.675,
+    3.745
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark baseball cap is visible in a small video call inset at the top of a computer screen, which displays a complex conceptual map on a black background. The map features various circular icons connected by blue and green lines, with labels such as \"deconstruct,\" \"reconstruct,\" and \"introduce.\" In the center, a white graphic of a stylized robot arm is overlaid on the map. The browser tabs at the top of the screen show titles including \"Trust & Learning by Systemeni,\" \"Future of Society by Systemeni,\" and \"Rural Community Food System.\" Between frames, the robot arm graphic shifts its position slightly, moving toward the right side of the map, and the user's cursor moves across the screen. The overall scene depicts a remote presentation or collaborative session focusing on a structured system of ideas."
+}

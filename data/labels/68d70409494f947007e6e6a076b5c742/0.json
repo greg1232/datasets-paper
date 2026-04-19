@@ -1,0 +1,15 @@
+{
+  "video_id": "68d70409494f947007e6e6a076b5c742",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-370.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.613,
+    1.839,
+    3.066,
+    4.292
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, styled dark hair and a light beard is seated in a recording studio, wearing a black long-sleeved shirt and large black over-ear headphones. He is positioned behind a professional condenser microphone mounted on a black boom arm, which is equipped with a pop filter. The background consists of dark, ribbed acoustic foam panels. Across the sequence, the man remains in a stationary position, but his facial expression shifts. He begins by looking slightly to the side with an expectant gaze, then closes his eyes briefly in a blink. He then opens his eyes and looks forward with a slight, neutral expression, eventually settling into a soft, attentive gaze toward the front. There is no on-screen text or logos visible."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "c4c85da1c476994ac28916ade9377a11",
+  "url": "./data/segments/3pLMflJEGQ4-Scene-010.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.283,
+    0.85,
+    1.417,
+    1.983
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A bald man with a short white beard and glasses is the central subject of the video, positioned outdoors against a dense background of green foliage. He wears a dark gray or black jacket with a wide, textured collar and a dark shirt underneath. Throughout the clip, he looks directly toward the camera with a neutral expression. His right arm is slightly raised near his chest in the initial moments, but he remains relatively stationary as the scene progresses. The camera remains in a steady close-up shot, focusing on his face and upper torso. There are no other people, visible objects, equipment, or on-screen text or logos present in the frames. The only change across the sequence is a subtle shift in the man's posture and facial expression as he continues to look forward."
+}

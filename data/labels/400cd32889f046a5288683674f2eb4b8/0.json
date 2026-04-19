@@ -1,0 +1,15 @@
+{
+  "video_id": "400cd32889f046a5288683674f2eb4b8",
+  "url": "./data/segments/3P1vSUbet40-Scene-1043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with her hair in a high, textured bun and wearing black headphones sits in a studio setting, facing slightly to the left. She is dressed in a black t-shirt and is positioned behind a professional microphone. To her left, a monitor displays the word \"ohnson\" in red. In the background, a yellow vertical stripe accents the wall, and a small sign reads \"Employees Only.\" On-screen graphics include a logo with a microphone icon and the text \"BOSS TALK 101\" in red and black, accompanied by the word \"PODCAST\" inside a white pill-shaped button and the smaller text \"by 11 logo Studio.\" Across the sequence, the woman remains mostly still, maintaining a neutral facial expression while slightly shifting her gaze and posture, indicating she is listening or preparing to speak during a recording session."
+}

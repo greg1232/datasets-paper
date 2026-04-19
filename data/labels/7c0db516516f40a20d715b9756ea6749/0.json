@@ -1,0 +1,15 @@
+{
+  "video_id": "7c0db516516f40a20d715b9756ea6749",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-278.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.512,
+    1.537,
+    2.562,
+    3.587
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video game sequence shows an American football game played on a green grass field within a crowded stadium. Players from two teams, one in white uniforms and one in dark jerseys, are positioned for a play. A red flag is placed on the field. On-screen graphics at the top show \"2nd & 4\", team logos, and a game clock that counts down from \"0:59\" to \"0:56\" while the game timer displays \"33 :09\". In the bottom left of the scene, a small inset video shows a fair-skinned man with blond hair wearing a dark shirt and a headset, observing the action. As the sequence progresses, the football play begins; the players clash at the line of scrimmage, and the ball carrier moves forward across the field, passing the \"30\" and \"20\" yard markers. The man in the inset remains visible throughout, maintaining a neutral expression."
+}

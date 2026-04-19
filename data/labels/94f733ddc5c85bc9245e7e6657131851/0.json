@@ -1,0 +1,15 @@
+{
+  "video_id": "94f733ddc5c85bc9245e7e6657131851",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-229.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.079,
+    0.237,
+    0.396,
+    0.554
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game is played in a stadium with a grass field, featuring players in white and black uniforms. On-screen text at the top shows \"3rd & 3,\" team logos, and a game clock reading \"1st 3:18 32\" which changes to \"1st 3:17 32\" as the sequence progresses. A small inset window in the lower left displays a blonde man in a dark shirt sitting in front of a decorated holiday tree. As the action unfolds, the players line up at the line of scrimmage. The offensive players in white face the defensive players in black. By the end of the clip, the ball is snapped, and the players engage in a block, while the man in the inset window watches the game. The field is marked with yardage lines and a large star logo near the bottom of the frame."
+}

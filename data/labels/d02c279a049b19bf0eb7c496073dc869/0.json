@@ -1,0 +1,15 @@
+{
+  "video_id": "d02c279a049b19bf0eb7c496073dc869",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-050.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.645,
+    16.935,
+    28.225,
+    39.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An educational presentation on \"CRYOGENIC ENGINEERING\" is shown, featuring a slide titled \"Tutorial \u2013 2\". The slide focuses on the \"Work/unit mass of gas liquefied\" and displays a T-S diagram with a cycle delineated by lines labeled \"T=const\", \"p=const\", \"S=const\", and \"h=const\". Across the sequence, the slide is incrementally updated with calculations. Initially, only the diagram and heading are visible. Then, two blue boxes appear containing the values \"W/m = 463\" and \"y = 0.074\". Finally, a mathematical equation is added at the bottom, showing the calculation \"W/m_l = W/ym = 463 / 0.074 = 6265.22 J / g\". The NPTEL logo is visible in the bottom-left corner, and the bottom banner identifies the presenter as \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\"."
+}

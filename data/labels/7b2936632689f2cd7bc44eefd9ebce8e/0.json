@@ -1,0 +1,15 @@
+{
+  "video_id": "7b2936632689f2cd7bc44eefd9ebce8e",
+  "url": "./data/segments/3gJ0RZB6Df8-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.535,
+    1.606,
+    2.677,
+    3.748
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black long-sleeved shirt sits in a room behind a desk, appearing in a small inset window. He is positioned in front of a white wall with equipment visible in the background. The main view focuses on a table covered with a black mat featuring large orange and white graphics and the text \"JASPYS CASEBREAKS.com\". Centered on the mat is a black box labeled \"OBSIDIAN\" in red letters, with a smaller label stating \"2 AUTOGRAPHS\". On top of the box is a trading card featuring a basketball player in a white uniform. Behind this main box, a stack of similar \"OBSIDIAN\" boxes is visible. Throughout the sequence, the man in the inset window remains seated, and the scene remains static with no movement or changes in position for the man or the objects on the table."
+}

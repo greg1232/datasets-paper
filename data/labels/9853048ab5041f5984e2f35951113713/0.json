@@ -1,0 +1,15 @@
+{
+  "video_id": "9853048ab5041f5984e2f35951113713",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-136.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.235,
+    0.705,
+    1.175,
+    1.645
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A televised news segment from News18 India features a press conference setting where several people are seated behind a long white table adorned with floral arrangements. A woman in a white outfit is seated centrally, while a man in a white shirt and a man in a dark suit are positioned to her right. The scene remains static across the sequence, though the on-screen graphics and text overlays change. In the initial frames, the top banner asks \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\" and a side panel labels a man as \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\". As the sequence progresses, the top banner changes to \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u091c\u0938\u094d\u0935\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\". The \"BREAKING NEWS\" ticker runs across the bottom in bold yellow and red lettering, and the time is consistently displayed as \"10:08 PM\". Small inset portraits of \"\u0938\u0902\u0924\u094b\u0937 \u0938\u0941\u092e\u0928\" and \"\u0938\u0941\u092e\u093f\u0924 \u0915\u0941\u092e\u093e\u0930\" appear on the right side of the screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "fd5da68f16ef7a8015762b1efbc4f8dd",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-254.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.458,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blond hair, wearing a black shirt, is visible in a small inset video window within a complex digital football play-calling interface. The background behind the person features a decorated Christmas tree. The larger screen displays a football stadium setting with a wide field and stands. Various menus and data panels are overlaid, including \"SELECT A PLAY,\" \"PREVIOUS PLAY,\" and categories like \"COACH SUGGESTIONS,\" \"PLAYBOOK,\" and \"FORMATION.\" Specific play options such as \"VERTICALS\" and \"TE ATTACK\" are visible alongside diagrammed plays. The top of the screen displays game statistics, including \"3rd & 6,\" \"EXO,\" and a clock showing \"1:33\" and \" :29\". A Nike logo is present in several locations. Across the sequence, the person in the inset window speaks and shifts their expression slightly, while the rest of the digital interface remains static."
+}

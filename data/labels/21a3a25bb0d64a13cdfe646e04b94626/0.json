@@ -1,0 +1,15 @@
+{
+  "video_id": "21a3a25bb0d64a13cdfe646e04b94626",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-057.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.404,
+    1.212,
+    2.021,
+    2.829
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a terminal window open within a software environment. The terminal is filled with lines of command-line output, primarily featuring logs related to \"mgr'tail routine\" and \"shutterstock_pathver/ringdag.log\". Recurring text includes \"kubectl create -f fluent-bit-ds-configmap.yaml\" and \"kubectl create -f fluent-bit-ds-nodeSelector.yaml\", interspersed with timestamped log entries such as \"Oct 28 00:22:23\". The interface shows a top menu bar with \"Activities\" and \"Terminal\" options, and a system clock indicating \"Oct 28 00:22\". A small cursor is visible in the lower-left area of the window. Across the sequence, the content of the terminal remains static, with no new text appearing or scrolling, and the window remains in a fixed position on the screen, indicating a frozen or paused state of the terminal session."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7419a761a2243421cded6851d3819147",
+  "url": "./data/segments/3cfugv0xNbU-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.726,
+    2.177,
+    3.629,
+    5.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman in a United States Air Force camouflage uniform is shown speaking while standing outdoors. She has blonde hair tied back and is positioned in front of a large, grey metallic structure, possibly part of an aircraft, with a visible red light and a small handle. The uniform features patches on the shoulders and sleeves, including a name tag that reads \"HIRCHERT\" and a branch tag that reads \"U.S. AIR FORCE.\" As she speaks, her facial expressions and mouth movements change slightly across the sequence. Text overlays appear in the lower portion of the frames, identifying her as \"AIR FORCE MAJ. SHANA HIRCHERT\" and stating her role as \"Flight Physician, 353rd Special Operations Support Squadron.\" A small blue hexagonal logo is visible on the right side of the screen. The background shows a blurred green grassy area under bright, daylight conditions."
+}

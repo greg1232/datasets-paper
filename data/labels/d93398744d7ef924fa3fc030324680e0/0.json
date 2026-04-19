@@ -1,0 +1,15 @@
+{
+  "video_id": "d93398744d7ef924fa3fc030324680e0",
+  "url": "./data/segments/3ohEGTdRLHY-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    9.03,
+    27.09,
+    45.149,
+    63.209
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a grey beard, wearing a grey polo shirt, is speaking in a professional setting. The scene begins with a close-up of his hands gesturing as he speaks. As the sequence progresses, the camera pulls back to reveal his face and upper body. He is standing in front of a display wall featuring a poster for \"AlphaSzenzor Inc.\" The poster contains the text \"ZB38 AlphaSzenzor Inc\" at the top and a section titled \"Typical Gas Sensor Attributes\" above a grid of small images and technical descriptions. In the background, another person wearing a light blue shirt is partially visible. The man continues to talk, shifting his gaze slightly and adjusting his expression, while the background remains consistent, focusing on the promotional materials for AlphaSzenzor."
+}

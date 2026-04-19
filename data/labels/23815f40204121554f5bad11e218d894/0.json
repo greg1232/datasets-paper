@@ -1,0 +1,15 @@
+{
+  "video_id": "23815f40204121554f5bad11e218d894",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    9.254,
+    27.762,
+    46.271,
+    64.779
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide titled \"Logging Processing in Kubernetes\" with the subtitle \"Read Logs from the Filesystem or Journal\" is displayed, while a small inset video in the upper right corner shows a person wearing a light-colored shirt. The slide illustrates a technical architecture featuring a \"Master\" node represented by a blue Kubernetes logo and a \"Node\" containing \"Pod 1\" and \"Pod N\". Red arrows point from these pods toward a \"Fluent Bit Pod,\" which is identified by a blue bird logo. Beside these arrows is the text \"/var/log/containers/*\" and \"Read Logs\". Between the first and third frames, the presentation remains static. In the final frame, a new red arrow appears, originating from the \"Master\" node and arching over the central node to point directly at the \"Fluent Bit Pod.\""
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "24bda0e7cf255bd7eddee70693ddc02b",
+  "url": "./data/segments/3l84m5pRmyk-Scene-052.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.909,
+    2.728,
+    4.546,
+    6.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a grey suit, white dress shirt, and patterned blue tie speaks during a presentation. He stands behind a laptop computer, which features a orange and white sticker that reads \"NFO-OBJECTS\" next to a small logo. Behind him is a white backdrop with the hashtag \"#BigDataSV\" and the year \"2015\" printed in blue text. He wears a discreet head-worn microphone. As the scene progresses, the man speaks with an active expression, shifting his gaze and using hand gestures to emphasize his points. In the final moments, he raises his left hand, gesturing outward as he continues to talk. The background and his position remain constant throughout the clip, while his facial expressions and hand movements provide the only dynamic changes in the scene."
+}

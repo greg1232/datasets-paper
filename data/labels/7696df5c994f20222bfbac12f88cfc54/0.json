@@ -1,0 +1,15 @@
+{
+  "video_id": "7696df5c994f20222bfbac12f88cfc54",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-494.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.177,
+    0.532,
+    0.886,
+    1.241
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, a black hoodie with the word \"BOSS\" printed in gold lettering, and a gold chain sits in a studio setting. He wears professional over-ear headphones and is positioned in front of a microphone mounted on a black boom arm. To his left is a white backdrop featuring a repeated logo that says \"UNICORN MUSTLE\" surrounded by five gold stars. Behind him, a blue sign reads \"'Where BOSSES Talk!'\". On the desk to his right, a black mug is visible with text that includes \"TALK OUT\". A small black box with a logo is also present on the desk to his left. Throughout the sequence, the man remains seated and maintains a consistent posture and facial expression, looking slightly to the left, with virtually no visible movement or change in the scene across the frames."
+}

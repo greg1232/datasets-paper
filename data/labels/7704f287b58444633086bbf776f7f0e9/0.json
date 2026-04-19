@@ -1,0 +1,15 @@
+{
+  "video_id": "7704f287b58444633086bbf776f7f0e9",
+  "url": "./data/segments/3Z229_lKLpk-Scene-097.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.345,
+    0.575,
+    0.805
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a wide, elevated shot of a large assembly hall, likely a legislative chamber, filled with numerous people seated in tiered rows. The people are dressed predominantly in light-colored, formal attire, such as white shirts. The hall features a semi-circular layout with distinct sections of seating separated by green aisles. In the upper tiers, there are balconies with gold-colored railings where more attendees are seated. The architecture is characterized by high ceilings with structured beams and recessed lighting. Throughout the sequence, the scene remains virtually static, with the people staying in their seats. There are no visible interactions, movement, or changes in the environment between the frames. No on-screen text, logos, or specific equipment are legible in the view."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "35032cbc270f56732332534de934c3fb",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.25,
+    0.751,
+    1.251,
+    1.752
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a white long-sleeved shirt and a black decorated vest, stands before a microphone against a backdrop of horizontal wooden slats. He is singing and playing an acoustic guitar, with his right hand strumming the strings. In the foreground, the backs of several people's heads are visible, suggesting an audience. The word \"ORCA\" appears in white capital letters on the right side of the scene. Across the sequence, the man continues to sing into the microphone and move his hand across the guitar strings. His facial expressions shift slightly as he performs, and his right arm moves in a rhythmic strumming motion, with his hand shifting position on the body of the guitar from frame to frame."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d513af4c8636bca21d0a1c1ae480a5b0",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-082.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser window displaying a conceptual map against a dark background. The map features interconnected circular nodes, some containing icons and others with text. Notable nodes include one with a red and blue logo and others with green circles containing the words \"details\" and \"details\" beneath them. A prominent image of a red, curved anatomical structure, likely a kidney or similar organ, is centered on the screen. At the top of the browser, several tabs are open, with legible titles including \"True Learning by Systemic\", \"Rosary by Systemic\", and \"Future of Society by Systemic\". In the upper right corner, a small video feed shows a person wearing a blue baseball cap and a dark shirt, partially obscured by the window layout. The scene remains static across the frames, with no visible movement or changes in the displayed content or the person's position."
+}

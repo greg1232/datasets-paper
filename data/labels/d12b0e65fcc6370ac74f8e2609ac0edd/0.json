@@ -1,0 +1,15 @@
+{
+  "video_id": "d12b0e65fcc6370ac74f8e2609ac0edd",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.55,
+    7.65,
+    12.75,
+    17.85
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man stands behind a podium in a minimalist setting against a plain, light-colored wall. He is wearing a dark navy blue blazer over a dark button-down shirt. On the podium in front of him sits a clear plastic water bottle and a gooseneck microphone. In the upper corners of the scene, the logo \"mediasite\" is visible alongside a stylized graphic. Throughout the sequence, the man is speaking and gesturing with his hands. He begins with a serious expression, glancing slightly to his left, and then transitions into a smile as he continues to talk and move his hands for emphasis. His posture remains consistent as he addresses an audience off-camera, with the lighting remaining steady and the camera angle fixed on him in a medium shot."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e55ec7d9c3f69b73af09ee8ccdb8dc41",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-245.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.706,
+    2.119,
+    3.531,
+    4.944
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand holds a sports trading card featuring an athlete in a white baseball uniform. The card is held over a white storage box sitting on a patterned surface. In the background, a small inset window shows a man with a beard wearing a navy blue t-shirt, sitting in front of a computer monitor. The logo \"JASPYS\" and the text \"CASEBREAKS.COM\" appear prominently in the upper right and center of the scenes. As the sequence progresses, the hand moves the card downward and eventually places it inside the white storage box. By the final frame, the card is being lowered further into the box, while the man in the inset continues to watch. Legible text on the card includes \"HALL OF FAME\" and the name \"YASTINZEMSKI\"."
+}

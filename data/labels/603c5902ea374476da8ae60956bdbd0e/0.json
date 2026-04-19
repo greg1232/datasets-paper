@@ -1,0 +1,15 @@
+{
+  "video_id": "603c5902ea374476da8ae60956bdbd0e",
+  "url": "./data/segments/3fokLGPK15Q-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.37,
+    1.11,
+    1.85,
+    2.59
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark, curly hair and a beard is seated in front of a dark background illuminated by vibrant purple spotlights. He wears a white long-sleeved button-down shirt with the top buttons open and a small microphone headset positioned near his mouth. In the initial moments, he looks slightly to his left with a gentle smile, his expression calm and attentive. As the scene progresses, he continues to gaze in the same direction, maintaining his smiling expression. In the final moments, his smile softens into a more neutral expression, and he begins to gesture with his right hand, moving it slightly upward as if emphasizing a point while speaking. The setting remains static throughout the clip, with the purple light beams providing a dramatic contrast to the dark background and his bright white shirt."
+}

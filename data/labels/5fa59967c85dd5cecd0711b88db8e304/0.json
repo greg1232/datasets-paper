@@ -1,0 +1,15 @@
+{
+  "video_id": "5fa59967c85dd5cecd0711b88db8e304",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-452.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.073,
+    0.219,
+    0.365,
+    0.511
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, headphones, and a dark green t-shirt sits in a room filled with framed pictures and clothing racks. His shirt features the white text \"ION NEVER DO SMUT\". He is positioned in front of a professional microphone on a boom arm and appears to be speaking or laughing, with his gaze directed slightly downward and to the side. In the background, a white mannequin wears a white garment, and several clothing racks are visible. Two logos appear on the screen: a circular logo on the left and a red text logo on the right that reads \"HOGS FLY 101\". Throughout the sequence, the man remains in the same position, with subtle changes in his facial expression and head tilt as he speaks, while the background and equipment stay static."
+}

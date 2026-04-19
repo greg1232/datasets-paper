@@ -1,0 +1,15 @@
+{
+  "video_id": "b20b572675cbb3dac5f374f62818960b",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-736.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.474,
+    1.423,
+    2.372,
+    3.321
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the white text \"ION NEVER DO SHIT AT WORK\" sits in front of a professional microphone in a room decorated with framed pictures and clothing racks. A white mannequin stands behind him to the right. In the background, various pieces of apparel hang on racks, and a wall is covered with several small framed photographs. On-screen logos appear in the lower corners: a circular logo on the left and a red \"BREEZY\" logo on the right. Across the sequence, the man is speaking, his facial expressions shifting slightly as his mouth opens and closes. His head remains relatively still while he looks slightly to the side, continuing his conversation into the microphone. The setting remains static throughout the clip, with no change in lighting or camera position."
+}

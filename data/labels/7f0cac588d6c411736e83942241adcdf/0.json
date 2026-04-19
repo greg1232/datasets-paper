@@ -1,0 +1,15 @@
+{
+  "video_id": "7f0cac588d6c411736e83942241adcdf",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-123.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair tied in a bun and wearing over-the-ear headphones sits in a studio setting. She is wearing a dark green t-shirt with a red and white circular graphic on the chest. She is positioned behind a black microphone mounted on a stand. In the background, a black banner features white text that reads \"SS TALK 101\" and \"CAST\", along with smaller text that says \"It's A Unique Handle\" and \"About It!\". A blue-tinted photo of hands is visible on the banner and as a separate framed piece of art on the wall. Small logos with the text \"BOSS TALK 101\" appear as overlays on the screen. Across the sequence, the woman remains in the same position, speaking into the microphone with slight variations in her facial expression and mouth movement as she talks."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e4c8cf44f8994942c194dea7417287fb",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-031.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.12,
+    3.36,
+    5.6,
+    7.84
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a pink traditional cap and a patterned pink garment speaks toward the camera in a split-screen presentation. To his side, a separate video feed shows a crowd of people waving small flags that are green, white, and red. On-screen text at the bottom of the frames reads \"PLUS POLITICS\" and \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\". A banner below this includes social media icons and the text \"FOLLOW US\" and \"PLUSTVAFRICA\". In the final frame, a bottom banner displays logos for \"DStv CH 408\" and \"StarTimes CH 308\" next to the words \"WATCH ON\". Throughout the sequence, the man continues speaking while the footage of the crowd waving flags remains largely consistent, with only slight shifts in the positions of the people and flags as the scene progresses."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "8169b258ceb72393de63ebb433c367a0",
+  "url": "./data/segments/3Kxl1O310k8-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.335,
+    4.005,
+    6.675,
+    9.345
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide displays contact information against a white background. The text \"Contact Information\" appears in a large black font on the left, while the contact details for \"Shelly Goehring\" are listed on the right. Below her name, the text specifies her role as \"Senior Program Manager,\" followed by the phone number \"857-317-8525\" and the email address \"sgoehring@mhp.net\". A small video inset of a person is visible in the top center and right margins, and a small \"MHP\" logo appears in the left and center margins. A thick yellow horizontal band stretches across the middle of the screen. Throughout the sequence, the slide content remains static. The only movement is within the small video inset, where the person's expression and posture shift slightly as they speak, while the rest of the visual elements remain unchanged."
+}

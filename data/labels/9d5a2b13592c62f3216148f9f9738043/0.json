@@ -1,0 +1,15 @@
+{
+  "video_id": "9d5a2b13592c62f3216148f9f9738043",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-049.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.575,
+    4.725,
+    7.875,
+    11.025
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man and a woman are seated at a small, round white table against a plain gray background. The man, on the left, wears a dark blazer over a dark shirt and trousers, while the woman, on the right, wears a dark blazer over a burgundy top and light-colored pants. A microphone on a stand and two clear water bottles sit on the table between them. The \"mediasite\" logo appears at the top of the scene. Throughout the clip, the man remains relatively still, facing the woman and gesturing slightly with his hands. The woman listens attentively, maintaining a steady gaze toward the man. In the final sequence, the woman raises her right hand to her face, lightly touching her nose or cheek. The scene remains static in terms of camera angle and setting, with only the subtle movements of the two participants."
+}

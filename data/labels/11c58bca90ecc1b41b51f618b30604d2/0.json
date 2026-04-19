@@ -1,0 +1,15 @@
+{
+  "video_id": "11c58bca90ecc1b41b51f618b30604d2",
+  "url": "./data/segments/3QD9oO6sRns-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.194,
+    3.581,
+    5.969,
+    8.356
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video displays a webpage for \"JASPYS CASEBREAKS.COM,\" featuring a product page for \"2020 TOPPS CLEARLY AUTHENTIC BASEBALL 10-BOX 1/2 CASE BREAK #11 *2 RT EACH*\" priced at \"$59.99.\" The product is marked as \"SOLD OUT.\" Two baseball cards are displayed side-by-side: one featuring a player in a white jersey and the other featuring Mike Trout in a red jersey. To the right, an embedded video window shows a man wearing a black baseball cap and a black t-shirt with a graphic on the front. He is positioned in front of a background that includes a logo for \"JASPYS CASEBREAKS.\" Text at the bottom of the video player reads, \"Hit the SUBSCRIBE button down below!\" next to a red \"Subscribe\" button. Throughout the sequence, the webpage layout and the man's appearance remain static."
+}

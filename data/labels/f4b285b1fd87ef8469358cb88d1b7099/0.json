@@ -1,0 +1,15 @@
+{
+  "video_id": "f4b285b1fd87ef8469358cb88d1b7099",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-480.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.287,
+    0.86,
+    1.434,
+    2.007
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, headphones, and a black hoodie with \"BOSS TALK\" printed on the chest is seated in a studio. He is positioned in front of a white backdrop featuring the text \"Where BOSSES Talk!\" and \"UNIQUE HUSTLE\" accompanied by five gold stars. A professional microphone on a boom arm is positioned in front of him, and a black mug with red text that reads \"BOSS TALK\" sits on the wooden desk. In the initial frames, the man looks down at a smartphone in his hands, appearing to read or type. As the sequence progresses, he looks up and away from the device, shifting his gaze toward someone off-camera while resting one hand on the table. Throughout the scene, his attire and the surrounding studio equipment remain constant while his focus transitions from the phone to his surroundings."
+}

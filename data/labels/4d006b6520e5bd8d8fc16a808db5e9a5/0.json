@@ -1,0 +1,15 @@
+{
+  "video_id": "4d006b6520e5bd8d8fc16a808db5e9a5",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-130.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.179,
+    0.538,
+    0.897,
+    1.255
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A large, cresting ocean wave dominates the scene under a cloudy sky. A small, distant figure is visible surfing inside the wave's barrel. Stylized, 3D white text appears over the water and wave, animating into focus as the clip progresses. Initially, the text is fragmented and partially obscured by the wave's spray, showing only parts of words like \"tech\". As time passes, the text shifts and expands across the center of the frame. By the end of the sequence, the complete phrase \"the Tiger Technicians Hour\" is clearly visible, rendered in a slanted, italicized white font that stretches across the lower half of the scene. The water remains in motion, with white foam and spray churning around the surfer and behind the text."
+}

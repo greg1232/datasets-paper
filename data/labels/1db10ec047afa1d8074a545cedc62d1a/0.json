@@ -1,0 +1,15 @@
+{
+  "video_id": "1db10ec047afa1d8074a545cedc62d1a",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-115.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.542,
+    1.627,
+    2.711,
+    3.795
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation room with gray tiled walls, several women in scrubs and casual attire practice surgical skills using simulation equipment. A woman in the foreground, wearing a dark blue fleece jacket and a blue surgical mask, holds a surgical instrument while looking toward a monitor. Behind her, other women in similar attire are engaged with their own simulation stations, using laparoscopic tools to manipulate objects. The equipment includes monitors, workstations, and specialized surgical trainers. A purple banner across the bottom of the scene features a silhouette of a human torso and the text \"Day 4\" and \"Sim Week\". Between the first and second frames, the text \"Lap Chole\" appears on the banner. Across the subsequent frames, the people remain in their positions, continuing their focused practice with the laparoscopic tools."
+}

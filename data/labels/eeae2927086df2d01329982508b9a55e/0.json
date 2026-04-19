@@ -1,0 +1,15 @@
+{
+  "video_id": "eeae2927086df2d01329982508b9a55e",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-362.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.819,
+    2.456,
+    4.094,
+    5.731
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a website titled \"RANDOM.ORG\" under the header \"True Random Number Service.\" A \"List Randomizer\" is used to shuffle a list of 48 items, which appear to be sports cards. The list includes entries such as \"1. SEAN BURKE 16/20,\" \"2. JIM MALONEY 16/20,\" and \"3. TIM McDONOUGH 16/20.\" In the top right of the screen, a small video window displays a man wearing a black t-shirt sitting in a room with a grey wall. A red \"Subscribe\" button with the text \"Hit the SUBSCRIBE button down below!\" is positioned at the bottom right of the main content area. The bottom of the screen features a white banner with the text \"WWW.JAYSCAKEBREAKS.COM\" repeated multiple times. As the video progresses, the list of names on the website is refreshed and re-randomized, shifting the order of the numbered entries."
+}

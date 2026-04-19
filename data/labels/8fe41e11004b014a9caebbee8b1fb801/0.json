@@ -1,0 +1,15 @@
+{
+  "video_id": "8fe41e11004b014a9caebbee8b1fb801",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-068.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows a person's hand interacting with the mechanical components of a vehicle's engine or drive system. The scene features a complex assembly of metal parts, including a large silver pulley wheel with a rounded center and radiating ribs, and a black rubber belt wrapping around it. Below this, another smaller metal pulley is visible. A silver metal guard or frame borders the right side of the frame. In the beginning, a hand is partially visible at the top left, momentarily resting near some black cables and wires. As the sequence progresses, the person's hand moves more actively, reaching down toward the belt and pulley system to adjust or inspect the components. The background is blurred and neutral, keeping the focus on the metallic machinery and the manual action being performed."
+}

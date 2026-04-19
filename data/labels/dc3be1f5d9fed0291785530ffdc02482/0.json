@@ -1,0 +1,15 @@
+{
+  "video_id": "dc3be1f5d9fed0291785530ffdc02482",
+  "url": "./data/segments/3W3PvnGP2r4-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.165,
+    6.494,
+    10.823,
+    15.153
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black baseball cap and a red hoodie speaks toward the camera while parked at a gas station. In the background, a \"CIRCLE K\" sign and a \"V-Pow\" sign are visible, along with several parked cars and a line of trees. The scene transitions to a first-person perspective from inside a vehicle, showing a grey hood and a paved area with red circular markings on the ground. A sign with the \"CIRCLE K\" logo is visible in the distance. The view then shifts to the interior of the car, showing the dashboard and a steering wheel. The digital instrument cluster displays a red needle and text that includes \"Press any button to unlock,\" while the speedometer is visible on the right."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "66f3ba09b378b5dd77b26c2fbf01ed9f",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-032.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In an outdoor setting with trees in the background under an overcast sky, a soldier dressed in camouflage gear and a cap is positioned next to a large, olive-green piece of artillery equipment. The soldier begins by standing to the left of the machinery, holding an object to their face. As the sequence progresses, the soldier moves closer to the equipment and appears to be interacting with it. The artillery piece features complex gears, levers, and a long barrel pointing upward. A red and white logo with the number \"13\" is visible in the upper right corner of each frame, and the watermark \"Hero of Ukraine\" is superimposed across the center of the imagery. The scene shifts slightly as the soldier's position changes relative to the weapon, while the camera angle remains mostly consistent."
+}

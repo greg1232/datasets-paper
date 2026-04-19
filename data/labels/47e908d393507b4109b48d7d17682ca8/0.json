@@ -1,0 +1,15 @@
+{
+  "video_id": "47e908d393507b4109b48d7d17682ca8",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-071.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.521,
+    1.564,
+    2.607,
+    3.649
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Two men are seated in an indoor setting, positioned in front of a shelf filled with DVDs and a television screen displaying the yellow text \"OUR STUPID REACTIONS\". The man on the left, with graying hair and wearing a dark green t-shirt, is actively gesturing with his hands while speaking to the man on the right. The man on the right has reddish-brown hair and a beard, wears a gray t-shirt, and maintains a thoughtful expression with his hand resting on his chin. On-screen text identifies the men as \"@RICKSEGALL\" and \"@KORBINMILES\", and a small red \"PATREON\" logo is visible. As the sequence progresses, the man on the left continues to talk and shift his hand positions, while the man on the right remains relatively still, listening attentively. The background and lighting remain constant throughout the scene."
+}

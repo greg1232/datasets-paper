@@ -1,0 +1,15 @@
+{
+  "video_id": "1ef2512f781a216f01f0fee52988d99a",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-236.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.069,
+    6.206,
+    10.344,
+    14.481
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a white long-sleeved shirt, a black vest with blue floral embroidery, and a red belt, performs in front of a slatted brown wall. He stands behind a microphone on a stand, singing with his mouth open and eyes alternating between being open and closed. In the foreground, the backs of several people's heads are visible, suggesting an audience. The text \"ORCA\" appears in a white box on the right side of the scene. As the sequence progresses, the man's facial expressions shift as he sings, moving from an open-mouthed expression to closing his eyes and then opening his mouth again. He remains stationary behind the microphone throughout the clip, while the background and the audience members in the foreground stay consistent."
+}

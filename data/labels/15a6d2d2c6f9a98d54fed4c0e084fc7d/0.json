@@ -1,0 +1,15 @@
+{
+  "video_id": "15a6d2d2c6f9a98d54fed4c0e084fc7d",
+  "url": "./data/segments/3qr2hGZ_rRg-Scene-121.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.214,
+    0.641,
+    1.068,
+    1.495
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair, wearing a blue and white striped shirt and black over-ear headphones with a microphone, is centered in the shot. She is positioned in an indoor setting with light-colored walls, a light green curtain to her left, and a beige surface behind her. Throughout the sequence, she looks slightly off-camera to the left, her lips moving as she speaks. Her expression remains relatively neutral, though her mouth opens and closes slightly as she talks. The lighting is soft and consistent across the scene. Small, white on-screen text reading \"Nancy Benny\" is visible in the bottom left corner of each frame. There are no other people present, and the background remains stationary as the woman continues speaking."
+}

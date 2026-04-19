@@ -1,0 +1,15 @@
+{
+  "video_id": "59ed1e58aa380abec7b0fbccd05cf733",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-242.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.444,
+    1.331,
+    2.219,
+    3.106
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A professional football game is captured from a high-angle perspective on a green field with white yard lines and a yellow boundary. Players in white jerseys and dark helmets face opposing players in dark jerseys. A green line and a red line are overlaid on the field, along with markers labeling players as \"Norton\" and \"Hill.\" Circular icons with the letters \"M\" and \"A\" float above certain players. At the bottom left of the screen, a small inset window shows a man with short brown hair and a beard wearing a dark blue shirt, who is smiling and speaking. Banners at the top of the screen display \"Throw quickly\" and \"1027 1842.\" Across the sequence, the players remain in their set positions at the line of scrimmage, while the man in the inset window changes his facial expression and mouth position as he talks."
+}

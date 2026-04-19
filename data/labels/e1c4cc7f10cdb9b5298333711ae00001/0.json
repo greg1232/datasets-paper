@@ -1,0 +1,15 @@
+{
+  "video_id": "e1c4cc7f10cdb9b5298333711ae00001",
+  "url": "./data/segments/3a0FD1177FA-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.907,
+    2.721,
+    4.536,
+    6.35
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with a tattoo on their inner forearm and a white smartwatch on their wrist is crafting on a gray gridded mat. In the first frame, they hold a white and black ink pad, preparing to use it. As the sequence progresses, they press the ink pad onto a small piece of patterned green and yellow paper. In the final frames, they move their hand away, leaving the ink pad on the mat next to the paper. Nearby on the workspace are patterned paper scraps, a brown cardstock piece, and a clear stamp block containing the text, \"Having your BIRTHDAY is filled with ALL the Best things\". The screen features a watermark logo that reads \"SUNNY SENTIMENTS CLING STAMP SET\" in the center and \"Stamping Jill\" in a script font on the left."
+}

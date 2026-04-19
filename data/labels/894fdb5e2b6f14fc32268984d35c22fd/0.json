@@ -1,0 +1,15 @@
+{
+  "video_id": "894fdb5e2b6f14fc32268984d35c22fd",
+  "url": "./data/segments/3Z229_lKLpk-Scene-202.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.365,
+    1.095,
+    1.825,
+    2.555
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide-angle shot captures a large assembly of people seated in rows within a formal legislative chamber. Most of the attendees are men wearing traditional Indian attire, including light-colored kurtas and white shirts, with several individuals sporting saffron-colored headgear. They are seated behind long wooden desks featuring decorative carved patterns. The individuals are mostly stationary, looking forward or slightly shifting in their seats. The scene remains consistent across the sequence, with very minimal movement among the crowd, suggesting a period of listening or waiting during a session. No on-screen text, logos, or electronic equipment are visible in the frames. The lighting is bright and uniform, illuminating the vast hall and the densely packed rows of seated members."
+}

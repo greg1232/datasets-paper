@@ -1,0 +1,15 @@
+{
+  "video_id": "17d4906736bda2b3665eaeb481244303",
+  "url": "./data/segments/3P1vSUbet40-Scene-0399.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.219,
+    0.657,
+    1.095,
+    1.533
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a large, grey, stylized wig, glasses, and a white button-down shirt with gold suspenders and a bow tie sits in a studio. He is wearing over-ear headphones and is positioned in front of a black professional microphone. In the background, a framed image featuring a shield logo is mounted on the wall, and a blurred sign reads \"UNIQUE FASHIONS.\" On-screen graphics include a circular logo that says \"#REALTALK PODCAST\" on the left and red text that reads \"REAL TALK 101\" on the right. Across the sequence, the man remains in the same seated position, speaking into the microphone. His facial expressions shift slightly as he talks, and his mouth opens and closes, while the background and equipment remain static."
+}

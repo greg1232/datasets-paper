@@ -1,0 +1,15 @@
+{
+  "video_id": "2492cd55a27a7316e4c158a2538f5840",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-129.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.235,
+    6.705,
+    11.175,
+    15.645
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a web browser displaying a dark-themed digital mind map or conceptual diagram. The interface includes several browser tabs, with one titled \"Rural Community Food System.\" Centered in the workspace is a network of connected nodes, featuring a white rectangular card containing a black-and-white sketch of people in a landscape and text that reads \"NPE 100 DESIRE just / desire as the root / cause of all human / suffering...\". To the left of this card, smaller circular nodes are visible, including one with an image and the green text \"local food systems\" and \"blocking.\" In the top right corner of the browser window, a small video call overlay shows a man wearing a dark hat and shirt. Between the frames, the mouse cursor moves across the screen, and the man in the video call shifts his position slightly, though the primary content of the mind map remains static."
+}

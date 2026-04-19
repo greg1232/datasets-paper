@@ -1,0 +1,15 @@
+{
+  "video_id": "52a52937c8830de112431a308568f747",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-008.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.315,
+    0.945,
+    1.575,
+    2.205
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a cluttered indoor setting, a man in a white t-shirt and a blue vest stands holding a white paper, gesturing upward with one finger. He is surrounded by several other men, including one in a blue and white patterned shirt, another in a light blue shirt, and a man wearing a bright green patterned garment and a face mask. The man in the green garment holds a set of papers. In the background, two women are visible, one wearing a blue patterned dress and another in red. The scene remains largely static across the sequence, with only minor shifts in the people's posture. A banner at the bottom of the screen contains social media icons and the text \"FOLLOW US\" and \"PLUSTVAFRICA\". The final frame adds additional text stating \"WATCH ON\" alongside logos for \"DStv CH 408\" and \"StarTimes CH 308\"."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "90ca72841766ffe95ca6d466caa25b64",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-046.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.34,
+    1.02,
+    1.7,
+    2.38
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's webcam feed is visible in the top right and bottom left corners of a screen share during a virtual meeting. The main screen displays a complex conceptual map with interconnected circles and arrows against a dark background. Some of the circles contain small images, including a globe and a small animal. Red arrows highlight specific paths on the map, pointing toward a circle labeled \"All Viscous\". In the top left of the browser window, several open tabs are visible, including titles such as \"That & Learning by Systemen\", \"Phenomena by Systemen\", and \"Future of Society by Systemen\". A search bar at the top shows the URL \"blackboard.ucl.ac.uk/fuel-learning\". Between the frames, the person in the webcam feed shifts their head position and facial expression slightly, while the shared screen remains static, continuing to display the visual map and browser interface."
+}

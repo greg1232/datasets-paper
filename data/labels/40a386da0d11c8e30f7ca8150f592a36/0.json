@@ -1,0 +1,15 @@
+{
+  "video_id": "40a386da0d11c8e30f7ca8150f592a36",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.215,
+    0.645,
+    1.075,
+    1.505
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with blonde hair, wearing a dark blazer over a red top, stands behind a white podium against a plain, light-grey background. She is smiling and looking towards her right, with her hands clasped in front of her. A clear plastic water bottle sits on the podium to her left. In the upper left corner of the scene, the logo \"mediasite by cornerstone\" is visible. Across the sequence, the woman remains in the same position, maintaining her smile and posture while slightly shifting her head and facial expression as she continues to look off-camera. There are no other people present, and the setting remains static throughout the frames."
+}

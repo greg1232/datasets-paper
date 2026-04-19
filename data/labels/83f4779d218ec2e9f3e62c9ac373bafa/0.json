@@ -1,0 +1,15 @@
+{
+  "video_id": "83f4779d218ec2e9f3e62c9ac373bafa",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-218.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.171,
+    0.513,
+    0.855,
+    1.197
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with long hair tied back wears a white shirt, a dark vest, and glasses while playing an acoustic guitar. He is performing in a room with large, brown slatted wooden panels in the background. In front of him, several people are seen from behind, including women with blonde and brown hair and a person wearing a maroon-colored garment. A microphone on a stand is positioned in front of the guitarist. The text \"ORCA\" appears in white capital letters on the right side of the scene. Across the sequence, the man remains in a similar position, focused on his instrument, while the audience members remain relatively still. The scene is consistent across all frames, with only slight shifts in the man's posture and the subtle movements of the people in the foreground."
+}

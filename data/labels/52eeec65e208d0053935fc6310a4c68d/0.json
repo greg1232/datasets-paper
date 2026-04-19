@@ -1,0 +1,15 @@
+{
+  "video_id": "52eeec65e208d0053935fc6310a4c68d",
+  "url": "./data/segments/3fokLGPK15Q-Scene-071.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.485,
+    1.455,
+    2.425,
+    3.395
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short dark hair, wearing a gray blazer over a light blue button-down shirt and a dark undershirt, is speaking during a presentation. He is equipped with a skin-colored headset microphone. The setting is a stage with a dark background accented by diagonal purple light beams. As the sequence progresses, the man is captured in various mid-speech expressions and gestures. He begins by looking slightly to his left with an open mouth and his right hand raised, pointing a finger. In the following moments, his expression shifts as he continues to talk, eventually bringing both hands up in front of his chest to gesture emphatically. The camera maintains a medium shot, focusing on his upper body and facial expressions against the atmospheric lighting of the venue."
+}

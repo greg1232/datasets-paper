@@ -1,0 +1,15 @@
+{
+  "video_id": "92910b1842fcfec955ef92c25fff30bb",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.934
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman and a man stand behind a podium in a room with wood-paneled walls, appearing to perform or speak. The woman has short grey hair and wears a light turquoise cardigan over a top with a colorful, patterned scarf tied around her neck. Beside her, the man wears glasses, a white long-sleeved shirt, and a dark embroidered vest. He stands before a microphone on a stand. In the foreground, the backs of several people's heads are visible, including women with long blonde and brown hair. The text \"ORCA\" appears in white letters on a dark background near the center-right of the scene. Across the sequence, the woman and man remain relatively still, though their facial expressions shift slightly and the man's posture adjusts as he speaks into the microphone. The camera angle and setting remain constant throughout the clip."
+}

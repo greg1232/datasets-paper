@@ -1,0 +1,15 @@
+{
+  "video_id": "163adf8ab84deb95f2d1d2d999cb7332",
+  "url": "./data/segments/3jGOgCF9gjE-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.81,
+    2.43,
+    4.05,
+    5.67
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair, wearing a navy blue blazer over a dark button-down shirt, stands behind a podium against a plain, light-colored background. He is speaking and gesturing with his left hand. On the podium, a clear plastic water bottle with a blue cap and a thin microphone are visible. The \"mediasite\" logo, accompanied by a small circular graphic and the text \"by kaltura,\" appears in the upper left corner of the scene. Throughout the sequence, the man remains in the same position, but his facial expression shifts slightly as he continues to talk, and his left hand moves from a partially open gesture to a more closed position. The lighting and setting remain consistent across the frames, focusing entirely on the speaker."
+}

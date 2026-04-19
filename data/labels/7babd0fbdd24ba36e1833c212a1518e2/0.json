@@ -1,0 +1,15 @@
+{
+  "video_id": "7babd0fbdd24ba36e1833c212a1518e2",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-167.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.575,
+    1.725,
+    2.875,
+    4.025
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a digital whiteboard session during a video call. A man with a dark cap is visible in a small video feed in the upper right corner. The main area displays a complex mind map with various icons, nodes, and connecting lines on a black background. A prominent red oval contains the text \"TRIP OVER THE TRUTH,\" with a list below it stating \"1) a clear insight; 2) compressed to time, and; 3) discovered by the audience itself.\" As the sequence progresses, the mind map evolves; several new nodes, including green and white circular icons and text labels such as \"Creative Tension\" and \"Emergent,\" are added and connected via blue lines. The browser tabs at the top indicate various open pages, including \"Truth & Learning by Systemantics\" and \"Future of Society by Systemantics.\""
+}

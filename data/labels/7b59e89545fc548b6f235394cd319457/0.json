@@ -1,0 +1,15 @@
+{
+  "video_id": "7b59e89545fc548b6f235394cd319457",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.471,
+    1.413,
+    2.354,
+    3.296
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video captures a person with blond hair wearing a black shirt, positioned in the bottom-left corner of the screen in front of a gaming setup and a Christmas tree. The main display shows a \"LINEUP\" screen from a sports video game, featuring various player cards with attributes and names such as \"ALLEN\" and \"BECKTON.\" The interface includes menus for \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS,\" along with numbers like \"173,037,\" \"14,600,\" and \"2,343,543.\" Across the frames, the person's facial expressions change from a neutral look to one of surprise with an open mouth. The gaming screen remains largely static, showing a consistent team layout with prompts at the bottom including \"BEST LINEUP,\" \"HELP,\" and \"BACK.\" The composition repeats across the view, displaying the same gameplay and person in a mirrored layout."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "267ccd94c78fa9d196f184d99064ca03",
+  "url": "./data/segments/3P1vSUbet40-Scene-0140.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.667,
+    2.002,
+    3.337,
+    4.671
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man is seated in a studio setting, wearing a white long-sleeved shirt, tan suspenders, a red bow tie, glasses, and a large, grey, pointed wig. He wears black over-ear headphones and speaks into a professional black microphone positioned in front of him. The background consists of a wall decorated with several framed photographs and clothing items, including a garment with \"LEE\" visible. A logo appearing on the screen reads \"BOSS TALK JOY\" next to a smaller \"PODCAST\" label and a circular \"BOSS TALK JOY PODCAST\" emblem. Across the sequence, the man remains in the same position while speaking and gesturing with his right hand, which moves from his side toward his chest. His facial expression remains focused and serious as he interacts with someone off-camera."
+}

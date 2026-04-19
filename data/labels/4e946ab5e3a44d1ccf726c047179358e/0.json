@@ -1,0 +1,15 @@
+{
+  "video_id": "4e946ab5e3a44d1ccf726c047179358e",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-389.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.223,
+    0.669,
+    1.115,
+    1.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair wearing a dark blue shirt appears in a picture-in-picture window in the bottom left corner of a football video game. The gameplay takes place in a crowded stadium with a bright green field and white yard lines. Players in white uniforms and players in dark uniforms are dispersed across the field. In the top left, the game status displays \"3rd & 8\" and a clock at \"2:00\", while the score shows a team at \"14\" and another at \"7\". As the play progresses, players move toward the right side of the screen. In the subsequent frames, the clock changes to \"1:59\". Text overlays appear in the picture-in-picture window, stating \"ON THE RUN\" followed by \"PERFECT ACCURACY BULLET PASS\". The man continues to look toward the camera as the game action unfolds, with players colliding and tackling near the right sideline."
+}

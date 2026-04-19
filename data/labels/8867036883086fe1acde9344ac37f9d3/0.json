@@ -1,0 +1,15 @@
+{
+  "video_id": "8867036883086fe1acde9344ac37f9d3",
+  "url": "./data/segments/3QD9oO6sRns-Scene-121.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.76,
+    5.281,
+    8.802,
+    12.323
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt and a white baseball cap is seen in a small picture-in-picture window, appearing to host a sports card breaking session. The main view shows a table covered with a black and white mat featuring the \"JASPYS CASEBREAKS\" logo in orange and white. On the table, several sealed boxes of sports cards are stacked, with \"CLEARLY\" printed on the side. A single graded card in a plastic slab rests in front of the boxes. Throughout the sequence, the man in the inset window speaks and gestures. In the final frames, a hand reaches into the main shot from the right side of the screen, moving toward the graded card. The background includes white dividers and additional branding, including the web address \"JASPYSCASEBREAKS.com\" visible in the inset window."
+}

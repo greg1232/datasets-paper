@@ -1,0 +1,15 @@
+{
+  "video_id": "6a6f6e00dfd52cc14661db9f43920674",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-101.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.562,
+    0.787
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a large indoor ballroom with recessed ceiling lighting and a blue dance floor, several couples are engaged in ballroom dancing. In the foreground, a man wearing a black sleeveless top and white trousers dances with a woman in a white long-sleeved top and white trousers; they move closer together and shift their positions, with the man leading the woman through a turn. In the background, another couple is visible, consisting of a man in a black t-shirt and blue jeans dancing with a woman in a white outfit. A seated audience fills the background, watching the performance from tables lined with white cloths. As the sequence progresses, the foreground couple transitions from a hold into a dynamic movement where the man supports the woman. The lighting is warm, and the overall scene depicts a formal dance event."
+}

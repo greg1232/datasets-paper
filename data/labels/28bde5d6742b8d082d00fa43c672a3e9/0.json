@@ -1,0 +1,15 @@
+{
+  "video_id": "28bde5d6742b8d082d00fa43c672a3e9",
+  "url": "./data/segments/3Kxl1O310k8-Scene-040.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.145,
+    3.435,
+    5.725,
+    8.015
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide is displayed, featuring a white background with a thick yellow border along the top and bottom. The main heading reads \"Decide critical elements upfront\" in a bold, black font. Below the heading are three yellow icons: a group of three people, a hierarchical organizational chart, and a wallet with cash. Each icon is paired with a question: \"How will the boards work together?\", \"What does each need from the other?\", and \"Can CPA funds pay for administrative costs of the trust?\". In the top right corner, a large yellow square contains the number \"4\", and a small inset video window shows a person with short hair wearing a dark top. The \"MHP\" logo appears in the bottom left and top right of the yellow borders. Across the sequence, the slide remains static with no visible changes to the text, layout, or the person in the inset video."
+}

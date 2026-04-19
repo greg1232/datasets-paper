@@ -1,0 +1,15 @@
+{
+  "video_id": "a8421ef1d8854a2b25b985ba8f393d7c",
+  "url": "./data/segments/3urJ0kIq6QE-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.312,
+    0.938,
+    1.562,
+    2.188
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman wearing a white lab coat over white clothing stands in a bright laboratory setting. In the initial scene, she stands before a white lab bench, gesturing with her right arm toward the workspace. As the sequence progresses, she moves further to the right, continuing to gesture toward the equipment on the counter. The perspective then shifts to a close-up of the lab bench, which features various pieces of scientific equipment, including a grey device with a small orange light and a larger black piece of equipment with a red translucent cover. The background shows white cabinets and a window looking out onto a light-colored building. The scene transitions from a medium shot of the woman presenting the space to a detailed view of the laboratory apparatus arranged along the white countertop."
+}

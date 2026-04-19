@@ -1,0 +1,15 @@
+{
+  "video_id": "c5d97054fa6cbfcbd0684ab6c775518f",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-042.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.751,
+    1.051
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a white, translucent, long-sleeved garment holds a dark bottle with a white label featuring blue text. They tilt the bottle to pour a brown liquid into a glass that contains a round, white ice sphere. A blue ribbon is tied around the neck of the bottle. The scene takes place against a blue background with horizontal stripes, and the glass sits on a dark, reflective surface. On the right side of the frame, a second glass partially filled with a pale liquid is visible. Black cables lie across the surface in the foreground. The on-screen text \"and not one drop of alcohol.\" appears in white at the bottom of the frame. Across the sequence, the hand remains steady, and the liquid continues to flow into the glass, filling the space around the ice sphere."
+}

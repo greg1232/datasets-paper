@@ -1,0 +1,15 @@
+{
+  "video_id": "db2cc22b8b4c08cb1d4b106f26eca4ab",
+  "url": "./data/segments/3rHRnfTOnJQ-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.688,
+    17.062,
+    28.438,
+    39.812
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a blue long-sleeved shirt is situated in a music studio, positioned behind a digital keyboard. He is singing into a professional microphone mounted on a boom arm. In the background, a dark curtain hangs behind him, with a guitar and a trumpet visible to his left, along with a studio monitor speaker and small plush toys resting on a shelf above. The scene is captured from a perspective that emphasizes the keyboard in the foreground. As the sequence progresses, the man continues to sing while his right hand plays the keys. His hand movements shift across the keyboard, pressing different notes to accompany his performance. The lighting remains consistent throughout, highlighting the man and the musical equipment against the dark backdrop."
+}

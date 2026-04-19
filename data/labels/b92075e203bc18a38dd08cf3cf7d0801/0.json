@@ -1,0 +1,15 @@
+{
+  "video_id": "b92075e203bc18a38dd08cf3cf7d0801",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-372.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.355,
+    1.064,
+    1.773,
+    2.482
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and facial stubble is recording in a studio with dark, ribbed acoustic wall panels. He wears large black over-ear headphones and a dark jacket over a grey shirt. A professional condenser microphone on a black boom arm is positioned directly in front of his face. As the sequence progresses, the man's facial expression and gaze shift. Initially, he has his eyes closed and head tilted slightly back. He then opens his eyes and glances toward the upper right. In the following moments, his gaze shifts slightly lower and then turns further to his left, away from the microphone, while maintaining a neutral to contemplative expression. No text or logos are visible in the frames."
+}

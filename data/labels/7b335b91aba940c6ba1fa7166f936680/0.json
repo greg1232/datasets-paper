@@ -1,0 +1,15 @@
+{
+  "video_id": "7b335b91aba940c6ba1fa7166f936680",
+  "url": "./data/segments/3W9FSgrmAFI-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.776,
+    2.327,
+    3.879,
+    5.43
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dark gray background with a subtle network of white lines and dots serves as the backdrop for an animated sequence. A gold logo consisting of a stylized coin stack and a lightning bolt appears, accompanied by the gold text \"COINTELEGRAPH\" and the tagline \"The Future of Money\". As the sequence progresses, a gold thumbs-up icon emerges with the word \"like\" written in white below it. A small gold YouTube play button icon also appears briefly. In the final stages, the screen populates with a row of three gold icons: the thumbs-up, a larger YouTube play button, and a Bitcoin symbol. Below these icons, the white text \"like\", \"subscribe\", and \"hodl\" appear respectively. The logos and text remain consistent in style and color throughout the animation, moving from a simple logo reveal to a full set of call-to-action buttons."
+}

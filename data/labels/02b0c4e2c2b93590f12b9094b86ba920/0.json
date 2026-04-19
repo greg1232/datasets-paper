@@ -1,0 +1,15 @@
+{
+  "video_id": "02b0c4e2c2b93590f12b9094b86ba920",
+  "url": "./data/segments/3P1vSUbet40-Scene-0821.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.182,
+    0.547,
+    0.912,
+    1.277
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a tall, spiky grey wig, glasses, and headphones sits in a studio setting, wearing a white long-sleeved shirt and a red and white bowtie. He is positioned behind a professional black microphone on a boom arm. The background consists of a wall decorated with numerous framed photographs and some clothing items hanging. On the left side of the scene, a logo featuring a microphone icon and the text \"BOSS TALK 101 PODCAST\" is visible, while a larger version of the \"BOSS TALK 101\" logo appears further to the right. The man maintains a relatively static posture with his arms crossed across his chest, looking slightly to his left with a neutral expression. Across the sequence, there is very little movement, as he remains in the same position and pose throughout the frames."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "cb8e71b38a2745e04292748013799363",
+  "url": "./data/segments/3P1vSUbet40-Scene-0007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.282,
+    0.845,
+    1.408,
+    1.971
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black t-shirt, a black baseball cap with a gold emblem, and black over-ear headphones is seated in a podcast studio. He is speaking into a professional microphone on a boom arm, gesturing with his left hand as he talks. In the background, large red and white letters on the wall spell out \"BOSS TALK 101\". On-screen graphics include a logo that reads \"BOSS TALK 101 PODCAST\" and a lower-third caption that says \"E CEO\" above the text \"BOSS TALK 101\" and \"CHECK IT!\". To the left, a vertical column of yellow stars is visible against the white wall. As the scene progresses, the man continues speaking, shifting his facial expression and slightly moving his hand, while the surrounding equipment and background elements remain static."
+}

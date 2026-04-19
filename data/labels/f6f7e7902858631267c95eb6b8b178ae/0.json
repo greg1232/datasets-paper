@@ -1,0 +1,15 @@
+{
+  "video_id": "f6f7e7902858631267c95eb6b8b178ae",
+  "url": "./data/segments/3N5aKGuJpFU-Scene-023.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.48,
+    1.44,
+    2.4,
+    3.36
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a red traditional cap, glasses, and a light-colored garment speaks toward the camera. He is positioned in the foreground, while two other men stand behind him; one wears a striped garment and the other wears a green outfit and holds a phone to his ear. The background appears to be an outdoor or semi-outdoor urban setting with a building and some greenery visible. A logo is present in the top-left corner of each frame. On-screen text overlays the bottom of the scene, with a purple bar containing the words \"PLUS POLITICS\" and a white bar featuring the text \"NIGERIA NEEDS ME \u2013 BOLA TINUBU\". Below this, a thinner bar displays \"WATCH ONLINE\" on the left and the URL \"WWW.PLUSTVAFRICA.COM/LIVE-TV\" on the right. Across the frames, the man in the foreground continues speaking, with slight changes in his facial expression and mouth position."
+}

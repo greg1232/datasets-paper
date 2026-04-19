@@ -1,0 +1,15 @@
+{
+  "video_id": "04449d925f0f5d6f5a93968811c4b140",
+  "url": "./data/segments/3Smz5pevbI4-Scene-038.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.864,
+    5.593,
+    9.322,
+    13.051
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video presents a static academic slide featuring brain imaging data and text. The screen is divided into two main sections. On the left, the text \"Israelis\" is positioned above the word \"Arabs,\" and below these words is a sagittal view of a human brain scan with a small blue highlighted region. Underneath the image, the text reads \"Bruneau and Saxe, Neuroimage, 2010\". On the right, the text \"Democrats\" is positioned above the word \"Republicans,\" and below these words is a similar sagittal view of a human brain scan with a small red highlighted region. Underneath this image, the text reads \"Bruneau et al., in prep\". Across all four frames, the image remains entirely motionless and unchanged, with no people, actions, or movements occurring. The layout and content of the slide remain constant throughout the sequence."
+}

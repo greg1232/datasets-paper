@@ -1,0 +1,15 @@
+{
+  "video_id": "039e51b7b8de7ff0eba519a27422e988",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-610.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.522,
+    4.567,
+    7.612,
+    10.656
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white baseball cap, black headphones, and a black hoodie with \"BOSS TALK\" printed in gold lettering is seated at a table in a studio. He is speaking and gesturing with his right hand, which moves from an open, outward palm to a more closed, pointing motion. In front of him is a professional microphone on a black boom arm and a black mug featuring the text \"BOSS TALK OUT LOUD\". Behind him, a white banner displays the word \"HUSTLE\" and several stars, while a blue sign above reads \"Where BOSSES Talk!\". A black logo with the text \"BOSS TALK\" is visible in the bottom left corner of the scene. As the sequence progresses, the man continues to talk, shifting his gaze and hand positions while remaining seated in front of the equipment."
+}

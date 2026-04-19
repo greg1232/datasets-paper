@@ -1,0 +1,15 @@
+{
+  "video_id": "c58d14959e88b14961c25e0d5772d95c",
+  "url": "./data/segments/3U065Ox-1uA-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.609,
+    1.827,
+    3.045,
+    4.263
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short brown hair and a smile stands outdoors against a backdrop of lush green trees and shrubs. He is wearing a black short-sleeved t-shirt and is holding a large silver trophy with a gold base in both hands. In the upper left and right corners of each scene, the text \"REUTERS\" appears above a logo that reads \"VOA 60 LEARNING ENGLISH\". Across the bottom of the scenes, white captions provide a narrative. The text transitions from \"becoming the all-time leader\" to \"in major Grand Slam tennis titles.\" This latter phrase remains constant throughout the final three segments. The man remains stationary and continues to hold the trophy throughout the sequence, maintaining a happy expression while looking toward the camera."
+}

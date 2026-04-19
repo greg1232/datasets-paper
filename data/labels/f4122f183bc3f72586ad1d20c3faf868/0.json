@@ -1,0 +1,15 @@
+{
+  "video_id": "f4122f183bc3f72586ad1d20c3faf868",
+  "url": "./data/segments/3phuyH7Y05U-Scene-012.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.583
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A miniature model of a two-story house with a brown roof and beige walls sits atop a metallic, circular platform against a solid black background. The house features small rectangular windows and a front door. In an alternating sequence, the scene shifts between showing the house on the platform and showing a different object on the same platform. This other object is a metallic cylinder wrapped in yellow and black diagonal hazard stripes. The video alternates rapidly between these two views, with the house appearing and then being replaced by the striped cylinder, before returning to the house once more. There are no people, text, or logos present in the scene, and the camera angle remains static throughout the sequence."
+}

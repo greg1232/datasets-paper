@@ -1,0 +1,15 @@
+{
+  "video_id": "7cc4fa454f8de31c275e9dad08c39a89",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-075.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.434,
+    1.301,
+    2.169,
+    3.036
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a clinical simulation setting, a person wearing blue scrubs and yellow gloves performs a procedure on a medical mannequin. The mannequin is covered with a clear plastic drape over its chest and upper abdomen. The person uses a white handheld surgical tool connected to a gray cable, pressing the tip of the device against the mannequin's chest. Simultaneously, they hold a blue surgical instrument in their other hand, manipulating it near the point of contact. Across the sequence, the person's hand movements are subtle as they maintain the position of the tools on the mannequin. In the bottom left corner of the frames, there is a purple icon of a person next to a purple circle containing the white text \"Day 2\". In the bottom right corner, a logo consists of three vertical lines followed by the text \"Sim Week\" and smaller text underneath that reads \"SURGICAL SIMULATION EXPERIENCE\"."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "ea2a91feaa62862072e818af76f292ea",
+  "url": "./data/segments/3iUTkJy84EY-Scene-132.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.63,
+    1.89,
+    3.15,
+    4.41
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with dark hair and glasses, wearing a light green patterned tunic and a dark necklace, is speaking against a plain dark background. She wears a small lapel microphone clipped to her clothing. In the initial stages, she gestures with her left hand, moving it outward and slightly upward to emphasize her points. As the sequence progresses, her expression remains engaged as she continues talking, and her hand gesture subtly shifts, eventually lowering slightly. In the bottom left corner of the scene, a small circular logo is visible next to the text \"NPTEL\". The lighting is consistent and focused on the woman, while the background remains an unchanging, dark void throughout the clip."
+}

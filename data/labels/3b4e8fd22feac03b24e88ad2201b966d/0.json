@@ -1,0 +1,15 @@
+{
+  "video_id": "3b4e8fd22feac03b24e88ad2201b966d",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-264.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.133,
+    0.4,
+    0.667,
+    0.933
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown holding and manipulating a sports card inside a clear protective plastic case. The background features a surface with a graphic of palm trees and an inset video feed showing a man with a beard wearing a black shirt, sitting in front of a computer setup. The text \"JASPYS\" followed by heart icons and \"CASEBREAKS.COM\" appears prominently in the upper right of the scene. As the sequence progresses, the person's fingers carefully slide the card further into the protective sleeve and adjust its position. The card itself features a player's image and a signature. In the inset video, the man looks toward the camera. The lighting is bright, focusing on the tactile action of handling the collectible card against the branded backdrop."
+}

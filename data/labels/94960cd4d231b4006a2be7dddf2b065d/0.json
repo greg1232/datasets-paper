@@ -1,0 +1,15 @@
+{
+  "video_id": "94960cd4d231b4006a2be7dddf2b065d",
+  "url": "./data/segments/3fokLGPK15Q-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.535,
+    4.605,
+    7.675,
+    10.745
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A blonde woman wearing a black t-shirt and a small beige headset microphone stands before a textured purple background. Her shirt features white text that reads \"WHO'S IN YOUR\", with additional letters partially obscured. She is speaking, and her facial expressions shift from a slight smile with an open mouth to a more closed, focused expression, and then back to a smile while glancing slightly to her right. She moves her head and shifts her gaze as she speaks, while her shoulders remain relatively still. A small, dark object, possibly a microphone stand or part of a stage prop, is partially visible at the bottom of the scene. The lighting is consistent across the sequence, highlighting her face and the purple backdrop as she delivers her presentation."
+}

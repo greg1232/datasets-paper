@@ -1,0 +1,15 @@
+{
+  "video_id": "44e05ea061f65128129abfd9f4c72bbd",
+  "url": "./data/segments/3Kxl1O310k8-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    14.035,
+    42.105,
+    70.175,
+    98.245
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide is displayed, featuring the title \"Today's agenda\" and the date \"Jan. 11, 2023\" on the left side. To the right, a vertical list of topics is presented in colored boxes with accompanying small photographs of houses. The topics include \"Housing trust fund basics\" in a pale yellow box, \"Trust operations & best practices\" in a bright yellow box, \"Eligible activities\" in a light gray box, and \"Working across boards\" in a medium gray box. In the upper margin, a small video window shows a woman with dark hair wearing a blue top. A yellow horizontal banner runs across the middle and bottom of the screen, containing a logo that reads \"MHP\". Across the sequential frames, the visual elements of the presentation slide and the layout remain static, while the woman in the small video window is seen speaking and shifting slightly."
+}

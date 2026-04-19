@@ -1,0 +1,15 @@
+{
+  "video_id": "5cb7b1d17777ea2412bcf79d1dbe3fc2",
+  "url": "./data/segments/3P1vSUbet40-Scene-1076.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.417,
+    1.251,
+    2.085,
+    2.92
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A dark, textured background with subtle diagonal geometric patterns serves as the backdrop for a cinematic title sequence. The metallic, silver-colored text \"BOSS TALK 101\" is centered on the screen, featuring a polished 3D effect. A thin, glowing red light streak horizontally intersects the text, creating a lens flare effect. As the sequence progresses, the word \"PODCAST\" emerges in a smaller, red font centered directly beneath the main title. The light streak shifts and pulses slightly, while the metallic letters maintain their position. The overall atmosphere is sleek and corporate, with a high-contrast color palette of black, silver, and red. By the end of the sequence, the full logo, consisting of \"BOSS TALK 101\" and \"PODCAST,\" is fully visible and stabilized against the dark background."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "aacd177774e8c0068b88804652834fef",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-047.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.03,
+    6.09,
+    10.15,
+    14.21
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A series of presentation slides for a course in \"CRYOGENIC ENGINEERING\" shows a lesson titled \"Tutorial \u2013 2\" focusing on \"Liquid yield.\" Each slide features a diagram of a thermodynamic process on a T-s plot, labeled with terms like \"T=const,\" \"p=const,\" and \"s=const.\" Below the plot is a table listing values for pressure (p), temperature (T), enthalpy (h), and entropy (s) at different states. The slides are credited to \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay\" and feature a logo in the bottom left. Across the frames, a mathematical calculation for liquid yield, $y = \\frac{h_i - h_f}{h_r - h_f}$, is gradually completed. It starts as a formula, then incorporates the values $\\frac{462 - 29}{462 - 29}$, transitions to $\\frac{462 - 430}{462 - 29} = \\frac{32}{433}$, and finally concludes with the result $= 0.074$."
+}

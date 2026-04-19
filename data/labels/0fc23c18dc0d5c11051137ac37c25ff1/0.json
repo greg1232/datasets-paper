@@ -1,0 +1,15 @@
+{
+  "video_id": "0fc23c18dc0d5c11051137ac37c25ff1",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.113,
+    0.338,
+    0.562,
+    0.787
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown preparing food in a kitchen setting. The hands are actively mixing a coarse, light-brown grain or nut mixture inside a large, shallow metal bowl. To the right of the bowl, a small white plate holds a portion of the same mixture, and a small red bowl contains white, popped kernels. In the upper left corner of each frame, a logo consists of a stylized icon and the text \"UCAR CENTER FOR SCIENCE EDUCATION\". As the sequence progresses, the hands move more rapidly, churning and lifting the mixture out of the metal bowl. By the final frame, the motion becomes a blur as the contents are tossed and mixed vigorously, causing some of the grains to scatter. The background remains a neutral, light-colored wooden surface."
+}

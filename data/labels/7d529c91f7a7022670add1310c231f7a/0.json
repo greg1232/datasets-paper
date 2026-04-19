@@ -1,0 +1,15 @@
+{
+  "video_id": "7d529c91f7a7022670add1310c231f7a",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.423,
+    1.269,
+    2.115,
+    2.96
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card featuring a player in a baseball uniform and a signature by Carlton Fisk. The hand holds the card in a plastic protector against a backdrop that includes a white box, a black electronic device, and a tablecloth with a teal palm tree pattern. In a small inset window, a man wearing a dark blue shirt and glasses is visible. The text \"JASPYS LIVE\" and \"CASEBREAKS.COM\" appears in a logo on the screen. As the sequence progresses, the hand moves the card closer to the camera, showcasing the signature and the name \"CARLTON FISK.\" By the end of the clip, the hand pulls the card away and out of the frame, leaving the white box and the patterned tablecloth visible while the man in the inset window remains present."
+}

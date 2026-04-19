@@ -1,0 +1,15 @@
+{
+  "video_id": "3de8bd47ac0d9577c263b49a3116a534",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.088,
+    0.263,
+    0.438,
+    0.613
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A first-person perspective shows a person standing on a dirt ground with sparse grass and small plants. The scene is dark, illuminated by a bright, circular beam of light from a flashlight held by the person, which focuses on the ground. The person's legs and feet are visible, with red and black plaid fabric appearing at the bottom of the light's reach. A large, dark shadow of the person's body and legs stretches forward into the center of the beam. Across the sequence, the person remains stationary, and the position of the flashlight and the resulting shadow stay nearly identical. There are no other people, equipment, or text visible in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7e6fa88a9247d520a730a6eb1cf2057d",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-083.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    27.74,
+    83.221,
+    138.701,
+    194.181
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a series of financial stock charts for \"Genko Shipping & Trading\" displaying price movements through candlesticks, moving averages, and technical indicators like MACD and Stochastic Slow. The scene transitions through different time intervals, moving from a view starting in October '21 and ending in June '23 to a more zoomed-in view focusing on the period from July '22 to July '23. Technical labels such as \"A\", \"B\", \"C\", \"D\", and \"E\" mark specific price points on the chart, with \"CW projections (0.8_BLACK_RE\" appearing in the bottom left corner. As the sequence progresses, the chart expands to fill more of the screen, showing a sharp upward trend in price toward the end of the timeframe. The interface remains constant, featuring a dark green background with detailed numeric data and labels along the axes."
+}

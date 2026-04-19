@@ -1,0 +1,15 @@
+{
+  "video_id": "1fe22b6718adce32a41f734563aadc7a",
+  "url": "./data/segments/3P1vSUbet40-Scene-0634.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.115,
+    0.344,
+    0.573,
+    0.803
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark skin and glasses sits in a room featuring a wall decorated with numerous framed photographs and some clothing items, including a \"LEE\" brand tag. He wears a white long-sleeved shirt, a red bow tie, tan suspenders, headphones, and a distinctive tall, silver, textured headpiece. A professional microphone is positioned in front of him. The on-screen text includes a logo that says \"BOSS TALK BOY PODCAST\" and \"by Showman.\" Throughout the sequence, the man remains in the same position, speaking while gesturing with his hands. In the initial frames, his hands are relatively still, but as the sequence progresses, he lifts his right hand and moves his left hand in a conversational manner, indicating active engagement in a discussion."
+}

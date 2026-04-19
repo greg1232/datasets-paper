@@ -1,0 +1,15 @@
+{
+  "video_id": "e489d25678e4664a5d6767eaa15b00b3",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-064.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.102,
+    0.306,
+    0.51,
+    0.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card featuring a baseball player, Carlton Fisk, showcasing a signature on the front. The card is held by the top and side edges, revealing a gold-bordered design with the text \"CARLTON FISK\" at the bottom. In the background, a man wearing a dark blue t-shirt is visible in a smaller inset window, seated in a room with computer equipment and a monitor. The setting includes a desk surface with a blue mat featuring a palm tree graphic. On-screen overlays display the red and white logo \"JASPYS\" and the website \"CASEBREAKS.COM\". Across the sequence, the card is held steady in the foreground while the person's fingers adjust their grip slightly. The background and the man in the inset window remain relatively still, maintaining the focus on the collectible card being presented."
+}

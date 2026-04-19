@@ -1,0 +1,15 @@
+{
+  "video_id": "31edb2e3183517c2b0db8447ea8ec449",
+  "url": "./data/segments/3P1vSUbet40-Scene-0829.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.469,
+    1.408,
+    2.346,
+    3.285
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a black baseball cap, black headphones, and a black t-shirt featuring the text \"CHECK IT!\" is speaking into a professional microphone in a podcast studio setting. He wears a gold chain around his neck. The background consists of a white wall with gold stars and the word \"HUSTLE\" repeated vertically. To his right is a dark backdrop with the large text \"BOSS TALK 101.\" The screen also features two logos: one on the left that says \"STUDIO PODCAST\" and another on the right that reads \"BOSS TALK 101.\" Across the sequence, the man remains seated and speaking, with slight changes in his facial expression and head tilt. In the final frames, he begins to gesture with his right hand, which enters the bottom left of the frame, while his mouth remains open as he continues to talk."
+}

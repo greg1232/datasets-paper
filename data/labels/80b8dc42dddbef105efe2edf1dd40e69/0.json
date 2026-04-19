@@ -1,0 +1,15 @@
+{
+  "video_id": "80b8dc42dddbef105efe2edf1dd40e69",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-140.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.997,
+    2.99,
+    4.984,
+    6.978
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The image displays a repeated layout of a medical tracking table, split into four identical quadrants. Each quadrant contains a list of patients, such as \"Raheem Hosseini,\" \"Rosa Torres,\" and \"Moshe Dahan,\" with columns detailing their clinical course from \"Day 1\" to \"Day 5.\" The table includes specific medical notes like \"64 yo M fall from standing, femoral neck fracture\" and \"73 yo F here for elective inguinal hernia repair.\" Various cells contain medical interventions and diagnoses, including \"Admissions orders (pop, iv, sx),\" \"Difficulty breathing,\" \"Chest tube,\" and \"Laparotomy.\" Some cells are highlighted in orange or light gray, and several contain \"x\" marks. The text is presented in a clear, sans-serif font against a white background. Because all four frames are identical, there is no movement, change in scene, or interaction between people across the sequence."
+}

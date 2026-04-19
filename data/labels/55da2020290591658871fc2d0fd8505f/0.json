@@ -1,0 +1,15 @@
+{
+  "video_id": "55da2020290591658871fc2d0fd8505f",
+  "url": "./data/segments/3QD9oO6sRns-Scene-079.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.927,
+    2.781,
+    4.635,
+    6.49
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a black t-shirt and a white baseball cap is seated behind a table, appearing in a small picture-in-picture window on the right side of the screen. The table is covered with a black mat featuring a large orange and white logo that reads \"JASPYS CASEBREAKS\". Several boxes of trading cards are scattered across the surface, including a prominent box in the foreground that says \"CLEARLY AUTHENTIC\" and \"2020\". To the left, a stack of similar boxes is piled up, with \"CLEARLY AUTHENTIC\" visible on the sides. In the background, white containers and other card-related equipment are visible. The scene remains static across the frames, with the person in the inset window maintaining a similar posture while observing the items on the table. The overall environment is set up for a card-breaking session, with various Topps branded materials present."
+}

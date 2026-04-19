@@ -1,0 +1,15 @@
+{
+  "video_id": "1f8237dc8dbea154882d255a00d5f937",
+  "url": "./data/segments/3EOkyr653jg-Scene-011.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.459,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with light-colored hair stands outdoors in front of a large installation of solar panels and a small brown building with a red roof. She is wearing a navy blue t-shirt that features the text \"The power to make a difference\" above a logo consisting of a green graphic and the word \"RREAL\" in large white capital letters, with the smaller text \"Rural Renewable Energy Alliance\" printed underneath. As she speaks, her facial expressions shift slightly, and her mouth opens and closes, though her position and the background remain static. The scene is set under a pale blue sky with scattered clouds. Across the sequence of frames, the woman remains centered in a medium shot, maintaining a consistent pose while delivering her message."
+}

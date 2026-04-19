@@ -1,0 +1,15 @@
+{
+  "video_id": "1926aefa8b3ca23b2211ed8f57e05feb",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-190.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.148,
+    0.444,
+    0.74,
+    1.035
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows a person's hand holding a clear plastic case in the foreground, partially obscuring the background. In the background, a man with a beard and glasses, wearing a dark blue t-shirt with a small yellow logo, sits behind a desk. On the desk are various objects, including a black machine and a white object. The man is looking toward the camera and speaking. On-screen text and logos are visible, including \"JASPYS\" and \"CASEBREAKS.COM\" in the upper right and \"JASPYS Sports Cards & More\" in the lower center. The scene remains mostly static across the frames, with slight movements of the hand holding the case and the man's facial expressions as he speaks. The background features a surface with green palm tree patterns."
+}

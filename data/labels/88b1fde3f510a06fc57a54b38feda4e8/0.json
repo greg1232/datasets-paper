@@ -1,0 +1,15 @@
+{
+  "video_id": "88b1fde3f510a06fc57a54b38feda4e8",
+  "url": "./data/segments/3sJ5OX75erw-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.08,
+    0.24,
+    0.4,
+    0.56
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark, curly hair and glasses, wearing a light blue button-down shirt, is speaking while facing the camera. He is positioned in front of a dark blue background featuring a stylized network graphic composed of interconnected circles and lines. In the upper left corner of the scene, white text reads \"OPEN NETWORKING & EDGE\" with the smaller phrase \"CONSORTIUM FORUM\" positioned directly beneath it. As the sequence progresses, the man continues to talk, with his mouth opening and closing and his facial expressions shifting slightly as he delivers his speech. His head remains relatively stable in the center of the frame, and the background and on-screen text remain static throughout the duration of the clip."
+}

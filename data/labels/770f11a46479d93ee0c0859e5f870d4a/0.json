@@ -1,0 +1,15 @@
+{
+  "video_id": "770f11a46479d93ee0c0859e5f870d4a",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-106.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.695,
+    2.085,
+    3.475,
+    4.865
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser open to a digital mind map or conceptual diagram. The diagram consists of various circular icons linked by blue lines against a dark background, featuring labels like \"Human\", \"Nature\", and \"Infrastructure\". A small video call window in the top right corner shows a man with a beard wearing a dark baseball cap and a dark shirt. As the sequence progresses, the browser remains active with various tabs visible at the top, including one titled \"True Learning by Systemantics\". In the final stage, a bright, illustrated pop-up advertisement appears over the mind map, featuring colorful characters and the word \"SALE\" in large, bold, black letters. The man in the video window remains present throughout, observing the screen."
+}

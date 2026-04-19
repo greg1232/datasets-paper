@@ -1,0 +1,15 @@
+{
+  "video_id": "3d84f803d14c5942b0f00d4b83061c0d",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-253.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.169,
+    0.506,
+    0.844,
+    1.181
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair, wearing glasses, over-ear headphones, a dark blue t-shirt, and a gold bracelet, is seated in front of a framed blue poster that reads \"20 SANDS\". To his left is a decorated Christmas tree with colorful lights, and a black microphone is positioned in front of him. Initially, he is seen with his mouth open in an expression of excitement, raising his right hand. In the following moments, he brings a small white object into view, holding it up in his right hand while continuing to react with an open-mouthed, joyful expression. As the sequence progresses, he holds the white object steadily while laughing and glancing toward it. Throughout the clip, he remains in the same seated position within the indoor setting, with his emotional intensity increasing from surprise to laughter."
+}

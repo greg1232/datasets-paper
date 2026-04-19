@@ -1,0 +1,15 @@
+{
+  "video_id": "7a052f3fb67fa06b2167262561ccfac9",
+  "url": "./data/segments/3fokLGPK15Q-Scene-028.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.64,
+    1.92,
+    3.2,
+    4.48
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man in a grey suit jacket stands on a dark stage illuminated by vibrant purple and blue laser beams that crisscross the space. In the background, a large circular screen displays the word \"SLUSH\" in bold, white capital letters. Below the man, a circular arrangement of chairs and tables is visible, with several people seated around them. As the sequence progresses, the man moves from a central standing position to the side, and the camera angle shifts slightly, focusing more on the overall stage production. The laser lights continue to shift and pulse throughout the scene, creating a dynamic light show. The seated attendees remain in place, observing the presentation on the stage, while the \"SLUSH\" logo remains prominently displayed on the screen behind the action."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "7a2aefba4b8641c257789dd3b833a3d2",
+  "url": "./data/segments/3QD9oO6sRns-Scene-043.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.237,
+    0.712,
+    1.188,
+    1.662
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands open a white and blue cardboard box containing a collectible trading card. The scene is set in a room with a black surface and a background featuring a small inset video of a man wearing a black t-shirt and a black baseball cap. Across the bottom of the screen, large orange and white text reads \"CASEBREAKS,\" while a smaller logo in the corner says \"CASESBREAKS.COM.\" The box being opened is labeled \"CLEARLY AUTHENTIC\" and \"2020.\" As the hands lift the lid, a plastic-encased trading card is revealed inside the packaging. The person then reaches in to remove the card from the box. The imagery is overlaid with a logo that includes the word \"JASMY.\" The video progresses from the initial motion of opening the box to the act of retrieving the collectible item."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "0f4594ae4de4e413a8bffd709b255bb3",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.994,
+    2.981,
+    4.969,
+    6.956
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands are shown opening a white box on a patterned tabletop featuring green palm trees. In the top-left frame, a hand begins to lift a yellow lid from the box. By the top-right frame, the lid is lifted higher, and the hand moves to the side. The bottom-left frame shows the lid being removed completely, revealing a trading card inside. In the bottom-right frame, the person holds up the trading card, which features a baseball player and the text \"WADE BOGGS\". The background includes a small electronic scale and a screen showing a man in a black shirt. Throughout the sequence, the logos \"JASPYS\" and \"CASEBREAKS.COM\" are visible on the tabletop and on-screen. The person's hands are the primary focus, interacting with the packaging to reveal the collectible card."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d3d08dfad3e5a80e20c42b7d45c1d19c",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-473.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.225,
+    0.675,
+    1.125,
+    1.575
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blonde hair, wearing a blue t-shirt and white headphones, is shown in a picture-in-picture window during a gaming stream. He appears excited, with his mouth open and arm raised. In the background of his room, a decorated Christmas tree and framed pictures are visible. The main screen transitions from a blurry, light-colored image to a purple-themed menu screen from a sports video game. On this menu, a player card for \"DAVID MAYO\" is displayed, featuring a player in a red and yellow uniform. The top of the screen displays the text \"90+ ZERO CHILL PLAYER\" alongside several numerical values and a circular icon containing the number \"91\". At the bottom of the menu, the text \"ALL\" and \"BACK\" are visible next to controller button prompts. The man remains in the smaller window throughout the transition, maintaining his energetic expression."
+}

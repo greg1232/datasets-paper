@@ -1,0 +1,15 @@
+{
+  "video_id": "0e725dd96ed540229ee1457d7c638dea",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-033.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.255,
+    0.765,
+    1.275,
+    1.785
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a modern hallway with polished floors and gray walls, several men are walking. The space is decorated with three hanging, reflective copper-colored spheres and a white circular logo in the upper right corner. In the initial scene, a man wearing a light blue polo shirt and dark pants walks toward the camera, followed by another man. As the sequence progresses, the first man continues walking forward, while the second man emerges from a doorway behind him. The second man is also dressed in a light blue polo shirt and dark pants. Both men maintain a neutral expression as they move through the hall. In the background, a third person in a blue garment is visible through a doorway. Each frame displays the timestamp \"14:05\" in the bottom left corner."
+}

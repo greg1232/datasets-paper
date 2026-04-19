@@ -1,0 +1,15 @@
+{
+  "video_id": "99103d37e0aa484bff5cd82a5eb8c465",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-020.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.325,
+    0.975,
+    1.625,
+    2.275
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is shown mixing ingredients in a large silver bowl set upon a wooden surface. The bowl contains a large amount of light brown, grainy mixture. To the right of the bowl sit a white plate with more of the same grainy mixture and a small red bowl containing white kernels. In the top left corner of each frame, a logo reads \"UCAR CENTER FOR SCIENCE EDUCATION\". Across the sequence, the person's hand enters the bowl to stir and incorporate the ingredients. In the final frame, the hand moves more rapidly, causing the mixture to shift and blur as it is being tossed or mixed. The setting remains consistent throughout the clip, focusing on the preparation of the food ingredients."
+}

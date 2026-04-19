@@ -1,0 +1,15 @@
+{
+  "video_id": "bda4e8bd09418c7fd8dd4e02c88bcd80",
+  "url": "./data/segments/3F2rz23IKUk-Scene-019.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.68,
+    11.04,
+    18.4,
+    25.76
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static white screen featuring a set of instructional bullet points under a bold heading. The heading reads \"The responsibility is yours\". Below this, three bullet points are listed: \"LGPL and GPL apply to distributor, not just the original manufacturer\", \"You are responsible for providing the code even if your supplier didn't provide it to you!\", and \"(yes, this can be difficult...)\". The text is written in a black, sans-serif font. There are no people, equipment, or logos visible in the scene. Across the sequence of frames, there is no visual change; the text and the white background remain completely stationary and identical throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "e4a56dff62d4cf82ca5ab6e0b74fdd54",
+  "url": "./data/segments/3_3xsVMtx3c-Scene-002.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.099,
+    0.297,
+    0.495,
+    0.693
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a retail store featuring O'Neill branded clothing, a person wearing a pink t-shirt and a gray baseball cap stands before a rack of dark jackets. As the sequence progresses, the person uses their hands to interact with the clothing, moving their arms in a way that triggers a shimmering, purple-and-white sparkle effect on screen. Overlaid text appears and evolves across the frames, beginning with \"25% OFF JACKETS\" and expanding to \"25% OFF HOODIES JACKETS & SWEATERS\". The background reveals a variety of merchandise, including blue shirts, folded clothing on shelves, and red bags hanging on the wall. The person's movements and the growing text suggest a promotional highlight of the store's current sales on outerwear."
+}

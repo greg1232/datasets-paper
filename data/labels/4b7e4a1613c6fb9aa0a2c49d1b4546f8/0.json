@@ -1,0 +1,15 @@
+{
+  "video_id": "4b7e4a1613c6fb9aa0a2c49d1b4546f8",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-095.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.15,
+    0.45,
+    0.751,
+    1.051
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green Polaris utility vehicle is parked outdoors on a concrete surface in front of a weathered brown wooden fence. The vehicle is a six-wheeled model, featuring a cargo bed at the rear and a front storage compartment. The word \"POLARIS\" is printed in white capital letters on the side of the cargo bed, and the model designation \"6x6\" is visible on the side panel. Other markings include \"POLARIS\" on the front fender and a small \"POLARIS\" logo on the rear of the cargo bed. No people are visible in the scene. The camera remains static, and the vehicle stays stationary throughout the sequence. There are no perceptible changes in the vehicle's position, the environment, or the lighting across the frames, resulting in a still scene of the parked all-terrain vehicle."
+}

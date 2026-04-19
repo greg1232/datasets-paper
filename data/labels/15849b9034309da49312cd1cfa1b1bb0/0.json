@@ -1,0 +1,15 @@
+{
+  "video_id": "15849b9034309da49312cd1cfa1b1bb0",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-153.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.1,
+    0.3,
+    0.5,
+    0.701
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A wide shot captures a dramatic mountainous landscape during golden hour, with jagged, dark peaks rising above a thick blanket of clouds. The scene is illuminated by a warm, low sun that creates deep shadows and bright highlights along the ridges. In the center, a valley is partially filled with swirling white clouds and mist that drift slowly between the steep cliffs. There are no people, animals, text, or man-made objects visible in the frames. As time progresses, the clouds within the valley shift slightly and swirl, while the overall light remains consistent, emphasizing the rugged texture of the terrain and the atmospheric depth of the cloud layer stretching toward the horizon."
+}

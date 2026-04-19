@@ -1,0 +1,15 @@
+{
+  "video_id": "9939f88c0176564034248c3dc6481e4c",
+  "url": "./data/segments/3utNTc4QUxQ-Scene-015.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    2.031,
+    6.094,
+    10.156,
+    14.218
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grainy, low-light security video captures a dark outdoor area at night. The scene features a wooden ladder leaning against a structure, with a small, white, glowing figure standing on the ground beside it. In the sequence of events, the white figure remains stationary at the base of the ladder. The surrounding environment is dimly lit, showing rough ground and parts of a building or structure in the background. There are no people in conventional clothing visible, and no on-screen text or logos are present. The camera angle remains static, while the lighting shifts slightly, causing the white figure to appear more prominent against the dark background as the video progresses. The figure maintains its position throughout the clip, appearing as a small, luminous vertical shape."
+}

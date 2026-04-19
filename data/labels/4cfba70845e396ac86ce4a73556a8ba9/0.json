@@ -1,0 +1,15 @@
+{
+  "video_id": "4cfba70845e396ac86ce4a73556a8ba9",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-310.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    28.095,
+    84.285,
+    140.475,
+    196.665
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "This image displays a series of video conference tiles featuring a diverse group of people. The grid shows several recurring participants in different lighting and angles. Some individuals wear casual clothing like t-shirts and button-down shirts, while others are in professional attire. The backgrounds vary, including home offices with bookshelves, plain walls, and outdoor settings with foliage. Several people are speaking or listening, with some leaning toward their cameras. On-screen text labels identify participants, such as \"Jerry McHale,\" \"Richard Silverman,\" \"Jerry Milligan,\" \"Don Burke,\" \"Patrick Marzyn,\" and \"Era_collaborator.\" Other labels include \"New Member from the System,\" \"Bill Sells,\" and \"Grace Lyons.\" Across the sequence, the layout remains a grid of video feeds, but the active speaker or the focus of the frames shifts as participants react and interact during the virtual meeting."
+}

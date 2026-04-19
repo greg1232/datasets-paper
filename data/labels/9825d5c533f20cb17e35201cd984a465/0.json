@@ -1,0 +1,15 @@
+{
+  "video_id": "9825d5c533f20cb17e35201cd984a465",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-176.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.595,
+    10.786,
+    17.976,
+    25.167
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An older man with grey hair and glasses stands behind a wooden podium, speaking into a black microphone. He wears a light blue button-down shirt adorned with colorful patterns, including what appears to be an eagle design and a yellow-green band across the chest, paired with a beaded necklace. The podium features a red and white logo with the word \"LIBRARY\" printed on it. To the right of the podium, a white rectangular overlay displays the text \"ORCA\". The man is positioned in front of a background of tan horizontal blinds. As the sequence progresses, he shifts his gaze, looking down toward the podium and then back up toward the audience. The heads of several people listening to him are partially visible in the foreground, though they remain stationary throughout the clip."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "15c0e39b7da9adebc6c92ee543be019a",
+  "url": "./data/segments/3a0FD1177FA-Scene-066.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's forearm and wrist enter the frame from the right, moving toward the center of a white gridded cutting mat. The person wears a white long-sleeved garment featuring a blue decorative pattern around the cuff. To the left, several pieces of green floral pattern paper are scattered, and a small brown tag with the text \"best things\" is visible at the top. A black ink pad sits to the right. A watermark in the bottom left reads \"stamping Jill\". Across the sequence, the arm moves slightly, shifting its position over the mat while the other objects remain stationary. The lighting is bright and consistent throughout the scene, highlighting the texture of the fabric and the details of the patterned paper on the workspace."
+}

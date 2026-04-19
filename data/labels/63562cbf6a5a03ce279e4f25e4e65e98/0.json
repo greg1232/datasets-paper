@@ -1,0 +1,15 @@
+{
+  "video_id": "63562cbf6a5a03ce279e4f25e4e65e98",
+  "url": "./data/segments/3E6ctN22V7k-Scene-080.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.095,
+    0.285,
+    0.475,
+    0.665
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up view shows a yellow equipment case with silver metal reinforcements and framing. The case features a large, black capital letter \"E\" printed twice on its yellow surface, once above and once below a horizontal metal strap. The background consists of a blurred, textured brown and red surface, likely a brick wall and a floor. As the sequence progresses, the camera pans slowly to the right. In the final frame, a silver metal handle or latch assembly becomes visible on the right edge of the yellow case. No people are present in the scene, and the only visible text is the repeated letter \"E\". The focus remains tight on the corner of the case, highlighting the metallic bolts and brackets that secure the framing to the yellow panel."
+}

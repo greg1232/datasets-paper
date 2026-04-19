@@ -1,0 +1,15 @@
+{
+  "video_id": "a8fa302606d4ce8dea7c52ba1f8f46c0",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-259.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.306,
+    0.919,
+    1.531,
+    2.144
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a graded sports trading card featuring two players, Derek Jeter and Ken Griffey Jr., over a white box on a colorful table. The card is encased in a clear plastic slab with a gold border and contains signatures. In the background, a smaller window shows a man with a beard wearing a navy blue shirt and a baseball cap, seated at a desk with equipment. The logo \"JASPYS\" and the website \"CASEBREAKS.COM\" are visible as on-screen overlays in the upper and lower portions of the scene. As the sequence progresses, the hand tilts the card to show the front, revealing the names \"DEREK JETER\" and \"GRIFFEY JR.\" printed on the card. The man in the background remains seated, watching the process. The lighting is bright, highlighting the reflective surface of the card's protective case."
+}

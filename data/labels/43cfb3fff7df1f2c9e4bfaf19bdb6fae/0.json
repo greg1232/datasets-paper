@@ -1,0 +1,15 @@
+{
+  "video_id": "43cfb3fff7df1f2c9e4bfaf19bdb6fae",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-216.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.655,
+    1.964,
+    3.274,
+    4.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A top-down view of a wooden desk serves as the background, featuring a closed laptop, a white keyboard, a white mug, and a notebook. A green graphic overlay displays a book cover titled \"The Opening Call\" by \"Basil Chapman.\" Large white text reading \"THE OPENING CALL\" is centered on the screen. Below this, a blue banner contains the name \"Basil Chapman,\" and a smaller line of text reads \"The Tiger Technicians Hour | June 8th, 2022.\" Across the frames, a semi-transparent blue light streak sweeps horizontally across the center of the screen, passing over the name \"Basil Chapman\" and partially obscuring some underlying text that reads \"BEYOND INDY EVERYDAY.\" The background and primary text elements remain static, while the blue light effect moves from left to right, creating a dynamic visual transition."
+}

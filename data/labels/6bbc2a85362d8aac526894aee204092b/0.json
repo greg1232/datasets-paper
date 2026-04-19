@@ -1,0 +1,15 @@
+{
+  "video_id": "6bbc2a85362d8aac526894aee204092b",
+  "url": "./data/segments/3tXiKB90OM0-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.188,
+    3.562,
+    5.938,
+    8.312
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of people in dark uniforms stand in a line along the deck of a large gray naval ship. The vessel features the number \"44\" painted in large white numerals on its bow, and a gold-colored anchor is visible on the side. The people are standing still, facing outward toward the edge of the deck. As the camera pans from the front of the ship toward the rear, more of the ship's structure is revealed, including a higher deck area with railings and a white superstructure. Some individuals are seen standing on this upper level, and a green sign with white text \"WP\" is visible. The clear, bright sky serves as the background. The scene progresses from a close-up view of the bow to a wider shot that shows the length of the deck and the layered architecture of the vessel."
+}

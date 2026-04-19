@@ -1,0 +1,15 @@
+{
+  "video_id": "70bfec624fe9c8ef617ad3cc9a875a22",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-037.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.539,
+    4.617,
+    7.695,
+    10.773
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person works on a vehicle's undercarriage and engine. The sequence begins with a close-up of a light-colored, weathered metal surface, possibly a chassis or frame. A hand then enters the frame, reaching into a dark opening or gap in the metalwork. The perspective shifts to a wider shot of a mechanical engine bay, showing a rusted metal pipe running horizontally across the top. Below the pipe, various engine components are visible, including a gold-toned carburetor or fuel system and a silver circular housing. The camera remains focused on this area, slightly adjusting its angle to reveal more of the engine's intricate parts and wiring. The lighting is dim, characteristic of working under a vehicle, and the components show signs of wear and rust. No text or logos are visible in the frames."
+}

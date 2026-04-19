@@ -1,0 +1,15 @@
+{
+  "video_id": "75bff4de1de2403a7accfe11487e7c30",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-091.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses, wearing a white shirt with ornate embroidery, a dark vest, and a long necklace, performs music in an indoor setting with horizontally slatted walls. He stands behind a microphone on a boom stand and holds an acoustic guitar. In the foreground, the backs of several people's heads are visible, suggesting an audience. The word \"ORCA\" appears as a white logo on the right side of the image. Across the sequence, the man remains in a similar position, singing into the microphone while strumming his guitar. His facial expressions shift slightly as he performs, with his mouth moving to form words. The background and the audience members remain static, while the man's slight movements and the subtle shifting of his hands on the guitar reflect the progression of his performance."
+}

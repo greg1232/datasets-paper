@@ -1,0 +1,15 @@
+{
+  "video_id": "35af1bb1e894e27f6b332c10448ab521",
+  "url": "./data/segments/3F2rz23IKUk-Scene-060.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.09,
+    0.27,
+    0.45,
+    0.63
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation takes place in a classroom or lecture hall featuring a projection screen and several rows of seating. A presenter wearing a black t-shirt stands near the screen, while another individual in a black shirt and khaki pants moves across the room from right to left. The projection screen displays the text \"Further information\". In the foreground, several audience members are seated, including a woman in a purple shirt working on a laptop and other individuals in casual attire. Various papers and materials are spread across a table in front of the screen. As the sequence progresses, the man in khaki pants walks toward the left side of the room, passing behind the seated audience. The presenter remains relatively stationary by the screen, and the audience members continue to observe or work on their devices."
+}

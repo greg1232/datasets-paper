@@ -1,0 +1,15 @@
+{
+  "video_id": "75291c544f4acea68fdd60414bb973e0",
+  "url": "./data/segments/3E6ctN22V7k-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.2,
+    0.6,
+    1.0,
+    1.4
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot shows the bottom edge of a lime green equipment case moving across a light brown wooden floor. The case features a silver metal frame and is supported by small black swivel caster wheels. As the scene progresses, the case glides smoothly from left to right. The background is blurred, but a dark red object is partially visible beneath the case as it moves. No people, text, or logos are present in the frames. The motion is consistent and linear, with the wheel rotating as the case shifts its position across the wooden surface."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "a829e376cd4c547787cd53ae680c6f39",
+  "url": "./data/segments/3E6ctN22V7k-Scene-029.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.105,
+    0.315,
+    0.525,
+    0.735
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman stands outdoors in a rural, grassy area with several children. She wears a green top and a white patterned skirt, holding a young child who is wearing a red and white outfit. Several other children are gathered around them, including one boy in a brown t-shirt with a graphic print and another child in a dark blue garment. The background consists of lush green vegetation, including banana trees and a red-walled structure. Throughout the sequence, the group remains relatively stationary, though the woman shifts her posture slightly while continuing to hold the child. White text is overlaid across the center of the scene, which reads, \"We have no access to information or training.\" The scene maintains a consistent setting and composition across the frames, capturing a quiet moment of interaction between the woman and the children in a natural environment."
+}

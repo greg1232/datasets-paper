@@ -1,0 +1,15 @@
+{
+  "video_id": "32c1d26d9d681cc4f4215fc93ead43ce",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-128.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.329,
+    0.988,
+    1.647,
+    2.306
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with a shaved head and a dark beard is positioned in a recording studio, wearing a white t-shirt and large black over-ear headphones. He is seated in front of a professional silver microphone mounted on a boom arm, which is positioned close to his mouth. The background consists of dark gray acoustic foam panels with a ribbed texture. The man's white t-shirt features a small logo on the left chest that includes the word \"Authentic\". As the sequence progresses, the man shifts his gaze and expression; he begins by looking forward and speaking, then turns his head slightly to his right with a smile, briefly looks back toward the center with a smirk, and finally turns back to the right while smiling. His movements are subtle, focusing on his facial expressions and head orientation while remaining stationary in front of the equipment."
+}

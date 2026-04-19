@@ -1,0 +1,15 @@
+{
+  "video_id": "ffce15879425b4fa412ef69bb50834b7",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-311.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    3.962,
+    11.887,
+    19.811,
+    27.736
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, graying hair and a light beard is recording in a studio against a background of dark gray acoustic foam panels. He is wearing large over-ear headphones and a black shirt over a gray undershirt. A professional condenser microphone on a boom arm is positioned directly in front of his face. Across the sequence, the man maintains a steady position while his facial expressions shift. He begins with a neutral, attentive gaze, looking slightly to the side. As time progresses, his expression becomes more contemplative, and he eventually closes his eyes while tilting his head slightly. In the final moment, his right hand enters the frame, gesturing slightly as he speaks. No text or logos are visible in the scene."
+}

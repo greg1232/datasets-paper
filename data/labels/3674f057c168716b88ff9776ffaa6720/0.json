@@ -1,0 +1,15 @@
+{
+  "video_id": "3674f057c168716b88ff9776ffaa6720",
+  "url": "./data/segments/3ZrWCBdh7q8-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A white airplane with red and blue stripes along its fuselage is parked on a tarmac. In the initial sequence, a man in a dark suit and tie descends from the aircraft via a set of stairs draped with a red carpet. He is greeted by a man in a dark pilot's uniform with gold stripes on the sleeves and a peaked cap. Other men in dark suits follow behind the descending man. A red carpet extends from the stairs across the pavement. The logo \"13\" appears in the upper right corner of these scenes. The perspective then shifts to a direct, head-on view of the aircraft's nose and cockpit windows, showing the wings and engines on either side. The \"13\" logo remains visible in the top right of these views. The scene transitions from showing people disembarking to a static, centered shot of the plane's front."
+}

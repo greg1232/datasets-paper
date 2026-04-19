@@ -1,0 +1,15 @@
+{
+  "video_id": "d1c3e51d39306c5d391e6e9a5809dcb4",
+  "url": "./data/segments/3phuyH7Y05U-Scene-018.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.625,
+    0.875
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a setting that resembles a stage with a blue background and a red draped curtain, several characters from The Simpsons are gathered. A man with blue hair, wearing a dark blue suit and tie, stands centrally and gestures with his right hand toward a group of people. To his left, a woman with red hair and a white shirt looks toward him. Behind her, several other characters are partially visible. To the right of the man in the suit, another man with yellow skin is seen in profile. As the sequence progresses, the man in the blue suit continues his gesturing motion, and the man on the far right shifts his position slightly, bringing his hand up toward his shoulder. The background elements, including the red curtain and the blue wall, remain static throughout the scene."
+}

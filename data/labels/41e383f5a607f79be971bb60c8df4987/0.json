@@ -1,0 +1,15 @@
+{
+  "video_id": "41e383f5a607f79be971bb60c8df4987",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-254.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.521,
+    1.564,
+    2.607,
+    3.649
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wears a green baseball cap, black headphones, and a dark green t-shirt with the white text \"ION NEVER DO SHIT\" printed on the front. He sits in a studio environment, speaking into a professional microphone positioned in front of him. The background consists of a wall decorated with numerous framed photographs and a mannequin wearing a white long-sleeved shirt. To the right, clothing racks with various garments are visible. On-screen logos include a circular graphic with the text \"BOSS\" and red text that reads \"BOSS TALK\". Throughout the sequence, the man remains in the same position, but his facial expression shifts from a neutral look to a slight smile and eventually to a wide, open-mouthed laugh, indicating a progression of emotion as he speaks."
+}

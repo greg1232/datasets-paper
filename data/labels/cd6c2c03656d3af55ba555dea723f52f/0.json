@@ -1,0 +1,15 @@
+{
+  "video_id": "cd6c2c03656d3af55ba555dea723f52f",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-048.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.233,
+    0.7,
+    1.167,
+    1.633
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person wearing a dark short-sleeved shirt is in a kitchen, standing by a white electric stove. The main view focuses on a stainless steel pot containing a pale, creamy liquid. In the first frame, the liquid is still. By the second frame, a clear liquid is being poured from a glass container into the pot. In the third frame, the pouring continues, and the clear liquid mixes with the creamy base. In the final frame, the liquid is stirred, creating swirls and ripples. A smaller inset window shows the person from a distance, standing in the kitchen with a light-colored wall and a green curtain in the background. The scene transitions from a still pot of cream to the active addition and mixing of another liquid."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "080d0220654ccfd6a9e5137f1b601ca2",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-093.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.645,
+    1.935,
+    3.225,
+    4.515
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a virtual meeting environment where a shared display dominates the view. The main screen shows a dark background with a network of interconnected nodes and circular icons. A central rectangular graphic features a light green background with the word \"SHARE\" written in large, bold, dark letters. Around this graphic are small circular profile avatars, including one of a person with dark hair and another of a person wearing a red hat. A small video window in the upper right corner shows a man wearing a black baseball cap and a dark shirt, who remains present throughout the sequence. The browser tabs at the top display titles such as \"Truth & Learning by Systemeni,\" \"Future of Society by Systemeni,\" and \"Insights | Introduction | Kumu.\" As the sequence progresses, the shared content remains static, while the man in the video feed maintains a neutral expression, looking directly at the camera."
+}

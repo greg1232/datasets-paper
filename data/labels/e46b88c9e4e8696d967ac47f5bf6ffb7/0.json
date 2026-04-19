@@ -1,0 +1,15 @@
+{
+  "video_id": "e46b88c9e4e8696d967ac47f5bf6ffb7",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-030.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.38,
+    1.139,
+    1.898,
+    2.657
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An aerial view captures a large, deep open-pit mine containing a body of turquoise water at its base. The surrounding terrain consists of steep, tiered excavation walls with earthy brown, tan, and reddish-brown soil. Sparse green vegetation is visible along the upper ridges of the pit. A yellow logo consisting of the letters \"VG\" appears in the upper right corner of the scene. No people or machinery are visible within the frames. As the sequence progresses, the camera slowly descends and tilts slightly downward, bringing the viewer closer to the water and providing a more detailed look at the rugged texture of the pit's sloping walls and the sandy perimeter surrounding the water's edge."
+}

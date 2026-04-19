@@ -1,0 +1,15 @@
+{
+  "video_id": "e3e2380628635793492465915e80a9da",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-718.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.595,
+    4.786,
+    7.977,
+    11.167
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the white text \"ION NEVER DO SHIT AT WORK\" sits in a studio setting. He is positioned behind a professional black microphone. The background features a wall decorated with framed photographs and several clothing racks with mannequins wearing white shirts. A small red and white logo reading \"BOSSLY\" is visible in the bottom corner. Throughout the sequence, the man's expression and gestures evolve; he begins by looking to the side with a slight smile, then laughs broadly while looking toward the camera. He gestures with his hands, appearing to be in the middle of a conversation, and eventually settles into a speaking posture with an open-mouthed expression. The camera remains stationary, focusing on the man from the waist up."
+}

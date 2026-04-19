@@ -1,0 +1,15 @@
+{
+  "video_id": "6de4490352ae7d77da676f1751aa4f05",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-323.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.283,
+    0.85,
+    1.417,
+    1.983
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A football game takes place on a green field with white yard lines and red end zones. Players in white and purple uniforms are scattered across the field, engaging in a play. In the initial sequence, players in white move toward the right side of the screen while those in purple pursue them. On-screen graphics at the top show a score of \"6\" to \"0\", the time \"2:29\" and \"2:28\", and the down \"2nd & 2\". The text \"ULTIMATE TEAM\" appears in the corners. As the action progresses, a player in a white jersey runs with the ball, followed closely by purple-clad defenders. The text \"UNDER PRESSURE POOR ACCURACY BULLET PASS\" appears in a grey box at the bottom of the screen. By the end of the sequence, the player in white has moved further downfield, while defenders continue to trail behind."
+}

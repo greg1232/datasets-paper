@@ -1,0 +1,15 @@
+{
+  "video_id": "aea8e9d4da4aee827d3a8de98c42ea64",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-104.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.083,
+    0.25,
+    0.417,
+    0.584
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot of a tiger's head is shown against a blurred green and brown background. The tiger has its mouth open in a snarl, revealing its teeth. Across the center of the image, bold yellow and white text is overlaid. The text \"$1 /YEAR\" appears in yellow, with the larger \"$1\" positioned centrally and \"/YEAR\" in a smaller font to the right. Below this, the phrase \"WHEN YOU JOIN\" is written in large, white, capital letters. As the sequence progresses, the tiger's head shifts slightly, and its facial expression remains a consistent snarl. The on-screen text remains static in position and wording throughout the clip, maintaining its prominence over the tiger's face."
+}

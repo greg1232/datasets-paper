@@ -1,0 +1,15 @@
+{
+  "video_id": "a0f84ef2f19c0bd3d15264e7a3fc97a6",
+  "url": "./data/segments/3jJnVyAhyIM-Scene-054.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.538,
+    1.614,
+    2.69,
+    3.766
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video captures a sequence of views inside the passenger side of a vehicle with a brown interior. The scene begins with a close-up of the dashboard, showing a black plastic ventilation grille and textured surface. As the view shifts, the dashboard panel is pulled away from the chassis, revealing an open cavity containing colorful electrical wires, including red and blue ones. The perspective then widens to show the interior of the passenger door and the footwell area. A translucent plastic bin containing miscellaneous parts sits on the floor. The passenger door is open, exposing the brown door panel and a black trim piece. Small yellow text on a part near the door hinge reads \"POWER\". The progression of views moves from a detailed shot of the dashboard to a broader look at the disassembled interior components."
+}

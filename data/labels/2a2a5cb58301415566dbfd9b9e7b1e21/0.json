@@ -1,0 +1,15 @@
+{
+  "video_id": "2a2a5cb58301415566dbfd9b9e7b1e21",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-475.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.094,
+    0.281,
+    0.469,
+    0.656
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video clip features a gaming interface for \"90+ ZERO CHILL PLAYER\" with various numeric statistics and the text \"ALL\" and \"BACK\" visible on the screen. Centered is a digital trading card labeled \"LOLB (92)\" and \"David MAYO,\" featuring a player in a red and gold football uniform with the text \"MUTmas\" below. A small inset video window in the lower-left corner shows a man with light-colored hair wearing a black t-shirt, positioned in a room with a decorated Christmas tree in the background. In the initial sequence, the man is shown with his arms raised and mouth open in a wide, excited expression. As the clip progresses, he maintains a surprised facial expression with his mouth open, though his arms eventually lower slightly. The background gaming interface and the digital player card remain static throughout the sequence."
+}

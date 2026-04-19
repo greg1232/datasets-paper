@@ -1,0 +1,15 @@
+{
+  "video_id": "312c35dd2c17e61833e29fd2bd65daab",
+  "url": "./data/segments/3fPjWUG7DxI-Scene-006.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.092,
+    0.275,
+    0.458,
+    0.642
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "Inside a large, ornate banquet hall with high ceilings and a large chandelier, several men are performing coordinated movements on a blue carpeted stage. Most of the performers wear white traditional Chinese clothing, while one man in the center wears a deep blue outfit and another man on the far right is dressed in black. In the background, an audience is seated at round tables. Across the sequence, the performers shift their weight and adjust their arm positions in a synchronized manner, moving through a series of formal stances. The man in blue leads the center of the formation, shifting his posture and extending his arms as the group transitions. The background remains static, showing the warm lighting of the hall and the seated spectators watching the performance."
+}

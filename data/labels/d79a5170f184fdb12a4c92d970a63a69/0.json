@@ -1,0 +1,15 @@
+{
+  "video_id": "d79a5170f184fdb12a4c92d970a63a69",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-098.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.338,
+    1.014,
+    1.689,
+    2.365
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot focuses on the face of a tiger in an outdoor setting with a blurred natural background. The yellow text \"THE TIGER'S DEN\" is centered across the tiger's forehead in every frame. As the sequence progresses, the tiger remains relatively still, looking forward with a neutral expression. A blue and white Discord logo appears in the center of the lower half of the screen, overlaying the tiger's nose and mouth. The logo remains static in the final two frames, while the tiger's head shifts slightly. No people or other equipment are visible in the scene."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "76350fd731862d51e416972d1127c45d",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-301.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.81,
+    2.43,
+    4.05,
+    5.67
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A grid-style video conference shows multiple participants in a virtual meeting. The screen is divided into a repeating pattern of smaller video tiles, each featuring a different person in their home or office environment. The participants are mostly men, some wearing glasses and casual clothing like t-shirts or button-down shirts. Some individuals are looking directly at their cameras, while others are looking away or listening. Legible labels under some of the video feeds include \"Jerry McKinley,\" \"Howard Silverman,\" \"Gera_collaborator,\" \"Jim Burke,\" and \"Seymour Newman.\" The backgrounds vary from bookshelves and plain walls to outdoor scenery with trees. As the sequence progresses, the overall layout of the grid remains static, but the expressions and subtle movements of the individuals within their respective tiles shift, indicating an ongoing conversation or presentation."
+}

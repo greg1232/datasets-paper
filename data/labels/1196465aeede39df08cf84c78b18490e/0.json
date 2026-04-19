@@ -1,0 +1,15 @@
+{
+  "video_id": "1196465aeede39df08cf84c78b18490e",
+  "url": "./data/segments/3_ldSlCUBFY-Scene-149.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.405,
+    1.215,
+    2.025,
+    2.835
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A news broadcast displays a scene of several men seated at a long table covered with a white cloth, located in a room with a banner that partially reads \"ALLIANCE.\" The men are dressed in formal attire, including suits and traditional Indian clothing. Superimposed over the footage is various Hindi text and portraits of political figures. A red banner at the top asks, \"2024 \u092e\u0947\u0902 JDU \u0915\u0947 \u0938\u093e\u0925 '\u0916\u0947\u0932\u093e' \u0939\u094b\u0917\u093e?\", while a red bar at the bottom states, \"JDU \u0915\u094b\u091f\u0947 \u0938\u0947 \u092e\u0902\u0924\u094d\u0930\u0940 \u092c\u0928\u0947 \u0935\u093f\u091c\u0947\u0928\u094d\u0926\u094d\u0930 \u092f\u093e\u0926\u0935\". Portraits identify \"\u092e\u0941\u0916\u094d\u092f\u092e\u0902\u0924\u094d\u0930\u0940 \u0928\u0940\u0924\u0940\u0936 \u0915\u0941\u092e\u093e\u0930\", \"\u092e\u0902\u0924\u094d\u0930\u0940 \u0921\u0949. \u092a\u094d\u0930\u0947\u092e \u0915\u0941\u092e\u093e\u0930\", \"\u0935\u093f\u091c\u092f \u091a\u094c\u0927\u0930\u0940\", \"\u0921\u093f\u092a\u094d\u091f\u0940 CM \u0938\u092c\u094d\u0930\u0924 \u091a\u094c\u0927\u0930\u0940\", and \"\u0935\u093f\u091c\u092f \u0938\u093f\u0928\u094d\u0939\u093e\". As the video progresses, the on-screen text and layout shift slightly. In the final frames, new text appears, including \"\u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091a\u091f\u092a\u091f\u093e\u0908, \u0924\u0947\u095b\u0938\u0940 \u0915\u0940 '\u092a\u093f\u0915\u094d\u091a\u0930' \u092c\u093e\u0915\u0940 \u0939\u0948\" alongside the \"NEWS 18 \u0907\u0902\u0921\u093f\u092f\u093e\" logo. A digital clock in the bottom right corner consistently reads \"10:08 PM\"."
+}

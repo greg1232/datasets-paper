@@ -1,0 +1,15 @@
+{
+  "video_id": "b994a51c7d76b3ee1c811b9cfac5a8d2",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-014.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.918,
+    2.753,
+    4.588,
+    6.423
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video displays a static graphic screen featuring a headshot of a man wearing glasses and a dark suit jacket. To the right of the portrait, text identifies the program as \"Tiger Technicians Hour with host: Basil Chapman.\" Below his name, further text states he is the \"Author of: CD book 'The Chapman Wave' and the Opening Call newsletter.\" The bottom right corner contains the logo \"TFNN.COM\" with the phrase \"EDUCATING INVESTORS\" written underneath in smaller letters. The background consists of a white and light-gray abstract design with curved lines. Across all frames, there is no movement or change in the visual elements; the image remains a completely still graphic with the same text, portrait, and logo throughout the duration of the clip."
+}

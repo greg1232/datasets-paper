@@ -1,0 +1,15 @@
+{
+  "video_id": "81e5d89f527ebdbf2ed1f9a0ecf4aaa1",
+  "url": "./data/segments/3T1bQ-ZAp1E-Scene-065.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    6.93,
+    20.79,
+    34.65,
+    48.51
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A presentation slide for a course on \"CRYOGENIC ENGINEERING\" is displayed, featuring a table titled \"Performance of L \u2013 H System.\" The table compares four fluids\u2014N\u2082, Ar, Air, and O\u2082\u2014listing their \"Boill. Pt\", \"v\", \"II/m\", \"II/m\u2082\", and \"FOM\" values. The bottom of the slide includes the \"NPTEL\" logo and text attributing the content to \"Prof. M D Atrey, Department of Mechanical Engineering, IIT Bombay.\" As the sequence progresses, the slide remains static until a bullet point appears below the table in the final frames. This text reads: \"The above table is for a Linde \u2013 Hampson system when the pressures are from 1 bar to 200 bar at 300K.\" The background is a consistent blue and white theme, and the focus remains entirely on the technical data and accompanying descriptive text throughout the clip."
+}

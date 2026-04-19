@@ -1,0 +1,15 @@
+{
+  "video_id": "c6f0966ab4b104ded914344b91acc3fc",
+  "url": "./data/segments/3cw2NVBm9WA-Scene-051.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.479,
+    1.437,
+    2.396,
+    3.354
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person prepares food in a kitchen setting, using a pot on a white electric stove with black burners. The person, visible in a small inset window, is a woman with short blonde hair wearing a purple shirt. In the main view, her hands are seen adding ingredients to a pot containing a cloudy, pale yellow liquid. She uses a clear measuring cup to pour a substance into the pot and then uses a red silicone spatula with a wooden handle to stir the mixture. As the sequence progresses, the spatula moves through the liquid, incorporating a small amount of granular material. The final portion of the sequence suffers from significant digital distortion and glitching, causing the image to break into fragmented, shifted blocks of color and pattern, though the inset window of the woman remains relatively clear."
+}

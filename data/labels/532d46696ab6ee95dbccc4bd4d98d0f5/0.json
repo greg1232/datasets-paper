@@ -1,0 +1,15 @@
+{
+  "video_id": "532d46696ab6ee95dbccc4bd4d98d0f5",
+  "url": "./data/segments/3P1vSUbet40-Scene-0377.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.151,
+    0.454,
+    0.756,
+    1.058
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a white button-down shirt, a red bow tie, glasses, headphones, and a tall, grey, textured wig sits in a studio setting. He is positioned behind a black microphone, with a wall of framed photographs behind him. To his right, a white folder and a black bag are visible. On-screen text in the lower left corner reads \"PODCAST\" beneath a logo that includes the words \"TALK BIO,\" while text in the lower center says \"SS TALK JOY.\" Throughout the sequence, the man remains in the same position, shifting his facial expression and slightly moving his head and mouth as if speaking. His gaze remains focused forward, and his posture remains relatively still as the scene progresses."
+}

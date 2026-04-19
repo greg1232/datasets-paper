@@ -1,0 +1,15 @@
+{
+  "video_id": "0673e3b9741ba734cacffdef8beca13f",
+  "url": "./data/segments/3szCdVKgMug-Scene-013.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.154,
+    0.463,
+    0.772,
+    1.08
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static shot of a dark, ornate stone pedestal topped with a spherical stone carving, situated in a lush, green garden. The background is filled with dense foliage, including weeping willow-like branches, various shrubs, and red-leafed plants. In the first frame, white text is overlaid on the left side of the screen, which reads \"COUNTS CHANGE ACCORDING TO\". As the video progresses through the subsequent frames, the camera remains still, and the scene remains largely unchanged, with only subtle movements in the surrounding greenery. There are no people or animals visible in the frames. The lighting is natural and diffused, suggesting an outdoor daytime setting in a park or botanical garden."
+}

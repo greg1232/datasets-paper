@@ -1,0 +1,15 @@
+{
+  "video_id": "0d523db9260422f45876a88d04dacc0c",
+  "url": "./data/segments/3_ZfZs-JPIg-Scene-044.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.763,
+    2.29,
+    3.816,
+    5.343
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with dark hair and a beard is seated in a recording studio, wearing a dark zip-up jacket over a grey shirt and large over-ear headphones. He is positioned in front of a professional studio microphone mounted on a boom arm. The background consists of dark, textured acoustic foam panels with a ribbed pattern. Throughout the sequence, the man's expression and gaze shift slightly as he speaks or listens. He begins by looking upward and to his left, then transitions to looking more directly ahead, and finally glances slightly to his right. His mouth remains partially open near the microphone, suggesting he is in the middle of a conversation or recording session. The camera remains static, maintaining a consistent close-up shot of the man from the chest up across the entire duration."
+}

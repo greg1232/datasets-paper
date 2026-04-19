@@ -1,0 +1,15 @@
+{
+  "video_id": "689b7dc2c7fa610062f1317b3b71a82d",
+  "url": "./data/segments/3kf1gQNnb-8-Scene-153.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.259,
+    0.776,
+    1.293,
+    1.81
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a medical simulation setting, several people in professional attire are gathered around a patient mannequin on a gurney. The group includes individuals in white lab coats and others in blue scrubs, including one person wearing a blue face mask. They are actively engaged in a medical procedure or training exercise, with some leaning over the mannequin and others standing by. Overlaid on the scene is a detailed list of names and titles, including \"Mr. Dan Goodman,\" \"Maj. Erika Nova,\" \"Capt. Thomas Ross,\" and \"TSgt. Juan Medina,\" among others. The text also identifies the \"University of Maryland School of Medicine, Maryland Advanced Simulation, Training, Research and Innovation (MASTRI) Center,\" \"Kerry Murphy, DVM,\" \"Katie Gordon, MSN, RN, CNE,\" \"Jessyca Bortelli, BSN, RN, CAPA,\" \"Kelly Gregory, BSN, RN,\" \"R Adams Cowley Shock Trauma,\" and the \"Center for Critical Care & Trauma Education.\" QR codes are visible on the right side of the scene. The personnel shift their positions slightly as they coordinate their actions around the mannequin."
+}

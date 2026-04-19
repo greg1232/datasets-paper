@@ -1,0 +1,15 @@
+{
+  "video_id": "477fd434816765c7caaf2c3551458871",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-200.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.102,
+    0.306,
+    0.51,
+    0.715
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a digital player card from \"ULTIMATE TEAM\" for a football player named \"CEEDEE LAMB.\" The card features a photo of the player in a white Dallas Cowboys uniform and helmet. To the left of the image, several statistics are displayed with numerical values and corresponding green bar graphs. The top row shows \"SPD\" at 95, \"CMP\" at 93, \"CTH\" at 94, and \"CIT\" at 95. The bottom row displays \"OPN\" at 97, \"DDR\" at 93, \"MRR\" at 94, and \"DRR\" at 94. The player is listed as a \"WR\" with an overall rating of \"95.\" In the background of the first frame, a blurry person is partially visible. As the sequence progresses, the background remains dark, and a small, white \"Nice\" text bubble briefly appears near the player's waist before fading away."
+}

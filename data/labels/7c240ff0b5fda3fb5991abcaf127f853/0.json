@@ -1,0 +1,15 @@
+{
+  "video_id": "7c240ff0b5fda3fb5991abcaf127f853",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-105.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.121,
+    0.363,
+    0.604,
+    0.846
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card featuring Derek Jeter, which is encased in a clear protective sleeve. The card displays a photograph of Jeter and a blue ink signature, with the text \"DEREK JETER\" printed at the bottom. The person's hands hold the card steady in the foreground, while the background reveals a larger scene within a video stream. In this background, a man wearing a blue t-shirt and glasses sits at a desk with a computer monitor and a microphone. A large logo featuring palm trees sits on the table surface. On-screen overlays include the text \"JASPYS LIVE\" and \"CASEBREAKS.COM\". As the sequence progresses, the person subtly shifts their grip and angle on the card, moving it slightly while maintaining a close-up focus on the signature and Jeter's name. The man in the background remains seated, watching the action."
+}

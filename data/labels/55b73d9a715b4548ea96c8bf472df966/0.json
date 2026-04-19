@@ -1,0 +1,15 @@
+{
+  "video_id": "55b73d9a715b4548ea96c8bf472df966",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-217.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.527,
+    1.581,
+    2.635,
+    3.69
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person holds a sports trading card in a protective plastic case, displaying it toward the camera. The setting is a workspace featuring a white tray holding a yellow box of cards, placed atop a surface with a colorful mat. A small inset window shows a man with a beard and glasses wearing a dark navy blue t-shirt, seated in front of a computer setup. The screen prominently features the logo \"JASPYS\" and the website \"CASEBREAKS.COM\" in white and red text. As the sequence progresses, the hand moves the encased card closer to the camera, causing it to blur and partially obstruct the view of the background. The man in the inset remains visible, looking toward his equipment. Throughout the clip, the \"JASPYS\" and \"CASEBREAKS.COM\" branding remains constant on the screen."
+}

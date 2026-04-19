@@ -1,0 +1,15 @@
+{
+  "video_id": "5b372da088ffa76cf208f9586b274030",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-070.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.349,
+    1.048,
+    1.747,
+    2.445
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a green t-shirt with the text \"ION NEVER DO SHIT\" is speaking into a professional microphone in a room that appears to be a clothing store or studio. The background features framed photos on the wall and a white mannequin wearing a white long-sleeved shirt and grey pants. A clothing rack and a black chair are also visible. In the lower left corner, there is a logo featuring a red circle and the word \"OFFICE,\" and in the lower right corner, there is red text that reads \"BODY FLX TOT.\" As the sequence progresses, the man\u2019s facial expressions shift as he speaks, moving his mouth and adjusting his gaze, while the camera and background remain stationary."
+}

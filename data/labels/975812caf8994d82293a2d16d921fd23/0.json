@@ -1,0 +1,15 @@
+{
+  "video_id": "975812caf8994d82293a2d16d921fd23",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-207.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.3,
+    0.9,
+    1.5,
+    2.1
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording captures a video call where a man wearing a grey baseball cap is visible in a small inset window. The main area of the screen displays a complex causal loop diagram on a black background, featuring various green and red text nodes connected by curved blue and red arrows. Legible phrases within the diagram include \"Prevent Breakfast,\" \"Attractiveness of Garden,\" \"Bird Poop,\" \"Unsightly Gourds,\" and \"Birds of other species.\" The browser window at the top contains several open tabs, one of which reads \"Rural Community Food System.\" As the sequence progresses, a mouse cursor interacts with the diagram, clicking and dragging elements to reorganize the flow of the arrows. By the final frames, the layout of the diagram has shifted slightly, and the man in the inset window remains present, observing the changes."
+}

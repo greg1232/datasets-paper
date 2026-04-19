@@ -1,0 +1,15 @@
+{
+  "video_id": "1ae39aff5e964c48057bb08a7da8acd3",
+  "url": "./data/segments/3q3CZaZLMiY-Scene-780.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.209,
+    0.626,
+    1.043,
+    1.46
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a green baseball cap, black headphones, and a dark green t-shirt is speaking into a professional microphone in a room that appears to be a clothing store or studio. His shirt features the text \"ION NEVER DO SHIT AT WORK\" in a mix of white and orange letters. In the background, a white mannequin wears a white t-shirt, and racks of clothing are visible alongside framed pictures on the wall. Two logos are present on the screen: a circular black logo on the left and a red logo on the right that reads \"ROCKY FLY TOT\". As the sequence progresses, the man's facial expressions shift from a wide, open-mouthed laugh to a more composed expression while continuing to speak, with slight changes in his head position and gaze."
+}

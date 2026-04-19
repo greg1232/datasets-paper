@@ -1,0 +1,15 @@
+{
+  "video_id": "8d75c360640612daa4aa022b013925d0",
+  "url": "./data/segments/3_U0zFmzyBM-Scene-017.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.344,
+    1.031,
+    1.719,
+    2.406
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with short, styled blonde hair, wearing a pink tank top, is filmed inside a basketball gymnasium. The setting features a wooden court with blue painted areas, white walls, and blue padded wall sections. In the background, blue bleachers rise toward the ceiling, and basketball hoops with transparent backboards are mounted to the walls. In the first frame, the man is captured in profile, facing right and moving slightly. In the subsequent frames, he turns his head toward the camera, eventually facing forward with a neutral expression. He remains standing in the center of the gym throughout the sequence, and no other people or on-screen text are visible. The movement is a simple transition from a side view to a front-facing position as the man looks directly into the lens."
+}

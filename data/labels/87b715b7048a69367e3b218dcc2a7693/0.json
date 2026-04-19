@@ -1,0 +1,15 @@
+{
+  "video_id": "87b715b7048a69367e3b218dcc2a7693",
+  "url": "./data/segments/3EB6XN8KrzI-Scene-061.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.204,
+    0.613,
+    1.022,
+    1.431
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with glasses and dark hair pulled back performs on a stage against a backdrop of brown vertical blinds. He wears a white collared shirt under a dark, ornate vest decorated with blue embroidery and red detailing. He stands behind a microphone and holds an acoustic guitar. In the foreground, the backs of several people's heads are visible as they watch the performance. The white text \"ORCA\" appears in the lower right area of the frame. Across the sequence, the man remains relatively still, slightly shifting his facial expression and head position while maintaining his grip on the guitar and standing before the microphone. The camera angle and the positions of the audience members in the foreground remain constant."
+}

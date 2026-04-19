@@ -1,0 +1,15 @@
+{
+  "video_id": "4aa85ca9e39f45ac8da779b6808a6827",
+  "url": "./data/segments/3rHRnfTOnJQ-Scene-005.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.175,
+    0.525,
+    0.875,
+    1.225
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a blue long-sleeved shirt is seated at a keyboard in a room with dark purple curtains in the background. He is positioned in front of a microphone on a boom arm and has his hands resting on the keys. To his left stands a small acoustic guitar, and behind him, several objects are visible, including a silver tripod stand and two plush toys\u2014one pink and one red and white\u2014perched on a shelf or ledge. A black studio monitor speaker is also visible to the right of the microphone. Across the sequence, the man remains in a seated position, subtly shifting his facial expression and the placement of his fingers on the keyboard as he looks forward. The setting and the placement of the equipment remain constant throughout the clip."
+}

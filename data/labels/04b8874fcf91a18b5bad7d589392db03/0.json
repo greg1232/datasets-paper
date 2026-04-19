@@ -1,0 +1,15 @@
+{
+  "video_id": "04b8874fcf91a18b5bad7d589392db03",
+  "url": "./data/segments/3P1vSUbet40-Scene-1004.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.125,
+    0.375,
+    0.626,
+    0.876
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A woman with curly blonde hair tied up and wearing black headphones and a black t-shirt is seated in a studio setting. She is positioned in front of a professional microphone and looks slightly off-camera with a faint smile. Behind her is a white wall with a yellow vertical stripe and a sign that reads \"Employees Only\". To her left is a screen displaying the word \"ohnson\" in red. In the foreground, a logo for a podcast is visible with the text \"BOSS TALK 101\" and \"PODCAST\", along with smaller text below it stating \"By 11 Logo Studio\". Across the sequence, the woman remains in the same position and expression, and the camera remains static, resulting in a scene that appears nearly frozen with only minimal, subtle movements."
+}

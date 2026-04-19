@@ -1,0 +1,15 @@
+{
+  "video_id": "9865d9228ff7e38db4bdb10f915d9807",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-062.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.169,
+    0.506,
+    0.844,
+    1.181
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person with blonde hair and a black t-shirt is seen in a small overlay window in the bottom left corner of a screen, appearing to record a reaction while playing a video game. The main screen displays a sports game lineup menu featuring player cards with images of athletes and text such as \"LINEUP,\" \"OFFENSE,\" \"DEFENSE,\" \"SPECIAL TEAMS,\" \"SPECIALISTS,\" \"STRATEGY,\" and \"VISUALS.\" Top-screen data includes numbers like \"173,037,\" \"14,600,\" \"2,343,543,\" and \"LV 19.\" At the bottom, prompts such as \"BEST LINEUP,\" \"HELP,\" and \"BACK\" are visible. In the first frame, the person in the overlay is smiling and giving a thumbs-up. By the final frame, the person has a more neutral expression and is pointing upwards with one finger. The game menu remains static throughout the sequence while the person's expressions and gestures change."
+}

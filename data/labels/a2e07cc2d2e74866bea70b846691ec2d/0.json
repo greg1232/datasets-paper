@@ -1,0 +1,15 @@
+{
+  "video_id": "a2e07cc2d2e74866bea70b846691ec2d",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-157.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.455,
+    1.365,
+    2.275,
+    3.185
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser window displaying a complex network map on a dark background, featuring various circular icons connected by colored lines and labels. Text within the map includes phrases such as \"the thinking,\" \"the feeling,\" \"the sensing,\" and \"the wanting.\" A video call overlay is visible in the upper right, showing a man wearing a dark baseball cap. As the sequence progresses, the network map is manipulated, with some nodes disappearing and others shifting position. A small image of a seated figure in white clothing appears in the bottom right area of the browser window. The browser tabs at the top include titles such as \"Truth & Learning by Synectics,\" \"Future of Society by Synectics,\" and \"Rural Community Food System.\" By the end of the sequence, much of the network map has faded, leaving only a few highlighted nodes and the image of the seated figure."
+}

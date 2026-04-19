@@ -1,0 +1,15 @@
+{
+  "video_id": "e0912359e8f3fab39c7d0048956b3554",
+  "url": "./data/segments/3E6ctN22V7k-Scene-081.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.185,
+    0.555,
+    0.925,
+    1.295
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot shows a yellow equipment case with silver metal edges and a latch. The case features two black letters \"E\" printed vertically on the yellow surface, one above and one below a horizontal silver metal rail. The rail is secured by small silver brackets and terminates at a chrome-finished latch mechanism. Across the sequence, the camera slowly zooms in on the latch, making it appear larger in each subsequent frame. The background, visible in the upper left, consists of a blurred brown brick wall and a dirt ground. No people are present in the scene. The focus remains tight on the hardware and the yellow panels of the case, highlighting the texture of the metal and the bold typeface of the \"E\" characters."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "d9594e827ce4d7c41498780911feaa2a",
+  "url": "./data/segments/3d5Bf4VRhHE-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.18,
+    0.54,
+    0.9,
+    1.26
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A group of men walk through a modern, minimalist indoor corridor with light-colored walls and flooring. They are dressed in matching light blue polo shirts and dark navy trousers. In the upper right corner of each scene, a white circular logo featuring a crown and initials is visible. Three copper-colored spherical pendant lights hang from the ceiling. Throughout the sequence, the men move forward; one man in the foreground leads the group, while others follow behind him, including one man wearing a white face mask. As the sequence progresses, the men shift positions and move further into the room, with the lead man walking toward the right side of the frame. The lighting is soft and ambient, reflecting off the polished surfaces of the spherical lamps."
+}

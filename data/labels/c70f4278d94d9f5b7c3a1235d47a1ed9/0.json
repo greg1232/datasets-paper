@@ -1,0 +1,15 @@
+{
+  "video_id": "c70f4278d94d9f5b7c3a1235d47a1ed9",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-429.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.669,
+    2.006,
+    3.344,
+    4.681
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with light-colored hair and glasses, wearing a dark blue t-shirt and headphones, appears in a small picture-in-picture overlay in the bottom-left corner of a video game screen. He is in a room with a decorated Christmas tree visible behind him. The main screen displays a menu for a \"90+ ZERO CHILL PLAYER\" pack, featuring an image of an American football player's helmet and the text \"90+ OVR\". A purchase option is visible, stating \"BUY WITH\" and showing a cost of \"20,000 Training\". Controls at the bottom read \"BUY VIEW INFO HELP CANCEL\". As the video progresses, the man's facial expressions shift from a look of anticipation to an excited, open-mouthed smile and laughter, while the game interface remains static across the frames."
+}

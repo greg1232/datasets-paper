@@ -1,0 +1,15 @@
+{
+  "video_id": "07e8281ff8bc70dd2eee948730f9364e",
+  "url": "./data/segments/3mdAeLvlUxw-Scene-091.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.209,
+    0.626,
+    1.043,
+    1.46
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video features a dark, cinematic background filled with shimmering gold particles and light flares that drift across the screen. White text appears and evolves in the upper and lower quadrants of the frame. Initially, a single \"X\" appears in the top left. As the sequence progresses, \"XAU\" and \"H\" appear in the top right. In the lower left, the text expands to \"XAU\", \"HUI\", and \"GD\" stacked vertically. Finally, the lower right area displays the most complete set of text, consisting of \"XAU\", \"HUI\", \"GDX\", and \"DO\" stacked vertically. The gold bokeh effects and sparkling dust particles move subtly throughout the duration of the clip, creating a sense of depth and luxury against the black void."
+}

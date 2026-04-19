@@ -1,0 +1,15 @@
+{
+  "video_id": "dfa7dc9cb1bbe0b89583ad7a7e5194ed",
+  "url": "./data/segments/3fKU7ugHcIQ-Scene-077.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.318,
+    0.954,
+    1.59,
+    2.226
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "An animated man with brown hair, wearing a black t-shirt and blue pants, stands in a yellow-toned studio environment. He is positioned next to professional lighting equipment, including a tall stand with a light. In the early moments, a bright green circle highlights the man's upper body, and a white rounded rectangle appears below him. As time progresses, the text \"Korbin Miles\" appears in a stylized black script inside the white rectangle, followed by a green banner below it containing the text \"The Bearded Bastard\". The green circle around the man eventually vanishes, and the man shifts his posture slightly, leaning back. In the final moments, the text \"Korbin Miles\" remains visible, while the green banner containing \"The Bearded Bastard\" begins to disappear from the bottom of the screen."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "3c14e74538553875d434e9c88edf7464",
+  "url": "./data/segments/3gZZFVx-9-M-Scene-169.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.127,
+    0.381,
+    0.635,
+    0.89
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man with blond hair, wearing a dark blue t-shirt, is visible in a small webcam overlay in the bottom left corner of a screen showing the \"ITEM MANAGER\" menu of a video game. The interface displays various digital player cards with numeric values beneath them, under categories such as \"MY ITEMS,\" \"SETS,\" and \"AUCTION HOUSE.\" On-screen text at the top includes \"179,037,\" \"14,600,\" and \"2,343,543.\" To the left, a filter menu lists options like \"TYPE,\" \"QUALITY,\" \"TEAM,\" \"PROGRAM,\" and \"CHEMISTRY.\" As the sequence progresses, the man speaks while looking at the screen. In the final stages, a search bar appears over the card gallery with the placeholder text \"ITEM NAME,\" while a purple rectangular highlight overlays a portion of the cards. The overall color scheme of the menu is dark purple and black with bright yellow accents."
+}

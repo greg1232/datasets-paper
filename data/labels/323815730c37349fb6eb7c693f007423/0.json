@@ -1,0 +1,15 @@
+{
+  "video_id": "323815730c37349fb6eb7c693f007423",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-198.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.842,
+    2.525,
+    4.208,
+    5.892
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand interacts with a small, white cardboard box containing a yellow object on a surface decorated with a palm tree design. In the upper left, the hand is positioned above the box. By the upper right, the hand has moved away, leaving the box centered. In the lower left, the hand reaches toward the box again. By the lower right, the hand is actively touching and adjusting the yellow object inside. The scene includes a stack of cards and a small black electronic device in the background. A picture-in-picture window shows a man with a beard wearing a dark blue shirt. Throughout the sequence, the logo \"JASPYS\" and the website \"CASEBREAKS.COM\" are visible as on-screen overlays. The background surface features a stylized orange and blue graphic with green palm trees."
+}

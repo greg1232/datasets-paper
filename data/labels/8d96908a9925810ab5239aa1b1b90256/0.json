@@ -1,0 +1,15 @@
+{
+  "video_id": "8d96908a9925810ab5239aa1b1b90256",
+  "url": "./data/segments/3E6ctN22V7k-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.355,
+    1.065,
+    1.775,
+    2.485
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "In a workshop setting, a person wearing a red long-sleeved shirt is shown working with materials on a table. In the initial frames, the person's hands move across flat panels of wood and blue material. On-screen text at the bottom of these frames reads, \"This is the first and the last thing we should give to people who have lost everything.\" As the scene progresses, the focus shifts to a yellow and silver metal container. The side of the container prominently features the logo \"IDEASBOX\" in red letters. The person's hand is seen resting on the top edge of the unit. New on-screen text appears at the bottom of the final frames, stating, \"All of the sudden there should be people coming out of nowhere,\". The sequence transitions from a close-up of assembly materials to a shot of the completed portable box."
+}

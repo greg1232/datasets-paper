@@ -1,0 +1,15 @@
+{
+  "video_id": "83a247947735d92853ac8a751e74c92a",
+  "url": "./data/segments/3fLu8Czn1pY-Scene-067.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.142,
+    0.425,
+    0.709,
+    0.993
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands interact with a greeting card packaged in a clear plastic sleeve on a light-colored wooden surface. The card is white with a blue floral design and a central label that reads \"SENDING YOU A LITTLE Yuletide Cheer\". In the first frame, the person's left hand holds the side of the packaged card. In the second frame, they hold the card at a slight angle. By the third frame, the card is shifted and slightly rotated. In the final frame, the person uses both hands to slide the card out of the plastic sleeve, with the right hand pulling the card to the right. To the left of the main card, parts of other similar cards in plastic packaging are visible. The person's skin is light, and they are wearing a thin bracelet on their left wrist."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "2f64662d9447827466ecec0f6f679752",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-129.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.087,
+    0.262,
+    0.438,
+    0.612
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hands hold a gold-bordered collectible card featuring a signature and the name \"MADDUX\" against a background with a palm tree design. The setting appears to be a hobby shop or studio, with white boxes and equipment visible in the background. On-screen graphics include a logo for \"JASPYS\" and the text \"CASEBREAKS.COM.\" A small inset window shows a man with a beard wearing a dark blue t-shirt with a yellow logo, sitting at a desk with a computer. As the sequence progresses, the hands rotate the card to show different angles, while the man in the inset window remains present, observing the action. The composition maintains a consistent layout of the main footage and the inset window, focusing on the presentation of the sports card."
+}

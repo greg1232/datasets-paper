@@ -1,0 +1,15 @@
+{
+  "video_id": "e7fa68f609d71d2c17c9a8a8ba7e8310",
+  "url": "./data/segments/3F2rz23IKUk-Scene-027.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    5.515,
+    16.545,
+    27.575,
+    38.605
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "The video shows a static white slide with black text. The slide is titled \"Which means...\" and contains a bulleted list of four statements. The text reads: \"Commercial copyright infringement is typically a criminal act,\" \"Copyright holders are becoming increasingly litigious,\" \"Courts side with the copyright holder,\" and \"Failing to comply with licenses can impair your ability to continue as an ongoing business.\" There are no people, objects, or logos visible in the scene. Across the chronological sequence of frames, the image remains entirely unchanged, with the text and background remaining fixed in position and appearance."
+}

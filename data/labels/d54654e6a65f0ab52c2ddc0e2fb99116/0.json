@@ -1,0 +1,15 @@
+{
+  "video_id": "d54654e6a65f0ab52c2ddc0e2fb99116",
+  "url": "./data/segments/3rHRnfTOnJQ-Scene-001.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    1.829,
+    5.487,
+    9.146,
+    12.804
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A man wearing a blue long-sleeved button-down shirt is seated at a piano in a studio setting with purple backlighting and a microphone on a stand in front of him. The video overlays a digital piano keyboard across the bottom of the screen and displays musical notation and text. In the beginning, the text \"F Maj(add2)\" is visible, and a red line marks a specific key on the keyboard as the man's hands press several keys. As the scene progresses, the text changes to \"F Major 3rd\" and then to \"A Major 3rd,\" while the red marker shifts to different positions on the keyboard. The man remains seated, focusing on the piano and singing into the microphone, while the musical notes on the screen update to reflect the different chords being played."
+}

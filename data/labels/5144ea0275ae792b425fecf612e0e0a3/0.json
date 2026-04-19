@@ -1,0 +1,15 @@
+{
+  "video_id": "5144ea0275ae792b425fecf612e0e0a3",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-244.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.29,
+    0.87,
+    1.45,
+    2.03
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording shows a web browser displaying a presentation titled \"Rural Community Food System.\" The page features an \"Introduction\" section that asks, \"What constitutes a sustainable localized food system for a rural community?\" and includes a list of \"Session Videos\" with various dates and links. Below this, a paragraph explains how viewers can contribute to the model by \"adding communities\" or \"logging a member,\" directing them to \"the former Wiki Collaborative\" for a full set of guides. A \"Legend\" at the bottom identifies \"Large Corporate Farm Systems\" and \"Community Based and Mixed-Ownership Production.\" In the top right corner of the browser, a small webcam feed shows a man wearing a dark baseball cap and a dark shirt. Across the sequence of frames, the browser window remains stationary and the man in the webcam feed remains mostly still, though his expression and head position shift slightly."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "79707341a64689cc348f04ae754be421",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-058.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.638,
+    1.914,
+    3.191,
+    4.467
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A close-up shot shows a person's hand interacting with the internal mechanical components of an engine. The engine is composed of weathered, metallic gold and silver parts, including a visible metal chain and several bolts. In the initial scene, the person's hand is poised above the machinery. As the sequence progresses, the hand moves closer to the components, and the person eventually uses a finger to point toward or touch a specific area where the chain connects to a gear. A black plastic cover is partially visible at the bottom of the view. A white label with a barcode is affixed to a component at the top, though the text is not legible. The camera remains relatively stationary, focusing on the hand's precise movements as it inspects the engine's timing chain and related assembly."
+}

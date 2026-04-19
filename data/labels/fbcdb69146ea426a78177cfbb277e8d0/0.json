@@ -1,0 +1,15 @@
+{
+  "video_id": "fbcdb69146ea426a78177cfbb277e8d0",
+  "url": "./data/segments/3ITw3DpGM5k-Scene-326.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.129,
+    0.387,
+    0.646,
+    0.904
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A person's hand is seen opening a flat, rectangular package on a desk adorned with a colorful mat featuring palm trees. The person is wearing a dark shirt. On the right side of the screen, a small inset window shows a man with a beard wearing a dark blue shirt sitting in a room with equipment in the background. The text \"JASPYS\" and \"CASEBREAKS.COM\" is prominently displayed in the upper right and lower right areas of the main screen, and \"JASPYS Sports Cards\" appears in the lower right inset window. As the sequence progresses, the hand lifts the lid of the package to reveal a yellow-and-white checklist or insert. The camera angle shifts slightly, providing a clearer view of the items inside the box as the lid is fully opened."
+}

@@ -1,0 +1,15 @@
+{
+  "video_id": "6d13bf1baea0b86ab8979f867756ac2f",
+  "url": "./data/segments/3Wcw7UNaLks-Scene-331.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.54,
+    1.62,
+    2.7,
+    3.78
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A video conference call displays a grid of participants in their respective home offices or rooms. Multiple individuals are visible, some repeated across the screen. A man in a blue shirt, another in a purple shirt, and several people in neutral-toned clothing are present. Some participants wear glasses, and one woman wears a black shirt. Various people are seen listening, thinking with hands on their chins, or looking toward their screens. The backgrounds vary, featuring bookshelves, curtains, and plain walls. Legible on-screen names include \"Jerry Nicholi,\" \"Serengaw\u00e9,\" \"Jim Burke,\" \"Hugo De Van der Vyve,\" \"Brian Moore,\" \"Brittany,\" and \"Robert Mooring.\" The scene remains largely static across the sequence, with only subtle shifts in the participants' facial expressions and slight head movements as they engage in the virtual meeting."
+}

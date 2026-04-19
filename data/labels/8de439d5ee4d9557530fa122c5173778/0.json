@@ -1,0 +1,15 @@
+{
+  "video_id": "8de439d5ee4d9557530fa122c5173778",
+  "url": "./data/segments/3kIRn6ImIRc-Scene-036.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.55,
+    1.65,
+    2.75,
+    3.85
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A screen recording displays a web browser showing a Grafana dashboard interface. The interface is dark-themed with a top navigation bar and a sidebar. At the top of the page, a header reads \"Welcome to Grafana\" alongside a \"Need help?\" section with links to \"Documentation,\" \"Tutorials,\" \"Community,\" and \"Public Slack.\" In the initial stage, the screen shows loading indicators with the text \"Checking completed setup steps\" and \"Loading...\". As the page loads, several informational tiles appear under a \"Basic\" heading, including \"TUTORIAL DATA SOURCE AND DASHBOARDS,\" \"COMPLETE Add your first data source,\" and \"COMPLETE Create your first dashboard.\" Below these, a \"Dashboards\" section features a blog post titled \"Announcing Grafana Tempo, a massively scalable distributed tracing system.\" The sequence shows the user navigating the interface, with a cursor appearing and a sidebar menu expanding to show options like \"Dashboards,\" \"Manage,\" and \"Snapshots.\""
+}

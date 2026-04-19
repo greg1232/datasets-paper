@@ -1,0 +1,15 @@
+{
+  "video_id": "714e81bf02762fe42a0fb567b5d06178",
+  "url": "./data/segments/3aGaSqbrfVA-Scene-007.mp4",
+  "n_frames": 4,
+  "frame_timestamps": [
+    0.096,
+    0.288,
+    0.48,
+    0.672
+  ],
+  "grid_layout": "2x2",
+  "model": "google/gemma-4-31B-it",
+  "prompt_version": "v2-relabel",
+  "caption": "A green all-terrain vehicle (ATV) is parked inside a garage or workshop, positioned diagonally facing toward the right. The vehicle features a prominent front brush guard, a green body with black accents, and a large headlight. The text \"500\" is visible on the side of the front fairing. In the background, tools, equipment, and another vehicle are partially visible. No people are present in the scene. Across the sequence of frames, the camera remains static, and there is no perceptible movement of the ATV or any surrounding objects, resulting in a scene that appears frozen in time. The lighting is consistent across all frames, highlighting the glossy finish of the green paint and the metallic texture of the front guard."
+}
