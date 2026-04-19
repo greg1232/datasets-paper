@@ -428,10 +428,47 @@ InternVid (FLT)       & 20  & 0.000          & 0.026          & 0.063          &
 \end{table}
 
 \paragraph{Video question answering.}
-Video question answering (VideoQA) tests a model's ability to answer natural language questions about video content. We fine-tune a VideoQA model on People's Video and evaluate on NExT-QA~\cite{xiao2021nextqa}, MSVD-QA~\cite{xu2017msvdqa}, and ActivityNet-QA~\cite{yu2019activitynetqa}. NExT-QA is of particular interest because it categorises questions by reasoning type---causal, temporal, and descriptive---allowing us to separately assess whether the inferential vocabulary of People's Video captions provides measurable gains on questions requiring intent and causality reasoning beyond simple perceptual recognition.
+The paper's full-scale protocol fine-tunes a VideoQA model on People's Video and evaluates on NExT-QA~\cite{xiao2021nextqa}, MSVD-QA~\cite{xu2017msvdqa}, and ActivityNet-QA~\cite{yu2019activitynetqa}. For the reproducibility run we measure a no-training \emph{caption-answerability} proxy: Claude generates $N$ factual QA pairs from each dataset's caption (text only, no frames); Claude then tries to answer each question from the frames only (no caption); a third Claude call judges whether the video-derived answer matches the caption-derived answer. Accuracy measures whether captions describe facts that are verifiable from the video content, rather than inferred from off-screen context or hallucinated.
+
+\paragraph{Video question answering --- measured results.}
+Table~\ref{tab:videoqa} reports accuracy on 40 People's Video clips, 20 OpenVid-1M HD clips, and 15 InternVid FLT clips, with 3 questions per clip. OpenVid-1M HD leads at $70.0\%$ overall accuracy, ahead of InternVid FLT at $66.7\%$ and People's Video at $60.8\%$; our unknown-answer rate ($6.7\%$) is also the highest. We read this as a \emph{descriptive-richness vs verifiability trade-off}: our longer captions name finer-grained detail (specific objects, on-screen text, inferred activity purpose), producing harder-to-verify questions when only a 4-frame grid is available to the answerer. OpenVid-1M HD's object-enumerating LLaVA-v1.6 captions generate simpler, more directly-verifiable questions; InternVid's 9-word captions produce trivial questions. The same signal that makes our captions useful for multimodal LLM training (descriptive depth in §7.1b) makes them less trivially answerable from static frames --- consistent with the caption-design goals of the corpus.
+
+\begin{table}[t]
+\centering
+\caption{Zero-shot VideoQA caption-answerability. Claude Haiku 4.5 used at all three stages (QA generation, frame-based answering, match judging). ``Overall accuracy'' is the pooled match rate across all questions; ``Unknown rate'' is the fraction of video-based answers returned as ``unknown''.}
+\label{tab:videoqa}
+\begin{tabular}{lrrrrrr}
+\toprule
+Dataset & $N$ clips & Questions & Overall accuracy & Unknown rate & Caption len \\
+\midrule
+People's Video (ours) & 40 & 120 & 60.8\%          & 6.7\% & 133.0 \\
+OpenVid-1M (HD)       & 20 & \phantom{0}60  & \textbf{70.0\%} & 1.7\% & 100.1 \\
+InternVid (FLT)       & 15 & \phantom{0}45  & 66.7\%          & 4.4\% & \phantom{00}9.2 \\
+\bottomrule
+\end{tabular}
+\end{table}
 
 \paragraph{Temporal action localization.}
-Temporal action localization requires a model to identify the start and end times of specific activities within an untrimmed video. We train a temporal grounding model on the long-clip subset of People's Video (clips exceeding 10 seconds, approximately 12.7M clips) and evaluate on Charades-STA~\cite{gao2017charades} and the temporal localization split of ActivityNet Captions. We report Recall at IoU thresholds of 0.3, 0.5, and 0.7 (R@\{0.3, 0.5, 0.7\}). This experiment specifically assesses the value of the 18\% long-clip tier of the dataset, which was designed to support exactly this class of tasks.
+The paper's full-scale protocol trains a temporal grounding model on the long-clip subset of People's Video (clips exceeding 10 seconds, approximately 12.7M clips) and evaluates on Charades-STA~\cite{gao2017charades} and the temporal localization split of ActivityNet Captions. For the reproducibility run we measure a no-training proxy that directly tests whether our captions carry \emph{temporal structure} within long clips: for each clip of duration $\geq 10$\,s, split the caption into $K$ sentence-boundary sub-spans, extract $K$ evenly-spaced frames, compute the $K \times K$ CLIP ViT-B/32 text $\times$ image similarity matrix, and measure the diagonal advantage (mean diagonal similarity minus mean off-diagonal) and the argmax accuracy (fraction of rows $i$ for which $\arg\max_j \text{sim}[i,j] = i$). A random-shuffle baseline that permutes clip-caption pairings establishes the chance level of diagonal dominance in this similarity space.
+
+\paragraph{Temporal action localization --- measured results.}
+Table~\ref{tab:temporal_grounding} reports these metrics on 78 People's Video clips of duration $\geq$10\,s drawn from a 500-clip seed~42 sample. The measured argmax accuracy is $34.6\%$, above the $33.3\%$ chance baseline ($K=3$) by $1.3$~percentage points; the shuffle-corrected net diagonal advantage is a small positive $+0.0022$. The OpenVid-1M HD sample returns no clips of $\geq$10\,s in the HD subset (typical duration $\sim 8$\,s), so no comparator row is available.
+
+We read this as an honest negative finding: our captions, as generated by a paragraph-level prompting protocol, describe each clip holistically rather than annotating per-frame content. The long-clip tier (18\% of the corpus) is temporally \emph{positioned} to support localization training but the captions released here are not strongly temporally structured at the within-clip granularity that a fine-grained localization task would benefit from. Converting the long-clip tier into a strong training signal for temporal grounding will require additional moment-localized annotation; this is an explicit direction for future dataset releases.
+
+\begin{table}[t]
+\centering
+\caption{Zero-shot temporal grounding proxy on long clips ($\geq$10\,s). Diag advantage = mean diagonal CLIP similarity minus mean off-diagonal over $K \times K$ caption-sub-span $\times$ frame-window grid. Argmax accuracy = fraction of caption spans whose best-matching frame window is its true temporal position (chance = $1/K$). Net diag advantage subtracts the shuffle baseline. OpenVid-1M HD sample has no clips $\geq$10\,s.}
+\label{tab:temporal_grounding}
+\begin{tabular}{lrrrrr}
+\toprule
+Dataset & $N_{\text{long}}$ & $K$ & Diag advantage & Argmax acc (chance) & Net diag advantage \\
+\midrule
+People's Video (ours) & 78 & 3 & $+0.0019$ & 34.6\% (33.3\%) & $+0.0022$ \\
+OpenVid-1M (HD)       & 0  & — & —         & —               & — \\
+\bottomrule
+\end{tabular}
+\end{table}
 
 % -------------------------------------------------------
 \subsection{Effect of Commercial License Filtering}
