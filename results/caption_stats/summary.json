@@ -1,39 +1,39 @@
 {
   "config": {
     "seed": 42,
-    "group_size": 25,
+    "group_size": 100,
     "mtld_threshold": 0.72,
     "hf_sample_size": 10000
   },
   "datasets": [
     {
       "name": "PeoplesVideo (8K subset)",
-      "n_captions": 50,
-      "total_tokens": 6552,
-      "vocabulary_size": 1133,
+      "n_captions": 8522,
+      "total_tokens": 1125890,
+      "vocabulary_size": 15352,
       "caption_length_words": {
-        "mean": 131.04,
-        "median": 132.0,
-        "std": 9.484640214578516,
-        "min": 104,
-        "max": 151
+        "mean": 132.1157005397794,
+        "median": 133.0,
+        "std": 10.873382769837386,
+        "min": 24,
+        "max": 172
       },
-      "global_ttr": 0.17292429792429792,
+      "global_ttr": 0.01363543507802716,
       "group_ttr": {
-        "group_size": 25,
-        "n_groups": 2,
-        "mean": 0.23061660561660563,
-        "median": 0.23061660561660563,
-        "std": 0.012973137973137969,
-        "tokens_per_group_mean": 3276,
-        "unique_per_group_mean": 755.5
+        "group_size": 100,
+        "n_groups": 85,
+        "mean": 0.14266917394243947,
+        "median": 0.1422087745839637,
+        "std": 0.0066682716894790085,
+        "tokens_per_group_mean": 13211.941176470587,
+        "unique_per_group_mean": 1884.964705882353
       },
       "mtld": {
-        "value": 71.09859205198288,
+        "value": 75.57738621665825,
         "threshold": 0.72
       },
       "paper_claimed_mean_length": 154,
-      "delta_vs_paper": -22.960000000000008
+      "delta_vs_paper": -21.884299460220603
     },
     {
       "name": "InternVid",
@@ -49,13 +49,13 @@
       },
       "global_ttr": 0.09016818152378074,
       "group_ttr": {
-        "group_size": 25,
-        "n_groups": 400,
-        "mean": 0.5925173204556495,
-        "median": 0.5920425569330872,
-        "std": 0.03909488340605575,
-        "tokens_per_group_mean": 231.595,
-        "unique_per_group_mean": 136.9625
+        "group_size": 100,
+        "n_groups": 100,
+        "mean": 0.4418376177330175,
+        "median": 0.44208363826922903,
+        "std": 0.017999206734319383,
+        "tokens_per_group_mean": 926.38,
+        "unique_per_group_mean": 409.12
       },
       "mtld": {
         "value": 68.50285512796074,
@@ -76,13 +76,13 @@
       },
       "global_ttr": 0.010781668573752425,
       "group_ttr": {
-        "group_size": 25,
-        "n_groups": 400,
-        "mean": 0.23936087374907025,
-        "median": 0.2392493084529213,
-        "std": 0.012632988143404422,
-        "tokens_per_group_mean": 2606.5075,
-        "unique_per_group_mean": 623.2825
+        "group_size": 100,
+        "n_groups": 100,
+        "mean": 0.13588479620077426,
+        "median": 0.13554107034660606,
+        "std": 0.00426981961682944,
+        "tokens_per_group_mean": 10426.03,
+        "unique_per_group_mean": 1416.48
       },
       "mtld": {
         "value": 39.70003662550447,
