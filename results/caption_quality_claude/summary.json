@@ -1,0 +1,47 @@
+{
+  "config": {
+    "model": "claude-sonnet-4-6",
+    "frames_per_clip": 4,
+    "seed": 42,
+    "sample_sizes": {
+      "ours": 100,
+      "openvid": 50,
+      "internvid": 20
+    }
+  },
+  "summaries": [
+    {
+      "dataset": "ours",
+      "n_submitted": 100,
+      "n_valid": 100,
+      "n_errors": 0,
+      "bleu_4_mean": 0.12720736373425667,
+      "meteor_mean": 0.3903113065102986,
+      "rouge_l_f_mean": 0.3125360262291096,
+      "dataset_caption_len_mean": 132.99,
+      "reference_caption_len_mean": 137.53
+    },
+    {
+      "dataset": "openvid",
+      "n_submitted": 50,
+      "n_valid": 50,
+      "n_errors": 0,
+      "bleu_4_mean": 0.05072130546774656,
+      "meteor_mean": 0.25088953286792703,
+      "rouge_l_f_mean": 0.2669217581767887,
+      "dataset_caption_len_mean": 100.08,
+      "reference_caption_len_mean": 135.22
+    },
+    {
+      "dataset": "internvid",
+      "n_submitted": 20,
+      "n_valid": 20,
+      "n_errors": 0,
+      "bleu_4_mean": 6.734669952755273e-07,
+      "meteor_mean": 0.025765819933037674,
+      "rouge_l_f_mean": 0.06265321651856494,
+      "dataset_caption_len_mean": 9.25,
+      "reference_caption_len_mean": 137.6
+    }
+  ]
+}

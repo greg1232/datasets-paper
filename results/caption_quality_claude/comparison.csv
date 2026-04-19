@@ -1,0 +1,4 @@
+Dataset,N Submitted,N Valid,BLEU-4 (mean),METEOR (mean),ROUGE-L F (mean),Dataset caption mean len,Reference caption mean len
+ours,100,100,0.1272,0.3903,0.3125,133.0,137.5
+openvid,50,50,0.0507,0.2509,0.2669,100.1,135.2
+internvid,20,20,0.0000,0.0258,0.0627,9.2,137.6

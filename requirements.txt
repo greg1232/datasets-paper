@@ -9,3 +9,5 @@ yt-dlp>=2024.10
 anthropic>=0.40
 openai>=1.40
 openai-whisper>=20240930
+nltk>=3.9
+rouge-score>=0.1.2
