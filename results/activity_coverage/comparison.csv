@@ -1,0 +1,4 @@
+Dataset,N Classified,Classes Covered (of 200),Coverage Fraction,Gini,Mean Top-1 Score
+ours,300,82,0.410,0.819,0.259
+openvid,100,59,0.295,0.796,0.252
+internvid,20,16,0.080,0.932,0.281

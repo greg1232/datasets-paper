@@ -1,0 +1,44 @@
+{
+  "config": {
+    "model": "ViT-B-32",
+    "pretrained": "openai",
+    "device": "mps",
+    "frames_per_clip": 3,
+    "seed": 42,
+    "n_classes": 200,
+    "sample_sizes": {
+      "ours": 300,
+      "openvid": 100,
+      "internvid": 20
+    }
+  },
+  "summaries": [
+    {
+      "dataset": "ours",
+      "n_classified": 300,
+      "n_classes_total": 200,
+      "n_classes_covered": 82,
+      "coverage_fraction": 0.41,
+      "gini": 0.8192000000000002,
+      "mean_top1_score": 0.2585967848201593
+    },
+    {
+      "dataset": "openvid",
+      "n_classified": 100,
+      "n_classes_total": 200,
+      "n_classes_covered": 59,
+      "coverage_fraction": 0.295,
+      "gini": 0.7956000000000001,
+      "mean_top1_score": 0.2517103159427643
+    },
+    {
+      "dataset": "internvid",
+      "n_classified": 20,
+      "n_classes_total": 200,
+      "n_classes_covered": 16,
+      "coverage_fraction": 0.08,
+      "gini": 0.9320000000000002,
+      "mean_top1_score": 0.2813168577849865
+    }
+  ]
+}
