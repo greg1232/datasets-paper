@@ -1,0 +1,4 @@
+Dataset,N Submitted,N Valid,Rating 3 (fully coherent),Rating 2 (marginal),Rating 1 (different scenes),Fully Coherent Rate,Failure Rate,Mean Duration (s)
+ours,100,100,95,1,4,0.950,0.040,12.28
+openvid,30,30,29,0,1,0.967,0.033,3.86
+internvid,20,20,16,1,3,0.800,0.150,7.71

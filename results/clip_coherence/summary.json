@@ -1,0 +1,70 @@
+{
+  "config": {
+    "model": "claude-haiku-4-5-20251001",
+    "seed": 42,
+    "sample_sizes": {
+      "ours": 100,
+      "openvid": 30,
+      "internvid": 20
+    }
+  },
+  "summaries": [
+    {
+      "dataset": "ours",
+      "n_submitted": 100,
+      "n_valid": 100,
+      "n_errors": 0,
+      "rating_counts": {
+        "1": 4,
+        "2": 1,
+        "3": 95
+      },
+      "rating_fractions": {
+        "1": 0.04,
+        "2": 0.01,
+        "3": 0.95
+      },
+      "fully_coherent_rate": 0.95,
+      "failure_rate_rating1": 0.04,
+      "mean_duration_judged": 12.2833129
+    },
+    {
+      "dataset": "openvid",
+      "n_submitted": 30,
+      "n_valid": 30,
+      "n_errors": 0,
+      "rating_counts": {
+        "1": 1,
+        "2": 0,
+        "3": 29
+      },
+      "rating_fractions": {
+        "1": 0.03333333333333333,
+        "2": 0.0,
+        "3": 0.9666666666666667
+      },
+      "fully_coherent_rate": 0.9666666666666667,
+      "failure_rate_rating1": 0.03333333333333333,
+      "mean_duration_judged": 3.8577749000000003
+    },
+    {
+      "dataset": "internvid",
+      "n_submitted": 20,
+      "n_valid": 20,
+      "n_errors": 0,
+      "rating_counts": {
+        "1": 3,
+        "2": 1,
+        "3": 16
+      },
+      "rating_fractions": {
+        "1": 0.15,
+        "2": 0.05,
+        "3": 0.8
+      },
+      "fully_coherent_rate": 0.8,
+      "failure_rate_rating1": 0.15,
+      "mean_duration_judged": 7.7062
+    }
+  ]
+}
