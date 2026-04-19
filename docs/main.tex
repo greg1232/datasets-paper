@@ -386,10 +386,46 @@ InternVid (FLT)       & 20  & 16 & 1 & 3 & 80.00\%          & 15.00\%           
 We evaluate the utility of The People's Video for four canonical video-language tasks by fine-tuning standard architectures on our dataset and measuring performance on held-out benchmarks. In each case we compare against the same model trained on an equal number of clips sampled from InternVid~\cite{wang2024internvid} and Panda-70M~\cite{chen2024panda70m} to isolate the effect of dataset quality and licensing from model choice.
 
 \paragraph{Text-to-video retrieval.}
-Text-to-video retrieval requires a model to rank a corpus of videos by relevance to a natural language query. We fine-tune CLIP4Clip~\cite{luo2022clip4clip} with a mean-pooling temporal aggregator on People's Video clip--caption pairs and evaluate on three standard benchmarks: MSR-VTT~\cite{xu2016msrvtt} (1K test split), DiDeMo~\cite{hendricks2017didemo}, and ActivityNet Captions~\cite{krishna2017anetcaption}. We report Recall at rank 1, 5, and 10 (R@1, R@5, R@10) and median rank (MdR) for both text-to-video and video-to-text retrieval directions. To assess zero-shot transfer capability---important for a dataset intended as a general-purpose pre-training source---we also evaluate a version of the model without any benchmark-specific fine-tuning.
+Text-to-video retrieval requires a model to rank a corpus of videos by relevance to a natural language query. The paper's full-scale protocol fine-tunes CLIP4Clip~\cite{luo2022clip4clip} with a mean-pooling temporal aggregator on People's Video clip--caption pairs and evaluates on MSR-VTT~\cite{xu2016msrvtt}, DiDeMo~\cite{hendricks2017didemo}, and ActivityNet Captions~\cite{krishna2017anetcaption}. For the reproducibility run reported in this paper we measure a \emph{zero-shot} proxy that captures the same intent without fine-tuning: for each dataset we sample $N$ clip--caption pairs, compute CLIP ViT-B/32 image embeddings on the middle frame of each clip and text embeddings on each caption, and evaluate within-dataset retrieval by ranking the $N$ candidate clips for each caption (and vice versa). Recall@1/5/10 and median rank are reported in both directions. The full CLIP4Clip fine-tuning run remains future work; results here indicate the discriminative signal already present in the raw captions before any task-specific adaptation.
+
+\paragraph{Text-to-video retrieval --- measured results.}
+Table~\ref{tab:retrieval} reports the zero-shot within-dataset retrieval metrics on samples of size $N=1{,}000$ (People's Video), $N=200$ (OpenVid-1M HD), and $N=20$ (InternVid FLT; sample size is limited by the yield of per-clip \texttt{yt-dlp} fetches). On the largest sample, People's Video captions rank the correct clip at $R@1=25.2\%$ --- $250{\times}$ above the random baseline of $1/N = 0.1\%$ --- rising to $R@5=49.6\%$ and $R@10=61.8\%$, with median rank 6 of 1000. Cross-dataset $R@k$ comparisons are not directly meaningful because random-baseline $R@1$ differs by sample size ($0.1\%$ for ours, $0.5\%$ for OpenVid-1M HD, $5\%$ for InternVid FLT); the key finding from this table is that captions from all three datasets carry sufficient discriminative signal to enable zero-shot retrieval well above chance on a CLIP ViT-B/32 backbone.
+
+\begin{table}[t]
+\centering
+\caption{Zero-shot within-dataset text-to-video retrieval on size-matched samples, CLIP ViT-B/32 (openai-QuickGELU), middle frame per clip, seed~42. Each caption ranks $N$ candidate clips; correct match at position 1 is R@1. Random baseline R@1 is $1/N$.}
+\label{tab:retrieval}
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Dataset & $N$ & Random R@1 & t2v R@1 & t2v R@5 & t2v R@10 & MdR & v2t R@1 & v2t R@5 \\
+\midrule
+People's Video (ours) & 1000 & 0.1\% & 25.2\% & 49.6\% & 61.8\% & 6 & 25.4\% & 48.6\% \\
+OpenVid-1M (HD)       & 200  & 0.5\% & 79.5\% & 95.0\% & 97.0\% & 1 & 84.5\% & 98.0\% \\
+InternVid (FLT)       & 20   & 5.0\% & 95.0\% & 100.0\% & 100.0\% & 1 & 95.0\% & 100.0\% \\
+\bottomrule
+\end{tabular}
+\end{table}
 
 \paragraph{Video captioning.}
-Video captioning requires a model to generate a natural language description of a video clip. We fine-tune Video-LLaVA~\cite{lin2023videollava} on People's Video clip--caption pairs and evaluate on MSR-VTT, YouCook2~\cite{zhou2018youcook2}, and ActivityNet Captions. We report CIDEr, METEOR, and ROUGE-L on each benchmark. Because our captions are substantially longer than the ground-truth references in these benchmarks (which were collected via manual annotation of short descriptions), we additionally evaluate on a held-out subset of People's Video itself using captions withheld from training, to provide a benchmark where caption length and style are matched to the training distribution.
+The paper's full-scale protocol fine-tunes Video-LLaVA~\cite{lin2023videollava} on People's Video clip--caption pairs and evaluates on MSR-VTT, YouCook2~\cite{zhou2018youcook2}, and ActivityNet Captions using CIDEr, METEOR, and ROUGE-L. For the reproducibility run we measure a \emph{reference-model agreement} proxy that replaces the fine-tuning loop with a single-call reference generation: for each sampled clip we extract a 2$\times$2 grid of four frames and ask Claude Sonnet~4.6 to write an independent reference caption from those frames. We then compute BLEU-4, METEOR, and ROUGE-L between the dataset's caption and the reference. High agreement indicates the dataset caption describes content that a strong independent captioning model would also name from the same frames; low agreement indicates either caption hallucination or stylistic divergence from the reference. Table~\ref{tab:caption_quality} reports these metrics on samples of 100 / 50 / 20 clips from People's Video, OpenVid-1M HD, and InternVid FLT respectively.
+
+\paragraph{Video captioning --- measured results.}
+On all three n-gram metrics, People's Video captions achieve the highest agreement with Claude Sonnet's reference (BLEU-4 $0.127$, METEOR $0.390$, ROUGE-L F $0.312$), ahead of OpenVid-1M HD ($0.051 / 0.251 / 0.267$) and InternVid FLT ($0.000 / 0.026 / 0.063$). The gap to InternVid is partly a length artefact --- 9-word captions have very few long n-gram matches against a 138-word reference --- but METEOR, which is length-tolerant and admits synonym matches, also shows a dominant gap. Our caption mean length of 133~words is nearly identical to the reference (137~words), suggesting stylistic compatibility that contributes to the high BLEU-4 in addition to content agreement. A full Video-LLaVA fine-tuning run, evaluated against the manually-annotated MSR-VTT / YouCook2 / ActivityNet Captions references, remains future work.
+
+\begin{table}[t]
+\centering
+\caption{Zero-shot reference-model agreement for video captioning, using Claude Sonnet 4.6 as an independent reference captioner on the same 4-frame 2$\times$2 grids. BLEU-4 / METEOR / ROUGE-L F are reported as mean per-clip scores.}
+\label{tab:caption_quality}
+\begin{tabular}{lrrrrrr}
+\toprule
+Dataset & $N$ & BLEU-4 & METEOR & ROUGE-L F & Dataset len & Ref len \\
+\midrule
+People's Video (ours) & 100 & \textbf{0.127} & \textbf{0.390} & \textbf{0.312} & 133.0 & 137.5 \\
+OpenVid-1M (HD)       & 50  & 0.051          & 0.251          & 0.267          & 100.1 & 135.2 \\
+InternVid (FLT)       & 20  & 0.000          & 0.026          & 0.063          & \phantom{00}9.2 & 137.6 \\
+\bottomrule
+\end{tabular}
+\end{table}
 
 \paragraph{Video question answering.}
 Video question answering (VideoQA) tests a model's ability to answer natural language questions about video content. We fine-tune a VideoQA model on People's Video and evaluate on NExT-QA~\cite{xiao2021nextqa}, MSVD-QA~\cite{xu2017msvdqa}, and ActivityNet-QA~\cite{yu2019activitynetqa}. NExT-QA is of particular interest because it categorises questions by reasoning type---causal, temporal, and descriptive---allowing us to separately assess whether the inferential vocabulary of People's Video captions provides measurable gains on questions requiring intent and causality reasoning beyond simple perceptual recognition.
@@ -461,13 +497,29 @@ InternVid (FLT)       & 20  & 30.0\% & \phantom{0}5.0\% & 65.0\% & 35.0\% & 20/2
 \label{sec:exp-caption-length}
 % -------------------------------------------------------
 
-Our captions average 132 words per clip, substantially exceeding those of any comparable large-scale dataset. To isolate the contribution of caption length to downstream model performance---and to provide practical guidance for future dataset efforts---we conduct a controlled ablation over caption length while holding all other dataset and training variables fixed.
+Our captions average 132 words per clip, substantially exceeding those of any comparable large-scale dataset. To isolate the contribution of caption length to downstream model performance, we conduct an ablation over caption length while holding all other variables fixed.
 
 \paragraph{Experimental setup.}
-We construct three caption variants from an identical 10M-clip subset of People's Video by truncating the full generated captions to different target lengths: \textit{(a) full captions} at the natural average length of 132 words; \textit{(b) 32-word truncation}, matching the average length of HD-VILA-100M's ASR-derived captions~\cite{xue2022hdvila}; and \textit{(c) 17-word truncation}, matching InternVid's average caption length~\cite{wang2024internvid}. Truncation is applied at sentence boundaries to preserve grammatical completeness. A CLIP4Clip retrieval model and a Video-LLaVA captioning model are trained independently on each variant, with all hyperparameters held fixed across conditions. This design ensures that any performance differences are attributable solely to caption length rather than to clip selection, model architecture, or training procedure.
+We construct four caption variants from a held-out 1{,}000-clip subset of People's Video by truncating the full generated captions to different word caps: $132$ (natural mean), $64$, $32$, and $17$ words, applying truncation at sentence boundaries to preserve grammatical completeness. For each variant we compute the zero-shot text-to-video retrieval protocol of Section~\ref{sec:exp-downstream}: CLIP ViT-B/32 text embeddings of the truncated captions, CLIP image embeddings of the middle frame of each clip, pairwise cosine similarities, and Recall@1/5/10 for both text-to-video and video-to-text retrieval. The full-scale counterpart (training a CLIP4Clip and a Video-LLaVA on each variant, evaluating on MSR-VTT and YouCook2) remains future work; the zero-shot ablation reported here captures the same intent at a fraction of the compute and exposes the underlying relationship between caption length and retrieval signal directly.
 
-\paragraph{Evaluation.}
-We evaluate each condition on MSR-VTT and DiDeMo retrieval (R@1) and on YouCook2 captioning (CIDEr). Performance is plotted as a function of caption length across the three conditions to visualise the marginal return on descriptive depth. We additionally report CLIP alignment scores (Section~\ref{sec:exp-intrinsic}) for each caption variant, separating the question of whether longer captions improve downstream task performance from the separate question of whether they improve visual grounding quality as measured intrinsically.
+\paragraph{Measured results.}
+Table~\ref{tab:caption_length_ablation} reports retrieval metrics as caption length is progressively truncated. Performance is roughly flat from 132 down to 64 words ($R@1$ drops from $25.2\%$ to $24.1\%$, within noise) and then declines monotonically below 32 words ($R@1 = 19.0\%$) and 17 words ($R@1 = 14.5\%$). Two effects explain the shape of this curve. First, CLIP ViT-B/32 truncates text inputs at 77 BPE tokens ($\approx$55 words), so captions longer than this cap are equally informative to CLIP regardless of their actual length. Second, below that cap each additional word removed strips away discriminative content, reducing $R@1$ in approximately linear fashion. The practical implication is that for downstream models with a \emph{longer} text-context budget than CLIP (e.g., Long-CLIP~\cite{zhang2024longclip}, video LLMs), the full-length captions are expected to provide strictly more useful signal than their shorter counterparts; for models capped at CLIP's 77-token budget, captions above $\approx$64 words are sufficient. A full CLIP4Clip + Video-LLaVA training sweep would further quantify the downstream impact and is left for future work at scale.
+
+\begin{table}[t]
+\centering
+\caption{Caption length ablation on 1{,}000 held-out People's Video clips. Zero-shot CLIP ViT-B/32 retrieval with sentence-boundary truncation to the listed word cap. R@k is invariant across datasets and $N$ only if $N$ matches; here all rows use the same 1{,}000-clip pool.}
+\label{tab:caption_length_ablation}
+\begin{tabular}{rrrrrrrr}
+\toprule
+Cap (words) & Actual mean & t2v R@1 & t2v R@5 & t2v R@10 & MdR & v2t R@1 & v2t R@5 \\
+\midrule
+132 & 118.6 & \textbf{25.2\%} & 49.6\% & 61.8\% & \phantom{0}6 & 25.4\% & 48.6\% \\
+ 64 &  53.1 & 24.1\%          & 46.7\% & 58.0\% & \phantom{0}7 & 22.6\% & 46.8\% \\
+ 32 &  24.1 & 19.0\%          & 38.7\% & 49.1\% & 11           & 15.0\% & 34.3\% \\
+ 17 &  16.4 & 14.5\%          & 33.0\% & 44.1\% & 14           & 14.2\% & 29.6\% \\
+\bottomrule
+\end{tabular}
+\end{table}
 
 \section{Limitations}
 \label{sec:limitations}
