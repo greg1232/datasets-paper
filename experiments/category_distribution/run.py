@@ -20,8 +20,6 @@ Outputs (under ``--output-dir``, default ``results/category_distribution/``):
   - ``summary.json``               -- aggregate counts (totals, per-batch,
                                       per-category, per-language)
   - ``category_distribution.png``  -- pie chart of major categories
-  - ``category_bar.png``           -- horizontal bar chart of all categories
-  - ``language_distribution.png``  -- pie chart of major languages
 
 Single entry point. Reads HuggingFace credentials from ``--token`` or the
 ``HF_TOKEN`` environment variable; never hard-codes tokens.
@@ -224,28 +222,6 @@ def plot_category_pie(df: pd.DataFrame, out_dir: Path) -> None:
     print(f"Saved category pie chart to {path}")
 
 
-def plot_category_bar(df: pd.DataFrame, out_dir: Path) -> None:
-    counts = df["categories"].explode().value_counts()
-    counts = counts[counts.notna() & (counts.index != "")]
-    fig, ax = plt.subplots(figsize=(10, 6))
-    counts.plot(kind="barh", ax=ax, color="#6ca056", edgecolor="white")
-    ax.set_xlabel("Count")
-    ax.set_title("Video Categories (sampled)")
-    ax.invert_yaxis()
-    path = out_dir / "category_bar.png"
-    fig.savefig(path, dpi=150, bbox_inches="tight")
-    plt.close(fig)
-    print(f"Saved category bar chart to {path}")
-
-
-def plot_language_pie(df: pd.DataFrame, out_dir: Path) -> None:
-    counts = df["language"].value_counts()
-    major = _group_small(counts)
-    path = out_dir / "language_distribution.png"
-    _save_pie(major, "Video Languages (sampled)", path)
-    print(f"Saved language pie chart to {path}")
-
-
 def write_summary_json(
     df: pd.DataFrame, per_batch: dict[str, int], out_path: Path
 ) -> None:
@@ -337,8 +313,6 @@ def main() -> int:
     print_summary(df, per_batch)
 
     plot_category_pie(df, args.output_dir)
-    plot_category_bar(df, args.output_dir)
-    plot_language_pie(df, args.output_dir)
 
     print("Done.")
     return 0

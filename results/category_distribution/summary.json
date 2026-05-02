@@ -1,0 +1,53 @@
+{
+  "total_videos": 920991,
+  "n_batches": 11,
+  "per_batch_counts": {
+    "temp-data-store/batch_0000": 50000,
+    "temp-data-store/batch_0001": 60603,
+    "temp-data-store/batch_0002": 100000,
+    "temp-data-store/batch_0003": 60476,
+    "temp-data-store/batch_0004": 99912,
+    "temp-data-store/batch_0005": 100000,
+    "temp-data-store/batch_0006": 100000,
+    "temp-data-store/batch_0007": 100000,
+    "temp-data-store/batch_0008": 100000,
+    "temp-data-store/batch_0009": 100000,
+    "temp-data-store/batch_0010": 50000
+  },
+  "n_sampled": 819,
+  "category_counts": {
+    "Education": 226,
+    "News & Politics": 151,
+    "Science & Technology": 144,
+    "Entertainment": 64,
+    "People & Blogs": 63,
+    "Sports": 38,
+    "Nonprofits & Activism": 37,
+    "Howto & Style": 29,
+    "Gaming": 24,
+    "Travel & Events": 13,
+    "Film & Animation": 12,
+    "Autos & Vehicles": 7,
+    "Music": 6,
+    "Comedy": 3,
+    "Pets & Animals": 2
+  },
+  "language_counts": {
+    "en": 659,
+    "Unknown": 92,
+    "hi": 39,
+    "es": 5,
+    "fr": 5,
+    "de": 4,
+    "tr": 3,
+    "it": 3,
+    "ru": 3,
+    "vi": 2,
+    "pl": 1,
+    "pa": 1,
+    "bn": 1,
+    "pt": 1
+  },
+  "n_unique_categories": 15,
+  "n_unique_languages": 14
+}
