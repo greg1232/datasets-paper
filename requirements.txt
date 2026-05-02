@@ -1,6 +1,9 @@
 matplotlib>=3.7
 wordcloud>=1.9
 datasets>=2.18
+pandas>=2.0
+requests>=2.31
+huggingface_hub>=0.24
 torch>=2.1
 open_clip_torch>=2.24
 Pillow>=10.0
