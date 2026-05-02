@@ -35,6 +35,33 @@ Under `results/caption_stats/`:
   claim marked
 - `word_cloud.png` — figure for §5.2 (only if `wordcloud` is installed)
 
+### Paper figure hand-off
+
+The word-cloud figure in `docs/main.tex` (§5.2) references
+`docs/images/word_cloud.jpeg` (a real JPEG, 1600×809), not the PNG
+written by this script (4860×2460 RGBA). To refresh the paper figure
+after regenerating, actually transcode to JPEG — do not just rename the
+extension, `pdflatex` will reject a PNG-bytes file claiming to be JPEG.
+
+On macOS (built-in `sips`):
+
+```
+sips -s format jpeg --resampleWidth 1600 \
+    results/caption_stats/word_cloud.png \
+    --out docs/images/word_cloud.jpeg
+```
+
+Or with ImageMagick:
+
+```
+magick results/caption_stats/word_cloud.png \
+    -resize 1600x -quality 92 docs/images/word_cloud.jpeg
+```
+
+If you'd rather ship the PNG directly, update the `\includegraphics`
+line in `docs/main.tex` (around line 193) to point at
+`docs/images/word_cloud.png` and skip the conversion step.
+
 ## InternVid access
 
 `OpenGVLab/InternVid` is a **gated** HuggingFace dataset. To include it in the

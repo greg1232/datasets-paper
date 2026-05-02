@@ -228,7 +228,7 @@ def write_word_cloud(captions: list[str], output_path: Path) -> None:
         width=1600,
         height=800,
         background_color="white",
-        colormap="plasma",
+        colormap="viridis",
         relative_scaling=0.5,
         min_font_size=8,
         max_words=200,
