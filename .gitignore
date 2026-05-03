@@ -23,6 +23,7 @@ docs/*.toc
 docs/*.fls
 docs/*.fdb_latexmk
 docs/*.synctex.gz
+docs/*.pdf
 
 # OS
 .DS_Store

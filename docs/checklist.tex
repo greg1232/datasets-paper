@@ -1,0 +1,85 @@
+\section*{NeurIPS Paper Checklist}
+
+\begin{enumerate}
+
+\item {\bf Claims}
+    \item[] Question: Do the main claims made in the abstract and introduction accurately reflect the paper's contributions and scope?
+    \item[] Answer: \answerYes{}
+    \item[] Justification: The abstract and Section~\ref{sec:dataset} state the four contributions (commercially licensed video dataset at pre-training scale; characterization across clip-duration / caption / vocabulary axes; license-aware captioning infrastructure; caption design for video diffusion / multimodal LLMs). The experimental claims in the abstract (MTLD $75.6$, CLIP grounding $0.302$, $95\%$ fully-coherent rate, BLEU-4 $0.127$ / METEOR $0.390$) are the matching numbers reported in Tables~\ref{tab:caption_diversity}, \ref{tab:visual_grounding}, \ref{tab:clip_coherence}, and \ref{tab:caption_quality} on the 8{,}522-clip validation subset.
+
+\item {\bf Limitations}
+    \item[] Question: Does the paper discuss the limitations of the work performed by the authors?
+    \item[] Answer: \answerYes{}
+    \item[] Justification: Section~\ref{sec:limitations} summarizes eight limitation categories (legal scope, license stability, sparse $2\times 2$ frame sampling, validation-subset evaluation scale, hallucination rate, audio stripped at segmentation, holistic captions limiting fine-grained temporal grounding, demographic and linguistic skew); Appendix~\ref{app:limitations} expands each into a dedicated paragraph and discusses future-work mitigations.
+
+\item {\bf Theory assumptions and proofs}
+    \item[] Question: For each theoretical result, does the paper provide the full set of assumptions and a complete (and correct) proof?
+    \item[] Answer: \answerNA{}
+    \item[] Justification: The paper introduces a dataset and an empirical characterization; it does not include theoretical results or proofs.
+
+\item {\bf Experimental result reproducibility}
+    \item[] Question: Does the paper fully disclose all the information needed to reproduce the main experimental results of the paper to the extent that it affects the main claims and/or conclusions of the paper (regardless of whether the code and data are provided or not)?
+    \item[] Answer: \answerYes{}
+    \item[] Justification: Section~\ref{sec:infrastructure} and Appendix~\ref{app:infrastructure} fully describe the data collection pipeline (license filtering, PySceneDetect parameters, $2\times 2$ frame extraction, Qwen3-VL prompting, deduplication). Appendix~\ref{app:experiments} specifies for every experiment the model (CLIP ViT-B/32 \texttt{openai}-QuickGELU; Claude Haiku 4.5 / Sonnet 4.6 judges), prompt structure, sample sizes, frame-sampling protocol, and seed (\texttt{seed=42} throughout). The 8{,}522-clip validation subset, captioning code, evaluation scripts, and Croissant metadata are publicly released.
+
+\item {\bf Open access to data and code}
+    \item[] Question: Does the paper provide open access to the data and code, with sufficient instructions to faithfully reproduce the main experimental results, as described in supplemental material?
+    \item[] Answer: \answerYes{}
+    \item[] Justification: The 8K validation subset and full data-collection pipeline are released on the Hugging Face Hub; experiment scripts (\path{experiments/hallucination_judge/run.py}, \path{experiments/clip_coherence/run.py}, \path{experiments/videoqa_answerability/run.py}, \path{experiments/finetune_clip_adapter/}, \path{experiments/relabel/run.py}) are released alongside the paper, each deterministic at fixed seed and exposing sample-size flags. A Croissant 1.1 metadata file (\path{dataset.json}) with full RAI / provenance fields is included.
+
+\item {\bf Experimental setting/details}
+    \item[] Question: Does the paper specify all the training and test details (e.g., data splits, hyperparameters, how they were chosen, type of optimizer) necessary to understand the results?
+    \item[] Answer: \answerYes{}
+    \item[] Justification: Section~\ref{sec:experiments} and Appendix~\ref{app:experiments} report sample sizes per condition, judge model and visual context (3 frames begin/middle/end for hallucination, 2 frames first/last for coherence, 4-frame $2\times 2$ grid for captioning), CLIP backbone choice and middle-frame extraction protocol, MTLD threshold ($0.72$), TTR group size (100 captions), and the rank-8 InfoNCE adapter setup ($\approx 16{,}400$ parameters trained on 4{,}000 pre-computed pairs, evaluated on 1{,}000-pair held-out pool). The 8{,}522-clip validation subset is the data split used throughout.
+
+\item {\bf Experiment statistical significance}
+    \item[] Question: Does the paper report error bars suitably and correctly defined or other appropriate information about the statistical significance of the experiments?
+    \item[] Answer: \answerNo{}
+    \item[] Justification: Comparator samples are drawn at $N=15$--$30$ per dataset (limited by the cost of fetching matched clips from the OpenVid-1M HD shard and via \texttt{yt-dlp} for InternVid); we report point estimates rather than confidence intervals at this scale. To compensate, every evaluation script is deterministic at fixed \texttt{seed=42} and exposes \texttt{--sample-size-internvid} / \texttt{--sample-size-openvid} flags so readers can re-run any protocol at $N=50$ or $N=100$. Where length-normalized rates are the discriminating metric (e.g., claims/100-words in Table~\ref{tab:hallucination_rate}), we report both raw and normalized rates so the reader can judge mechanical-vs-substantive effects.
+
+\item {\bf Experiments compute resources}
+    \item[] Question: For each experiment, does the paper provide sufficient information on the computer resources (type of compute workers, memory, time of execution) needed to reproduce the experiments?
+    \item[] Answer: \answerYes{}
+    \item[] Justification: Section~\ref{sec:infrastructure} reports the full-corpus captioning workload at approximately 2.4M GPU-hours (Qwen3-VL 235B deployed via ScalarLM on Kubernetes with vLLM PagedAttention and Megatron-LM tensor/pipeline parallelism). The reproducibility-scale evaluation protocols (CLIP ViT-B/32 retrieval, frozen-encoder rank-8 adapter, VLM-as-judge) are designed to run on commodity hardware: Appendix~\ref{app:experiments} reports the adapter experiment runs end-to-end in $<\,15$ minutes on an Apple M2.
+
+\item {\bf Code of ethics}
+    \item[] Question: Does the research conducted in the paper conform, in every respect, with the NeurIPS Code of Ethics?
+    \item[] Answer: \answerYes{}
+    \item[] Justification: The authors have reviewed the NeurIPS Code of Ethics. Source videos were collected only from creators who explicitly elected a Creative Commons license for commercial reuse, the strongest available consent signal short of direct contact. Per-video provenance is retained alongside each clip for downstream auditability. The paper documents demographic skews (Appendix~\ref{app:diversity}), the interaction with YouTube's platform-level Terms of Service (Appendix~\ref{app:limitations}), and known dual-use risks in the broader-impact discussion below.
+
+\item {\bf Broader impacts}
+    \item[] Question: Does the paper discuss both potential positive societal impacts and negative societal impacts of the work performed?
+    \item[] Answer: \answerYes{}
+    \item[] Justification: Section~\ref{sec:conclusion} and the released Croissant metadata (\path{dataset.json}, \texttt{rai:dataSocialImpact}) discuss positive impacts (legal auditability lowering barriers to entry for smaller research groups; democratized access to commercially deployable training data; reduced exposure to copyright litigation) and negative impacts (potential for trained generative models to be misused for non-consensual imagery / deepfakes despite creators' CC consent; demographic and geographic skews of the CC-publishing creator population that may be amplified by downstream models; CC-BY attribution requirements that may shift compliance burden to deployers in legally untested ways). Appendix~\ref{app:limitations} outlines targeted-curation, license-monitoring, and audio-preservation mitigations.
+
+\item {\bf Safeguards}
+    \item[] Question: Does the paper describe safeguards that have been put in place for responsible release of data or models that have a high risk for misuse?
+    \item[] Answer: \answerYes{}
+    \item[] Justification: All source videos are creator-licensed CC-BY (consent signal); per-video license tags and metadata are preserved alongside each clip for auditability; the released scene segments do not contain audio (incidentally limiting voice-replay risk, though noted as a limitation for language-ID evaluation); the captioning pipeline records full provenance (\texttt{md5}(URL), captioning model, prompt version) so downstream caption issues can be traced and corrected (cf.\ the caption-pairing bug documented in Appendix~\ref{app:limitations}). No automated face de-identification or voice scrubbing is applied; downstream users responsible for compliance with privacy regulations (e.g., GDPR, CCPA) should perform their own redaction or filtering as required by their jurisdiction and use case.
+
+\item {\bf Licenses for existing assets}
+    \item[] Question: Are the creators or original owners of assets used in the paper properly credited and are the license and terms of use explicitly mentioned and properly respected?
+    \item[] Answer: \answerYes{}
+    \item[] Justification: Comparator datasets (InternVid~\cite{wang2024internvid}, OpenVid-1M~\cite{nan2024openvid}, Panda-70M~\cite{chen2024panda70m}, HowTo100M~\cite{miech2019howto100m}, MSR-VTT~\cite{xu2016msrvtt}, WebVid-10M~\cite{bain2021frozen}, IACC.3~\cite{awad2022iacc3}, ActivityNet~\cite{heilbron2015activitynet}, etc.) are cited with licenses surfaced in Table~\ref{tab:dataset_comparison}. Tools used: PySceneDetect~\cite{castellano2014pyscenedetect}, vLLM/PagedAttention~\cite{kwon2023efficient}, Megatron-LM~\cite{shoeybi2019megatron, narayanan2021efficient}, FFmpeg, CLIP ViT-B/32 (OpenAI), Qwen3-VL~\cite{qwen3vxl}, Claude Haiku 4.5 / Sonnet 4.6, Whisper-tiny. YouTube content is sourced via the YouTube Data API v3~\cite{internet_archive_api} restricted to creator-declared CC-BY 4.0 (or CC0 1.0) license tags; the platform-level Terms of Service interaction with per-video CC declarations is discussed in Appendix~\ref{app:limitations}.
+
+\item {\bf New assets}
+    \item[] Question: Are new assets introduced in the paper well documented and is the documentation provided alongside the assets?
+    \item[] Answer: \answerYes{}
+    \item[] Justification: The dataset is the new asset. It is documented by (a) this paper including Appendices~\ref{app:dataset}--\ref{app:limitations}; (b) a Croissant 1.1 JSON-LD metadata file (\path{dataset.json}) populating the full Responsible AI metadata fields (\texttt{rai:dataLimitations}, \texttt{rai:dataBiases}, \texttt{rai:personalSensitiveInformation}, \texttt{rai:dataUseCases}, \texttt{rai:dataSocialImpact}, \texttt{rai:hasSyntheticData}, \texttt{prov:wasGeneratedBy}); (c) per-video provenance metadata (source URL, channel ID, original description, upload date, view count, license tag at acquisition) preserved alongside each clip. Consent for inclusion is the creator's affirmative election of a Creative Commons license on YouTube.
+
+\item {\bf Crowdsourcing and research with human subjects}
+    \item[] Question: For crowdsourcing experiments and research with human subjects, does the paper include the full text of instructions given to participants and screenshots, if applicable, as well as details about compensation (if any)?
+    \item[] Answer: \answerNA{}
+    \item[] Justification: The paper does not involve crowdsourcing or research with human subjects. Source videos were already published by their creators on YouTube under Creative Commons licenses prior to and independent of this work. Internal human curators reviewed batches of candidate query results to filter low-quality uploads (Section~\ref{sec:dataset}); they are co-authors / contributors to the project, not external participants.
+
+\item {\bf Institutional review board (IRB) approvals or equivalent for research with human subjects}
+    \item[] Question: Does the paper describe potential risks incurred by study participants, whether such risks were disclosed to the subjects, and whether Institutional Review Board (IRB) approvals (or an equivalent approval/review based on the requirements of your country or institution) were obtained?
+    \item[] Answer: \answerNA{}
+    \item[] Justification: The paper does not involve research with human subjects. The dataset comprises previously-published Creative Commons content, not material generated through interaction with study participants.
+
+\item {\bf Declaration of LLM usage}
+    \item[] Question: Does the paper describe the usage of LLMs if it is an important, original, or non-standard component of the core methods in this research?
+    \item[] Answer: \answerYes{}
+    \item[] Justification: LLMs are core methodological components and are explicitly declared. (1) Caption generation: Qwen3-VL (235B parameters)~\cite{qwen3vxl} is the captioner used at full-corpus scale; the 8K validation subset distributed with this paper was captioned by Gemma-4-31B-it as a stand-in (see Section~\ref{sec:dataset} and Appendix~\ref{app:caption-generation}). (2) Evaluation judges: Claude Haiku 4.5 is the structured-output judge for hallucination (Table~\ref{tab:hallucination_rate}), within-clip coherence (Table~\ref{tab:clip_coherence}), and VideoQA match adjudication (Table~\ref{tab:videoqa}); Claude Sonnet 4.6 is the independent reference captioner for BLEU-4 / METEOR / ROUGE-L (Table~\ref{tab:caption_quality}). Neither judge family overlaps with any caption generator under test, so no dataset receives a self-evaluation advantage.
+
+\end{enumerate}
